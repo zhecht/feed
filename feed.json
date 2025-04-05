@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "64",
-        "batters": "148",
-        "pitches": "2060",
+        "pitchers": "65",
+        "batters": "150",
+        "pitches": "2062",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "70.3",
-        "ff%fourseam fastball %": "36.4",
+        "ff%fourseam fastball %": "36.5",
         "si%sinker %": "12.6",
         "fc%cutter %": "6.7",
         "fs%splitter %": "4.3",
@@ -13,22 +13,22 @@
         "sl%slider %": "22.2",
         "cu%curve %": "6.9",
         "max evmax exit velocity": "112.2",
-        "hhhard hit": "152",
-        "hh%hard hit %": "42.2",
+        "hhhard hit": "153",
+        "hh%hard hit %": "42.4",
         "brlbarrels": "27",
         "brl%barrel %": "7.5",
-        "ab": "468",
-        "avg": ".239",
+        "ab": "470",
+        "avg": ".238",
         "h": "112",
         "1b": "72",
         "2b": "25",
         "3b": "3",
         "hr": "12",
         "so": "113",
-        "bipballs in play": "360",
+        "bipballs in play": "361",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-04-05 19:17:20.024887"
+        "updated": "2025-04-05 19:17:30.411809"
     },
     "chw @ det": [
         {
@@ -7357,6 +7357,20 @@
     ],
     "tor @ nym": [
         {
+            "player": "andres gimenez",
+            "game": "tor @ nym",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-04-05 19:17:23",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "anthony santander",
             "game": "tor @ nym",
             "hr/park": "",
@@ -7457,7 +7471,22 @@
             "dist": "213"
         }
     ],
-    "mia @ atl": [],
+    "mia @ atl": [
+        {
+            "player": "xavier edwards",
+            "game": "mia @ atl",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-04-05 19:17:23",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "96.8",
+            "la": "16",
+            "dist": "278"
+        }
+    ],
     "ath @ col": [],
     "sea @ sf": [],
     "cle @ laa": []
