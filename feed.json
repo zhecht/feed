@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "44",
-        "batters": "128",
-        "pitches": "1687",
+        "pitchers": "45",
+        "batters": "129",
+        "pitches": "1692",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "70.8",
-        "ff%fourseam fastball %": "37.3",
-        "si%sinker %": "12.4",
+        "ff%fourseam fastball %": "37.2",
+        "si%sinker %": "12.6",
         "fc%cutter %": "7.0",
         "fs%splitter %": "4.2",
         "ch%changeup %": "11.2",
@@ -14,21 +14,21 @@
         "cu%curve %": "7.2",
         "max evmax exit velocity": "112.2",
         "hhhard hit": "131",
-        "hh%hard hit %": "44.6",
+        "hh%hard hit %": "44.4",
         "brlbarrels": "19",
-        "brl%barrel %": "6.5",
-        "ab": "384",
-        "avg": ".255",
+        "brl%barrel %": "6.4",
+        "ab": "386",
+        "avg": ".254",
         "h": "98",
         "1b": "63",
         "2b": "22",
         "3b": "2",
         "hr": "11",
-        "so": "94",
-        "bipballs in play": "294",
+        "so": "95",
+        "bipballs in play": "295",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-04-05 17:56:31.815698"
+        "updated": "2025-04-05 17:56:41.102745"
     },
     "chw @ det": [
         {
@@ -3960,6 +3960,20 @@
     ],
     "lad @ phi": [
         {
+            "player": "austin barnes",
+            "game": "lad @ phi",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-04-05 17:56:36",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "enrique hernandez",
             "game": "lad @ phi",
             "hr/park": "",
@@ -3968,7 +3982,7 @@
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
             "team": "lad",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4633,6 +4647,20 @@
         }
     ],
     "nyy @ pit": [
+        {
+            "player": "tommy pham",
+            "game": "nyy @ pit",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-04-05 17:56:36",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kebryan hayes",
             "game": "nyy @ pit",
@@ -5358,10 +5386,10 @@
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "78.2",
+            "la": "-7",
+            "dist": "19"
         },
         {
             "player": "michael massey",
