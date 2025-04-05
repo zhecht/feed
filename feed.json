@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "63",
-        "batters": "141",
-        "pitches": "2033",
+        "batters": "143",
+        "pitches": "2038",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "70.3",
-        "ff%fourseam fastball %": "36.2",
+        "ff%fourseam fastball %": "36.1",
         "si%sinker %": "12.7",
-        "fc%cutter %": "6.6",
+        "fc%cutter %": "6.7",
         "fs%splitter %": "4.3",
         "ch%changeup %": "10.7",
         "sl%slider %": "22.5",
         "cu%curve %": "7.0",
         "max evmax exit velocity": "112.2",
-        "hhhard hit": "149",
-        "hh%hard hit %": "41.9",
+        "hhhard hit": "151",
+        "hh%hard hit %": "42.2",
         "brlbarrels": "26",
         "brl%barrel %": "7.3",
-        "ab": "463",
-        "avg": ".238",
-        "h": "110",
-        "1b": "71",
+        "ab": "465",
+        "avg": ".239",
+        "h": "111",
+        "1b": "72",
         "2b": "25",
         "3b": "3",
         "hr": "11",
         "so": "112",
-        "bipballs in play": "356",
+        "bipballs in play": "358",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-05 19:13:46.455198"
+        "updated": "2025-04-05 19:13:56.313267"
     },
     "chw @ det": [
         {
@@ -7329,11 +7329,11 @@
     ],
     "tor @ nym": [
         {
-            "player": "bo bichette",
+            "player": "vladimir guerrero",
             "game": "tor @ nym",
             "hr/park": "",
-            "pa": "1",
-            "dt": "2025-04-05 19:11:20",
+            "pa": "2",
+            "dt": "2025-04-05 19:13:51",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "in": "1",
@@ -7341,9 +7341,37 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "bo bichette",
+            "game": "tor @ nym",
+            "hr/park": "0/30",
+            "pa": "1",
+            "dt": "2025-04-05 19:11:20",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "in": "1",
+            "result": "Flyout",
+            "evo": "95.6",
+            "la": "32",
+            "dist": "334"
         }
     ],
     "cin @ mil": [
+        {
+            "player": "santiago espinal",
+            "game": "cin @ mil",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-04-05 19:13:51",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "in": "1",
+            "result": "Caught Stealing 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "tj friedl",
             "game": "cin @ mil",
@@ -7353,10 +7381,10 @@
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
             "team": "cin",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "101.0",
+            "la": "10",
+            "dist": "213"
         }
     ],
     "mia @ atl": [],
