@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "65",
-        "batters": "150",
-        "pitches": "2062",
+        "batters": "151",
+        "pitches": "2065",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "70.3",
         "ff%fourseam fastball %": "36.5",
-        "si%sinker %": "12.6",
+        "si%sinker %": "12.5",
         "fc%cutter %": "6.7",
-        "fs%splitter %": "4.3",
+        "fs%splitter %": "4.4",
         "ch%changeup %": "10.8",
         "sl%slider %": "22.2",
         "cu%curve %": "6.9",
         "max evmax exit velocity": "112.2",
-        "hhhard hit": "153",
+        "hhhard hit": "154",
         "hh%hard hit %": "42.4",
         "brlbarrels": "27",
-        "brl%barrel %": "7.5",
-        "ab": "470",
-        "avg": ".238",
-        "h": "112",
-        "1b": "72",
-        "2b": "25",
+        "brl%barrel %": "7.4",
+        "ab": "471",
+        "avg": ".242",
+        "h": "114",
+        "1b": "73",
+        "2b": "26",
         "3b": "3",
         "hr": "12",
         "so": "113",
-        "bipballs in play": "361",
+        "bipballs in play": "363",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-04-05 19:17:40.645245"
+        "updated": "2025-04-05 19:17:50.947570"
     },
     "chw @ det": [
         {
@@ -7271,6 +7271,20 @@
     "stl @ bos": [],
     "tb @ tex": [
         {
+            "player": "wyatt langford",
+            "game": "tb @ tex",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-04-05 19:17:50",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "corey seager",
             "game": "tb @ tex",
             "hr/park": "",
@@ -7279,10 +7293,10 @@
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "59.3",
+            "la": "-52",
+            "dist": "4"
         },
         {
             "player": "marcus semien",
@@ -7365,10 +7379,10 @@
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "104.5",
+            "la": "-6",
+            "dist": "22"
         },
         {
             "player": "anthony santander",
@@ -7481,7 +7495,7 @@
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
             "team": "mia",
             "in": "1",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "96.8",
             "la": "16",
             "dist": "278"
