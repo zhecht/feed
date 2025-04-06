@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "25",
+        "pitchers": "26",
         "batters": "192",
-        "pitches": "1335",
+        "pitches": "1338",
         "max velomax pitch velocity": "97.7",
         "min velomin pitch velocity": "70.1",
         "ff%fourseam fastball %": "30.5",
-        "si%sinker %": "15.7",
+        "si%sinker %": "15.8",
         "fc%cutter %": "12.0",
         "fs%splitter %": "1.2",
         "ch%changeup %": "11.9",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.2",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "91",
-        "hh%hard hit %": "39.4",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "7",
         "brl%barrel %": "3.0",
-        "ab": "279",
-        "avg": ".294",
+        "ab": "280",
+        "avg": ".293",
         "h": "82",
         "1b": "61",
         "2b": "13",
         "3b": "4",
         "hr": "4",
         "so": "68",
-        "bipballs in play": "231",
+        "bipballs in play": "232",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-04-06 15:01:16.005698"
+        "updated": "2025-04-06 15:01:25.843397"
     },
     "ari @ wsh": [
         {
@@ -1171,6 +1171,20 @@
     ],
     "nyy @ pit": [
         {
+            "player": "bryan reynolds",
+            "game": "nyy @ pit",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-04-06 15:01:19",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cody bellinger",
             "game": "nyy @ pit",
             "hr/park": "",
@@ -1718,6 +1732,20 @@
         }
     ],
     "tor @ nym": [
+        {
+            "player": "andres gimenez",
+            "game": "tor @ nym",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-04-06 15:01:19",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "in": "5",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "anthony santander",
             "game": "tor @ nym",
@@ -3597,7 +3625,7 @@
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
             "team": "mil",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "108.3",
             "la": "-2",
             "dist": "28"
