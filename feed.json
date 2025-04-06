@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "125",
         "batters": "277",
-        "pitches": "4016",
+        "pitches": "4020",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "69.9",
         "ff%fourseam fastball %": "32.9",
@@ -14,10 +14,10 @@
         "cu%curve %": "6.4",
         "max evmax exit velocity": "116.1",
         "hhhard hit": "274",
-        "hh%hard hit %": "40.1",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "32",
         "brl%barrel %": "4.7",
-        "ab": "882",
+        "ab": "883",
         "avg": ".247",
         "h": "218",
         "1b": "151",
@@ -25,10 +25,10 @@
         "3b": "6",
         "hr": "20",
         "so": "240",
-        "bipballs in play": "684",
+        "bipballs in play": "685",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-04-06 17:37:31.103513"
+        "updated": "2025-04-06 17:37:44.303853"
     },
     "ari @ wsh": [
         {
@@ -6395,7 +6395,7 @@
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
             "team": "hou",
             "in": "10",
-            "result": "Stolen Base 2B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10847,15 +10847,29 @@
     ],
     "ath @ col": [
         {
-            "player": "jhonny pereda",
+            "player": "max muncy",
             "game": "ath @ col",
             "hr/park": "",
+            "pa": "78",
+            "dt": "2025-04-06 17:37:35",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jhonny pereda",
+            "game": "ath @ col",
+            "hr/park": "0/30",
             "pa": "77",
             "dt": "2025-04-06 17:36:49",
             "img": "https://www.mlbstatic.com/team-logos/133.svg",
             "team": "ath",
             "in": "9",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "87.8",
             "la": "31",
             "dist": "321"
