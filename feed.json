@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "24",
         "batters": "192",
-        "pitches": "1309",
+        "pitches": "1311",
         "max velomax pitch velocity": "97.7",
         "min velomin pitch velocity": "70.1",
-        "ff%fourseam fastball %": "30.6",
-        "si%sinker %": "15.4",
+        "ff%fourseam fastball %": "30.5",
+        "si%sinker %": "15.3",
         "fc%cutter %": "12.2",
         "fs%splitter %": "1.2",
         "ch%changeup %": "11.8",
-        "sl%slider %": "19.5",
-        "cu%curve %": "9.2",
+        "sl%slider %": "19.6",
+        "cu%curve %": "9.3",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "86",
         "hh%hard hit %": "38.2",
         "brlbarrels": "7",
         "brl%barrel %": "3.1",
-        "ab": "274",
-        "avg": ".292",
+        "ab": "275",
+        "avg": ".291",
         "h": "80",
         "1b": "59",
         "2b": "13",
@@ -28,7 +28,7 @@
         "bipballs in play": "225",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-04-06 14:59:26.949500"
+        "updated": "2025-04-06 14:59:37.159386"
     },
     "ari @ wsh": [
         {
@@ -1699,7 +1699,7 @@
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2801,9 +2801,23 @@
     ],
     "bal @ kc": [
         {
-            "player": "michael massey",
+            "player": "hunter renfroe",
             "game": "bal @ kc",
             "hr/park": "",
+            "pa": "28",
+            "dt": "2025-04-06 14:59:32",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "michael massey",
+            "game": "bal @ kc",
+            "hr/park": "0/30",
             "pa": "27",
             "dt": "2025-04-06 14:59:02",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
