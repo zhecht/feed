@@ -1,9 +1,9 @@
 {
     "all": {
-        "pitchers": "79",
-        "batters": "237",
-        "pitches": "2851",
-        "max velomax pitch velocity": "99.0",
+        "pitchers": "78",
+        "batters": "239",
+        "pitches": "2857",
+        "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "69.9",
         "ff%fourseam fastball %": "33.1",
         "si%sinker %": "14.7",
@@ -14,7 +14,7 @@
         "cu%curve %": "8.0",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "203",
-        "hh%hard hit %": "41.1",
+        "hh%hard hit %": "41.0",
         "brlbarrels": "19",
         "brl%barrel %": "3.8",
         "ab": "617",
@@ -24,11 +24,11 @@
         "2b": "30",
         "3b": "6",
         "hr": "12",
-        "so": "153",
-        "bipballs in play": "494",
+        "so": "154",
+        "bipballs in play": "495",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-04-06 16:13:55.580510"
+        "updated": "2025-04-06 16:14:10.382422"
     },
     "ari @ wsh": [
         {
@@ -3029,7 +3029,7 @@
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "in": "9",
-            "result": "Forceout",
+            "result": "In Progress",
             "evo": "84.7",
             "la": "-2",
             "dist": "31"
@@ -6635,7 +6635,7 @@
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
             "team": "cin",
             "in": "7",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "62.1",
             "la": "-13",
             "dist": "10"
@@ -7365,7 +7365,7 @@
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
             "team": "chc",
             "in": "5",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "70.3",
             "la": "-25",
             "dist": "6"
@@ -8685,7 +8685,7 @@
             "img": "https://www.mlbstatic.com/team-logos/133.svg",
             "team": "ath",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9182,6 +9182,34 @@
         }
     ],
     "sea @ sf": [
+        {
+            "player": "rowdy tellez",
+            "game": "sea @ sf",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-04-06 16:14:03",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "luke raley",
+            "game": "sea @ sf",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-04-06 16:13:34",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "in": "1",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "randy arozarena",
             "game": "sea @ sf",
