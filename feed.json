@@ -1,26 +1,26 @@
 {
     "all": {
         "pitchers": "12",
-        "batters": "90",
-        "pitches": "369",
+        "batters": "91",
+        "pitches": "372",
         "max velomax pitch velocity": "97.7",
-        "min velomin pitch velocity": "73.3",
-        "ff%fourseam fastball %": "30.4",
-        "si%sinker %": "21.4",
-        "fc%cutter %": "10.6",
+        "min velomin pitch velocity": "71.9",
+        "ff%fourseam fastball %": "30.6",
+        "si%sinker %": "21.2",
+        "fc%cutter %": "10.5",
         "fs%splitter %": "1.1",
-        "ch%changeup %": "11.7",
-        "sl%slider %": "17.9",
-        "cu%curve %": "7.0",
+        "ch%changeup %": "11.6",
+        "sl%slider %": "17.7",
+        "cu%curve %": "7.3",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "26",
         "hh%hard hit %": "44.8",
         "brlbarrels": "0",
         "brl%barrel %": "0.0",
         "ab": "78",
-        "avg": ".244",
-        "h": "19",
-        "1b": "14",
+        "avg": ".256",
+        "h": "20",
+        "1b": "15",
         "2b": "2",
         "3b": "1",
         "hr": "2",
@@ -28,7 +28,7 @@
         "bipballs in play": "58",
         "liveGames": 7,
         "totGames": 16,
-        "updated": "2025-04-06 14:08:30.145038"
+        "updated": "2025-04-06 14:08:46.690853"
     },
     "ari @ wsh": [
         {
@@ -267,7 +267,7 @@
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "in": "2",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "73.1",
             "la": "-58",
             "dist": "2"
@@ -683,6 +683,20 @@
     ],
     "tor @ nym": [
         {
+            "player": "mark vientos",
+            "game": "tor @ nym",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-04-06 14:08:36",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "in": "2",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jesse winker",
             "game": "tor @ nym",
             "hr/park": "",
@@ -869,7 +883,7 @@
         {
             "player": "kerry carpenter",
             "game": "chw @ det",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "15",
             "dt": "2025-04-06 14:07:02",
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
