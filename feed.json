@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "24",
         "batters": "192",
-        "pitches": "1304",
+        "pitches": "1309",
         "max velomax pitch velocity": "97.7",
         "min velomin pitch velocity": "70.1",
         "ff%fourseam fastball %": "30.6",
         "si%sinker %": "15.4",
-        "fc%cutter %": "12.3",
+        "fc%cutter %": "12.2",
         "fs%splitter %": "1.2",
-        "ch%changeup %": "11.9",
-        "sl%slider %": "19.3",
-        "cu%curve %": "9.3",
+        "ch%changeup %": "11.8",
+        "sl%slider %": "19.5",
+        "cu%curve %": "9.2",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "86",
         "hh%hard hit %": "38.2",
         "brlbarrels": "7",
         "brl%barrel %": "3.1",
-        "ab": "275",
-        "avg": ".291",
+        "ab": "274",
+        "avg": ".292",
         "h": "80",
         "1b": "59",
         "2b": "13",
@@ -28,7 +28,7 @@
         "bipballs in play": "225",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-04-06 14:59:09.058795"
+        "updated": "2025-04-06 14:59:26.949500"
     },
     "ari @ wsh": [
         {
@@ -40,7 +40,7 @@
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3189,7 +3189,7 @@
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3505,6 +3505,20 @@
     ],
     "cin @ mil": [
         {
+            "player": "christian yelich",
+            "game": "cin @ mil",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-04-06 14:59:17",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jackson chourio",
             "game": "cin @ mil",
             "hr/park": "1/30",
@@ -3513,7 +3527,7 @@
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
             "team": "mil",
             "in": "3",
-            "result": "In Progress",
+            "result": "Sac Fly",
             "evo": "93.2",
             "la": "33",
             "dist": "322"
