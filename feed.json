@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "68",
-        "batters": "206",
-        "pitches": "2405",
+        "batters": "207",
+        "pitches": "2409",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.7",
         "ff%fourseam fastball %": "36.3",
@@ -11,24 +11,24 @@
         "fs%splitter %": "5.5",
         "ch%changeup %": "10.0",
         "sl%slider %": "21.2",
-        "cu%curve %": "7.4",
+        "cu%curve %": "7.3",
         "max evmax exit velocity": "113.0",
-        "hhhard hit": "180",
+        "hhhard hit": "181",
         "hh%hard hit %": "43.3",
-        "brlbarrels": "35",
-        "brl%barrel %": "8.4",
-        "ab": "550",
-        "avg": ".245",
-        "h": "135",
-        "1b": "83",
+        "brlbarrels": "36",
+        "brl%barrel %": "8.6",
+        "ab": "553",
+        "avg": ".248",
+        "h": "137",
+        "1b": "84",
         "2b": "32",
         "3b": "3",
-        "hr": "17",
+        "hr": "18",
         "so": "139",
-        "bipballs in play": "416",
+        "bipballs in play": "418",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-04-05 20:02:04.077148"
+        "updated": "2025-04-05 20:02:15.568584"
     },
     "chw @ det": [
         {
@@ -7679,6 +7679,20 @@
     ],
     "tor @ nym": [
         {
+            "player": "francisco lindor",
+            "game": "tor @ nym",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-04-05 20:02:07",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "hayden senger",
             "game": "tor @ nym",
             "hr/park": "",
@@ -7991,16 +8005,16 @@
         {
             "player": "christian encarnacion strand",
             "game": "cin @ mil",
-            "hr/park": "",
+            "hr/park": "30/30",
             "pa": "28",
             "dt": "2025-04-05 20:01:36",
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
             "team": "cin",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "111.4",
+            "la": "29",
+            "dist": "451"
         },
         {
             "player": "william contreras",
@@ -8382,6 +8396,34 @@
         }
     ],
     "mia @ atl": [
+        {
+            "player": "michael harris",
+            "game": "mia @ atl",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-04-05 20:02:07",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jarred kelenic",
+            "game": "mia @ atl",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-04-05 20:02:07",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "in": "3",
+            "result": "Single",
+            "evo": "89.0",
+            "la": "14",
+            "dist": "224"
+        },
         {
             "player": "nick allen",
             "game": "mia @ atl",
