@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "68",
         "batters": "227",
-        "pitches": "2641",
+        "pitches": "2655",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "69.9",
         "ff%fourseam fastball %": "33.3",
         "si%sinker %": "14.4",
-        "fc%cutter %": "10.6",
-        "fs%splitter %": "1.9",
+        "fc%cutter %": "10.5",
+        "fs%splitter %": "2.0",
         "ch%changeup %": "11.0",
         "sl%slider %": "20.4",
-        "cu%curve %": "8.3",
+        "cu%curve %": "8.4",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "187",
-        "hh%hard hit %": "41.1",
+        "hh%hard hit %": "40.8",
         "brlbarrels": "18",
-        "brl%barrel %": "4.0",
-        "ab": "573",
-        "avg": ".267",
-        "h": "153",
-        "1b": "109",
+        "brl%barrel %": "3.9",
+        "ab": "577",
+        "avg": ".269",
+        "h": "155",
+        "1b": "111",
         "2b": "27",
         "3b": "6",
         "hr": "11",
         "so": "145",
-        "bipballs in play": "455",
+        "bipballs in play": "458",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-04-06 16:05:13.533775"
+        "updated": "2025-04-06 16:05:28.428365"
     },
     "ari @ wsh": [
         {
@@ -1949,7 +1949,7 @@
             "img": "https://www.mlbstatic.com/team-logos/147.svg",
             "team": "nyy",
             "in": "9",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2881,6 +2881,20 @@
     ],
     "tor @ nym": [
         {
+            "player": "mark vientos",
+            "game": "tor @ nym",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-04-06 16:05:18",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "starling marte",
             "game": "tor @ nym",
             "hr/park": "",
@@ -3792,6 +3806,20 @@
         }
     ],
     "chw @ det": [
+        {
+            "player": "javier baez",
+            "game": "chw @ det",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-04-06 16:05:18",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "in": "9",
+            "result": "Single",
+            "evo": "94.2",
+            "la": "8",
+            "dist": "137"
+        },
         {
             "player": "brooks baldwin",
             "game": "chw @ det",
@@ -5519,6 +5547,20 @@
     ],
     "hou @ min": [
         {
+            "player": "carlos correa",
+            "game": "hou @ min",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-04-06 16:05:18",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "matt wallner",
             "game": "hou @ min",
             "hr/park": "",
@@ -5527,7 +5569,7 @@
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "in": "5",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8154,9 +8196,9 @@
             "team": "ath",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "62.4",
+            "la": "-23",
+            "dist": "7"
         },
         {
             "player": "tyler soderstrom",
