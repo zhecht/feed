@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "116",
         "batters": "275",
-        "pitches": "3802",
+        "pitches": "3804",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "69.9",
         "ff%fourseam fastball %": "33.3",
@@ -10,7 +10,7 @@
         "fc%cutter %": "10.4",
         "fs%splitter %": "2.2",
         "ch%changeup %": "10.3",
-        "sl%slider %": "22.1",
+        "sl%slider %": "22.2",
         "cu%curve %": "6.6",
         "max evmax exit velocity": "116.1",
         "hhhard hit": "260",
@@ -25,10 +25,10 @@
         "3b": "6",
         "hr": "19",
         "so": "226",
-        "bipballs in play": "641",
+        "bipballs in play": "640",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-04-06 17:14:26.809089"
+        "updated": "2025-04-06 17:14:40.109126"
     },
     "ari @ wsh": [
         {
@@ -9515,6 +9515,20 @@
     ],
     "tb @ tex": [
         {
+            "player": "jake mangum",
+            "game": "tb @ tex",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-04-06 17:14:33",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose caballero",
             "game": "tb @ tex",
             "hr/park": "",
@@ -9523,7 +9537,7 @@
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "in": "9",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11311,20 +11325,6 @@
     ],
     "sea @ sf": [
         {
-            "player": "cal raleigh",
-            "game": "sea @ sf",
-            "hr/park": "",
-            "pa": "38",
-            "dt": "2025-04-06 17:14:17",
-            "img": "https://www.mlbstatic.com/team-logos/136.svg",
-            "team": "sea",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "julio rodriguez",
             "game": "sea @ sf",
             "hr/park": "",
@@ -11845,20 +11845,6 @@
     ],
     "cle @ laa": [
         {
-            "player": "brayan rocchio",
-            "game": "cle @ laa",
-            "hr/park": "",
-            "pa": "36",
-            "dt": "2025-04-06 17:14:17",
-            "img": "https://www.mlbstatic.com/team-logos/114.svg",
-            "team": "cle",
-            "in": "5",
-            "result": "Hit By Pitch",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "austin hedges",
             "game": "cle @ laa",
             "hr/park": "",
@@ -11867,7 +11853,7 @@
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
             "team": "cle",
             "in": "5",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
