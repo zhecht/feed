@@ -1,15 +1,15 @@
 {
     "all": {
-        "pitchers": "63",
+        "pitchers": "64",
         "batters": "226",
-        "pitches": "2481",
+        "pitches": "2491",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "69.9",
-        "ff%fourseam fastball %": "33.9",
-        "si%sinker %": "13.7",
+        "ff%fourseam fastball %": "34.0",
+        "si%sinker %": "13.8",
         "fc%cutter %": "11.0",
-        "fs%splitter %": "1.7",
-        "ch%changeup %": "11.2",
+        "fs%splitter %": "1.8",
+        "ch%changeup %": "11.1",
         "sl%slider %": "20.0",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "115.8",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "41.3",
         "brlbarrels": "18",
         "brl%barrel %": "4.1",
-        "ab": "546",
-        "avg": ".267",
+        "ab": "549",
+        "avg": ".266",
         "h": "146",
         "1b": "104",
         "2b": "26",
@@ -28,9 +28,23 @@
         "bipballs in play": "438",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-04-06 15:57:57.892688"
+        "updated": "2025-04-06 15:58:11.222683"
     },
     "ari @ wsh": [
+        {
+            "player": "lourdes gurriel",
+            "game": "ari @ wsh",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-04-06 15:58:02",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "josh naylor",
             "game": "ari @ wsh",
@@ -3611,6 +3625,20 @@
     ],
     "chw @ det": [
         {
+            "player": "matt thaiss",
+            "game": "chw @ det",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-04-06 15:58:02",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andrew vaughn",
             "game": "chw @ det",
             "hr/park": "",
@@ -3619,7 +3647,7 @@
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
             "team": "chw",
             "in": "9",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "99.6",
             "la": "-20",
             "dist": "5"
@@ -4508,6 +4536,20 @@
         }
     ],
     "bal @ kc": [
+        {
+            "player": "ramon urias",
+            "game": "bal @ kc",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-04-06 15:57:03",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "gary sanchez",
             "game": "bal @ kc",
@@ -6609,7 +6651,7 @@
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
             "team": "sd",
             "in": "5",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "92.4",
             "la": "50",
             "dist": "200"
