@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "76",
-        "batters": "236",
-        "pitches": "2820",
+        "pitchers": "78",
+        "batters": "237",
+        "pitches": "2833",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "69.9",
-        "ff%fourseam fastball %": "33.2",
+        "ff%fourseam fastball %": "33.3",
         "si%sinker %": "14.6",
-        "fc%cutter %": "10.5",
+        "fc%cutter %": "10.6",
         "fs%splitter %": "1.9",
-        "ch%changeup %": "10.9",
-        "sl%slider %": "20.7",
+        "ch%changeup %": "10.8",
+        "sl%slider %": "20.6",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "202",
-        "hh%hard hit %": "41.4",
+        "hh%hard hit %": "41.3",
         "brlbarrels": "19",
         "brl%barrel %": "3.9",
-        "ab": "611",
+        "ab": "613",
         "avg": ".268",
         "h": "164",
         "1b": "116",
         "2b": "30",
         "3b": "6",
         "hr": "12",
-        "so": "151",
-        "bipballs in play": "488",
+        "so": "152",
+        "bipballs in play": "489",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-04-06 16:12:59.330951"
+        "updated": "2025-04-06 16:13:13.179878"
     },
     "ari @ wsh": [
         {
@@ -2038,6 +2038,20 @@
         }
     ],
     "nyy @ pit": [
+        {
+            "player": "paul goldschmidt",
+            "game": "nyy @ pit",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-04-06 16:13:04",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "trent grisham",
             "game": "nyy @ pit",
@@ -4985,6 +4999,20 @@
     ],
     "bal @ kc": [
         {
+            "player": "heston kjerstad",
+            "game": "bal @ kc",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-04-06 16:13:04",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mark canha",
             "game": "bal @ kc",
             "hr/park": "",
@@ -7315,6 +7343,20 @@
     ],
     "sd @ chc": [
         {
+            "player": "dansby swanson",
+            "game": "sd @ chc",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-04-06 16:13:04",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "justin turner",
             "game": "sd @ chc",
             "hr/park": "",
@@ -7323,10 +7365,10 @@
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
             "team": "chc",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "91.5",
+            "la": "-7",
+            "dist": "16"
         },
         {
             "player": "manny machado",
@@ -9107,7 +9149,7 @@
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9165,7 +9207,7 @@
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
             "team": "cle",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
