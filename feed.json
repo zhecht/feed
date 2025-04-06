@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "22",
         "batters": "172",
-        "pitches": "1009",
+        "pitches": "1012",
         "max velomax pitch velocity": "97.7",
         "min velomin pitch velocity": "70.1",
-        "ff%fourseam fastball %": "32.7",
-        "si%sinker %": "14.8",
-        "fc%cutter %": "12.6",
+        "ff%fourseam fastball %": "32.8",
+        "si%sinker %": "14.5",
+        "fc%cutter %": "12.7",
         "fs%splitter %": "1.4",
-        "ch%changeup %": "11.3",
+        "ch%changeup %": "11.4",
         "sl%slider %": "17.4",
         "cu%curve %": "9.8",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "69",
-        "hh%hard hit %": "41.3",
+        "hhhard hit": "68",
+        "hh%hard hit %": "41.0",
         "brlbarrels": "5",
         "brl%barrel %": "3.0",
-        "ab": "211",
-        "avg": ".280",
+        "ab": "209",
+        "avg": ".282",
         "h": "59",
         "1b": "46",
         "2b": "7",
         "3b": "3",
         "hr": "3",
         "so": "53",
-        "bipballs in play": "167",
+        "bipballs in play": "166",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-04-06 14:44:40.859532"
+        "updated": "2025-04-06 14:44:50.022031"
     },
     "ari @ wsh": [
         {
@@ -933,20 +933,6 @@
     ],
     "nyy @ pit": [
         {
-            "player": "andrew mccutchen",
-            "game": "nyy @ pit",
-            "hr/park": "",
-            "pa": "30",
-            "dt": "2025-04-06 14:44:31",
-            "img": "https://www.mlbstatic.com/team-logos/134.svg",
-            "team": "pit",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "100.4",
-            "la": "-8",
-            "dist": "15"
-        },
-        {
             "player": "jasson dominguez",
             "game": "nyy @ pit",
             "hr/park": "",
@@ -1354,6 +1340,20 @@
         }
     ],
     "tor @ nym": [
+        {
+            "player": "jose siri",
+            "game": "tor @ nym",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-04-06 14:44:47",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brett baty",
             "game": "tor @ nym",
@@ -2277,7 +2277,7 @@
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "in": "2",
-            "result": "In Progress",
+            "result": "Wild Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2531,7 +2531,7 @@
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
             "team": "hou",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2757,7 +2757,7 @@
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
             "team": "cin",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
