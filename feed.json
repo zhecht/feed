@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "104",
+        "pitchers": "105",
         "batters": "272",
-        "pitches": "3542",
+        "pitches": "3550",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "69.9",
-        "ff%fourseam fastball %": "32.9",
+        "ff%fourseam fastball %": "33.0",
         "si%sinker %": "15.5",
         "fc%cutter %": "10.6",
         "fs%splitter %": "2.3",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.7",
         "cu%curve %": "6.9",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "244",
-        "hh%hard hit %": "40.9",
+        "hhhard hit": "245",
+        "hh%hard hit %": "41.0",
         "brlbarrels": "26",
         "brl%barrel %": "4.4",
-        "ab": "771",
+        "ab": "773",
         "avg": ".245",
         "h": "189",
         "1b": "129",
         "2b": "37",
         "3b": "6",
         "hr": "17",
-        "so": "206",
-        "bipballs in play": "596",
+        "so": "207",
+        "bipballs in play": "597",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-04-06 16:52:51.225039"
+        "updated": "2025-04-06 16:53:03.372719"
     },
     "ari @ wsh": [
         {
@@ -2220,6 +2220,20 @@
         }
     ],
     "nyy @ pit": [
+        {
+            "player": "enmanuel valdez",
+            "game": "nyy @ pit",
+            "hr/park": "",
+            "pa": "87",
+            "dt": "2025-04-06 16:53:03",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "in": "11",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "trent grisham",
             "game": "nyy @ pit",
@@ -8183,6 +8197,20 @@
     ],
     "sd @ chc": [
         {
+            "player": "dansby swanson",
+            "game": "sd @ chc",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-04-06 16:53:03",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "justin turner",
             "game": "sd @ chc",
             "hr/park": "",
@@ -8191,7 +8219,7 @@
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
             "team": "chc",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10745,10 +10773,10 @@
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "104.7",
+            "la": "2",
+            "dist": "61"
         },
         {
             "player": "lamonte wade",
