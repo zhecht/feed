@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "107",
         "batters": "272",
-        "pitches": "3620",
+        "pitches": "3629",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "69.9",
-        "ff%fourseam fastball %": "33.1",
-        "si%sinker %": "15.5",
-        "fc%cutter %": "10.4",
+        "ff%fourseam fastball %": "33.0",
+        "si%sinker %": "15.3",
+        "fc%cutter %": "10.6",
         "fs%splitter %": "2.3",
-        "ch%changeup %": "9.9",
+        "ch%changeup %": "10.1",
         "sl%slider %": "21.7",
         "cu%curve %": "6.9",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "248",
-        "hh%hard hit %": "40.9",
+        "hh%hard hit %": "40.7",
         "brlbarrels": "27",
         "brl%barrel %": "4.4",
-        "ab": "785",
-        "avg": ".243",
+        "ab": "788",
+        "avg": ".242",
         "h": "191",
         "1b": "130",
         "2b": "38",
         "3b": "6",
         "hr": "17",
-        "so": "212",
-        "bipballs in play": "607",
+        "so": "213",
+        "bipballs in play": "609",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-04-06 16:58:35.412623"
+        "updated": "2025-04-06 16:58:47.951288"
     },
     "ari @ wsh": [
         {
@@ -2229,7 +2229,7 @@
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
             "team": "pit",
             "in": "11",
-            "result": "Stolen Base 3B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8261,10 +8261,10 @@
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
             "team": "sd",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "81.0",
+            "la": "36",
+            "dist": "294"
         },
         {
             "player": "jackson merrill",
@@ -10091,6 +10091,34 @@
     ],
     "ath @ col": [
         {
+            "player": "hunter goodman",
+            "game": "ath @ col",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-04-06 16:58:47",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "ryan mcmahon",
+            "game": "ath @ col",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-04-06 16:58:47",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "79.7",
+            "la": "6",
+            "dist": "67"
+        },
+        {
             "player": "lawrence butler",
             "game": "ath @ col",
             "hr/park": "",
@@ -11285,6 +11313,20 @@
     ],
     "cle @ laa": [
         {
+            "player": "lane thomas",
+            "game": "cle @ laa",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-04-06 16:58:47",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "carlos santana",
             "game": "cle @ laa",
             "hr/park": "",
@@ -11293,7 +11335,7 @@
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
             "team": "cle",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
