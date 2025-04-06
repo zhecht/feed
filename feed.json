@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "15",
-        "batters": "112",
-        "pitches": "521",
+        "batters": "113",
+        "pitches": "523",
         "max velomax pitch velocity": "97.7",
         "min velomin pitch velocity": "71.9",
-        "ff%fourseam fastball %": "29.9",
-        "si%sinker %": "18.0",
-        "fc%cutter %": "13.4",
-        "fs%splitter %": "1.2",
-        "ch%changeup %": "12.7",
-        "sl%slider %": "16.1",
-        "cu%curve %": "8.6",
+        "ff%fourseam fastball %": "30.0",
+        "si%sinker %": "18.2",
+        "fc%cutter %": "13.2",
+        "fs%splitter %": "1.1",
+        "ch%changeup %": "12.4",
+        "sl%slider %": "16.3",
+        "cu%curve %": "8.8",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "33",
-        "hh%hard hit %": "41.3",
-        "brlbarrels": "0",
-        "brl%barrel %": "0.0",
-        "ab": "110",
-        "avg": ".264",
+        "hhhard hit": "34",
+        "hh%hard hit %": "41.5",
+        "brlbarrels": "1",
+        "brl%barrel %": "1.2",
+        "ab": "112",
+        "avg": ".259",
         "h": "29",
         "1b": "23",
         "2b": "3",
         "3b": "1",
         "hr": "2",
         "so": "33",
-        "bipballs in play": "80",
+        "bipballs in play": "82",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-04-06 14:18:10.494541"
+        "updated": "2025-04-06 14:18:18.802260"
     },
     "ari @ wsh": [
         {
@@ -597,6 +597,20 @@
     ],
     "nyy @ pit": [
         {
+            "player": "tommy pham",
+            "game": "nyy @ pit",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-04-06 14:18:17",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "aaron judge",
             "game": "nyy @ pit",
             "hr/park": "",
@@ -853,16 +867,16 @@
         {
             "player": "vladimir guerrero",
             "game": "tor @ nym",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "19",
             "dt": "2025-04-06 14:17:48",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "102.3",
+            "la": "36",
+            "dist": "350"
         },
         {
             "player": "bo bichette",
@@ -1127,10 +1141,10 @@
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
             "team": "chw",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "91.3",
+            "la": "34",
+            "dist": "312"
         },
         {
             "player": "luis robert",
@@ -1401,6 +1415,20 @@
     ],
     "bal @ kc": [
         {
+            "player": "tyler oneill",
+            "game": "bal @ kc",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-04-06 14:17:48",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jordan westburg",
             "game": "bal @ kc",
             "hr/park": "",
@@ -1444,20 +1472,6 @@
         }
     ],
     "hou @ min": [
-        {
-            "player": "jeremy pena",
-            "game": "hou @ min",
-            "hr/park": "",
-            "pa": "5",
-            "dt": "2025-04-06 14:18:02",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "christian walker",
             "game": "hou @ min",
