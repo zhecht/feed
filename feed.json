@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "42",
-        "batters": "217",
-        "pitches": "2005",
+        "batters": "218",
+        "pitches": "2015",
         "max velomax pitch velocity": "98.4",
         "min velomin pitch velocity": "69.9",
-        "ff%fourseam fastball %": "34.0",
-        "si%sinker %": "14.7",
-        "fc%cutter %": "11.3",
+        "ff%fourseam fastball %": "34.1",
+        "si%sinker %": "14.6",
+        "fc%cutter %": "11.4",
         "fs%splitter %": "1.4",
         "ch%changeup %": "10.6",
-        "sl%slider %": "19.4",
-        "cu%curve %": "8.4",
+        "sl%slider %": "19.3",
+        "cu%curve %": "8.3",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "144",
+        "hhhard hit": "145",
         "hh%hard hit %": "41.4",
         "brlbarrels": "13",
         "brl%barrel %": "3.7",
-        "ab": "435",
-        "avg": ".276",
+        "ab": "440",
+        "avg": ".273",
         "h": "120",
         "1b": "89",
         "2b": "19",
         "3b": "4",
         "hr": "8",
         "so": "110",
-        "bipballs in play": "348",
+        "bipballs in play": "350",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-04-06 15:34:10.384979"
+        "updated": "2025-04-06 15:34:21.602665"
     },
     "ari @ wsh": [
         {
@@ -3837,6 +3837,20 @@
     ],
     "bal @ kc": [
         {
+            "player": "adley rutschman",
+            "game": "bal @ kc",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-04-06 15:34:17",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gunnar henderson",
             "game": "bal @ kc",
             "hr/park": "",
@@ -5523,6 +5537,34 @@
     ],
     "sd @ chc": [
         {
+            "player": "pete crow armstrong",
+            "game": "sd @ chc",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-04-06 15:34:17",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "nico hoerner",
+            "game": "sd @ chc",
+            "hr/park": "0/30",
+            "pa": "33",
+            "dt": "2025-04-06 15:34:17",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "in": "3",
+            "result": "Lineout",
+            "evo": "98.9",
+            "la": "17",
+            "dist": "345"
+        },
+        {
             "player": "elias diaz",
             "game": "sd @ chc",
             "hr/park": "",
@@ -5973,6 +6015,20 @@
     ],
     "tb @ tex": [
         {
+            "player": "wyatt langford",
+            "game": "tb @ tex",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-04-06 15:34:17",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jake mangum",
             "game": "tb @ tex",
             "hr/park": "",
@@ -6353,6 +6409,20 @@
     ],
     "ath @ col": [
         {
+            "player": "max muncy",
+            "game": "ath @ col",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-04-06 15:34:17",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jhonny pereda",
             "game": "ath @ col",
             "hr/park": "",
@@ -6361,10 +6431,10 @@
             "img": "https://www.mlbstatic.com/team-logos/133.svg",
             "team": "ath",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Field Error",
+            "evo": "74.5",
+            "la": "11",
+            "dist": "132"
         },
         {
             "player": "gio urshela",
