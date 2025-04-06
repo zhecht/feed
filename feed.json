@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "38",
+        "pitchers": "39",
         "batters": "213",
-        "pitches": "1884",
+        "pitches": "1895",
         "max velomax pitch velocity": "98.2",
         "min velomin pitch velocity": "69.9",
         "ff%fourseam fastball %": "33.3",
         "si%sinker %": "15.0",
-        "fc%cutter %": "11.8",
+        "fc%cutter %": "11.7",
         "fs%splitter %": "1.5",
         "ch%changeup %": "10.7",
         "sl%slider %": "18.9",
-        "cu%curve %": "8.6",
+        "cu%curve %": "8.7",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "136",
-        "hh%hard hit %": "41.8",
+        "hhhard hit": "138",
+        "hh%hard hit %": "42.2",
         "brlbarrels": "13",
         "brl%barrel %": "4.0",
-        "ab": "413",
-        "avg": ".274",
-        "h": "113",
-        "1b": "85",
+        "ab": "415",
+        "avg": ".275",
+        "h": "114",
+        "1b": "86",
         "2b": "16",
         "3b": "4",
         "hr": "8",
-        "so": "106",
-        "bipballs in play": "325",
+        "so": "107",
+        "bipballs in play": "327",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-04-06 15:28:10.462559"
+        "updated": "2025-04-06 15:28:21.450896"
     },
     "ari @ wsh": [
         {
@@ -819,6 +819,20 @@
     "stl @ bos": [],
     "lad @ phi": [
         {
+            "player": "brandon marsh",
+            "game": "lad @ phi",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-04-06 15:28:17",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "edmundo sosa",
             "game": "lad @ phi",
             "hr/park": "",
@@ -827,7 +841,7 @@
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4821,6 +4835,20 @@
     ],
     "cin @ mil": [
         {
+            "player": "oliver dunn",
+            "game": "cin @ mil",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-04-06 15:27:48",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "in": "4",
+            "result": "Wild Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "joey ortiz",
             "game": "cin @ mil",
             "hr/park": "",
@@ -5701,10 +5729,10 @@
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "109.1",
+            "la": "5",
+            "dist": "97"
         },
         {
             "player": "corey seager",
@@ -6039,10 +6067,10 @@
             "img": "https://www.mlbstatic.com/team-logos/115.svg",
             "team": "col",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "96.4",
+            "la": "-9",
+            "dist": "18"
         },
         {
             "player": "kris bryant",
