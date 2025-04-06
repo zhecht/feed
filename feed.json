@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "45",
+        "pitchers": "46",
         "batters": "219",
-        "pitches": "2089",
+        "pitches": "2102",
         "max velomax pitch velocity": "98.4",
         "min velomin pitch velocity": "69.9",
         "ff%fourseam fastball %": "33.9",
-        "si%sinker %": "14.5",
-        "fc%cutter %": "11.4",
-        "fs%splitter %": "1.6",
-        "ch%changeup %": "10.8",
-        "sl%slider %": "19.3",
+        "si%sinker %": "14.4",
+        "fc%cutter %": "11.3",
+        "fs%splitter %": "1.7",
+        "ch%changeup %": "10.9",
+        "sl%slider %": "19.4",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "148",
-        "hh%hard hit %": "41.1",
+        "hh%hard hit %": "40.9",
         "brlbarrels": "13",
         "brl%barrel %": "3.6",
-        "ab": "453",
-        "avg": ".272",
+        "ab": "458",
+        "avg": ".269",
         "h": "123",
         "1b": "91",
         "2b": "19",
         "3b": "4",
         "hr": "9",
-        "so": "113",
-        "bipballs in play": "360",
+        "so": "114",
+        "bipballs in play": "362",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-04-06 15:37:57.702343"
+        "updated": "2025-04-06 15:38:08.832716"
     },
     "ari @ wsh": [
         {
@@ -889,6 +889,20 @@
     "stl @ bos": [],
     "lad @ phi": [
         {
+            "player": "trea turner",
+            "game": "lad @ phi",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-04-06 15:38:03",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "87.3",
+            "la": "-29",
+            "dist": "5"
+        },
+        {
             "player": "kyle schwarber",
             "game": "lad @ phi",
             "hr/park": "",
@@ -897,7 +911,7 @@
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2447,6 +2461,20 @@
     ],
     "tor @ nym": [
         {
+            "player": "myles straw",
+            "game": "tor @ nym",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-04-06 15:38:03",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose siri",
             "game": "tor @ nym",
             "hr/park": "0/30",
@@ -3185,10 +3213,10 @@
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
             "team": "chw",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "63.7",
+            "la": "4",
+            "dist": "47"
         },
         {
             "player": "riley greene",
@@ -3962,6 +3990,20 @@
         }
     ],
     "bal @ kc": [
+        {
+            "player": "tyler oneill",
+            "game": "bal @ kc",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-04-06 15:38:03",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jordan westburg",
             "game": "bal @ kc",
@@ -6224,6 +6266,20 @@
         }
     ],
     "tb @ tex": [
+        {
+            "player": "joc pederson",
+            "game": "tb @ tex",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-04-06 15:38:03",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "in": "4",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "wyatt langford",
             "game": "tb @ tex",
