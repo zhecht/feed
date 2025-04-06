@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "63",
         "batters": "226",
-        "pitches": "2479",
+        "pitches": "2481",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "69.9",
-        "ff%fourseam fastball %": "34.0",
+        "ff%fourseam fastball %": "33.9",
         "si%sinker %": "13.7",
         "fc%cutter %": "11.0",
-        "fs%splitter %": "1.8",
-        "ch%changeup %": "11.1",
+        "fs%splitter %": "1.7",
+        "ch%changeup %": "11.2",
         "sl%slider %": "20.0",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "179",
-        "hh%hard hit %": "41.1",
+        "hhhard hit": "181",
+        "hh%hard hit %": "41.3",
         "brlbarrels": "18",
         "brl%barrel %": "4.1",
         "ab": "546",
@@ -25,10 +25,10 @@
         "3b": "5",
         "hr": "11",
         "so": "134",
-        "bipballs in play": "436",
+        "bipballs in play": "438",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-04-06 15:57:46.012601"
+        "updated": "2025-04-06 15:57:57.892688"
     },
     "ari @ wsh": [
         {
@@ -968,9 +968,9 @@
             "team": "phi",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "107.4",
+            "la": "16",
+            "dist": "373"
         },
         {
             "player": "michael conforto",
@@ -3611,6 +3611,20 @@
     ],
     "chw @ det": [
         {
+            "player": "andrew vaughn",
+            "game": "chw @ det",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-04-06 15:57:49",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "99.6",
+            "la": "-20",
+            "dist": "5"
+        },
+        {
             "player": "kerry carpenter",
             "game": "chw @ det",
             "hr/park": "",
@@ -4494,20 +4508,6 @@
         }
     ],
     "bal @ kc": [
-        {
-            "player": "ramon urias",
-            "game": "bal @ kc",
-            "hr/park": "",
-            "pa": "54",
-            "dt": "2025-04-06 15:57:03",
-            "img": "https://www.mlbstatic.com/team-logos/110.svg",
-            "team": "bal",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "gary sanchez",
             "game": "bal @ kc",
@@ -6609,7 +6609,7 @@
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
             "team": "sd",
             "in": "5",
-            "result": "Pop Out",
+            "result": "In Progress",
             "evo": "92.4",
             "la": "50",
             "dist": "200"
