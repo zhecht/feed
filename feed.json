@@ -1,20 +1,20 @@
 {
     "all": {
-        "pitchers": "36",
+        "pitchers": "35",
         "batters": "209",
-        "pitches": "1760",
+        "pitches": "1765",
         "max velomax pitch velocity": "98.2",
         "min velomin pitch velocity": "69.9",
-        "ff%fourseam fastball %": "32.7",
-        "si%sinker %": "15.2",
-        "fc%cutter %": "12.2",
+        "ff%fourseam fastball %": "32.6",
+        "si%sinker %": "15.1",
+        "fc%cutter %": "12.1",
         "fs%splitter %": "1.4",
-        "ch%changeup %": "11.1",
-        "sl%slider %": "19.0",
-        "cu%curve %": "8.5",
+        "ch%changeup %": "11.0",
+        "sl%slider %": "19.2",
+        "cu%curve %": "8.6",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "129",
-        "hh%hard hit %": "42.2",
+        "hhhard hit": "130",
+        "hh%hard hit %": "42.3",
         "brlbarrels": "12",
         "brl%barrel %": "3.9",
         "ab": "384",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "8",
         "so": "97",
-        "bipballs in play": "306",
+        "bipballs in play": "307",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-04-06 15:22:21.247239"
+        "updated": "2025-04-06 15:22:31.824768"
     },
     "ari @ wsh": [
         {
@@ -762,20 +762,6 @@
     ],
     "stl @ bos": [],
     "lad @ phi": [
-        {
-            "player": "enrique hernandez",
-            "game": "lad @ phi",
-            "hr/park": "",
-            "pa": "50",
-            "dt": "2025-04-06 15:22:17",
-            "img": "https://www.mlbstatic.com/team-logos/119.svg",
-            "team": "lad",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "max muncy",
             "game": "lad @ phi",
@@ -3529,6 +3515,20 @@
     ],
     "bal @ kc": [
         {
+            "player": "jorge mateo",
+            "game": "bal @ kc",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-04-06 15:22:31",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ramon urias",
             "game": "bal @ kc",
             "hr/park": "",
@@ -4985,10 +4985,10 @@
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
             "team": "chc",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "97.8",
+            "la": "-10",
+            "dist": "18"
         },
         {
             "player": "justin turner",
