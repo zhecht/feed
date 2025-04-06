@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "86",
         "batters": "243",
-        "pitches": "2934",
+        "pitches": "2944",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "69.9",
         "ff%fourseam fastball %": "33.1",
-        "si%sinker %": "14.6",
-        "fc%cutter %": "10.6",
-        "fs%splitter %": "1.9",
+        "si%sinker %": "14.5",
+        "fc%cutter %": "10.5",
+        "fs%splitter %": "2.0",
         "ch%changeup %": "10.9",
-        "sl%slider %": "20.8",
+        "sl%slider %": "20.9",
         "cu%curve %": "7.9",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "205",
-        "hh%hard hit %": "40.8",
-        "brlbarrels": "19",
-        "brl%barrel %": "3.8",
-        "ab": "634",
-        "avg": ".260",
+        "hhhard hit": "206",
+        "hh%hard hit %": "41.0",
+        "brlbarrels": "20",
+        "brl%barrel %": "4.0",
+        "ab": "636",
+        "avg": ".259",
         "h": "165",
         "1b": "117",
         "2b": "30",
         "3b": "6",
         "hr": "12",
-        "so": "162",
-        "bipballs in play": "502",
+        "so": "164",
+        "bipballs in play": "503",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-04-06 16:18:11.255797"
+        "updated": "2025-04-06 16:18:25.492741"
     },
     "ari @ wsh": [
         {
@@ -1085,6 +1085,20 @@
     "stl @ bos": [],
     "lad @ phi": [
         {
+            "player": "rafael marchan",
+            "game": "lad @ phi",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-04-06 16:18:18",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andy pages",
             "game": "lad @ phi",
             "hr/park": "",
@@ -2089,7 +2103,7 @@
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
             "team": "pit",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5105,7 +5119,7 @@
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
             "team": "bal",
             "in": "8",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "84.3",
             "la": "62",
             "dist": "139"
@@ -7497,20 +7511,6 @@
     ],
     "sd @ chc": [
         {
-            "player": "pete crow armstrong",
-            "game": "sd @ chc",
-            "hr/park": "",
-            "pa": "55",
-            "dt": "2025-04-06 16:17:48",
-            "img": "https://www.mlbstatic.com/team-logos/112.svg",
-            "team": "chc",
-            "in": "5",
-            "result": "Stolen Base 2B",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "nico hoerner",
             "game": "sd @ chc",
             "hr/park": "",
@@ -8859,6 +8859,20 @@
     ],
     "ath @ col": [
         {
+            "player": "ezequiel tovar",
+            "game": "ath @ col",
+            "hr/park": "29/30",
+            "pa": "38",
+            "dt": "2025-04-06 16:18:18",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "102.1",
+            "la": "24",
+            "dist": "401"
+        },
+        {
             "player": "brenton doyle",
             "game": "ath @ col",
             "hr/park": "",
@@ -9387,7 +9401,7 @@
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
             "team": "sf",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
