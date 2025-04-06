@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "20",
-        "batters": "153",
-        "pitches": "847",
+        "batters": "155",
+        "pitches": "855",
         "max velomax pitch velocity": "97.7",
         "min velomin pitch velocity": "71.6",
-        "ff%fourseam fastball %": "32.6",
-        "si%sinker %": "14.9",
-        "fc%cutter %": "13.1",
+        "ff%fourseam fastball %": "32.9",
+        "si%sinker %": "14.7",
+        "fc%cutter %": "13.0",
         "fs%splitter %": "1.5",
         "ch%changeup %": "12.0",
-        "sl%slider %": "15.9",
-        "cu%curve %": "9.9",
+        "sl%slider %": "16.0",
+        "cu%curve %": "9.8",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "58",
-        "hh%hard hit %": "42.3",
+        "hh%hard hit %": "42.0",
         "brlbarrels": "4",
         "brl%barrel %": "2.9",
-        "ab": "179",
-        "avg": ".291",
+        "ab": "181",
+        "avg": ".287",
         "h": "52",
         "1b": "41",
         "2b": "6",
         "3b": "2",
         "hr": "3",
-        "so": "46",
-        "bipballs in play": "137",
+        "so": "47",
+        "bipballs in play": "138",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-04-06 14:36:54.468902"
+        "updated": "2025-04-06 14:37:03.633378"
     },
     "ari @ wsh": [
         {
@@ -40,10 +40,10 @@
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "78.1",
+            "la": "-4",
+            "dist": "28"
         },
         {
             "player": "paul dejong",
@@ -848,6 +848,20 @@
         }
     ],
     "nyy @ pit": [
+        {
+            "player": "jazz chisholm",
+            "game": "nyy @ pit",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-04-06 14:37:02",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "joey bart",
             "game": "nyy @ pit",
@@ -2031,6 +2045,20 @@
     ],
     "bal @ kc": [
         {
+            "player": "ramon urias",
+            "game": "bal @ kc",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-04-06 14:37:02",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gary sanchez",
             "game": "bal @ kc",
             "hr/park": "",
@@ -2039,7 +2067,7 @@
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
             "team": "bal",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2399,6 +2427,20 @@
     ],
     "cin @ mil": [
         {
+            "player": "sal frelick",
+            "game": "cin @ mil",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-04-06 14:37:02",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "garrett mitchell",
             "game": "cin @ mil",
             "hr/park": "",
@@ -2407,7 +2449,7 @@
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
             "team": "mil",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
