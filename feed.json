@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "89",
         "batters": "246",
-        "pitches": "2981",
+        "pitches": "2988",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "69.9",
-        "ff%fourseam fastball %": "33.2",
+        "ff%fourseam fastball %": "33.1",
         "si%sinker %": "14.7",
-        "fc%cutter %": "10.5",
-        "fs%splitter %": "2.0",
+        "fc%cutter %": "10.6",
+        "fs%splitter %": "2.1",
         "ch%changeup %": "10.8",
-        "sl%slider %": "20.9",
+        "sl%slider %": "20.8",
         "cu%curve %": "7.8",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "209",
-        "hh%hard hit %": "40.9",
+        "hh%hard hit %": "40.7",
         "brlbarrels": "20",
         "brl%barrel %": "3.9",
-        "ab": "647",
-        "avg": ".261",
+        "ab": "649",
+        "avg": ".260",
         "h": "169",
         "1b": "118",
         "2b": "33",
         "3b": "6",
         "hr": "12",
         "so": "166",
-        "bipballs in play": "511",
+        "bipballs in play": "513",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-04-06 16:20:23.008391"
+        "updated": "2025-04-06 16:20:37.926320"
     },
     "ari @ wsh": [
         {
@@ -40,7 +40,7 @@
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1099,6 +1099,20 @@
     "stl @ bos": [],
     "lad @ phi": [
         {
+            "player": "kyle schwarber",
+            "game": "lad @ phi",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-04-06 16:20:35",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "rafael marchan",
             "game": "lad @ phi",
             "hr/park": "",
@@ -2117,10 +2131,10 @@
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
             "team": "pit",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "89.4",
+            "la": "47",
+            "dist": "264"
         },
         {
             "player": "adam frazier",
@@ -8943,6 +8957,20 @@
     ],
     "ath @ col": [
         {
+            "player": "kris bryant",
+            "game": "ath @ col",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-04-06 16:20:35",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "in": "4",
+            "result": "Flyout",
+            "evo": "94.6",
+            "la": "60",
+            "dist": "200"
+        },
+        {
             "player": "hunter goodman",
             "game": "ath @ col",
             "hr/park": "",
@@ -8951,7 +8979,7 @@
             "img": "https://www.mlbstatic.com/team-logos/115.svg",
             "team": "col",
             "in": "4",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "90.0",
             "la": "66",
             "dist": "144"
