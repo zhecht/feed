@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "100",
         "batters": "271",
-        "pitches": "3440",
+        "pitches": "3443",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "69.9",
         "ff%fourseam fastball %": "32.7",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.8",
         "cu%curve %": "7.0",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "238",
+        "hhhard hit": "239",
         "hh%hard hit %": "40.8",
         "brlbarrels": "26",
-        "brl%barrel %": "4.5",
-        "ab": "749",
-        "avg": ".248",
-        "h": "186",
-        "1b": "127",
+        "brl%barrel %": "4.4",
+        "ab": "750",
+        "avg": ".249",
+        "h": "187",
+        "1b": "128",
         "2b": "36",
         "3b": "6",
         "hr": "17",
         "so": "197",
-        "bipballs in play": "584",
+        "bipballs in play": "586",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-04-06 16:46:00.424384"
+        "updated": "2025-04-06 16:46:12.227817"
     },
     "ari @ wsh": [
         {
@@ -2221,6 +2221,20 @@
     ],
     "nyy @ pit": [
         {
+            "player": "oswald peraza",
+            "game": "nyy @ pit",
+            "hr/park": "",
+            "pa": "85",
+            "dt": "2025-04-06 16:46:04",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "in": "11",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jasson dominguez",
             "game": "nyy @ pit",
             "hr/park": "",
@@ -2229,7 +2243,7 @@
             "img": "https://www.mlbstatic.com/team-logos/147.svg",
             "team": "nyy",
             "in": "11",
-            "result": "In Progress",
+            "result": "Field Error",
             "evo": "80.1",
             "la": "-19",
             "dist": "6"
@@ -9061,10 +9075,10 @@
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "98.6",
+            "la": "11",
+            "dist": "259"
         },
         {
             "player": "jonah heim",
@@ -9805,10 +9819,10 @@
             "img": "https://www.mlbstatic.com/team-logos/115.svg",
             "team": "col",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "84.5",
+            "la": "39",
+            "dist": "295"
         },
         {
             "player": "mickey moniak",
@@ -10549,7 +10563,7 @@
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
             "team": "sf",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
