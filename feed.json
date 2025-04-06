@@ -2,12 +2,12 @@
     "all": {
         "pitchers": "105",
         "batters": "272",
-        "pitches": "3570",
+        "pitches": "3580",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "69.9",
         "ff%fourseam fastball %": "33.1",
-        "si%sinker %": "15.5",
-        "fc%cutter %": "10.6",
+        "si%sinker %": "15.4",
+        "fc%cutter %": "10.5",
         "fs%splitter %": "2.3",
         "ch%changeup %": "9.8",
         "sl%slider %": "21.7",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "41.1",
         "brlbarrels": "26",
         "brl%barrel %": "4.3",
-        "ab": "776",
+        "ab": "777",
         "avg": ".245",
         "h": "190",
         "1b": "130",
         "2b": "37",
         "3b": "6",
         "hr": "17",
-        "so": "209",
-        "bipballs in play": "598",
+        "so": "211",
+        "bipballs in play": "599",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-04-06 16:54:05.045009"
+        "updated": "2025-04-06 16:54:17.869381"
     },
     "ari @ wsh": [
         {
@@ -6373,6 +6373,20 @@
     ],
     "hou @ min": [
         {
+            "player": "willi castro",
+            "game": "hou @ min",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-04-06 16:54:17",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "in": "6",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trevor larnach",
             "game": "hou @ min",
             "hr/park": "",
@@ -6381,10 +6395,10 @@
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "36.2",
+            "la": "-46",
+            "dist": "3"
         },
         {
             "player": "byron buxton",
@@ -8219,7 +8233,7 @@
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
             "team": "chc",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11181,7 +11195,7 @@
             "img": "https://www.mlbstatic.com/team-logos/108.svg",
             "team": "laa",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
