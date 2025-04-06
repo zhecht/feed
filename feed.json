@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "46",
         "batters": "220",
-        "pitches": "2122",
+        "pitches": "2127",
         "max velomax pitch velocity": "98.4",
         "min velomin pitch velocity": "69.9",
         "ff%fourseam fastball %": "33.7",
@@ -10,25 +10,25 @@
         "fc%cutter %": "11.3",
         "fs%splitter %": "1.7",
         "ch%changeup %": "11.1",
-        "sl%slider %": "19.4",
-        "cu%curve %": "8.2",
+        "sl%slider %": "19.5",
+        "cu%curve %": "8.3",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "148",
+        "hhhard hit": "149",
         "hh%hard hit %": "40.7",
         "brlbarrels": "13",
         "brl%barrel %": "3.6",
-        "ab": "460",
-        "avg": ".270",
-        "h": "124",
+        "ab": "461",
+        "avg": ".271",
+        "h": "125",
         "1b": "92",
-        "2b": "19",
+        "2b": "20",
         "3b": "4",
         "hr": "9",
-        "so": "116",
-        "bipballs in play": "364",
+        "so": "118",
+        "bipballs in play": "366",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-04-06 15:39:16.115746"
+        "updated": "2025-04-06 15:39:27.355785"
     },
     "ari @ wsh": [
         {
@@ -1663,16 +1663,16 @@
         {
             "player": "oneil cruz",
             "game": "nyy @ pit",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "57",
             "dt": "2025-04-06 15:36:32",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
             "team": "pit",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "97.5",
+            "la": "29",
+            "dist": "372"
         },
         {
             "player": "bryan reynolds",
@@ -2461,6 +2461,20 @@
     ],
     "tor @ nym": [
         {
+            "player": "bo bichette",
+            "game": "tor @ nym",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-04-06 15:39:19",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "myles straw",
             "game": "tor @ nym",
             "hr/park": "",
@@ -2469,7 +2483,7 @@
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4673,7 +4687,7 @@
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
             "team": "hou",
             "in": "5",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "81.6",
             "la": "-8",
             "dist": "13"
@@ -6303,7 +6317,7 @@
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
             "in": "4",
-            "result": "In Progress",
+            "result": "Mound Visit",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6711,10 +6725,10 @@
             "img": "https://www.mlbstatic.com/team-logos/115.svg",
             "team": "col",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "87.5",
+            "la": "31",
+            "dist": "320"
         },
         {
             "player": "max muncy",
