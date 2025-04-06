@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "19",
         "batters": "135",
-        "pitches": "675",
+        "pitches": "679",
         "max velomax pitch velocity": "97.7",
-        "min velomin pitch velocity": "71.9",
-        "ff%fourseam fastball %": "32.7",
-        "si%sinker %": "16.4",
+        "min velomin pitch velocity": "71.6",
+        "ff%fourseam fastball %": "32.5",
+        "si%sinker %": "16.3",
         "fc%cutter %": "12.4",
         "fs%splitter %": "0.9",
-        "ch%changeup %": "12.0",
-        "sl%slider %": "16.7",
-        "cu%curve %": "8.7",
+        "ch%changeup %": "12.2",
+        "sl%slider %": "16.8",
+        "cu%curve %": "8.8",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "44",
         "hh%hard hit %": "42.7",
         "brlbarrels": "1",
         "brl%barrel %": "1.0",
-        "ab": "141",
-        "avg": ".270",
+        "ab": "142",
+        "avg": ".268",
         "h": "38",
         "1b": "31",
         "2b": "3",
@@ -28,7 +28,7 @@
         "bipballs in play": "103",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-04-06 14:26:38.600802"
+        "updated": "2025-04-06 14:26:47.221510"
     },
     "ari @ wsh": [
         {
@@ -40,7 +40,7 @@
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "in": "3",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "85.1",
             "la": "42",
             "dist": "292"
@@ -1033,6 +1033,20 @@
     ],
     "tor @ nym": [
         {
+            "player": "francisco lindor",
+            "game": "tor @ nym",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-04-06 14:26:17",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "hayden senger",
             "game": "tor @ nym",
             "hr/park": "",
@@ -1817,7 +1831,7 @@
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
