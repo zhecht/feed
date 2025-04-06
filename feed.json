@@ -2,35 +2,49 @@
     "all": {
         "pitchers": "19",
         "batters": "128",
-        "pitches": "606",
+        "pitches": "616",
         "max velomax pitch velocity": "97.7",
         "min velomin pitch velocity": "71.9",
-        "ff%fourseam fastball %": "32.5",
+        "ff%fourseam fastball %": "32.0",
         "si%sinker %": "17.0",
-        "fc%cutter %": "13.0",
+        "fc%cutter %": "12.8",
         "fs%splitter %": "1.0",
-        "ch%changeup %": "12.2",
-        "sl%slider %": "16.0",
-        "cu%curve %": "8.3",
+        "ch%changeup %": "12.5",
+        "sl%slider %": "16.2",
+        "cu%curve %": "8.4",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "39",
-        "hh%hard hit %": "41.5",
+        "hhhard hit": "41",
+        "hh%hard hit %": "42.3",
         "brlbarrels": "1",
-        "brl%barrel %": "1.1",
-        "ab": "132",
-        "avg": ".250",
-        "h": "33",
-        "1b": "27",
+        "brl%barrel %": "1.0",
+        "ab": "134",
+        "avg": ".261",
+        "h": "35",
+        "1b": "28",
         "2b": "3",
-        "3b": "1",
+        "3b": "2",
         "hr": "2",
         "so": "37",
-        "bipballs in play": "94",
+        "bipballs in play": "97",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-04-06 14:23:26.672041"
+        "updated": "2025-04-06 14:23:35.446292"
     },
     "ari @ wsh": [
+        {
+            "player": "geraldo perdomo",
+            "game": "ari @ wsh",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-04-06 14:23:32",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "corbin carroll",
             "game": "ari @ wsh",
@@ -652,6 +666,20 @@
         }
     ],
     "nyy @ pit": [
+        {
+            "player": "kebryan hayes",
+            "game": "nyy @ pit",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-04-06 14:23:03",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "isiah kiner falefa",
             "game": "nyy @ pit",
@@ -1577,10 +1605,10 @@
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "in": "1",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Triple",
+            "evo": "100.9",
+            "la": "20",
+            "dist": "355"
         },
         {
             "player": "jonathan india",
@@ -1663,10 +1691,10 @@
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "87.2",
+            "la": "16",
+            "dist": "208"
         },
         {
             "player": "yainer diaz",
@@ -1763,10 +1791,10 @@
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
             "team": "mil",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "106.3",
+            "la": "7",
+            "dist": "124"
         },
         {
             "player": "gavin lux",
