@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "55",
         "batters": "225",
-        "pitches": "2326",
+        "pitches": "2334",
         "max velomax pitch velocity": "98.4",
         "min velomin pitch velocity": "69.9",
         "ff%fourseam fastball %": "34.0",
-        "si%sinker %": "13.9",
-        "fc%cutter %": "11.2",
+        "si%sinker %": "14.0",
+        "fc%cutter %": "11.1",
         "fs%splitter %": "1.6",
         "ch%changeup %": "11.3",
-        "sl%slider %": "19.7",
+        "sl%slider %": "19.6",
         "cu%curve %": "8.1",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "166",
+        "hhhard hit": "167",
         "hh%hard hit %": "40.6",
         "brlbarrels": "17",
-        "brl%barrel %": "4.2",
-        "ab": "515",
-        "avg": ".272",
+        "brl%barrel %": "4.1",
+        "ab": "516",
+        "avg": ".271",
         "h": "140",
         "1b": "100",
         "2b": "24",
         "3b": "5",
         "hr": "11",
         "so": "124",
-        "bipballs in play": "409",
+        "bipballs in play": "411",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-04-06 15:49:52.401492"
+        "updated": "2025-04-06 15:50:04.042352"
     },
     "ari @ wsh": [
         {
@@ -40,7 +40,7 @@
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
             "team": "wsh",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "Catcher Interference",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1772,6 +1772,20 @@
         }
     ],
     "nyy @ pit": [
+        {
+            "player": "joey bart",
+            "game": "nyy @ pit",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-04-06 15:50:01",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "aaron judge",
             "game": "nyy @ pit",
@@ -5711,10 +5725,10 @@
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
             "team": "mil",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "84.7",
+            "la": "35",
+            "dist": "293"
         },
         {
             "player": "garrett mitchell",
@@ -6309,16 +6323,16 @@
         {
             "player": "ian happ",
             "game": "sd @ chc",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "43",
             "dt": "2025-04-06 15:48:16",
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
             "team": "chc",
             "in": "4",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "96.1",
+            "la": "31",
+            "dist": "337"
         },
         {
             "player": "xander bogaerts",
@@ -6919,7 +6933,7 @@
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "in": "5",
-            "result": "In Progress",
+            "result": "Caught Stealing 2B",
             "evo": "",
             "la": "",
             "dist": ""
