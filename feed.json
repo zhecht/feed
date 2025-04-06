@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "32",
         "batters": "201",
-        "pitches": "1607",
+        "pitches": "1610",
         "max velomax pitch velocity": "97.7",
         "min velomin pitch velocity": "69.9",
         "ff%fourseam fastball %": "31.7",
-        "si%sinker %": "15.6",
+        "si%sinker %": "15.5",
         "fc%cutter %": "12.3",
         "fs%splitter %": "1.3",
         "ch%changeup %": "11.3",
         "sl%slider %": "18.9",
-        "cu%curve %": "9.0",
+        "cu%curve %": "8.9",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "113",
-        "hh%hard hit %": "40.8",
+        "hhhard hit": "114",
+        "hh%hard hit %": "41.0",
         "brlbarrels": "8",
         "brl%barrel %": "2.9",
-        "ab": "347",
-        "avg": ".262",
+        "ab": "348",
+        "avg": ".261",
         "h": "91",
         "1b": "68",
         "2b": "15",
         "3b": "4",
         "hr": "4",
         "so": "87",
-        "bipballs in play": "277",
+        "bipballs in play": "278",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-04-06 15:15:08.336649"
+        "updated": "2025-04-06 15:15:18.722920"
     },
     "ari @ wsh": [
         {
@@ -1389,10 +1389,10 @@
             "img": "https://www.mlbstatic.com/team-logos/147.svg",
             "team": "nyy",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "97.4",
+            "la": "59",
+            "dist": "227"
         },
         {
             "player": "anthony volpe",
@@ -3855,7 +3855,7 @@
         {
             "player": "edouard julien",
             "game": "hou @ min",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "29",
             "dt": "2025-04-06 15:15:03",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
@@ -4669,6 +4669,20 @@
     ],
     "sd @ chc": [
         {
+            "player": "ian happ",
+            "game": "sd @ chc",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-04-06 15:15:16",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jackson merrill",
             "game": "sd @ chc",
             "hr/park": "",
@@ -4691,7 +4705,7 @@
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
             "team": "sd",
             "in": "2",
-            "result": "Lineout",
+            "result": "Forceout",
             "evo": "104.5",
             "la": "14",
             "dist": "284"
