@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "33",
         "batters": "205",
-        "pitches": "1683",
+        "pitches": "1692",
         "max velomax pitch velocity": "98.2",
         "min velomin pitch velocity": "69.9",
-        "ff%fourseam fastball %": "32.2",
+        "ff%fourseam fastball %": "32.3",
         "si%sinker %": "15.4",
         "fc%cutter %": "12.2",
         "fs%splitter %": "1.2",
-        "ch%changeup %": "10.9",
-        "sl%slider %": "19.3",
-        "cu%curve %": "8.8",
+        "ch%changeup %": "10.8",
+        "sl%slider %": "19.2",
+        "cu%curve %": "8.7",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "123",
+        "hhhard hit": "124",
         "hh%hard hit %": "42.3",
         "brlbarrels": "11",
         "brl%barrel %": "3.8",
-        "ab": "363",
-        "avg": ".267",
-        "h": "97",
-        "1b": "72",
+        "ab": "365",
+        "avg": ".268",
+        "h": "98",
+        "1b": "73",
         "2b": "15",
         "3b": "4",
         "hr": "6",
-        "so": "92",
-        "bipballs in play": "291",
+        "so": "93",
+        "bipballs in play": "293",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-04-06 15:19:08.651442"
+        "updated": "2025-04-06 15:19:19.507015"
     },
     "ari @ wsh": [
         {
@@ -41,9 +41,9 @@
             "team": "ari",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "99.1",
+            "la": "5",
+            "dist": "115"
         },
         {
             "player": "eugenio suarez",
@@ -749,6 +749,20 @@
     "stl @ bos": [],
     "lad @ phi": [
         {
+            "player": "max muncy",
+            "game": "lad @ phi",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-04-06 15:19:17",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael conforto",
             "game": "lad @ phi",
             "hr/park": "",
@@ -757,7 +771,7 @@
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
             "team": "lad",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1422,6 +1436,20 @@
         }
     ],
     "nyy @ pit": [
+        {
+            "player": "enmanuel valdez",
+            "game": "nyy @ pit",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-04-06 15:19:17",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "andrew mccutchen",
             "game": "nyy @ pit",
@@ -4381,7 +4409,7 @@
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
             "team": "mil",
             "in": "4",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "103.6",
             "la": "10",
             "dist": "232"
