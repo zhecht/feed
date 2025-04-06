@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "22",
         "batters": "173",
-        "pitches": "1020",
+        "pitches": "1031",
         "max velomax pitch velocity": "97.7",
         "min velomin pitch velocity": "70.1",
-        "ff%fourseam fastball %": "32.6",
-        "si%sinker %": "14.7",
+        "ff%fourseam fastball %": "32.5",
+        "si%sinker %": "14.5",
         "fc%cutter %": "12.9",
-        "fs%splitter %": "1.4",
-        "ch%changeup %": "11.3",
-        "sl%slider %": "17.4",
-        "cu%curve %": "9.7",
+        "fs%splitter %": "1.6",
+        "ch%changeup %": "11.6",
+        "sl%slider %": "17.3",
+        "cu%curve %": "9.6",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "71",
-        "hh%hard hit %": "42.0",
+        "hh%hard hit %": "41.8",
         "brlbarrels": "5",
-        "brl%barrel %": "3.0",
-        "ab": "213",
+        "brl%barrel %": "2.9",
+        "ab": "216",
         "avg": ".282",
-        "h": "60",
+        "h": "61",
         "1b": "47",
         "2b": "7",
-        "3b": "3",
+        "3b": "4",
         "hr": "3",
         "so": "53",
-        "bipballs in play": "169",
+        "bipballs in play": "170",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-04-06 14:45:27.791128"
+        "updated": "2025-04-06 14:45:36.955967"
     },
     "ari @ wsh": [
         {
@@ -41,9 +41,9 @@
             "team": "wsh",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "29.5",
+            "la": "-74",
+            "dist": "3"
         },
         {
             "player": "dylan crews",
@@ -947,6 +947,20 @@
     ],
     "nyy @ pit": [
         {
+            "player": "enmanuel valdez",
+            "game": "nyy @ pit",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-04-06 14:45:32",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "in": "4",
+            "result": "Triple",
+            "evo": "104.7",
+            "la": "14",
+            "dist": "284"
+        },
+        {
             "player": "andrew mccutchen",
             "game": "nyy @ pit",
             "hr/park": "",
@@ -955,7 +969,7 @@
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
             "team": "pit",
             "in": "4",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "100.4",
             "la": "-8",
             "dist": "15"
@@ -2311,6 +2325,20 @@
     ],
     "bal @ kc": [
         {
+            "player": "jonathan india",
+            "game": "bal @ kc",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-04-06 14:45:32",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "in": "2",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "freddy fermin",
             "game": "bal @ kc",
             "hr/park": "",
@@ -2564,6 +2592,20 @@
         }
     ],
     "hou @ min": [
+        {
+            "player": "jose altuve",
+            "game": "hou @ min",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-04-06 14:45:02",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jake meyers",
             "game": "hou @ min",
@@ -3026,9 +3068,9 @@
             "team": "chc",
             "in": "1",
             "result": "In Progress",
-            "evo": "98.2",
-            "la": "5",
-            "dist": "94"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "seiya suzuki",
