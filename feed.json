@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "24",
+        "pitchers": "25",
         "batters": "192",
-        "pitches": "1311",
+        "pitches": "1322",
         "max velomax pitch velocity": "97.7",
         "min velomin pitch velocity": "70.1",
         "ff%fourseam fastball %": "30.5",
-        "si%sinker %": "15.3",
-        "fc%cutter %": "12.2",
+        "si%sinker %": "15.7",
+        "fc%cutter %": "12.1",
         "fs%splitter %": "1.2",
-        "ch%changeup %": "11.8",
-        "sl%slider %": "19.6",
+        "ch%changeup %": "11.9",
+        "sl%slider %": "19.4",
         "cu%curve %": "9.3",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "86",
-        "hh%hard hit %": "38.2",
+        "hhhard hit": "88",
+        "hh%hard hit %": "38.9",
         "brlbarrels": "7",
         "brl%barrel %": "3.1",
-        "ab": "275",
-        "avg": ".291",
-        "h": "80",
-        "1b": "59",
+        "ab": "277",
+        "avg": ".292",
+        "h": "81",
+        "1b": "60",
         "2b": "13",
         "3b": "4",
         "hr": "4",
         "so": "66",
-        "bipballs in play": "225",
+        "bipballs in play": "226",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-04-06 14:59:37.159386"
+        "updated": "2025-04-06 14:59:46.922335"
     },
     "ari @ wsh": [
         {
@@ -40,7 +40,7 @@
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -622,6 +622,20 @@
     ],
     "stl @ bos": [],
     "lad @ phi": [
+        {
+            "player": "trea turner",
+            "game": "lad @ phi",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-04-06 14:59:46",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kyle schwarber",
             "game": "lad @ phi",
@@ -2225,6 +2239,34 @@
     ],
     "chw @ det": [
         {
+            "player": "matt thaiss",
+            "game": "chw @ det",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-04-06 14:59:46",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "andrew vaughn",
+            "game": "chw @ det",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-04-06 14:59:46",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "99.7",
+            "la": "-22",
+            "dist": "7"
+        },
+        {
             "player": "andy ibanez",
             "game": "chw @ det",
             "hr/park": "",
@@ -2801,11 +2843,11 @@
     ],
     "bal @ kc": [
         {
-            "player": "hunter renfroe",
+            "player": "michael massey",
             "game": "bal @ kc",
             "hr/park": "",
-            "pa": "28",
-            "dt": "2025-04-06 14:59:32",
+            "pa": "27",
+            "dt": "2025-04-06 14:59:02",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "in": "3",
@@ -2813,20 +2855,6 @@
             "evo": "",
             "la": "",
             "dist": ""
-        },
-        {
-            "player": "michael massey",
-            "game": "bal @ kc",
-            "hr/park": "0/30",
-            "pa": "27",
-            "dt": "2025-04-06 14:59:02",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "in": "3",
-            "result": "Flyout",
-            "evo": "88.6",
-            "la": "32",
-            "dist": "302"
         },
         {
             "player": "mark canha",
@@ -3527,10 +3555,10 @@
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
             "team": "mil",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "110.2",
+            "la": "13",
+            "dist": "217"
         },
         {
             "player": "jackson chourio",
@@ -4091,7 +4119,7 @@
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "in": "2",
-            "result": "Stolen Base 2B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
