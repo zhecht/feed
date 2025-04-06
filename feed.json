@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "82",
         "batters": "232",
-        "pitches": "2996",
+        "pitches": "3001",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "34.6",
@@ -10,13 +10,13 @@
         "fc%cutter %": "7.6",
         "fs%splitter %": "5.5",
         "ch%changeup %": "10.2",
-        "sl%slider %": "21.7",
+        "sl%slider %": "21.8",
         "cu%curve %": "7.5",
         "max evmax exit velocity": "113.0",
-        "hhhard hit": "230",
-        "hh%hard hit %": "43.2",
+        "hhhard hit": "231",
+        "hh%hard hit %": "43.3",
         "brlbarrels": "45",
-        "brl%barrel %": "8.5",
+        "brl%barrel %": "8.4",
         "ab": "696",
         "avg": ".253",
         "h": "176",
@@ -24,11 +24,11 @@
         "2b": "41",
         "3b": "5",
         "hr": "23",
-        "so": "172",
-        "bipballs in play": "532",
+        "so": "173",
+        "bipballs in play": "533",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-05 21:10:45.084568"
+        "updated": "2025-04-05 21:10:58.903709"
     },
     "chw @ det": [
         {
@@ -8107,10 +8107,10 @@
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
             "team": "nym",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "100.0",
+            "la": "48",
+            "dist": "289"
         },
         {
             "player": "juan soto",
@@ -8809,7 +8809,7 @@
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
             "team": "mil",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9735,7 +9735,7 @@
             "img": "https://www.mlbstatic.com/team-logos/144.svg",
             "team": "atl",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10541,6 +10541,20 @@
     ],
     "ath @ col": [
         {
+            "player": "michael toglia",
+            "game": "ath @ col",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-04-05 21:10:51",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jacob wilson",
             "game": "ath @ col",
             "hr/park": "",
@@ -10957,7 +10971,7 @@
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "in": "1",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
