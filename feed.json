@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "127",
-        "batters": "277",
-        "pitches": "4066",
+        "batters": "278",
+        "pitches": "4070",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "69.9",
         "ff%fourseam fastball %": "32.9",
@@ -10,14 +10,14 @@
         "fc%cutter %": "10.1",
         "fs%splitter %": "2.1",
         "ch%changeup %": "10.5",
-        "sl%slider %": "22.6",
+        "sl%slider %": "22.5",
         "cu%curve %": "6.3",
         "max evmax exit velocity": "116.1",
         "hhhard hit": "278",
         "hh%hard hit %": "40.2",
         "brlbarrels": "33",
         "brl%barrel %": "4.8",
-        "ab": "895",
+        "ab": "896",
         "avg": ".247",
         "h": "221",
         "1b": "153",
@@ -28,7 +28,7 @@
         "bipballs in play": "691",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-04-06 17:48:08.280327"
+        "updated": "2025-04-06 17:48:21.859667"
     },
     "ari @ wsh": [
         {
@@ -6387,6 +6387,20 @@
     ],
     "hou @ min": [
         {
+            "player": "jose miranda",
+            "game": "hou @ min",
+            "hr/park": "",
+            "pa": "91",
+            "dt": "2025-04-06 17:48:19",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "in": "10",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "isaac paredes",
             "game": "hou @ min",
             "hr/park": "",
@@ -12727,15 +12741,29 @@
     ],
     "cle @ laa": [
         {
-            "player": "austin hedges",
+            "player": "brayan rocchio",
             "game": "cle @ laa",
             "hr/park": "",
+            "pa": "52",
+            "dt": "2025-04-06 17:48:19",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "austin hedges",
+            "game": "cle @ laa",
+            "hr/park": "0/30",
             "pa": "51",
             "dt": "2025-04-06 17:47:49",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
             "team": "cle",
             "in": "7",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "92.5",
             "la": "42",
             "dist": "309"
