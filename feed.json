@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "68",
         "batters": "228",
-        "pitches": "2672",
+        "pitches": "2684",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "69.9",
         "ff%fourseam fastball %": "33.2",
-        "si%sinker %": "14.4",
+        "si%sinker %": "14.5",
         "fc%cutter %": "10.5",
         "fs%splitter %": "2.0",
         "ch%changeup %": "10.9",
-        "sl%slider %": "20.4",
+        "sl%slider %": "20.5",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "189",
-        "hh%hard hit %": "40.9",
+        "hh%hard hit %": "40.7",
         "brlbarrels": "18",
         "brl%barrel %": "3.9",
-        "ab": "582",
-        "avg": ".270",
+        "ab": "583",
+        "avg": ".269",
         "h": "157",
         "1b": "112",
         "2b": "28",
         "3b": "6",
         "hr": "11",
         "so": "145",
-        "bipballs in play": "462",
+        "bipballs in play": "464",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-04-06 16:06:23.235430"
+        "updated": "2025-04-06 16:06:37.554590"
     },
     "ari @ wsh": [
         {
@@ -40,7 +40,7 @@
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "in": "8",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "88.0",
             "la": "-24",
             "dist": "5"
@@ -1023,10 +1023,10 @@
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "74.5",
+            "la": "-14",
+            "dist": "11"
         },
         {
             "player": "bryson stott",
@@ -4803,6 +4803,20 @@
     ],
     "bal @ kc": [
         {
+            "player": "salvador perez",
+            "game": "bal @ kc",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-04-06 16:06:33",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "in": "7",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "vinnie pasquantino",
             "game": "bal @ kc",
             "hr/park": "",
@@ -6341,7 +6355,7 @@
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
             "team": "mil",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7746,9 +7760,9 @@
             "team": "tex",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "88.7",
+            "la": "1",
+            "dist": "56"
         },
         {
             "player": "josh smith",
