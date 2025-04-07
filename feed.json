@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "18",
-        "batters": "100",
-        "pitches": "725",
+        "pitchers": "19",
+        "batters": "102",
+        "pitches": "728",
         "max velomax pitch velocity": "96.8",
         "min velomin pitch velocity": "75.3",
         "ff%fourseam fastball %": "38.5",
-        "si%sinker %": "13.2",
-        "fc%cutter %": "5.7",
+        "si%sinker %": "13.0",
+        "fc%cutter %": "5.6",
         "fs%splitter %": "3.6",
         "ch%changeup %": "7.3",
-        "sl%slider %": "26.2",
+        "sl%slider %": "26.5",
         "cu%curve %": "5.5",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "54",
-        "hh%hard hit %": "42.5",
+        "hh%hard hit %": "42.2",
         "brlbarrels": "10",
-        "brl%barrel %": "7.9",
-        "ab": "169",
-        "avg": ".237",
+        "brl%barrel %": "7.8",
+        "ab": "170",
+        "avg": ".235",
         "h": "40",
         "1b": "31",
         "2b": "5",
         "3b": "1",
         "hr": "3",
         "so": "42",
-        "bipballs in play": "127",
+        "bipballs in play": "128",
         "liveGames": 7,
         "totGames": 11,
-        "updated": "2025-04-07 19:49:39.275896"
+        "updated": "2025-04-07 19:49:47.865014"
     },
     "nyy @ det": [
         {
@@ -1013,20 +1013,6 @@
         }
     ],
     "stl @ pit": [
-        {
-            "player": "lars nootbaar",
-            "game": "stl @ pit",
-            "hr/park": "",
-            "pa": "37",
-            "dt": "2025-04-07 19:49:15",
-            "img": "https://www.mlbstatic.com/team-logos/138.svg",
-            "team": "stl",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "masyn winn",
             "game": "stl @ pit",
@@ -2406,6 +2392,20 @@
     ],
     "mia @ nym": [
         {
+            "player": "luisangel acuna",
+            "game": "mia @ nym",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-04-07 19:49:00",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyrone taylor",
             "game": "mia @ nym",
             "hr/park": "",
@@ -2618,6 +2618,20 @@
     ],
     "tex @ chc": [
         {
+            "player": "ian happ",
+            "game": "tex @ chc",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-04-07 19:49:44",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kevin pillar",
             "game": "tex @ chc",
             "hr/park": "",
@@ -2698,10 +2712,10 @@
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "85.9",
+            "la": "31",
+            "dist": "299"
         },
         {
             "player": "jonathan india",
