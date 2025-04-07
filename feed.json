@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "15",
-        "batters": "82",
-        "pitches": "555",
+        "batters": "83",
+        "pitches": "557",
         "max velomax pitch velocity": "96.8",
         "min velomin pitch velocity": "75.7",
-        "ff%fourseam fastball %": "38.0",
-        "si%sinker %": "11.2",
-        "fc%cutter %": "4.7",
+        "ff%fourseam fastball %": "38.1",
+        "si%sinker %": "11.1",
+        "fc%cutter %": "4.8",
         "fs%splitter %": "4.1",
-        "ch%changeup %": "8.5",
-        "sl%slider %": "27.9",
+        "ch%changeup %": "8.4",
+        "sl%slider %": "27.8",
         "cu%curve %": "5.6",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "45",
         "hh%hard hit %": "44.1",
         "brlbarrels": "8",
         "brl%barrel %": "7.8",
-        "ab": "132",
-        "avg": ".242",
+        "ab": "134",
+        "avg": ".239",
         "h": "32",
         "1b": "25",
         "2b": "3",
@@ -28,7 +28,7 @@
         "bipballs in play": "102",
         "liveGames": 5,
         "totGames": 11,
-        "updated": "2025-04-07 19:31:24.156035"
+        "updated": "2025-04-07 19:31:32.330489"
     },
     "nyy @ det": [
         {
@@ -1022,7 +1022,7 @@
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
             "team": "stl",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1393,6 +1393,20 @@
         }
     ],
     "lad @ wsh": [
+        {
+            "player": "keibert ruiz",
+            "game": "lad @ wsh",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-04-07 19:31:29",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "luis garcia",
             "game": "lad @ wsh",
@@ -2042,9 +2056,23 @@
     ],
     "mia @ nym": [
         {
-            "player": "brandon nimmo",
+            "player": "mark vientos",
             "game": "mia @ nym",
             "hr/park": "",
+            "pa": "10",
+            "dt": "2025-04-07 19:31:29",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "brandon nimmo",
+            "game": "mia @ nym",
+            "hr/park": "0/30",
             "pa": "9",
             "dt": "2025-04-07 19:29:44",
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
