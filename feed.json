@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "19",
-        "batters": "110",
-        "pitches": "806",
+        "batters": "111",
+        "pitches": "811",
         "max velomax pitch velocity": "96.8",
         "min velomin pitch velocity": "75.3",
-        "ff%fourseam fastball %": "37.8",
-        "si%sinker %": "13.2",
-        "fc%cutter %": "6.0",
+        "ff%fourseam fastball %": "38.1",
+        "si%sinker %": "13.1",
+        "fc%cutter %": "5.9",
         "fs%splitter %": "4.2",
         "ch%changeup %": "7.3",
-        "sl%slider %": "26.1",
-        "cu%curve %": "5.5",
+        "sl%slider %": "26.0",
+        "cu%curve %": "5.4",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "58",
-        "hh%hard hit %": "41.4",
+        "hh%hard hit %": "41.1",
         "brlbarrels": "10",
         "brl%barrel %": "7.1",
-        "ab": "188",
-        "avg": ".229",
+        "ab": "190",
+        "avg": ".226",
         "h": "43",
         "1b": "33",
         "2b": "6",
         "3b": "1",
         "hr": "3",
         "so": "46",
-        "bipballs in play": "140",
+        "bipballs in play": "141",
         "liveGames": 7,
         "totGames": 11,
-        "updated": "2025-04-07 19:56:52.792207"
+        "updated": "2025-04-07 19:57:01.846920"
     },
     "nyy @ det": [
         {
@@ -1013,6 +1013,20 @@
         }
     ],
     "stl @ pit": [
+        {
+            "player": "brendan donovan",
+            "game": "stl @ pit",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-04-07 19:57:00",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "willson contreras",
             "game": "stl @ pit",
@@ -2822,7 +2836,7 @@
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2942,6 +2956,20 @@
     ],
     "min @ kc": [
         {
+            "player": "hunter renfroe",
+            "game": "min @ kc",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-04-07 19:57:00",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael massey",
             "game": "min @ kc",
             "hr/park": "",
@@ -2950,10 +2978,10 @@
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "77.7",
+            "la": "59",
+            "dist": "156"
         },
         {
             "player": "salvador perez",
