@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "143",
         "batters": "286",
-        "pitches": "4533",
+        "pitches": "4535",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "69.9",
         "ff%fourseam fastball %": "32.8",
-        "si%sinker %": "15.8",
+        "si%sinker %": "15.9",
         "fc%cutter %": "9.4",
         "fs%splitter %": "2.1",
         "ch%changeup %": "10.0",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "41.7",
         "brlbarrels": "38",
         "brl%barrel %": "4.8",
-        "ab": "1001",
-        "avg": ".259",
+        "ab": "1003",
+        "avg": ".258",
         "h": "259",
         "1b": "176",
         "2b": "54",
         "3b": "6",
         "hr": "23",
         "so": "264",
-        "bipballs in play": "786",
+        "bipballs in play": "787",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-04-06 21:31:11.520993"
+        "updated": "2025-04-06 21:31:24.789992"
     },
     "ari @ wsh": [
         {
@@ -2360,6 +2360,34 @@
     ],
     "stl @ bos-gm2": [
         {
+            "player": "brendan donovan",
+            "game": "stl @ bos-gm2",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-04-06 21:31:20",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "willson contreras",
+            "game": "stl @ bos-gm2",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-04-06 21:31:20",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "72.6",
+            "la": "-70",
+            "dist": "2"
+        },
+        {
             "player": "lars nootbaar",
             "game": "stl @ bos-gm2",
             "hr/park": "",
@@ -2368,7 +2396,7 @@
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
             "team": "stl",
             "in": "7",
-            "result": "In Progress",
+            "result": "Field Error",
             "evo": "82.2",
             "la": "48",
             "dist": "238"
