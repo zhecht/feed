@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "14",
         "batters": "78",
-        "pitches": "487",
+        "pitches": "490",
         "max velomax pitch velocity": "96.8",
         "min velomin pitch velocity": "78.2",
         "ff%fourseam fastball %": "39.0",
-        "si%sinker %": "11.7",
+        "si%sinker %": "11.6",
         "fc%cutter %": "3.7",
         "fs%splitter %": "4.7",
         "ch%changeup %": "8.6",
-        "sl%slider %": "27.1",
+        "sl%slider %": "27.3",
         "cu%curve %": "5.1",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "39",
-        "hh%hard hit %": "44.3",
+        "hh%hard hit %": "43.3",
         "brlbarrels": "5",
-        "brl%barrel %": "5.7",
-        "ab": "117",
-        "avg": ".205",
-        "h": "24",
+        "brl%barrel %": "5.6",
+        "ab": "118",
+        "avg": ".212",
+        "h": "25",
         "1b": "19",
-        "2b": "2",
+        "2b": "3",
         "3b": "1",
         "hr": "2",
         "so": "27",
-        "bipballs in play": "88",
+        "bipballs in play": "90",
         "liveGames": 5,
         "totGames": 11,
-        "updated": "2025-04-07 19:21:58.590822"
+        "updated": "2025-04-07 19:22:06.729285"
     },
     "nyy @ det": [
         {
@@ -1014,6 +1014,20 @@
     ],
     "stl @ pit": [
         {
+            "player": "brendan donovan",
+            "game": "stl @ pit",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-04-07 19:22:01",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "willson contreras",
             "game": "stl @ pit",
             "hr/park": "",
@@ -1022,10 +1036,10 @@
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
             "team": "stl",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "68.1",
+            "la": "-32",
+            "dist": "4"
         },
         {
             "player": "lars nootbaar",
@@ -1333,9 +1347,9 @@
             "team": "lad",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "68.0",
+            "la": "25",
+            "dist": "201"
         },
         {
             "player": "miguel rojas",
@@ -1608,13 +1622,13 @@
         {
             "player": "bo bichette",
             "game": "tor @ bos",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "17",
             "dt": "2025-04-07 19:21:45",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "in": "3",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "109.2",
             "la": "18",
             "dist": "373"
