@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "16",
-        "batters": "90",
-        "pitches": "630",
+        "pitchers": "17",
+        "batters": "91",
+        "pitches": "636",
         "max velomax pitch velocity": "96.8",
         "min velomin pitch velocity": "75.3",
-        "ff%fourseam fastball %": "36.8",
-        "si%sinker %": "13.3",
-        "fc%cutter %": "5.6",
+        "ff%fourseam fastball %": "36.9",
+        "si%sinker %": "13.4",
+        "fc%cutter %": "5.5",
         "fs%splitter %": "3.8",
-        "ch%changeup %": "7.8",
-        "sl%slider %": "27.0",
-        "cu%curve %": "5.7",
+        "ch%changeup %": "7.7",
+        "sl%slider %": "26.9",
+        "cu%curve %": "5.8",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "50",
         "hh%hard hit %": "45.0",
         "brlbarrels": "8",
         "brl%barrel %": "7.2",
-        "ab": "148",
-        "avg": ".230",
+        "ab": "150",
+        "avg": ".227",
         "h": "34",
         "1b": "27",
         "2b": "3",
@@ -28,7 +28,7 @@
         "bipballs in play": "111",
         "liveGames": 7,
         "totGames": 11,
-        "updated": "2025-04-07 19:41:22.227036"
+        "updated": "2025-04-07 19:41:30.801292"
     },
     "nyy @ det": [
         {
@@ -1014,6 +1014,20 @@
     ],
     "stl @ pit": [
         {
+            "player": "endy rodriguez",
+            "game": "stl @ pit",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-04-07 19:41:29",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alexander canario",
             "game": "stl @ pit",
             "hr/park": "0/30",
@@ -1866,7 +1880,7 @@
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
             "team": "bos",
             "in": "3",
-            "result": "Pickoff 2B",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2406,7 +2420,22 @@
             "dist": "129"
         }
     ],
-    "tex @ chc": [],
+    "tex @ chc": [
+        {
+            "player": "marcus semien",
+            "game": "tex @ chc",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-04-07 19:41:29",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "min @ kc": [
         {
             "player": "matt wallner",
