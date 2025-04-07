@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "17",
-        "batters": "91",
-        "pitches": "646",
+        "batters": "93",
+        "pitches": "656",
         "max velomax pitch velocity": "96.8",
         "min velomin pitch velocity": "75.3",
-        "ff%fourseam fastball %": "37.3",
+        "ff%fourseam fastball %": "37.8",
         "si%sinker %": "13.3",
-        "fc%cutter %": "5.6",
+        "fc%cutter %": "5.5",
         "fs%splitter %": "4.0",
-        "ch%changeup %": "7.6",
-        "sl%slider %": "26.5",
-        "cu%curve %": "5.7",
+        "ch%changeup %": "7.5",
+        "sl%slider %": "26.2",
+        "cu%curve %": "5.8",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "50",
-        "hh%hard hit %": "43.5",
+        "hh%hard hit %": "43.1",
         "brlbarrels": "8",
-        "brl%barrel %": "7.0",
-        "ab": "151",
-        "avg": ".238",
+        "brl%barrel %": "6.9",
+        "ab": "154",
+        "avg": ".234",
         "h": "36",
         "1b": "29",
         "2b": "3",
         "3b": "1",
         "hr": "3",
-        "so": "34",
-        "bipballs in play": "115",
+        "so": "36",
+        "bipballs in play": "116",
         "liveGames": 7,
         "totGames": 11,
-        "updated": "2025-04-07 19:42:36.946443"
+        "updated": "2025-04-07 19:42:45.723936"
     },
     "nyy @ det": [
         {
@@ -1022,10 +1022,10 @@
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
             "team": "pit",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "60.2",
+            "la": "15",
+            "dist": "123"
         },
         {
             "player": "endy rodriguez",
@@ -1477,6 +1477,20 @@
         }
     ],
     "lad @ wsh": [
+        {
+            "player": "will smith",
+            "game": "lad @ wsh",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-04-07 19:42:45",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "teoscar hernandez",
             "game": "lad @ wsh",
@@ -2450,6 +2464,20 @@
     ],
     "tex @ chc": [
         {
+            "player": "corey seager",
+            "game": "tex @ chc",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-04-07 19:42:45",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "marcus semien",
             "game": "tex @ chc",
             "hr/park": "",
@@ -2458,13 +2486,27 @@
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
         }
     ],
     "min @ kc": [
+        {
+            "player": "carlos correa",
+            "game": "min @ kc",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-04-07 19:42:45",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "matt wallner",
             "game": "min @ kc",
@@ -2474,7 +2516,7 @@
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
