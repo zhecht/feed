@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "19",
         "batters": "112",
-        "pitches": "831",
+        "pitches": "835",
         "max velomax pitch velocity": "96.8",
         "min velomin pitch velocity": "75.3",
-        "ff%fourseam fastball %": "38.0",
+        "ff%fourseam fastball %": "38.2",
         "si%sinker %": "12.9",
         "fc%cutter %": "5.9",
         "fs%splitter %": "4.2",
         "ch%changeup %": "7.1",
-        "sl%slider %": "26.2",
-        "cu%curve %": "5.7",
+        "sl%slider %": "26.1",
+        "cu%curve %": "5.6",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "62",
-        "hh%hard hit %": "42.5",
+        "hh%hard hit %": "41.9",
         "brlbarrels": "10",
         "brl%barrel %": "6.8",
-        "ab": "196",
-        "avg": ".230",
+        "ab": "197",
+        "avg": ".228",
         "h": "45",
         "1b": "35",
         "2b": "6",
         "3b": "1",
         "hr": "3",
         "so": "49",
-        "bipballs in play": "146",
+        "bipballs in play": "148",
         "liveGames": 7,
         "totGames": 11,
-        "updated": "2025-04-07 19:59:08.384885"
+        "updated": "2025-04-07 19:59:17.341121"
     },
     "nyy @ det": [
         {
@@ -1016,7 +1016,7 @@
         {
             "player": "alec burleson",
             "game": "stl @ pit",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "40",
             "dt": "2025-04-07 19:58:45",
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
@@ -1576,6 +1576,20 @@
     ],
     "lad @ wsh": [
         {
+            "player": "shohei ohtani",
+            "game": "lad @ wsh",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-04-07 19:59:15",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "chris taylor",
             "game": "lad @ wsh",
             "hr/park": "",
@@ -1584,10 +1598,10 @@
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
             "team": "lad",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "82.5",
+            "la": "53",
+            "dist": "224"
         },
         {
             "player": "miguel rojas",
