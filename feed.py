@@ -78,6 +78,8 @@ def parseFeed(data, times, liveGames, totGames, loop):
 		away = convertMLBTeam(away.text.strip())
 		home = convertMLBTeam(home.text.strip())
 		game = f"{away} @ {home}"
+		if game in data:
+			game += "-gm2"
 		data[game] = []
 		if game not in times:
 			times[game] = {}
