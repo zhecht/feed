@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "17",
-        "batters": "94",
-        "pitches": "668",
+        "batters": "96",
+        "pitches": "675",
         "max velomax pitch velocity": "96.8",
         "min velomin pitch velocity": "75.3",
-        "ff%fourseam fastball %": "37.7",
-        "si%sinker %": "13.3",
-        "fc%cutter %": "5.7",
+        "ff%fourseam fastball %": "37.5",
+        "si%sinker %": "13.5",
+        "fc%cutter %": "5.9",
         "fs%splitter %": "3.9",
-        "ch%changeup %": "7.5",
-        "sl%slider %": "26.0",
+        "ch%changeup %": "7.4",
+        "sl%slider %": "26.1",
         "cu%curve %": "5.8",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "51",
-        "hh%hard hit %": "43.6",
+        "hhhard hit": "52",
+        "hh%hard hit %": "44.1",
         "brlbarrels": "9",
-        "brl%barrel %": "7.7",
-        "ab": "158",
-        "avg": ".228",
+        "brl%barrel %": "7.6",
+        "ab": "160",
+        "avg": ".225",
         "h": "36",
         "1b": "28",
         "2b": "4",
         "3b": "1",
         "hr": "3",
         "so": "38",
-        "bipballs in play": "117",
+        "bipballs in play": "118",
         "liveGames": 7,
         "totGames": 11,
-        "updated": "2025-04-07 19:44:12.378369"
+        "updated": "2025-04-07 19:44:20.839906"
     },
     "nyy @ det": [
         {
@@ -1928,15 +1928,29 @@
     ],
     "tor @ bos": [
         {
-            "player": "rafael devers",
+            "player": "alex bregman",
             "game": "tor @ bos",
             "hr/park": "",
+            "pa": "28",
+            "dt": "2025-04-07 19:44:15",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "rafael devers",
+            "game": "tor @ bos",
+            "hr/park": "0/30",
             "pa": "27",
             "dt": "2025-04-07 19:42:59",
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
             "team": "bos",
             "in": "3",
-            "result": "In Progress",
+            "result": "Sac Fly",
             "evo": "104.7",
             "la": "20",
             "dist": "381"
@@ -2308,6 +2322,20 @@
     ],
     "mia @ nym": [
         {
+            "player": "tyrone taylor",
+            "game": "mia @ nym",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-04-07 19:44:15",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "graham pauley",
             "game": "mia @ nym",
             "hr/park": "",
@@ -2550,6 +2578,20 @@
     ],
     "min @ kc": [
         {
+            "player": "byron buxton",
+            "game": "min @ kc",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-04-07 19:44:15",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "carlos correa",
             "game": "min @ kc",
             "hr/park": "",
@@ -2558,10 +2600,10 @@
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "96.6",
+            "la": "-9",
+            "dist": "12"
         },
         {
             "player": "matt wallner",
