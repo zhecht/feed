@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "33",
         "batters": "132",
-        "pitches": "1534",
+        "pitches": "1540",
         "max velomax pitch velocity": "96.8",
         "min velomin pitch velocity": "73.0",
-        "ff%fourseam fastball %": "35.4",
+        "ff%fourseam fastball %": "35.3",
         "si%sinker %": "14.0",
-        "fc%cutter %": "8.3",
+        "fc%cutter %": "8.2",
         "fs%splitter %": "5.2",
-        "ch%changeup %": "6.6",
+        "ch%changeup %": "6.7",
         "sl%slider %": "23.9",
-        "cu%curve %": "6.6",
+        "cu%curve %": "6.7",
         "max evmax exit velocity": "113.2",
         "hhhard hit": "120",
         "hh%hard hit %": "41.7",
         "brlbarrels": "19",
         "brl%barrel %": "6.6",
-        "ab": "356",
-        "avg": ".258",
+        "ab": "359",
+        "avg": ".256",
         "h": "92",
         "1b": "68",
         "2b": "15",
         "3b": "4",
         "hr": "5",
-        "so": "75",
+        "so": "76",
         "bipballs in play": "288",
         "liveGames": 7,
         "totGames": 11,
-        "updated": "2025-04-07 21:05:54.203282"
+        "updated": "2025-04-07 21:06:04.483984"
     },
     "nyy @ det": [
         {
@@ -1014,9 +1014,23 @@
     ],
     "stl @ pit": [
         {
-            "player": "endy rodriguez",
+            "player": "isiah kiner falefa",
             "game": "stl @ pit",
             "hr/park": "",
+            "pa": "70",
+            "dt": "2025-04-07 21:05:59",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "endy rodriguez",
+            "game": "stl @ pit",
+            "hr/park": "0/30",
             "pa": "69",
             "dt": "2025-04-07 21:05:31",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
@@ -1981,6 +1995,20 @@
         }
     ],
     "lad @ wsh": [
+        {
+            "player": "paul dejong",
+            "game": "lad @ wsh",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-04-07 21:05:59",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "josh bell",
             "game": "lad @ wsh",
@@ -5084,6 +5112,20 @@
     ],
     "min @ kc": [
         {
+            "player": "michael massey",
+            "game": "min @ kc",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-04-07 21:05:59",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "salvador perez",
             "game": "min @ kc",
             "hr/park": "",
@@ -5092,7 +5134,7 @@
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
