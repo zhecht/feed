@@ -126,11 +126,16 @@ if __name__ == '__main__':
 	parser.add_argument("--sport")
 	parser.add_argument("--date", "-d")
 	parser.add_argument("--loop", action="store_true")
+	parser.add_argument("--clear", action="store_true")
 
 	args = parser.parse_args()
 
 	date = args.date
 	if not date:
 		date = str(datetime.now())[:10]
+
+	if args.clear:
+		with open("feed_times.json", "w") as fh:
+			json.dump({}, fh)
 
 	uc.loop().run_until_complete(writeFeed(date, args.loop))
