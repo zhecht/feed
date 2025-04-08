@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "19",
         "batters": "116",
-        "pitches": "879",
+        "pitches": "885",
         "max velomax pitch velocity": "96.8",
         "min velomin pitch velocity": "75.3",
-        "ff%fourseam fastball %": "37.8",
+        "ff%fourseam fastball %": "37.7",
         "si%sinker %": "12.9",
-        "fc%cutter %": "6.1",
+        "fc%cutter %": "6.2",
         "fs%splitter %": "4.0",
         "ch%changeup %": "7.5",
-        "sl%slider %": "25.8",
-        "cu%curve %": "5.9",
+        "sl%slider %": "25.6",
+        "cu%curve %": "6.1",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "65",
-        "hh%hard hit %": "42.5",
+        "hh%hard hit %": "42.2",
         "brlbarrels": "11",
-        "brl%barrel %": "7.2",
+        "brl%barrel %": "7.1",
         "ab": "206",
         "avg": ".233",
         "h": "48",
@@ -24,11 +24,11 @@
         "2b": "7",
         "3b": "2",
         "hr": "3",
-        "so": "50",
-        "bipballs in play": "153",
+        "so": "51",
+        "bipballs in play": "154",
         "liveGames": 7,
         "totGames": 11,
-        "updated": "2025-04-07 20:03:11.559297"
+        "updated": "2025-04-07 20:03:20.601102"
     },
     "nyy @ det": [
         {
@@ -1022,7 +1022,7 @@
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
             "team": "pit",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1612,10 +1612,10 @@
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
             "team": "lad",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "75.3",
+            "la": "-30",
+            "dist": "6"
         },
         {
             "player": "shohei ohtani",
@@ -2160,7 +2160,7 @@
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "in": "5",
-            "result": "Stolen Base 2B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
