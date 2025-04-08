@@ -1,23 +1,23 @@
 {
     "all": {
         "pitchers": "51",
-        "batters": "176",
-        "pitches": "2052",
+        "batters": "177",
+        "pitches": "2057",
         "max velomax pitch velocity": "100.5",
         "min velomin pitch velocity": "73.0",
         "ff%fourseam fastball %": "35.5",
-        "si%sinker %": "13.9",
+        "si%sinker %": "14.0",
         "fc%cutter %": "7.7",
         "fs%splitter %": "5.2",
         "ch%changeup %": "6.8",
-        "sl%slider %": "24.0",
+        "sl%slider %": "23.9",
         "cu%curve %": "6.9",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "168",
-        "hh%hard hit %": "43.2",
+        "hh%hard hit %": "43.1",
         "brlbarrels": "30",
         "brl%barrel %": "7.7",
-        "ab": "485",
+        "ab": "486",
         "avg": ".243",
         "h": "118",
         "1b": "88",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "8",
         "so": "104",
-        "bipballs in play": "389",
+        "bipballs in play": "390",
         "liveGames": 11,
         "totGames": 11,
-        "updated": "2025-04-07 22:07:23.736672"
+        "updated": "2025-04-07 22:07:35.185396"
     },
     "nyy @ det": [
         {
@@ -7088,6 +7088,20 @@
     ],
     "bal @ ari": [
         {
+            "player": "gabriel moreno",
+            "game": "bal @ ari",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-04-07 22:07:31",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "in": "2",
+            "result": "Groundout",
+            "evo": "92.3",
+            "la": "-8",
+            "dist": "14"
+        },
+        {
             "player": "eugenio suarez",
             "game": "bal @ ari",
             "hr/park": "1/30",
@@ -7620,7 +7634,7 @@
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
             "team": "sd",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7628,7 +7642,7 @@
         {
             "player": "fernando tatis",
             "game": "sd @ ath",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "1",
             "dt": "2025-04-07 22:07:01",
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
