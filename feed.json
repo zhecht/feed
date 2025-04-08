@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "10",
         "batters": "54",
-        "pitches": "415",
+        "pitches": "416",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "69.1",
-        "ff%fourseam fastball %": "26.5",
-        "si%sinker %": "23.9",
+        "ff%fourseam fastball %": "26.9",
+        "si%sinker %": "23.8",
         "fc%cutter %": "4.1",
         "fs%splitter %": "1.4",
         "ch%changeup %": "16.1",
-        "sl%slider %": "26.0",
+        "sl%slider %": "25.7",
         "cu%curve %": "1.9",
         "max evmax exit velocity": "110.0",
         "hhhard hit": "28",
-        "hh%hard hit %": "39.4",
+        "hh%hard hit %": "38.9",
         "brlbarrels": "6",
-        "brl%barrel %": "8.5",
+        "brl%barrel %": "8.3",
         "ab": "101",
         "avg": ".208",
         "h": "21",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "5",
         "so": "28",
-        "bipballs in play": "71",
+        "bipballs in play": "72",
         "liveGames": 2,
         "totGames": 15,
-        "updated": "2025-04-08 16:58:06.480783"
+        "updated": "2025-04-08 16:58:14.744523"
     },
     "nyy @ det": [
         {
@@ -958,20 +958,6 @@
     ],
     "chw @ cle": [
         {
-            "player": "nick maton",
-            "game": "chw @ cle",
-            "hr/park": "",
-            "pa": "21",
-            "dt": "2025-04-08 16:58:01",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "luis robert",
             "game": "chw @ cle",
             "hr/park": "",
@@ -1254,6 +1240,20 @@
     ],
     "mia @ nym": [
         {
+            "player": "francisco lindor",
+            "game": "mia @ nym",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-04-08 16:58:14",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "hayden senger",
             "game": "mia @ nym",
             "hr/park": "",
@@ -1262,10 +1262,10 @@
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
             "team": "nym",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "60.8",
+            "la": "-54",
+            "dist": "2"
         },
         {
             "player": "otto lopez",
