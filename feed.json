@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "39",
         "batters": "163",
-        "pitches": "1473",
+        "pitches": "1477",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "69.1",
         "ff%fourseam fastball %": "35.6",
         "si%sinker %": "12.7",
-        "fc%cutter %": "7.0",
+        "fc%cutter %": "6.9",
         "fs%splitter %": "2.4",
-        "ch%changeup %": "13.8",
+        "ch%changeup %": "13.7",
         "sl%slider %": "22.5",
-        "cu%curve %": "5.8",
+        "cu%curve %": "6.0",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "93",
-        "hh%hard hit %": "38.1",
+        "hhhard hit": "94",
+        "hh%hard hit %": "38.2",
         "brlbarrels": "20",
-        "brl%barrel %": "8.2",
-        "ab": "339",
-        "avg": ".204",
+        "brl%barrel %": "8.1",
+        "ab": "340",
+        "avg": ".203",
         "h": "69",
         "1b": "50",
         "2b": "7",
         "3b": "1",
         "hr": "11",
         "so": "93",
-        "bipballs in play": "244",
+        "bipballs in play": "246",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-04-08 19:56:43.529431"
+        "updated": "2025-04-08 19:56:54.984853"
     },
     "nyy @ det": [
         {
@@ -2978,6 +2978,20 @@
     ],
     "stl @ pit": [
         {
+            "player": "endy rodriguez",
+            "game": "stl @ pit",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-04-08 19:56:47",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tommy pham",
             "game": "stl @ pit",
             "hr/park": "",
@@ -2986,10 +3000,10 @@
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
             "team": "pit",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "72.9",
+            "la": "7",
+            "dist": "90"
         },
         {
             "player": "willson contreras",
@@ -3998,10 +4012,10 @@
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "109.6",
+            "la": "11",
+            "dist": "281"
         },
         {
             "player": "bo bichette",
@@ -5068,7 +5082,7 @@
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
