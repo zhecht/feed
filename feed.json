@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "20",
+        "pitchers": "21",
         "batters": "129",
-        "pitches": "1091",
+        "pitches": "1097",
         "max velomax pitch velocity": "96.8",
         "min velomin pitch velocity": "73.5",
-        "ff%fourseam fastball %": "36.2",
+        "ff%fourseam fastball %": "36.4",
         "si%sinker %": "12.9",
         "fc%cutter %": "7.3",
         "fs%splitter %": "4.5",
         "ch%changeup %": "6.7",
-        "sl%slider %": "25.4",
+        "sl%slider %": "25.3",
         "cu%curve %": "7.0",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "81",
-        "hh%hard hit %": "39.7",
+        "hh%hard hit %": "39.5",
         "brlbarrels": "13",
-        "brl%barrel %": "6.4",
-        "ab": "254",
-        "avg": ".244",
+        "brl%barrel %": "6.3",
+        "ab": "258",
+        "avg": ".240",
         "h": "62",
         "1b": "45",
         "2b": "11",
         "3b": "2",
         "hr": "4",
-        "so": "55",
-        "bipballs in play": "204",
+        "so": "56",
+        "bipballs in play": "205",
         "liveGames": 7,
         "totGames": 11,
-        "updated": "2025-04-07 20:23:44.356178"
+        "updated": "2025-04-07 20:23:53.750647"
     },
     "nyy @ det": [
         {
@@ -1014,6 +1014,20 @@
     ],
     "stl @ pit": [
         {
+            "player": "alexander canario",
+            "game": "stl @ pit",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-04-07 20:23:47",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "in": "6",
+            "result": "Field Error",
+            "evo": "91.2",
+            "la": "-13",
+            "dist": "13"
+        },
+        {
             "player": "tommy pham",
             "game": "stl @ pit",
             "hr/park": "",
@@ -1715,6 +1729,20 @@
         }
     ],
     "lad @ wsh": [
+        {
+            "player": "enrique hernandez",
+            "game": "lad @ wsh",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-04-07 20:23:47",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "paul dejong",
             "game": "lad @ wsh",
@@ -3022,6 +3050,20 @@
     ],
     "mia @ nym": [
         {
+            "player": "tyrone taylor",
+            "game": "mia @ nym",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-04-07 20:23:47",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jesse winker",
             "game": "mia @ nym",
             "hr/park": "",
@@ -3458,6 +3500,20 @@
     ],
     "tex @ chc": [
         {
+            "player": "ian happ",
+            "game": "tex @ chc",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-04-07 20:23:47",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gage workman",
             "game": "tex @ chc",
             "hr/park": "",
@@ -3466,7 +3522,7 @@
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
             "team": "chc",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
