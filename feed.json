@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "39",
         "batters": "159",
-        "pitches": "1430",
+        "pitches": "1432",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "69.1",
         "ff%fourseam fastball %": "35.5",
         "si%sinker %": "12.6",
         "fc%cutter %": "6.9",
         "fs%splitter %": "2.5",
-        "ch%changeup %": "13.9",
-        "sl%slider %": "23.1",
-        "cu%curve %": "5.4",
+        "ch%changeup %": "14.0",
+        "sl%slider %": "23.0",
+        "cu%curve %": "5.3",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "89",
-        "hh%hard hit %": "37.6",
+        "hh%hard hit %": "37.4",
         "brlbarrels": "18",
         "brl%barrel %": "7.6",
         "ab": "330",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "9",
         "so": "93",
-        "bipballs in play": "237",
+        "bipballs in play": "238",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-04-08 19:53:27.963053"
+        "updated": "2025-04-08 19:53:37.995949"
     },
     "nyy @ det": [
         {
@@ -3464,7 +3464,7 @@
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
             "team": "wsh",
             "in": "4",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3934,6 +3934,20 @@
     ],
     "tor @ bos": [
         {
+            "player": "bo bichette",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-04-08 19:53:31",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alan roden",
             "game": "tor @ bos",
             "hr/park": "",
@@ -3942,10 +3956,10 @@
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "45.7",
+            "la": "-50",
+            "dist": "3"
         },
         {
             "player": "tyler heineman",
@@ -4716,7 +4730,7 @@
             "img": "https://www.mlbstatic.com/team-logos/144.svg",
             "team": "atl",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
