@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "46",
-        "batters": "143",
-        "pitches": "1875",
+        "batters": "144",
+        "pitches": "1880",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "73.0",
-        "ff%fourseam fastball %": "35.8",
+        "ff%fourseam fastball %": "35.9",
         "si%sinker %": "13.8",
         "fc%cutter %": "7.8",
         "fs%splitter %": "5.2",
@@ -13,11 +13,11 @@
         "sl%slider %": "23.8",
         "cu%curve %": "6.6",
         "max evmax exit velocity": "113.9",
-        "hhhard hit": "153",
-        "hh%hard hit %": "42.9",
+        "hhhard hit": "154",
+        "hh%hard hit %": "43.0",
         "brlbarrels": "25",
         "brl%barrel %": "7.0",
-        "ab": "444",
+        "ab": "445",
         "avg": ".252",
         "h": "112",
         "1b": "83",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "8",
         "so": "93",
-        "bipballs in play": "357",
+        "bipballs in play": "358",
         "liveGames": 10,
         "totGames": 11,
-        "updated": "2025-04-07 21:46:54.717804"
+        "updated": "2025-04-07 21:47:05.574911"
     },
     "nyy @ det": [
         {
@@ -4200,16 +4200,16 @@
         {
             "player": "jonah bride",
             "game": "mia @ nym",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "67",
             "dt": "2025-04-07 21:46:30",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
             "team": "mia",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "97.6",
+            "la": "27",
+            "dist": "359"
         },
         {
             "player": "hayden senger",
@@ -5138,6 +5138,20 @@
     ],
     "tex @ chc": [
         {
+            "player": "kyle tucker",
+            "game": "tex @ chc",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-04-07 21:47:01",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ian happ",
             "game": "tex @ chc",
             "hr/park": "",
@@ -5146,7 +5160,7 @@
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
             "team": "chc",
             "in": "8",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "99.0",
             "la": "-12",
             "dist": "13"
@@ -6964,6 +6978,20 @@
     ],
     "hou @ sea": [
         {
+            "player": "christian walker",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-04-07 21:47:01",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "yordan alvarez",
             "game": "hou @ sea",
             "hr/park": "",
@@ -6972,7 +7000,7 @@
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
             "team": "hou",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
