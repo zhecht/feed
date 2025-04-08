@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "50",
-        "batters": "174",
-        "pitches": "2047",
+        "pitchers": "51",
+        "batters": "175",
+        "pitches": "2051",
         "max velomax pitch velocity": "100.5",
         "min velomin pitch velocity": "73.0",
-        "ff%fourseam fastball %": "35.4",
+        "ff%fourseam fastball %": "35.5",
         "si%sinker %": "13.9",
         "fc%cutter %": "7.7",
         "fs%splitter %": "5.2",
@@ -13,22 +13,22 @@
         "sl%slider %": "24.0",
         "cu%curve %": "6.9",
         "max evmax exit velocity": "113.9",
-        "hhhard hit": "167",
+        "hhhard hit": "168",
         "hh%hard hit %": "43.2",
-        "brlbarrels": "29",
-        "brl%barrel %": "7.5",
-        "ab": "483",
+        "brlbarrels": "30",
+        "brl%barrel %": "7.7",
+        "ab": "484",
         "avg": ".244",
         "h": "118",
         "1b": "88",
         "2b": "18",
         "3b": "4",
         "hr": "8",
-        "so": "103",
-        "bipballs in play": "387",
+        "so": "104",
+        "bipballs in play": "389",
         "liveGames": 11,
         "totGames": 11,
-        "updated": "2025-04-07 22:06:49.997148"
+        "updated": "2025-04-07 22:07:01.415221"
     },
     "nyy @ det": [
         {
@@ -6134,6 +6134,20 @@
     ],
     "min @ kc": [
         {
+            "player": "ty france",
+            "game": "min @ kc",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-04-07 22:07:01",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "in": "9",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trevor larnach",
             "game": "min @ kc",
             "hr/park": "",
@@ -7076,7 +7090,7 @@
         {
             "player": "eugenio suarez",
             "game": "bal @ ari",
-            "hr/park": "",
+            "hr/park": "1/30",
             "pa": "14",
             "dt": "2025-04-07 22:06:16",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
@@ -7280,7 +7294,7 @@
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
             "team": "hou",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7436,7 +7450,7 @@
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
             "team": "cin",
             "in": "2",
-            "result": "In Progress",
+            "result": "Runner Out",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7596,5 +7610,20 @@
             "dist": "287"
         }
     ],
-    "sd @ ath": []
+    "sd @ ath": [
+        {
+            "player": "fernando tatis",
+            "game": "sd @ ath",
+            "hr/park": "0/30",
+            "pa": "1",
+            "dt": "2025-04-07 22:07:01",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "in": "1",
+            "result": "Flyout",
+            "evo": "99.9",
+            "la": "28",
+            "dist": "377"
+        }
+    ]
 }
