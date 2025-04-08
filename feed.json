@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "34",
         "batters": "135",
-        "pitches": "1208",
+        "pitches": "1210",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "69.1",
         "ff%fourseam fastball %": "33.9",
-        "si%sinker %": "13.2",
+        "si%sinker %": "13.1",
         "fc%cutter %": "6.8",
         "fs%splitter %": "2.5",
         "ch%changeup %": "14.0",
         "sl%slider %": "25.2",
         "cu%curve %": "4.4",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "79",
-        "hh%hard hit %": "38.9",
+        "hhhard hit": "80",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "17",
-        "brl%barrel %": "8.4",
-        "ab": "279",
+        "brl%barrel %": "8.3",
+        "ab": "280",
         "avg": ".211",
         "h": "59",
         "1b": "44",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "8",
         "so": "78",
-        "bipballs in play": "203",
+        "bipballs in play": "204",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-04-08 19:35:56.599528"
+        "updated": "2025-04-08 19:36:06.934067"
     },
     "nyy @ det": [
         {
@@ -3358,6 +3358,20 @@
     ],
     "lad @ wsh": [
         {
+            "player": "paul dejong",
+            "game": "lad @ wsh",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-04-08 19:35:59",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis garcia",
             "game": "lad @ wsh",
             "hr/park": "",
@@ -3366,7 +3380,7 @@
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
             "team": "wsh",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "96.7",
             "la": "-16",
             "dist": "11"
@@ -4276,16 +4290,16 @@
         {
             "player": "marcell ozuna",
             "game": "phi @ atl",
-            "hr/park": "",
+            "hr/park": "23/30",
             "pa": "9",
             "dt": "2025-04-08 19:34:32",
             "img": "https://www.mlbstatic.com/team-logos/144.svg",
             "team": "atl",
             "in": "1",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "102.8",
+            "la": "43",
+            "dist": "352"
         },
         {
             "player": "ozzie albies",
