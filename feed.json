@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "21",
-        "batters": "129",
-        "pitches": "1151",
+        "pitchers": "22",
+        "batters": "130",
+        "pitches": "1158",
         "max velomax pitch velocity": "96.8",
         "min velomin pitch velocity": "73.4",
-        "ff%fourseam fastball %": "35.8",
+        "ff%fourseam fastball %": "35.7",
         "si%sinker %": "13.4",
-        "fc%cutter %": "7.8",
-        "fs%splitter %": "4.5",
+        "fc%cutter %": "7.9",
+        "fs%splitter %": "4.6",
         "ch%changeup %": "6.4",
         "sl%slider %": "25.0",
-        "cu%curve %": "7.0",
+        "cu%curve %": "7.1",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "83",
-        "hh%hard hit %": "38.6",
+        "hhhard hit": "84",
+        "hh%hard hit %": "38.7",
         "brlbarrels": "13",
         "brl%barrel %": "6.0",
-        "ab": "269",
-        "avg": ".238",
+        "ab": "272",
+        "avg": ".235",
         "h": "64",
         "1b": "47",
         "2b": "11",
         "3b": "2",
         "hr": "4",
         "so": "58",
-        "bipballs in play": "215",
+        "bipballs in play": "217",
         "liveGames": 7,
         "totGames": 11,
-        "updated": "2025-04-07 20:29:56.778345"
+        "updated": "2025-04-07 20:30:06.455427"
     },
     "nyy @ det": [
         {
@@ -1014,6 +1014,20 @@
     ],
     "stl @ pit": [
         {
+            "player": "lars nootbaar",
+            "game": "stl @ pit",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-04-07 20:30:00",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "masyn winn",
             "game": "stl @ pit",
             "hr/park": "",
@@ -1022,10 +1036,10 @@
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
             "team": "stl",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "86.5",
+            "la": "48",
+            "dist": "260"
         },
         {
             "player": "endy rodriguez",
@@ -1757,6 +1771,20 @@
         }
     ],
     "lad @ wsh": [
+        {
+            "player": "amed rosario",
+            "game": "lad @ wsh",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-04-07 20:30:00",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "102.3",
+            "la": "13",
+            "dist": "277"
+        },
         {
             "player": "miguel rojas",
             "game": "lad @ wsh",
@@ -3598,6 +3626,20 @@
     ],
     "tex @ chc": [
         {
+            "player": "michael busch",
+            "game": "tex @ chc",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-04-07 20:30:00",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "seiya suzuki",
             "game": "tex @ chc",
             "hr/park": "",
@@ -3944,7 +3986,7 @@
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
