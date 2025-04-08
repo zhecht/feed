@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "20",
         "batters": "126",
-        "pitches": "1023",
+        "pitches": "1030",
         "max velomax pitch velocity": "96.8",
         "min velomin pitch velocity": "74.3",
-        "ff%fourseam fastball %": "36.7",
+        "ff%fourseam fastball %": "36.6",
         "si%sinker %": "13.1",
-        "fc%cutter %": "7.0",
+        "fc%cutter %": "7.1",
         "fs%splitter %": "4.2",
         "ch%changeup %": "6.9",
-        "sl%slider %": "25.5",
+        "sl%slider %": "25.6",
         "cu%curve %": "6.5",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "78",
-        "hh%hard hit %": "41.7",
+        "hhhard hit": "79",
+        "hh%hard hit %": "41.6",
         "brlbarrels": "13",
-        "brl%barrel %": "7.0",
-        "ab": "241",
-        "avg": ".241",
-        "h": "58",
-        "1b": "41",
+        "brl%barrel %": "6.8",
+        "ab": "242",
+        "avg": ".244",
+        "h": "59",
+        "1b": "42",
         "2b": "11",
         "3b": "2",
         "hr": "4",
         "so": "54",
-        "bipballs in play": "187",
+        "bipballs in play": "190",
         "liveGames": 7,
         "totGames": 11,
-        "updated": "2025-04-07 20:17:08.378016"
+        "updated": "2025-04-07 20:17:17.765721"
     },
     "nyy @ det": [
         {
@@ -1696,10 +1696,10 @@
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
             "team": "wsh",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "94.4",
+            "la": "-41",
+            "dist": "3"
         },
         {
             "player": "will smith",
@@ -2334,6 +2334,20 @@
     ],
     "tor @ bos": [
         {
+            "player": "nathan lukes",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-04-07 20:17:16",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "will wagner",
             "game": "tor @ bos",
             "hr/park": "",
@@ -2342,7 +2356,7 @@
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "in": "6",
-            "result": "In Progress",
+            "result": "Field Error",
             "evo": "75.4",
             "la": "54",
             "dist": "177"
@@ -3334,16 +3348,16 @@
         {
             "player": "wyatt langford",
             "game": "tex @ chc",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "19",
             "dt": "2025-04-07 20:16:00",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "87.1",
+            "la": "35",
+            "dist": "303"
         },
         {
             "player": "corey seager",
@@ -3608,10 +3622,10 @@
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "102.4",
+            "la": "8",
+            "dist": "181"
         },
         {
             "player": "mj melendez",
