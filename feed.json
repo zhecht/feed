@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "34",
         "batters": "135",
-        "pitches": "1205",
+        "pitches": "1208",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "69.1",
         "ff%fourseam fastball %": "33.9",
         "si%sinker %": "13.2",
         "fc%cutter %": "6.8",
-        "fs%splitter %": "2.4",
+        "fs%splitter %": "2.5",
         "ch%changeup %": "14.0",
-        "sl%slider %": "25.1",
+        "sl%slider %": "25.2",
         "cu%curve %": "4.4",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "78",
-        "hh%hard hit %": "38.8",
+        "hhhard hit": "79",
+        "hh%hard hit %": "38.9",
         "brlbarrels": "17",
-        "brl%barrel %": "8.5",
+        "brl%barrel %": "8.4",
         "ab": "279",
         "avg": ".211",
         "h": "59",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "8",
         "so": "78",
-        "bipballs in play": "201",
+        "bipballs in play": "203",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-04-08 19:35:36.957426"
+        "updated": "2025-04-08 19:35:46.579488"
     },
     "nyy @ det": [
         {
@@ -2978,6 +2978,20 @@
     ],
     "stl @ pit": [
         {
+            "player": "michael siani",
+            "game": "stl @ pit",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-04-08 19:35:44",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "96.7",
+            "la": "-7",
+            "dist": "19"
+        },
+        {
             "player": "pedro pages",
             "game": "stl @ pit",
             "hr/park": "",
@@ -2986,10 +3000,10 @@
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
             "team": "stl",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Field Error",
+            "evo": "77.1",
+            "la": "2",
+            "dist": "49"
         },
         {
             "player": "jordan walker",
@@ -4070,7 +4084,7 @@
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
