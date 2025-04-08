@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "25",
         "batters": "130",
-        "pitches": "1261",
+        "pitches": "1262",
         "max velomax pitch velocity": "96.8",
         "min velomin pitch velocity": "73.4",
         "ff%fourseam fastball %": "36.2",
-        "si%sinker %": "12.9",
+        "si%sinker %": "13.0",
         "fc%cutter %": "7.8",
-        "fs%splitter %": "5.0",
-        "ch%changeup %": "6.6",
+        "fs%splitter %": "5.1",
+        "ch%changeup %": "6.5",
         "sl%slider %": "24.7",
         "cu%curve %": "6.7",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "94",
-        "hh%hard hit %": "39.8",
+        "hh%hard hit %": "39.7",
         "brlbarrels": "14",
         "brl%barrel %": "5.9",
-        "ab": "295",
-        "avg": ".244",
+        "ab": "297",
+        "avg": ".242",
         "h": "72",
         "1b": "53",
         "2b": "12",
         "3b": "2",
         "hr": "5",
-        "so": "63",
-        "bipballs in play": "236",
+        "so": "64",
+        "bipballs in play": "237",
         "liveGames": 7,
         "totGames": 11,
-        "updated": "2025-04-07 20:39:52.938382"
+        "updated": "2025-04-07 20:40:02.675813"
     },
     "nyy @ det": [
         {
@@ -2600,6 +2600,20 @@
     ],
     "tor @ bos": [
         {
+            "player": "andres gimenez",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-04-07 20:40:00",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "anthony santander",
             "game": "tor @ bos",
             "hr/park": "",
@@ -2608,7 +2622,7 @@
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3836,6 +3850,20 @@
     ],
     "tex @ chc": [
         {
+            "player": "pete crow armstrong",
+            "game": "tex @ chc",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-04-07 20:40:00",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "miguel amaya",
             "game": "tex @ chc",
             "hr/park": "",
@@ -3844,10 +3872,10 @@
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
             "team": "chc",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "71.5",
+            "la": "7",
+            "dist": "93"
         },
         {
             "player": "jake burger",
