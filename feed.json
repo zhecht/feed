@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "24",
-        "batters": "61",
-        "pitches": "777",
+        "batters": "62",
+        "pitches": "779",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "69.1",
-        "ff%fourseam fastball %": "28.1",
+        "ff%fourseam fastball %": "28.4",
         "si%sinker %": "15.8",
         "fc%cutter %": "6.7",
         "fs%splitter %": "1.2",
-        "ch%changeup %": "16.9",
-        "sl%slider %": "28.8",
+        "ch%changeup %": "16.8",
+        "sl%slider %": "28.6",
         "cu%curve %": "2.3",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "49",
-        "hh%hard hit %": "38.6",
+        "hh%hard hit %": "38.3",
         "brlbarrels": "11",
-        "brl%barrel %": "8.7",
-        "ab": "178",
-        "avg": ".208",
+        "brl%barrel %": "8.6",
+        "ab": "179",
+        "avg": ".207",
         "h": "37",
         "1b": "26",
         "2b": "5",
         "3b": "0",
         "hr": "6",
         "so": "51",
-        "bipballs in play": "127",
+        "bipballs in play": "128",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-04-08 18:47:59.114314"
+        "updated": "2025-04-08 18:48:07.711196"
     },
     "nyy @ det": [
         {
@@ -1878,10 +1878,10 @@
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
             "team": "nym",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "86.9",
+            "la": "-49",
+            "dist": "1"
         },
         {
             "player": "luisangel acuna",
@@ -2790,7 +2790,7 @@
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
             "team": "stl",
             "in": "1",
-            "result": "Strikeout",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2812,6 +2812,20 @@
     ],
     "lad @ wsh": [
         {
+            "player": "mookie betts",
+            "game": "lad @ wsh",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-04-08 18:48:02",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "shohei ohtani",
             "game": "lad @ wsh",
             "hr/park": "",
@@ -2820,7 +2834,7 @@
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
             "team": "lad",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
