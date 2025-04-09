@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "42",
         "batters": "184",
-        "pitches": "1783",
+        "pitches": "1786",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "65.6",
         "ff%fourseam fastball %": "35.6",
@@ -14,21 +14,21 @@
         "cu%curve %": "6.6",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "116",
-        "hh%hard hit %": "38.2",
+        "hh%hard hit %": "38.0",
         "brlbarrels": "27",
         "brl%barrel %": "8.9",
-        "ab": "414",
-        "avg": ".215",
-        "h": "89",
-        "1b": "61",
+        "ab": "415",
+        "avg": ".217",
+        "h": "90",
+        "1b": "62",
         "2b": "12",
         "3b": "2",
         "hr": "14",
         "so": "113",
-        "bipballs in play": "304",
+        "bipballs in play": "305",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-04-08 20:21:04.943698"
+        "updated": "2025-04-08 20:21:16.886238"
     },
     "nyy @ det": [
         {
@@ -3624,6 +3624,20 @@
     ],
     "lad @ wsh": [
         {
+            "player": "enrique hernandez",
+            "game": "lad @ wsh",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-04-08 20:21:14",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael conforto",
             "game": "lad @ wsh",
             "hr/park": "",
@@ -4314,7 +4328,7 @@
         {
             "player": "vladimir guerrero",
             "game": "tor @ bos",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "47",
             "dt": "2025-04-08 20:20:30",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
@@ -5452,7 +5466,7 @@
         {
             "player": "trea turner",
             "game": "phi @ atl",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "32",
             "dt": "2025-04-08 20:19:16",
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
@@ -5908,10 +5922,10 @@
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
             "team": "chc",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "85.3",
+            "la": "21",
+            "dist": "238"
         },
         {
             "player": "ian happ",
