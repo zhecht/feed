@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "111",
+        "pitchers": "110",
         "batters": "298",
-        "pitches": "4029",
+        "pitches": "4031",
         "max velomax pitch velocity": "101.7",
         "min velomin pitch velocity": "65.6",
         "ff%fourseam fastball %": "33.2",
@@ -13,22 +13,22 @@
         "sl%slider %": "20.8",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "116.7",
-        "hhhard hit": "278",
-        "hh%hard hit %": "39.0",
-        "brlbarrels": "55",
-        "brl%barrel %": "7.7",
+        "hhhard hit": "279",
+        "hh%hard hit %": "39.1",
+        "brlbarrels": "56",
+        "brl%barrel %": "7.8",
         "ab": "938",
-        "avg": ".233",
-        "h": "219",
-        "1b": "146",
+        "avg": ".235",
+        "h": "220",
+        "1b": "147",
         "2b": "41",
         "3b": "8",
         "hr": "24",
         "so": "247",
-        "bipballs in play": "713",
+        "bipballs in play": "714",
         "liveGames": 12,
         "totGames": 14,
-        "updated": "2025-04-08 23:48:36.052049"
+        "updated": "2025-04-08 23:48:51.251930"
     },
     "nyy @ det": [
         {
@@ -11458,10 +11458,10 @@
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "101.8",
+            "la": "27",
+            "dist": "392"
         },
         {
             "player": "corbin carroll",
@@ -12244,7 +12244,7 @@
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "in": "7",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12979,20 +12979,6 @@
         }
     ],
     "cin @ sf": [
-        {
-            "player": "jung hoo lee",
-            "game": "cin @ sf",
-            "hr/park": "",
-            "pa": "65",
-            "dt": "2025-04-08 23:48:36",
-            "img": "https://www.mlbstatic.com/team-logos/137.svg",
-            "team": "sf",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "spencer steer",
             "game": "cin @ sf",
@@ -13892,6 +13878,20 @@
     ],
     "sd @ ath": [
         {
+            "player": "martin maldonado",
+            "game": "sd @ ath",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-04-08 23:48:51",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brandon lockridge",
             "game": "sd @ ath",
             "hr/park": "",
@@ -13900,7 +13900,7 @@
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
             "team": "sd",
             "in": "6",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "76.1",
             "la": "-5",
             "dist": "23"
