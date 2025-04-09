@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "98",
         "batters": "262",
-        "pitches": "3293",
+        "pitches": "3300",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "63.1",
         "ff%fourseam fastball %": "32.3",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.1",
         "max evmax exit velocity": "114.3",
         "hhhard hit": "224",
-        "hh%hard hit %": "39.0",
+        "hh%hard hit %": "38.8",
         "brlbarrels": "44",
-        "brl%barrel %": "7.7",
-        "ab": "752",
-        "avg": ".207",
-        "h": "156",
-        "1b": "112",
+        "brl%barrel %": "7.6",
+        "ab": "753",
+        "avg": ".208",
+        "h": "157",
+        "1b": "113",
         "2b": "21",
         "3b": "5",
         "hr": "18",
         "so": "190",
-        "bipballs in play": "575",
+        "bipballs in play": "577",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-09 19:58:15.964640"
+        "updated": "2025-04-09 19:58:28.176133"
     },
     "stl @ pit": [
         {
@@ -10636,6 +10636,34 @@
     ],
     "tor @ bos": [
         {
+            "player": "vladimir guerrero",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-04-09 19:58:26",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "bo bichette",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-04-09 19:58:26",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "91.8",
+            "la": "8",
+            "dist": "125"
+        },
+        {
             "player": "david hamilton",
             "game": "tor @ bos",
             "hr/park": "",
@@ -11136,10 +11164,10 @@
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "88.3",
+            "la": "5",
+            "dist": "88"
         },
         {
             "player": "junior caminero",
@@ -11530,7 +11558,7 @@
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
