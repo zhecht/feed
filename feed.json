@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "41",
-        "batters": "181",
-        "pitches": "1730",
+        "batters": "182",
+        "pitches": "1732",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "65.6",
         "ff%fourseam fastball %": "35.9",
-        "si%sinker %": "12.5",
+        "si%sinker %": "12.6",
         "fc%cutter %": "7.0",
         "fs%splitter %": "2.4",
         "ch%changeup %": "13.7",
@@ -14,21 +14,21 @@
         "cu%curve %": "6.5",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "111",
-        "hh%hard hit %": "37.9",
+        "hh%hard hit %": "37.8",
         "brlbarrels": "26",
-        "brl%barrel %": "8.9",
-        "ab": "400",
-        "avg": ".220",
+        "brl%barrel %": "8.8",
+        "ab": "401",
+        "avg": ".219",
         "h": "88",
         "1b": "60",
         "2b": "12",
         "3b": "2",
         "hr": "14",
         "so": "110",
-        "bipballs in play": "293",
+        "bipballs in play": "294",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-04-08 20:16:42.073008"
+        "updated": "2025-04-08 20:16:53.084593"
     },
     "nyy @ det": [
         {
@@ -2978,6 +2978,20 @@
     ],
     "stl @ pit": [
         {
+            "player": "alexander canario",
+            "game": "stl @ pit",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-04-08 20:16:45",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "isiah kiner falefa",
             "game": "stl @ pit",
             "hr/park": "",
@@ -2986,10 +3000,10 @@
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
             "team": "pit",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "76.8",
+            "la": "11",
+            "dist": "149"
         },
         {
             "player": "michael siani",
@@ -4890,13 +4904,13 @@
         {
             "player": "tim anderson",
             "game": "laa @ tb",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "32",
             "dt": "2025-04-08 20:16:16",
             "img": "https://www.mlbstatic.com/team-logos/108.svg",
             "team": "laa",
             "in": "5",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "89.0",
             "la": "37",
             "dist": "307"
@@ -5754,7 +5768,7 @@
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
             "team": "chc",
             "in": "2",
-            "result": "In Progress",
+            "result": "Wild Pitch",
             "evo": "",
             "la": "",
             "dist": ""
