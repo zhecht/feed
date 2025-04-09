@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "91",
-        "batters": "263",
-        "pitches": "3187",
+        "batters": "265",
+        "pitches": "3192",
         "max velomax pitch velocity": "101.7",
         "min velomin pitch velocity": "65.6",
         "ff%fourseam fastball %": "34.5",
         "si%sinker %": "14.6",
-        "fc%cutter %": "9.4",
+        "fc%cutter %": "9.5",
         "fs%splitter %": "1.8",
         "ch%changeup %": "11.4",
         "sl%slider %": "21.1",
         "cu%curve %": "7.1",
         "max evmax exit velocity": "116.7",
-        "hhhard hit": "218",
-        "hh%hard hit %": "39.3",
+        "hhhard hit": "219",
+        "hh%hard hit %": "39.4",
         "brlbarrels": "45",
         "brl%barrel %": "8.1",
-        "ab": "735",
+        "ab": "737",
         "avg": ".233",
-        "h": "171",
+        "h": "172",
         "1b": "116",
-        "2b": "28",
+        "2b": "29",
         "3b": "7",
         "hr": "20",
         "so": "196",
-        "bipballs in play": "555",
+        "bipballs in play": "556",
         "liveGames": 12,
         "totGames": 14,
-        "updated": "2025-04-08 22:09:54.877618"
+        "updated": "2025-04-08 22:10:07.006879"
     },
     "nyy @ det": [
         {
@@ -10904,6 +10904,20 @@
     ],
     "bal @ ari": [
         {
+            "player": "jackson holliday",
+            "game": "bal @ ari",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-04-08 22:10:07",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gary sanchez",
             "game": "bal @ ari",
             "hr/park": "",
@@ -10912,10 +10926,10 @@
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
             "team": "bal",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "107.7",
+            "la": "3",
+            "dist": "79"
         },
         {
             "player": "heston kjerstad",
@@ -11087,6 +11101,20 @@
         }
     ],
     "hou @ sea": [
+        {
+            "player": "ryan bliss",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-04-08 22:10:07",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "in": "2",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "luke raley",
             "game": "hou @ sea",
@@ -11294,7 +11322,7 @@
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
             "team": "sf",
             "in": "2",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "111.4",
             "la": "11",
             "dist": "202"
