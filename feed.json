@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "23",
         "batters": "78",
-        "pitches": "885",
+        "pitches": "889",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "70.7",
-        "ff%fourseam fastball %": "32.7",
-        "si%sinker %": "14.7",
-        "fc%cutter %": "6.8",
-        "fs%splitter %": "3.7",
-        "ch%changeup %": "7.7",
-        "sl%slider %": "26.7",
+        "ff%fourseam fastball %": "32.5",
+        "si%sinker %": "14.6",
+        "fc%cutter %": "6.7",
+        "fs%splitter %": "3.9",
+        "ch%changeup %": "7.5",
+        "sl%slider %": "26.9",
         "cu%curve %": "7.8",
         "max evmax exit velocity": "108.6",
-        "hhhard hit": "65",
-        "hh%hard hit %": "42.8",
+        "hhhard hit": "67",
+        "hh%hard hit %": "43.2",
         "brlbarrels": "8",
-        "brl%barrel %": "5.3",
-        "ab": "213",
-        "avg": ".160",
+        "brl%barrel %": "5.2",
+        "ab": "214",
+        "avg": ".159",
         "h": "34",
         "1b": "27",
         "2b": "3",
         "3b": "2",
         "hr": "2",
         "so": "58",
-        "bipballs in play": "152",
+        "bipballs in play": "155",
         "liveGames": 4,
         "totGames": 15,
-        "updated": "2025-04-09 15:20:10.357188"
+        "updated": "2025-04-09 15:20:19.139304"
     },
     "stl @ pit": [
         {
@@ -40,10 +40,10 @@
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
             "team": "pit",
             "in": "11",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "95.4",
+            "la": "3",
+            "dist": "83"
         },
         {
             "player": "joey bart",
@@ -1112,6 +1112,20 @@
     ],
     "mia @ nym": [
         {
+            "player": "hayden senger",
+            "game": "mia @ nym",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-04-09 15:20:13",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyrone taylor",
             "game": "mia @ nym",
             "hr/park": "",
@@ -1120,10 +1134,10 @@
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
             "team": "nym",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "82.5",
+            "la": "51",
+            "dist": "201"
         },
         {
             "player": "brett baty",
@@ -2889,9 +2903,9 @@
             "team": "chc",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "97.8",
+            "la": "2",
+            "dist": "60"
         },
         {
             "player": "seiya suzuki",
