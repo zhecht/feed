@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "17",
         "batters": "72",
-        "pitches": "743",
+        "pitches": "745",
         "max velomax pitch velocity": "98.2",
         "min velomin pitch velocity": "70.7",
-        "ff%fourseam fastball %": "32.2",
+        "ff%fourseam fastball %": "32.1",
         "si%sinker %": "15.3",
         "fc%cutter %": "7.4",
-        "fs%splitter %": "2.8",
+        "fs%splitter %": "3.0",
         "ch%changeup %": "6.7",
         "sl%slider %": "26.8",
         "cu%curve %": "8.7",
         "max evmax exit velocity": "108.4",
         "hhhard hit": "56",
-        "hh%hard hit %": "45.2",
+        "hh%hard hit %": "44.8",
         "brlbarrels": "7",
         "brl%barrel %": "5.6",
         "ab": "177",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "2",
         "so": "51",
-        "bipballs in play": "124",
+        "bipballs in play": "125",
         "liveGames": 4,
         "totGames": 15,
-        "updated": "2025-04-09 14:59:40.690448"
+        "updated": "2025-04-09 14:59:49.563202"
     },
     "stl @ pit": [
         {
@@ -1738,7 +1738,7 @@
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
             "team": "det",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2510,10 +2510,10 @@
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "78.5",
+            "la": "49",
+            "dist": "237"
         },
         {
             "player": "marcus semien",
