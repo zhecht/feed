@@ -1,15 +1,15 @@
 {
     "all": {
         "pitchers": "96",
-        "batters": "241",
-        "pitches": "3090",
+        "batters": "242",
+        "pitches": "3096",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "63.1",
-        "ff%fourseam fastball %": "32.1",
+        "ff%fourseam fastball %": "32.2",
         "si%sinker %": "15.0",
-        "fc%cutter %": "7.2",
+        "fc%cutter %": "7.1",
         "fs%splitter %": "3.4",
-        "ch%changeup %": "9.8",
+        "ch%changeup %": "9.9",
         "sl%slider %": "24.2",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "114.3",
@@ -25,10 +25,10 @@
         "3b": "5",
         "hr": "18",
         "so": "175",
-        "bipballs in play": "545",
+        "bipballs in play": "546",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-09 19:36:59.810553"
+        "updated": "2025-04-09 19:37:11.566638"
     },
     "stl @ pit": [
         {
@@ -10884,7 +10884,7 @@
             "img": "https://www.mlbstatic.com/team-logos/108.svg",
             "team": "laa",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11116,6 +11116,20 @@
     ],
     "phi @ atl": [
         {
+            "player": "jt realmuto",
+            "game": "phi @ atl",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-04-09 19:37:09",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nick castellanos",
             "game": "phi @ atl",
             "hr/park": "",
@@ -11124,10 +11138,10 @@
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "75.4",
+            "la": "32",
+            "dist": "269"
         },
         {
             "player": "max kepler",
