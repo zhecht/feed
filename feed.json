@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "109",
+        "pitchers": "110",
         "batters": "297",
-        "pitches": "4012",
+        "pitches": "4016",
         "max velomax pitch velocity": "101.7",
         "min velomin pitch velocity": "65.6",
-        "ff%fourseam fastball %": "33.1",
+        "ff%fourseam fastball %": "33.2",
         "si%sinker %": "15.1",
         "fc%cutter %": "9.0",
         "fs%splitter %": "1.5",
@@ -13,22 +13,22 @@
         "sl%slider %": "20.8",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "116.7",
-        "hhhard hit": "277",
-        "hh%hard hit %": "39.0",
+        "hhhard hit": "278",
+        "hh%hard hit %": "39.1",
         "brlbarrels": "55",
         "brl%barrel %": "7.7",
-        "ab": "932",
+        "ab": "934",
         "avg": ".234",
-        "h": "218",
-        "1b": "145",
+        "h": "219",
+        "1b": "146",
         "2b": "41",
         "3b": "8",
         "hr": "24",
-        "so": "245",
-        "bipballs in play": "710",
+        "so": "246",
+        "bipballs in play": "711",
         "liveGames": 12,
         "totGames": 14,
-        "updated": "2025-04-08 23:46:32.780095"
+        "updated": "2025-04-08 23:46:48.111337"
     },
     "nyy @ det": [
         {
@@ -11450,6 +11450,20 @@
     ],
     "bal @ ari": [
         {
+            "player": "geraldo perdomo",
+            "game": "bal @ ari",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-04-08 23:46:36",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "corbin carroll",
             "game": "bal @ ari",
             "hr/park": "",
@@ -12222,6 +12236,20 @@
     ],
     "hou @ sea": [
         {
+            "player": "mitch garver",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-04-08 23:46:36",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "in": "7",
+            "result": "Single",
+            "evo": "100.0",
+            "la": "11",
+            "dist": "200"
+        },
+        {
             "player": "jose altuve",
             "game": "hou @ sea",
             "hr/park": "",
@@ -12932,7 +12960,7 @@
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
             "team": "cin",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
