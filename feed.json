@@ -1,17 +1,17 @@
 {
     "all": {
         "pitchers": "86",
-        "batters": "234",
-        "pitches": "2963",
+        "batters": "235",
+        "pitches": "2970",
         "max velomax pitch velocity": "101.7",
         "min velomin pitch velocity": "65.6",
-        "ff%fourseam fastball %": "34.9",
+        "ff%fourseam fastball %": "34.8",
         "si%sinker %": "14.1",
         "fc%cutter %": "8.7",
-        "fs%splitter %": "1.7",
+        "fs%splitter %": "1.6",
         "ch%changeup %": "11.9",
         "sl%slider %": "21.9",
-        "cu%curve %": "6.7",
+        "cu%curve %": "6.8",
         "max evmax exit velocity": "116.7",
         "hhhard hit": "198",
         "hh%hard hit %": "39.1",
@@ -24,11 +24,11 @@
         "2b": "28",
         "3b": "5",
         "hr": "19",
-        "so": "188",
+        "so": "189",
         "bipballs in play": "507",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-08 21:54:01.702973"
+        "updated": "2025-04-08 21:54:15.741431"
     },
     "nyy @ det": [
         {
@@ -7194,7 +7194,7 @@
             "img": "https://www.mlbstatic.com/team-logos/144.svg",
             "team": "atl",
             "in": "8",
-            "result": "Wild Pitch",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9200,7 +9200,7 @@
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10564,7 +10564,7 @@
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10656,6 +10656,20 @@
     ],
     "cin @ sf": [
         {
+            "player": "willy adames",
+            "game": "cin @ sf",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-04-08 21:54:15",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "heliot ramos",
             "game": "cin @ sf",
             "hr/park": "",
@@ -10664,7 +10678,7 @@
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
             "team": "sf",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
