@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "85",
         "batters": "234",
-        "pitches": "2953",
+        "pitches": "2956",
         "max velomax pitch velocity": "101.7",
         "min velomin pitch velocity": "65.6",
-        "ff%fourseam fastball %": "35.0",
+        "ff%fourseam fastball %": "34.9",
         "si%sinker %": "14.1",
         "fc%cutter %": "8.6",
         "fs%splitter %": "1.7",
         "ch%changeup %": "11.9",
-        "sl%slider %": "21.8",
+        "sl%slider %": "21.9",
         "cu%curve %": "6.8",
         "max evmax exit velocity": "116.7",
-        "hhhard hit": "197",
-        "hh%hard hit %": "39.0",
+        "hhhard hit": "198",
+        "hh%hard hit %": "39.1",
         "brlbarrels": "42",
         "brl%barrel %": "8.3",
-        "ab": "680",
-        "avg": ".234",
+        "ab": "682",
+        "avg": ".233",
         "h": "159",
         "1b": "107",
         "2b": "28",
         "3b": "5",
         "hr": "19",
         "so": "188",
-        "bipballs in play": "505",
+        "bipballs in play": "507",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-08 21:53:17.028859"
+        "updated": "2025-04-08 21:53:31.403078"
     },
     "nyy @ det": [
         {
@@ -7180,7 +7180,7 @@
             "img": "https://www.mlbstatic.com/team-logos/144.svg",
             "team": "atl",
             "in": "8",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8196,6 +8196,20 @@
     ],
     "tex @ chc": [
         {
+            "player": "josh smith",
+            "game": "tex @ chc",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-04-08 21:53:31",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "adolis garcia",
             "game": "tex @ chc",
             "hr/park": "",
@@ -8204,10 +8218,10 @@
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "68.9",
+            "la": "-8",
+            "dist": "20"
         },
         {
             "player": "joc pederson",
@@ -10422,10 +10436,10 @@
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
             "team": "bal",
             "in": "1",
-            "result": "Game Advisory",
-            "evo": "",
+            "result": "GIDP",
+            "evo": "107.5",
             "la": "",
-            "dist": ""
+            "dist": "41"
         },
         {
             "player": "cedric mullins",
