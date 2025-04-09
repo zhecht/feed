@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "79",
-        "batters": "179",
-        "pitches": "2539",
+        "batters": "180",
+        "pitches": "2545",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "70.5",
-        "ff%fourseam fastball %": "31.5",
+        "ff%fourseam fastball %": "31.6",
         "si%sinker %": "16.5",
-        "fc%cutter %": "7.6",
-        "fs%splitter %": "3.0",
+        "fc%cutter %": "7.5",
+        "fs%splitter %": "2.9",
         "ch%changeup %": "9.9",
         "sl%slider %": "23.4",
-        "cu%curve %": "8.2",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "114.3",
         "hhhard hit": "181",
-        "hh%hard hit %": "40.1",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "32",
         "brl%barrel %": "7.1",
-        "ab": "588",
-        "avg": ".209",
+        "ab": "591",
+        "avg": ".208",
         "h": "123",
         "1b": "88",
         "2b": "17",
         "3b": "5",
         "hr": "13",
         "so": "147",
-        "bipballs in play": "451",
+        "bipballs in play": "453",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-04-09 18:18:19.764742"
+        "updated": "2025-04-09 18:18:33.427051"
     },
     "stl @ pit": [
         {
@@ -5440,10 +5440,10 @@
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
             "team": "bal",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "73.8",
+            "la": "-28",
+            "dist": "6"
         },
         {
             "player": "adley rutschman",
@@ -6428,6 +6428,20 @@
     ],
     "cin @ sf": [
         {
+            "player": "jung hoo lee",
+            "game": "cin @ sf",
+            "hr/park": "",
+            "pa": "77",
+            "dt": "2025-04-09 18:18:28",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "willy adames",
             "game": "cin @ sf",
             "hr/park": "",
@@ -6436,10 +6450,10 @@
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
             "team": "sf",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "85.7",
+            "la": "61",
+            "dist": "190"
         },
         {
             "player": "santiago espinal",
@@ -8372,7 +8386,7 @@
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "in": "7",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9163,6 +9177,20 @@
         }
     ],
     "chw @ cle": [
+        {
+            "player": "korey lee",
+            "game": "chw @ cle",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-04-09 18:18:28",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "in": "1",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "lenyn sosa",
             "game": "chw @ cle",
