@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "29",
         "batters": "81",
-        "pitches": "1002",
+        "pitches": "1004",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "70.5",
-        "ff%fourseam fastball %": "32.6",
-        "si%sinker %": "14.6",
+        "ff%fourseam fastball %": "32.8",
+        "si%sinker %": "14.5",
         "fc%cutter %": "6.0",
         "fs%splitter %": "4.4",
         "ch%changeup %": "7.3",
@@ -14,7 +14,7 @@
         "cu%curve %": "7.1",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "80",
-        "hh%hard hit %": "44.2",
+        "hh%hard hit %": "44.0",
         "brlbarrels": "12",
         "brl%barrel %": "6.6",
         "ab": "242",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "4",
         "so": "62",
-        "bipballs in play": "181",
+        "bipballs in play": "182",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-04-09 15:37:40.258417"
+        "updated": "2025-04-09 15:37:49.387161"
     },
     "stl @ pit": [
         {
@@ -1226,13 +1226,13 @@
         {
             "player": "nick fortes",
             "game": "mia @ nym",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "70",
             "dt": "2025-04-09 15:36:43",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
             "team": "mia",
             "in": "9",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "95.4",
             "la": "31",
             "dist": "334"
@@ -2215,9 +2215,9 @@
             "team": "nyy",
             "in": "9",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "57.9",
+            "la": "-40",
+            "dist": "4"
         },
         {
             "player": "cody bellinger",
