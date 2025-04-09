@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "55",
         "batters": "170",
-        "pitches": "2146",
+        "pitches": "2148",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "70.5",
         "ff%fourseam fastball %": "32.0",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.7",
         "max evmax exit velocity": "114.3",
         "hhhard hit": "153",
-        "hh%hard hit %": "40.2",
+        "hh%hard hit %": "40.1",
         "brlbarrels": "25",
-        "brl%barrel %": "6.6",
-        "ab": "494",
-        "avg": ".221",
-        "h": "109",
+        "brl%barrel %": "6.5",
+        "ab": "496",
+        "avg": ".222",
+        "h": "110",
         "1b": "81",
-        "2b": "13",
+        "2b": "14",
         "3b": "5",
         "hr": "10",
         "so": "124",
-        "bipballs in play": "381",
+        "bipballs in play": "382",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-04-09 17:32:51.481956"
+        "updated": "2025-04-09 17:33:04.164493"
     },
     "stl @ pit": [
         {
@@ -6710,6 +6710,20 @@
     ],
     "lad @ wsh": [
         {
+            "player": "mookie betts",
+            "game": "lad @ wsh",
+            "hr/park": "0/30",
+            "pa": "41",
+            "dt": "2025-04-09 17:33:00",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "in": "5",
+            "result": "Lineout",
+            "evo": "94.4",
+            "la": "22",
+            "dist": "332"
+        },
+        {
             "player": "keibert ruiz",
             "game": "lad @ wsh",
             "hr/park": "",
@@ -7272,15 +7286,29 @@
     ],
     "hou @ sea": [
         {
-            "player": "randy arozarena",
+            "player": "luke raley",
             "game": "hou @ sea",
             "hr/park": "",
+            "pa": "37",
+            "dt": "2025-04-09 17:33:00",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "randy arozarena",
+            "game": "hou @ sea",
+            "hr/park": "0/30",
             "pa": "36",
             "dt": "2025-04-09 17:30:43",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "in": "4",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "89.7",
             "la": "26",
             "dist": "333"
