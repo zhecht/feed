@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "38",
-        "batters": "105",
-        "pitches": "1198",
+        "batters": "108",
+        "pitches": "1206",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "70.5",
-        "ff%fourseam fastball %": "33.2",
-        "si%sinker %": "14.3",
-        "fc%cutter %": "6.3",
+        "ff%fourseam fastball %": "33.0",
+        "si%sinker %": "14.5",
+        "fc%cutter %": "6.5",
         "fs%splitter %": "4.5",
         "ch%changeup %": "8.0",
-        "sl%slider %": "27.0",
-        "cu%curve %": "6.7",
+        "sl%slider %": "26.9",
+        "cu%curve %": "6.6",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "94",
         "hh%hard hit %": "43.7",
         "brlbarrels": "15",
         "brl%barrel %": "7.0",
-        "ab": "287",
-        "avg": ".185",
+        "ab": "291",
+        "avg": ".182",
         "h": "53",
         "1b": "43",
         "2b": "4",
@@ -28,9 +28,23 @@
         "bipballs in play": "215",
         "liveGames": 7,
         "totGames": 15,
-        "updated": "2025-04-09 15:56:50.765958"
+        "updated": "2025-04-09 15:57:00.420047"
     },
     "stl @ pit": [
+        {
+            "player": "joey bart",
+            "game": "stl @ pit",
+            "hr/park": "",
+            "pa": "96",
+            "dt": "2025-04-09 15:56:58",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "in": "13",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "andrew mccutchen",
             "game": "stl @ pit",
@@ -40,7 +54,7 @@
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
             "team": "pit",
             "in": "13",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "102.5",
             "la": "5",
             "dist": "99"
@@ -4100,6 +4114,20 @@
     ],
     "sd @ ath": [
         {
+            "player": "shea langeliers",
+            "game": "sd @ ath",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-04-09 15:56:58",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "martin maldonado",
             "game": "sd @ ath",
             "hr/park": "",
@@ -4270,6 +4298,20 @@
     ],
     "bal @ ari": [
         {
+            "player": "tyler oneill",
+            "game": "bal @ ari",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-04-09 15:56:58",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "eugenio suarez",
             "game": "bal @ ari",
             "hr/park": "",
@@ -4384,6 +4426,20 @@
     ],
     "cin @ sf": [
         {
+            "player": "jung hoo lee",
+            "game": "cin @ sf",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-04-09 15:56:58",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "willy adames",
             "game": "cin @ sf",
             "hr/park": "",
@@ -4392,7 +4448,7 @@
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
             "team": "sf",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "82.7",
             "la": "-19",
             "dist": "6"
