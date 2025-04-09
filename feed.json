@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "44",
         "batters": "185",
-        "pitches": "1868",
+        "pitches": "1871",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "65.6",
-        "ff%fourseam fastball %": "35.5",
+        "ff%fourseam fastball %": "35.4",
         "si%sinker %": "13.4",
-        "fc%cutter %": "6.4",
+        "fc%cutter %": "6.5",
         "fs%splitter %": "2.2",
         "ch%changeup %": "13.8",
         "sl%slider %": "22.0",
         "cu%curve %": "6.6",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "122",
-        "hh%hard hit %": "38.4",
+        "hh%hard hit %": "38.2",
         "brlbarrels": "29",
         "brl%barrel %": "9.1",
-        "ab": "433",
+        "ab": "434",
         "avg": ".212",
         "h": "92",
         "1b": "63",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "14",
         "so": "117",
-        "bipballs in play": "318",
+        "bipballs in play": "319",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-04-08 20:27:12.944606"
+        "updated": "2025-04-08 20:27:24.471128"
     },
     "nyy @ det": [
         {
@@ -2978,6 +2978,20 @@
     ],
     "stl @ pit": [
         {
+            "player": "brendan donovan",
+            "game": "stl @ pit",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-04-08 20:27:16",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "willson contreras",
             "game": "stl @ pit",
             "hr/park": "",
@@ -2986,10 +3000,10 @@
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
             "team": "stl",
             "in": "7",
-            "result": "Wild Pitch",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "61.5",
+            "la": "-49",
+            "dist": "4"
         },
         {
             "player": "victor scott",
@@ -6098,7 +6112,7 @@
         {
             "player": "corey seager",
             "game": "tex @ chc",
-            "hr/park": "8/30",
+            "hr/park": "",
             "pa": "23",
             "dt": "2025-04-08 20:24:47",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
