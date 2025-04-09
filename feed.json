@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "91",
-        "batters": "260",
-        "pitches": "3181",
+        "batters": "261",
+        "pitches": "3184",
         "max velomax pitch velocity": "101.7",
         "min velomin pitch velocity": "65.6",
         "ff%fourseam fastball %": "34.5",
@@ -10,25 +10,25 @@
         "fc%cutter %": "9.5",
         "fs%splitter %": "1.8",
         "ch%changeup %": "11.4",
-        "sl%slider %": "21.1",
+        "sl%slider %": "21.0",
         "cu%curve %": "7.1",
         "max evmax exit velocity": "116.7",
-        "hhhard hit": "216",
-        "hh%hard hit %": "39.1",
+        "hhhard hit": "217",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "45",
-        "brl%barrel %": "8.2",
-        "ab": "732",
-        "avg": ".234",
+        "brl%barrel %": "8.1",
+        "ab": "733",
+        "avg": ".233",
         "h": "171",
         "1b": "116",
         "2b": "28",
         "3b": "7",
         "hr": "20",
         "so": "196",
-        "bipballs in play": "552",
+        "bipballs in play": "554",
         "liveGames": 12,
         "totGames": 14,
-        "updated": "2025-04-08 22:09:19.264789"
+        "updated": "2025-04-08 22:09:31.016117"
     },
     "nyy @ det": [
         {
@@ -10308,10 +10308,10 @@
             "img": "https://www.mlbstatic.com/team-logos/115.svg",
             "team": "col",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "72.5",
+            "la": "34",
+            "dist": "255"
         },
         {
             "player": "ezequiel tovar",
@@ -11088,6 +11088,20 @@
     ],
     "hou @ sea": [
         {
+            "player": "luke raley",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-04-08 22:09:22",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "103.1",
+            "la": "-7",
+            "dist": "14"
+        },
+        {
             "player": "donovan solano",
             "game": "hou @ sea",
             "hr/park": "",
@@ -11444,7 +11458,7 @@
         {
             "player": "manny machado",
             "game": "sd @ ath",
-            "hr/park": "",
+            "hr/park": "30/30",
             "pa": "3",
             "dt": "2025-04-08 22:08:36",
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
