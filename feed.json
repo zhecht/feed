@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "19",
         "batters": "76",
-        "pitches": "811",
+        "pitches": "814",
         "max velomax pitch velocity": "98.2",
         "min velomin pitch velocity": "70.7",
-        "ff%fourseam fastball %": "32.2",
+        "ff%fourseam fastball %": "32.4",
         "si%sinker %": "15.0",
         "fc%cutter %": "6.8",
-        "fs%splitter %": "3.5",
+        "fs%splitter %": "3.4",
         "ch%changeup %": "6.5",
-        "sl%slider %": "27.6",
+        "sl%slider %": "27.5",
         "cu%curve %": "8.4",
         "max evmax exit velocity": "108.4",
         "hhhard hit": "57",
-        "hh%hard hit %": "41.9",
+        "hh%hard hit %": "41.6",
         "brlbarrels": "8",
-        "brl%barrel %": "5.9",
-        "ab": "191",
-        "avg": ".152",
+        "brl%barrel %": "5.8",
+        "ab": "193",
+        "avg": ".150",
         "h": "29",
         "1b": "23",
         "2b": "3",
         "3b": "1",
         "hr": "2",
         "so": "55",
-        "bipballs in play": "136",
+        "bipballs in play": "137",
         "liveGames": 4,
         "totGames": 15,
-        "updated": "2025-04-09 15:09:39.683654"
+        "updated": "2025-04-09 15:09:48.218958"
     },
     "stl @ pit": [
         {
@@ -1828,6 +1828,20 @@
     ],
     "nyy @ det": [
         {
+            "player": "anthony volpe",
+            "game": "nyy @ det",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-04-09 15:09:42",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jazz chisholm",
             "game": "nyy @ det",
             "hr/park": "",
@@ -2642,6 +2656,20 @@
     ],
     "tex @ chc": [
         {
+            "player": "adolis garcia",
+            "game": "tex @ chc",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-04-09 15:09:42",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh jung",
             "game": "tex @ chc",
             "hr/park": "",
@@ -2650,10 +2678,10 @@
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "89.1",
+            "la": "19",
+            "dist": "267"
         },
         {
             "player": "ian happ",
