@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "46",
         "batters": "153",
-        "pitches": "1585",
+        "pitches": "1588",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "70.5",
         "ff%fourseam fastball %": "33.7",
         "si%sinker %": "14.1",
-        "fc%cutter %": "7.3",
+        "fc%cutter %": "7.2",
         "fs%splitter %": "3.8",
-        "ch%changeup %": "8.7",
+        "ch%changeup %": "8.8",
         "sl%slider %": "25.1",
-        "cu%curve %": "7.3",
+        "cu%curve %": "7.2",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "117",
         "hh%hard hit %": "42.4",
         "brlbarrels": "21",
         "brl%barrel %": "7.6",
-        "ab": "372",
-        "avg": ".210",
+        "ab": "373",
+        "avg": ".209",
         "h": "78",
         "1b": "61",
         "2b": "7",
@@ -28,7 +28,7 @@
         "bipballs in play": "276",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-04-09 16:32:35.627567"
+        "updated": "2025-04-09 16:32:46.110798"
     },
     "stl @ pit": [
         {
@@ -4380,6 +4380,20 @@
     ],
     "sd @ ath": [
         {
+            "player": "jj bleday",
+            "game": "sd @ ath",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-04-09 16:32:42",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "shea langeliers",
             "game": "sd @ ath",
             "hr/park": "",
@@ -4388,7 +4402,7 @@
             "img": "https://www.mlbstatic.com/team-logos/133.svg",
             "team": "ath",
             "in": "4",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "72.1",
             "la": "-6",
             "dist": "14"
@@ -5500,7 +5514,7 @@
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
             "team": "wsh",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
