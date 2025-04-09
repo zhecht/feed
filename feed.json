@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "96",
         "batters": "239",
-        "pitches": "3077",
+        "pitches": "3079",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "63.1",
-        "ff%fourseam fastball %": "32.0",
+        "ff%fourseam fastball %": "32.1",
         "si%sinker %": "15.1",
         "fc%cutter %": "7.2",
         "fs%splitter %": "3.4",
         "ch%changeup %": "9.9",
-        "sl%slider %": "24.2",
+        "sl%slider %": "24.3",
         "cu%curve %": "8.1",
         "max evmax exit velocity": "114.3",
         "hhhard hit": "215",
-        "hh%hard hit %": "39.7",
+        "hh%hard hit %": "39.6",
         "brlbarrels": "42",
         "brl%barrel %": "7.7",
         "ab": "704",
@@ -24,11 +24,11 @@
         "2b": "20",
         "3b": "5",
         "hr": "18",
-        "so": "174",
-        "bipballs in play": "542",
+        "so": "175",
+        "bipballs in play": "543",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-09 19:34:48.815867"
+        "updated": "2025-04-09 19:35:00.604305"
     },
     "stl @ pit": [
         {
@@ -9900,7 +9900,7 @@
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
             "team": "chw",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10848,6 +10848,20 @@
     ],
     "laa @ tb": [
         {
+            "player": "kevin newman",
+            "game": "laa @ tb",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-04-09 19:34:56",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tim anderson",
             "game": "laa @ tb",
             "hr/park": "",
@@ -10856,10 +10870,10 @@
             "img": "https://www.mlbstatic.com/team-logos/108.svg",
             "team": "laa",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "80.7",
+            "la": "-40",
+            "dist": "4"
         },
         {
             "player": "kyren paris",
@@ -11059,20 +11073,6 @@
         }
     ],
     "phi @ atl": [
-        {
-            "player": "max kepler",
-            "game": "phi @ atl",
-            "hr/park": "",
-            "pa": "8",
-            "dt": "2025-04-09 19:34:24",
-            "img": "https://www.mlbstatic.com/team-logos/143.svg",
-            "team": "phi",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "marcell ozuna",
             "game": "phi @ atl",
