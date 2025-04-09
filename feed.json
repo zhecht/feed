@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "46",
         "batters": "148",
-        "pitches": "1509",
+        "pitches": "1516",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "70.5",
-        "ff%fourseam fastball %": "33.5",
-        "si%sinker %": "14.4",
+        "ff%fourseam fastball %": "33.6",
+        "si%sinker %": "14.3",
         "fc%cutter %": "7.3",
         "fs%splitter %": "3.9",
         "ch%changeup %": "8.6",
         "sl%slider %": "25.1",
-        "cu%curve %": "7.2",
+        "cu%curve %": "7.3",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "113",
+        "hhhard hit": "114",
         "hh%hard hit %": "42.5",
         "brlbarrels": "21",
-        "brl%barrel %": "7.9",
-        "ab": "359",
-        "avg": ".201",
-        "h": "72",
-        "1b": "55",
+        "brl%barrel %": "7.8",
+        "ab": "361",
+        "avg": ".205",
+        "h": "74",
+        "1b": "57",
         "2b": "7",
         "3b": "2",
         "hr": "8",
         "so": "94",
-        "bipballs in play": "266",
+        "bipballs in play": "268",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-04-09 16:26:19.184866"
+        "updated": "2025-04-09 16:26:34.304103"
     },
     "stl @ pit": [
         {
@@ -3448,7 +3448,7 @@
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
             "in": "9",
-            "result": "Stolen Base 2B",
+            "result": "Caught Stealing 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4352,6 +4352,20 @@
     ],
     "sd @ ath": [
         {
+            "player": "martin maldonado",
+            "game": "sd @ ath",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-04-09 16:26:31",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brandon lockridge",
             "game": "sd @ ath",
             "hr/park": "",
@@ -4360,10 +4374,10 @@
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
             "team": "sd",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "94.2",
+            "la": "13",
+            "dist": "229"
         },
         {
             "player": "jason heyward",
@@ -4768,10 +4782,10 @@
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "95.6",
+            "la": "-2",
+            "dist": "37"
         },
         {
             "player": "corbin carroll",
@@ -5056,6 +5070,20 @@
     ],
     "cin @ sf": [
         {
+            "player": "christian encarnacion strand",
+            "game": "cin @ sf",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-04-09 16:26:31",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gavin lux",
             "game": "cin @ sf",
             "hr/park": "",
@@ -5064,7 +5092,7 @@
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
             "team": "cin",
             "in": "3",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "88.5",
             "la": "-2",
             "dist": "38"
