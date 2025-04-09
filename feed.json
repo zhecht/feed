@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "40",
         "batters": "170",
-        "pitches": "1538",
+        "pitches": "1546",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "69.1",
-        "ff%fourseam fastball %": "36.2",
+        "ff%fourseam fastball %": "36.1",
         "si%sinker %": "12.4",
         "fc%cutter %": "7.0",
-        "fs%splitter %": "2.4",
+        "fs%splitter %": "2.5",
         "ch%changeup %": "13.5",
-        "sl%slider %": "22.5",
-        "cu%curve %": "6.0",
+        "sl%slider %": "22.4",
+        "cu%curve %": "6.1",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "97",
-        "hh%hard hit %": "37.2",
-        "brlbarrels": "22",
-        "brl%barrel %": "8.4",
-        "ab": "357",
-        "avg": ".213",
-        "h": "76",
+        "hhhard hit": "100",
+        "hh%hard hit %": "37.9",
+        "brlbarrels": "23",
+        "brl%barrel %": "8.7",
+        "ab": "359",
+        "avg": ".217",
+        "h": "78",
         "1b": "56",
         "2b": "8",
-        "3b": "1",
-        "hr": "11",
+        "3b": "2",
+        "hr": "12",
         "so": "97",
-        "bipballs in play": "261",
+        "bipballs in play": "264",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-04-08 20:02:10.934671"
+        "updated": "2025-04-08 20:02:21.421661"
     },
     "nyy @ det": [
         {
@@ -2987,9 +2987,9 @@
             "team": "stl",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "106.1",
+            "la": "10",
+            "dist": "173"
         },
         {
             "player": "adam frazier",
@@ -3512,6 +3512,20 @@
     ],
     "lad @ wsh": [
         {
+            "player": "austin barnes",
+            "game": "lad @ wsh",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-04-08 20:02:15",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andy pages",
             "game": "lad @ wsh",
             "hr/park": "16/30",
@@ -3520,7 +3534,7 @@
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
             "team": "lad",
             "in": "5",
-            "result": "In Progress",
+            "result": "Home Run",
             "evo": "104.5",
             "la": "30",
             "dist": "390"
@@ -4932,18 +4946,32 @@
     ],
     "phi @ atl": [
         {
-            "player": "kyle schwarber",
+            "player": "nick castellanos",
             "game": "phi @ atl",
             "hr/park": "",
+            "pa": "23",
+            "dt": "2025-04-08 20:02:15",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "kyle schwarber",
+            "game": "phi @ atl",
+            "hr/park": "7/30",
             "pa": "22",
             "dt": "2025-04-08 20:01:45",
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "in": "3",
-            "result": "Stolen Base 3B",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Triple",
+            "evo": "105.1",
+            "la": "24",
+            "dist": "399"
         },
         {
             "player": "alec bohm",
@@ -5251,9 +5279,9 @@
             "team": "tex",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "103.9",
+            "la": "12",
+            "dist": "211"
         },
         {
             "player": "josh jung",
