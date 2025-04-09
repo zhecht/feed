@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "62",
         "batters": "172",
-        "pitches": "2272",
+        "pitches": "2278",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "70.5",
         "ff%fourseam fastball %": "31.6",
-        "si%sinker %": "15.7",
+        "si%sinker %": "15.8",
         "fc%cutter %": "7.7",
         "fs%splitter %": "2.9",
         "ch%changeup %": "9.9",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.6",
         "max evmax exit velocity": "114.3",
         "hhhard hit": "160",
-        "hh%hard hit %": "39.8",
+        "hh%hard hit %": "39.7",
         "brlbarrels": "26",
         "brl%barrel %": "6.5",
-        "ab": "523",
+        "ab": "524",
         "avg": ".214",
         "h": "112",
         "1b": "83",
         "2b": "14",
         "3b": "5",
         "hr": "10",
-        "so": "130",
-        "bipballs in play": "402",
+        "so": "131",
+        "bipballs in play": "403",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-04-09 17:47:11.064065"
+        "updated": "2025-04-09 17:47:23.134904"
     },
     "stl @ pit": [
         {
@@ -4430,7 +4430,7 @@
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
             "team": "sd",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6120,6 +6120,20 @@
     ],
     "cin @ sf": [
         {
+            "player": "elly de la cruz",
+            "game": "cin @ sf",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-04-09 17:47:14",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "santiago espinal",
             "game": "cin @ sf",
             "hr/park": "",
@@ -6128,10 +6142,10 @@
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
             "team": "cin",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "80.0",
+            "la": "43",
+            "dist": "252"
         },
         {
             "player": "willy adames",
