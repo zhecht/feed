@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "96",
-        "batters": "243",
-        "pitches": "3129",
+        "pitchers": "97",
+        "batters": "244",
+        "pitches": "3132",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "63.1",
         "ff%fourseam fastball %": "32.2",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.2",
         "max evmax exit velocity": "114.3",
         "hhhard hit": "217",
-        "hh%hard hit %": "39.5",
+        "hh%hard hit %": "39.4",
         "brlbarrels": "43",
         "brl%barrel %": "7.8",
-        "ab": "715",
+        "ab": "716",
         "avg": ".214",
         "h": "153",
         "1b": "109",
         "2b": "21",
         "3b": "5",
         "hr": "18",
-        "so": "177",
-        "bipballs in play": "550",
+        "so": "178",
+        "bipballs in play": "551",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-09 19:41:09.215015"
+        "updated": "2025-04-09 19:41:21.004694"
     },
     "stl @ pit": [
         {
@@ -10546,7 +10546,7 @@
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
             "team": "bos",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11194,10 +11194,10 @@
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "91.1",
+            "la": "30",
+            "dist": "309"
         },
         {
             "player": "jt realmuto",
@@ -11340,6 +11340,21 @@
             "dist": ""
         }
     ],
-    "min @ kc": [],
+    "min @ kc": [
+        {
+            "player": "matt wallner",
+            "game": "min @ kc",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-04-09 19:41:12",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "mil @ col": []
 }
