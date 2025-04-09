@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "91",
         "batters": "267",
-        "pitches": "3202",
+        "pitches": "3208",
         "max velomax pitch velocity": "101.7",
         "min velomin pitch velocity": "65.6",
         "ff%fourseam fastball %": "34.5",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.0",
         "cu%curve %": "7.1",
         "max evmax exit velocity": "116.7",
-        "hhhard hit": "219",
-        "hh%hard hit %": "39.3",
+        "hhhard hit": "220",
+        "hh%hard hit %": "39.4",
         "brlbarrels": "45",
         "brl%barrel %": "8.1",
-        "ab": "740",
+        "ab": "741",
         "avg": ".232",
         "h": "172",
         "1b": "116",
         "2b": "29",
         "3b": "7",
         "hr": "20",
-        "so": "198",
-        "bipballs in play": "557",
+        "so": "197",
+        "bipballs in play": "558",
         "liveGames": 12,
         "totGames": 14,
-        "updated": "2025-04-08 22:11:18.671703"
+        "updated": "2025-04-08 22:11:30.214934"
     },
     "nyy @ det": [
         {
@@ -9430,9 +9430,23 @@
     ],
     "min @ kc": [
         {
-            "player": "matt wallner",
+            "player": "ty france",
             "game": "min @ kc",
             "hr/park": "",
+            "pa": "64",
+            "dt": "2025-04-08 22:11:22",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "matt wallner",
+            "game": "min @ kc",
+            "hr/park": "0/30",
             "pa": "63",
             "dt": "2025-04-08 22:10:50",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
@@ -10940,7 +10954,7 @@
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
             "team": "bal",
             "in": "2",
-            "result": "Strikeout",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11138,7 +11152,7 @@
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "in": "2",
-            "result": "Stolen Base 2B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11549,9 +11563,9 @@
             "team": "sd",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "101.7",
+            "la": "10",
+            "dist": "183"
         },
         {
             "player": "manny machado",
