@@ -44,7 +44,7 @@ async def writeFeed(date, loop):
 
 		games = []
 		for gameData in schedule[date]:
-			if gameData["start"]:
+			if gameData["start"] and gameData["start"] != "LIVE":
 				dt = datetime.strptime(gameData["start"], "%I:%M %p")
 				dt = int(dt.strftime("%H%M"))
 				#print(dt, int(datetime.now().strftime("%H%M")))
