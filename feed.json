@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "65",
         "batters": "172",
-        "pitches": "2334",
+        "pitches": "2337",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "70.5",
         "ff%fourseam fastball %": "31.6",
-        "si%sinker %": "15.6",
+        "si%sinker %": "15.7",
         "fc%cutter %": "7.8",
         "fs%splitter %": "3.2",
         "ch%changeup %": "9.6",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "40.0",
         "brlbarrels": "26",
         "brl%barrel %": "6.3",
-        "ab": "538",
-        "avg": ".214",
+        "ab": "539",
+        "avg": ".213",
         "h": "115",
         "1b": "84",
         "2b": "16",
         "3b": "5",
         "hr": "10",
         "so": "137",
-        "bipballs in play": "412",
+        "bipballs in play": "413",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-04-09 17:54:07.465944"
+        "updated": "2025-04-09 17:54:21.266853"
     },
     "stl @ pit": [
         {
@@ -5385,9 +5385,9 @@
             "team": "ari",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "65.4",
+            "la": "67",
+            "dist": "129"
         },
         {
             "player": "alek thomas",
@@ -7804,6 +7804,20 @@
     ],
     "hou @ sea": [
         {
+            "player": "christian walker",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-04-09 17:54:14",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "yordan alvarez",
             "game": "hou @ sea",
             "hr/park": "",
@@ -7812,7 +7826,7 @@
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
             "team": "hou",
             "in": "6",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "96.6",
             "la": "-8",
             "dist": "20"
