@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "67",
         "batters": "209",
-        "pitches": "2604",
+        "pitches": "2609",
         "max velomax pitch velocity": "101.7",
         "min velomin pitch velocity": "65.6",
         "ff%fourseam fastball %": "34.4",
@@ -10,25 +10,25 @@
         "fc%cutter %": "8.9",
         "fs%splitter %": "1.9",
         "ch%changeup %": "12.5",
-        "sl%slider %": "21.4",
-        "cu%curve %": "7.0",
+        "sl%slider %": "21.3",
+        "cu%curve %": "6.9",
         "max evmax exit velocity": "116.7",
-        "hhhard hit": "173",
+        "hhhard hit": "174",
         "hh%hard hit %": "39.0",
-        "brlbarrels": "38",
-        "brl%barrel %": "8.6",
-        "ab": "603",
-        "avg": ".231",
-        "h": "139",
+        "brlbarrels": "39",
+        "brl%barrel %": "8.7",
+        "ab": "604",
+        "avg": ".232",
+        "h": "140",
         "1b": "95",
-        "2b": "23",
+        "2b": "24",
         "3b": "3",
         "hr": "18",
-        "so": "166",
-        "bipballs in play": "444",
+        "so": "167",
+        "bipballs in play": "446",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-08 21:22:19.803531"
+        "updated": "2025-04-08 21:22:32.109126"
     },
     "nyy @ det": [
         {
@@ -5077,9 +5077,9 @@
             "team": "tor",
             "in": "9",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "87.9",
+            "la": "20",
+            "dist": "273"
         },
         {
             "player": "ernie clement",
@@ -6934,6 +6934,20 @@
     ],
     "phi @ atl": [
         {
+            "player": "alec bohm",
+            "game": "phi @ atl",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-04-08 21:22:29",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bryce harper",
             "game": "phi @ atl",
             "hr/park": "",
@@ -6942,7 +6956,7 @@
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "in": "7",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "78.9",
             "la": "-15",
             "dist": "9"
@@ -7748,6 +7762,20 @@
     ],
     "tex @ chc": [
         {
+            "player": "kyle tucker",
+            "game": "tex @ chc",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-04-08 21:22:29",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "in": "6",
+            "result": "Double",
+            "evo": "102.8",
+            "la": "23",
+            "dist": "363"
+        },
+        {
             "player": "seiya suzuki",
             "game": "tex @ chc",
             "hr/park": "",
@@ -7756,7 +7784,7 @@
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
             "team": "chc",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9104,7 +9132,7 @@
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
             "team": "mil",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
