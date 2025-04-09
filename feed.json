@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "66",
         "batters": "173",
-        "pitches": "2341",
+        "pitches": "2343",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "70.5",
-        "ff%fourseam fastball %": "31.6",
-        "si%sinker %": "15.7",
+        "ff%fourseam fastball %": "31.5",
+        "si%sinker %": "15.8",
         "fc%cutter %": "7.9",
         "fs%splitter %": "3.2",
         "ch%changeup %": "9.6",
@@ -14,10 +14,10 @@
         "cu%curve %": "8.4",
         "max evmax exit velocity": "114.3",
         "hhhard hit": "166",
-        "hh%hard hit %": "40.1",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "26",
         "brl%barrel %": "6.3",
-        "ab": "540",
+        "ab": "541",
         "avg": ".213",
         "h": "115",
         "1b": "84",
@@ -25,10 +25,10 @@
         "3b": "5",
         "hr": "10",
         "so": "137",
-        "bipballs in play": "414",
+        "bipballs in play": "415",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-04-09 17:55:09.335103"
+        "updated": "2025-04-09 17:55:21.349319"
     },
     "stl @ pit": [
         {
@@ -5390,6 +5390,20 @@
     ],
     "bal @ ari": [
         {
+            "player": "tim tawa",
+            "game": "bal @ ari",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-04-09 17:55:14",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "89.1",
+            "la": "-10",
+            "dist": "14"
+        },
+        {
             "player": "jake mccarthy",
             "game": "bal @ ari",
             "hr/park": "",
@@ -5398,7 +5412,7 @@
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "in": "7",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "65.4",
             "la": "67",
             "dist": "129"
