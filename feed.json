@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "91",
-        "batters": "219",
-        "pitches": "2913",
+        "batters": "220",
+        "pitches": "2918",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "70.5",
-        "ff%fourseam fastball %": "31.8",
+        "ff%fourseam fastball %": "31.7",
         "si%sinker %": "15.4",
         "fc%cutter %": "7.1",
         "fs%splitter %": "3.3",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.2",
         "max evmax exit velocity": "114.3",
         "hhhard hit": "209",
-        "hh%hard hit %": "40.3",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "40",
         "brl%barrel %": "7.7",
-        "ab": "670",
+        "ab": "671",
         "avg": ".213",
         "h": "143",
         "1b": "104",
         "2b": "18",
         "3b": "5",
         "hr": "16",
-        "so": "162",
-        "bipballs in play": "519",
+        "so": "163",
+        "bipballs in play": "520",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-09 19:15:50.854868"
+        "updated": "2025-04-09 19:16:01.729438"
     },
     "stl @ pit": [
         {
@@ -9838,16 +9838,16 @@
         {
             "player": "jacob amaya",
             "game": "chw @ cle",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "33",
             "dt": "2025-04-09 19:15:10",
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
             "team": "chw",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "91.5",
+            "la": "35",
+            "dist": "326"
         },
         {
             "player": "michael a taylor",
@@ -10526,6 +10526,20 @@
     ],
     "laa @ tb": [
         {
+            "player": "yoan moncada",
+            "game": "laa @ tb",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-04-09 19:15:56",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "logan ohoppe",
             "game": "laa @ tb",
             "hr/park": "",
@@ -10534,7 +10548,7 @@
             "img": "https://www.mlbstatic.com/team-logos/108.svg",
             "team": "laa",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
