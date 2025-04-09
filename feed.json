@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "85",
-        "batters": "232",
-        "pitches": "2938",
+        "batters": "233",
+        "pitches": "2942",
         "max velomax pitch velocity": "101.7",
         "min velomin pitch velocity": "65.6",
         "ff%fourseam fastball %": "35.0",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.8",
         "cu%curve %": "6.7",
         "max evmax exit velocity": "116.7",
-        "hhhard hit": "196",
-        "hh%hard hit %": "38.9",
-        "brlbarrels": "41",
-        "brl%barrel %": "8.1",
-        "ab": "678",
-        "avg": ".235",
+        "hhhard hit": "197",
+        "hh%hard hit %": "39.0",
+        "brlbarrels": "42",
+        "brl%barrel %": "8.3",
+        "ab": "680",
+        "avg": ".234",
         "h": "159",
         "1b": "107",
         "2b": "28",
         "3b": "5",
         "hr": "19",
         "so": "186",
-        "bipballs in play": "504",
+        "bipballs in play": "505",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-08 21:52:18.099639"
+        "updated": "2025-04-08 21:52:32.486824"
     },
     "nyy @ det": [
         {
@@ -9922,6 +9922,20 @@
     ],
     "mil @ col": [
         {
+            "player": "jacob stallings",
+            "game": "mil @ col",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-04-08 21:52:32",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "zac veen",
             "game": "mil @ col",
             "hr/park": "",
@@ -10486,6 +10500,20 @@
     ],
     "hou @ sea": [
         {
+            "player": "julio rodriguez",
+            "game": "hou @ sea",
+            "hr/park": "0/30",
+            "pa": "6",
+            "dt": "2025-04-08 21:52:32",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "in": "1",
+            "result": "Lineout",
+            "evo": "109.4",
+            "la": "15",
+            "dist": "353"
+        },
+        {
             "player": "dylan moore",
             "game": "hou @ sea",
             "hr/park": "",
@@ -10494,7 +10522,7 @@
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "in": "1",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "101.0",
             "la": "13",
             "dist": "268"
@@ -10566,7 +10594,7 @@
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
             "team": "sf",
             "in": "1",
-            "result": "In Progress",
+            "result": "Game Advisory",
             "evo": "",
             "la": "",
             "dist": ""
