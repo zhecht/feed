@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "67",
         "batters": "209",
-        "pitches": "2641",
+        "pitches": "2644",
         "max velomax pitch velocity": "101.7",
         "min velomin pitch velocity": "65.6",
         "ff%fourseam fastball %": "34.4",
@@ -13,8 +13,8 @@
         "sl%slider %": "21.5",
         "cu%curve %": "6.9",
         "max evmax exit velocity": "116.7",
-        "hhhard hit": "176",
-        "hh%hard hit %": "39.0",
+        "hhhard hit": "177",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "39",
         "brl%barrel %": "8.6",
         "ab": "611",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "18",
         "so": "169",
-        "bipballs in play": "451",
+        "bipballs in play": "452",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-08 21:25:21.780550"
+        "updated": "2025-04-08 21:25:34.542312"
     },
     "nyy @ det": [
         {
@@ -6114,10 +6114,10 @@
             "img": "https://www.mlbstatic.com/team-logos/108.svg",
             "team": "laa",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "105.0",
+            "la": "-13",
+            "dist": "8"
         },
         {
             "player": "jorge soler",
@@ -7804,6 +7804,20 @@
     ],
     "tex @ chc": [
         {
+            "player": "dansby swanson",
+            "game": "tex @ chc",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-04-08 21:25:30",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "justin turner",
             "game": "tex @ chc",
             "hr/park": "",
@@ -7812,7 +7826,7 @@
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
             "team": "chc",
             "in": "6",
-            "result": "Game Advisory",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
