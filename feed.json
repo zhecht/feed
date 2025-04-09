@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "47",
         "batters": "161",
-        "pitches": "1663",
+        "pitches": "1666",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "70.5",
         "ff%fourseam fastball %": "33.6",
         "si%sinker %": "13.9",
         "fc%cutter %": "7.2",
         "fs%splitter %": "3.7",
-        "ch%changeup %": "9.3",
+        "ch%changeup %": "9.2",
         "sl%slider %": "24.9",
         "cu%curve %": "7.5",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "123",
-        "hh%hard hit %": "42.4",
+        "hhhard hit": "124",
+        "hh%hard hit %": "42.5",
         "brlbarrels": "21",
         "brl%barrel %": "7.2",
-        "ab": "390",
+        "ab": "391",
         "avg": ".215",
         "h": "84",
         "1b": "65",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "8",
         "so": "103",
-        "bipballs in play": "290",
+        "bipballs in play": "292",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-04-09 16:40:24.518268"
+        "updated": "2025-04-09 16:40:35.010456"
     },
     "stl @ pit": [
         {
@@ -4431,9 +4431,9 @@
             "team": "sd",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "90.1",
+            "la": "39",
+            "dist": "302"
         },
         {
             "player": "xander bogaerts",
@@ -5322,11 +5322,11 @@
     ],
     "cin @ sf": [
         {
-            "player": "spencer steer",
+            "player": "jake fraley",
             "game": "cin @ sf",
             "hr/park": "",
-            "pa": "26",
-            "dt": "2025-04-09 16:39:57",
+            "pa": "27",
+            "dt": "2025-04-09 16:40:27",
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
             "team": "cin",
             "in": "4",
@@ -5334,6 +5334,20 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "spencer steer",
+            "game": "cin @ sf",
+            "hr/park": "1/30",
+            "pa": "26",
+            "dt": "2025-04-09 16:39:57",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "in": "4",
+            "result": "Flyout",
+            "evo": "98.1",
+            "la": "36",
+            "dist": "361"
         },
         {
             "player": "lamonte wade",
@@ -5908,7 +5922,7 @@
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
             "team": "hou",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
