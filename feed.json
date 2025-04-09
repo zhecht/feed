@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "70",
         "batters": "173",
-        "pitches": "2390",
+        "pitches": "2396",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "70.5",
         "ff%fourseam fastball %": "31.5",
-        "si%sinker %": "15.7",
+        "si%sinker %": "15.9",
         "fc%cutter %": "7.8",
         "fs%splitter %": "3.1",
         "ch%changeup %": "10.0",
         "sl%slider %": "23.6",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "114.3",
-        "hhhard hit": "168",
-        "hh%hard hit %": "39.8",
+        "hhhard hit": "169",
+        "hh%hard hit %": "39.9",
         "brlbarrels": "28",
         "brl%barrel %": "6.6",
-        "ab": "550",
-        "avg": ".211",
-        "h": "116",
-        "1b": "84",
+        "ab": "552",
+        "avg": ".212",
+        "h": "117",
+        "1b": "85",
         "2b": "16",
         "3b": "5",
         "hr": "11",
         "so": "138",
-        "bipballs in play": "422",
+        "bipballs in play": "424",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-04-09 18:00:51.287344"
+        "updated": "2025-04-09 18:01:03.563755"
     },
     "stl @ pit": [
         {
@@ -4422,6 +4422,20 @@
     ],
     "sd @ ath": [
         {
+            "player": "shea langeliers",
+            "game": "sd @ ath",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-04-09 18:00:59",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "109.0",
+            "la": "-1",
+            "dist": "42"
+        },
+        {
             "player": "tyler soderstrom",
             "game": "sd @ ath",
             "hr/park": "",
@@ -7186,6 +7200,20 @@
     ],
     "lad @ wsh": [
         {
+            "player": "mookie betts",
+            "game": "lad @ wsh",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-04-09 18:00:16",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "shohei ohtani",
             "game": "lad @ wsh",
             "hr/park": "",
@@ -7194,7 +7222,7 @@
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
             "team": "lad",
             "in": "7",
-            "result": "Official Scorer Ruling Pending",
+            "result": "Single",
             "evo": "72.0",
             "la": "-42",
             "dist": "4"
@@ -7966,10 +7994,10 @@
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "66.5",
+            "la": "10",
+            "dist": "107"
         },
         {
             "player": "christian walker",
