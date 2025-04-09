@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "47",
-        "batters": "160",
-        "pitches": "1645",
+        "batters": "161",
+        "pitches": "1650",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "70.5",
         "ff%fourseam fastball %": "33.6",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.2",
         "fs%splitter %": "3.7",
         "ch%changeup %": "9.2",
-        "sl%slider %": "24.9",
+        "sl%slider %": "25.0",
         "cu%curve %": "7.5",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "120",
-        "hh%hard hit %": "42.1",
+        "hhhard hit": "122",
+        "hh%hard hit %": "42.2",
         "brlbarrels": "21",
-        "brl%barrel %": "7.4",
-        "ab": "385",
-        "avg": ".210",
-        "h": "81",
-        "1b": "63",
-        "2b": "8",
+        "brl%barrel %": "7.3",
+        "ab": "386",
+        "avg": ".215",
+        "h": "83",
+        "1b": "64",
+        "2b": "9",
         "3b": "2",
         "hr": "8",
         "so": "103",
-        "bipballs in play": "285",
+        "bipballs in play": "289",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-04-09 16:38:19.335923"
+        "updated": "2025-04-09 16:38:30.775668"
     },
     "stl @ pit": [
         {
@@ -3440,6 +3440,20 @@
     ],
     "tex @ chc": [
         {
+            "player": "dansby swanson",
+            "game": "tex @ chc",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-04-09 16:38:28",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "in": "9",
+            "result": "Flyout",
+            "evo": "83.9",
+            "la": "36",
+            "dist": "266"
+        },
+        {
             "player": "michael busch",
             "game": "tex @ chc",
             "hr/park": "",
@@ -4416,10 +4430,10 @@
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
             "team": "sd",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "105.1",
+            "la": "5",
+            "dist": "97"
         },
         {
             "player": "miguel andujar",
@@ -5632,6 +5646,20 @@
     ],
     "lad @ wsh": [
         {
+            "player": "paul dejong",
+            "game": "lad @ wsh",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-04-09 16:38:28",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "104.2",
+            "la": "7",
+            "dist": "127"
+        },
+        {
             "player": "alex call",
             "game": "lad @ wsh",
             "hr/park": "",
@@ -5640,7 +5668,7 @@
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
             "team": "wsh",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5838,10 +5866,10 @@
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
             "team": "hou",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "71.2",
+            "la": "16",
+            "dist": "162"
         },
         {
             "player": "jake meyers",
