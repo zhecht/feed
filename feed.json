@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "85",
         "batters": "192",
-        "pitches": "2661",
+        "pitches": "2664",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "70.5",
         "ff%fourseam fastball %": "31.8",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.3",
         "fs%splitter %": "2.8",
         "ch%changeup %": "10.2",
-        "sl%slider %": "23.7",
+        "sl%slider %": "23.8",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "114.3",
         "hhhard hit": "193",
-        "hh%hard hit %": "40.5",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "37",
-        "brl%barrel %": "7.8",
-        "ab": "620",
-        "avg": ".206",
-        "h": "128",
-        "1b": "92",
+        "brl%barrel %": "7.7",
+        "ab": "621",
+        "avg": ".209",
+        "h": "130",
+        "1b": "94",
         "2b": "17",
         "3b": "5",
         "hr": "14",
         "so": "154",
-        "bipballs in play": "477",
+        "bipballs in play": "479",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-04-09 18:39:12.118605"
+        "updated": "2025-04-09 18:39:25.002098"
     },
     "stl @ pit": [
         {
@@ -7592,6 +7592,20 @@
     ],
     "lad @ wsh": [
         {
+            "player": "tommy edman",
+            "game": "lad @ wsh",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-04-09 18:39:15",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "in": "9",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mookie betts",
             "game": "lad @ wsh",
             "hr/park": "",
@@ -7600,10 +7614,10 @@
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
             "team": "lad",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "86.2",
+            "la": "25",
+            "dist": "260"
         },
         {
             "player": "shohei ohtani",
@@ -8602,6 +8616,20 @@
     ],
     "hou @ sea": [
         {
+            "player": "jp crawford",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-04-09 18:39:15",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "miles mastrobuoni",
             "game": "hou @ sea",
             "hr/park": "",
@@ -8610,7 +8638,7 @@
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "in": "8",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "102.1",
             "la": "13",
             "dist": "211"
