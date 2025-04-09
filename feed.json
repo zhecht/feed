@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "46",
-        "batters": "145",
-        "pitches": "1484",
+        "batters": "146",
+        "pitches": "1486",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "70.5",
         "ff%fourseam fastball %": "33.3",
@@ -11,24 +11,24 @@
         "fs%splitter %": "3.9",
         "ch%changeup %": "8.6",
         "sl%slider %": "25.2",
-        "cu%curve %": "7.1",
+        "cu%curve %": "7.2",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "111",
-        "hh%hard hit %": "42.4",
-        "brlbarrels": "19",
-        "brl%barrel %": "7.3",
-        "ab": "352",
-        "avg": ".196",
-        "h": "69",
-        "1b": "54",
+        "hhhard hit": "112",
+        "hh%hard hit %": "42.6",
+        "brlbarrels": "20",
+        "brl%barrel %": "7.6",
+        "ab": "353",
+        "avg": ".201",
+        "h": "71",
+        "1b": "55",
         "2b": "7",
         "3b": "2",
-        "hr": "6",
-        "so": "93",
-        "bipballs in play": "262",
+        "hr": "7",
+        "so": "94",
+        "bipballs in play": "263",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-04-09 16:24:16.457814"
+        "updated": "2025-04-09 16:24:30.285048"
     },
     "stl @ pit": [
         {
@@ -3448,7 +3448,7 @@
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
             "in": "9",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "96.6",
             "la": "-1",
             "dist": "47"
@@ -4332,7 +4332,7 @@
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
             "team": "sd",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5254,11 +5254,11 @@
     ],
     "lad @ wsh": [
         {
-            "player": "cj abrams",
+            "player": "james wood",
             "game": "lad @ wsh",
             "hr/park": "",
-            "pa": "8",
-            "dt": "2025-04-09 16:21:58",
+            "pa": "9",
+            "dt": "2025-04-09 16:24:30",
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
             "team": "wsh",
             "in": "1",
@@ -5266,6 +5266,20 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "cj abrams",
+            "game": "lad @ wsh",
+            "hr/park": "30/30",
+            "pa": "8",
+            "dt": "2025-04-09 16:21:58",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "in": "1",
+            "result": "Home Run",
+            "evo": "102.8",
+            "la": "30",
+            "dist": "379"
         },
         {
             "player": "max muncy",
