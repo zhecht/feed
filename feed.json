@@ -2,25 +2,25 @@
     "all": {
         "pitchers": "42",
         "batters": "137",
-        "pitches": "1389",
+        "pitches": "1392",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "70.5",
         "ff%fourseam fastball %": "33.0",
-        "si%sinker %": "14.7",
+        "si%sinker %": "14.8",
         "fc%cutter %": "7.3",
         "fs%splitter %": "4.2",
-        "ch%changeup %": "8.1",
+        "ch%changeup %": "8.0",
         "sl%slider %": "25.9",
         "cu%curve %": "6.8",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "107",
-        "hh%hard hit %": "43.3",
+        "hhhard hit": "106",
+        "hh%hard hit %": "42.9",
         "brlbarrels": "18",
         "brl%barrel %": "7.3",
-        "ab": "331",
-        "avg": ".190",
-        "h": "63",
-        "1b": "50",
+        "ab": "332",
+        "avg": ".193",
+        "h": "64",
+        "1b": "51",
         "2b": "5",
         "3b": "2",
         "hr": "6",
@@ -28,7 +28,7 @@
         "bipballs in play": "247",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-04-09 16:15:39.781448"
+        "updated": "2025-04-09 16:15:49.823346"
     },
     "stl @ pit": [
         {
@@ -4268,6 +4268,20 @@
     ],
     "sd @ ath": [
         {
+            "player": "jose iglesias",
+            "game": "sd @ ath",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-04-09 16:15:43",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "85.5",
+            "la": "-24",
+            "dist": "6"
+        },
+        {
             "player": "oscar gonzalez",
             "game": "sd @ ath",
             "hr/park": "",
@@ -4276,7 +4290,7 @@
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
             "team": "sd",
             "in": "3",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "77.4",
             "la": "26",
             "dist": "265"
@@ -4600,10 +4614,10 @@
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
             "team": "bal",
             "in": "3",
-            "result": "Pop Out",
-            "evo": "99.3",
-            "la": "60",
-            "dist": "214"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "jose herrera",
