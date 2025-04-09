@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "40",
-        "batters": "177",
-        "pitches": "1659",
+        "batters": "178",
+        "pitches": "1664",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "69.1",
         "ff%fourseam fastball %": "36.3",
-        "si%sinker %": "12.3",
+        "si%sinker %": "12.4",
         "fc%cutter %": "7.0",
         "fs%splitter %": "2.5",
         "ch%changeup %": "13.5",
         "sl%slider %": "22.2",
         "cu%curve %": "6.1",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "108",
-        "hh%hard hit %": "38.3",
+        "hhhard hit": "110",
+        "hh%hard hit %": "38.7",
         "brlbarrels": "26",
         "brl%barrel %": "9.2",
-        "ab": "385",
-        "avg": ".221",
-        "h": "85",
-        "1b": "58",
+        "ab": "387",
+        "avg": ".222",
+        "h": "86",
+        "1b": "59",
         "2b": "11",
         "3b": "2",
         "hr": "14",
         "so": "105",
-        "bipballs in play": "282",
+        "bipballs in play": "284",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-04-08 20:11:19.386341"
+        "updated": "2025-04-08 20:11:30.764470"
     },
     "nyy @ det": [
         {
@@ -2986,10 +2986,10 @@
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
             "team": "stl",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "100.1",
+            "la": "-22",
+            "dist": "5"
         },
         {
             "player": "jordan walker",
@@ -4790,6 +4790,20 @@
     ],
     "laa @ tb": [
         {
+            "player": "christopher morel",
+            "game": "laa @ tb",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-04-08 20:11:30",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jonathan aranda",
             "game": "laa @ tb",
             "hr/park": "",
@@ -5564,9 +5578,23 @@
     ],
     "tex @ chc": [
         {
-            "player": "nico hoerner",
+            "player": "pete crow armstrong",
             "game": "tex @ chc",
             "hr/park": "",
+            "pa": "17",
+            "dt": "2025-04-08 20:11:30",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "in": "2",
+            "result": "Single",
+            "evo": "96.5",
+            "la": "10",
+            "dist": "148"
+        },
+        {
+            "player": "nico hoerner",
+            "game": "tex @ chc",
+            "hr/park": "0/30",
             "pa": "16",
             "dt": "2025-04-08 20:10:30",
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
@@ -5798,7 +5826,7 @@
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
