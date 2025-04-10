@@ -96,6 +96,7 @@ def parseFeed(data, times, liveGames, totGames, loop):
 		data[game] = []
 		if game not in times:
 			times[game] = {}
+		print(game)
 		table = div.find("div", class_="exit-velocity-table")
 		if not table:
 			continue
