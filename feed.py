@@ -135,6 +135,13 @@ if __name__ == '__main__':
 	if not date:
 		date = str(datetime.now())[:10]
 
+	if args.history:
+		with open("feed_times.json") as fh:
+			times = json.load(fh)
+		with open("feed_times_historical.json") as fh:
+			hist = json.load(fh)
+		hist[str(datetime.now())[:10]] = times
+
 	if args.clear:
 		with open("feed_times.json", "w") as fh:
 			json.dump({}, fh)
