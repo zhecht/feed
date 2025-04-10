@@ -24,10 +24,22 @@ def commitChanges():
 async def writeFeed(date, loop):
 	if not date:
 		date = str(datetime.now())[:10]
-	url = f"https://baseballsavant.mlb.com/gamefeed?date={date}"
+	url = f"https://baseballsavant.mlb.com/gamefeed?date={date}&hf=exitVelocity"
 	browser = await uc.start(no_sandbox=True)
 	page = await browser.get(url)
 	await page.wait_for(selector=".container-open")
+
+	#b = await page.query_selector("#btnHide")
+	#await b.click()
+
+	# click exit velo table
+	if False:
+		o = await page.query_selector(".container-open")
+		id = o.get("id").split("-")[-1]
+		#print(id)
+		await o.click()
+		btn = await page.query_selector(f"#button_exitVelocity_{id}")
+		await btn.click()
 
 	with open("feed_times.json") as fh:
 		times = json.load(fh)
@@ -83,22 +95,24 @@ def parseFeed(data, times, liveGames, totGames, loop):
 		data[game] = []
 		if game not in times:
 			times[game] = {}
-		table = div.find("div", class_="mini-ev-table")
+		table = div.find("div", class_="exit-velocity-table")
 		if not table:
 			continue
 		for tr in table.find("tbody").find_all("tr"):
 			tds = tr.find_all("td")
-			player = parsePlayer(tds[1].text.strip())
-			img = tds[0].find("img").get("src")
+			player = parsePlayer(tds[2].text.strip())
+			pitcher = parsePlayer(tds[4].text.strip())
+			img = tr.find("img").get("src")
 			team = convertSavantLogoId(img.split("/")[-1].replace(".svg", ""))
 			hrPark = tds[-1].text.strip()
 
-			pa = tds[2].text.strip()
+			pa = tds[5].text.strip()
 			seen = pa in times[game]
 			dt = times[game].get(pa, str(datetime.now()).split(".")[0])
 			times[game][pa] = dt
 			j = {
 				"player": player,
+				"pitcher": pitcher,
 				"game": game,
 				"hr/park": hrPark,
 				"pa": pa,
@@ -106,14 +120,11 @@ def parseFeed(data, times, liveGames, totGames, loop):
 				"img": img,
 				"team": team
 			}
-			i = 3
-			for hdr in ["in", "result", "evo", "la", "dist"]:
+			i = 6
+			for hdr in ["in", "result", "evo", "la", "dist", "speed", "mph", "xba"]:
 				j[hdr] = tds[i].text.strip()
 				i += 1
 
-			if loop and not seen and j["result"] == "Home Run":
-				#bsky.postHomer(j)
-				pass
 			data[game].append(j)
 
 	with open("feed.json", "w") as fh:
@@ -148,5 +159,6 @@ if __name__ == '__main__':
 	if args.clear:
 		with open("feed_times.json", "w") as fh:
 			json.dump({}, fh)
+		exit()
 
 	uc.loop().run_until_complete(writeFeed(date, args.loop))
