@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "100",
         "batters": "269",
-        "pitches": "3430",
+        "pitches": "3436",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "63.1",
         "ff%fourseam fastball %": "32.3",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.1",
         "fs%splitter %": "4.1",
         "ch%changeup %": "9.6",
-        "sl%slider %": "24.2",
+        "sl%slider %": "24.3",
         "cu%curve %": "8.1",
         "max evmax exit velocity": "114.3",
         "hhhard hit": "232",
         "hh%hard hit %": "38.9",
         "brlbarrels": "45",
         "brl%barrel %": "7.5",
-        "ab": "783",
+        "ab": "784",
         "avg": ".209",
         "h": "164",
         "1b": "118",
         "2b": "22",
         "3b": "5",
         "hr": "19",
-        "so": "199",
+        "so": "200",
         "bipballs in play": "597",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-09 20:12:53.097467"
+        "updated": "2025-04-09 20:13:05.947030"
     },
     "stl @ pit": [
         {
@@ -9892,9 +9892,23 @@
     ],
     "chw @ cle": [
         {
-            "player": "carlos santana",
+            "player": "kyle manzardo",
             "game": "chw @ cle",
             "hr/park": "",
+            "pa": "60",
+            "dt": "2025-04-09 20:12:57",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "carlos santana",
+            "game": "chw @ cle",
+            "hr/park": "0/30",
             "pa": "59",
             "dt": "2025-04-09 20:11:26",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
@@ -11332,7 +11346,7 @@
             "img": "https://www.mlbstatic.com/team-logos/108.svg",
             "team": "laa",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12176,7 +12190,7 @@
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
