@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "38",
         "batters": "102",
-        "pitches": "1340",
+        "pitches": "1341",
         "max velomax pitch velocity": "99.8",
         "min velomin pitch velocity": "68.7",
         "ff%fourseam fastball %": "26.6",
@@ -13,22 +13,22 @@
         "sl%slider %": "20.5",
         "cu%curve %": "6.6",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "99",
-        "hh%hard hit %": "39.6",
-        "brlbarrels": "22",
-        "brl%barrel %": "8.8",
-        "ab": "322",
-        "avg": ".233",
+        "hhhard hit": "100",
+        "hh%hard hit %": "39.8",
+        "brlbarrels": "23",
+        "brl%barrel %": "9.2",
+        "ab": "323",
+        "avg": ".232",
         "h": "75",
         "1b": "48",
         "2b": "17",
         "3b": "0",
         "hr": "10",
         "so": "76",
-        "bipballs in play": "250",
+        "bipballs in play": "251",
         "liveGames": 5,
         "totGames": 6,
-        "updated": "2025-04-10 18:47:08.900790"
+        "updated": "2025-04-10 18:47:16.687489"
     },
     "laa @ tb": [
         {
@@ -3658,6 +3658,24 @@
     ],
     "tor @ bos": [
         {
+            "player": "vladimir guerrero",
+            "pitcher": "aroldis chapman",
+            "game": "tor @ bos",
+            "hr/park": "0/30",
+            "pa": "67",
+            "dt": "2025-04-10 18:47:16",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "in": "9",
+            "result": "Flyout",
+            "evo": "98.0",
+            "la": "30",
+            "dist": "332",
+            "speed": "",
+            "mph": "99.6",
+            "xba": ".390"
+        },
+        {
             "player": "tyler heineman",
             "pitcher": "aroldis chapman",
             "game": "tor @ bos",
@@ -3671,9 +3689,9 @@
             "evo": "94.4",
             "la": "-17",
             "dist": "8",
-            "speed": "",
+            "speed": "65.7",
             "mph": "98.5",
-            "xba": ""
+            "xba": ".100"
         },
         {
             "player": "triston casas",
