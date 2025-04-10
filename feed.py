@@ -28,6 +28,7 @@ async def writeFeed(date, loop):
 	browser = await uc.start(no_sandbox=True)
 	page = await browser.get(url)
 	await page.wait_for(selector=".container-open")
+	time.sleep(5)
 
 	#b = await page.query_selector("#btnHide")
 	#await b.click()
