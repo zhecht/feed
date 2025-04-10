@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "110",
         "batters": "276",
-        "pitches": "3736",
+        "pitches": "3739",
         "max velomax pitch velocity": "102.0",
         "min velomin pitch velocity": "63.1",
         "ff%fourseam fastball %": "32.3",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "38.9",
         "brlbarrels": "48",
         "brl%barrel %": "7.4",
-        "ab": "845",
+        "ab": "846",
         "avg": ".209",
         "h": "177",
         "1b": "128",
         "2b": "24",
         "3b": "5",
         "hr": "20",
-        "so": "212",
+        "so": "213",
         "bipballs in play": "646",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-04-09 20:45:34.000082"
+        "updated": "2025-04-09 20:45:47.952688"
     },
     "stl @ pit": [
         {
@@ -10918,7 +10918,7 @@
         {
             "player": "george springer",
             "game": "tor @ bos",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "59",
             "dt": "2025-04-09 20:44:41",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
@@ -12460,6 +12460,20 @@
     ],
     "phi @ atl": [
         {
+            "player": "bryce harper",
+            "game": "phi @ atl",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-04-09 20:45:40",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trea turner",
             "game": "phi @ atl",
             "hr/park": "",
@@ -12468,7 +12482,7 @@
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -13396,7 +13410,7 @@
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
             "team": "mil",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "101.3",
             "la": "-22",
             "dist": "7"
