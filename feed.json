@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "106",
         "batters": "274",
-        "pitches": "3610",
+        "pitches": "3615",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "63.1",
         "ff%fourseam fastball %": "32.3",
-        "si%sinker %": "14.6",
+        "si%sinker %": "14.7",
         "fc%cutter %": "6.9",
         "fs%splitter %": "4.2",
         "ch%changeup %": "9.5",
@@ -14,10 +14,10 @@
         "cu%curve %": "8.2",
         "max evmax exit velocity": "114.3",
         "hhhard hit": "242",
-        "hh%hard hit %": "38.7",
+        "hh%hard hit %": "38.6",
         "brlbarrels": "47",
         "brl%barrel %": "7.5",
-        "ab": "819",
+        "ab": "821",
         "avg": ".206",
         "h": "169",
         "1b": "122",
@@ -25,10 +25,10 @@
         "3b": "5",
         "hr": "20",
         "so": "207",
-        "bipballs in play": "626",
+        "bipballs in play": "627",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-09 20:32:27.638607"
+        "updated": "2025-04-09 20:32:41.442695"
     },
     "stl @ pit": [
         {
@@ -9900,7 +9900,7 @@
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
             "team": "cle",
             "in": "8",
-            "result": "Mound Visit",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11576,9 +11576,23 @@
     ],
     "laa @ tb": [
         {
-            "player": "kyren paris",
+            "player": "tim anderson",
             "game": "laa @ tb",
             "hr/park": "",
+            "pa": "46",
+            "dt": "2025-04-09 20:32:41",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "kyren paris",
+            "game": "laa @ tb",
+            "hr/park": "0/30",
             "pa": "45",
             "dt": "2025-04-09 20:32:09",
             "img": "https://www.mlbstatic.com/team-logos/108.svg",
@@ -12658,6 +12672,20 @@
     ],
     "min @ kc": [
         {
+            "player": "edouard julien",
+            "game": "min @ kc",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-04-09 20:32:41",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ty france",
             "game": "min @ kc",
             "hr/park": "",
@@ -12666,10 +12694,10 @@
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "80.3",
+            "la": "9",
+            "dist": "123"
         },
         {
             "player": "trevor larnach",
