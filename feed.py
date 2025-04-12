@@ -56,15 +56,14 @@ def writeFeed(date, loop):
 
 		games = []
 		for gameData in schedule[date]:
-			if gameData["start"]:
-				try:
-					dt = datetime.strptime(gameData["start"], "%I:%M %p")
-					dt = int(dt.strftime("%H%M"))
-				except:
-					dt = 0
+			try:
+				dt = datetime.strptime(gameData["start"], "%I:%M %p")
+				dt = int(dt.strftime("%H%M"))
+			except:
+				dt = 0
 
-				if dt <= int(datetime.now().strftime("%H%M")):
-					games.append(gameData)
+			if dt <= int(datetime.now().strftime("%H%M")):
+				games.append(gameData)
 		data = {}
 		parseFeed(data, times, games, len(schedule[date]), soup)
 		i += 1
