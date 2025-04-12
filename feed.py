@@ -89,6 +89,7 @@ def parseFeed(data, times, games, totGames, soup):
 	data["all"] = {k: v.text.strip() for k,v in zip(hdrs,allTable.find_all("td")) if k}
 	data["all"]["liveGames"] = len(games)
 	data["all"]["totGames"] = totGames
+	data["all"]["updated"] = str(datetime.now())[:10]
 	for div in soup.find_all("div", class_="game-container"):
 		away = div.find("div", class_="team-left")
 		home = div.find("div", class_="team-right")
