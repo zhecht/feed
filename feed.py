@@ -64,7 +64,7 @@ async def writeFeed(date, loop):
 				if dt <= int(datetime.now().strftime("%H%M")):
 					games.append(gameData)
 		data = {}
-		parseFeed(data, times, len(games), len(schedule[date]), loop)
+		parseFeed(data, times, games, len(schedule[date]), loop)
 		i += 1
 
 		if not loop:
@@ -77,12 +77,15 @@ async def writeFeed(date, loop):
 
 	browser.stop()
 
-def parseFeed(data, times, liveGames, totGames, loop):
+def parseFeed(data, times, games, totGames, loop):
 	soup = BS(open("feed.html", 'rb').read(), "lxml")
 	allTable = soup.find("div", id="allMetrics")
 	hdrs = [th.text.lower() for th in allTable.find_all("th")]
+	starts = {}
+	for game in games:
+		starts[game["game"]] = game["start"]
 	data["all"] = {k: v.text.strip() for k,v in zip(hdrs,allTable.find_all("td")) if k}
-	data["all"]["liveGames"] = liveGames
+	data["all"]["liveGames"] = len(games)
 	data["all"]["totGames"] = totGames
 	data["all"]["updated"] = str(datetime.now())
 	for div in soup.find_all("div", class_="game-container"):
@@ -119,7 +122,8 @@ def parseFeed(data, times, liveGames, totGames, loop):
 				"pa": pa,
 				"dt": dt,
 				"img": img,
-				"team": team
+				"team": team,
+				"start": starts[game]
 			}
 			i = 6
 			for hdr in ["in", "result", "evo", "la", "dist", "speed", "mph", "xba"]:
