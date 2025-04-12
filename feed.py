@@ -56,12 +56,12 @@ def writeFeed(date, loop):
 
 		games = []
 		for gameData in schedule[date]:
-			if gameData["start"] and gameData["start"] != "LIVE":
+			if gameData["start"]:
 				try:
 					dt = datetime.strptime(gameData["start"], "%I:%M %p")
 					dt = int(dt.strftime("%H%M"))
 				except:
-					continue
+					dt = 0
 
 				if dt <= int(datetime.now().strftime("%H%M")):
 					games.append(gameData)
