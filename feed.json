@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "24",
         "batters": "180",
-        "pitches": "1436",
+        "pitches": "1442",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "71.3",
-        "ff%fourseam fastball %": "35.4",
+        "ff%fourseam fastball %": "35.5",
         "si%sinker %": "13.9",
         "fc%cutter %": "4.7",
         "fs%splitter %": "4.2",
-        "ch%changeup %": "11.5",
+        "ch%changeup %": "11.6",
         "sl%slider %": "22.9",
         "cu%curve %": "7.3",
         "max evmax exit velocity": "117.2",
-        "hhhard hit": "99",
-        "hh%hard hit %": "39.0",
+        "hhhard hit": "100",
+        "hh%hard hit %": "39.4",
         "brlbarrels": "23",
         "brl%barrel %": "9.1",
-        "ab": "341",
-        "avg": ".240",
+        "ab": "343",
+        "avg": ".239",
         "h": "82",
         "1b": "57",
         "2b": "11",
@@ -28,7 +28,7 @@
         "bipballs in play": "254",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-04-13 15:08:36.099942"
+        "updated": "2025-04-13 15:08:44.015578"
     },
     "atl @ tb": [
         {
@@ -1040,7 +1040,7 @@
             "dist": "148",
             "speed": "",
             "mph": "86.3",
-            "xba": ""
+            "xba": ".020"
         },
         {
             "player": "jung hoo lee",
@@ -3428,25 +3428,6 @@
     ],
     "det @ min": [
         {
-            "player": "ryan jeffers",
-            "pitcher": "casey mize",
-            "game": "det @ min",
-            "hr/park": "",
-            "pa": "31",
-            "dt": "2025-04-13 15:08:24",
-            "img": "https://www.mlbstatic.com/team-logos/142.svg",
-            "team": "min",
-            "start": "2:10 PM",
-            "in": "4",
-            "result": "Groundout",
-            "evo": "68.8",
-            "la": "-22",
-            "dist": "7",
-            "speed": "",
-            "mph": "89.9",
-            "xba": ".030"
-        },
-        {
             "player": "ty france",
             "pitcher": "casey mize",
             "game": "det @ min",
@@ -3461,7 +3442,7 @@
             "evo": "90.0",
             "la": "30",
             "dist": "339",
-            "speed": "72.8",
+            "speed": "",
             "mph": "88.0",
             "xba": ".070"
         },
@@ -3896,13 +3877,13 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "5",
-            "result": "undefined",
+            "result": "Groundout",
             "evo": "70.5",
             "la": "11",
             "dist": "138",
-            "speed": "",
+            "speed": "66.9",
             "mph": "96.6",
-            "xba": ""
+            "xba": ".310"
         },
         {
             "player": "ceddanne rafaela",
@@ -4324,6 +4305,25 @@
         }
     ],
     "phi @ stl": [
+        {
+            "player": "jt realmuto",
+            "pitcher": "matthew liberatore",
+            "game": "phi @ stl",
+            "hr/park": "0/30",
+            "pa": "25",
+            "dt": "2025-04-13 15:07:25",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "2:15 PM",
+            "in": "4",
+            "result": "Flyout",
+            "evo": "99.0",
+            "la": "24",
+            "dist": "333",
+            "speed": "\u26a180.1",
+            "mph": "88.3",
+            "xba": ".450"
+        },
         {
             "player": "lars nootbaar",
             "pitcher": "zack wheeler",
