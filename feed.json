@@ -1,13 +1,13 @@
 {
     "all": {
         "pitchers": "75",
-        "batters": "205",
-        "pitches": "2541",
+        "batters": "206",
+        "pitches": "2544",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "70.2",
         "ff%fourseam fastball %": "33.6",
         "si%sinker %": "15.5",
-        "fc%cutter %": "5.8",
+        "fc%cutter %": "5.9",
         "fs%splitter %": "3.7",
         "ch%changeup %": "10.7",
         "sl%slider %": "23.1",
@@ -18,9 +18,9 @@
         "brlbarrels": "33",
         "brl%barrel %": "7.4",
         "ab": "601",
-        "avg": ".221",
-        "h": "133",
-        "1b": "87",
+        "avg": ".223",
+        "h": "134",
+        "1b": "88",
         "2b": "25",
         "3b": "2",
         "hr": "19",
@@ -28,7 +28,7 @@
         "bipballs in play": "444",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-13 16:16:02.572996"
+        "updated": "2025-04-13 16:16:11.471546"
     },
     "atl @ tb": [
         {
@@ -675,9 +675,9 @@
             "evo": "93.2",
             "la": "12",
             "dist": "226",
-            "speed": "",
+            "speed": "67.6",
             "mph": "87.2",
-            "xba": ""
+            "xba": ".850"
         },
         {
             "player": "davis schneider",
@@ -1688,25 +1688,6 @@
         }
     ],
     "sf @ nyy": [
-        {
-            "player": "ben rice",
-            "pitcher": "ryan walker",
-            "game": "sf @ nyy",
-            "hr/park": "",
-            "pa": "74",
-            "dt": "2025-04-13 16:15:56",
-            "img": "https://www.mlbstatic.com/team-logos/147.svg",
-            "team": "nyy",
-            "start": "1:35 PM",
-            "in": "9",
-            "result": "Groundout",
-            "evo": "65.7",
-            "la": "-8",
-            "dist": "15",
-            "speed": "",
-            "mph": "82.6",
-            "xba": ""
-        },
         {
             "player": "austin wells",
             "pitcher": "ryan walker",
@@ -5722,7 +5703,7 @@
             "evo": "65.0",
             "la": "45",
             "dist": "208",
-            "speed": "",
+            "speed": "72.8",
             "mph": "91.8",
             "xba": ".260"
         },
@@ -6575,7 +6556,7 @@
             "team": "bos",
             "start": "2:10 PM",
             "in": "9",
-            "result": "undefined",
+            "result": "Single",
             "evo": "74.8",
             "la": "18",
             "dist": "184",
@@ -8143,7 +8124,7 @@
             "evo": "99.7",
             "la": "16",
             "dist": "290",
-            "speed": "",
+            "speed": "72.2",
             "mph": "86.0",
             "xba": ""
         },
@@ -8170,6 +8151,25 @@
     "tex @ sea": [],
     "mil @ ari": [
         {
+            "player": "christian yelich",
+            "pitcher": "zac gallen",
+            "game": "mil @ ari",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-04-13 16:16:09",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "undefined",
+            "evo": "85.1",
+            "la": "29",
+            "dist": "308",
+            "speed": "",
+            "mph": "94.2",
+            "xba": ""
+        },
+        {
             "player": "jackson chourio",
             "pitcher": "zac gallen",
             "game": "mil @ ari",
@@ -8186,7 +8186,7 @@
             "dist": "264",
             "speed": "",
             "mph": "93.4",
-            "xba": ""
+            "xba": ".000"
         },
         {
             "player": "brice turang",
@@ -8203,7 +8203,7 @@
             "evo": "98.5",
             "la": "6",
             "dist": "120",
-            "speed": "",
+            "speed": "74.4",
             "mph": "86.7",
             "xba": ".590"
         }
