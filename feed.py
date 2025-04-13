@@ -96,7 +96,8 @@ def parseFeed(data, times, games, totGames, soup):
 		home = convertMLBTeam(home.text.strip())
 		game = f"{away} @ {home}"
 		data[game] = []
-		table = div.find("div", class_="exit-velocity-table")
+		#table = div.find("div", class_="exit-velocity-table")
+		table = div.find("div", class_="mini-ev-table")
 		if not table or not table.find("tbody"):
 			continue
 		for tr in table.find("tbody").find_all("tr"):
