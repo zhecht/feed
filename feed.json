@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "114",
-        "batters": "279",
-        "pitches": "3895",
+        "batters": "280",
+        "pitches": "3897",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "67.9",
         "ff%fourseam fastball %": "33.5",
@@ -14,10 +14,10 @@
         "cu%curve %": "7.4",
         "max evmax exit velocity": "117.2",
         "hhhard hit": "266",
-        "hh%hard hit %": "38.4",
+        "hh%hard hit %": "38.3",
         "brlbarrels": "45",
         "brl%barrel %": "6.5",
-        "ab": "913",
+        "ab": "915",
         "avg": ".220",
         "h": "201",
         "1b": "133",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "23",
         "so": "249",
-        "bipballs in play": "693",
+        "bipballs in play": "694",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-04-13 19:11:44.355349"
+        "updated": "2025-04-13 19:11:54.778709"
     },
     "atl @ tb": [
         {
@@ -12714,6 +12714,25 @@
     ],
     "chc @ lad": [
         {
+            "player": "kyle tucker",
+            "pitcher": "tyler glasnow",
+            "game": "chc @ lad",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-04-13 19:11:51",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:00 PM",
+            "in": "1",
+            "result": "Lineout",
+            "evo": "94.0",
+            "la": "9",
+            "dist": "133",
+            "speed": "",
+            "mph": "91.9",
+            "xba": ".650"
+        },
+        {
             "player": "ian happ",
             "pitcher": "tyler glasnow",
             "game": "chc @ lad",
@@ -12724,11 +12743,11 @@
             "team": "chc",
             "start": "7:00 PM",
             "in": "1",
-            "result": "undefined",
+            "result": "Flyout",
             "evo": "76.9",
             "la": "38",
             "dist": "249",
-            "speed": "",
+            "speed": "72.5",
             "mph": "94.2",
             "xba": ".050"
         }
