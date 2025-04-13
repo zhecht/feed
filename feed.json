@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "32",
         "batters": "182",
-        "pitches": "1751",
+        "pitches": "1755",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "35.5",
+        "ff%fourseam fastball %": "35.6",
         "si%sinker %": "13.2",
-        "fc%cutter %": "4.5",
+        "fc%cutter %": "4.6",
         "fs%splitter %": "4.2",
         "ch%changeup %": "11.7",
         "sl%slider %": "23.3",
-        "cu%curve %": "7.7",
+        "cu%curve %": "7.5",
         "max evmax exit velocity": "117.2",
         "hhhard hit": "119",
-        "hh%hard hit %": "38.1",
+        "hh%hard hit %": "37.9",
         "brlbarrels": "26",
         "brl%barrel %": "8.3",
         "ab": "416",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "13",
         "so": "113",
-        "bipballs in play": "312",
+        "bipballs in play": "314",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-04-13 15:27:06.892451"
+        "updated": "2025-04-13 15:27:15.207382"
     },
     "atl @ tb": [
         {
@@ -2463,7 +2463,7 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "7",
-            "result": "Bunt Groundout",
+            "result": "undefined",
             "evo": "39.5",
             "la": "5",
             "dist": "37",
@@ -3100,6 +3100,25 @@
         }
     ],
     "wsh @ mia": [
+        {
+            "player": "xavier edwards",
+            "pitcher": "mackenzie gore",
+            "game": "wsh @ mia",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-04-13 15:27:09",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:40 PM",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "73.7",
+            "la": "-19",
+            "dist": "8",
+            "speed": "72.2",
+            "mph": "81.5",
+            "xba": ".060"
+        },
         {
             "player": "liam hicks",
             "pitcher": "mackenzie gore",
@@ -4759,6 +4778,25 @@
         }
     ],
     "bos @ chw": [
+        {
+            "player": "matt thaiss",
+            "pitcher": "garrett crochet",
+            "game": "bos @ chw",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-04-13 15:26:11",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "86.7",
+            "la": "55",
+            "dist": "220",
+            "speed": "\u26a175.4",
+            "mph": "89.1",
+            "xba": ".020"
+        },
         {
             "player": "triston casas",
             "pitcher": "shane smith",
