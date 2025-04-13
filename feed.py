@@ -102,19 +102,19 @@ def parseFeed(data, times, games, totGames, soup):
 			continue
 		for tr in table.find("tbody").find_all("tr"):
 			tds = tr.find_all("td")
-			player = parsePlayer(tds[2].text.strip())
-			pitcher = parsePlayer(tds[4].text.strip())
+			player = parsePlayer(tds[1].text.strip())
+			#pitcher = parsePlayer(tds[4].text.strip())
 			img = tr.find("img").get("src")
 			team = convertSavantLogoId(img.split("/")[-1].replace(".svg", ""))
 			hrPark = tds[-1].text.strip()
 
-			pa = tds[5].text.strip()
+			pa = tds[2].text.strip()
 			times.setdefault(game, {}) 
 			dt = times[game].get(pa, str(datetime.now()).split(".")[0])
 			times[game][pa] = dt
 			j = {
 				"player": player,
-				"pitcher": pitcher,
+				#"pitcher": pitcher,
 				"game": game,
 				"hr/park": hrPark,
 				"pa": pa,
@@ -123,8 +123,8 @@ def parseFeed(data, times, games, totGames, soup):
 				"team": team,
 				"start": starts.get(game, "")
 			}
-			i = 6
-			for hdr in ["in", "result", "evo", "la", "dist", "speed", "mph", "xba"]:
+			i = 3
+			for hdr in ["in", "result", "evo", "la", "dist"]:
 				j[hdr] = tds[i].text.strip()
 				i += 1
 
