@@ -29,9 +29,9 @@ def commitChanges():
 def writeFeed(date, loop):
 	if not date:
 		date = str(datetime.now())[:10]
-	url = f"https://baseballsavant.mlb.com/gamefeed?date={date}&hf=exitVelocity"
+	url = f"https://baseballsavant.mlb.com/gamefeed?date={date}"
 	driver = webdriver.Firefox()
-	driver.get(f"https://baseballsavant.mlb.com/gamefeed?hf=exitVelocity&date={date}")
+	driver.get(url)
 	try:
 		element = WebDriverWait(driver, 10).until(
 			EC.presence_of_element_located((By.CLASS_NAME, "container-open"))
