@@ -108,13 +108,15 @@ def parseFeed(data, times, games, totGames, soup):
 			hrPark = tds[-1].text.strip()
 
 			pa = tds[5].text.strip()
+			dt = times[game].get(pa, str(datetime.now()).split(".")[0])
+			times[game][pa] = dt
 			j = {
 				"player": player,
 				"pitcher": pitcher,
 				"game": game,
 				"hr/park": hrPark,
 				"pa": pa,
-				"dt": "",
+				"dt": dt,
 				"img": img,
 				"team": team,
 				"start": starts.get(game, "")
