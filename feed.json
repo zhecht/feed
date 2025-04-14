@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "12",
-        "batters": "90",
-        "pitches": "497",
+        "pitchers": "13",
+        "batters": "93",
+        "pitches": "506",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "75.2",
-        "ff%fourseam fastball %": "30.4",
-        "si%sinker %": "15.3",
-        "fc%cutter %": "7.4",
-        "fs%splitter %": "7.4",
-        "ch%changeup %": "8.0",
-        "sl%slider %": "18.1",
-        "cu%curve %": "13.3",
+        "ff%fourseam fastball %": "31.0",
+        "si%sinker %": "15.2",
+        "fc%cutter %": "7.3",
+        "fs%splitter %": "7.3",
+        "ch%changeup %": "7.9",
+        "sl%slider %": "18.2",
+        "cu%curve %": "13.0",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "35",
-        "hh%hard hit %": "42.2",
+        "hh%hard hit %": "41.2",
         "brlbarrels": "9",
-        "brl%barrel %": "10.8",
-        "ab": "110",
-        "avg": ".227",
+        "brl%barrel %": "10.6",
+        "ab": "114",
+        "avg": ".219",
         "h": "25",
         "1b": "13",
         "2b": "5",
         "3b": "0",
         "hr": "7",
-        "so": "24",
-        "bipballs in play": "83",
+        "so": "25",
+        "bipballs in play": "85",
         "liveGames": 8,
         "totGames": 10,
-        "updated": "2025-04-14 19:46:32.618518"
+        "updated": "2025-04-14 19:46:39.890165"
     },
     "bos @ tb": [
+        {
+            "player": "carlos narvaez",
+            "game": "bos @ tb",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-04-14 19:46:35",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:05 PM",
+            "in": "3",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "david hamilton",
             "game": "bos @ tb",
@@ -334,6 +349,21 @@
     ],
     "wsh @ pit": [
         {
+            "player": "dylan crews",
+            "game": "wsh @ pit",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-04-14 19:46:35",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "paul dejong",
             "game": "wsh @ pit",
             "hr/park": "",
@@ -343,7 +373,7 @@
             "team": "wsh",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1857,6 +1887,21 @@
     ],
     "nym @ min": [
         {
+            "player": "juan soto",
+            "game": "nym @ min",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-04-14 19:46:35",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "francisco lindor",
             "game": "nym @ min",
             "hr/park": "4/30",
@@ -1904,7 +1949,23 @@
             "dist": ""
         }
     ],
-    "hou @ stl": [],
+    "hou @ stl": [
+        {
+            "player": "jose altuve",
+            "game": "hou @ stl",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-04-14 19:46:35",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "7:45 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "77.0",
+            "la": "-32",
+            "dist": "6"
+        }
+    ],
     "chc @ sd": [],
     "col @ lad": []
 }
