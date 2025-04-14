@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "5",
-        "batters": "24",
-        "pitches": "106",
+        "pitchers": "6",
+        "batters": "26",
+        "pitches": "108",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "75.2",
-        "ff%fourseam fastball %": "34.0",
-        "si%sinker %": "17.9",
-        "fc%cutter %": "5.7",
-        "fs%splitter %": "6.6",
-        "ch%changeup %": "10.4",
-        "sl%slider %": "9.4",
-        "cu%curve %": "16.0",
+        "ff%fourseam fastball %": "33.3",
+        "si%sinker %": "17.6",
+        "fc%cutter %": "5.6",
+        "fs%splitter %": "6.5",
+        "ch%changeup %": "10.2",
+        "sl%slider %": "10.2",
+        "cu%curve %": "16.7",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "7",
         "hh%hard hit %": "46.7",
         "brlbarrels": "0",
         "brl%barrel %": "0.0",
-        "ab": "20",
-        "avg": ".300",
+        "ab": "22",
+        "avg": ".273",
         "h": "6",
         "1b": "5",
         "2b": "1",
@@ -28,7 +28,7 @@
         "bipballs in play": "15",
         "liveGames": 5,
         "totGames": 10,
-        "updated": "2025-04-14 19:08:45.212805"
+        "updated": "2025-04-14 19:08:52.026109"
     },
     "bos @ tb": [
         {
@@ -63,6 +63,21 @@
         }
     ],
     "wsh @ pit": [
+        {
+            "player": "paul dejong",
+            "game": "wsh @ pit",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-04-14 19:08:49",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "luis garcia",
             "game": "wsh @ pit",
@@ -396,7 +411,23 @@
             "dist": "314"
         }
     ],
-    "kc @ nyy": [],
+    "kc @ nyy": [
+        {
+            "player": "jonathan india",
+            "game": "kc @ nyy",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-04-14 19:08:49",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "atl @ tor": [],
     "nym @ min": [],
     "det @ mil": [],
