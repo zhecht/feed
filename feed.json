@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "10",
-        "batters": "84",
-        "pitches": "439",
+        "pitchers": "11",
+        "batters": "85",
+        "pitches": "446",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "75.2",
-        "ff%fourseam fastball %": "29.6",
-        "si%sinker %": "15.9",
-        "fc%cutter %": "6.8",
-        "fs%splitter %": "8.0",
-        "ch%changeup %": "7.1",
-        "sl%slider %": "19.4",
+        "ff%fourseam fastball %": "29.8",
+        "si%sinker %": "15.7",
+        "fc%cutter %": "7.0",
+        "fs%splitter %": "7.8",
+        "ch%changeup %": "7.4",
+        "sl%slider %": "19.1",
         "cu%curve %": "13.2",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "31",
         "hh%hard hit %": "41.9",
         "brlbarrels": "7",
         "brl%barrel %": "9.5",
-        "ab": "98",
-        "avg": ".235",
+        "ab": "100",
+        "avg": ".230",
         "h": "23",
         "1b": "13",
         "2b": "4",
         "3b": "0",
         "hr": "6",
-        "so": "21",
+        "so": "22",
         "bipballs in play": "74",
         "liveGames": 7,
         "totGames": 10,
-        "updated": "2025-04-14 19:42:43.623008"
+        "updated": "2025-04-14 19:42:50.809052"
     },
     "bos @ tb": [
         {
@@ -756,6 +756,21 @@
     ],
     "sf @ phi": [
         {
+            "player": "nick castellanos",
+            "game": "sf @ phi",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-04-14 19:42:49",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:45 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle schwarber",
             "game": "sf @ phi",
             "hr/park": "",
@@ -765,7 +780,7 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1721,7 +1736,23 @@
         }
     ],
     "nym @ min": [],
-    "det @ mil": [],
+    "det @ mil": [
+        {
+            "player": "justyn henry malloy",
+            "game": "det @ mil",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-04-14 19:42:49",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "hou @ stl": [],
     "chc @ sd": [],
     "col @ lad": []
