@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "42",
+        "pitchers": "43",
         "batters": "146",
-        "pitches": "1852",
+        "pitches": "1858",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "56.5",
         "ff%fourseam fastball %": "27.8",
@@ -10,25 +10,25 @@
         "fc%cutter %": "8.5",
         "fs%splitter %": "5.2",
         "ch%changeup %": "11.1",
-        "sl%slider %": "19.0",
+        "sl%slider %": "18.9",
         "cu%curve %": "10.9",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "128",
-        "hh%hard hit %": "39.5",
+        "hh%hard hit %": "39.4",
         "brlbarrels": "24",
         "brl%barrel %": "7.4",
-        "ab": "425",
-        "avg": ".240",
+        "ab": "426",
+        "avg": ".239",
         "h": "102",
         "1b": "59",
         "2b": "22",
         "3b": "3",
         "hr": "18",
-        "so": "107",
-        "bipballs in play": "324",
+        "so": "108",
+        "bipballs in play": "325",
         "liveGames": 8,
         "totGames": 10,
-        "updated": "2025-04-14 21:18:31.528954"
+        "updated": "2025-04-14 21:18:40.014151"
     },
     "bos @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2070,10 +2070,10 @@
             "team": "sf",
             "start": "6:45 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "92.2",
+            "la": "-8",
+            "dist": "24"
         },
         {
             "player": "willy adames",
@@ -5067,6 +5067,21 @@
     ],
     "nym @ min": [
         {
+            "player": "pete alonso",
+            "game": "nym @ min",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-04-14 21:18:35",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "byron buxton",
             "game": "nym @ min",
             "hr/park": "",
@@ -6445,7 +6460,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
