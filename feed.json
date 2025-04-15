@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "24",
         "batters": "174",
-        "pitches": "1088",
+        "pitches": "1092",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "40.3",
-        "si%sinker %": "10.7",
+        "ff%fourseam fastball %": "40.4",
+        "si%sinker %": "10.6",
         "fc%cutter %": "7.9",
-        "fs%splitter %": "1.7",
+        "fs%splitter %": "1.6",
         "ch%changeup %": "13.7",
         "sl%slider %": "14.4",
         "cu%curve %": "11.4",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "96",
-        "hh%hard hit %": "48.2",
+        "hhhard hit": "97",
+        "hh%hard hit %": "48.5",
         "brlbarrels": "20",
-        "brl%barrel %": "10.1",
-        "ab": "256",
+        "brl%barrel %": "10.0",
+        "ab": "257",
         "avg": ".230",
         "h": "59",
         "1b": "37",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "12",
         "so": "52",
-        "bipballs in play": "199",
+        "bipballs in play": "200",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-04-15 19:57:41.235488"
+        "updated": "2025-04-15 19:57:49.274800"
     },
     "bos @ tb": [
         {
@@ -1088,7 +1088,7 @@
         {
             "player": "tj friedl",
             "game": "sea @ cin",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "36",
             "dt": "2025-04-15 19:57:12",
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
@@ -1096,9 +1096,9 @@
             "start": "6:40 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "96.9",
+            "la": "18",
+            "dist": "330"
         },
         {
             "player": "jose trevino",
@@ -3421,6 +3421,21 @@
     ],
     "atl @ tor": [
         {
+            "player": "andres gimenez",
+            "game": "atl @ tor",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-04-15 19:57:43",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "anthony santander",
             "game": "atl @ tor",
             "hr/park": "",
@@ -3430,7 +3445,7 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "88.6",
             "la": "58",
             "dist": "205"
