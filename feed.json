@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "23",
         "batters": "144",
-        "pitches": "1148",
+        "pitches": "1157",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "71.4",
-        "ff%fourseam fastball %": "28.4",
-        "si%sinker %": "16.8",
-        "fc%cutter %": "8.4",
-        "fs%splitter %": "6.3",
+        "ff%fourseam fastball %": "28.3",
+        "si%sinker %": "16.9",
+        "fc%cutter %": "8.6",
+        "fs%splitter %": "6.2",
         "ch%changeup %": "10.2",
         "sl%slider %": "17.5",
         "cu%curve %": "11.8",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "81",
-        "hh%hard hit %": "39.7",
+        "hh%hard hit %": "39.5",
         "brlbarrels": "19",
         "brl%barrel %": "9.3",
-        "ab": "268",
-        "avg": ".239",
+        "ab": "270",
+        "avg": ".237",
         "h": "64",
         "1b": "36",
         "2b": "14",
         "3b": "0",
         "hr": "14",
-        "so": "64",
-        "bipballs in play": "204",
+        "so": "65",
+        "bipballs in play": "205",
         "liveGames": 8,
         "totGames": 10,
-        "updated": "2025-04-14 20:30:18.009193"
+        "updated": "2025-04-14 20:30:25.943414"
     },
     "bos @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -643,7 +643,7 @@
             "team": "wsh",
             "start": "6:40 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1410,7 +1410,7 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3764,6 +3764,21 @@
     ],
     "det @ mil": [
         {
+            "player": "ryan kreidler",
+            "game": "det @ mil",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-04-14 20:30:20",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "26.7",
+            "la": "-6",
+            "dist": "13"
+        },
+        {
             "player": "javier baez",
             "game": "det @ mil",
             "hr/park": "",
@@ -4140,6 +4155,21 @@
         }
     ],
     "hou @ stl": [
+        {
+            "player": "nolan arenado",
+            "game": "hou @ stl",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-04-14 20:30:20",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "willson contreras",
             "game": "hou @ stl",
