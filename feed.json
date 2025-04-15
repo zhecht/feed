@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "43",
         "batters": "146",
-        "pitches": "1881",
+        "pitches": "1885",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "56.5",
         "ff%fourseam fastball %": "27.8",
@@ -10,11 +10,11 @@
         "fc%cutter %": "8.5",
         "fs%splitter %": "5.1",
         "ch%changeup %": "11.1",
-        "sl%slider %": "19.0",
+        "sl%slider %": "18.9",
         "cu%curve %": "10.9",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "131",
-        "hh%hard hit %": "39.8",
+        "hhhard hit": "132",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "24",
         "brl%barrel %": "7.3",
         "ab": "431",
@@ -24,11 +24,11 @@
         "2b": "23",
         "3b": "3",
         "hr": "18",
-        "so": "109",
-        "bipballs in play": "329",
+        "so": "110",
+        "bipballs in play": "330",
         "liveGames": 8,
         "totGames": 10,
-        "updated": "2025-04-14 21:19:55.931270"
+        "updated": "2025-04-14 21:20:04.461760"
     },
     "bos @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4114,10 +4114,10 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "102.9",
+            "la": "-19",
+            "dist": "6"
         },
         {
             "player": "anthony santander",
