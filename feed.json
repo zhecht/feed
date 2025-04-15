@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "66",
+        "pitchers": "67",
         "batters": "195",
-        "pitches": "2797",
+        "pitches": "2800",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "56.5",
-        "ff%fourseam fastball %": "29.9",
+        "ff%fourseam fastball %": "29.8",
         "si%sinker %": "16.8",
         "fc%cutter %": "7.8",
         "fs%splitter %": "4.2",
         "ch%changeup %": "10.7",
-        "sl%slider %": "21.1",
+        "sl%slider %": "21.2",
         "cu%curve %": "9.3",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "192",
         "hh%hard hit %": "39.1",
         "brlbarrels": "36",
         "brl%barrel %": "7.3",
-        "ab": "639",
+        "ab": "640",
         "avg": ".247",
         "h": "158",
         "1b": "94",
@@ -28,7 +28,7 @@
         "bipballs in play": "491",
         "liveGames": 0,
         "totGames": 10,
-        "updated": "2025-04-15 00:04:07.944913"
+        "updated": "2025-04-15 00:04:17.126955"
     },
     "bos @ tb": [
         {
@@ -8808,6 +8808,21 @@
     ],
     "chc @ sd": [
         {
+            "player": "jason heyward",
+            "game": "chc @ sd",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-04-15 00:04:10",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose iglesias",
             "game": "chc @ sd",
             "hr/park": "",
@@ -9755,16 +9770,31 @@
     ],
     "col @ lad": [
         {
-            "player": "will smith",
+            "player": "michael conforto",
             "game": "col @ lad",
             "hr/park": "",
+            "pa": "54",
+            "dt": "2025-04-15 00:04:10",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "will smith",
+            "game": "col @ lad",
+            "hr/park": "0/30",
             "pa": "53",
             "dt": "2025-04-15 00:01:10",
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
             "team": "lad",
             "start": "",
             "in": "6",
-            "result": "In Progress",
+            "result": "Sac Fly",
             "evo": "87.8",
             "la": "32",
             "dist": "332"
