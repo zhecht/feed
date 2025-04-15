@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "12",
         "batters": "59",
-        "pitches": "236",
+        "pitches": "239",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "75.1",
-        "ff%fourseam fastball %": "41.1",
-        "si%sinker %": "7.2",
-        "fc%cutter %": "6.8",
+        "ff%fourseam fastball %": "41.8",
+        "si%sinker %": "7.1",
+        "fc%cutter %": "6.7",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "14.8",
-        "sl%slider %": "17.4",
-        "cu%curve %": "12.7",
+        "ch%changeup %": "14.6",
+        "sl%slider %": "17.6",
+        "cu%curve %": "12.1",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "20",
-        "hh%hard hit %": "47.6",
+        "hh%hard hit %": "46.5",
         "brlbarrels": "4",
-        "brl%barrel %": "9.5",
+        "brl%barrel %": "9.3",
         "ab": "55",
         "avg": ".200",
         "h": "11",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "2",
         "so": "8",
-        "bipballs in play": "42",
+        "bipballs in play": "43",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-04-15 19:10:04.911361"
+        "updated": "2025-04-15 19:10:12.036195"
     },
     "bos @ tb": [
         {
@@ -730,6 +730,21 @@
     ],
     "sf @ phi": [
         {
+            "player": "luis matos",
+            "game": "sf @ phi",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-04-15 19:10:12",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "6:45 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "casey schmitt",
             "game": "sf @ phi",
             "hr/park": "0/30",
@@ -897,21 +912,6 @@
     ],
     "cle @ bal": [
         {
-            "player": "jose ramirez",
-            "game": "cle @ bal",
-            "hr/park": "",
-            "pa": "2",
-            "dt": "2025-04-15 19:09:56",
-            "img": "https://www.mlbstatic.com/team-logos/114.svg",
-            "team": "cle",
-            "start": "7:05 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "steven kwan",
             "game": "cle @ bal",
             "hr/park": "0/30",
@@ -938,10 +938,10 @@
             "team": "kc",
             "start": "7:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "80.9",
+            "la": "-18",
+            "dist": "10"
         }
     ],
     "atl @ tor": [
