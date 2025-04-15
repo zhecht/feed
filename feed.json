@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "20",
         "batters": "149",
-        "pitches": "853",
+        "pitches": "864",
         "max velomax pitch velocity": "98.6",
         "min velomin pitch velocity": "73.7",
-        "ff%fourseam fastball %": "39.5",
-        "si%sinker %": "10.4",
-        "fc%cutter %": "8.0",
-        "fs%splitter %": "1.8",
-        "ch%changeup %": "14.8",
+        "ff%fourseam fastball %": "39.2",
+        "si%sinker %": "10.8",
+        "fc%cutter %": "7.9",
+        "fs%splitter %": "1.7",
+        "ch%changeup %": "14.7",
         "sl%slider %": "13.8",
-        "cu%curve %": "11.7",
+        "cu%curve %": "11.9",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "74",
-        "hh%hard hit %": "47.4",
+        "hhhard hit": "77",
+        "hh%hard hit %": "48.1",
         "brlbarrels": "15",
-        "brl%barrel %": "9.6",
-        "ab": "200",
-        "avg": ".250",
-        "h": "50",
-        "1b": "32",
+        "brl%barrel %": "9.4",
+        "ab": "203",
+        "avg": ".256",
+        "h": "52",
+        "1b": "34",
         "2b": "7",
         "3b": "0",
         "hr": "11",
-        "so": "40",
-        "bipballs in play": "156",
+        "so": "41",
+        "bipballs in play": "160",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-04-15 19:47:19.496962"
+        "updated": "2025-04-15 19:47:27.250389"
     },
     "bos @ tb": [
         {
@@ -363,6 +363,21 @@
         }
     ],
     "wsh @ pit": [
+        {
+            "player": "isiah kiner falefa",
+            "game": "wsh @ pit",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-04-15 19:47:27",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "104.1",
+            "la": "-2",
+            "dist": "35"
+        },
         {
             "player": "adam frazier",
             "game": "wsh @ pit",
@@ -920,6 +935,21 @@
         }
     ],
     "sea @ cin": [
+        {
+            "player": "leo rivas",
+            "game": "sea @ cin",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-04-15 19:47:27",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "65.5",
+            "la": "-25",
+            "dist": "6"
+        },
         {
             "player": "donovan solano",
             "game": "sea @ cin",
@@ -1864,10 +1894,10 @@
             "team": "sf",
             "start": "6:45 PM",
             "in": "4",
-            "result": "Stolen Base 3B",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "110.2",
+            "la": "10",
+            "dist": "190"
         },
         {
             "player": "wilmer flores",
@@ -2881,6 +2911,21 @@
     ],
     "atl @ tor": [
         {
+            "player": "matt olson",
+            "game": "atl @ tor",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-04-15 19:47:27",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:07 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "austin riley",
             "game": "atl @ tor",
             "hr/park": "",
@@ -2890,10 +2935,10 @@
             "team": "atl",
             "start": "7:07 PM",
             "in": "3",
-            "result": "Caught Stealing 2B",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "96.0",
+            "la": "9",
+            "dist": "169"
         },
         {
             "player": "michael harris",
@@ -3333,7 +3378,7 @@
             "team": "hou",
             "start": "7:45 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
