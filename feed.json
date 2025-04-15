@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "28",
+        "pitchers": "27",
         "batters": "144",
-        "pitches": "1418",
+        "pitches": "1423",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.4",
-        "ff%fourseam fastball %": "28.1",
-        "si%sinker %": "16.5",
-        "fc%cutter %": "9.0",
+        "ff%fourseam fastball %": "28.2",
+        "si%sinker %": "16.4",
+        "fc%cutter %": "9.1",
         "fs%splitter %": "6.3",
         "ch%changeup %": "10.2",
-        "sl%slider %": "17.8",
+        "sl%slider %": "17.7",
         "cu%curve %": "11.7",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "96",
-        "hh%hard hit %": "38.9",
+        "hh%hard hit %": "38.7",
         "brlbarrels": "20",
         "brl%barrel %": "8.1",
-        "ab": "326",
-        "avg": ".227",
+        "ab": "327",
+        "avg": ".226",
         "h": "74",
         "1b": "41",
         "2b": "15",
         "3b": "1",
         "hr": "17",
         "so": "80",
-        "bipballs in play": "247",
+        "bipballs in play": "248",
         "liveGames": 8,
         "totGames": 10,
-        "updated": "2025-04-14 20:47:31.504820"
+        "updated": "2025-04-14 20:47:39.710776"
     },
     "bos @ tb": [
+        {
+            "player": "jonathan aranda",
+            "game": "bos @ tb",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-04-14 20:47:35",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "junior caminero",
             "game": "bos @ tb",
@@ -1620,10 +1635,10 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "85.6",
+            "la": "43",
+            "dist": "284"
         },
         {
             "player": "matt chapman",
@@ -2512,21 +2527,6 @@
         }
     ],
     "kc @ nyy": [
-        {
-            "player": "michael massey",
-            "game": "kc @ nyy",
-            "hr/park": "",
-            "pa": "48",
-            "dt": "2025-04-14 20:47:20",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "start": "7:05 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "salvador perez",
             "game": "kc @ nyy",
@@ -4002,6 +4002,21 @@
     ],
     "nym @ min": [
         {
+            "player": "matt wallner",
+            "game": "nym @ min",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-04-14 20:47:35",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "willi castro",
             "game": "nym @ min",
             "hr/park": "",
@@ -4011,7 +4026,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "37.6",
             "la": "-33",
             "dist": "6"
@@ -4960,7 +4975,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
