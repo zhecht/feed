@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "11",
-        "batters": "57",
-        "pitches": "233",
+        "pitchers": "12",
+        "batters": "59",
+        "pitches": "236",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "75.1",
-        "ff%fourseam fastball %": "40.8",
-        "si%sinker %": "7.3",
-        "fc%cutter %": "6.4",
+        "ff%fourseam fastball %": "41.1",
+        "si%sinker %": "7.2",
+        "fc%cutter %": "6.8",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "15.5",
-        "sl%slider %": "17.6",
-        "cu%curve %": "12.4",
+        "ch%changeup %": "14.8",
+        "sl%slider %": "17.4",
+        "cu%curve %": "12.7",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "19",
-        "hh%hard hit %": "46.3",
+        "hhhard hit": "20",
+        "hh%hard hit %": "47.6",
         "brlbarrels": "4",
-        "brl%barrel %": "9.8",
-        "ab": "53",
-        "avg": ".208",
+        "brl%barrel %": "9.5",
+        "ab": "55",
+        "avg": ".200",
         "h": "11",
         "1b": "9",
         "2b": "0",
         "3b": "0",
         "hr": "2",
         "so": "8",
-        "bipballs in play": "41",
+        "bipballs in play": "42",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-04-15 19:09:50.425278"
+        "updated": "2025-04-15 19:09:57.642174"
     },
     "bos @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "bos",
             "start": "7:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -527,7 +527,7 @@
             "team": "ari",
             "start": "6:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -732,17 +732,17 @@
         {
             "player": "casey schmitt",
             "game": "sf @ phi",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "11",
             "dt": "2025-04-15 19:08:26",
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
             "team": "sf",
             "start": "6:45 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "105.6",
+            "la": "16",
+            "dist": "344"
         },
         {
             "player": "wilmer flores",
@@ -897,9 +897,24 @@
     ],
     "cle @ bal": [
         {
-            "player": "steven kwan",
+            "player": "jose ramirez",
             "game": "cle @ bal",
             "hr/park": "",
+            "pa": "2",
+            "dt": "2025-04-15 19:09:56",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "steven kwan",
+            "game": "cle @ bal",
+            "hr/park": "0/30",
             "pa": "1",
             "dt": "2025-04-15 19:08:57",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
@@ -929,7 +944,23 @@
             "dist": ""
         }
     ],
-    "atl @ tor": [],
+    "atl @ tor": [
+        {
+            "player": "michael harris",
+            "game": "atl @ tor",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-04-15 19:09:56",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:07 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "nym @ min": [],
     "ath @ chw": [],
     "det @ mil": [],
