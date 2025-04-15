@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "37",
+        "pitchers": "38",
         "batters": "145",
-        "pitches": "1728",
+        "pitches": "1736",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "56.5",
         "ff%fourseam fastball %": "27.5",
-        "si%sinker %": "17.2",
+        "si%sinker %": "17.4",
         "fc%cutter %": "8.7",
         "fs%splitter %": "5.5",
         "ch%changeup %": "10.4",
         "sl%slider %": "18.8",
-        "cu%curve %": "11.4",
+        "cu%curve %": "11.3",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "116",
-        "hh%hard hit %": "38.3",
+        "hhhard hit": "118",
+        "hh%hard hit %": "38.8",
         "brlbarrels": "21",
         "brl%barrel %": "6.9",
-        "ab": "395",
+        "ab": "399",
         "avg": ".238",
-        "h": "94",
+        "h": "95",
         "1b": "55",
-        "2b": "19",
+        "2b": "20",
         "3b": "2",
         "hr": "18",
-        "so": "98",
-        "bipballs in play": "303",
+        "so": "99",
+        "bipballs in play": "304",
         "liveGames": 8,
         "totGames": 10,
-        "updated": "2025-04-14 21:09:32.097710"
+        "updated": "2025-04-14 21:09:40.381674"
     },
     "bos @ tb": [
+        {
+            "player": "alex bregman",
+            "game": "bos @ tb",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-04-14 21:09:34",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "curtis mead",
             "game": "bos @ tb",
@@ -898,10 +913,10 @@
             "team": "wsh",
             "start": "6:40 PM",
             "in": "9",
-            "result": "Flyout",
-            "evo": "91.3",
-            "la": "34",
-            "dist": "345"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "bryan reynolds",
@@ -1950,7 +1965,7 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2992,6 +3007,21 @@
         }
     ],
     "kc @ nyy": [
+        {
+            "player": "drew waters",
+            "game": "kc @ nyy",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-04-14 21:09:34",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:05 PM",
+            "in": "8",
+            "result": "Lineout",
+            "evo": "96.0",
+            "la": "19",
+            "dist": "269"
+        },
         {
             "player": "cavan biggio",
             "game": "kc @ nyy",
@@ -4737,6 +4767,21 @@
     ],
     "nym @ min": [
         {
+            "player": "christian vazquez",
+            "game": "nym @ min",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-04-14 21:09:34",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "97.9",
+            "la": "19",
+            "dist": "330"
+        },
+        {
             "player": "brooks lee",
             "game": "nym @ min",
             "hr/park": "",
@@ -6001,6 +6046,21 @@
     ],
     "hou @ stl": [
         {
+            "player": "brendan donovan",
+            "game": "hou @ stl",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-04-14 21:09:34",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nolan arenado",
             "game": "hou @ stl",
             "hr/park": "",
@@ -6010,7 +6070,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "74.4",
             "la": "21",
             "dist": "211"
