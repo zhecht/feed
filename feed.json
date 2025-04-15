@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "38",
         "batters": "146",
-        "pitches": "1748",
+        "pitches": "1750",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "56.5",
-        "ff%fourseam fastball %": "27.5",
+        "ff%fourseam fastball %": "27.4",
         "si%sinker %": "17.5",
         "fc%cutter %": "8.6",
         "fs%splitter %": "5.4",
         "ch%changeup %": "10.5",
-        "sl%slider %": "18.9",
+        "sl%slider %": "19.0",
         "cu%curve %": "11.3",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "118",
-        "hh%hard hit %": "38.7",
+        "hhhard hit": "119",
+        "hh%hard hit %": "38.9",
         "brlbarrels": "21",
         "brl%barrel %": "6.9",
         "ab": "401",
@@ -24,11 +24,11 @@
         "2b": "20",
         "3b": "2",
         "hr": "18",
-        "so": "100",
-        "bipballs in play": "305",
+        "so": "101",
+        "bipballs in play": "306",
         "liveGames": 8,
         "totGames": 10,
-        "updated": "2025-04-14 21:10:30.405007"
+        "updated": "2025-04-14 21:10:38.837561"
     },
     "bos @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "bos",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -913,10 +913,10 @@
             "team": "wsh",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Groundout",
+            "evo": "108.1",
             "la": "",
-            "dist": ""
+            "dist": "55"
         },
         {
             "player": "josh bell",
@@ -4814,7 +4814,7 @@
         {
             "player": "christian vazquez",
             "game": "nym @ min",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "38",
             "dt": "2025-04-14 21:09:34",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
