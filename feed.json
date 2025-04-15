@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "16",
         "batters": "98",
-        "pitches": "431",
+        "pitches": "434",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "73.7",
-        "ff%fourseam fastball %": "43.4",
+        "ff%fourseam fastball %": "43.3",
         "si%sinker %": "8.8",
-        "fc%cutter %": "7.0",
+        "fc%cutter %": "6.9",
         "fs%splitter %": "1.6",
-        "ch%changeup %": "13.2",
-        "sl%slider %": "14.8",
-        "cu%curve %": "11.1",
+        "ch%changeup %": "12.9",
+        "sl%slider %": "14.7",
+        "cu%curve %": "11.8",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "37",
-        "hh%hard hit %": "45.7",
+        "hh%hard hit %": "45.1",
         "brlbarrels": "10",
-        "brl%barrel %": "12.3",
+        "brl%barrel %": "12.2",
         "ab": "99",
         "avg": ".232",
         "h": "23",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "5",
         "so": "14",
-        "bipballs in play": "81",
+        "bipballs in play": "82",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-04-15 19:22:21.828205"
+        "updated": "2025-04-15 19:22:29.155026"
     },
     "bos @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "1",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -163,7 +163,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1371,10 +1371,10 @@
             "team": "cle",
             "start": "7:05 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "86.0",
+            "la": "29",
+            "dist": "319"
         },
         {
             "player": "tyler oneill",
