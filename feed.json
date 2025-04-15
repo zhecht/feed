@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "20",
         "batters": "138",
-        "pitches": "1022",
+        "pitches": "1030",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "71.4",
-        "ff%fourseam fastball %": "28.4",
-        "si%sinker %": "16.3",
+        "ff%fourseam fastball %": "28.3",
+        "si%sinker %": "16.4",
         "fc%cutter %": "8.5",
         "fs%splitter %": "6.6",
         "ch%changeup %": "10.6",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "40.4",
         "brlbarrels": "16",
         "brl%barrel %": "9.0",
-        "ab": "234",
-        "avg": ".244",
+        "ab": "236",
+        "avg": ".242",
         "h": "57",
         "1b": "33",
         "2b": "13",
         "3b": "0",
         "hr": "11",
-        "so": "55",
+        "so": "56",
         "bipballs in play": "178",
         "liveGames": 8,
         "totGames": 10,
-        "updated": "2025-04-14 20:21:30.664394"
+        "updated": "2025-04-14 20:21:38.413324"
     },
     "bos @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "bos",
             "start": "7:05 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -588,6 +588,21 @@
         }
     ],
     "wsh @ pit": [
+        {
+            "player": "henry davis",
+            "game": "wsh @ pit",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-04-14 20:21:34",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kebryan hayes",
             "game": "wsh @ pit",
@@ -1281,6 +1296,21 @@
     ],
     "sf @ phi": [
         {
+            "player": "wilmer flores",
+            "game": "sf @ phi",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-04-14 20:21:34",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "6:45 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "lamonte wade",
             "game": "sf @ phi",
             "hr/park": "",
@@ -1290,7 +1320,7 @@
             "team": "sf",
             "start": "6:45 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
