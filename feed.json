@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "19",
-        "batters": "147",
-        "pitches": "809",
+        "batters": "148",
+        "pitches": "818",
         "max velomax pitch velocity": "98.6",
         "min velomin pitch velocity": "73.7",
         "ff%fourseam fastball %": "40.3",
-        "si%sinker %": "10.4",
-        "fc%cutter %": "8.0",
+        "si%sinker %": "10.3",
+        "fc%cutter %": "7.9",
         "fs%splitter %": "1.7",
-        "ch%changeup %": "13.8",
-        "sl%slider %": "13.8",
-        "cu%curve %": "11.9",
+        "ch%changeup %": "14.1",
+        "sl%slider %": "13.9",
+        "cu%curve %": "11.7",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "71",
-        "hh%hard hit %": "48.0",
-        "brlbarrels": "14",
-        "brl%barrel %": "9.5",
-        "ab": "193",
-        "avg": ".249",
-        "h": "48",
+        "hhhard hit": "73",
+        "hh%hard hit %": "48.7",
+        "brlbarrels": "15",
+        "brl%barrel %": "10.0",
+        "ab": "194",
+        "avg": ".253",
+        "h": "49",
         "1b": "31",
         "2b": "7",
         "3b": "0",
-        "hr": "10",
+        "hr": "11",
         "so": "39",
-        "bipballs in play": "148",
+        "bipballs in play": "150",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-04-15 19:45:23.737386"
+        "updated": "2025-04-15 19:45:31.429424"
     },
     "bos @ tb": [
         {
@@ -333,21 +333,6 @@
         }
     ],
     "wsh @ pit": [
-        {
-            "player": "tommy pham",
-            "game": "wsh @ pit",
-            "hr/park": "",
-            "pa": "36",
-            "dt": "2025-04-15 19:45:12",
-            "img": "https://www.mlbstatic.com/team-logos/134.svg",
-            "team": "pit",
-            "start": "6:40 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "jack suwinski",
             "game": "wsh @ pit",
@@ -1313,6 +1298,21 @@
     ],
     "ari @ mia": [
         {
+            "player": "corbin carroll",
+            "game": "ari @ mia",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-04-15 19:45:27",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "garrett hampson",
             "game": "ari @ mia",
             "hr/park": "1/30",
@@ -1322,7 +1322,7 @@
             "team": "ari",
             "start": "6:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "96.6",
             "la": "24",
             "dist": "360"
@@ -1780,6 +1780,21 @@
     ],
     "sf @ phi": [
         {
+            "player": "casey schmitt",
+            "game": "sf @ phi",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-04-15 19:45:27",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "6:45 PM",
+            "in": "4",
+            "result": "Mound Visit",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "wilmer flores",
             "game": "sf @ phi",
             "hr/park": "",
@@ -1789,7 +1804,7 @@
             "team": "sf",
             "start": "6:45 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3063,19 +3078,34 @@
     ],
     "nym @ min": [
         {
-            "player": "pete alonso",
+            "player": "starling marte",
             "game": "nym @ min",
             "hr/park": "",
+            "pa": "4",
+            "dt": "2025-04-15 19:45:27",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "99.2",
+            "la": "38",
+            "dist": "350"
+        },
+        {
+            "player": "pete alonso",
+            "game": "nym @ min",
+            "hr/park": "29/30",
             "pa": "3",
             "dt": "2025-04-15 19:44:11",
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
             "team": "nym",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "106.9",
+            "la": "33",
+            "dist": "416"
         },
         {
             "player": "juan soto",
