@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "24",
-        "batters": "174",
-        "pitches": "1099",
+        "batters": "176",
+        "pitches": "1107",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "40.5",
+        "ff%fourseam fastball %": "40.3",
         "si%sinker %": "10.6",
         "fc%cutter %": "7.8",
         "fs%splitter %": "1.6",
         "ch%changeup %": "13.8",
-        "sl%slider %": "14.4",
-        "cu%curve %": "11.3",
+        "sl%slider %": "14.7",
+        "cu%curve %": "11.2",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "97",
-        "hh%hard hit %": "48.3",
+        "hh%hard hit %": "48.0",
         "brlbarrels": "20",
-        "brl%barrel %": "10.0",
-        "ab": "257",
-        "avg": ".230",
-        "h": "59",
-        "1b": "37",
+        "brl%barrel %": "9.9",
+        "ab": "260",
+        "avg": ".235",
+        "h": "61",
+        "1b": "39",
         "2b": "10",
         "3b": "0",
         "hr": "12",
         "so": "53",
-        "bipballs in play": "201",
+        "bipballs in play": "202",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-04-15 19:58:04.887413"
+        "updated": "2025-04-15 19:58:12.844740"
     },
     "bos @ tb": [
         {
@@ -463,7 +463,7 @@
             "team": "wsh",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "86.7",
             "la": "21",
             "dist": "274"
@@ -1088,7 +1088,7 @@
         {
             "player": "tj friedl",
             "game": "sea @ cin",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "36",
             "dt": "2025-04-15 19:57:12",
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
@@ -1096,9 +1096,9 @@
             "start": "6:40 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "96.9",
-            "la": "18",
-            "dist": "330"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "jose trevino",
@@ -1627,6 +1627,21 @@
         }
     ],
     "ari @ mia": [
+        {
+            "player": "pavin smith",
+            "game": "ari @ mia",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-04-15 19:58:11",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "geraldo perdomo",
             "game": "ari @ mia",
@@ -2170,6 +2185,21 @@
     ],
     "sf @ phi": [
         {
+            "player": "alec bohm",
+            "game": "sf @ phi",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-04-15 19:58:11",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:45 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "max kepler",
             "game": "sf @ phi",
             "hr/park": "",
@@ -2179,7 +2209,7 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "75.1",
             "la": "17",
             "dist": "160"
@@ -2661,7 +2691,7 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3430,10 +3460,10 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Groundout",
+            "evo": "104.0",
             "la": "",
-            "dist": ""
+            "dist": "49"
         },
         {
             "player": "anthony santander",
@@ -3798,6 +3828,21 @@
     ],
     "nym @ min": [
         {
+            "player": "mark vientos",
+            "game": "nym @ min",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-04-15 19:58:11",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brandon nimmo",
             "game": "nym @ min",
             "hr/park": "0/30",
@@ -4057,6 +4102,21 @@
     ],
     "det @ mil": [
         {
+            "player": "spencer torkelson",
+            "game": "det @ mil",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-04-15 19:58:11",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "christian yelich",
             "game": "det @ mil",
             "hr/park": "",
@@ -4173,10 +4233,10 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "81.8",
+            "la": "43",
+            "dist": "257"
         },
         {
             "player": "willson contreras",
