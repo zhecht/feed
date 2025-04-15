@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "43",
         "batters": "146",
-        "pitches": "1876",
+        "pitches": "1881",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "56.5",
         "ff%fourseam fastball %": "27.8",
         "si%sinker %": "17.3",
         "fc%cutter %": "8.5",
         "fs%splitter %": "5.1",
-        "ch%changeup %": "11.0",
+        "ch%changeup %": "11.1",
         "sl%slider %": "19.0",
         "cu%curve %": "10.9",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "130",
+        "hhhard hit": "131",
         "hh%hard hit %": "39.8",
         "brlbarrels": "24",
         "brl%barrel %": "7.3",
-        "ab": "430",
-        "avg": ".242",
+        "ab": "431",
+        "avg": ".241",
         "h": "104",
         "1b": "60",
         "2b": "23",
         "3b": "3",
         "hr": "18",
         "so": "109",
-        "bipballs in play": "327",
+        "bipballs in play": "329",
         "liveGames": 8,
         "totGames": 10,
-        "updated": "2025-04-14 21:19:47.390409"
+        "updated": "2025-04-14 21:19:55.931270"
     },
     "bos @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2086,9 +2086,9 @@
             "start": "6:45 PM",
             "in": "9",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "81.7",
+            "la": "7",
+            "dist": "110"
         },
         {
             "player": "jung hoo lee",
@@ -3228,9 +3228,9 @@
             "start": "7:05 PM",
             "in": "8",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "104.1",
+            "la": "18",
+            "dist": "277"
         },
         {
             "player": "jonathan india",
@@ -5112,9 +5112,24 @@
     ],
     "nym @ min": [
         {
-            "player": "pete alonso",
+            "player": "brandon nimmo",
             "game": "nym @ min",
             "hr/park": "",
+            "pa": "42",
+            "dt": "2025-04-14 21:19:50",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "pete alonso",
+            "game": "nym @ min",
+            "hr/park": "0/30",
             "pa": "41",
             "dt": "2025-04-14 21:18:35",
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
@@ -5738,7 +5753,7 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
