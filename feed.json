@@ -1,50 +1,50 @@
 {
     "all": {
         "pitchers": "16",
-        "batters": "132",
-        "pitches": "669",
+        "batters": "134",
+        "pitches": "679",
         "max velomax pitch velocity": "98.6",
         "min velomin pitch velocity": "73.7",
-        "ff%fourseam fastball %": "42.0",
-        "si%sinker %": "9.6",
-        "fc%cutter %": "8.1",
+        "ff%fourseam fastball %": "41.8",
+        "si%sinker %": "9.7",
+        "fc%cutter %": "8.2",
         "fs%splitter %": "1.6",
-        "ch%changeup %": "13.3",
-        "sl%slider %": "13.0",
+        "ch%changeup %": "13.1",
+        "sl%slider %": "13.1",
         "cu%curve %": "12.4",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "58",
-        "hh%hard hit %": "47.5",
+        "hh%hard hit %": "46.0",
         "brlbarrels": "13",
-        "brl%barrel %": "10.7",
-        "ab": "158",
-        "avg": ".228",
-        "h": "36",
-        "1b": "22",
+        "brl%barrel %": "10.3",
+        "ab": "161",
+        "avg": ".230",
+        "h": "37",
+        "1b": "23",
         "2b": "5",
         "3b": "0",
         "hr": "9",
         "so": "31",
-        "bipballs in play": "122",
+        "bipballs in play": "126",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-04-15 19:37:56.260605"
+        "updated": "2025-04-15 19:38:04.008697"
     },
     "bos @ tb": [
         {
             "player": "kameron misner",
             "game": "bos @ tb",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "17",
             "dt": "2025-04-15 19:35:43",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "start": "7:05 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "92.4",
+            "la": "31",
+            "dist": "327"
         },
         {
             "player": "christopher morel",
@@ -288,6 +288,21 @@
         }
     ],
     "wsh @ pit": [
+        {
+            "player": "jacob young",
+            "game": "wsh @ pit",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-04-15 19:37:58",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "Single",
+            "evo": "38.8",
+            "la": "-54",
+            "dist": "4"
+        },
         {
             "player": "nasim nunez",
             "game": "wsh @ pit",
@@ -2174,6 +2189,21 @@
     ],
     "kc @ nyy": [
         {
+            "player": "freddy fermin",
+            "game": "kc @ nyy",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-04-15 19:37:58",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:05 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "92.7",
+            "la": "37",
+            "dist": "316"
+        },
+        {
             "player": "mj melendez",
             "game": "kc @ nyy",
             "hr/park": "29/30",
@@ -2416,6 +2446,21 @@
     ],
     "atl @ tor": [
         {
+            "player": "addison barger",
+            "game": "atl @ tor",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-04-15 19:37:58",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "will wagner",
             "game": "atl @ tor",
             "hr/park": "",
@@ -2425,10 +2470,10 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "86.1",
+            "la": "-7",
+            "dist": "21"
         },
         {
             "player": "jarred kelenic",
