@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "24",
         "batters": "172",
-        "pitches": "1039",
+        "pitches": "1043",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "72.8",
         "ff%fourseam fastball %": "40.2",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.9",
         "fs%splitter %": "1.7",
         "ch%changeup %": "13.7",
-        "sl%slider %": "14.2",
+        "sl%slider %": "14.3",
         "cu%curve %": "11.5",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "92",
-        "hh%hard hit %": "47.9",
+        "hhhard hit": "93",
+        "hh%hard hit %": "48.2",
         "brlbarrels": "20",
         "brl%barrel %": "10.4",
-        "ab": "247",
-        "avg": ".235",
+        "ab": "248",
+        "avg": ".234",
         "h": "58",
         "1b": "37",
         "2b": "9",
         "3b": "0",
         "hr": "12",
         "so": "51",
-        "bipballs in play": "192",
+        "bipballs in play": "193",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-04-15 19:55:35.032335"
+        "updated": "2025-04-15 19:55:43.061573"
     },
     "bos @ tb": [
         {
@@ -1070,6 +1070,21 @@
         }
     ],
     "sea @ cin": [
+        {
+            "player": "jose trevino",
+            "game": "sea @ cin",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-04-15 19:55:41",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jake fraley",
             "game": "sea @ cin",
@@ -2594,14 +2609,14 @@
         {
             "player": "jorge mateo",
             "game": "cle @ bal",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "21",
             "dt": "2025-04-15 19:53:26",
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
             "team": "bal",
             "start": "7:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "104.0",
             "la": "38",
             "dist": "365"
@@ -3340,10 +3355,10 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Fielders Choice",
+            "evo": "101.3",
+            "la": "-24",
+            "dist": "5"
         },
         {
             "player": "bo bichette",
