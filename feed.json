@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "32",
+        "pitchers": "33",
         "batters": "144",
-        "pitches": "1628",
+        "pitches": "1630",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "56.5",
-        "ff%fourseam fastball %": "28.1",
-        "si%sinker %": "16.5",
+        "ff%fourseam fastball %": "28.2",
+        "si%sinker %": "16.6",
         "fc%cutter %": "8.8",
         "fs%splitter %": "5.8",
         "ch%changeup %": "10.3",
-        "sl%slider %": "18.6",
+        "sl%slider %": "18.5",
         "cu%curve %": "11.4",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "110",
-        "hh%hard hit %": "38.7",
+        "hhhard hit": "112",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "21",
-        "brl%barrel %": "7.4",
+        "brl%barrel %": "7.3",
         "ab": "373",
-        "avg": ".233",
-        "h": "87",
-        "1b": "49",
+        "avg": ".236",
+        "h": "88",
+        "1b": "50",
         "2b": "18",
         "3b": "2",
         "hr": "18",
         "so": "92",
-        "bipballs in play": "284",
+        "bipballs in play": "286",
         "liveGames": 8,
         "totGames": 10,
-        "updated": "2025-04-14 21:02:17.417231"
+        "updated": "2025-04-14 21:02:25.660824"
     },
     "bos @ tb": [
+        {
+            "player": "taylor walls",
+            "game": "bos @ tb",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-04-14 21:02:20",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "rafael devers",
             "game": "bos @ tb",
@@ -838,10 +853,10 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "105.7",
+            "la": "-20",
+            "dist": "7"
         },
         {
             "player": "henry davis",
@@ -1805,21 +1820,6 @@
         }
     ],
     "sf @ phi": [
-        {
-            "player": "wilmer flores",
-            "game": "sf @ phi",
-            "hr/park": "",
-            "pa": "67",
-            "dt": "2025-04-14 21:01:49",
-            "img": "https://www.mlbstatic.com/team-logos/137.svg",
-            "team": "sf",
-            "start": "6:45 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "lamonte wade",
             "game": "sf @ phi",
@@ -4491,10 +4491,10 @@
             "team": "nym",
             "start": "7:40 PM",
             "in": "5",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "95.1",
+            "la": "66",
+            "dist": "157"
         },
         {
             "player": "francisco lindor",
