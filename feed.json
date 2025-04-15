@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "27",
         "batters": "144",
-        "pitches": "1402",
+        "pitches": "1414",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.4",
-        "ff%fourseam fastball %": "27.9",
+        "ff%fourseam fastball %": "28.1",
         "si%sinker %": "16.5",
         "fc%cutter %": "9.1",
         "fs%splitter %": "6.3",
@@ -14,21 +14,21 @@
         "cu%curve %": "11.7",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "95",
-        "hh%hard hit %": "38.9",
+        "hh%hard hit %": "38.6",
         "brlbarrels": "19",
-        "brl%barrel %": "7.8",
-        "ab": "322",
-        "avg": ".227",
+        "brl%barrel %": "7.7",
+        "ab": "324",
+        "avg": ".225",
         "h": "73",
         "1b": "41",
         "2b": "15",
         "3b": "1",
         "hr": "16",
         "so": "80",
-        "bipballs in play": "244",
+        "bipballs in play": "246",
         "liveGames": 8,
         "totGames": 10,
-        "updated": "2025-04-14 20:46:59.066074"
+        "updated": "2025-04-14 20:47:07.121869"
     },
     "bos @ tb": [
         {
@@ -3205,11 +3205,11 @@
     ],
     "atl @ tor": [
         {
-            "player": "anthony santander",
+            "player": "andres gimenez",
             "game": "atl @ tor",
             "hr/park": "",
-            "pa": "50",
-            "dt": "2025-04-14 20:46:05",
+            "pa": "51",
+            "dt": "2025-04-14 20:47:04",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "start": "7:07 PM",
@@ -3218,6 +3218,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "anthony santander",
+            "game": "atl @ tor",
+            "hr/park": "0/30",
+            "pa": "50",
+            "dt": "2025-04-14 20:46:05",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "7",
+            "result": "Flyout",
+            "evo": "94.2",
+            "la": "43",
+            "dist": "304"
         },
         {
             "player": "vladimir guerrero",
@@ -3967,9 +3982,9 @@
             "start": "7:40 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "37.6",
+            "la": "-33",
+            "dist": "6"
         },
         {
             "player": "byron buxton",
@@ -4906,6 +4921,21 @@
     ],
     "hou @ stl": [
         {
+            "player": "pedro pages",
+            "game": "hou @ stl",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-04-14 20:47:04",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nolan gorman",
             "game": "hou @ stl",
             "hr/park": "",
@@ -4915,7 +4945,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "30.6",
             "la": "-71",
             "dist": "1"
