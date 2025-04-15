@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "23",
-        "batters": "164",
-        "pitches": "966",
+        "batters": "165",
+        "pitches": "969",
         "max velomax pitch velocity": "98.6",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "39.8",
+        "ff%fourseam fastball %": "39.7",
         "si%sinker %": "10.7",
         "fc%cutter %": "8.3",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "14.0",
-        "sl%slider %": "13.9",
-        "cu%curve %": "11.7",
+        "ch%changeup %": "13.9",
+        "sl%slider %": "13.8",
+        "cu%curve %": "11.8",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "87",
-        "hh%hard hit %": "47.8",
+        "hhhard hit": "86",
+        "hh%hard hit %": "47.3",
         "brlbarrels": "17",
         "brl%barrel %": "9.3",
-        "ab": "232",
-        "avg": ".246",
+        "ab": "233",
+        "avg": ".245",
         "h": "57",
         "1b": "36",
         "2b": "9",
         "3b": "0",
         "hr": "12",
-        "so": "47",
+        "so": "46",
         "bipballs in play": "182",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-04-15 19:52:38.882876"
+        "updated": "2025-04-15 19:52:46.726541"
     },
     "bos @ tb": [
         {
@@ -418,10 +418,10 @@
             "team": "wsh",
             "start": "6:40 PM",
             "in": "6",
-            "result": "Groundout",
-            "evo": "103.4",
-            "la": "7",
-            "dist": "115"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "josh bell",
@@ -1011,6 +1011,21 @@
     ],
     "sea @ cin": [
         {
+            "player": "christian encarnacion strand",
+            "game": "sea @ cin",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-04-15 19:52:42",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "Pop Out",
+            "evo": "78.1",
+            "la": "85",
+            "dist": "31"
+        },
+        {
             "player": "ben williamson",
             "game": "sea @ cin",
             "hr/park": "",
@@ -1493,21 +1508,6 @@
     ],
     "ari @ mia": [
         {
-            "player": "griffin conine",
-            "game": "ari @ mia",
-            "hr/park": "",
-            "pa": "35",
-            "dt": "2025-04-15 19:52:27",
-            "img": "https://www.mlbstatic.com/team-logos/146.svg",
-            "team": "mia",
-            "start": "6:40 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "otto lopez",
             "game": "ari @ mia",
             "hr/park": "",
@@ -1517,7 +1517,7 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "4",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3181,6 +3181,21 @@
     ],
     "atl @ tor": [
         {
+            "player": "bo bichette",
+            "game": "atl @ tor",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-04-15 19:52:42",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alan roden",
             "game": "atl @ tor",
             "hr/park": "0/30",
@@ -3697,6 +3712,21 @@
     ],
     "det @ mil": [
         {
+            "player": "christian yelich",
+            "game": "det @ mil",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-04-15 19:52:42",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "william contreras",
             "game": "det @ mil",
             "hr/park": "",
@@ -3798,7 +3828,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
