@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "19",
-        "batters": "143",
-        "pitches": "782",
+        "batters": "146",
+        "pitches": "791",
         "max velomax pitch velocity": "98.6",
         "min velomin pitch velocity": "73.7",
-        "ff%fourseam fastball %": "40.5",
+        "ff%fourseam fastball %": "40.3",
         "si%sinker %": "10.4",
-        "fc%cutter %": "7.7",
-        "fs%splitter %": "1.7",
+        "fc%cutter %": "8.0",
+        "fs%splitter %": "1.8",
         "ch%changeup %": "13.7",
         "sl%slider %": "14.2",
-        "cu%curve %": "11.9",
+        "cu%curve %": "11.8",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "68",
-        "hh%hard hit %": "47.2",
+        "hhhard hit": "69",
+        "hh%hard hit %": "47.3",
         "brlbarrels": "14",
-        "brl%barrel %": "9.7",
-        "ab": "186",
-        "avg": ".247",
+        "brl%barrel %": "9.6",
+        "ab": "190",
+        "avg": ".242",
         "h": "46",
         "1b": "29",
         "2b": "7",
         "3b": "0",
         "hr": "10",
-        "so": "38",
-        "bipballs in play": "144",
+        "so": "39",
+        "bipballs in play": "146",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-15 19:44:06.744560"
+        "updated": "2025-04-15 19:44:14.224491"
     },
     "bos @ tb": [
         {
@@ -1282,6 +1282,21 @@
         }
     ],
     "ari @ mia": [
+        {
+            "player": "garrett hampson",
+            "game": "ari @ mia",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-04-15 19:44:11",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "alek thomas",
             "game": "ari @ mia",
@@ -2740,7 +2755,7 @@
             "team": "atl",
             "start": "7:07 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3003,6 +3018,36 @@
     ],
     "nym @ min": [
         {
+            "player": "pete alonso",
+            "game": "nym @ min",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-04-15 19:44:11",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "juan soto",
+            "game": "nym @ min",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-04-15 19:44:11",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "Lineout",
+            "evo": "99.8",
+            "la": "19",
+            "dist": "304"
+        },
+        {
             "player": "francisco lindor",
             "game": "nym @ min",
             "hr/park": "",
@@ -3052,6 +3097,21 @@
     ],
     "det @ mil": [
         {
+            "player": "riley greene",
+            "game": "det @ mil",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-04-15 19:44:11",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kerry carpenter",
             "game": "det @ mil",
             "hr/park": "",
@@ -3061,10 +3121,10 @@
             "team": "det",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "90.6",
+            "la": "7",
+            "dist": "109"
         },
         {
             "player": "gleyber torres",
