@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "23",
         "batters": "144",
-        "pitches": "1144",
+        "pitches": "1148",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "71.4",
         "ff%fourseam fastball %": "28.4",
-        "si%sinker %": "16.9",
+        "si%sinker %": "16.8",
         "fc%cutter %": "8.4",
         "fs%splitter %": "6.3",
         "ch%changeup %": "10.2",
@@ -14,21 +14,21 @@
         "cu%curve %": "11.8",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "81",
-        "hh%hard hit %": "39.9",
+        "hh%hard hit %": "39.7",
         "brlbarrels": "19",
-        "brl%barrel %": "9.4",
-        "ab": "267",
-        "avg": ".240",
+        "brl%barrel %": "9.3",
+        "ab": "268",
+        "avg": ".239",
         "h": "64",
         "1b": "36",
         "2b": "14",
         "3b": "0",
         "hr": "14",
-        "so": "63",
-        "bipballs in play": "203",
+        "so": "64",
+        "bipballs in play": "204",
         "liveGames": 8,
         "totGames": 10,
-        "updated": "2025-04-14 20:30:02.191200"
+        "updated": "2025-04-14 20:30:10.311277"
     },
     "bos @ tb": [
         {
@@ -1410,7 +1410,7 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3417,6 +3417,21 @@
     ],
     "nym @ min": [
         {
+            "player": "edouard julien",
+            "game": "nym @ min",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-04-14 20:30:05",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "christian vazquez",
             "game": "nym @ min",
             "hr/park": "",
@@ -3426,7 +3441,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4135,10 +4150,10 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "94.7",
+            "la": "-22",
+            "dist": "6"
         },
         {
             "player": "luken baker",
