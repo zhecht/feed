@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "24",
+        "pitchers": "25",
         "batters": "144",
-        "pitches": "1226",
+        "pitches": "1233",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "71.4",
         "ff%fourseam fastball %": "28.4",
@@ -13,22 +13,22 @@
         "sl%slider %": "17.8",
         "cu%curve %": "11.3",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "84",
-        "hh%hard hit %": "38.9",
+        "hhhard hit": "85",
+        "hh%hard hit %": "39.0",
         "brlbarrels": "19",
-        "brl%barrel %": "8.8",
-        "ab": "282",
-        "avg": ".230",
-        "h": "65",
-        "1b": "36",
+        "brl%barrel %": "8.7",
+        "ab": "284",
+        "avg": ".232",
+        "h": "66",
+        "1b": "37",
         "2b": "14",
         "3b": "0",
         "hr": "15",
         "so": "67",
-        "bipballs in play": "216",
+        "bipballs in play": "218",
         "liveGames": 8,
         "totGames": 10,
-        "updated": "2025-04-14 20:35:18.404152"
+        "updated": "2025-04-14 20:35:26.303210"
     },
     "bos @ tb": [
         {
@@ -663,21 +663,6 @@
         }
     ],
     "wsh @ pit": [
-        {
-            "player": "oneil cruz",
-            "game": "wsh @ pit",
-            "hr/park": "",
-            "pa": "54",
-            "dt": "2025-04-14 20:35:05",
-            "img": "https://www.mlbstatic.com/team-logos/134.svg",
-            "team": "pit",
-            "start": "6:40 PM",
-            "in": "7",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "isiah kiner falefa",
             "game": "wsh @ pit",
@@ -1475,6 +1460,21 @@
         }
     ],
     "sf @ phi": [
+        {
+            "player": "tyler fitzgerald",
+            "game": "sf @ phi",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-04-14 20:34:49",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "6:45 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "bryson stott",
             "game": "sf @ phi",
@@ -2935,6 +2935,21 @@
     ],
     "atl @ tor": [
         {
+            "player": "tyler heineman",
+            "game": "atl @ tor",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-04-14 20:35:21",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nathan lukes",
             "game": "atl @ tor",
             "hr/park": "",
@@ -3591,10 +3606,10 @@
             "team": "nym",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "93.8",
+            "la": "55",
+            "dist": "251"
         },
         {
             "player": "edouard julien",
@@ -3943,6 +3958,21 @@
         }
     ],
     "det @ mil": [
+        {
+            "player": "gleyber torres",
+            "game": "det @ mil",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-04-14 20:35:21",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "Single",
+            "evo": "108.0",
+            "la": "7",
+            "dist": "133"
+        },
         {
             "player": "justyn henry malloy",
             "game": "det @ mil",
@@ -4375,7 +4405,7 @@
             "team": "hou",
             "start": "7:45 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
