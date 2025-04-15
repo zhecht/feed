@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "38",
-        "batters": "145",
-        "pitches": "1736",
+        "batters": "146",
+        "pitches": "1743",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "56.5",
         "ff%fourseam fastball %": "27.5",
@@ -10,25 +10,25 @@
         "fc%cutter %": "8.7",
         "fs%splitter %": "5.5",
         "ch%changeup %": "10.4",
-        "sl%slider %": "18.8",
+        "sl%slider %": "18.9",
         "cu%curve %": "11.3",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "118",
-        "hh%hard hit %": "38.8",
+        "hh%hard hit %": "38.7",
         "brlbarrels": "21",
         "brl%barrel %": "6.9",
-        "ab": "399",
-        "avg": ".238",
+        "ab": "401",
+        "avg": ".237",
         "h": "95",
         "1b": "55",
         "2b": "20",
         "3b": "2",
         "hr": "18",
-        "so": "99",
-        "bipballs in play": "304",
+        "so": "100",
+        "bipballs in play": "305",
         "liveGames": 8,
         "totGames": 10,
-        "updated": "2025-04-14 21:09:57.135181"
+        "updated": "2025-04-14 21:10:05.498147"
     },
     "bos @ tb": [
         {
@@ -906,17 +906,17 @@
         {
             "player": "josh bell",
             "game": "wsh @ pit",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "70",
             "dt": "2025-04-14 21:09:04",
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
             "team": "wsh",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "91.3",
+            "la": "34",
+            "dist": "345"
         },
         {
             "player": "bryan reynolds",
@@ -1955,6 +1955,21 @@
         }
     ],
     "sf @ phi": [
+        {
+            "player": "kody clemens",
+            "game": "sf @ phi",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-04-14 21:10:05",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:45 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "alec bohm",
             "game": "sf @ phi",
@@ -3007,6 +3022,21 @@
         }
     ],
     "kc @ nyy": [
+        {
+            "player": "kyle isbel",
+            "game": "kc @ nyy",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-04-14 21:10:05",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "drew waters",
             "game": "kc @ nyy",
@@ -5348,7 +5378,7 @@
             "team": "det",
             "start": "7:40 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
