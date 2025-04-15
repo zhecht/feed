@@ -1,51 +1,36 @@
 {
     "all": {
-        "pitchers": "20",
-        "batters": "151",
-        "pitches": "870",
+        "pitchers": "21",
+        "batters": "152",
+        "pitches": "877",
         "max velomax pitch velocity": "98.6",
         "min velomin pitch velocity": "73.7",
-        "ff%fourseam fastball %": "39.1",
-        "si%sinker %": "10.7",
+        "ff%fourseam fastball %": "39.2",
+        "si%sinker %": "10.8",
         "fc%cutter %": "8.0",
         "fs%splitter %": "1.7",
-        "ch%changeup %": "14.8",
-        "sl%slider %": "13.8",
-        "cu%curve %": "11.8",
+        "ch%changeup %": "14.7",
+        "sl%slider %": "13.7",
+        "cu%curve %": "11.9",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "78",
-        "hh%hard hit %": "48.1",
-        "brlbarrels": "15",
-        "brl%barrel %": "9.3",
-        "ab": "207",
+        "hhhard hit": "79",
+        "hh%hard hit %": "48.2",
+        "brlbarrels": "16",
+        "brl%barrel %": "9.8",
+        "ab": "211",
         "avg": ".251",
-        "h": "52",
+        "h": "53",
         "1b": "34",
         "2b": "7",
         "3b": "0",
-        "hr": "11",
+        "hr": "12",
         "so": "42",
-        "bipballs in play": "162",
+        "bipballs in play": "164",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-04-15 19:48:05.992376"
+        "updated": "2025-04-15 19:48:13.683199"
     },
     "bos @ tb": [
-        {
-            "player": "ceddanne rafaela",
-            "game": "bos @ tb",
-            "hr/park": "",
-            "pa": "24",
-            "dt": "2025-04-15 19:47:56",
-            "img": "https://www.mlbstatic.com/team-logos/111.svg",
-            "team": "bos",
-            "start": "7:05 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "triston casas",
             "game": "bos @ tb",
@@ -56,7 +41,7 @@
             "team": "bos",
             "start": "7:05 PM",
             "in": "3",
-            "result": "Lineout",
+            "result": "In Progress",
             "evo": "108.0",
             "la": "15",
             "dist": "296"
@@ -966,6 +951,21 @@
     ],
     "sea @ cin": [
         {
+            "player": "ben williamson",
+            "game": "sea @ cin",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-04-15 19:48:12",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "leo rivas",
             "game": "sea @ cin",
             "hr/park": "",
@@ -975,7 +975,7 @@
             "team": "sea",
             "start": "6:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "65.5",
             "la": "-25",
             "dist": "6"
@@ -2624,6 +2624,36 @@
     ],
     "kc @ nyy": [
         {
+            "player": "cody bellinger",
+            "game": "kc @ nyy",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-04-15 19:48:12",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "aaron judge",
+            "game": "kc @ nyy",
+            "hr/park": "0/30",
+            "pa": "23",
+            "dt": "2025-04-15 19:48:12",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "93.1",
+            "la": "39",
+            "dist": "305"
+        },
+        {
             "player": "ben rice",
             "game": "kc @ nyy",
             "hr/park": "",
@@ -2955,6 +2985,21 @@
         }
     ],
     "atl @ tor": [
+        {
+            "player": "matt olson",
+            "game": "atl @ tor",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-04-15 19:47:27",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:07 PM",
+            "in": "3",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "austin riley",
             "game": "atl @ tor",
@@ -3307,17 +3352,17 @@
         {
             "player": "tyler soderstrom",
             "game": "ath @ chw",
-            "hr/park": "",
+            "hr/park": "13/30",
             "pa": "3",
             "dt": "2025-04-15 19:45:12",
             "img": "https://www.mlbstatic.com/team-logos/133.svg",
             "team": "ath",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "107.2",
+            "la": "20",
+            "dist": "388"
         },
         {
             "player": "brent rooker",
@@ -3351,6 +3396,21 @@
         }
     ],
     "det @ mil": [
+        {
+            "player": "jackson chourio",
+            "game": "det @ mil",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-04-15 19:48:12",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "riley greene",
             "game": "det @ mil",
