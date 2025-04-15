@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "23",
         "batters": "164",
-        "pitches": "951",
+        "pitches": "961",
         "max velomax pitch velocity": "98.6",
         "min velomin pitch velocity": "72.8",
         "ff%fourseam fastball %": "39.6",
         "si%sinker %": "10.7",
-        "fc%cutter %": "8.1",
+        "fc%cutter %": "8.2",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "14.2",
-        "sl%slider %": "13.9",
-        "cu%curve %": "11.7",
+        "ch%changeup %": "14.0",
+        "sl%slider %": "13.8",
+        "cu%curve %": "11.8",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "85",
-        "hh%hard hit %": "48.0",
+        "hhhard hit": "86",
+        "hh%hard hit %": "47.8",
         "brlbarrels": "17",
-        "brl%barrel %": "9.6",
-        "ab": "229",
-        "avg": ".245",
-        "h": "56",
+        "brl%barrel %": "9.4",
+        "ab": "230",
+        "avg": ".248",
+        "h": "57",
         "1b": "36",
-        "2b": "8",
+        "2b": "9",
         "3b": "0",
         "hr": "12",
         "so": "46",
-        "bipballs in play": "177",
+        "bipballs in play": "180",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-04-15 19:52:07.657196"
+        "updated": "2025-04-15 19:52:15.492435"
     },
     "bos @ tb": [
         {
@@ -408,6 +408,21 @@
         }
     ],
     "wsh @ pit": [
+        {
+            "player": "luis garcia",
+            "game": "wsh @ pit",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-04-15 19:52:11",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "josh bell",
             "game": "wsh @ pit",
@@ -1999,7 +2014,7 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3138,17 +3153,17 @@
         {
             "player": "alan roden",
             "game": "atl @ tor",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "21",
             "dt": "2025-04-15 19:50:57",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "start": "7:07 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "104.4",
+            "la": "17",
+            "dist": "347"
         },
         {
             "player": "matt olson",
@@ -3569,10 +3584,10 @@
             "team": "ath",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "60.1",
+            "la": "17",
+            "dist": "133"
         },
         {
             "player": "jj bleday",
@@ -3661,10 +3676,10 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "84.0",
+            "la": "28",
+            "dist": "288"
         },
         {
             "player": "brice turang",
