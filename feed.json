@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "30",
         "batters": "144",
-        "pitches": "1489",
+        "pitches": "1491",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.4",
         "ff%fourseam fastball %": "28.4",
-        "si%sinker %": "16.7",
+        "si%sinker %": "16.6",
         "fc%cutter %": "9.2",
         "fs%splitter %": "6.0",
         "ch%changeup %": "10.2",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "39.7",
         "brlbarrels": "21",
         "brl%barrel %": "8.0",
-        "ab": "343",
-        "avg": ".233",
-        "h": "80",
-        "1b": "44",
+        "ab": "344",
+        "avg": ".235",
+        "h": "81",
+        "1b": "45",
         "2b": "16",
         "3b": "2",
         "hr": "18",
@@ -28,7 +28,7 @@
         "bipballs in play": "262",
         "liveGames": 8,
         "totGames": 10,
-        "updated": "2025-04-14 20:52:29.835778"
+        "updated": "2025-04-14 20:52:37.925159"
     },
     "bos @ tb": [
         {
@@ -778,7 +778,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Wild Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4619,6 +4619,21 @@
     ],
     "det @ mil": [
         {
+            "player": "zach mckinstry",
+            "game": "det @ mil",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-04-14 20:52:35",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan kreidler",
             "game": "det @ mil",
             "hr/park": "",
@@ -4628,7 +4643,7 @@
             "team": "det",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "106.2",
             "la": "7",
             "dist": "141"
