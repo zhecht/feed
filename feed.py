@@ -146,12 +146,15 @@ if __name__ == '__main__':
 	parser.add_argument("--date", "-d")
 	parser.add_argument("--loop", action="store_true")
 	parser.add_argument("--clear", action="store_true")
+	parser.add_argument("--yest", action="store_true")
 	parser.add_argument("--history", action="store_true")
 
 	args = parser.parse_args()
 
 	date = args.date
-	if not date:
+	if args.yest:
+		date = str(datetime.now() - timedelta(days=1))[:10]
+	elif not date:
 		date = str(datetime.now())[:10]
 
 	if args.history:
@@ -159,7 +162,7 @@ if __name__ == '__main__':
 			times = json.load(fh)
 		with open("feed_times_historical.json") as fh:
 			hist = json.load(fh)
-		hist[str(datetime.now())[:10]] = times
+		hist[date] = times
 		with open("feed_times_historical.json", "w") as fh:
 			json.dump(hist, fh)
 		exit()
