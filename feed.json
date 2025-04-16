@@ -2,25 +2,25 @@
     "all": {
         "pitchers": "30",
         "batters": "224",
-        "pitches": "1730",
+        "pitches": "1732",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "23.6",
         "ff%fourseam fastball %": "36.8",
-        "si%sinker %": "12.3",
+        "si%sinker %": "12.4",
         "fc%cutter %": "7.6",
-        "fs%splitter %": "1.8",
-        "ch%changeup %": "13.4",
-        "sl%slider %": "18.3",
+        "fs%splitter %": "1.9",
+        "ch%changeup %": "13.3",
+        "sl%slider %": "18.2",
         "cu%curve %": "9.8",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "146",
-        "hh%hard hit %": "46.1",
+        "hhhard hit": "147",
+        "hh%hard hit %": "46.4",
         "brlbarrels": "28",
         "brl%barrel %": "8.8",
         "ab": "403",
-        "avg": ".233",
-        "h": "94",
-        "1b": "60",
+        "avg": ".231",
+        "h": "93",
+        "1b": "59",
         "2b": "13",
         "3b": "2",
         "hr": "19",
@@ -28,7 +28,7 @@
         "bipballs in play": "317",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-15 20:24:41.511115"
+        "updated": "2025-04-15 20:24:50.226928"
     },
     "bos @ tb": [
         {
@@ -664,6 +664,21 @@
     ],
     "wsh @ pit": [
         {
+            "player": "adam frazier",
+            "game": "wsh @ pit",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-04-15 20:24:44",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tommy pham",
             "game": "wsh @ pit",
             "hr/park": "",
@@ -673,10 +688,10 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "106.3",
+            "la": "-2",
+            "dist": "35"
         },
         {
             "player": "jack suwinski",
@@ -3627,21 +3642,6 @@
     ],
     "cle @ bal": [
         {
-            "player": "carlos santana",
-            "game": "cle @ bal",
-            "hr/park": "",
-            "pa": "36",
-            "dt": "2025-04-15 20:24:27",
-            "img": "https://www.mlbstatic.com/team-logos/114.svg",
-            "team": "cle",
-            "start": "7:05 PM",
-            "in": "5",
-            "result": "Single",
-            "evo": "86.4",
-            "la": "-29",
-            "dist": "6"
-        },
-        {
             "player": "jose ramirez",
             "game": "cle @ bal",
             "hr/park": "",
@@ -4803,7 +4803,7 @@
         {
             "player": "bo bichette",
             "game": "atl @ tor",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "38",
             "dt": "2025-04-15 20:23:11",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
