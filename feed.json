@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "44",
         "batters": "237",
-        "pitches": "2282",
+        "pitches": "2293",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "72.6",
-        "ff%fourseam fastball %": "35.8",
+        "ff%fourseam fastball %": "35.6",
         "si%sinker %": "13.5",
         "fc%cutter %": "7.2",
         "fs%splitter %": "1.9",
         "ch%changeup %": "12.5",
-        "sl%slider %": "19.5",
+        "sl%slider %": "19.6",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "190",
-        "hh%hard hit %": "45.7",
+        "hh%hard hit %": "45.6",
         "brlbarrels": "39",
         "brl%barrel %": "9.4",
-        "ab": "530",
-        "avg": ".247",
-        "h": "131",
-        "1b": "83",
+        "ab": "531",
+        "avg": ".249",
+        "h": "132",
+        "1b": "84",
         "2b": "22",
         "3b": "3",
         "hr": "23",
-        "so": "113",
-        "bipballs in play": "416",
+        "so": "114",
+        "bipballs in play": "417",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-15 20:47:54.752535"
+        "updated": "2025-04-15 20:48:03.704268"
     },
     "bos @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -808,10 +808,10 @@
             "team": "wsh",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "83.7",
+            "la": "55",
+            "dist": "190"
         },
         {
             "player": "keibert ruiz",
@@ -1830,7 +1830,7 @@
             "team": "sea",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3595,6 +3595,21 @@
     ],
     "sf @ phi": [
         {
+            "player": "trea turner",
+            "game": "sf @ phi",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-04-15 20:47:57",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:45 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bryson stott",
             "game": "sf @ phi",
             "hr/park": "3/30",
@@ -4432,9 +4447,9 @@
             "start": "7:05 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "71.3",
-            "la": "-17",
-            "dist": "10"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "jose ramirez",
@@ -5935,10 +5950,10 @@
             "team": "atl",
             "start": "7:07 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "94.1",
+            "la": "-10",
+            "dist": "12"
         },
         {
             "player": "sean murphy",
@@ -6633,6 +6648,21 @@
     ],
     "nym @ min": [
         {
+            "player": "tyrone taylor",
+            "game": "nym @ min",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-04-15 20:47:57",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis torrens",
             "game": "nym @ min",
             "hr/park": "",
@@ -6642,7 +6672,7 @@
             "team": "nym",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "105.1",
             "la": "19",
             "dist": "367"
@@ -7169,7 +7199,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
