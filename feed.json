@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "9",
         "batters": "72",
-        "pitches": "418",
+        "pitches": "419",
         "max velomax pitch velocity": "97.9",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "28.2",
-        "si%sinker %": "25.4",
+        "si%sinker %": "25.3",
         "fc%cutter %": "4.1",
         "fs%splitter %": "1.0",
-        "ch%changeup %": "16.3",
+        "ch%changeup %": "16.5",
         "sl%slider %": "15.8",
         "cu%curve %": "9.3",
         "max evmax exit velocity": "113.2",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "42.6",
         "brlbarrels": "6",
         "brl%barrel %": "8.8",
-        "ab": "91",
-        "avg": ".198",
+        "ab": "92",
+        "avg": ".196",
         "h": "18",
         "1b": "11",
         "2b": "4",
@@ -28,7 +28,7 @@
         "bipballs in play": "68",
         "liveGames": 4,
         "totGames": 15,
-        "updated": "2025-04-16 14:06:25.649267"
+        "updated": "2025-04-16 14:06:32.694035"
     },
     "bos @ tb": [],
     "atl @ tor": [
@@ -394,6 +394,21 @@
         }
     ],
     "nym @ min": [
+        {
+            "player": "luisangel acuna",
+            "game": "nym @ min",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-04-16 14:06:29",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "1:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brandon nimmo",
             "game": "nym @ min",
@@ -789,7 +804,7 @@
         {
             "player": "rhys hoskins",
             "game": "det @ mil",
-            "hr/park": "",
+            "hr/park": "18/30",
             "pa": "27",
             "dt": "2025-04-16 14:02:59",
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
@@ -1203,7 +1218,7 @@
             "team": "stl",
             "start": "1:15 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "53.2",
             "la": "-52",
             "dist": "5"
