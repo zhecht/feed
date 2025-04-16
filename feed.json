@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "30",
         "batters": "224",
-        "pitches": "1724",
+        "pitches": "1730",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "23.6",
-        "ff%fourseam fastball %": "36.9",
-        "si%sinker %": "12.2",
-        "fc%cutter %": "7.7",
-        "fs%splitter %": "1.9",
-        "ch%changeup %": "13.3",
+        "ff%fourseam fastball %": "36.8",
+        "si%sinker %": "12.3",
+        "fc%cutter %": "7.6",
+        "fs%splitter %": "1.8",
+        "ch%changeup %": "13.4",
         "sl%slider %": "18.3",
         "cu%curve %": "9.8",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "145",
-        "hh%hard hit %": "46.3",
+        "hhhard hit": "146",
+        "hh%hard hit %": "46.1",
         "brlbarrels": "28",
-        "brl%barrel %": "8.9",
-        "ab": "401",
-        "avg": ".232",
-        "h": "93",
-        "1b": "59",
+        "brl%barrel %": "8.8",
+        "ab": "403",
+        "avg": ".233",
+        "h": "94",
+        "1b": "60",
         "2b": "13",
         "3b": "2",
         "hr": "19",
         "so": "87",
-        "bipballs in play": "313",
+        "bipballs in play": "317",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-15 20:24:24.223260"
+        "updated": "2025-04-15 20:24:32.941572"
     },
     "bos @ tb": [
         {
@@ -41,10 +41,10 @@
             "team": "bos",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "86.1",
+            "la": "-21",
+            "dist": "7"
         },
         {
             "player": "triston casas",
@@ -2960,9 +2960,9 @@
             "start": "6:45 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "90.4",
+            "la": "45",
+            "dist": "260"
         },
         {
             "player": "casey schmitt",
@@ -3626,6 +3626,21 @@
         }
     ],
     "cle @ bal": [
+        {
+            "player": "carlos santana",
+            "game": "cle @ bal",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-04-15 20:24:27",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "Single",
+            "evo": "86.4",
+            "la": "-29",
+            "dist": "6"
+        },
         {
             "player": "jose ramirez",
             "game": "cle @ bal",
@@ -5358,6 +5373,21 @@
     ],
     "nym @ min": [
         {
+            "player": "ty france",
+            "game": "nym @ min",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-04-15 20:24:27",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "99.1",
+            "la": "-6",
+            "dist": "16"
+        },
+        {
             "player": "dashawn keirsey",
             "game": "nym @ min",
             "hr/park": "",
@@ -5367,7 +5397,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Bunt Pop Out",
             "evo": "31.3",
             "la": "61",
             "dist": "50"
