@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "24",
-        "batters": "185",
-        "pitches": "1236",
+        "batters": "187",
+        "pitches": "1245",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "39.9",
+        "ff%fourseam fastball %": "39.8",
         "si%sinker %": "10.5",
-        "fc%cutter %": "7.9",
+        "fc%cutter %": "8.0",
         "fs%splitter %": "1.7",
-        "ch%changeup %": "13.6",
-        "sl%slider %": "16.0",
-        "cu%curve %": "10.4",
+        "ch%changeup %": "13.7",
+        "sl%slider %": "16.1",
+        "cu%curve %": "10.3",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "106",
-        "hh%hard hit %": "48.0",
+        "hhhard hit": "108",
+        "hh%hard hit %": "48.4",
         "brlbarrels": "22",
-        "brl%barrel %": "10.0",
-        "ab": "287",
-        "avg": ".230",
+        "brl%barrel %": "9.9",
+        "ab": "289",
+        "avg": ".228",
         "h": "66",
         "1b": "41",
         "2b": "11",
         "3b": "0",
         "hr": "14",
-        "so": "62",
-        "bipballs in play": "221",
+        "so": "66",
+        "bipballs in play": "223",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-04-15 20:04:04.738718"
+        "updated": "2025-04-15 20:04:12.742215"
     },
     "bos @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "bos",
             "start": "7:05 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1185,7 +1185,7 @@
             "team": "sea",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1772,7 +1772,7 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2359,7 +2359,7 @@
             "team": "sf",
             "start": "6:45 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2901,10 +2901,10 @@
             "team": "cle",
             "start": "7:05 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "98.8",
+            "la": "2",
+            "dist": "59"
         },
         {
             "player": "adley rutschman",
@@ -4143,6 +4143,21 @@
     ],
     "nym @ min": [
         {
+            "player": "carlos correa",
+            "game": "nym @ min",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-04-15 20:04:11",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "102.2",
+            "la": "-22",
+            "dist": "5"
+        },
+        {
             "player": "luis torrens",
             "game": "nym @ min",
             "hr/park": "0/30",
@@ -4491,6 +4506,21 @@
         }
     ],
     "det @ mil": [
+        {
+            "player": "rhys hoskins",
+            "game": "det @ mil",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-04-15 20:04:11",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "dillon dingler",
             "game": "det @ mil",
