@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "60",
         "batters": "240",
-        "pitches": "2811",
+        "pitches": "2813",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "72.6",
         "ff%fourseam fastball %": "35.1",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.8",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "220",
-        "hh%hard hit %": "45.1",
-        "brlbarrels": "45",
-        "brl%barrel %": "9.2",
-        "ab": "631",
-        "avg": ".230",
-        "h": "145",
-        "1b": "94",
+        "hh%hard hit %": "45.0",
+        "brlbarrels": "44",
+        "brl%barrel %": "9.0",
+        "ab": "632",
+        "avg": ".233",
+        "h": "147",
+        "1b": "95",
         "2b": "23",
         "3b": "3",
-        "hr": "25",
+        "hr": "26",
         "so": "146",
-        "bipballs in play": "488",
+        "bipballs in play": "489",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-15 21:11:06.205000"
+        "updated": "2025-04-15 21:11:15.719476"
     },
     "bos @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3038,6 +3038,21 @@
     ],
     "ari @ mia": [
         {
+            "player": "pavin smith",
+            "game": "ari @ mia",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-04-15 21:11:12",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "Single",
+            "evo": "85.5",
+            "la": "",
+            "dist": "37"
+        },
+        {
             "player": "geraldo perdomo",
             "game": "ari @ mia",
             "hr/park": "",
@@ -4114,7 +4129,7 @@
             "team": "sf",
             "start": "6:45 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5099,17 +5114,17 @@
         {
             "player": "cedric mullins",
             "game": "cle @ bal",
-            "hr/park": "",
+            "hr/park": "16/30",
             "pa": "58",
             "dt": "2025-04-15 21:10:59",
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
             "team": "bal",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "99.0",
+            "la": "33",
+            "dist": "396"
         },
         {
             "player": "gary sanchez",
@@ -8949,7 +8964,7 @@
         {
             "player": "gleyber torres",
             "game": "det @ mil",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "41",
             "dt": "2025-04-15 21:10:59",
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
@@ -8957,9 +8972,9 @@
             "start": "7:40 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "104.8",
-            "la": "22",
-            "dist": "381"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "christian yelich",
