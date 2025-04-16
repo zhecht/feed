@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "64",
         "batters": "243",
-        "pitches": "2869",
+        "pitches": "2877",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "72.6",
         "ff%fourseam fastball %": "35.1",
         "si%sinker %": "13.6",
         "fc%cutter %": "8.0",
         "fs%splitter %": "2.2",
-        "ch%changeup %": "12.2",
-        "sl%slider %": "20.3",
+        "ch%changeup %": "12.3",
+        "sl%slider %": "20.2",
         "cu%curve %": "8.6",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "225",
-        "hh%hard hit %": "44.6",
+        "hhhard hit": "226",
+        "hh%hard hit %": "44.8",
         "brlbarrels": "45",
         "brl%barrel %": "8.9",
-        "ab": "651",
+        "ab": "653",
         "avg": ".230",
         "h": "150",
         "1b": "96",
         "2b": "25",
         "3b": "3",
         "hr": "26",
-        "so": "152",
-        "bipballs in play": "504",
+        "so": "153",
+        "bipballs in play": "505",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-15 21:14:19.126011"
+        "updated": "2025-04-15 21:14:28.992348"
     },
     "bos @ tb": [
         {
@@ -4219,10 +4219,10 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "103.0",
+            "la": "11",
+            "dist": "176"
         },
         {
             "player": "casey schmitt",
@@ -5217,6 +5217,21 @@
     ],
     "cle @ bal": [
         {
+            "player": "jorge mateo",
+            "game": "cle @ bal",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-04-15 21:14:27",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ramon laureano",
             "game": "cle @ bal",
             "hr/park": "",
@@ -5226,7 +5241,7 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6103,6 +6118,21 @@
         }
     ],
     "kc @ nyy": [
+        {
+            "player": "bobby witt",
+            "game": "kc @ nyy",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-04-15 21:14:27",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jazz chisholm",
             "game": "kc @ nyy",
@@ -7015,7 +7045,7 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "7",
-            "result": "Flyout",
+            "result": "In Progress",
             "evo": "76.6",
             "la": "42",
             "dist": "253"
