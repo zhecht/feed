@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "25",
-        "batters": "201",
-        "pitches": "1393",
+        "batters": "200",
+        "pitches": "1395",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "38.4",
-        "si%sinker %": "11.6",
+        "ff%fourseam fastball %": "38.3",
+        "si%sinker %": "11.5",
         "fc%cutter %": "7.8",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "13.7",
-        "sl%slider %": "16.5",
-        "cu%curve %": "10.2",
+        "ch%changeup %": "13.5",
+        "sl%slider %": "16.8",
+        "cu%curve %": "10.3",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "119",
-        "hh%hard hit %": "47.2",
+        "hhhard hit": "120",
+        "hh%hard hit %": "47.4",
         "brlbarrels": "24",
         "brl%barrel %": "9.5",
         "ab": "330",
@@ -24,11 +24,11 @@
         "2b": "12",
         "3b": "1",
         "hr": "15",
-        "so": "73",
-        "bipballs in play": "252",
+        "so": "74",
+        "bipballs in play": "253",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-15 20:10:51.046886"
+        "updated": "2025-04-15 20:10:59.226349"
     },
     "bos @ tb": [
         {
@@ -559,21 +559,6 @@
     ],
     "wsh @ pit": [
         {
-            "player": "kebryan hayes",
-            "game": "wsh @ pit",
-            "hr/park": "",
-            "pa": "48",
-            "dt": "2025-04-15 20:10:42",
-            "img": "https://www.mlbstatic.com/team-logos/134.svg",
-            "team": "pit",
-            "start": "6:40 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "bryan reynolds",
             "game": "wsh @ pit",
             "hr/park": "",
@@ -583,10 +568,10 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "6",
-            "result": "Flyout",
-            "evo": "90.1",
-            "la": "30",
-            "dist": "323"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "oneil cruz",
@@ -3147,6 +3132,21 @@
     ],
     "cle @ bal": [
         {
+            "player": "ryan mountcastle",
+            "game": "cle @ bal",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-04-15 20:10:56",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "101.3",
+            "la": "-7",
+            "dist": "19"
+        },
+        {
             "player": "gunnar henderson",
             "game": "cle @ bal",
             "hr/park": "",
@@ -4096,6 +4096,21 @@
     ],
     "atl @ tor": [
         {
+            "player": "addison barger",
+            "game": "atl @ tor",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-04-15 20:10:56",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "will wagner",
             "game": "atl @ tor",
             "hr/park": "",
@@ -4105,7 +4120,7 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4562,21 +4577,6 @@
         }
     ],
     "nym @ min": [
-        {
-            "player": "tyrone taylor",
-            "game": "nym @ min",
-            "hr/park": "",
-            "pa": "16",
-            "dt": "2025-04-15 20:10:42",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "7:40 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "willi castro",
             "game": "nym @ min",
@@ -5056,10 +5056,10 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "85.1",
+            "la": "47",
+            "dist": "251"
         },
         {
             "player": "garrett mitchell",
