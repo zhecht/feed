@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "40",
         "batters": "235",
-        "pitches": "2134",
+        "pitches": "2137",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "72.6",
         "ff%fourseam fastball %": "36.0",
         "si%sinker %": "13.0",
-        "fc%cutter %": "7.5",
+        "fc%cutter %": "7.4",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "13.0",
+        "ch%changeup %": "13.1",
         "sl%slider %": "18.8",
-        "cu%curve %": "9.8",
+        "cu%curve %": "9.9",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "177",
-        "hh%hard hit %": "46.0",
-        "brlbarrels": "36",
-        "brl%barrel %": "9.4",
-        "ab": "492",
-        "avg": ".236",
-        "h": "116",
+        "hhhard hit": "176",
+        "hh%hard hit %": "45.6",
+        "brlbarrels": "35",
+        "brl%barrel %": "9.1",
+        "ab": "493",
+        "avg": ".233",
+        "h": "115",
         "1b": "73",
-        "2b": "19",
+        "2b": "18",
         "3b": "2",
         "hr": "22",
         "so": "108",
-        "bipballs in play": "385",
+        "bipballs in play": "386",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-15 20:41:19.175030"
+        "updated": "2025-04-15 20:41:28.137654"
     },
     "bos @ tb": [
         {
@@ -778,10 +778,10 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "93.1",
+            "la": "-18",
+            "dist": "5"
         },
         {
             "player": "oneil cruz",
@@ -1740,7 +1740,7 @@
             "team": "sea",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5611,6 +5611,21 @@
     ],
     "atl @ tor": [
         {
+            "player": "austin riley",
+            "game": "atl @ tor",
+            "hr/park": "0/30",
+            "pa": "44",
+            "dt": "2025-04-15 20:41:26",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:07 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "93.8",
+            "la": "38",
+            "dist": "319"
+        },
+        {
             "player": "will wagner",
             "game": "atl @ tor",
             "hr/park": "",
@@ -7156,10 +7171,10 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "4",
-            "result": "Double",
-            "evo": "110.8",
-            "la": "21",
-            "dist": "408"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "sal frelick",
