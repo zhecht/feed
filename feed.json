@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "57",
         "batters": "155",
-        "pitches": "1652",
+        "pitches": "1656",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "70.0",
-        "ff%fourseam fastball %": "31.6",
+        "ff%fourseam fastball %": "31.7",
         "si%sinker %": "17.9",
         "fc%cutter %": "4.9",
         "fs%splitter %": "3.2",
-        "ch%changeup %": "11.1",
+        "ch%changeup %": "11.0",
         "sl%slider %": "20.2",
         "cu%curve %": "11.1",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "116",
-        "hh%hard hit %": "43.6",
+        "hhhard hit": "117",
+        "hh%hard hit %": "43.8",
         "brlbarrels": "17",
         "brl%barrel %": "6.4",
         "ab": "368",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "9",
         "so": "107",
-        "bipballs in play": "266",
+        "bipballs in play": "267",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-04-16 19:03:02.151746"
+        "updated": "2025-04-16 19:03:10.965334"
     },
     "bos @ tb": [],
     "atl @ tor": [
@@ -5801,7 +5801,7 @@
             "team": "sea",
             "start": "6:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Caught Stealing 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5974,6 +5974,21 @@
     ],
     "ari @ mia": [
         {
+            "player": "gabriel moreno",
+            "game": "ari @ mia",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-04-16 19:03:09",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "6:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "eugenio suarez",
             "game": "ari @ mia",
             "hr/park": "",
@@ -5983,10 +5998,10 @@
             "team": "ari",
             "start": "6:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Groundout",
+            "evo": "104.2",
             "la": "",
-            "dist": ""
+            "dist": "51"
         },
         {
             "player": "lourdes gurriel",
@@ -6125,21 +6140,6 @@
         }
     ],
     "sf @ phi": [
-        {
-            "player": "patrick bailey",
-            "game": "sf @ phi",
-            "hr/park": "",
-            "pa": "8",
-            "dt": "2025-04-16 19:02:39",
-            "img": "https://www.mlbstatic.com/team-logos/137.svg",
-            "team": "sf",
-            "start": "6:45 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "wilmer flores",
             "game": "sf @ phi",
