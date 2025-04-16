@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "55",
         "batters": "240",
-        "pitches": "2701",
+        "pitches": "2707",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "72.6",
         "ff%fourseam fastball %": "35.2",
         "si%sinker %": "13.6",
         "fc%cutter %": "7.9",
         "fs%splitter %": "2.1",
-        "ch%changeup %": "12.1",
+        "ch%changeup %": "12.0",
         "sl%slider %": "20.2",
         "cu%curve %": "8.9",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "214",
+        "hhhard hit": "215",
         "hh%hard hit %": "45.1",
         "brlbarrels": "44",
-        "brl%barrel %": "9.3",
-        "ab": "609",
-        "avg": ".236",
+        "brl%barrel %": "9.2",
+        "ab": "608",
+        "avg": ".237",
         "h": "144",
         "1b": "93",
         "2b": "23",
         "3b": "3",
         "hr": "25",
         "so": "137",
-        "bipballs in play": "475",
+        "bipballs in play": "477",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-15 21:06:17.759774"
+        "updated": "2025-04-15 21:06:27.121753"
     },
     "bos @ tb": [
         {
@@ -2010,7 +2010,7 @@
             "team": "cin",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5828,7 +5828,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7473,6 +7473,21 @@
     ],
     "nym @ min": [
         {
+            "player": "trevor larnach",
+            "game": "nym @ min",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-04-15 21:06:27",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brooks lee",
             "game": "nym @ min",
             "hr/park": "",
@@ -7482,10 +7497,10 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "98.3",
+            "la": "6",
+            "dist": "190"
         },
         {
             "player": "ty france",
@@ -8099,10 +8114,10 @@
             "team": "ath",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "75.9",
+            "la": "-3",
+            "dist": "24"
         },
         {
             "player": "matt thaiss",
@@ -9273,7 +9288,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9860,7 +9875,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
