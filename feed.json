@@ -1,23 +1,23 @@
 {
     "all": {
         "pitchers": "30",
-        "batters": "216",
-        "pitches": "1569",
+        "batters": "217",
+        "pitches": "1578",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "23.6",
-        "ff%fourseam fastball %": "36.6",
-        "si%sinker %": "12.6",
+        "ff%fourseam fastball %": "36.4",
+        "si%sinker %": "12.5",
         "fc%cutter %": "8.0",
         "fs%splitter %": "2.0",
-        "ch%changeup %": "13.4",
-        "sl%slider %": "17.8",
+        "ch%changeup %": "13.6",
+        "sl%slider %": "17.9",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "132",
-        "hh%hard hit %": "47.0",
+        "hhhard hit": "134",
+        "hh%hard hit %": "47.3",
         "brlbarrels": "24",
         "brl%barrel %": "8.5",
-        "ab": "367",
+        "ab": "368",
         "avg": ".223",
         "h": "82",
         "1b": "52",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "15",
         "so": "82",
-        "bipballs in play": "281",
+        "bipballs in play": "283",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-15 20:18:10.765671"
+        "updated": "2025-04-15 20:18:18.902149"
     },
     "bos @ tb": [
         {
@@ -42,9 +42,9 @@
             "start": "7:05 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "97.3",
+            "la": "38",
+            "dist": "314"
         },
         {
             "player": "christopher morel",
@@ -613,7 +613,7 @@
             "team": "wsh",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3404,7 +3404,7 @@
         {
             "player": "angel martinez",
             "game": "cle @ bal",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "31",
             "dt": "2025-04-15 20:16:26",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
@@ -3878,15 +3878,15 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "84.0",
+            "la": "9",
+            "dist": "123"
         },
         {
             "player": "oswald peraza",
             "game": "kc @ nyy",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "38",
             "dt": "2025-04-15 20:16:58",
             "img": "https://www.mlbstatic.com/team-logos/147.svg",
@@ -4993,9 +4993,9 @@
             "start": "7:40 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "43.8",
-            "la": "37",
-            "dist": "112"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "francisco lindor",
@@ -5838,7 +5838,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6070,6 +6070,21 @@
         }
     ],
     "laa @ tex": [
+        {
+            "player": "corey seager",
+            "game": "laa @ tex",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-04-15 20:18:13",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:05 PM",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "107.4",
+            "la": "",
+            "dist": "54"
+        },
         {
             "player": "marcus semien",
             "game": "laa @ tex",
