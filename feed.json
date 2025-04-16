@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "47",
         "batters": "237",
-        "pitches": "2500",
+        "pitches": "2502",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "72.6",
-        "ff%fourseam fastball %": "35.4",
+        "ff%fourseam fastball %": "35.3",
         "si%sinker %": "13.6",
-        "fc%cutter %": "7.4",
+        "fc%cutter %": "7.5",
         "fs%splitter %": "2.0",
         "ch%changeup %": "12.4",
         "sl%slider %": "19.8",
         "cu%curve %": "9.4",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "201",
-        "hh%hard hit %": "45.0",
+        "hhhard hit": "202",
+        "hh%hard hit %": "45.1",
         "brlbarrels": "42",
         "brl%barrel %": "9.4",
         "ab": "568",
@@ -24,11 +24,11 @@
         "2b": "23",
         "3b": "3",
         "hr": "24",
-        "so": "123",
-        "bipballs in play": "447",
+        "so": "124",
+        "bipballs in play": "448",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-15 20:56:50.036797"
+        "updated": "2025-04-15 20:56:59.594106"
     },
     "bos @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "bos",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1940,6 +1940,21 @@
         }
     ],
     "sea @ cin": [
+        {
+            "player": "mitch garver",
+            "game": "sea @ cin",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-04-15 20:56:58",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "randy arozarena",
             "game": "sea @ cin",
@@ -6340,7 +6355,7 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7092,10 +7107,10 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "5",
-            "result": "Stolen Base 2B",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "106.9",
+            "la": "-5",
+            "dist": "17"
         },
         {
             "player": "byron buxton",
@@ -7670,21 +7685,6 @@
     ],
     "ath @ chw": [
         {
-            "player": "brent rooker",
-            "game": "ath @ chw",
-            "hr/park": "",
-            "pa": "35",
-            "dt": "2025-04-15 20:56:28",
-            "img": "https://www.mlbstatic.com/team-logos/133.svg",
-            "team": "ath",
-            "start": "7:40 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "lawrence butler",
             "game": "ath @ chw",
             "hr/park": "",
@@ -8206,7 +8206,7 @@
             "team": "det",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "95.3",
             "la": "17",
             "dist": "282"
