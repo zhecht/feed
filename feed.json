@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "32",
         "batters": "226",
-        "pitches": "1841",
+        "pitches": "1848",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "72.6",
-        "ff%fourseam fastball %": "36.7",
-        "si%sinker %": "12.0",
+        "ff%fourseam fastball %": "36.6",
+        "si%sinker %": "12.1",
         "fc%cutter %": "7.6",
         "fs%splitter %": "2.1",
-        "ch%changeup %": "13.4",
-        "sl%slider %": "18.1",
-        "cu%curve %": "10.2",
+        "ch%changeup %": "13.5",
+        "sl%slider %": "18.0",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "156",
+        "hhhard hit": "157",
         "hh%hard hit %": "46.3",
-        "brlbarrels": "30",
-        "brl%barrel %": "8.9",
-        "ab": "430",
-        "avg": ".247",
+        "brlbarrels": "31",
+        "brl%barrel %": "9.1",
+        "ab": "433",
+        "avg": ".245",
         "h": "106",
         "1b": "66",
         "2b": "16",
         "3b": "2",
         "hr": "22",
-        "so": "92",
-        "bipballs in play": "337",
+        "so": "91",
+        "bipballs in play": "339",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-15 20:29:08.651085"
+        "updated": "2025-04-15 20:29:17.262279"
     },
     "bos @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2287,6 +2287,36 @@
         }
     ],
     "ari @ mia": [
+        {
+            "player": "matt mervis",
+            "game": "ari @ mia",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-04-15 20:29:11",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "eric wagaman",
+            "game": "ari @ mia",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-04-15 20:28:28",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "102.9",
+            "la": "32",
+            "dist": "384"
+        },
         {
             "player": "jesus sanchez",
             "game": "ari @ mia",
@@ -5628,6 +5658,21 @@
     ],
     "nym @ min": [
         {
+            "player": "pete alonso",
+            "game": "nym @ min",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-04-15 20:29:11",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "juan soto",
             "game": "nym @ min",
             "hr/park": "25/30",
@@ -6014,7 +6059,7 @@
             "team": "ath",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6361,10 +6406,10 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "86.0",
+            "la": "-3",
+            "dist": "21"
         },
         {
             "player": "william contreras",
@@ -7025,7 +7070,7 @@
             "team": "laa",
             "start": "8:05 PM",
             "in": "2",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
