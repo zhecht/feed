@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "30",
-        "batters": "222",
-        "pitches": "1711",
+        "batters": "223",
+        "pitches": "1718",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "23.6",
         "ff%fourseam fastball %": "36.9",
         "si%sinker %": "12.3",
-        "fc%cutter %": "7.6",
+        "fc%cutter %": "7.7",
         "fs%splitter %": "1.9",
         "ch%changeup %": "13.3",
         "sl%slider %": "18.2",
         "cu%curve %": "9.8",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "144",
-        "hh%hard hit %": "46.5",
+        "hhhard hit": "145",
+        "hh%hard hit %": "46.3",
         "brlbarrels": "27",
-        "brl%barrel %": "8.7",
+        "brl%barrel %": "8.6",
         "ab": "399",
         "avg": ".233",
         "h": "93",
@@ -24,11 +24,11 @@
         "2b": "13",
         "3b": "2",
         "hr": "19",
-        "so": "86",
-        "bipballs in play": "310",
+        "so": "87",
+        "bipballs in play": "313",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-15 20:23:49.007448"
+        "updated": "2025-04-15 20:23:57.744795"
     },
     "bos @ tb": [
         {
@@ -41,10 +41,10 @@
             "team": "bos",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "86.1",
+            "la": "-21",
+            "dist": "7"
         },
         {
             "player": "triston casas",
@@ -674,9 +674,9 @@
             "start": "6:40 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "106.3",
+            "la": "-2",
+            "dist": "35"
         },
         {
             "player": "jack suwinski",
@@ -1485,7 +1485,7 @@
             "team": "cin",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4163,15 +4163,15 @@
             "team": "kc",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "81.7",
+            "la": "24",
+            "dist": "276"
         },
         {
             "player": "salvador perez",
             "game": "kc @ nyy",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "41",
             "dt": "2025-04-15 20:21:57",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
@@ -5992,21 +5992,6 @@
     ],
     "det @ mil": [
         {
-            "player": "brice turang",
-            "game": "det @ mil",
-            "hr/park": "",
-            "pa": "21",
-            "dt": "2025-04-15 20:23:43",
-            "img": "https://www.mlbstatic.com/team-logos/158.svg",
-            "team": "mil",
-            "start": "7:40 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jackson chourio",
             "game": "det @ mil",
             "hr/park": "",
@@ -6580,6 +6565,21 @@
         }
     ],
     "laa @ tex": [
+        {
+            "player": "travis darnaud",
+            "game": "laa @ tex",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-04-15 20:23:57",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "8:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jorge soler",
             "game": "laa @ tex",
