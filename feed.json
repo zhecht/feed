@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "24",
         "batters": "185",
-        "pitches": "1225",
+        "pitches": "1236",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "72.8",
         "ff%fourseam fastball %": "39.9",
-        "si%sinker %": "10.6",
+        "si%sinker %": "10.5",
         "fc%cutter %": "7.9",
-        "fs%splitter %": "1.6",
+        "fs%splitter %": "1.7",
         "ch%changeup %": "13.6",
-        "sl%slider %": "15.9",
+        "sl%slider %": "16.0",
         "cu%curve %": "10.4",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "106",
-        "hh%hard hit %": "48.2",
+        "hh%hard hit %": "48.0",
         "brlbarrels": "22",
         "brl%barrel %": "10.0",
-        "ab": "283",
-        "avg": ".233",
+        "ab": "287",
+        "avg": ".230",
         "h": "66",
         "1b": "41",
         "2b": "11",
         "3b": "0",
         "hr": "14",
-        "so": "60",
-        "bipballs in play": "220",
+        "so": "62",
+        "bipballs in play": "221",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-04-15 20:03:40.734839"
+        "updated": "2025-04-15 20:03:48.763585"
     },
     "bos @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "bos",
             "start": "7:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2350,6 +2350,21 @@
     ],
     "sf @ phi": [
         {
+            "player": "heliot ramos",
+            "game": "sf @ phi",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-04-15 20:03:43",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "6:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyler fitzgerald",
             "game": "sf @ phi",
             "hr/park": "",
@@ -2359,7 +2374,7 @@
             "team": "sf",
             "start": "6:45 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2876,6 +2891,21 @@
         }
     ],
     "cle @ bal": [
+        {
+            "player": "kyle manzardo",
+            "game": "cle @ bal",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-04-15 20:03:43",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "adley rutschman",
             "game": "cle @ bal",
@@ -3691,6 +3721,36 @@
     ],
     "atl @ tor": [
         {
+            "player": "drake baldwin",
+            "game": "atl @ tor",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-04-15 20:03:43",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:07 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "ozzie albies",
+            "game": "atl @ tor",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-04-15 20:03:43",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:07 PM",
+            "in": "4",
+            "result": "Pop Out",
+            "evo": "72.1",
+            "la": "48",
+            "dist": "212"
+        },
+        {
             "player": "sean murphy",
             "game": "atl @ tor",
             "hr/park": "0/30",
@@ -4259,7 +4319,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
