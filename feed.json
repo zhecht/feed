@@ -1,15 +1,15 @@
 {
     "all": {
         "pitchers": "62",
-        "batters": "210",
-        "pitches": "1942",
+        "batters": "211",
+        "pitches": "1946",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "31.8",
         "si%sinker %": "16.7",
-        "fc%cutter %": "5.1",
-        "fs%splitter %": "3.6",
-        "ch%changeup %": "10.6",
+        "fc%cutter %": "5.2",
+        "fs%splitter %": "3.5",
+        "ch%changeup %": "10.5",
         "sl%slider %": "20.9",
         "cu%curve %": "11.3",
         "max evmax exit velocity": "113.3",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "42.9",
         "brlbarrels": "20",
         "brl%barrel %": "6.4",
-        "ab": "429",
-        "avg": ".212",
-        "h": "91",
-        "1b": "63",
+        "ab": "432",
+        "avg": ".213",
+        "h": "92",
+        "1b": "64",
         "2b": "16",
         "3b": "1",
         "hr": "11",
@@ -28,7 +28,7 @@
         "bipballs in play": "312",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-04-16 19:26:01.913780"
+        "updated": "2025-04-16 19:26:11.012530"
     },
     "bos @ tb": [
         {
@@ -5609,6 +5609,21 @@
     ],
     "cle @ bal": [
         {
+            "player": "jose ramirez",
+            "game": "cle @ bal",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-04-16 19:26:09",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan mountcastle",
             "game": "cle @ bal",
             "hr/park": "",
@@ -6303,6 +6318,21 @@
     ],
     "sea @ cin": [
         {
+            "player": "jose trevino",
+            "game": "sea @ cin",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-04-16 19:26:09",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jake fraley",
             "game": "sea @ cin",
             "hr/park": "",
@@ -6967,6 +6997,21 @@
     ],
     "sf @ phi": [
         {
+            "player": "mike yastrzemski",
+            "game": "sf @ phi",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-04-16 19:25:39",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "6:45 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "rafael marchan",
             "game": "sf @ phi",
             "hr/park": "",
@@ -7233,7 +7278,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "106.4",
             "la": "-1",
             "dist": "47"
