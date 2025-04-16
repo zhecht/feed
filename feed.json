@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "32",
         "batters": "227",
-        "pitches": "1891",
+        "pitches": "1894",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "72.6",
-        "ff%fourseam fastball %": "36.5",
-        "si%sinker %": "12.2",
+        "ff%fourseam fastball %": "36.6",
+        "si%sinker %": "12.1",
         "fc%cutter %": "7.7",
         "fs%splitter %": "2.0",
         "ch%changeup %": "13.2",
-        "sl%slider %": "18.4",
-        "cu%curve %": "10.0",
+        "sl%slider %": "18.3",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "158",
-        "hh%hard hit %": "45.4",
+        "hh%hard hit %": "45.7",
         "brlbarrels": "31",
-        "brl%barrel %": "8.9",
+        "brl%barrel %": "9.0",
         "ab": "442",
         "avg": ".242",
         "h": "107",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "22",
         "so": "96",
-        "bipballs in play": "348",
+        "bipballs in play": "346",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-15 20:31:03.332293"
+        "updated": "2025-04-15 20:31:11.966470"
     },
     "bos @ tb": [
         {
@@ -3130,6 +3130,21 @@
     ],
     "sf @ phi": [
         {
+            "player": "max kepler",
+            "game": "sf @ phi",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-04-15 20:31:11",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:45 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jt realmuto",
             "game": "sf @ phi",
             "hr/park": "",
@@ -3139,7 +3154,7 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "84.4",
             "la": "44",
             "dist": "255"
@@ -3851,36 +3866,6 @@
         }
     ],
     "cle @ bal": [
-        {
-            "player": "ramon laureano",
-            "game": "cle @ bal",
-            "hr/park": "",
-            "pa": "40",
-            "dt": "2025-04-15 20:30:57",
-            "img": "https://www.mlbstatic.com/team-logos/110.svg",
-            "team": "bal",
-            "start": "7:05 PM",
-            "in": "5",
-            "result": "Flyout",
-            "evo": "92.3",
-            "la": "49",
-            "dist": "274"
-        },
-        {
-            "player": "cedric mullins",
-            "game": "cle @ bal",
-            "hr/park": "",
-            "pa": "39",
-            "dt": "2025-04-15 20:30:57",
-            "img": "https://www.mlbstatic.com/team-logos/110.svg",
-            "team": "bal",
-            "start": "7:05 PM",
-            "in": "5",
-            "result": "Single",
-            "evo": "81.8",
-            "la": "12",
-            "dist": "137"
-        },
         {
             "player": "nolan jones",
             "game": "cle @ bal",
@@ -5163,7 +5148,7 @@
         {
             "player": "andres gimenez",
             "game": "atl @ tor",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "41",
             "dt": "2025-04-15 20:28:57",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
@@ -5778,6 +5763,21 @@
     ],
     "nym @ min": [
         {
+            "player": "brandon nimmo",
+            "game": "nym @ min",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-04-15 20:31:11",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "starling marte",
             "game": "nym @ min",
             "hr/park": "",
@@ -5787,7 +5787,7 @@
             "team": "nym",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Bunt Groundout",
             "evo": "25.2",
             "la": "-33",
             "dist": "6"
