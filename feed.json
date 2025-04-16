@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "29",
-        "batters": "214",
-        "pitches": "1553",
+        "batters": "215",
+        "pitches": "1557",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "72.8",
         "ff%fourseam fastball %": "36.6",
         "si%sinker %": "12.5",
-        "fc%cutter %": "8.0",
+        "fc%cutter %": "8.1",
         "fs%splitter %": "2.0",
         "ch%changeup %": "13.5",
-        "sl%slider %": "17.7",
+        "sl%slider %": "17.6",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "131",
-        "hh%hard hit %": "47.1",
+        "hhhard hit": "132",
+        "hh%hard hit %": "47.3",
         "brlbarrels": "24",
         "brl%barrel %": "8.6",
-        "ab": "362",
-        "avg": ".224",
-        "h": "81",
+        "ab": "365",
+        "avg": ".225",
+        "h": "82",
         "1b": "52",
         "2b": "13",
-        "3b": "1",
+        "3b": "2",
         "hr": "15",
         "so": "82",
-        "bipballs in play": "278",
+        "bipballs in play": "279",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-15 20:17:37.522076"
+        "updated": "2025-04-15 20:17:45.784257"
     },
     "bos @ tb": [
         {
@@ -3357,11 +3357,11 @@
     ],
     "cle @ bal": [
         {
-            "player": "angel martinez",
+            "player": "bo naylor",
             "game": "cle @ bal",
             "hr/park": "",
-            "pa": "31",
-            "dt": "2025-04-15 20:16:26",
+            "pa": "32",
+            "dt": "2025-04-15 20:17:41",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
             "team": "cle",
             "start": "7:05 PM",
@@ -3370,6 +3370,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "angel martinez",
+            "game": "cle @ bal",
+            "hr/park": "0/30",
+            "pa": "31",
+            "dt": "2025-04-15 20:16:26",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "Triple",
+            "evo": "98.8",
+            "la": "44",
+            "dist": "329"
         },
         {
             "player": "gary sanchez",
@@ -3823,6 +3838,21 @@
         }
     ],
     "kc @ nyy": [
+        {
+            "player": "ben rice",
+            "game": "kc @ nyy",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-04-15 20:17:41",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "oswald peraza",
             "game": "kc @ nyy",
@@ -5482,6 +5512,21 @@
     ],
     "det @ mil": [
         {
+            "player": "trey sweeney",
+            "game": "det @ mil",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-04-15 20:17:12",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "javier baez",
             "game": "det @ mil",
             "hr/park": "",
@@ -5491,7 +5536,7 @@
             "team": "det",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "100.4",
             "la": "-23",
             "dist": "6"
