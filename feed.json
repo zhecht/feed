@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "35",
+        "pitchers": "36",
         "batters": "232",
-        "pitches": "2017",
+        "pitches": "2020",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "72.6",
-        "ff%fourseam fastball %": "36.1",
+        "ff%fourseam fastball %": "36.2",
         "si%sinker %": "12.6",
         "fc%cutter %": "7.6",
         "fs%splitter %": "1.9",
@@ -13,22 +13,22 @@
         "sl%slider %": "18.5",
         "cu%curve %": "10.0",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "169",
-        "hh%hard hit %": "45.9",
+        "hhhard hit": "168",
+        "hh%hard hit %": "45.8",
         "brlbarrels": "33",
         "brl%barrel %": "9.0",
-        "ab": "468",
-        "avg": ".239",
+        "ab": "470",
+        "avg": ".238",
         "h": "112",
         "1b": "71",
         "2b": "16",
         "3b": "2",
         "hr": "23",
         "so": "103",
-        "bipballs in play": "368",
+        "bipballs in play": "367",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-15 20:36:19.443540"
+        "updated": "2025-04-15 20:36:28.196900"
     },
     "bos @ tb": [
         {
@@ -3280,6 +3280,21 @@
     ],
     "sf @ phi": [
         {
+            "player": "brandon marsh",
+            "game": "sf @ phi",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-04-15 20:36:26",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:45 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alec bohm",
             "game": "sf @ phi",
             "hr/park": "",
@@ -5380,7 +5395,7 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6862,6 +6877,21 @@
     ],
     "det @ mil": [
         {
+            "player": "rhys hoskins",
+            "game": "det @ mil",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-04-15 20:36:26",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "spencer torkelson",
             "game": "det @ mil",
             "hr/park": "",
@@ -7263,10 +7293,10 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "3",
-            "result": "Flyout",
-            "evo": "105.4",
-            "la": "47",
-            "dist": "324"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "lars nootbaar",
@@ -7625,7 +7655,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "104.5",
             "la": "21",
             "dist": "349"
