@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "60",
-        "batters": "176",
-        "pitches": "1733",
+        "batters": "177",
+        "pitches": "1739",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "32.0",
@@ -14,21 +14,21 @@
         "cu%curve %": "11.4",
         "max evmax exit velocity": "113.3",
         "hhhard hit": "123",
-        "hh%hard hit %": "44.2",
+        "hh%hard hit %": "43.8",
         "brlbarrels": "19",
         "brl%barrel %": "6.8",
-        "ab": "386",
-        "avg": ".220",
-        "h": "85",
+        "ab": "387",
+        "avg": ".222",
+        "h": "86",
         "1b": "59",
         "2b": "15",
         "3b": "1",
-        "hr": "10",
-        "so": "111",
-        "bipballs in play": "278",
+        "hr": "11",
+        "so": "112",
+        "bipballs in play": "281",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-04-16 19:10:35.621462"
+        "updated": "2025-04-16 19:10:44.163476"
     },
     "bos @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "bos",
             "start": "7:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5489,6 +5489,21 @@
     ],
     "cle @ bal": [
         {
+            "player": "bo naylor",
+            "game": "cle @ bal",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-04-16 19:10:40",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:35 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "81.0",
+            "la": "1",
+            "dist": "43"
+        },
+        {
             "player": "gabriel arias",
             "game": "cle @ bal",
             "hr/park": "29/30",
@@ -5498,7 +5513,7 @@
             "team": "cle",
             "start": "6:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Home Run",
             "evo": "108.9",
             "la": "29",
             "dist": "424"
@@ -5755,10 +5770,10 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "85.1",
+            "la": "50",
+            "dist": "256"
         },
         {
             "player": "enmanuel valdez",
@@ -5982,7 +5997,7 @@
             "team": "cin",
             "start": "6:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6194,10 +6209,10 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "54.1",
+            "la": "-57",
+            "dist": "4"
         },
         {
             "player": "alek thomas",
