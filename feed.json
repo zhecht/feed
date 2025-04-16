@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "38",
-        "batters": "234",
-        "pitches": "2096",
+        "pitchers": "39",
+        "batters": "235",
+        "pitches": "2113",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "72.6",
-        "ff%fourseam fastball %": "36.1",
-        "si%sinker %": "12.9",
+        "ff%fourseam fastball %": "35.9",
+        "si%sinker %": "13.0",
         "fc%cutter %": "7.5",
-        "fs%splitter %": "1.9",
-        "ch%changeup %": "13.0",
-        "sl%slider %": "18.7",
+        "fs%splitter %": "1.8",
+        "ch%changeup %": "13.1",
+        "sl%slider %": "18.8",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "171",
-        "hh%hard hit %": "45.4",
+        "hhhard hit": "172",
+        "hh%hard hit %": "45.3",
         "brlbarrels": "33",
-        "brl%barrel %": "8.8",
-        "ab": "485",
-        "avg": ".237",
+        "brl%barrel %": "8.7",
+        "ab": "489",
+        "avg": ".235",
         "h": "115",
         "1b": "74",
         "2b": "17",
         "3b": "2",
         "hr": "22",
-        "so": "105",
-        "bipballs in play": "377",
+        "so": "107",
+        "bipballs in play": "380",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-15 20:40:25.841002"
+        "updated": "2025-04-15 20:40:34.707110"
     },
     "bos @ tb": [
+        {
+            "player": "jarren duran",
+            "game": "bos @ tb",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-04-15 20:40:28",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "carlos narvaez",
             "game": "bos @ tb",
@@ -41,7 +56,7 @@
             "team": "bos",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -763,7 +778,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1701,6 +1716,21 @@
     ],
     "sea @ cin": [
         {
+            "player": "dylan moore",
+            "game": "sea @ cin",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-04-15 20:39:57",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jp crawford",
             "game": "sea @ cin",
             "hr/park": "",
@@ -1710,7 +1740,7 @@
             "team": "sea",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2498,6 +2528,21 @@
     ],
     "ari @ mia": [
         {
+            "player": "otto lopez",
+            "game": "ari @ mia",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-04-15 20:40:28",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "64.2",
+            "la": "-16",
+            "dist": "10"
+        },
+        {
             "player": "kyle stowers",
             "game": "ari @ mia",
             "hr/park": "",
@@ -2507,10 +2552,10 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "7",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "95.2",
+            "la": "-13",
+            "dist": "7"
         },
         {
             "player": "gabriel moreno",
@@ -3354,6 +3399,21 @@
         }
     ],
     "sf @ phi": [
+        {
+            "player": "mike yastrzemski",
+            "game": "sf @ phi",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-04-15 20:40:28",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "6:45 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brandon marsh",
             "game": "sf @ phi",
@@ -6162,7 +6222,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6629,7 +6689,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7479,6 +7539,21 @@
     ],
     "hou @ stl": [
         {
+            "player": "jake meyers",
+            "game": "hou @ stl",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-04-15 20:40:28",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "7:45 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "yainer diaz",
             "game": "hou @ stl",
             "hr/park": "",
@@ -7488,10 +7563,10 @@
             "team": "hou",
             "start": "7:45 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "85.8",
+            "la": "1",
+            "dist": "48"
         },
         {
             "player": "jeremy pena",
