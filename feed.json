@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "62",
-        "batters": "214",
-        "pitches": "1982",
+        "batters": "215",
+        "pitches": "1985",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "31.8",
@@ -14,21 +14,21 @@
         "cu%curve %": "11.3",
         "max evmax exit velocity": "113.3",
         "hhhard hit": "138",
-        "hh%hard hit %": "42.9",
+        "hh%hard hit %": "42.7",
         "brlbarrels": "20",
         "brl%barrel %": "6.2",
-        "ab": "440",
+        "ab": "441",
         "avg": ".220",
         "h": "97",
         "1b": "68",
         "2b": "17",
         "3b": "1",
         "hr": "11",
-        "so": "125",
-        "bipballs in play": "322",
+        "so": "127",
+        "bipballs in play": "323",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-04-16 19:29:19.325647"
+        "updated": "2025-04-16 19:29:28.427532"
     },
     "bos @ tb": [
         {
@@ -6734,10 +6734,10 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "3",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "88.6",
+            "la": "7",
+            "dist": "115"
         },
         {
             "player": "jesus sanchez",
@@ -7081,7 +7081,7 @@
             "team": "sf",
             "start": "6:45 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7359,6 +7359,21 @@
     ],
     "kc @ nyy": [
         {
+            "player": "austin wells",
+            "game": "kc @ nyy",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-04-16 19:29:23",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "anthony volpe",
             "game": "kc @ nyy",
             "hr/park": "",
@@ -7368,7 +7383,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
