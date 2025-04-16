@@ -1,36 +1,51 @@
 {
     "all": {
         "pitchers": "64",
-        "batters": "235",
-        "pitches": "2307",
+        "batters": "236",
+        "pitches": "2314",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "70.0",
-        "ff%fourseam fastball %": "32.0",
-        "si%sinker %": "16.3",
-        "fc%cutter %": "5.6",
+        "ff%fourseam fastball %": "31.9",
+        "si%sinker %": "16.2",
+        "fc%cutter %": "5.7",
         "fs%splitter %": "4.1",
         "ch%changeup %": "9.9",
         "sl%slider %": "21.1",
         "cu%curve %": "11.0",
         "max evmax exit velocity": "114.4",
-        "hhhard hit": "171",
-        "hh%hard hit %": "43.2",
-        "brlbarrels": "27",
-        "brl%barrel %": "6.8",
-        "ab": "529",
-        "avg": ".217",
-        "h": "115",
+        "hhhard hit": "173",
+        "hh%hard hit %": "43.5",
+        "brlbarrels": "28",
+        "brl%barrel %": "7.0",
+        "ab": "533",
+        "avg": ".218",
+        "h": "116",
         "1b": "81",
         "2b": "19",
         "3b": "1",
-        "hr": "14",
+        "hr": "15",
         "so": "143",
-        "bipballs in play": "396",
+        "bipballs in play": "398",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-16 19:53:36.194386"
+        "updated": "2025-04-16 19:53:45.526559"
     },
     "bos @ tb": [
+        {
+            "player": "david hamilton",
+            "game": "bos @ tb",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-04-16 19:53:39",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "carlos narvaez",
             "game": "bos @ tb",
@@ -41,7 +56,7 @@
             "team": "bos",
             "start": "7:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "92.4",
             "la": "65",
             "dist": "162"
@@ -6430,7 +6445,7 @@
             "team": "wsh",
             "start": "6:40 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6978,6 +6993,21 @@
     ],
     "sea @ cin": [
         {
+            "player": "cal raleigh",
+            "game": "sea @ cin",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-04-16 19:53:39",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "Home Run",
+            "evo": "104.1",
+            "la": "32",
+            "dist": "412"
+        },
+        {
             "player": "jorge polanco",
             "game": "sea @ cin",
             "hr/park": "",
@@ -7489,6 +7519,21 @@
         }
     ],
     "ari @ mia": [
+        {
+            "player": "geraldo perdomo",
+            "game": "ari @ mia",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-04-16 19:53:11",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "corbin carroll",
             "game": "ari @ mia",
@@ -8026,7 +8071,7 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "3",
-            "result": "Pop Out",
+            "result": "In Progress",
             "evo": "80.3",
             "la": "71",
             "dist": "128"
@@ -8861,6 +8906,21 @@
     ],
     "ath @ chw": [
         {
+            "player": "luis robert",
+            "game": "ath @ chw",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-04-16 19:53:39",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nick maton",
             "game": "ath @ chw",
             "hr/park": "",
@@ -8870,10 +8930,10 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "97.9",
+            "la": "65",
+            "dist": "143"
         },
         {
             "player": "miguel vargas",
