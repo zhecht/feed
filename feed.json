@@ -2,13 +2,13 @@
     "all": {
         "pitchers": "121",
         "batters": "292",
-        "pitches": "4320",
+        "pitches": "4324",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "70.6",
         "ff%fourseam fastball %": "34.3",
         "si%sinker %": "13.4",
         "fc%cutter %": "8.8",
-        "fs%splitter %": "3.2",
+        "fs%splitter %": "3.3",
         "ch%changeup %": "11.0",
         "sl%slider %": "21.3",
         "cu%curve %": "7.8",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "43.5",
         "brlbarrels": "66",
         "brl%barrel %": "8.5",
-        "ab": "981",
+        "ab": "982",
         "avg": ".231",
         "h": "227",
         "1b": "144",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "32",
         "so": "230",
-        "bipballs in play": "772",
+        "bipballs in play": "773",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-04-16 00:21:05.874519"
+        "updated": "2025-04-16 00:21:17.919251"
     },
     "bos @ tb": [
         {
@@ -14473,6 +14473,21 @@
     ],
     "chc @ sd": [
         {
+            "player": "jose iglesias",
+            "game": "chc @ sd",
+            "hr/park": "",
+            "pa": "75",
+            "dt": "2025-04-16 00:21:13",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "yuli gurriel",
             "game": "chc @ sd",
             "hr/park": "",
@@ -14482,10 +14497,10 @@
             "team": "sd",
             "start": "",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "87.7",
+            "la": "-29",
+            "dist": "5"
         },
         {
             "player": "gavin sheets",
