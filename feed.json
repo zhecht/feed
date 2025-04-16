@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "41",
-        "batters": "236",
-        "pitches": "2235",
+        "batters": "237",
+        "pitches": "2240",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "72.6",
         "ff%fourseam fastball %": "35.7",
@@ -11,24 +11,24 @@
         "fs%splitter %": "1.9",
         "ch%changeup %": "12.6",
         "sl%slider %": "19.4",
-        "cu%curve %": "9.8",
+        "cu%curve %": "9.7",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "188",
-        "hh%hard hit %": "45.9",
+        "hh%hard hit %": "45.7",
         "brlbarrels": "37",
         "brl%barrel %": "9.0",
-        "ab": "517",
-        "avg": ".250",
+        "ab": "519",
+        "avg": ".249",
         "h": "129",
         "1b": "82",
         "2b": "22",
         "3b": "2",
         "hr": "23",
         "so": "113",
-        "bipballs in play": "410",
+        "bipballs in play": "411",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-15 20:46:24.166439"
+        "updated": "2025-04-15 20:46:33.038211"
     },
     "bos @ tb": [
         {
@@ -784,6 +784,21 @@
     ],
     "wsh @ pit": [
         {
+            "player": "nathaniel lowe",
+            "game": "wsh @ pit",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-04-15 20:46:26",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "keibert ruiz",
             "game": "wsh @ pit",
             "hr/park": "",
@@ -793,10 +808,10 @@
             "team": "wsh",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Field Error",
+            "evo": "93.6",
+            "la": "19",
+            "dist": "293"
         },
         {
             "player": "james wood",
@@ -2612,10 +2627,10 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "90.4",
+            "la": "16",
+            "dist": "242"
         },
         {
             "player": "graham pauley",
@@ -4356,10 +4371,10 @@
             "team": "cle",
             "start": "7:05 PM",
             "in": "6",
-            "result": "Single",
-            "evo": "83.3",
-            "la": "12",
-            "dist": "181"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "steven kwan",
@@ -7025,6 +7040,21 @@
     ],
     "ath @ chw": [
         {
+            "player": "joshua palacios",
+            "game": "ath @ chw",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-04-15 20:46:26",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "chase meidroth",
             "game": "ath @ chw",
             "hr/park": "",
@@ -7944,21 +7974,6 @@
     ],
     "hou @ stl": [
         {
-            "player": "jose altuve",
-            "game": "hou @ stl",
-            "hr/park": "",
-            "pa": "30",
-            "dt": "2025-04-15 20:46:12",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "7:45 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "mauricio dubon",
             "game": "hou @ stl",
             "hr/park": "",
@@ -8396,9 +8411,24 @@
     ],
     "laa @ tex": [
         {
-            "player": "ezequiel duran",
+            "player": "leody taveras",
             "game": "laa @ tex",
             "hr/park": "",
+            "pa": "19",
+            "dt": "2025-04-15 20:45:42",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:05 PM",
+            "in": "3",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "ezequiel duran",
+            "game": "laa @ tex",
+            "hr/park": "0/30",
             "pa": "18",
             "dt": "2025-04-15 20:43:42",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
