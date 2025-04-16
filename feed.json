@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "98",
         "batters": "262",
-        "pitches": "3620",
+        "pitches": "3623",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "72.6",
         "ff%fourseam fastball %": "34.3",
         "si%sinker %": "13.8",
-        "fc%cutter %": "9.0",
+        "fc%cutter %": "8.9",
         "fs%splitter %": "2.8",
         "ch%changeup %": "11.6",
         "sl%slider %": "20.7",
-        "cu%curve %": "7.7",
+        "cu%curve %": "7.8",
         "max evmax exit velocity": "117.4",
         "hhhard hit": "286",
         "hh%hard hit %": "44.3",
         "brlbarrels": "55",
         "brl%barrel %": "8.5",
-        "ab": "825",
+        "ab": "826",
         "avg": ".234",
         "h": "193",
         "1b": "125",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "30",
         "so": "190",
-        "bipballs in play": "645",
+        "bipballs in play": "646",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-15 21:59:10.300196"
+        "updated": "2025-04-15 21:59:20.727762"
     },
     "bos @ tb": [
         {
@@ -9072,7 +9072,7 @@
             "team": "nym",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11017,6 +11017,21 @@
     ],
     "det @ mil": [
         {
+            "player": "trey sweeney",
+            "game": "det @ mil",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-04-15 21:59:13",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "javier baez",
             "game": "det @ mil",
             "hr/park": "",
@@ -11026,10 +11041,10 @@
             "team": "det",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "88.6",
+            "la": "-6",
+            "dist": "23"
         },
         {
             "player": "garrett mitchell",
