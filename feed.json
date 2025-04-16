@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "57",
-        "batters": "142",
-        "pitches": "1602",
+        "batters": "143",
+        "pitches": "1604",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "31.4",
@@ -10,7 +10,7 @@
         "fc%cutter %": "4.8",
         "fs%splitter %": "3.2",
         "ch%changeup %": "11.3",
-        "sl%slider %": "20.0",
+        "sl%slider %": "20.1",
         "cu%curve %": "11.2",
         "max evmax exit velocity": "113.3",
         "hhhard hit": "112",
@@ -28,7 +28,7 @@
         "bipballs in play": "259",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-04-16 18:58:22.790965"
+        "updated": "2025-04-16 18:58:31.047086"
     },
     "bos @ tb": [],
     "atl @ tor": [
@@ -5443,6 +5443,21 @@
     ],
     "cle @ bal": [
         {
+            "player": "ryan mountcastle",
+            "game": "cle @ bal",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-04-16 18:57:54",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:35 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cedric mullins",
             "game": "cle @ bal",
             "hr/park": "",
@@ -5452,7 +5467,7 @@
             "team": "bal",
             "start": "6:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5604,7 +5619,7 @@
             "team": "wsh",
             "start": "6:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "85.0",
             "la": "62",
             "dist": "177"
