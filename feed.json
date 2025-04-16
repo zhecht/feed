@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "53",
         "batters": "238",
-        "pitches": "2641",
+        "pitches": "2642",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "72.6",
-        "ff%fourseam fastball %": "35.0",
+        "ff%fourseam fastball %": "35.1",
         "si%sinker %": "13.7",
-        "fc%cutter %": "8.0",
+        "fc%cutter %": "7.9",
         "fs%splitter %": "2.0",
-        "ch%changeup %": "12.2",
+        "ch%changeup %": "12.1",
         "sl%slider %": "19.9",
         "cu%curve %": "9.1",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "210",
-        "hh%hard hit %": "44.9",
+        "hh%hard hit %": "44.8",
         "brlbarrels": "44",
         "brl%barrel %": "9.4",
         "ab": "598",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "25",
         "so": "134",
-        "bipballs in play": "468",
+        "bipballs in play": "469",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-15 21:03:07.548181"
+        "updated": "2025-04-15 21:03:16.883657"
     },
     "bos @ tb": [
         {
@@ -41,10 +41,10 @@
             "team": "bos",
             "start": "7:05 PM",
             "in": "7",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "75.8",
+            "la": "-2",
+            "dist": "31"
         },
         {
             "player": "wilyer abreu",
@@ -74,7 +74,7 @@
             "result": "Home Run",
             "evo": "99.7",
             "la": "30",
-            "dist": "376"
+            "dist": "403"
         },
         {
             "player": "taylor walls",
@@ -2933,16 +2933,31 @@
     ],
     "ari @ mia": [
         {
-            "player": "matt mervis",
+            "player": "kyle stowers",
             "game": "ari @ mia",
             "hr/park": "",
+            "pa": "69",
+            "dt": "2025-04-15 21:03:12",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "matt mervis",
+            "game": "ari @ mia",
+            "hr/park": "0/30",
             "pa": "68",
             "dt": "2025-04-15 21:01:57",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
             "team": "mia",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "86.4",
             "la": "34",
             "dist": "310"
@@ -8541,21 +8556,6 @@
         }
     ],
     "det @ mil": [
-        {
-            "player": "brice turang",
-            "game": "det @ mil",
-            "hr/park": "",
-            "pa": "38",
-            "dt": "2025-04-15 21:02:58",
-            "img": "https://www.mlbstatic.com/team-logos/158.svg",
-            "team": "mil",
-            "start": "7:40 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "jackson chourio",
             "game": "det @ mil",
