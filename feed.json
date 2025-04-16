@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "78",
+        "pitchers": "79",
         "batters": "246",
-        "pitches": "3220",
+        "pitches": "3229",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "72.6",
         "ff%fourseam fastball %": "34.3",
         "si%sinker %": "13.7",
         "fc%cutter %": "8.1",
         "fs%splitter %": "2.7",
-        "ch%changeup %": "12.2",
+        "ch%changeup %": "12.1",
         "sl%slider %": "20.7",
-        "cu%curve %": "8.4",
+        "cu%curve %": "8.3",
         "max evmax exit velocity": "117.4",
-        "hhhard hit": "249",
-        "hh%hard hit %": "44.1",
+        "hhhard hit": "251",
+        "hh%hard hit %": "44.3",
         "brlbarrels": "49",
         "brl%barrel %": "8.7",
-        "ab": "731",
+        "ab": "734",
         "avg": ".230",
-        "h": "168",
+        "h": "169",
         "1b": "108",
-        "2b": "30",
+        "2b": "31",
         "3b": "3",
         "hr": "27",
-        "so": "175",
-        "bipballs in play": "564",
+        "so": "176",
+        "bipballs in play": "566",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-15 21:31:52.345425"
+        "updated": "2025-04-15 21:32:02.933289"
     },
     "bos @ tb": [
+        {
+            "player": "alex bregman",
+            "game": "bos @ tb",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-04-15 21:31:57",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:05 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "christopher morel",
             "game": "bos @ tb",
@@ -2175,7 +2190,7 @@
             "team": "cin",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7585,10 +7600,10 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "105.3",
+            "la": "-13",
+            "dist": "11"
         },
         {
             "player": "will wagner",
@@ -8562,10 +8577,10 @@
             "team": "nym",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "105.6",
+            "la": "12",
+            "dist": "238"
         },
         {
             "player": "mark vientos",
@@ -9364,6 +9379,21 @@
         }
     ],
     "ath @ chw": [
+        {
+            "player": "chase meidroth",
+            "game": "ath @ chw",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-04-15 21:31:57",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "andrew vaughn",
             "game": "ath @ chw",
@@ -11680,6 +11710,21 @@
         }
     ],
     "laa @ tex": [
+        {
+            "player": "jorge soler",
+            "game": "laa @ tex",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-04-15 21:31:57",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "8:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "mike trout",
             "game": "laa @ tex",
