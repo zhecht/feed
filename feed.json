@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "25",
-        "batters": "200",
-        "pitches": "1395",
+        "batters": "203",
+        "pitches": "1411",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "38.3",
-        "si%sinker %": "11.5",
+        "ff%fourseam fastball %": "37.9",
+        "si%sinker %": "11.8",
         "fc%cutter %": "7.8",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "13.5",
-        "sl%slider %": "16.8",
-        "cu%curve %": "10.3",
+        "ch%changeup %": "13.6",
+        "sl%slider %": "16.9",
+        "cu%curve %": "10.2",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "120",
-        "hh%hard hit %": "47.4",
+        "hhhard hit": "121",
+        "hh%hard hit %": "47.5",
         "brlbarrels": "24",
-        "brl%barrel %": "9.5",
-        "ab": "330",
-        "avg": ".230",
+        "brl%barrel %": "9.4",
+        "ab": "333",
+        "avg": ".228",
         "h": "76",
         "1b": "48",
         "2b": "12",
         "3b": "1",
         "hr": "15",
         "so": "74",
-        "bipballs in play": "253",
+        "bipballs in play": "255",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-15 20:11:07.335208"
+        "updated": "2025-04-15 20:11:15.702866"
     },
     "bos @ tb": [
         {
@@ -559,10 +559,10 @@
     ],
     "wsh @ pit": [
         {
-            "player": "bryan reynolds",
+            "player": "kebryan hayes",
             "game": "wsh @ pit",
             "hr/park": "",
-            "pa": "47",
+            "pa": "48",
             "dt": "2025-04-15 20:10:42",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
             "team": "pit",
@@ -572,6 +572,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "bryan reynolds",
+            "game": "wsh @ pit",
+            "hr/park": "0/30",
+            "pa": "47",
+            "dt": "2025-04-15 20:10:42",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "90.1",
+            "la": "30",
+            "dist": "323"
         },
         {
             "player": "oneil cruz",
@@ -1266,6 +1281,21 @@
     ],
     "sea @ cin": [
         {
+            "player": "donovan solano",
+            "game": "sea @ cin",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-04-15 20:11:11",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mitch garver",
             "game": "sea @ cin",
             "hr/park": "",
@@ -1275,7 +1305,7 @@
             "team": "sea",
             "start": "6:40 PM",
             "in": "5",
-            "result": "Stolen Base 2B",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3578,10 +3608,10 @@
             "team": "kc",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "105.3",
+            "la": "11",
+            "dist": "323"
         },
         {
             "player": "maikel garcia",
@@ -4578,6 +4608,21 @@
     ],
     "nym @ min": [
         {
+            "player": "tyrone taylor",
+            "game": "nym @ min",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-04-15 20:10:42",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "willi castro",
             "game": "nym @ min",
             "hr/park": "",
@@ -4814,7 +4859,7 @@
             "team": "ath",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5047,6 +5092,21 @@
     ],
     "det @ mil": [
         {
+            "player": "oliver dunn",
+            "game": "det @ mil",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-04-15 20:11:11",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "joey ortiz",
             "game": "det @ mil",
             "hr/park": "",
@@ -5258,6 +5318,21 @@
         }
     ],
     "hou @ stl": [
+        {
+            "player": "cam smith",
+            "game": "hou @ stl",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-04-15 20:10:12",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "7:45 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jake meyers",
             "game": "hou @ stl",
