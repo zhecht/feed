@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "45",
         "batters": "237",
-        "pitches": "2426",
+        "pitches": "2429",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "72.6",
-        "ff%fourseam fastball %": "35.0",
-        "si%sinker %": "13.8",
+        "ff%fourseam fastball %": "35.1",
+        "si%sinker %": "13.7",
         "fc%cutter %": "7.4",
         "fs%splitter %": "1.9",
         "ch%changeup %": "12.4",
         "sl%slider %": "19.9",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "197",
-        "hh%hard hit %": "45.5",
+        "hhhard hit": "198",
+        "hh%hard hit %": "45.4",
         "brlbarrels": "41",
-        "brl%barrel %": "9.5",
+        "brl%barrel %": "9.4",
         "ab": "552",
-        "avg": ".245",
-        "h": "135",
-        "1b": "85",
+        "avg": ".246",
+        "h": "136",
+        "1b": "86",
         "2b": "23",
         "3b": "3",
         "hr": "24",
-        "so": "121",
-        "bipballs in play": "433",
+        "so": "122",
+        "bipballs in play": "436",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-15 20:53:25.506256"
+        "updated": "2025-04-15 20:53:34.821494"
     },
     "bos @ tb": [
         {
@@ -1920,10 +1920,10 @@
             "team": "cin",
             "start": "6:40 PM",
             "in": "6",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "79.1",
+            "la": "-18",
+            "dist": "9"
         },
         {
             "player": "jose trevino",
@@ -4626,7 +4626,7 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8002,21 +8002,6 @@
     ],
     "det @ mil": [
         {
-            "player": "zach mckinstry",
-            "game": "det @ mil",
-            "hr/park": "",
-            "pa": "34",
-            "dt": "2025-04-15 20:53:13",
-            "img": "https://www.mlbstatic.com/team-logos/116.svg",
-            "team": "det",
-            "start": "7:40 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "dillon dingler",
             "game": "det @ mil",
             "hr/park": "0/30",
@@ -8514,6 +8499,21 @@
     ],
     "hou @ stl": [
         {
+            "player": "alec burleson",
+            "game": "hou @ stl",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-04-15 20:53:28",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "4",
+            "result": "Single",
+            "evo": "106.4",
+            "la": "3",
+            "dist": "78"
+        },
+        {
             "player": "nolan arenado",
             "game": "hou @ stl",
             "hr/park": "",
@@ -8523,10 +8523,10 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "69.9",
+            "la": "-2",
+            "dist": "24"
         },
         {
             "player": "brendan donovan",
