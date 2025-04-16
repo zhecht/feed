@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "62",
-        "batters": "227",
-        "pitches": "2126",
+        "batters": "228",
+        "pitches": "2132",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "32.1",
@@ -10,25 +10,25 @@
         "fc%cutter %": "5.4",
         "fs%splitter %": "3.8",
         "ch%changeup %": "10.2",
-        "sl%slider %": "20.9",
+        "sl%slider %": "21.0",
         "cu%curve %": "11.3",
         "max evmax exit velocity": "113.3",
         "hhhard hit": "151",
-        "hh%hard hit %": "42.5",
+        "hh%hard hit %": "42.4",
         "brlbarrels": "23",
         "brl%barrel %": "6.5",
-        "ab": "481",
-        "avg": ".216",
+        "ab": "483",
+        "avg": ".215",
         "h": "104",
         "1b": "73",
         "2b": "17",
         "3b": "1",
         "hr": "13",
-        "so": "135",
-        "bipballs in play": "355",
+        "so": "136",
+        "bipballs in play": "356",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-16 19:41:07.066436"
+        "updated": "2025-04-16 19:41:16.163165"
     },
     "bos @ tb": [
         {
@@ -42,9 +42,9 @@
             "start": "7:05 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "93.9",
+            "la": "-15",
+            "dist": "8"
         },
         {
             "player": "rafael devers",
@@ -6213,7 +6213,7 @@
         {
             "player": "amed rosario",
             "game": "wsh @ pit",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "31",
             "dt": "2025-04-16 19:38:55",
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
@@ -7115,6 +7115,21 @@
     ],
     "ari @ mia": [
         {
+            "player": "otto lopez",
+            "game": "ari @ mia",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-04-16 19:41:09",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "matt mervis",
             "game": "ari @ mia",
             "hr/park": "30/30",
@@ -7546,7 +7561,7 @@
             "team": "sf",
             "start": "6:45 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7914,6 +7929,21 @@
     ],
     "kc @ nyy": [
         {
+            "player": "oswald peraza",
+            "game": "kc @ nyy",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-04-16 19:41:09",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jasson dominguez",
             "game": "kc @ nyy",
             "hr/park": "",
@@ -7923,7 +7953,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
