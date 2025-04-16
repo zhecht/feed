@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "31",
+        "pitchers": "32",
         "batters": "226",
-        "pitches": "1818",
+        "pitches": "1827",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "72.6",
         "ff%fourseam fastball %": "36.6",
-        "si%sinker %": "12.2",
-        "fc%cutter %": "7.5",
+        "si%sinker %": "12.0",
+        "fc%cutter %": "7.6",
         "fs%splitter %": "2.1",
-        "ch%changeup %": "13.4",
-        "sl%slider %": "18.2",
+        "ch%changeup %": "13.5",
+        "sl%slider %": "18.1",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "153",
-        "hh%hard hit %": "45.9",
-        "brlbarrels": "30",
-        "brl%barrel %": "9.0",
-        "ab": "423",
-        "avg": ".243",
-        "h": "103",
-        "1b": "65",
-        "2b": "15",
+        "hhhard hit": "157",
+        "hh%hard hit %": "46.6",
+        "brlbarrels": "31",
+        "brl%barrel %": "9.2",
+        "ab": "428",
+        "avg": ".248",
+        "h": "106",
+        "1b": "66",
+        "2b": "16",
         "3b": "2",
-        "hr": "21",
-        "so": "89",
-        "bipballs in play": "333",
+        "hr": "22",
+        "so": "90",
+        "bipballs in play": "337",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-15 20:28:25.628124"
+        "updated": "2025-04-15 20:28:34.358304"
     },
     "bos @ tb": [
+        {
+            "player": "ben rortvedt",
+            "game": "bos @ tb",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-04-15 20:27:56",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "taylor walls",
             "game": "bos @ tb",
@@ -41,10 +56,10 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "93.4",
+            "la": "6",
+            "dist": "123"
         },
         {
             "player": "ceddanne rafaela",
@@ -678,6 +693,36 @@
         }
     ],
     "wsh @ pit": [
+        {
+            "player": "luis garcia",
+            "game": "wsh @ pit",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-04-15 20:28:28",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "Double",
+            "evo": "102.2",
+            "la": "12",
+            "dist": "209"
+        },
+        {
+            "player": "josh bell",
+            "game": "wsh @ pit",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-04-15 20:27:42",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "adam frazier",
             "game": "wsh @ pit",
@@ -2243,6 +2288,21 @@
     ],
     "ari @ mia": [
         {
+            "player": "eric wagaman",
+            "game": "ari @ mia",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-04-15 20:28:28",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "102.9",
+            "la": "32",
+            "dist": "384"
+        },
+        {
             "player": "jesus sanchez",
             "game": "ari @ mia",
             "hr/park": "",
@@ -2252,10 +2312,10 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Groundout",
+            "evo": "106.1",
             "la": "",
-            "dist": ""
+            "dist": "53"
         },
         {
             "player": "josh naylor",
@@ -3009,6 +3069,21 @@
         }
     ],
     "sf @ phi": [
+        {
+            "player": "jt realmuto",
+            "game": "sf @ phi",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-04-15 20:28:28",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:45 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "nick castellanos",
             "game": "sf @ phi",
@@ -4953,7 +5028,7 @@
         {
             "player": "anthony santander",
             "game": "atl @ tor",
-            "hr/park": "",
+            "hr/park": "30/30",
             "pa": "40",
             "dt": "2025-04-15 20:27:56",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
@@ -5553,6 +5628,21 @@
     ],
     "nym @ min": [
         {
+            "player": "juan soto",
+            "game": "nym @ min",
+            "hr/park": "25/30",
+            "pa": "25",
+            "dt": "2025-04-15 20:28:28",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "Home Run",
+            "evo": "98.7",
+            "la": "37",
+            "dist": "351"
+        },
+        {
             "player": "carlos correa",
             "game": "nym @ min",
             "hr/park": "",
@@ -5915,21 +6005,6 @@
     ],
     "ath @ chw": [
         {
-            "player": "jj bleday",
-            "game": "ath @ chw",
-            "hr/park": "",
-            "pa": "23",
-            "dt": "2025-04-15 20:28:12",
-            "img": "https://www.mlbstatic.com/team-logos/133.svg",
-            "team": "ath",
-            "start": "7:40 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "shea langeliers",
             "game": "ath @ chw",
             "hr/park": "30/30",
@@ -6272,9 +6347,9 @@
             "start": "7:40 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "86.0",
-            "la": "-3",
-            "dist": "21"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "william contreras",
