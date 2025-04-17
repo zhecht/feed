@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "85",
         "batters": "264",
-        "pitches": "3105",
+        "pitches": "3115",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "70.0",
-        "ff%fourseam fastball %": "31.0",
-        "si%sinker %": "16.6",
-        "fc%cutter %": "6.0",
+        "ff%fourseam fastball %": "30.9",
+        "si%sinker %": "16.7",
+        "fc%cutter %": "5.9",
         "fs%splitter %": "4.1",
         "ch%changeup %": "10.1",
         "sl%slider %": "21.4",
-        "cu%curve %": "10.8",
+        "cu%curve %": "10.9",
         "max evmax exit velocity": "114.4",
         "hhhard hit": "231",
-        "hh%hard hit %": "43.5",
+        "hh%hard hit %": "43.4",
         "brlbarrels": "44",
         "brl%barrel %": "8.3",
-        "ab": "710",
+        "ab": "711",
         "avg": ".228",
         "h": "162",
         "1b": "110",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "22",
         "so": "189",
-        "bipballs in play": "531",
+        "bipballs in play": "532",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-16 20:46:52.309998"
+        "updated": "2025-04-16 20:47:02.463545"
     },
     "bos @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "bos",
             "start": "7:05 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7066,6 +7066,21 @@
     ],
     "wsh @ pit": [
         {
+            "player": "isiah kiner falefa",
+            "game": "wsh @ pit",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-04-16 20:46:55",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jared triolo",
             "game": "wsh @ pit",
             "hr/park": "",
@@ -8789,10 +8804,10 @@
             "team": "ari",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "65.6",
+            "la": "-43",
+            "dist": "3"
         },
         {
             "player": "geraldo perdomo",
