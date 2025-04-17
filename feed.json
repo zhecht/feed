@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "75",
-        "batters": "255",
-        "pitches": "2840",
+        "batters": "256",
+        "pitches": "2842",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "31.5",
@@ -10,14 +10,14 @@
         "fc%cutter %": "6.0",
         "fs%splitter %": "4.2",
         "ch%changeup %": "10.2",
-        "sl%slider %": "21.4",
+        "sl%slider %": "21.5",
         "cu%curve %": "10.5",
         "max evmax exit velocity": "114.4",
         "hhhard hit": "217",
         "hh%hard hit %": "43.8",
         "brlbarrels": "39",
         "brl%barrel %": "7.9",
-        "ab": "661",
+        "ab": "660",
         "avg": ".227",
         "h": "150",
         "1b": "104",
@@ -28,7 +28,7 @@
         "bipballs in play": "495",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-16 20:29:52.648596"
+        "updated": "2025-04-16 20:30:02.804398"
     },
     "bos @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "bos",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6880,7 +6880,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "7",
-            "result": "Ejection",
+            "result": "Game Advisory",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8389,21 +8389,6 @@
         }
     ],
     "ari @ mia": [
-        {
-            "player": "corbin carroll",
-            "game": "ari @ mia",
-            "hr/park": "",
-            "pa": "53",
-            "dt": "2025-04-16 20:29:09",
-            "img": "https://www.mlbstatic.com/team-logos/109.svg",
-            "team": "ari",
-            "start": "6:40 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "tim tawa",
             "game": "ari @ mia",
@@ -9954,21 +9939,6 @@
     ],
     "kc @ nyy": [
         {
-            "player": "vinnie pasquantino",
-            "game": "kc @ nyy",
-            "hr/park": "",
-            "pa": "46",
-            "dt": "2025-04-16 20:29:40",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "start": "7:05 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "trent grisham",
             "game": "kc @ nyy",
             "hr/park": "",
@@ -10630,6 +10600,21 @@
         }
     ],
     "ath @ chw": [
+        {
+            "player": "omar narvaez",
+            "game": "ath @ chw",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-04-16 20:29:56",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "lenyn sosa",
             "game": "ath @ chw",
