@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "75",
-        "batters": "255",
-        "pitches": "2848",
+        "batters": "257",
+        "pitches": "2855",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "31.5",
@@ -11,24 +11,24 @@
         "fs%splitter %": "4.2",
         "ch%changeup %": "10.2",
         "sl%slider %": "21.5",
-        "cu%curve %": "10.6",
+        "cu%curve %": "10.5",
         "max evmax exit velocity": "114.4",
         "hhhard hit": "217",
         "hh%hard hit %": "43.8",
         "brlbarrels": "39",
         "brl%barrel %": "7.9",
-        "ab": "661",
+        "ab": "662",
         "avg": ".227",
         "h": "150",
         "1b": "104",
         "2b": "25",
         "3b": "2",
         "hr": "19",
-        "so": "173",
+        "so": "174",
         "bipballs in play": "495",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-16 20:30:13.898580"
+        "updated": "2025-04-16 20:30:24.097474"
     },
     "bos @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "bos",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6098,7 +6098,7 @@
             "team": "cle",
             "start": "6:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10631,6 +10631,21 @@
     ],
     "ath @ chw": [
         {
+            "player": "omar narvaez",
+            "game": "ath @ chw",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-04-16 20:29:56",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "lenyn sosa",
             "game": "ath @ chw",
             "hr/park": "",
@@ -10948,6 +10963,21 @@
     ],
     "laa @ tex": [
         {
+            "player": "kyren paris",
+            "game": "laa @ tex",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-04-16 20:30:24",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "8:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nolan schanuel",
             "game": "laa @ tex",
             "hr/park": "",
@@ -10957,7 +10987,7 @@
             "team": "laa",
             "start": "8:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
