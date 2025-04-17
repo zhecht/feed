@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "67",
-        "batters": "243",
-        "pitches": "2591",
+        "batters": "245",
+        "pitches": "2600",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "32.0",
@@ -14,21 +14,21 @@
         "cu%curve %": "10.6",
         "max evmax exit velocity": "114.4",
         "hhhard hit": "195",
-        "hh%hard hit %": "43.7",
+        "hh%hard hit %": "43.5",
         "brlbarrels": "34",
         "brl%barrel %": "7.6",
-        "ab": "594",
-        "avg": ".226",
+        "ab": "596",
+        "avg": ".225",
         "h": "134",
         "1b": "94",
         "2b": "22",
         "3b": "1",
         "hr": "17",
         "so": "157",
-        "bipballs in play": "446",
+        "bipballs in play": "448",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-16 20:13:51.710576"
+        "updated": "2025-04-16 20:14:01.647597"
     },
     "bos @ tb": [
         {
@@ -5993,7 +5993,7 @@
             "team": "bal",
             "start": "6:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6670,10 +6670,10 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "90.7",
+            "la": "1",
+            "dist": "50"
         },
         {
             "player": "tommy pham",
@@ -7940,6 +7940,21 @@
     ],
     "ari @ mia": [
         {
+            "player": "otto lopez",
+            "game": "ari @ mia",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-04-16 20:13:54",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "matt mervis",
             "game": "ari @ mia",
             "hr/park": "",
@@ -7949,7 +7964,7 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "93.9",
             "la": "63",
             "dist": "190"
@@ -9791,6 +9806,21 @@
     ],
     "ath @ chw": [
         {
+            "player": "joshua palacios",
+            "game": "ath @ chw",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-04-16 20:13:55",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andrew vaughn",
             "game": "ath @ chw",
             "hr/park": "",
@@ -10003,6 +10033,21 @@
     ],
     "laa @ tex": [
         {
+            "player": "mike trout",
+            "game": "laa @ tex",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-04-16 20:13:55",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "8:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis rengifo",
             "game": "laa @ tex",
             "hr/park": "",
@@ -10012,10 +10057,10 @@
             "team": "laa",
             "start": "8:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "62.7",
+            "la": "-25",
+            "dist": "8"
         },
         {
             "player": "taylor ward",
