@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "85",
-        "batters": "264",
-        "pitches": "3141",
+        "batters": "265",
+        "pitches": "3146",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "30.9",
@@ -10,8 +10,8 @@
         "fc%cutter %": "5.9",
         "fs%splitter %": "4.0",
         "ch%changeup %": "10.1",
-        "sl%slider %": "21.6",
-        "cu%curve %": "10.9",
+        "sl%slider %": "21.5",
+        "cu%curve %": "10.8",
         "max evmax exit velocity": "114.4",
         "hhhard hit": "232",
         "hh%hard hit %": "43.3",
@@ -28,7 +28,7 @@
         "bipballs in play": "536",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-16 20:48:44.063627"
+        "updated": "2025-04-16 20:48:54.479721"
     },
     "bos @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "bos",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7081,6 +7081,21 @@
     ],
     "wsh @ pit": [
         {
+            "player": "adam frazier",
+            "game": "wsh @ pit",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-04-16 20:48:54",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "isiah kiner falefa",
             "game": "wsh @ pit",
             "hr/park": "",
@@ -8834,7 +8849,7 @@
             "team": "ari",
             "start": "6:40 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
