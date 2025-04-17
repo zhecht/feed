@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "110",
+        "pitchers": "109",
         "batters": "278",
-        "pitches": "3605",
+        "pitches": "3610",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "64.2",
         "ff%fourseam fastball %": "30.2",
@@ -14,7 +14,7 @@
         "cu%curve %": "10.3",
         "max evmax exit velocity": "114.4",
         "hhhard hit": "271",
-        "hh%hard hit %": "42.9",
+        "hh%hard hit %": "42.8",
         "brlbarrels": "57",
         "brl%barrel %": "9.0",
         "ab": "832",
@@ -24,11 +24,11 @@
         "2b": "35",
         "3b": "2",
         "hr": "25",
-        "so": "213",
-        "bipballs in play": "632",
+        "so": "215",
+        "bipballs in play": "633",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-16 21:22:44.073657"
+        "updated": "2025-04-16 21:22:55.177765"
     },
     "bos @ tb": [
         {
@@ -6458,7 +6458,7 @@
             "team": "cle",
             "start": "6:35 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8492,21 +8492,6 @@
         }
     ],
     "sea @ cin": [
-        {
-            "player": "spencer steer",
-            "game": "sea @ cin",
-            "hr/park": "",
-            "pa": "74",
-            "dt": "2025-04-16 21:22:40",
-            "img": "https://www.mlbstatic.com/team-logos/113.svg",
-            "team": "cin",
-            "start": "6:40 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "luke raley",
             "game": "sea @ cin",
@@ -11889,6 +11874,21 @@
     ],
     "kc @ nyy": [
         {
+            "player": "jasson dominguez",
+            "game": "kc @ nyy",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-04-16 21:22:55",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trent grisham",
             "game": "kc @ nyy",
             "hr/park": "",
@@ -11898,7 +11898,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12845,7 +12845,7 @@
             "team": "ath",
             "start": "7:40 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -13522,10 +13522,10 @@
             "team": "laa",
             "start": "8:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "85.8",
+            "la": "-8",
+            "dist": "16"
         },
         {
             "player": "travis darnaud",
