@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "68",
         "batters": "249",
-        "pitches": "2692",
+        "pitches": "2694",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "32.0",
@@ -10,7 +10,7 @@
         "fc%cutter %": "5.8",
         "fs%splitter %": "4.2",
         "ch%changeup %": "10.1",
-        "sl%slider %": "21.0",
+        "sl%slider %": "20.9",
         "cu%curve %": "10.7",
         "max evmax exit velocity": "114.4",
         "hhhard hit": "204",
@@ -18,17 +18,17 @@
         "brlbarrels": "36",
         "brl%barrel %": "7.7",
         "ab": "620",
-        "avg": ".224",
-        "h": "139",
-        "1b": "97",
+        "avg": ".226",
+        "h": "140",
+        "1b": "98",
         "2b": "23",
         "3b": "2",
         "hr": "17",
-        "so": "161",
+        "so": "162",
         "bipballs in play": "468",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-16 20:20:17.158063"
+        "updated": "2025-04-16 20:20:27.377943"
     },
     "bos @ tb": [
         {
@@ -6046,7 +6046,7 @@
         {
             "player": "heston kjerstad",
             "game": "cle @ bal",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "48",
             "dt": "2025-04-16 20:18:41",
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
@@ -7442,21 +7442,6 @@
         }
     ],
     "sea @ cin": [
-        {
-            "player": "julio rodriguez",
-            "game": "sea @ cin",
-            "hr/park": "",
-            "pa": "46",
-            "dt": "2025-04-16 20:20:10",
-            "img": "https://www.mlbstatic.com/team-logos/136.svg",
-            "team": "sea",
-            "start": "6:40 PM",
-            "in": "6",
-            "result": "Mound Visit",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "jp crawford",
             "game": "sea @ cin",
@@ -8857,6 +8842,21 @@
     ],
     "sf @ phi": [
         {
+            "player": "heliot ramos",
+            "game": "sf @ phi",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-04-16 20:20:23",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "6:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "matt chapman",
             "game": "sf @ phi",
             "hr/park": "",
@@ -8866,7 +8866,7 @@
             "team": "sf",
             "start": "6:45 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "76.0",
             "la": "23",
             "dist": "240"
@@ -10130,7 +10130,7 @@
             "team": "ath",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
