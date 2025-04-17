@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "98",
-        "batters": "274",
-        "pitches": "3412",
+        "pitchers": "99",
+        "batters": "275",
+        "pitches": "3419",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "64.2",
-        "ff%fourseam fastball %": "30.5",
+        "ff%fourseam fastball %": "30.6",
         "si%sinker %": "16.9",
         "fc%cutter %": "6.4",
-        "fs%splitter %": "4.0",
-        "ch%changeup %": "9.9",
+        "fs%splitter %": "3.9",
+        "ch%changeup %": "10.0",
         "sl%slider %": "21.7",
         "cu%curve %": "10.6",
         "max evmax exit velocity": "114.4",
-        "hhhard hit": "254",
+        "hhhard hit": "255",
         "hh%hard hit %": "43.1",
         "brlbarrels": "51",
-        "brl%barrel %": "8.7",
-        "ab": "779",
+        "brl%barrel %": "8.6",
+        "ab": "782",
         "avg": ".237",
         "h": "185",
         "1b": "123",
@@ -25,12 +25,27 @@
         "3b": "2",
         "hr": "25",
         "so": "206",
-        "bipballs in play": "589",
+        "bipballs in play": "592",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-16 21:07:58.685237"
+        "updated": "2025-04-16 21:08:09.387723"
     },
     "bos @ tb": [
+        {
+            "player": "taylor walls",
+            "game": "bos @ tb",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-04-16 21:08:09",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jake mangum",
             "game": "bos @ tb",
@@ -8283,6 +8298,21 @@
     ],
     "sea @ cin": [
         {
+            "player": "mitch garver",
+            "game": "sea @ cin",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-04-16 21:08:09",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "julio rodriguez",
             "game": "sea @ cin",
             "hr/park": "",
@@ -9274,6 +9304,21 @@
         }
     ],
     "ari @ mia": [
+        {
+            "player": "liam hicks",
+            "game": "ari @ mia",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-04-16 21:08:09",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "98.9",
+            "la": "41",
+            "dist": "349"
+        },
         {
             "player": "javier sanoja",
             "game": "ari @ mia",
@@ -12772,10 +12817,10 @@
             "team": "laa",
             "start": "8:05 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "87.7",
+            "la": "-2",
+            "dist": "36"
         },
         {
             "player": "mike trout",
