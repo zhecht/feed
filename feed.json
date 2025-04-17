@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "11",
-        "batters": "56",
-        "pitches": "578",
+        "pitchers": "12",
+        "batters": "57",
+        "pitches": "582",
         "max velomax pitch velocity": "97.1",
         "min velomin pitch velocity": "69.5",
         "ff%fourseam fastball %": "24.7",
-        "si%sinker %": "22.3",
-        "fc%cutter %": "5.9",
+        "si%sinker %": "22.2",
+        "fc%cutter %": "6.0",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "17.1",
-        "sl%slider %": "22.8",
+        "ch%changeup %": "17.0",
+        "sl%slider %": "23.0",
         "cu%curve %": "6.4",
         "max evmax exit velocity": "114.5",
-        "hhhard hit": "35",
-        "hh%hard hit %": "36.1",
+        "hhhard hit": "36",
+        "hh%hard hit %": "36.0",
         "brlbarrels": "10",
-        "brl%barrel %": "10.3",
-        "ab": "133",
-        "avg": ".256",
-        "h": "34",
+        "brl%barrel %": "10.0",
+        "ab": "134",
+        "avg": ".261",
+        "h": "35",
         "1b": "25",
-        "2b": "4",
+        "2b": "5",
         "3b": "0",
         "hr": "5",
         "so": "36",
-        "bipballs in play": "97",
+        "bipballs in play": "100",
         "liveGames": 4,
         "totGames": 10,
-        "updated": "2025-04-17 14:11:31.788293"
+        "updated": "2025-04-17 14:11:39.024526"
     },
     "nyy @ tb": [],
     "ari @ mia": [
@@ -43,9 +43,9 @@
             "start": "12:10 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "87.2",
+            "la": "63",
+            "dist": "169"
         },
         {
             "player": "josh naylor",
@@ -914,10 +914,10 @@
             "team": "pit",
             "start": "12:35 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "76.0",
+            "la": "-28",
+            "dist": "4"
         },
         {
             "player": "enmanuel valdez",
@@ -2287,7 +2287,23 @@
             "dist": ""
         }
     ],
-    "ath @ chw": [],
+    "ath @ chw": [
+        {
+            "player": "lawrence butler",
+            "game": "ath @ chw",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-04-17 14:11:37",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "2:10 PM",
+            "in": "1",
+            "result": "Double",
+            "evo": "105.4",
+            "la": "-22",
+            "dist": "8"
+        }
+    ],
     "sf @ phi": [],
     "cle @ bal": [],
     "kc @ det": [],
