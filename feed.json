@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "105",
+        "pitchers": "106",
         "batters": "278",
-        "pitches": "3549",
+        "pitches": "3558",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "64.2",
         "ff%fourseam fastball %": "30.2",
-        "si%sinker %": "16.8",
+        "si%sinker %": "16.9",
         "fc%cutter %": "6.4",
         "fs%splitter %": "4.2",
         "ch%changeup %": "10.2",
         "sl%slider %": "21.8",
-        "cu%curve %": "10.4",
+        "cu%curve %": "10.3",
         "max evmax exit velocity": "114.4",
-        "hhhard hit": "267",
-        "hh%hard hit %": "42.8",
-        "brlbarrels": "54",
-        "brl%barrel %": "8.7",
-        "ab": "817",
+        "hhhard hit": "268",
+        "hh%hard hit %": "42.7",
+        "brlbarrels": "55",
+        "brl%barrel %": "8.8",
+        "ab": "819",
         "avg": ".236",
         "h": "193",
         "1b": "131",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "25",
         "so": "211",
-        "bipballs in play": "624",
+        "bipballs in play": "627",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-16 21:19:36.268891"
+        "updated": "2025-04-16 21:19:47.030040"
     },
     "bos @ tb": [
         {
@@ -6404,6 +6404,21 @@
     ],
     "cle @ bal": [
         {
+            "player": "gabriel arias",
+            "game": "cle @ bal",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-04-16 21:19:39",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:35 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jackson holliday",
             "game": "cle @ bal",
             "hr/park": "",
@@ -8413,9 +8428,9 @@
             "start": "6:40 PM",
             "in": "9",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "81.5",
+            "la": "-29",
+            "dist": "5"
         },
         {
             "player": "cal raleigh",
@@ -9484,6 +9499,21 @@
         }
     ],
     "ari @ mia": [
+        {
+            "player": "graham pauley",
+            "game": "ari @ mia",
+            "hr/park": "",
+            "pa": "75",
+            "dt": "2025-04-16 21:19:39",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "Flyout",
+            "evo": "91.4",
+            "la": "33",
+            "dist": "316"
+        },
         {
             "player": "derek hill",
             "game": "ari @ mia",
@@ -10597,6 +10627,21 @@
     ],
     "sf @ phi": [
         {
+            "player": "heliot ramos",
+            "game": "sf @ phi",
+            "hr/park": "",
+            "pa": "75",
+            "dt": "2025-04-16 21:19:39",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "6:45 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "102.8",
+            "la": "26",
+            "dist": "367"
+        },
+        {
             "player": "matt chapman",
             "game": "sf @ phi",
             "hr/park": "",
@@ -10606,7 +10651,7 @@
             "team": "sf",
             "start": "6:45 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
