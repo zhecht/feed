@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "103",
         "batters": "278",
-        "pitches": "3526",
+        "pitches": "3531",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "64.2",
         "ff%fourseam fastball %": "30.2",
         "si%sinker %": "16.8",
         "fc%cutter %": "6.5",
-        "fs%splitter %": "4.0",
-        "ch%changeup %": "10.2",
+        "fs%splitter %": "4.1",
+        "ch%changeup %": "10.1",
         "sl%slider %": "21.9",
         "cu%curve %": "10.4",
         "max evmax exit velocity": "114.4",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "42.6",
         "brlbarrels": "52",
         "brl%barrel %": "8.4",
-        "ab": "812",
-        "avg": ".236",
-        "h": "192",
-        "1b": "130",
+        "ab": "814",
+        "avg": ".237",
+        "h": "193",
+        "1b": "131",
         "2b": "35",
         "3b": "2",
         "hr": "25",
         "so": "210",
-        "bipballs in play": "619",
+        "bipballs in play": "620",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-16 21:17:23.997957"
+        "updated": "2025-04-16 21:17:35.074342"
     },
     "bos @ tb": [
         {
@@ -8403,6 +8403,21 @@
     ],
     "sea @ cin": [
         {
+            "player": "cal raleigh",
+            "game": "sea @ cin",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-04-16 21:17:27",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "santiago espinal",
             "game": "sea @ cin",
             "hr/park": "",
@@ -11649,6 +11664,21 @@
     ],
     "kc @ nyy": [
         {
+            "player": "bobby witt",
+            "game": "kc @ nyy",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-04-16 21:17:27",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jonathan india",
             "game": "kc @ nyy",
             "hr/park": "",
@@ -11658,10 +11688,10 @@
             "team": "kc",
             "start": "7:05 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "64.4",
+            "la": "29",
+            "dist": "197"
         },
         {
             "player": "kyle isbel",
@@ -12575,7 +12605,7 @@
             "team": "ath",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "83.3",
             "la": "13",
             "dist": "196"
