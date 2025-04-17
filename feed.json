@@ -1,17 +1,17 @@
 {
     "all": {
-        "pitchers": "2",
-        "batters": "12",
-        "pitches": "53",
+        "pitchers": "3",
+        "batters": "13",
+        "pitches": "58",
         "max velomax pitch velocity": "97.1",
         "min velomin pitch velocity": "81.0",
-        "ff%fourseam fastball %": "39.6",
-        "si%sinker %": "3.8",
-        "fc%cutter %": "3.8",
+        "ff%fourseam fastball %": "37.9",
+        "si%sinker %": "5.2",
+        "fc%cutter %": "3.4",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "20.8",
-        "sl%slider %": "13.2",
-        "cu%curve %": "18.9",
+        "ch%changeup %": "22.4",
+        "sl%slider %": "13.8",
+        "cu%curve %": "17.2",
         "max evmax exit velocity": "101.4",
         "hhhard hit": "2",
         "hh%hard hit %": "33.3",
@@ -28,7 +28,7 @@
         "bipballs in play": "6",
         "liveGames": 2,
         "totGames": 10,
-        "updated": "2025-04-17 12:37:46.023736"
+        "updated": "2025-04-17 12:37:53.056516"
     },
     "nyy @ tb": [],
     "ari @ mia": [
@@ -42,7 +42,7 @@
             "team": "ari",
             "start": "12:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -213,7 +213,23 @@
             "dist": ""
         }
     ],
-    "wsh @ pit": [],
+    "wsh @ pit": [
+        {
+            "player": "alex call",
+            "game": "wsh @ pit",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-04-17 12:37:51",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "12:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "sea @ cin": [],
     "ath @ chw": [],
     "sf @ phi": [],
