@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "81",
         "batters": "262",
-        "pitches": "3020",
+        "pitches": "3026",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "31.0",
-        "si%sinker %": "16.5",
+        "si%sinker %": "16.6",
         "fc%cutter %": "6.0",
         "fs%splitter %": "4.2",
         "ch%changeup %": "9.9",
@@ -14,7 +14,7 @@
         "cu%curve %": "10.8",
         "max evmax exit velocity": "114.4",
         "hhhard hit": "228",
-        "hh%hard hit %": "44.1",
+        "hh%hard hit %": "44.0",
         "brlbarrels": "44",
         "brl%barrel %": "8.5",
         "ab": "691",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "22",
         "so": "185",
-        "bipballs in play": "517",
+        "bipballs in play": "518",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-16 20:41:37.409291"
+        "updated": "2025-04-16 20:41:47.482035"
     },
     "bos @ tb": [
         {
@@ -10314,6 +10314,21 @@
     ],
     "kc @ nyy": [
         {
+            "player": "jasson dominguez",
+            "game": "kc @ nyy",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-04-16 20:41:40",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mj melendez",
             "game": "kc @ nyy",
             "hr/park": "",
@@ -11045,10 +11060,10 @@
             "team": "ath",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "79.4",
+            "la": "-24",
+            "dist": "7"
         },
         {
             "player": "jj bleday",
@@ -11452,7 +11467,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
