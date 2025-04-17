@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "97",
+        "pitchers": "98",
         "batters": "274",
-        "pitches": "3405",
+        "pitches": "3412",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "64.2",
         "ff%fourseam fastball %": "30.5",
@@ -10,25 +10,25 @@
         "fc%cutter %": "6.4",
         "fs%splitter %": "4.0",
         "ch%changeup %": "9.9",
-        "sl%slider %": "21.6",
+        "sl%slider %": "21.7",
         "cu%curve %": "10.6",
         "max evmax exit velocity": "114.4",
-        "hhhard hit": "252",
-        "hh%hard hit %": "43.0",
+        "hhhard hit": "254",
+        "hh%hard hit %": "43.1",
         "brlbarrels": "51",
         "brl%barrel %": "8.7",
-        "ab": "776",
-        "avg": ".238",
+        "ab": "779",
+        "avg": ".237",
         "h": "185",
         "1b": "123",
         "2b": "35",
         "3b": "2",
         "hr": "25",
-        "so": "205",
-        "bipballs in play": "586",
+        "so": "206",
+        "bipballs in play": "589",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-16 21:07:37.001468"
+        "updated": "2025-04-16 21:07:47.772505"
     },
     "bos @ tb": [
         {
@@ -41,10 +41,10 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "98.1",
+            "la": "4",
+            "dist": "104"
         },
         {
             "player": "wilyer abreu",
@@ -6314,6 +6314,21 @@
     ],
     "cle @ bal": [
         {
+            "player": "heston kjerstad",
+            "game": "cle @ bal",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-04-16 21:07:40",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:35 PM",
+            "in": "8",
+            "result": "Wild Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan mountcastle",
             "game": "cle @ bal",
             "hr/park": "",
@@ -9269,7 +9284,7 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10281,6 +10296,21 @@
         }
     ],
     "sf @ phi": [
+        {
+            "player": "willy adames",
+            "game": "sf @ phi",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-04-16 21:07:40",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "6:45 PM",
+            "in": "7",
+            "result": "Flyout",
+            "evo": "100.9",
+            "la": "41",
+            "dist": "352"
+        },
         {
             "player": "mike yastrzemski",
             "game": "sf @ phi",
@@ -11303,6 +11333,36 @@
         }
     ],
     "kc @ nyy": [
+        {
+            "player": "anthony volpe",
+            "game": "kc @ nyy",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-04-16 21:07:40",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jazz chisholm",
+            "game": "kc @ nyy",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-04-16 21:07:40",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "aaron judge",
             "game": "kc @ nyy",
