@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "93",
+        "pitchers": "95",
         "batters": "271",
-        "pitches": "3319",
+        "pitches": "3327",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "64.2",
         "ff%fourseam fastball %": "30.2",
         "si%sinker %": "17.1",
-        "fc%cutter %": "6.2",
+        "fc%cutter %": "6.3",
         "fs%splitter %": "3.9",
         "ch%changeup %": "10.1",
-        "sl%slider %": "21.8",
+        "sl%slider %": "21.7",
         "cu%curve %": "10.7",
         "max evmax exit velocity": "114.4",
         "hhhard hit": "242",
-        "hh%hard hit %": "42.7",
+        "hh%hard hit %": "42.6",
         "brlbarrels": "48",
         "brl%barrel %": "8.5",
-        "ab": "754",
+        "ab": "757",
         "avg": ".232",
-        "h": "175",
-        "1b": "119",
+        "h": "176",
+        "1b": "120",
         "2b": "31",
         "3b": "2",
         "hr": "23",
         "so": "202",
-        "bipballs in play": "567",
+        "bipballs in play": "568",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-16 21:01:05.626417"
+        "updated": "2025-04-16 21:01:16.302875"
     },
     "bos @ tb": [
         {
@@ -6269,6 +6269,21 @@
     ],
     "cle @ bal": [
         {
+            "player": "adley rutschman",
+            "game": "cle @ bal",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-04-16 21:01:10",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "angel martinez",
             "game": "cle @ bal",
             "hr/park": "",
@@ -6278,7 +6293,7 @@
             "team": "cle",
             "start": "6:35 PM",
             "in": "8",
-            "result": "Double Play",
+            "result": "GIDP",
             "evo": "34.6",
             "la": "-39",
             "dist": "4"
@@ -8162,6 +8177,36 @@
         }
     ],
     "sea @ cin": [
+        {
+            "player": "ben williamson",
+            "game": "sea @ cin",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-04-16 21:01:10",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "dylan moore",
+            "game": "sea @ cin",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-04-16 21:01:10",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "Pop Out",
+            "evo": "69.9",
+            "la": "87",
+            "dist": "45"
+        },
         {
             "player": "matt mclain",
             "game": "sea @ cin",
@@ -10066,7 +10111,7 @@
             "team": "sf",
             "start": "6:45 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "82.2",
             "la": "19",
             "dist": "242"
@@ -11870,7 +11915,7 @@
             "team": "ath",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
