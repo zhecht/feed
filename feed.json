@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "47",
         "batters": "204",
-        "pitches": "2290",
+        "pitches": "2298",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "66.6",
-        "ff%fourseam fastball %": "35.5",
+        "ff%fourseam fastball %": "35.6",
         "si%sinker %": "9.3",
         "fc%cutter %": "8.1",
-        "fs%splitter %": "9.3",
+        "fs%splitter %": "9.2",
         "ch%changeup %": "7.4",
         "sl%slider %": "18.1",
         "cu%curve %": "12.2",
         "max evmax exit velocity": "118.0",
         "hhhard hit": "168",
-        "hh%hard hit %": "39.1",
+        "hh%hard hit %": "39.0",
         "brlbarrels": "41",
         "brl%barrel %": "9.5",
-        "ab": "526",
-        "avg": ".255",
+        "ab": "528",
+        "avg": ".254",
         "h": "134",
         "1b": "78",
         "2b": "33",
         "3b": "1",
         "hr": "22",
-        "so": "112",
-        "bipballs in play": "430",
+        "so": "113",
+        "bipballs in play": "431",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-19 17:38:54.008763"
+        "updated": "2025-04-19 17:39:03.138796"
     },
     "nyy @ tb": [
         {
@@ -42,9 +42,9 @@
             "start": "4:10 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "88.4",
+            "la": "26",
+            "dist": "318"
         },
         {
             "player": "kameron misner",
@@ -4129,7 +4129,7 @@
             "team": "sea",
             "start": "3:07 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7023,9 +7023,24 @@
     ],
     "lad @ tex": [
         {
-            "player": "corey seager",
+            "player": "josh smith",
             "game": "lad @ tex",
             "hr/park": "",
+            "pa": "44",
+            "dt": "2025-04-19 17:38:58",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "4:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "corey seager",
+            "game": "lad @ tex",
+            "hr/park": "0/30",
             "pa": "43",
             "dt": "2025-04-19 17:38:34",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
@@ -7670,6 +7685,21 @@
     ],
     "wsh @ col": [
         {
+            "player": "sean bouchard",
+            "game": "wsh @ col",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-04-19 17:38:58",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "aaron schunk",
             "game": "wsh @ col",
             "hr/park": "",
@@ -7679,7 +7709,7 @@
             "team": "col",
             "start": "4:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
