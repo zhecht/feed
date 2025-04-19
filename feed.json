@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "38",
+        "pitchers": "39",
         "batters": "199",
-        "pitches": "2975",
+        "pitches": "3047",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "69.7",
         "ff%fourseam fastball %": "36.2",
-        "si%sinker %": "9.0",
-        "fc%cutter %": "6.1",
-        "fs%splitter %": "8.8",
+        "si%sinker %": "8.9",
+        "fc%cutter %": "6.0",
+        "fs%splitter %": "8.6",
         "ch%changeup %": "8.0",
-        "sl%slider %": "18.9",
-        "cu%curve %": "13.0",
-        "max evmax exit velocity": "112.7",
-        "hhhard hit": "212",
-        "hh%hard hit %": "37.5",
-        "brlbarrels": "53",
-        "brl%barrel %": "9.4",
-        "ab": "692",
+        "sl%slider %": "19.3",
+        "cu%curve %": "12.9",
+        "max evmax exit velocity": "118.0",
+        "hhhard hit": "222",
+        "hh%hard hit %": "38.2",
+        "brlbarrels": "55",
+        "brl%barrel %": "9.5",
+        "ab": "707",
         "avg": ".270",
-        "h": "187",
-        "1b": "105",
+        "h": "191",
+        "1b": "109",
         "2b": "52",
         "3b": "2",
         "hr": "28",
-        "so": "150",
-        "bipballs in play": "565",
+        "so": "152",
+        "bipballs in play": "581",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-19 16:53:51.489331"
+        "updated": "2025-04-19 16:54:00.558482"
     },
     "nyy @ tb": [
+        {
+            "player": "aaron judge",
+            "game": "nyy @ tb",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-04-19 16:53:57",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "4:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "104.0",
+            "la": "63",
+            "dist": "125"
+        },
         {
             "player": "kameron misner",
             "game": "nyy @ tb",
@@ -2693,6 +2708,21 @@
     ],
     "ari @ chc": [
         {
+            "player": "corbin carroll",
+            "game": "ari @ chc",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-04-19 16:53:57",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "2:20 PM",
+            "in": "9",
+            "result": "Walk",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tim tawa",
             "game": "ari @ chc",
             "hr/park": "30/30",
@@ -3760,6 +3790,21 @@
     ],
     "sea @ tor": [
         {
+            "player": "alan roden",
+            "game": "sea @ tor",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-04-19 16:53:57",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "3:07 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alejandro kirk",
             "game": "sea @ tor",
             "hr/park": "",
@@ -4461,7 +4506,7 @@
             "team": "bal",
             "start": "4:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4784,6 +4829,21 @@
     ],
     "cle @ pit": [
         {
+            "player": "bryan reynolds",
+            "game": "cle @ pit",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-04-19 16:53:57",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "oneil cruz",
             "game": "cle @ pit",
             "hr/park": "",
@@ -4793,10 +4853,10 @@
             "team": "pit",
             "start": "4:05 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "118.0",
+            "la": "11",
+            "dist": "227"
         },
         {
             "player": "henry davis",
@@ -5100,6 +5160,21 @@
         }
     ],
     "stl @ nym": [
+        {
+            "player": "brendan donovan",
+            "game": "stl @ nym",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-04-19 16:53:57",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "4:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "94.0",
+            "la": "9",
+            "dist": "166"
+        },
         {
             "player": "mark vientos",
             "game": "stl @ nym",
@@ -5472,10 +5547,10 @@
             "team": "tex",
             "start": "4:05 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "98.6",
+            "la": "-14",
+            "dist": "11"
         },
         {
             "player": "corey seager",
@@ -5795,6 +5870,51 @@
     ],
     "wsh @ col": [
         {
+            "player": "ryan mcmahon",
+            "game": "wsh @ col",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-04-19 16:53:57",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "kyle farmer",
+            "game": "wsh @ col",
+            "hr/park": "0/30",
+            "pa": "23",
+            "dt": "2025-04-19 16:53:57",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:10 PM",
+            "in": "3",
+            "result": "Lineout",
+            "evo": "97.6",
+            "la": "23",
+            "dist": "353"
+        },
+        {
+            "player": "sean bouchard",
+            "game": "wsh @ col",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-04-19 16:53:57",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:10 PM",
+            "in": "3",
+            "result": "Single",
+            "evo": "67.4",
+            "la": "26",
+            "dist": "217"
+        },
+        {
             "player": "aaron schunk",
             "game": "wsh @ col",
             "hr/park": "",
@@ -6112,19 +6232,34 @@
     ],
     "chw @ bos": [
         {
-            "player": "luis robert",
+            "player": "lenyn sosa",
             "game": "chw @ bos",
             "hr/park": "",
+            "pa": "22",
+            "dt": "2025-04-19 16:53:57",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "4:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "92.5",
+            "la": "",
+            "dist": "47"
+        },
+        {
+            "player": "luis robert",
+            "game": "chw @ bos",
+            "hr/park": "0/30",
             "pa": "21",
             "dt": "2025-04-19 16:51:39",
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
             "team": "chw",
             "start": "4:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "97.9",
+            "la": "15",
+            "dist": "314"
         },
         {
             "player": "chase meidroth",
