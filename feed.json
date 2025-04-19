@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "34",
-        "batters": "121",
-        "pitches": "1961",
+        "pitchers": "35",
+        "batters": "125",
+        "pitches": "2023",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "69.7",
-        "ff%fourseam fastball %": "34.0",
-        "si%sinker %": "10.2",
-        "fc%cutter %": "5.4",
-        "fs%splitter %": "8.9",
-        "ch%changeup %": "6.9",
-        "sl%slider %": "19.3",
-        "cu%curve %": "15.2",
+        "ff%fourseam fastball %": "34.5",
+        "si%sinker %": "10.0",
+        "fc%cutter %": "5.3",
+        "fs%splitter %": "9.0",
+        "ch%changeup %": "6.8",
+        "sl%slider %": "19.2",
+        "cu%curve %": "15.0",
         "max evmax exit velocity": "112.7",
-        "hhhard hit": "140",
-        "hh%hard hit %": "35.6",
+        "hhhard hit": "142",
+        "hh%hard hit %": "35.2",
         "brlbarrels": "37",
-        "brl%barrel %": "9.4",
-        "ab": "464",
-        "avg": ".282",
-        "h": "131",
+        "brl%barrel %": "9.2",
+        "ab": "474",
+        "avg": ".281",
+        "h": "133",
         "1b": "83",
-        "2b": "30",
+        "2b": "32",
         "3b": "2",
         "hr": "16",
-        "so": "80",
-        "bipballs in play": "393",
+        "so": "86",
+        "bipballs in play": "403",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-19 16:23:05.742822"
+        "updated": "2025-04-19 16:23:17.564892"
     },
     "nyy @ tb": [
         {
@@ -41,10 +41,10 @@
             "team": "nyy",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "104.9",
+            "la": "-5",
+            "dist": "22"
         },
         {
             "player": "austin wells",
@@ -103,10 +103,10 @@
             "team": "mia",
             "start": "1:05 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "81.3",
+            "la": "25",
+            "dist": "252"
         },
         {
             "player": "liam hicks",
@@ -2498,6 +2498,21 @@
     ],
     "ari @ chc": [
         {
+            "player": "ian happ",
+            "game": "ari @ chc",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-04-19 16:23:14",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:20 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "pavin smith",
             "game": "ari @ chc",
             "hr/park": "",
@@ -3867,6 +3882,21 @@
     ],
     "cin @ bal": [
         {
+            "player": "ryan ohearn",
+            "game": "cin @ bal",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-04-19 16:23:14",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "adley rutschman",
             "game": "cin @ bal",
             "hr/park": "",
@@ -3876,7 +3906,7 @@
             "team": "bal",
             "start": "4:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4126,6 +4156,21 @@
     ],
     "stl @ nym": [
         {
+            "player": "thomas saggese",
+            "game": "stl @ nym",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-04-19 16:23:14",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "Double",
+            "evo": "86.8",
+            "la": "29",
+            "dist": "269"
+        },
+        {
             "player": "alec burleson",
             "game": "stl @ nym",
             "hr/park": "",
@@ -4135,7 +4180,7 @@
             "team": "stl",
             "start": "4:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4248,6 +4293,21 @@
     ],
     "lad @ tex": [
         {
+            "player": "teoscar hernandez",
+            "game": "lad @ tex",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-04-19 16:23:14",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh smith",
             "game": "lad @ tex",
             "hr/park": "",
@@ -4340,6 +4400,21 @@
     ],
     "wsh @ col": [
         {
+            "player": "ryan mcmahon",
+            "game": "wsh @ col",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-04-19 16:23:14",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle farmer",
             "game": "wsh @ col",
             "hr/park": "",
@@ -4349,10 +4424,10 @@
             "team": "col",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "68.8",
+            "la": "-2",
+            "dist": "28"
         },
         {
             "player": "sean bouchard",
@@ -4426,7 +4501,7 @@
             "team": "bos",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
