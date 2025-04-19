@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "96",
         "batters": "257",
-        "pitches": "5403",
+        "pitches": "5419",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "72.0",
-        "ff%fourseam fastball %": "33.0",
-        "si%sinker %": "13.4",
+        "ff%fourseam fastball %": "33.1",
+        "si%sinker %": "13.5",
         "fc%cutter %": "6.4",
         "fs%splitter %": "3.2",
         "ch%changeup %": "10.2",
-        "sl%slider %": "24.8",
+        "sl%slider %": "24.7",
         "cu%curve %": "8.9",
         "max evmax exit velocity": "120.4",
         "hhhard hit": "409",
-        "hh%hard hit %": "43.7",
+        "hh%hard hit %": "43.6",
         "brlbarrels": "83",
-        "brl%barrel %": "8.9",
-        "ab": "1260",
-        "avg": ".256",
+        "brl%barrel %": "8.8",
+        "ab": "1262",
+        "avg": ".255",
         "h": "322",
         "1b": "194",
         "2b": "76",
         "3b": "5",
         "hr": "47",
         "so": "334",
-        "bipballs in play": "936",
+        "bipballs in play": "938",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-04-18 21:44:22.231050"
+        "updated": "2025-04-18 21:44:34.766357"
     },
     "nyy @ tb": [
         {
@@ -3625,7 +3625,7 @@
         {
             "player": "enmanuel valdez",
             "game": "cle @ pit",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "84",
             "dt": "2025-04-18 21:42:11",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
@@ -10175,6 +10175,21 @@
     ],
     "min @ atl": [
         {
+            "player": "sean murphy",
+            "game": "min @ atl",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-04-18 21:44:27",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ozzie albies",
             "game": "min @ atl",
             "hr/park": "",
@@ -11844,6 +11859,21 @@
     ],
     "sd @ hou": [
         {
+            "player": "jose iglesias",
+            "game": "sd @ hou",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-04-18 21:44:27",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "oscar gonzalez",
             "game": "sd @ hou",
             "hr/park": "",
@@ -12581,6 +12611,21 @@
     ],
     "ath @ mil": [
         {
+            "player": "brice turang",
+            "game": "ath @ mil",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-04-18 21:44:27",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "caleb durbin",
             "game": "ath @ mil",
             "hr/park": "",
@@ -12590,10 +12635,10 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "5",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "94.2",
+            "la": "-19",
+            "dist": "7"
         },
         {
             "player": "garrett mitchell",
@@ -13192,7 +13237,7 @@
             "team": "sf",
             "start": "9:38 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
