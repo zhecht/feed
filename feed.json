@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "87",
+        "pitchers": "88",
         "batters": "251",
-        "pitches": "3094",
+        "pitches": "3104",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "72.0",
         "ff%fourseam fastball %": "33.1",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.2",
         "max evmax exit velocity": "120.4",
         "hhhard hit": "245",
-        "hh%hard hit %": "44.5",
+        "hh%hard hit %": "44.4",
         "brlbarrels": "53",
         "brl%barrel %": "9.6",
-        "ab": "731",
-        "avg": ".260",
+        "ab": "734",
+        "avg": ".259",
         "h": "190",
         "1b": "112",
         "2b": "44",
         "3b": "3",
         "hr": "31",
         "so": "185",
-        "bipballs in play": "551",
+        "bipballs in play": "552",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-18 21:24:51.229089"
+        "updated": "2025-04-18 21:25:01.479171"
     },
     "nyy @ tb": [
         {
@@ -41,10 +41,10 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "79.5",
+            "la": "63",
+            "dist": "135"
         },
         {
             "player": "paul goldschmidt",
@@ -3482,7 +3482,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6644,6 +6644,21 @@
     ],
     "sea @ tor": [
         {
+            "player": "cal raleigh",
+            "game": "sea @ tor",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-04-18 21:24:55",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:07 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "addison barger",
             "game": "sea @ tor",
             "hr/park": "",
@@ -7576,6 +7591,21 @@
     ],
     "stl @ nym": [
         {
+            "player": "nolan arenado",
+            "game": "stl @ nym",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-04-18 21:24:55",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "willson contreras",
             "game": "stl @ nym",
             "hr/park": "",
@@ -8492,6 +8522,21 @@
         }
     ],
     "chw @ bos": [
+        {
+            "player": "joshua palacios",
+            "game": "chw @ bos",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-04-18 21:24:55",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "alex bregman",
             "game": "chw @ bos",
@@ -11585,7 +11630,7 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
