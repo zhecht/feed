@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "33",
-        "batters": "114",
-        "pitches": "1905",
+        "pitchers": "34",
+        "batters": "121",
+        "pitches": "1961",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "69.7",
-        "ff%fourseam fastball %": "34.4",
+        "ff%fourseam fastball %": "34.0",
         "si%sinker %": "10.2",
         "fc%cutter %": "5.4",
         "fs%splitter %": "8.9",
         "ch%changeup %": "6.9",
-        "sl%slider %": "19.1",
-        "cu%curve %": "15.0",
+        "sl%slider %": "19.3",
+        "cu%curve %": "15.2",
         "max evmax exit velocity": "112.7",
-        "hhhard hit": "134",
-        "hh%hard hit %": "34.8",
-        "brlbarrels": "35",
-        "brl%barrel %": "9.1",
-        "ab": "450",
+        "hhhard hit": "140",
+        "hh%hard hit %": "35.6",
+        "brlbarrels": "37",
+        "brl%barrel %": "9.4",
+        "ab": "464",
         "avg": ".282",
-        "h": "127",
-        "1b": "81",
+        "h": "131",
+        "1b": "83",
         "2b": "30",
         "3b": "2",
-        "hr": "14",
-        "so": "74",
-        "bipballs in play": "385",
+        "hr": "16",
+        "so": "80",
+        "bipballs in play": "393",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-19 16:21:07.587260"
+        "updated": "2025-04-19 16:21:15.521174"
     },
     "nyy @ tb": [
+        {
+            "player": "paul goldschmidt",
+            "game": "nyy @ tb",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-04-19 16:21:15",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "austin wells",
             "game": "nyy @ tb",
@@ -78,6 +93,21 @@
         }
     ],
     "mia @ phi": [
+        {
+            "player": "xavier edwards",
+            "game": "mia @ phi",
+            "hr/park": "",
+            "pa": "92",
+            "dt": "2025-04-19 16:21:15",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:05 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "liam hicks",
             "game": "mia @ phi",
@@ -3325,6 +3355,21 @@
     ],
     "sea @ tor": [
         {
+            "player": "myles straw",
+            "game": "sea @ tor",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-04-19 16:21:15",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "3:07 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ernie clement",
             "game": "sea @ tor",
             "hr/park": "",
@@ -3334,7 +3379,7 @@
             "team": "tor",
             "start": "3:07 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3822,11 +3867,11 @@
     ],
     "cin @ bal": [
         {
-            "player": "gunnar henderson",
+            "player": "adley rutschman",
             "game": "cin @ bal",
             "hr/park": "",
-            "pa": "8",
-            "dt": "2025-04-19 16:19:55",
+            "pa": "9",
+            "dt": "2025-04-19 16:21:15",
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
             "team": "bal",
             "start": "4:05 PM",
@@ -3835,6 +3880,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "gunnar henderson",
+            "game": "cin @ bal",
+            "hr/park": "6/30",
+            "pa": "8",
+            "dt": "2025-04-19 16:19:55",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "Home Run",
+            "evo": "105.8",
+            "la": "23",
+            "dist": "395"
         },
         {
             "player": "cedric mullins",
@@ -3944,6 +4004,21 @@
     ],
     "cle @ pit": [
         {
+            "player": "enmanuel valdez",
+            "game": "cle @ pit",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-04-19 16:21:15",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kebryan hayes",
             "game": "cle @ pit",
             "hr/park": "",
@@ -3953,10 +4028,10 @@
             "team": "pit",
             "start": "4:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "95.4",
+            "la": "6",
+            "dist": "149"
         },
         {
             "player": "bryan reynolds",
@@ -4051,6 +4126,21 @@
     ],
     "stl @ nym": [
         {
+            "player": "alec burleson",
+            "game": "stl @ nym",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-04-19 16:21:15",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nolan arenado",
             "game": "stl @ nym",
             "hr/park": "",
@@ -4060,10 +4150,10 @@
             "team": "stl",
             "start": "4:05 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "83.9",
+            "la": "36",
+            "dist": "279"
         },
         {
             "player": "pete alonso",
@@ -4167,7 +4257,7 @@
             "team": "tex",
             "start": "4:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4250,6 +4340,21 @@
     ],
     "wsh @ col": [
         {
+            "player": "kyle farmer",
+            "game": "wsh @ col",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-04-19 16:21:15",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "sean bouchard",
             "game": "wsh @ col",
             "hr/park": "",
@@ -4259,7 +4364,7 @@
             "team": "col",
             "start": "4:10 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4311,6 +4416,36 @@
         }
     ],
     "chw @ bos": [
+        {
+            "player": "alex bregman",
+            "game": "chw @ bos",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-04-19 16:21:15",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "rafael devers",
+            "game": "chw @ bos",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-04-19 16:21:15",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "Forceout",
+            "evo": "107.9",
+            "la": "-12",
+            "dist": "12"
+        },
         {
             "player": "jarren duran",
             "game": "chw @ bos",
