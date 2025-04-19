@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "38",
-        "batters": "178",
-        "pitches": "2549",
+        "batters": "181",
+        "pitches": "2597",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "69.7",
-        "ff%fourseam fastball %": "36.6",
-        "si%sinker %": "9.6",
+        "ff%fourseam fastball %": "36.7",
+        "si%sinker %": "9.4",
         "fc%cutter %": "6.2",
-        "fs%splitter %": "8.6",
-        "ch%changeup %": "6.8",
-        "sl%slider %": "18.6",
-        "cu%curve %": "13.6",
+        "fs%splitter %": "8.5",
+        "ch%changeup %": "7.0",
+        "sl%slider %": "18.5",
+        "cu%curve %": "13.5",
         "max evmax exit velocity": "112.7",
         "hhhard hit": "184",
-        "hh%hard hit %": "37.8",
+        "hh%hard hit %": "37.5",
         "brlbarrels": "47",
-        "brl%barrel %": "9.7",
-        "ab": "592",
-        "avg": ".269",
+        "brl%barrel %": "9.6",
+        "ab": "602",
+        "avg": ".264",
         "h": "159",
         "1b": "95",
         "2b": "40",
         "3b": "2",
         "hr": "22",
-        "so": "126",
-        "bipballs in play": "487",
+        "so": "132",
+        "bipballs in play": "491",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-19 16:40:16.369709"
+        "updated": "2025-04-19 16:40:30.819061"
     },
     "nyy @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "nyy",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2627,7 +2627,7 @@
             "team": "chc",
             "start": "2:20 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4227,6 +4227,21 @@
     ],
     "cin @ bal": [
         {
+            "player": "tj friedl",
+            "game": "cin @ bal",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-04-19 16:40:26",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose trevino",
             "game": "cin @ bal",
             "hr/park": "",
@@ -4469,16 +4484,31 @@
     ],
     "cle @ pit": [
         {
-            "player": "jared triolo",
+            "player": "jack suwinski",
             "game": "cle @ pit",
             "hr/park": "",
+            "pa": "15",
+            "dt": "2025-04-19 16:40:26",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "Lineout",
+            "evo": "63.1",
+            "la": "22",
+            "dist": "180"
+        },
+        {
+            "player": "jared triolo",
+            "game": "cle @ pit",
+            "hr/park": "0/30",
             "pa": "14",
             "dt": "2025-04-19 16:36:56",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
             "team": "pit",
             "start": "4:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "95.7",
             "la": "27",
             "dist": "356"
@@ -4680,6 +4710,21 @@
         }
     ],
     "stl @ nym": [
+        {
+            "player": "lars nootbaar",
+            "game": "stl @ nym",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-04-19 16:40:26",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "victor scott",
             "game": "stl @ nym",
@@ -4923,6 +4968,21 @@
     ],
     "lad @ tex": [
         {
+            "player": "tommy edman",
+            "game": "lad @ tex",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-04-19 16:40:26",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andy pages",
             "game": "lad @ tex",
             "hr/park": "",
@@ -4932,10 +4992,10 @@
             "team": "lad",
             "start": "4:05 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "86.7",
+            "la": "-14",
+            "dist": "12"
         },
         {
             "player": "eddie rosario",
@@ -5150,6 +5210,21 @@
     ],
     "wsh @ col": [
         {
+            "player": "mickey moniak",
+            "game": "wsh @ col",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-04-19 16:40:26",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jacob stallings",
             "game": "wsh @ col",
             "hr/park": "",
@@ -5159,7 +5234,7 @@
             "team": "col",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5377,6 +5452,21 @@
     ],
     "chw @ bos": [
         {
+            "player": "carlos narvaez",
+            "game": "chw @ bos",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-04-19 16:40:26",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "triston casas",
             "game": "chw @ bos",
             "hr/park": "",
@@ -5386,7 +5476,7 @@
             "team": "bos",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
