@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "89",
         "batters": "251",
-        "pitches": "3187",
+        "pitches": "3195",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "72.0",
         "ff%fourseam fastball %": "33.0",
         "si%sinker %": "13.6",
         "fc%cutter %": "6.9",
-        "fs%splitter %": "3.4",
+        "fs%splitter %": "3.3",
         "ch%changeup %": "10.2",
         "sl%slider %": "23.8",
-        "cu%curve %": "9.2",
+        "cu%curve %": "9.1",
         "max evmax exit velocity": "120.4",
-        "hhhard hit": "254",
-        "hh%hard hit %": "44.4",
-        "brlbarrels": "55",
-        "brl%barrel %": "9.6",
-        "ab": "755",
-        "avg": ".260",
-        "h": "196",
-        "1b": "117",
-        "2b": "45",
+        "hhhard hit": "256",
+        "hh%hard hit %": "44.6",
+        "brlbarrels": "56",
+        "brl%barrel %": "9.8",
+        "ab": "756",
+        "avg": ".261",
+        "h": "197",
+        "1b": "118",
+        "2b": "44",
         "3b": "3",
-        "hr": "31",
+        "hr": "32",
         "so": "189",
-        "bipballs in play": "572",
+        "bipballs in play": "574",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-18 21:29:48.362979"
+        "updated": "2025-04-18 21:29:59.608673"
     },
     "nyy @ tb": [
         {
@@ -2355,7 +2355,7 @@
             "team": "kc",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Catcher Interference",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3518,6 +3518,21 @@
     ],
     "cle @ pit": [
         {
+            "player": "gabriel arias",
+            "game": "cle @ pit",
+            "hr/park": "",
+            "pa": "78",
+            "dt": "2025-04-18 21:29:25",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jhonkensy noel",
             "game": "cle @ pit",
             "hr/park": "",
@@ -3527,7 +3542,7 @@
             "team": "cle",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "87.3",
             "la": "78",
             "dist": "57"
@@ -5744,17 +5759,17 @@
         {
             "player": "heston kjerstad",
             "game": "cin @ bal",
-            "hr/park": "",
+            "hr/park": "29/30",
             "pa": "67",
             "dt": "2025-04-18 21:29:40",
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
             "team": "bal",
             "start": "7:05 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "105.9",
+            "la": "29",
+            "dist": "407"
         },
         {
             "player": "gary sanchez",
@@ -7728,7 +7743,7 @@
         {
             "player": "mark vientos",
             "game": "stl @ nym",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "63",
             "dt": "2025-04-18 21:28:25",
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
@@ -7736,9 +7751,9 @@
             "start": "7:10 PM",
             "in": "8",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "106.6",
+            "la": "14",
+            "dist": "307"
         },
         {
             "player": "nolan arenado",
@@ -8682,7 +8697,7 @@
             "team": "chw",
             "start": "7:10 PM",
             "in": "9",
-            "result": "Double",
+            "result": "In Progress",
             "evo": "93.4",
             "la": "11",
             "dist": "177"
@@ -11930,7 +11945,7 @@
             "team": "ath",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "82.1",
             "la": "24",
             "dist": "258"
