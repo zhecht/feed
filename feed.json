@@ -1,36 +1,66 @@
 {
     "all": {
-        "pitchers": "41",
+        "pitchers": "43",
         "batters": "204",
-        "pitches": "3943",
+        "pitches": "4031",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "66.6",
         "ff%fourseam fastball %": "35.8",
-        "si%sinker %": "8.6",
+        "si%sinker %": "8.5",
         "fc%cutter %": "7.2",
         "fs%splitter %": "8.9",
         "ch%changeup %": "7.6",
-        "sl%slider %": "18.9",
-        "cu%curve %": "13.0",
+        "sl%slider %": "19.1",
+        "cu%curve %": "12.8",
         "max evmax exit velocity": "118.0",
-        "hhhard hit": "294",
-        "hh%hard hit %": "39.5",
-        "brlbarrels": "71",
-        "brl%barrel %": "9.5",
-        "ab": "914",
-        "avg": ".259",
-        "h": "237",
-        "1b": "139",
-        "2b": "58",
+        "hhhard hit": "298",
+        "hh%hard hit %": "39.4",
+        "brlbarrels": "73",
+        "brl%barrel %": "9.6",
+        "ab": "927",
+        "avg": ".262",
+        "h": "243",
+        "1b": "143",
+        "2b": "60",
         "3b": "2",
         "hr": "38",
-        "so": "200",
-        "bipballs in play": "745",
+        "so": "202",
+        "bipballs in play": "757",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-19 17:27:04.678149"
+        "updated": "2025-04-19 17:27:15.609111"
     },
     "nyy @ tb": [
+        {
+            "player": "paul goldschmidt",
+            "game": "nyy @ tb",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-04-19 17:27:10",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "4:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "austin wells",
+            "game": "nyy @ tb",
+            "hr/park": "0/30",
+            "pa": "33",
+            "dt": "2025-04-19 17:27:10",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "4:10 PM",
+            "in": "4",
+            "result": "Sac Fly",
+            "evo": "98.4",
+            "la": "42",
+            "dist": "303"
+        },
         {
             "player": "aaron judge",
             "game": "nyy @ tb",
@@ -41,10 +71,10 @@
             "team": "nyy",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "67.9",
+            "la": "31",
+            "dist": "195"
         },
         {
             "player": "ben rice",
@@ -4015,6 +4045,21 @@
     ],
     "sea @ tor": [
         {
+            "player": "andres gimenez",
+            "game": "sea @ tor",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-04-19 17:27:10",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "3:07 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cal raleigh",
             "game": "sea @ tor",
             "hr/park": "",
@@ -4917,6 +4962,21 @@
     ],
     "cin @ bal": [
         {
+            "player": "gunnar henderson",
+            "game": "cin @ bal",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-04-19 17:27:10",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "4:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose trevino",
             "game": "cin @ bal",
             "hr/park": "",
@@ -5483,10 +5543,10 @@
             "team": "cle",
             "start": "4:05 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "102.8",
+            "la": "26",
+            "dist": "401"
         },
         {
             "player": "steven kwan",
@@ -6046,6 +6106,36 @@
     ],
     "stl @ nym": [
         {
+            "player": "brendan donovan",
+            "game": "stl @ nym",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-04-19 17:27:10",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "4:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "willson contreras",
+            "game": "stl @ nym",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-04-19 17:27:10",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "4:05 PM",
+            "in": "6",
+            "result": "Single",
+            "evo": "83.9",
+            "la": "15",
+            "dist": "227"
+        },
+        {
             "player": "lars nootbaar",
             "game": "stl @ nym",
             "hr/park": "",
@@ -6055,7 +6145,7 @@
             "team": "stl",
             "start": "4:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6618,19 +6708,34 @@
     ],
     "lad @ tex": [
         {
-            "player": "leody taveras",
+            "player": "marcus semien",
             "game": "lad @ tex",
             "hr/park": "",
+            "pa": "39",
+            "dt": "2025-04-19 17:27:10",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "4:05 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "92.0",
+            "la": "52",
+            "dist": "245"
+        },
+        {
+            "player": "leody taveras",
+            "game": "lad @ tex",
+            "hr/park": "0/30",
             "pa": "38",
             "dt": "2025-04-19 17:24:09",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
             "start": "4:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "94.0",
+            "la": "37",
+            "dist": "328"
         },
         {
             "player": "kyle higashioka",
@@ -7189,6 +7294,21 @@
         }
     ],
     "wsh @ col": [
+        {
+            "player": "luis garcia",
+            "game": "wsh @ col",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-04-19 17:27:10",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jordan beck",
             "game": "wsh @ col",
@@ -7776,6 +7896,21 @@
         }
     ],
     "chw @ bos": [
+        {
+            "player": "lenyn sosa",
+            "game": "chw @ bos",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-04-19 17:27:10",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "luis robert",
             "game": "chw @ bos",
