@@ -1,36 +1,51 @@
 {
     "all": {
         "pitchers": "35",
-        "batters": "130",
-        "pitches": "2047",
+        "batters": "134",
+        "pitches": "2087",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "69.7",
         "ff%fourseam fastball %": "34.4",
-        "si%sinker %": "10.0",
+        "si%sinker %": "9.8",
         "fc%cutter %": "5.4",
-        "fs%splitter %": "9.0",
-        "ch%changeup %": "6.7",
-        "sl%slider %": "19.4",
+        "fs%splitter %": "9.1",
+        "ch%changeup %": "6.9",
+        "sl%slider %": "19.3",
         "cu%curve %": "15.0",
         "max evmax exit velocity": "112.7",
         "hhhard hit": "142",
-        "hh%hard hit %": "34.9",
+        "hh%hard hit %": "34.4",
         "brlbarrels": "37",
-        "brl%barrel %": "9.1",
-        "ab": "481",
-        "avg": ".277",
-        "h": "133",
-        "1b": "83",
+        "brl%barrel %": "9.0",
+        "ab": "492",
+        "avg": ".274",
+        "h": "135",
+        "1b": "85",
         "2b": "32",
         "3b": "2",
         "hr": "16",
-        "so": "90",
-        "bipballs in play": "407",
+        "so": "92",
+        "bipballs in play": "413",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-19 16:24:47.719730"
+        "updated": "2025-04-19 16:24:56.045495"
     },
     "nyy @ tb": [
+        {
+            "player": "anthony volpe",
+            "game": "nyy @ tb",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-04-19 16:24:54",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jazz chisholm",
             "game": "nyy @ tb",
@@ -41,10 +56,10 @@
             "team": "nyy",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "89.6",
+            "la": "-4",
+            "dist": "21"
         },
         {
             "player": "paul goldschmidt",
@@ -2522,7 +2537,7 @@
             "team": "chc",
             "start": "2:20 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3385,6 +3400,21 @@
     ],
     "sea @ tor": [
         {
+            "player": "bo bichette",
+            "game": "sea @ tor",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-04-19 16:24:54",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "3:07 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "myles straw",
             "game": "sea @ tor",
             "hr/park": "",
@@ -4081,17 +4111,17 @@
         {
             "player": "enmanuel valdez",
             "game": "cle @ pit",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "8",
             "dt": "2025-04-19 16:21:15",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
             "team": "pit",
             "start": "4:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "88.5",
+            "la": "30",
+            "dist": "324"
         },
         {
             "player": "kebryan hayes",
@@ -4210,7 +4240,7 @@
             "team": "stl",
             "start": "4:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4352,6 +4382,36 @@
         }
     ],
     "lad @ tex": [
+        {
+            "player": "will smith",
+            "game": "lad @ tex",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-04-19 16:24:54",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "michael conforto",
+            "game": "lad @ tex",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-04-19 16:24:54",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "93.9",
+            "la": "56",
+            "dist": "247"
+        },
         {
             "player": "teoscar hernandez",
             "game": "lad @ tex",
@@ -4551,6 +4611,21 @@
         }
     ],
     "chw @ bos": [
+        {
+            "player": "wilyer abreu",
+            "game": "chw @ bos",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-04-19 16:24:54",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "trevor story",
             "game": "chw @ bos",
