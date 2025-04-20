@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "33",
-        "batters": "206",
-        "pitches": "1912",
+        "pitchers": "34",
+        "batters": "207",
+        "pitches": "1922",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "32.8",
         "si%sinker %": "14.2",
-        "fc%cutter %": "5.3",
+        "fc%cutter %": "5.4",
         "fs%splitter %": "2.7",
-        "ch%changeup %": "14.6",
+        "ch%changeup %": "14.7",
         "sl%slider %": "23.4",
         "cu%curve %": "6.9",
         "max evmax exit velocity": "111.7",
-        "hhhard hit": "140",
+        "hhhard hit": "141",
         "hh%hard hit %": "41.2",
         "brlbarrels": "27",
         "brl%barrel %": "7.9",
-        "ab": "449",
-        "avg": ".258",
+        "ab": "451",
+        "avg": ".257",
         "h": "116",
         "1b": "81",
         "2b": "21",
         "3b": "1",
         "hr": "13",
         "so": "110",
-        "bipballs in play": "340",
+        "bipballs in play": "342",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-04-20 15:17:28.199845"
+        "updated": "2025-04-20 15:17:37.145463"
     },
     "nyy @ tb": [
         {
@@ -718,7 +718,7 @@
             "team": "cin",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3726,7 +3726,7 @@
             "team": "mia",
             "start": "1:35 PM",
             "in": "7",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4493,10 +4493,10 @@
             "team": "sea",
             "start": "1:37 PM",
             "in": "5",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "In Progress",
+            "evo": "75.1",
+            "la": "-18",
+            "dist": "8"
         },
         {
             "player": "luke raley",
@@ -6665,6 +6665,21 @@
     ],
     "ath @ mil": [
         {
+            "player": "eric haase",
+            "game": "ath @ mil",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-04-19 20:05:55",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "joey ortiz",
             "game": "ath @ mil",
             "hr/park": "0/30",
@@ -6674,7 +6689,7 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "96.8",
             "la": "39",
             "dist": "333"
