@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "48",
         "batters": "226",
-        "pitches": "2336",
+        "pitches": "2347",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "31.6",
-        "si%sinker %": "14.6",
+        "si%sinker %": "14.5",
         "fc%cutter %": "5.7",
-        "fs%splitter %": "2.4",
+        "fs%splitter %": "2.5",
         "ch%changeup %": "14.8",
-        "sl%slider %": "23.7",
-        "cu%curve %": "7.1",
+        "sl%slider %": "23.8",
+        "cu%curve %": "7.2",
         "max evmax exit velocity": "111.9",
-        "hhhard hit": "171",
+        "hhhard hit": "172",
         "hh%hard hit %": "40.1",
         "brlbarrels": "34",
-        "brl%barrel %": "8.0",
-        "ab": "553",
-        "avg": ".255",
+        "brl%barrel %": "7.9",
+        "ab": "555",
+        "avg": ".254",
         "h": "141",
         "1b": "98",
         "2b": "27",
         "3b": "1",
         "hr": "15",
-        "so": "134",
-        "bipballs in play": "426",
+        "so": "135",
+        "bipballs in play": "429",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-04-20 15:38:36.086292"
+        "updated": "2025-04-20 15:38:45.537501"
     },
     "nyy @ tb": [
         {
@@ -1686,6 +1686,21 @@
     ],
     "cle @ pit": [
         {
+            "player": "adam frazier",
+            "game": "cle @ pit",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-04-19 19:03:14",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tommy pham",
             "game": "cle @ pit",
             "hr/park": "",
@@ -1695,7 +1710,7 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2553,14 +2568,14 @@
             "start": "1:35 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "108.1",
+            "la": "1",
+            "dist": "59"
         },
         {
             "player": "austin riley",
             "game": "min @ atl",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "61",
             "dt": "2025-04-19 23:28:20",
             "img": "https://www.mlbstatic.com/team-logos/144.svg",
@@ -3474,6 +3489,21 @@
         }
     ],
     "chw @ bos": [
+        {
+            "player": "wilyer abreu",
+            "game": "chw @ bos",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-04-19 19:03:14",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "88.2",
+            "la": "-10",
+            "dist": "11"
+        },
         {
             "player": "alex bregman",
             "game": "chw @ bos",
@@ -6987,10 +7017,10 @@
             "team": "stl",
             "start": "1:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "42.3",
+            "la": "-64",
+            "dist": "2"
         },
         {
             "player": "thomas saggese",
