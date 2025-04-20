@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "94",
         "batters": "262",
-        "pitches": "3485",
+        "pitches": "3497",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "52.4",
         "ff%fourseam fastball %": "29.7",
@@ -11,24 +11,24 @@
         "fs%splitter %": "2.4",
         "ch%changeup %": "13.9",
         "sl%slider %": "23.7",
-        "cu%curve %": "7.2",
+        "cu%curve %": "7.1",
         "max evmax exit velocity": "111.9",
         "hhhard hit": "247",
-        "hh%hard hit %": "38.4",
+        "hh%hard hit %": "38.3",
         "brlbarrels": "47",
         "brl%barrel %": "7.3",
-        "ab": "822",
-        "avg": ".246",
-        "h": "202",
-        "1b": "144",
+        "ab": "823",
+        "avg": ".247",
+        "h": "203",
+        "1b": "145",
         "2b": "33",
         "3b": "1",
         "hr": "24",
         "so": "193",
-        "bipballs in play": "643",
+        "bipballs in play": "645",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-04-20 16:33:50.685851"
+        "updated": "2025-04-20 16:34:01.715542"
     },
     "nyy @ tb": [
         {
@@ -1078,7 +1078,7 @@
             "team": "cin",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7289,19 +7289,34 @@
     ],
     "sea @ tor": [
         {
-            "player": "andres gimenez",
+            "player": "george springer",
             "game": "sea @ tor",
             "hr/park": "",
+            "pa": "83",
+            "dt": "2025-04-19 19:03:14",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:37 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "andres gimenez",
+            "game": "sea @ tor",
+            "hr/park": "0/30",
             "pa": "82",
             "dt": "2025-04-19 19:03:14",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "start": "1:37 PM",
             "in": "9",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "88.9",
+            "la": "24",
+            "dist": "308"
         },
         {
             "player": "rowdy tellez",
@@ -10910,6 +10925,21 @@
     ],
     "ath @ mil": [
         {
+            "player": "christian yelich",
+            "game": "ath @ mil",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-04-19 21:23:47",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jackson chourio",
             "game": "ath @ mil",
             "hr/park": "",
@@ -10919,7 +10949,7 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "97.9",
             "la": "-6",
             "dist": "24"
