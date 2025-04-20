@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "85",
-        "batters": "244",
-        "pitches": "3144",
+        "batters": "245",
+        "pitches": "3153",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "56.3",
         "ff%fourseam fastball %": "29.8",
         "si%sinker %": "15.0",
         "fc%cutter %": "6.8",
-        "fs%splitter %": "2.4",
+        "fs%splitter %": "2.3",
         "ch%changeup %": "14.6",
-        "sl%slider %": "24.3",
+        "sl%slider %": "24.2",
         "cu%curve %": "7.2",
         "max evmax exit velocity": "111.9",
         "hhhard hit": "224",
-        "hh%hard hit %": "39.3",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "43",
         "brl%barrel %": "7.5",
-        "ab": "742",
-        "avg": ".251",
+        "ab": "744",
+        "avg": ".250",
         "h": "186",
         "1b": "131",
         "2b": "33",
         "3b": "1",
         "hr": "21",
-        "so": "180",
-        "bipballs in play": "570",
+        "so": "181",
+        "bipballs in play": "572",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-04-20 16:17:27.013744"
+        "updated": "2025-04-20 16:17:37.562804"
     },
     "nyy @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "1:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7908,14 +7908,14 @@
         {
             "player": "gleyber torres",
             "game": "kc @ det",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "75",
             "dt": "2025-04-20 16:17:14",
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
             "team": "det",
             "start": "1:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "93.9",
             "la": "42",
             "dist": "301"
@@ -10115,6 +10115,21 @@
     ],
     "ath @ mil": [
         {
+            "player": "jj bleday",
+            "game": "ath @ mil",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-04-19 21:23:47",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "74.8",
+            "la": "4",
+            "dist": "68"
+        },
+        {
             "player": "shea langeliers",
             "game": "ath @ mil",
             "hr/park": "",
@@ -10124,7 +10139,7 @@
             "team": "ath",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11742,10 +11757,10 @@
     "wsh @ col": [],
     "sf @ laa": [
         {
-            "player": "taylor ward",
+            "player": "luis rengifo",
             "game": "sf @ laa",
             "hr/park": "",
-            "pa": "5",
+            "pa": "6",
             "dt": "2025-04-19 23:28:20",
             "img": "https://www.mlbstatic.com/team-logos/108.svg",
             "team": "laa",
@@ -11755,6 +11770,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "taylor ward",
+            "game": "sf @ laa",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-04-19 23:28:20",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "4:07 PM",
+            "in": "1",
+            "result": "Pop Out",
+            "evo": "74.4",
+            "la": "70",
+            "dist": "106"
         },
         {
             "player": "matt chapman",
