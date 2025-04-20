@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "52",
+        "pitchers": "53",
         "batters": "226",
-        "pitches": "2414",
+        "pitches": "2421",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "31.4",
-        "si%sinker %": "14.6",
+        "ff%fourseam fastball %": "31.3",
+        "si%sinker %": "14.7",
         "fc%cutter %": "5.6",
         "fs%splitter %": "2.5",
-        "ch%changeup %": "14.9",
-        "sl%slider %": "23.9",
+        "ch%changeup %": "15.0",
+        "sl%slider %": "24.0",
         "cu%curve %": "7.1",
         "max evmax exit velocity": "111.9",
-        "hhhard hit": "175",
-        "hh%hard hit %": "39.8",
-        "brlbarrels": "34",
-        "brl%barrel %": "7.7",
-        "ab": "572",
+        "hhhard hit": "177",
+        "hh%hard hit %": "40.0",
+        "brlbarrels": "35",
+        "brl%barrel %": "7.9",
+        "ab": "574",
         "avg": ".253",
         "h": "145",
         "1b": "102",
         "2b": "27",
         "3b": "1",
         "hr": "15",
-        "so": "139",
-        "bipballs in play": "440",
+        "so": "140",
+        "bipballs in play": "443",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-04-20 15:42:40.549129"
+        "updated": "2025-04-20 15:42:50.287530"
     },
     "nyy @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "nyy",
             "start": "1:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3574,10 +3574,10 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "106.2",
+            "la": "39",
+            "dist": "327"
         },
         {
             "player": "wilyer abreu",
@@ -5429,21 +5429,6 @@
     ],
     "sea @ tor": [
         {
-            "player": "vladimir guerrero",
-            "game": "sea @ tor",
-            "hr/park": "",
-            "pa": "59",
-            "dt": "2025-04-19 17:22:20",
-            "img": "https://www.mlbstatic.com/team-logos/141.svg",
-            "team": "tor",
-            "start": "1:37 PM",
-            "in": "6",
-            "result": "Pop Out",
-            "evo": "86.1",
-            "la": "74",
-            "dist": "62"
-        },
-        {
             "player": "bo bichette",
             "game": "sea @ tor",
             "hr/park": "",
@@ -6315,6 +6300,21 @@
         }
     ],
     "kc @ det": [
+        {
+            "player": "zach mckinstry",
+            "game": "kc @ det",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-04-19 15:00:51",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "97.1",
+            "la": "-7",
+            "dist": "17"
+        },
         {
             "player": "kerry carpenter",
             "game": "kc @ det",
@@ -7202,6 +7202,21 @@
         }
     ],
     "stl @ nym": [
+        {
+            "player": "hayden senger",
+            "game": "stl @ nym",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-04-19 19:03:14",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brendan donovan",
             "game": "stl @ nym",
@@ -8723,6 +8738,21 @@
         }
     ],
     "lad @ tex": [
+        {
+            "player": "shohei ohtani",
+            "game": "lad @ tex",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-04-19 17:22:20",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "2:35 PM",
+            "in": "5",
+            "result": "Groundout",
+            "evo": "78.7",
+            "la": "-11",
+            "dist": "15"
+        },
         {
             "player": "austin barnes",
             "game": "lad @ tex",
