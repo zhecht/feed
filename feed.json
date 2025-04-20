@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "64",
+        "pitchers": "65",
         "batters": "231",
-        "pitches": "2654",
+        "pitches": "2664",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.4",
         "ff%fourseam fastball %": "30.6",
@@ -13,22 +13,22 @@
         "sl%slider %": "24.2",
         "cu%curve %": "7.2",
         "max evmax exit velocity": "111.9",
-        "hhhard hit": "196",
+        "hhhard hit": "197",
         "hh%hard hit %": "40.2",
-        "brlbarrels": "40",
-        "brl%barrel %": "8.2",
-        "ab": "633",
+        "brlbarrels": "41",
+        "brl%barrel %": "8.4",
+        "ab": "636",
         "avg": ".261",
-        "h": "165",
-        "1b": "116",
+        "h": "166",
+        "1b": "117",
         "2b": "28",
         "3b": "1",
         "hr": "20",
         "so": "153",
-        "bipballs in play": "487",
+        "bipballs in play": "490",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-04-20 15:54:37.045793"
+        "updated": "2025-04-20 15:54:47.167963"
     },
     "nyy @ tb": [
         {
@@ -913,10 +913,10 @@
             "team": "cin",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "79.9",
+            "la": "14",
+            "dist": "174"
         },
         {
             "player": "spencer steer",
@@ -1920,10 +1920,10 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "71.3",
+            "la": "-45",
+            "dist": "3"
         },
         {
             "player": "austin hedges",
@@ -2887,6 +2887,21 @@
         }
     ],
     "min @ atl": [
+        {
+            "player": "harrison bader",
+            "game": "min @ atl",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-04-19 23:28:20",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "drake baldwin",
             "game": "min @ atl",
@@ -4916,6 +4931,21 @@
         }
     ],
     "mia @ phi": [
+        {
+            "player": "nick castellanos",
+            "game": "mia @ phi",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-04-19 15:37:13",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kyle schwarber",
             "game": "mia @ phi",
@@ -8840,6 +8870,21 @@
     ],
     "ath @ mil": [
         {
+            "player": "caleb durbin",
+            "game": "ath @ mil",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-04-19 21:23:47",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "eric haase",
             "game": "ath @ mil",
             "hr/park": "",
@@ -9594,6 +9639,21 @@
     ],
     "lad @ tex": [
         {
+            "player": "marcus semien",
+            "game": "lad @ tex",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-04-19 17:24:09",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "2:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "100.2",
+            "la": "27",
+            "dist": "371"
+        },
+        {
             "player": "jonah heim",
             "game": "lad @ tex",
             "hr/park": "",
@@ -9603,7 +9663,7 @@
             "team": "tex",
             "start": "2:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
