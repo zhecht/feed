@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "65",
-        "batters": "231",
-        "pitches": "2704",
+        "batters": "232",
+        "pitches": "2711",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.4",
         "ff%fourseam fastball %": "30.5",
@@ -10,25 +10,25 @@
         "fc%cutter %": "5.9",
         "fs%splitter %": "2.3",
         "ch%changeup %": "14.9",
-        "sl%slider %": "24.1",
+        "sl%slider %": "24.2",
         "cu%curve %": "7.3",
         "max evmax exit velocity": "111.9",
-        "hhhard hit": "201",
+        "hhhard hit": "202",
         "hh%hard hit %": "40.5",
         "brlbarrels": "41",
-        "brl%barrel %": "8.3",
-        "ab": "644",
-        "avg": ".258",
-        "h": "166",
-        "1b": "117",
+        "brl%barrel %": "8.2",
+        "ab": "646",
+        "avg": ".259",
+        "h": "167",
+        "1b": "118",
         "2b": "28",
         "3b": "1",
         "hr": "20",
         "so": "156",
-        "bipballs in play": "496",
+        "bipballs in play": "499",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-04-20 15:57:11.180779"
+        "updated": "2025-04-20 15:57:20.920364"
     },
     "nyy @ tb": [
         {
@@ -928,10 +928,10 @@
             "team": "cin",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "90.2",
+            "la": "1",
+            "dist": "56"
         },
         {
             "player": "blake dunn",
@@ -1941,6 +1941,21 @@
     ],
     "cle @ pit": [
         {
+            "player": "oneil cruz",
+            "game": "cle @ pit",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-04-19 19:03:14",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "Groundout",
+            "evo": "100.2",
+            "la": "-21",
+            "dist": "7"
+        },
+        {
             "player": "joey bart",
             "game": "cle @ pit",
             "hr/park": "",
@@ -2942,10 +2957,10 @@
             "team": "min",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "89.5",
+            "la": "-13",
+            "dist": "9"
         },
         {
             "player": "harrison bader",
@@ -4009,7 +4024,7 @@
             "team": "chw",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Pickoff 1B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8043,6 +8058,21 @@
     ],
     "stl @ nym": [
         {
+            "player": "willson contreras",
+            "game": "stl @ nym",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-04-19 19:03:14",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "1:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jesse winker",
             "game": "stl @ nym",
             "hr/park": "",
@@ -9746,7 +9776,7 @@
         {
             "player": "marcus semien",
             "game": "lad @ tex",
-            "hr/park": "",
+            "hr/park": "17/30",
             "pa": "38",
             "dt": "2025-04-19 17:24:09",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
