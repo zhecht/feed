@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "62",
-        "batters": "227",
-        "pitches": "2555",
+        "batters": "228",
+        "pitches": "2561",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "31.2",
-        "si%sinker %": "14.7",
+        "si%sinker %": "14.6",
         "fc%cutter %": "5.8",
         "fs%splitter %": "2.3",
         "ch%changeup %": "15.0",
         "sl%slider %": "24.1",
         "cu%curve %": "6.9",
         "max evmax exit velocity": "111.9",
-        "hhhard hit": "188",
-        "hh%hard hit %": "39.9",
+        "hhhard hit": "189",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "39",
         "brl%barrel %": "8.3",
-        "ab": "609",
-        "avg": ".259",
+        "ab": "612",
+        "avg": ".258",
         "h": "158",
         "1b": "111",
         "2b": "27",
         "3b": "1",
         "hr": "19",
         "so": "146",
-        "bipballs in play": "471",
+        "bipballs in play": "472",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-04-20 15:50:08.647613"
+        "updated": "2025-04-20 15:50:18.008564"
     },
     "nyy @ tb": [
         {
@@ -41,10 +41,10 @@
             "team": "nyy",
             "start": "1:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "95.1",
+            "la": "-1",
+            "dist": "38"
         },
         {
             "player": "paul goldschmidt",
@@ -1821,6 +1821,21 @@
     ],
     "cle @ pit": [
         {
+            "player": "austin hedges",
+            "game": "cle @ pit",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-04-19 19:03:14",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "angel martinez",
             "game": "cle @ pit",
             "hr/park": "",
@@ -2767,6 +2782,21 @@
         }
     ],
     "min @ atl": [
+        {
+            "player": "michael harris",
+            "game": "min @ atl",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-04-19 23:28:20",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ozzie albies",
             "game": "min @ atl",
@@ -4739,7 +4769,7 @@
         {
             "player": "liam hicks",
             "game": "mia @ phi",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "67",
             "dt": "2025-04-19 15:35:37",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
@@ -8519,7 +8549,7 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Game Advisory",
             "evo": "",
             "la": "",
             "dist": ""
