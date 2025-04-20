@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "81",
-        "batters": "242",
-        "pitches": "3091",
+        "batters": "243",
+        "pitches": "3098",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "56.3",
         "ff%fourseam fastball %": "30.1",
@@ -13,22 +13,22 @@
         "sl%slider %": "24.2",
         "cu%curve %": "7.0",
         "max evmax exit velocity": "111.9",
-        "hhhard hit": "222",
-        "hh%hard hit %": "39.9",
+        "hhhard hit": "223",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "43",
         "brl%barrel %": "7.7",
         "ab": "729",
-        "avg": ".248",
-        "h": "181",
-        "1b": "127",
+        "avg": ".250",
+        "h": "182",
+        "1b": "128",
         "2b": "32",
         "3b": "1",
         "hr": "21",
         "so": "180",
-        "bipballs in play": "556",
+        "bipballs in play": "558",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-04-20 16:15:05.275749"
+        "updated": "2025-04-20 16:15:21.646826"
     },
     "nyy @ tb": [
         {
@@ -2183,17 +2183,17 @@
         {
             "player": "isiah kiner falefa",
             "game": "cle @ pit",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "74",
             "dt": "2025-04-20 16:12:01",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
             "team": "pit",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "91.5",
+            "la": "25",
+            "dist": "335"
         },
         {
             "player": "adam frazier",
@@ -5511,7 +5511,7 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8885,7 +8885,7 @@
         {
             "player": "juan soto",
             "game": "stl @ nym",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "71",
             "dt": "2025-04-20 16:14:00",
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
@@ -8893,9 +8893,9 @@
             "start": "1:40 PM",
             "in": "8",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "106.9",
+            "la": "16",
+            "dist": "357"
         },
         {
             "player": "francisco lindor",
@@ -10747,6 +10747,21 @@
     ],
     "ari @ chc": [
         {
+            "player": "dansby swanson",
+            "game": "ari @ chc",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-04-19 14:45:37",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:20 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael busch",
             "game": "ari @ chc",
             "hr/park": "",
@@ -10756,7 +10771,7 @@
             "team": "chc",
             "start": "2:20 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "79.3",
             "la": "17",
             "dist": "212"
