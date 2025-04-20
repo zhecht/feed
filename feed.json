@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "26",
         "batters": "197",
-        "pitches": "1619",
+        "pitches": "1631",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "74.0",
         "ff%fourseam fastball %": "33.0",
         "si%sinker %": "14.2",
-        "fc%cutter %": "5.3",
+        "fc%cutter %": "5.2",
         "fs%splitter %": "2.5",
         "ch%changeup %": "15.2",
         "sl%slider %": "23.3",
-        "cu%curve %": "6.5",
+        "cu%curve %": "6.6",
         "max evmax exit velocity": "111.5",
         "hhhard hit": "125",
-        "hh%hard hit %": "42.7",
+        "hh%hard hit %": "42.4",
         "brlbarrels": "23",
         "brl%barrel %": "7.8",
         "ab": "382",
@@ -24,11 +24,11 @@
         "2b": "15",
         "3b": "1",
         "hr": "12",
-        "so": "86",
-        "bipballs in play": "293",
+        "so": "88",
+        "bipballs in play": "295",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-04-20 15:04:07.171970"
+        "updated": "2025-04-20 15:04:15.769258"
     },
     "nyy @ tb": [
         {
@@ -1245,7 +1245,7 @@
             "team": "cle",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1853,6 +1853,21 @@
     ],
     "min @ atl": [
         {
+            "player": "ozzie albies",
+            "game": "min @ atl",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-04-19 21:23:47",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "matt olson",
             "game": "min @ atl",
             "hr/park": "",
@@ -1862,7 +1877,7 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5795,6 +5810,21 @@
     ],
     "ath @ mil": [
         {
+            "player": "lawrence butler",
+            "game": "ath @ mil",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-04-19 19:55:52",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "max schuemann",
             "game": "ath @ mil",
             "hr/park": "",
@@ -5804,7 +5834,7 @@
             "team": "ath",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6121,7 +6151,7 @@
             "team": "ari",
             "start": "2:20 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
