@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "52",
+        "pitchers": "51",
         "batters": "226",
-        "pitches": "2403",
+        "pitches": "2411",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "31.4",
+        "ff%fourseam fastball %": "31.3",
         "si%sinker %": "14.6",
         "fc%cutter %": "5.6",
         "fs%splitter %": "2.5",
         "ch%changeup %": "14.9",
-        "sl%slider %": "23.9",
+        "sl%slider %": "24.0",
         "cu%curve %": "7.1",
         "max evmax exit velocity": "111.9",
-        "hhhard hit": "175",
-        "hh%hard hit %": "40.2",
-        "brlbarrels": "34",
-        "brl%barrel %": "7.8",
+        "hhhard hit": "176",
+        "hh%hard hit %": "40.0",
+        "brlbarrels": "35",
+        "brl%barrel %": "8.0",
         "ab": "570",
-        "avg": ".251",
-        "h": "143",
-        "1b": "100",
+        "avg": ".253",
+        "h": "144",
+        "1b": "101",
         "2b": "27",
         "3b": "1",
         "hr": "15",
         "so": "139",
-        "bipballs in play": "435",
+        "bipballs in play": "440",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-04-20 15:42:11.977419"
+        "updated": "2025-04-20 15:42:21.499430"
     },
     "nyy @ tb": [
         {
@@ -1740,10 +1740,10 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "68.6",
+            "la": "14",
+            "dist": "144"
         },
         {
             "player": "adam frazier",
@@ -3574,10 +3574,10 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "106.2",
+            "la": "39",
+            "dist": "327"
         },
         {
             "player": "wilyer abreu",
@@ -8709,19 +8709,34 @@
     ],
     "lad @ tex": [
         {
-            "player": "miguel rojas",
+            "player": "austin barnes",
             "game": "lad @ tex",
             "hr/park": "",
+            "pa": "34",
+            "dt": "2025-04-19 17:17:03",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "2:35 PM",
+            "in": "5",
+            "result": "Groundout",
+            "evo": "92.1",
+            "la": "-5",
+            "dist": "17"
+        },
+        {
+            "player": "miguel rojas",
+            "game": "lad @ tex",
+            "hr/park": "0/30",
             "pa": "33",
             "dt": "2025-04-19 17:17:03",
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
             "team": "lad",
             "start": "2:35 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "90.0",
+            "la": "26",
+            "dist": "336"
         },
         {
             "player": "josh jung",
