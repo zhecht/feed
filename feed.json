@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "65",
+        "pitchers": "66",
         "batters": "232",
-        "pitches": "2715",
+        "pitches": "2723",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.4",
         "ff%fourseam fastball %": "30.5",
@@ -11,24 +11,24 @@
         "fs%splitter %": "2.3",
         "ch%changeup %": "15.0",
         "sl%slider %": "24.2",
-        "cu%curve %": "7.4",
+        "cu%curve %": "7.3",
         "max evmax exit velocity": "111.9",
         "hhhard hit": "203",
-        "hh%hard hit %": "40.6",
+        "hh%hard hit %": "40.4",
         "brlbarrels": "42",
         "brl%barrel %": "8.4",
-        "ab": "648",
-        "avg": ".258",
+        "ab": "649",
+        "avg": ".257",
         "h": "167",
         "1b": "118",
         "2b": "28",
         "3b": "1",
         "hr": "20",
         "so": "156",
-        "bipballs in play": "500",
+        "bipballs in play": "502",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-04-20 15:57:40.268254"
+        "updated": "2025-04-20 15:57:49.838423"
     },
     "nyy @ tb": [
         {
@@ -5046,7 +5046,7 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6089,6 +6089,21 @@
     ],
     "sea @ tor": [
         {
+            "player": "andres gimenez",
+            "game": "sea @ tor",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-04-19 17:42:12",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:37 PM",
+            "in": "7",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "leo rivas",
             "game": "sea @ tor",
             "hr/park": "",
@@ -7081,16 +7096,31 @@
     ],
     "kc @ det": [
         {
-            "player": "maikel garcia",
+            "player": "hunter renfroe",
             "game": "kc @ det",
             "hr/park": "",
+            "pa": "67",
+            "dt": "2025-04-19 15:11:51",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "1:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "maikel garcia",
+            "game": "kc @ det",
+            "hr/park": "0/30",
             "pa": "66",
             "dt": "2025-04-19 15:08:53",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "start": "1:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "102.3",
             "la": "28",
             "dist": "374"
@@ -8072,6 +8102,21 @@
         }
     ],
     "stl @ nym": [
+        {
+            "player": "willson contreras",
+            "game": "stl @ nym",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-04-19 19:03:14",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "1:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jesse winker",
             "game": "stl @ nym",
