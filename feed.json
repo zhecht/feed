@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "40",
         "batters": "215",
-        "pitches": "2055",
+        "pitches": "2058",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "32.4",
-        "si%sinker %": "14.3",
+        "si%sinker %": "14.2",
         "fc%cutter %": "5.5",
         "fs%splitter %": "2.5",
         "ch%changeup %": "15.1",
         "sl%slider %": "23.2",
-        "cu%curve %": "7.1",
+        "cu%curve %": "7.0",
         "max evmax exit velocity": "111.9",
         "hhhard hit": "151",
-        "hh%hard hit %": "40.8",
+        "hh%hard hit %": "40.7",
         "brlbarrels": "31",
         "brl%barrel %": "8.4",
-        "ab": "487",
+        "ab": "486",
         "avg": ".255",
         "h": "124",
         "1b": "86",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "13",
         "so": "118",
-        "bipballs in play": "370",
+        "bipballs in play": "371",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-04-20 15:23:58.808464"
+        "updated": "2025-04-20 15:24:07.924234"
     },
     "nyy @ tb": [
         {
@@ -2303,21 +2303,6 @@
     ],
     "min @ atl": [
         {
-            "player": "jarred kelenic",
-            "game": "min @ atl",
-            "hr/park": "",
-            "pa": "55",
-            "dt": "2025-04-19 21:24:32",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "1:35 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "nick allen",
             "game": "min @ atl",
             "hr/park": "",
@@ -3139,7 +3124,7 @@
             "team": "chw",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3941,6 +3926,21 @@
         }
     ],
     "mia @ phi": [
+        {
+            "player": "eric wagaman",
+            "game": "mia @ phi",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-04-19 15:10:37",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "xavier edwards",
             "game": "mia @ phi",
@@ -7616,7 +7616,7 @@
         {
             "player": "adolis garcia",
             "game": "lad @ tex",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "25",
             "dt": "2025-04-19 16:57:55",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
