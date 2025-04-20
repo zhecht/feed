@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "38",
-        "batters": "213",
-        "pitches": "2035",
+        "pitchers": "40",
+        "batters": "214",
+        "pitches": "2050",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "32.5",
+        "ff%fourseam fastball %": "32.4",
         "si%sinker %": "14.2",
         "fc%cutter %": "5.5",
         "fs%splitter %": "2.5",
-        "ch%changeup %": "15.0",
-        "sl%slider %": "23.3",
-        "cu%curve %": "7.0",
+        "ch%changeup %": "15.1",
+        "sl%slider %": "23.2",
+        "cu%curve %": "7.1",
         "max evmax exit velocity": "111.9",
-        "hhhard hit": "149",
-        "hh%hard hit %": "40.8",
-        "brlbarrels": "30",
-        "brl%barrel %": "8.2",
-        "ab": "480",
-        "avg": ".258",
+        "hhhard hit": "151",
+        "hh%hard hit %": "40.9",
+        "brlbarrels": "31",
+        "brl%barrel %": "8.4",
+        "ab": "483",
+        "avg": ".257",
         "h": "124",
         "1b": "86",
         "2b": "24",
         "3b": "1",
         "hr": "13",
-        "so": "116",
-        "bipballs in play": "365",
+        "so": "118",
+        "bipballs in play": "369",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-04-20 15:23:22.249150"
+        "updated": "2025-04-20 15:23:31.349548"
     },
     "nyy @ tb": [
+        {
+            "player": "trent grisham",
+            "game": "nyy @ tb",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-04-19 19:03:14",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "oswaldo cabrera",
             "game": "nyy @ tb",
@@ -1515,7 +1530,7 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2272,6 +2287,21 @@
         }
     ],
     "min @ atl": [
+        {
+            "player": "nick allen",
+            "game": "min @ atl",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-04-19 21:23:47",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "77.8",
+            "la": "-39",
+            "dist": "4"
+        },
         {
             "player": "edouard julien",
             "game": "min @ atl",
@@ -3891,7 +3921,7 @@
             "team": "mia",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Field Error",
             "evo": "98.7",
             "la": "-15",
             "dist": "12"
@@ -4719,9 +4749,9 @@
             "start": "1:37 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
+            "evo": "104.9",
             "la": "",
-            "dist": ""
+            "dist": "56"
         },
         {
             "player": "addison barger",
@@ -5475,6 +5505,21 @@
         }
     ],
     "kc @ det": [
+        {
+            "player": "justyn henry malloy",
+            "game": "kc @ det",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-04-19 14:45:37",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "dillon dingler",
             "game": "kc @ det",
@@ -6243,6 +6288,21 @@
     ],
     "stl @ nym": [
         {
+            "player": "tyrone taylor",
+            "game": "stl @ nym",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-04-19 19:03:14",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "1:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brett baty",
             "game": "stl @ nym",
             "hr/park": "",
@@ -6989,7 +7049,7 @@
             "team": "ath",
             "start": "2:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7518,10 +7578,10 @@
             "team": "tex",
             "start": "2:35 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "100.5",
+            "la": "26",
+            "dist": "378"
         },
         {
             "player": "josh smith",
