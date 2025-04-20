@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "75",
+        "pitchers": "77",
         "batters": "237",
-        "pitches": "2949",
+        "pitches": "2960",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.4",
         "ff%fourseam fastball %": "30.2",
@@ -11,40 +11,40 @@
         "fs%splitter %": "2.4",
         "ch%changeup %": "14.7",
         "sl%slider %": "24.4",
-        "cu%curve %": "7.1",
+        "cu%curve %": "7.0",
         "max evmax exit velocity": "111.9",
-        "hhhard hit": "213",
+        "hhhard hit": "214",
         "hh%hard hit %": "39.8",
         "brlbarrels": "42",
-        "brl%barrel %": "7.9",
-        "ab": "701",
-        "avg": ".248",
-        "h": "174",
+        "brl%barrel %": "7.8",
+        "ab": "704",
+        "avg": ".249",
+        "h": "175",
         "1b": "123",
-        "2b": "29",
+        "2b": "30",
         "3b": "1",
         "hr": "21",
-        "so": "173",
-        "bipballs in play": "535",
+        "so": "174",
+        "bipballs in play": "538",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-04-20 16:09:08.218708"
+        "updated": "2025-04-20 16:09:18.123894"
     },
     "nyy @ tb": [
         {
             "player": "jasson dominguez",
             "game": "nyy @ tb",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "65",
             "dt": "2025-04-19 19:03:14",
             "img": "https://www.mlbstatic.com/team-logos/147.svg",
             "team": "nyy",
             "start": "1:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "104.8",
+            "la": "18",
+            "dist": "363"
         },
         {
             "player": "austin wells",
@@ -1003,7 +1003,7 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4254,6 +4254,21 @@
         }
     ],
     "chw @ bos": [
+        {
+            "player": "miguel vargas",
+            "game": "chw @ bos",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-04-19 19:03:14",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "79.7",
+            "la": "-10",
+            "dist": "14"
+        },
         {
             "player": "blake sabol",
             "game": "chw @ bos",
@@ -7561,6 +7576,21 @@
     ],
     "kc @ det": [
         {
+            "player": "vinnie pasquantino",
+            "game": "kc @ det",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-04-20 16:08:31",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "1:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trey sweeney",
             "game": "kc @ det",
             "hr/park": "",
@@ -8622,10 +8652,10 @@
             "team": "nym",
             "start": "1:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "56.7",
+            "la": "30",
+            "dist": "145"
         },
         {
             "player": "brett baty",
@@ -10503,7 +10533,7 @@
             "team": "tex",
             "start": "2:35 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
