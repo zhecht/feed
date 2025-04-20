@@ -1,17 +1,17 @@
 {
     "all": {
-        "pitchers": "27",
+        "pitchers": "26",
         "batters": "198",
-        "pitches": "1653",
+        "pitches": "1655",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "74.0",
-        "ff%fourseam fastball %": "33.0",
+        "ff%fourseam fastball %": "33.1",
         "si%sinker %": "14.1",
         "fc%cutter %": "5.2",
         "fs%splitter %": "2.4",
         "ch%changeup %": "15.3",
         "sl%slider %": "23.3",
-        "cu%curve %": "6.7",
+        "cu%curve %": "6.6",
         "max evmax exit velocity": "111.5",
         "hhhard hit": "127",
         "hh%hard hit %": "42.3",
@@ -24,11 +24,11 @@
         "2b": "17",
         "3b": "1",
         "hr": "12",
-        "so": "89",
+        "so": "91",
         "bipballs in play": "300",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-04-20 15:05:25.297516"
+        "updated": "2025-04-20 15:05:34.549186"
     },
     "nyy @ tb": [
         {
@@ -633,21 +633,6 @@
         }
     ],
     "cin @ bal": [
-        {
-            "player": "ryan mountcastle",
-            "game": "cin @ bal",
-            "hr/park": "",
-            "pa": "42",
-            "dt": "2025-04-19 17:36:46",
-            "img": "https://www.mlbstatic.com/team-logos/110.svg",
-            "team": "bal",
-            "start": "1:35 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "tj friedl",
             "game": "cin @ bal",
@@ -1283,7 +1268,7 @@
         {
             "player": "gabriel arias",
             "game": "cle @ pit",
-            "hr/park": "",
+            "hr/park": "1/30",
             "pa": "42",
             "dt": "2025-04-19 17:35:42",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
@@ -1913,6 +1898,21 @@
     ],
     "min @ atl": [
         {
+            "player": "michael harris",
+            "game": "min @ atl",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-04-19 21:23:47",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ozzie albies",
             "game": "min @ atl",
             "hr/park": "",
@@ -1922,7 +1922,7 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5277,7 +5277,7 @@
             "team": "nym",
             "start": "1:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5909,7 +5909,7 @@
             "team": "ath",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "90.3",
             "la": "54",
             "dist": "246"
