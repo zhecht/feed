@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "26",
         "batters": "198",
-        "pitches": "1655",
+        "pitches": "1660",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "74.0",
         "ff%fourseam fastball %": "33.1",
         "si%sinker %": "14.1",
         "fc%cutter %": "5.2",
         "fs%splitter %": "2.4",
-        "ch%changeup %": "15.3",
-        "sl%slider %": "23.3",
+        "ch%changeup %": "15.4",
+        "sl%slider %": "23.2",
         "cu%curve %": "6.6",
         "max evmax exit velocity": "111.5",
-        "hhhard hit": "127",
-        "hh%hard hit %": "42.3",
+        "hhhard hit": "128",
+        "hh%hard hit %": "42.4",
         "brlbarrels": "24",
-        "brl%barrel %": "8.0",
-        "ab": "389",
-        "avg": ".272",
+        "brl%barrel %": "7.9",
+        "ab": "391",
+        "avg": ".271",
         "h": "106",
         "1b": "76",
         "2b": "17",
         "3b": "1",
         "hr": "12",
         "so": "91",
-        "bipballs in play": "300",
+        "bipballs in play": "302",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-04-20 15:05:43.278546"
+        "updated": "2025-04-20 15:05:52.471206"
     },
     "nyy @ tb": [
         {
@@ -1907,10 +1907,10 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Forceout",
+            "evo": "107.3",
             "la": "",
-            "dist": ""
+            "dist": "62"
         },
         {
             "player": "ozzie albies",
@@ -3282,6 +3282,21 @@
     ],
     "mia @ phi": [
         {
+            "player": "otto lopez",
+            "game": "mia @ phi",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-04-19 14:45:37",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "81.1",
+            "la": "-13",
+            "dist": "7"
+        },
+        {
             "player": "connor norby",
             "game": "mia @ phi",
             "hr/park": "0/30",
@@ -3958,6 +3973,21 @@
         }
     ],
     "sea @ tor": [
+        {
+            "player": "vladimir guerrero",
+            "game": "sea @ tor",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-04-19 16:41:38",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:37 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "mitch garver",
             "game": "sea @ tor",
@@ -5909,7 +5939,7 @@
             "team": "ath",
             "start": "2:10 PM",
             "in": "3",
-            "result": "Flyout",
+            "result": "In Progress",
             "evo": "90.3",
             "la": "54",
             "dist": "246"
