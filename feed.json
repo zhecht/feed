@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "54",
         "batters": "226",
-        "pitches": "2441",
+        "pitches": "2445",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "31.4",
+        "ff%fourseam fastball %": "31.3",
         "si%sinker %": "14.6",
         "fc%cutter %": "5.7",
         "fs%splitter %": "2.5",
@@ -13,22 +13,22 @@
         "sl%slider %": "23.9",
         "cu%curve %": "7.1",
         "max evmax exit velocity": "111.9",
-        "hhhard hit": "178",
-        "hh%hard hit %": "39.8",
+        "hhhard hit": "179",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "36",
-        "brl%barrel %": "8.1",
-        "ab": "581",
-        "avg": ".253",
-        "h": "147",
-        "1b": "103",
+        "brl%barrel %": "8.0",
+        "ab": "582",
+        "avg": ".254",
+        "h": "148",
+        "1b": "104",
         "2b": "27",
         "3b": "1",
         "hr": "16",
-        "so": "141",
-        "bipballs in play": "447",
+        "so": "142",
+        "bipballs in play": "448",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-04-20 15:44:05.993137"
+        "updated": "2025-04-20 15:44:15.430879"
     },
     "nyy @ tb": [
         {
@@ -2642,7 +2642,7 @@
             "team": "min",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4511,21 +4511,6 @@
         }
     ],
     "mia @ phi": [
-        {
-            "player": "kyle stowers",
-            "game": "mia @ phi",
-            "hr/park": "",
-            "pa": "64",
-            "dt": "2025-04-19 15:29:07",
-            "img": "https://www.mlbstatic.com/team-logos/146.svg",
-            "team": "mia",
-            "start": "1:35 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "dane myers",
             "game": "mia @ phi",
@@ -7278,6 +7263,21 @@
     ],
     "stl @ nym": [
         {
+            "player": "francisco lindor",
+            "game": "stl @ nym",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-04-19 19:03:14",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "hayden senger",
             "game": "stl @ nym",
             "hr/park": "",
@@ -8135,6 +8135,21 @@
     ],
     "ath @ mil": [
         {
+            "player": "max schuemann",
+            "game": "ath @ mil",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-04-19 20:33:41",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis urias",
             "game": "ath @ mil",
             "hr/park": "",
@@ -8144,10 +8159,10 @@
             "team": "ath",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "99.7",
+            "la": "13",
+            "dist": "223"
         },
         {
             "player": "seth brown",
