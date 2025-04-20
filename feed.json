@@ -2,16 +2,16 @@
     "all": {
         "pitchers": "37",
         "batters": "210",
-        "pitches": "1985",
+        "pitches": "1988",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "32.4",
         "si%sinker %": "14.3",
-        "fc%cutter %": "5.4",
+        "fc%cutter %": "5.5",
         "fs%splitter %": "2.6",
         "ch%changeup %": "14.8",
-        "sl%slider %": "23.4",
-        "cu%curve %": "7.1",
+        "sl%slider %": "23.3",
+        "cu%curve %": "7.0",
         "max evmax exit velocity": "111.7",
         "hhhard hit": "146",
         "hh%hard hit %": "41.4",
@@ -28,7 +28,7 @@
         "bipballs in play": "353",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-04-20 15:20:38.538266"
+        "updated": "2025-04-20 15:20:47.700566"
     },
     "nyy @ tb": [
         {
@@ -2228,21 +2228,6 @@
     ],
     "min @ atl": [
         {
-            "player": "edouard julien",
-            "game": "min @ atl",
-            "hr/park": "",
-            "pa": "53",
-            "dt": "2025-04-19 21:23:47",
-            "img": "https://www.mlbstatic.com/team-logos/142.svg",
-            "team": "min",
-            "start": "1:35 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "harrison bader",
             "game": "min @ atl",
             "hr/park": "",
@@ -3024,6 +3009,21 @@
         }
     ],
     "chw @ bos": [
+        {
+            "player": "joshua palacios",
+            "game": "chw @ bos",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-04-19 19:03:14",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "lenyn sosa",
             "game": "chw @ bos",
@@ -4613,7 +4613,7 @@
             "team": "tor",
             "start": "1:37 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5365,7 +5365,7 @@
             "team": "det",
             "start": "1:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Field Error",
             "evo": "81.9",
             "la": "-21",
             "dist": "8"
