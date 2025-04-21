@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "18",
         "batters": "110",
-        "pitches": "872",
+        "pitches": "878",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "75.7",
-        "ff%fourseam fastball %": "27.9",
+        "ff%fourseam fastball %": "28.0",
         "si%sinker %": "15.9",
-        "fc%cutter %": "15.5",
+        "fc%cutter %": "15.4",
         "fs%splitter %": "0.6",
         "ch%changeup %": "7.9",
         "sl%slider %": "19.4",
-        "cu%curve %": "12.8",
+        "cu%curve %": "12.9",
         "max evmax exit velocity": "107.5",
         "hhhard hit": "53",
-        "hh%hard hit %": "35.6",
+        "hh%hard hit %": "35.3",
         "brlbarrels": "8",
-        "brl%barrel %": "5.4",
+        "brl%barrel %": "5.3",
         "ab": "206",
         "avg": ".252",
         "h": "52",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "6",
         "so": "61",
-        "bipballs in play": "149",
+        "bipballs in play": "150",
         "liveGames": 6,
         "totGames": 8,
-        "updated": "2025-04-21 19:55:07.786427"
+        "updated": "2025-04-21 19:55:15.298316"
     },
     "chw @ bos": [
         {
@@ -1108,10 +1108,10 @@
             "team": "cle",
             "start": "6:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "88.0",
+            "la": "-2",
+            "dist": "31"
         },
         {
             "player": "brayan rocchio",
@@ -2387,7 +2387,7 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2950,6 +2950,21 @@
     ],
     "phi @ nym": [
         {
+            "player": "bryce harper",
+            "game": "phi @ nym",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-04-21 19:55:14",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trea turner",
             "game": "phi @ nym",
             "hr/park": "",
@@ -2959,7 +2974,7 @@
             "team": "phi",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
