@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "18",
         "batters": "109",
-        "pitches": "832",
+        "pitches": "837",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "75.7",
-        "ff%fourseam fastball %": "26.3",
-        "si%sinker %": "16.1",
-        "fc%cutter %": "16.8",
+        "ff%fourseam fastball %": "27.1",
+        "si%sinker %": "16.2",
+        "fc%cutter %": "16.0",
         "fs%splitter %": "0.6",
-        "ch%changeup %": "8.2",
-        "sl%slider %": "19.0",
-        "cu%curve %": "13.0",
+        "ch%changeup %": "7.8",
+        "sl%slider %": "19.1",
+        "cu%curve %": "13.1",
         "max evmax exit velocity": "107.5",
-        "hhhard hit": "51",
-        "hh%hard hit %": "36.7",
+        "hhhard hit": "52",
+        "hh%hard hit %": "36.9",
         "brlbarrels": "8",
-        "brl%barrel %": "5.8",
+        "brl%barrel %": "5.7",
         "ab": "196",
         "avg": ".245",
         "h": "48",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "6",
         "so": "57",
-        "bipballs in play": "139",
+        "bipballs in play": "141",
         "liveGames": 6,
         "totGames": 8,
-        "updated": "2025-04-21 19:50:27.143464"
+        "updated": "2025-04-21 19:50:34.623928"
     },
     "chw @ bos": [
         {
@@ -1108,7 +1108,7 @@
             "team": "nyy",
             "start": "6:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1838,7 +1838,7 @@
         {
             "player": "javier baez",
             "game": "sd @ det",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "30",
             "dt": "2025-04-21 19:48:59",
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
@@ -1846,9 +1846,9 @@
             "start": "6:40 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "100.4",
+            "la": "18",
+            "dist": "306"
         },
         {
             "player": "jace jung",
@@ -2839,10 +2839,10 @@
             "team": "phi",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "78.9",
+            "la": "-35",
+            "dist": "3"
         },
         {
             "player": "alec bohm",
