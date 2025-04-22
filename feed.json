@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "36",
         "batters": "135",
-        "pitches": "1567",
+        "pitches": "1573",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "71.8",
         "ff%fourseam fastball %": "29.2",
-        "si%sinker %": "16.0",
-        "fc%cutter %": "11.0",
+        "si%sinker %": "16.1",
+        "fc%cutter %": "10.9",
         "fs%splitter %": "2.7",
         "ch%changeup %": "10.5",
         "sl%slider %": "19.2",
-        "cu%curve %": "11.4",
+        "cu%curve %": "11.3",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "89",
-        "hh%hard hit %": "32.1",
+        "hh%hard hit %": "32.0",
         "brlbarrels": "20",
         "brl%barrel %": "7.2",
         "ab": "370",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "13",
         "so": "102",
-        "bipballs in play": "277",
+        "bipballs in play": "278",
         "liveGames": 7,
         "totGames": 8,
-        "updated": "2025-04-21 21:05:28.304569"
+        "updated": "2025-04-21 21:05:36.562299"
     },
     "chw @ bos": [
         {
@@ -3263,6 +3263,21 @@
     ],
     "cin @ mia": [
         {
+            "player": "spencer steer",
+            "game": "cin @ mia",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-04-21 21:05:31",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gavin lux",
             "game": "cin @ mia",
             "hr/park": "7/30",
@@ -4272,17 +4287,17 @@
         {
             "player": "kody clemens",
             "game": "phi @ nym",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "50",
             "dt": "2025-04-21 21:04:59",
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "92.0",
+            "la": "40",
+            "dist": "311"
         },
         {
             "player": "alec bohm",
@@ -5963,7 +5978,7 @@
             "team": "tor",
             "start": "8:10 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
