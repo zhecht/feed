@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "41",
+        "pitchers": "42",
         "batters": "135",
-        "pitches": "1719",
+        "pitches": "1722",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "71.8",
         "ff%fourseam fastball %": "28.8",
@@ -14,10 +14,10 @@
         "cu%curve %": "11.3",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "100",
-        "hh%hard hit %": "32.5",
+        "hh%hard hit %": "32.4",
         "brlbarrels": "23",
-        "brl%barrel %": "7.5",
-        "ab": "406",
+        "brl%barrel %": "7.4",
+        "ab": "407",
         "avg": ".246",
         "h": "100",
         "1b": "72",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "15",
         "so": "108",
-        "bipballs in play": "308",
+        "bipballs in play": "309",
         "liveGames": 7,
         "totGames": 8,
-        "updated": "2025-04-21 21:24:27.580440"
+        "updated": "2025-04-21 21:24:35.858641"
     },
     "chw @ bos": [
         {
@@ -2256,6 +2256,21 @@
     ],
     "sd @ det": [
         {
+            "player": "tyler wade",
+            "game": "sd @ det",
+            "hr/park": "",
+            "pa": "76",
+            "dt": "2025-04-21 21:24:30",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "justyn henry malloy",
             "game": "sd @ det",
             "hr/park": "",
@@ -4482,17 +4497,17 @@
         {
             "player": "trea turner",
             "game": "phi @ nym",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "58",
             "dt": "2025-04-21 21:22:59",
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "90.0",
+            "la": "34",
+            "dist": "304"
         },
         {
             "player": "juan soto",
