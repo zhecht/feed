@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "27",
         "batters": "125",
-        "pitches": "1322",
+        "pitches": "1325",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "75.3",
-        "ff%fourseam fastball %": "29.7",
-        "si%sinker %": "15.4",
-        "fc%cutter %": "12.0",
-        "fs%splitter %": "1.1",
+        "ff%fourseam fastball %": "29.8",
+        "si%sinker %": "15.3",
+        "fc%cutter %": "11.9",
+        "fs%splitter %": "1.2",
         "ch%changeup %": "10.5",
         "sl%slider %": "19.1",
         "cu%curve %": "12.2",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "76",
-        "hh%hard hit %": "32.9",
+        "hh%hard hit %": "32.6",
         "brlbarrels": "15",
-        "brl%barrel %": "6.5",
+        "brl%barrel %": "6.4",
         "ab": "311",
         "avg": ".260",
         "h": "81",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "11",
         "so": "88",
-        "bipballs in play": "231",
+        "bipballs in play": "233",
         "liveGames": 7,
         "totGames": 8,
-        "updated": "2025-04-21 20:39:55.148858"
+        "updated": "2025-04-21 20:40:03.073265"
     },
     "chw @ bos": [
         {
@@ -2963,6 +2963,21 @@
     ],
     "cin @ mia": [
         {
+            "player": "connor norby",
+            "game": "cin @ mia",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-04-21 20:39:59",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "eric wagaman",
             "game": "cin @ mia",
             "hr/park": "",
@@ -5138,10 +5153,10 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "83.6",
+            "la": "-32",
+            "dist": "6"
         },
         {
             "player": "jake meyers",
