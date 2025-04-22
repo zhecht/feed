@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "21",
         "batters": "145",
-        "pitches": "922",
+        "pitches": "931",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "73.5",
-        "ff%fourseam fastball %": "33.4",
-        "si%sinker %": "11.7",
+        "ff%fourseam fastball %": "33.5",
+        "si%sinker %": "11.8",
         "fc%cutter %": "5.5",
         "fs%splitter %": "5.9",
         "ch%changeup %": "11.2",
-        "sl%slider %": "22.1",
-        "cu%curve %": "10.2",
+        "sl%slider %": "22.0",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "116.7",
-        "hhhard hit": "76",
-        "hh%hard hit %": "43.9",
-        "brlbarrels": "11",
-        "brl%barrel %": "6.4",
-        "ab": "226",
-        "avg": ".221",
-        "h": "50",
-        "1b": "28",
-        "2b": "13",
+        "hhhard hit": "77",
+        "hh%hard hit %": "43.5",
+        "brlbarrels": "12",
+        "brl%barrel %": "6.8",
+        "ab": "228",
+        "avg": ".232",
+        "h": "53",
+        "1b": "30",
+        "2b": "14",
         "3b": "2",
         "hr": "7",
-        "so": "47",
-        "bipballs in play": "173",
+        "so": "48",
+        "bipballs in play": "177",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-04-22 19:53:34.563586"
+        "updated": "2025-04-22 19:53:42.226632"
     },
     "nyy @ cle": [
         {
@@ -41,7 +41,7 @@
             "team": "cle",
             "start": "6:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1260,10 +1260,10 @@
             "team": "cin",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "91.6",
+            "la": "11",
+            "dist": "170"
         },
         {
             "player": "dane myers",
@@ -1852,6 +1852,36 @@
         }
     ],
     "bal @ wsh": [
+        {
+            "player": "gary sanchez",
+            "game": "bal @ wsh",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-04-22 19:53:42",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jordan westburg",
+            "game": "bal @ wsh",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-04-22 19:53:42",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:45 PM",
+            "in": "5",
+            "result": "Groundout",
+            "evo": "62.5",
+            "la": "-24",
+            "dist": "9"
+        },
         {
             "player": "nasim nunez",
             "game": "bal @ wsh",
@@ -3483,19 +3513,34 @@
     ],
     "lad @ chc": [
         {
-            "player": "ian happ",
+            "player": "kyle tucker",
             "game": "lad @ chc",
             "hr/park": "",
+            "pa": "8",
+            "dt": "2025-04-22 19:53:42",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "Single",
+            "evo": "92.5",
+            "la": "11",
+            "dist": "202"
+        },
+        {
+            "player": "ian happ",
+            "game": "lad @ chc",
+            "hr/park": "0/30",
             "pa": "7",
             "dt": "2025-04-22 19:52:26",
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
             "team": "chc",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "111.0",
+            "la": "19",
+            "dist": "316"
         },
         {
             "player": "will smith",
@@ -3589,21 +3634,6 @@
         }
     ],
     "chw @ min": [
-        {
-            "player": "edgar quero",
-            "game": "chw @ min",
-            "hr/park": "",
-            "pa": "8",
-            "dt": "2025-04-22 19:53:13",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "start": "7:40 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "luke keaschall",
             "game": "chw @ min",
