@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "19",
-        "batters": "137",
-        "pitches": "872",
+        "batters": "138",
+        "pitches": "876",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "73.5",
-        "ff%fourseam fastball %": "34.2",
-        "si%sinker %": "11.1",
+        "ff%fourseam fastball %": "34.1",
+        "si%sinker %": "11.2",
         "fc%cutter %": "5.6",
-        "fs%splitter %": "5.2",
-        "ch%changeup %": "11.4",
+        "fs%splitter %": "5.3",
+        "ch%changeup %": "11.3",
         "sl%slider %": "22.4",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "116.7",
         "hhhard hit": "74",
-        "hh%hard hit %": "45.4",
+        "hh%hard hit %": "45.1",
         "brlbarrels": "11",
         "brl%barrel %": "6.7",
-        "ab": "208",
-        "avg": ".231",
-        "h": "48",
+        "ab": "210",
+        "avg": ".233",
+        "h": "49",
         "1b": "28",
         "2b": "12",
         "3b": "2",
-        "hr": "6",
+        "hr": "7",
         "so": "44",
-        "bipballs in play": "163",
+        "bipballs in play": "164",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-04-22 19:49:39.425664"
+        "updated": "2025-04-22 19:49:47.156033"
     },
     "nyy @ cle": [
         {
@@ -1778,6 +1778,21 @@
     ],
     "bal @ wsh": [
         {
+            "player": "nasim nunez",
+            "game": "bal @ wsh",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-04-22 19:49:42",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jacob young",
             "game": "bal @ wsh",
             "hr/park": "",
@@ -1787,7 +1802,7 @@
             "team": "wsh",
             "start": "6:45 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "90.4",
             "la": "-16",
             "dist": "12"
@@ -3213,17 +3228,17 @@
         {
             "player": "bobby witt",
             "game": "col @ kc",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "5",
             "dt": "2025-04-22 19:49:12",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "93.8",
+            "la": "42",
+            "dist": "313"
         },
         {
             "player": "jonathan india",
@@ -3297,7 +3312,7 @@
             "team": "lad",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Home Run",
             "evo": "104.8",
             "la": "26",
             "dist": "417"
@@ -3365,6 +3380,21 @@
     ],
     "chw @ min": [
         {
+            "player": "byron buxton",
+            "game": "chw @ min",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-04-22 19:49:42",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "edouard julien",
             "game": "chw @ min",
             "hr/park": "",
@@ -3397,7 +3427,7 @@
         {
             "player": "luis robert",
             "game": "chw @ min",
-            "hr/park": "25/30",
+            "hr/park": "5/30",
             "pa": "3",
             "dt": "2025-04-22 19:45:27",
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
@@ -3407,7 +3437,7 @@
             "result": "Double",
             "evo": "115.8",
             "la": "16",
-            "dist": "392"
+            "dist": "369"
         },
         {
             "player": "andrew benintendi",
