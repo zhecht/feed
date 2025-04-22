@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "23",
-        "batters": "120",
-        "pitches": "1179",
+        "batters": "119",
+        "pitches": "1183",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "75.4",
-        "ff%fourseam fastball %": "29.1",
-        "si%sinker %": "15.5",
+        "ff%fourseam fastball %": "29.0",
+        "si%sinker %": "15.6",
         "fc%cutter %": "12.8",
         "fs%splitter %": "0.7",
-        "ch%changeup %": "9.7",
+        "ch%changeup %": "9.8",
         "sl%slider %": "19.2",
-        "cu%curve %": "13.1",
+        "cu%curve %": "13.0",
         "max evmax exit velocity": "111.3",
         "hhhard hit": "69",
-        "hh%hard hit %": "34.0",
+        "hh%hard hit %": "33.7",
         "brlbarrels": "13",
-        "brl%barrel %": "6.4",
+        "brl%barrel %": "6.3",
         "ab": "277",
         "avg": ".253",
         "h": "70",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "10",
         "so": "78",
-        "bipballs in play": "203",
+        "bipballs in play": "205",
         "liveGames": 7,
         "totGames": 8,
-        "updated": "2025-04-21 20:26:27.594810"
+        "updated": "2025-04-21 20:26:35.690316"
     },
     "chw @ bos": [
         {
@@ -2085,10 +2085,10 @@
             "team": "sd",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "90.9",
+            "la": "-26",
+            "dist": "3"
         },
         {
             "player": "xander bogaerts",
@@ -3565,6 +3565,36 @@
     ],
     "phi @ nym": [
         {
+            "player": "johan rojas",
+            "game": "phi @ nym",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-04-21 20:26:30",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "alec bohm",
+            "game": "phi @ nym",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-04-21 20:25:59",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luisangel acuna",
             "game": "phi @ nym",
             "hr/park": "",
@@ -4648,21 +4678,6 @@
         }
     ],
     "tor @ hou": [
-        {
-            "player": "andres gimenez",
-            "game": "tor @ hou",
-            "hr/park": "",
-            "pa": "8",
-            "dt": "2025-04-21 20:26:14",
-            "img": "https://www.mlbstatic.com/team-logos/141.svg",
-            "team": "tor",
-            "start": "8:10 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "george springer",
             "game": "tor @ hou",
