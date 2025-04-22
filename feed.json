@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "21",
-        "batters": "148",
-        "pitches": "976",
+        "batters": "151",
+        "pitches": "981",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "72.3",
         "ff%fourseam fastball %": "32.8",
@@ -14,21 +14,21 @@
         "cu%curve %": "10.2",
         "max evmax exit velocity": "116.7",
         "hhhard hit": "78",
-        "hh%hard hit %": "42.4",
+        "hh%hard hit %": "42.2",
         "brlbarrels": "12",
         "brl%barrel %": "6.5",
-        "ab": "237",
-        "avg": ".232",
+        "ab": "239",
+        "avg": ".230",
         "h": "55",
         "1b": "31",
         "2b": "15",
         "3b": "2",
         "hr": "7",
         "so": "50",
-        "bipballs in play": "184",
+        "bipballs in play": "185",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-04-22 19:55:56.579857"
+        "updated": "2025-04-22 19:56:04.392532"
     },
     "nyy @ cle": [
         {
@@ -1922,7 +1922,7 @@
             "team": "bal",
             "start": "6:45 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2916,7 +2916,7 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3648,6 +3648,21 @@
     ],
     "lad @ chc": [
         {
+            "player": "seiya suzuki",
+            "game": "lad @ chc",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-04-22 19:55:11",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle tucker",
             "game": "lad @ chc",
             "hr/park": "",
@@ -3769,6 +3784,36 @@
         }
     ],
     "chw @ min": [
+        {
+            "player": "brooks baldwin",
+            "game": "chw @ min",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-04-22 19:55:59",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "lenyn sosa",
+            "game": "chw @ min",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-04-22 19:55:11",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "90.2",
+            "la": "46",
+            "dist": "295"
+        },
         {
             "player": "edgar quero",
             "game": "chw @ min",
