@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "18",
         "batters": "111",
-        "pitches": "1025",
+        "pitches": "1028",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "75.4",
-        "ff%fourseam fastball %": "28.2",
-        "si%sinker %": "15.8",
+        "ff%fourseam fastball %": "28.0",
+        "si%sinker %": "15.9",
         "fc%cutter %": "14.1",
         "fs%splitter %": "0.6",
-        "ch%changeup %": "9.1",
+        "ch%changeup %": "9.2",
         "sl%slider %": "19.1",
         "cu%curve %": "13.1",
         "max evmax exit velocity": "111.3",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "34.7",
         "brlbarrels": "12",
         "brl%barrel %": "6.9",
-        "ab": "235",
-        "avg": ".264",
+        "ab": "236",
+        "avg": ".263",
         "h": "62",
         "1b": "45",
         "2b": "7",
         "3b": "1",
         "hr": "9",
-        "so": "67",
+        "so": "68",
         "bipballs in play": "173",
         "liveGames": 7,
         "totGames": 8,
-        "updated": "2025-04-21 20:10:40.679270"
+        "updated": "2025-04-21 20:10:48.545378"
     },
     "chw @ bos": [
         {
@@ -1108,7 +1108,7 @@
             "team": "nyy",
             "start": "6:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2588,6 +2588,21 @@
     ],
     "cin @ mia": [
         {
+            "player": "gavin lux",
+            "game": "cin @ mia",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-04-21 20:10:44",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "austin hays",
             "game": "cin @ mia",
             "hr/park": "",
@@ -3259,7 +3274,7 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
