@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "18",
         "batters": "111",
-        "pitches": "971",
+        "pitches": "976",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "75.4",
         "ff%fourseam fastball %": "27.9",
@@ -11,24 +11,24 @@
         "fs%splitter %": "0.6",
         "ch%changeup %": "9.0",
         "sl%slider %": "19.2",
-        "cu%curve %": "13.1",
+        "cu%curve %": "13.0",
         "max evmax exit velocity": "111.3",
         "hhhard hit": "57",
-        "hh%hard hit %": "34.3",
+        "hh%hard hit %": "34.1",
         "brlbarrels": "11",
         "brl%barrel %": "6.6",
-        "ab": "225",
-        "avg": ".262",
+        "ab": "226",
+        "avg": ".261",
         "h": "59",
         "1b": "43",
         "2b": "7",
         "3b": "1",
         "hr": "8",
         "so": "63",
-        "bipballs in play": "166",
+        "bipballs in play": "167",
         "liveGames": 6,
         "totGames": 8,
-        "updated": "2025-04-21 20:05:06.779296"
+        "updated": "2025-04-21 20:05:14.705846"
     },
     "chw @ bos": [
         {
@@ -1099,6 +1099,21 @@
     ],
     "nyy @ cle": [
         {
+            "player": "anthony volpe",
+            "game": "nyy @ cle",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-04-21 20:05:14",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "6:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle manzardo",
             "game": "nyy @ cle",
             "hr/park": "",
@@ -1920,7 +1935,7 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3507,6 +3522,21 @@
     ],
     "stl @ atl": [
         {
+            "player": "ozzie albies",
+            "game": "stl @ atl",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-04-21 20:05:14",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "3",
+            "result": "Pop Out",
+            "evo": "62.4",
+            "la": "75",
+            "dist": "54"
+        },
+        {
             "player": "matt olson",
             "game": "stl @ atl",
             "hr/park": "",
@@ -3516,7 +3546,7 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "89.8",
             "la": "-1",
             "dist": "36"
