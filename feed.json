@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "14",
         "batters": "105",
-        "pitches": "584",
+        "pitches": "587",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "75.7",
-        "ff%fourseam fastball %": "33.4",
+        "ff%fourseam fastball %": "33.6",
         "si%sinker %": "11.1",
         "fc%cutter %": "6.0",
         "fs%splitter %": "3.6",
-        "ch%changeup %": "11.8",
-        "sl%slider %": "22.9",
-        "cu%curve %": "11.1",
+        "ch%changeup %": "11.6",
+        "sl%slider %": "23.0",
+        "cu%curve %": "11.2",
         "max evmax exit velocity": "116.7",
         "hhhard hit": "39",
-        "hh%hard hit %": "41.9",
+        "hh%hard hit %": "41.5",
         "brlbarrels": "5",
-        "brl%barrel %": "5.4",
+        "brl%barrel %": "5.3",
         "ab": "129",
         "avg": ".202",
         "h": "26",
@@ -25,27 +25,12 @@
         "3b": "2",
         "hr": "5",
         "so": "32",
-        "bipballs in play": "93",
+        "bipballs in play": "94",
         "liveGames": 7,
         "totGames": 15,
-        "updated": "2025-04-22 19:29:52.475072"
+        "updated": "2025-04-22 19:29:59.877092"
     },
     "nyy @ cle": [
-        {
-            "player": "angel martinez",
-            "game": "nyy @ cle",
-            "hr/park": "",
-            "pa": "35",
-            "dt": "2025-04-22 19:29:42",
-            "img": "https://www.mlbstatic.com/team-logos/114.svg",
-            "team": "cle",
-            "start": "6:10 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "ben rice",
             "game": "nyy @ cle",
@@ -559,6 +544,21 @@
     ],
     "sd @ det": [
         {
+            "player": "gleyber torres",
+            "game": "sd @ det",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-04-22 19:29:57",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kerry carpenter",
             "game": "sd @ det",
             "hr/park": "",
@@ -568,10 +568,10 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "87.6",
+            "la": "50",
+            "dist": "253"
         },
         {
             "player": "javier baez",
@@ -1312,6 +1312,21 @@
         }
     ],
     "bal @ wsh": [
+        {
+            "player": "adley rutschman",
+            "game": "bal @ wsh",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-04-22 19:29:11",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:45 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "cedric mullins",
             "game": "bal @ wsh",
@@ -2093,7 +2108,7 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
