@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "18",
-        "batters": "135",
-        "pitches": "859",
+        "pitchers": "19",
+        "batters": "136",
+        "pitches": "863",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "73.5",
-        "ff%fourseam fastball %": "34.1",
-        "si%sinker %": "11.3",
+        "ff%fourseam fastball %": "34.2",
+        "si%sinker %": "11.1",
         "fc%cutter %": "5.7",
         "fs%splitter %": "5.2",
-        "ch%changeup %": "11.4",
-        "sl%slider %": "22.0",
+        "ch%changeup %": "11.5",
+        "sl%slider %": "22.1",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "116.7",
-        "hhhard hit": "70",
-        "hh%hard hit %": "44.6",
-        "brlbarrels": "9",
-        "brl%barrel %": "5.7",
-        "ab": "201",
-        "avg": ".229",
+        "hhhard hit": "73",
+        "hh%hard hit %": "45.6",
+        "brlbarrels": "10",
+        "brl%barrel %": "6.3",
+        "ab": "202",
+        "avg": ".228",
         "h": "46",
         "1b": "27",
         "2b": "12",
         "3b": "2",
         "hr": "5",
-        "so": "43",
-        "bipballs in play": "157",
+        "so": "44",
+        "bipballs in play": "160",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-04-22 19:48:52.599723"
+        "updated": "2025-04-22 19:49:00.453715"
     },
     "nyy @ cle": [
+        {
+            "player": "nolan jones",
+            "game": "nyy @ cle",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-04-22 19:48:56",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "100.9",
+            "la": "-10",
+            "dist": "15"
+        },
         {
             "player": "steven kwan",
             "game": "nyy @ cle",
@@ -1748,21 +1763,6 @@
     ],
     "bal @ wsh": [
         {
-            "player": "jacob young",
-            "game": "bal @ wsh",
-            "hr/park": "",
-            "pa": "32",
-            "dt": "2025-04-22 19:48:42",
-            "img": "https://www.mlbstatic.com/team-logos/120.svg",
-            "team": "wsh",
-            "start": "6:45 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "90.4",
-            "la": "-16",
-            "dist": "12"
-        },
-        {
             "player": "jose tena",
             "game": "bal @ wsh",
             "hr/park": "2/30",
@@ -2239,7 +2239,7 @@
             "team": "bos",
             "start": "6:45 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3145,10 +3145,10 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "78.5",
+            "la": "42",
+            "dist": "261"
         },
         {
             "player": "ryan mcmahon",
@@ -3208,9 +3208,9 @@
             "start": "7:40 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "104.8",
+            "la": "26",
+            "dist": "417"
         },
         {
             "player": "freddie freeman",
@@ -3274,6 +3274,21 @@
         }
     ],
     "chw @ min": [
+        {
+            "player": "edouard julien",
+            "game": "chw @ min",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-04-22 19:48:56",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "95.6",
+            "la": "-3",
+            "dist": "32"
+        },
         {
             "player": "andrew vaughn",
             "game": "chw @ min",
