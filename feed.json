@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "36",
         "batters": "135",
-        "pitches": "1586",
+        "pitches": "1589",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "71.8",
         "ff%fourseam fastball %": "29.1",
-        "si%sinker %": "16.3",
+        "si%sinker %": "16.5",
         "fc%cutter %": "10.8",
         "fs%splitter %": "2.7",
         "ch%changeup %": "10.4",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "32.0",
         "brlbarrels": "20",
         "brl%barrel %": "7.1",
-        "ab": "373",
-        "avg": ".244",
-        "h": "91",
-        "1b": "68",
+        "ab": "374",
+        "avg": ".246",
+        "h": "92",
+        "1b": "69",
         "2b": "9",
         "3b": "1",
         "hr": "13",
-        "so": "102",
+        "so": "103",
         "bipballs in play": "281",
         "liveGames": 7,
         "totGames": 8,
-        "updated": "2025-04-21 21:07:39.314955"
+        "updated": "2025-04-21 21:07:47.410705"
     },
     "chw @ bos": [
         {
@@ -2265,7 +2265,7 @@
             "team": "sd",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4309,7 +4309,7 @@
             "team": "phi",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "91.0",
             "la": "58",
             "dist": "235"
@@ -5067,6 +5067,21 @@
     ],
     "stl @ atl": [
         {
+            "player": "marcell ozuna",
+            "game": "stl @ atl",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-04-21 21:07:44",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "austin riley",
             "game": "stl @ atl",
             "hr/park": "",
@@ -5076,7 +5091,7 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "8",
-            "result": "Groundout",
+            "result": "Single",
             "evo": "74.4",
             "la": "-28",
             "dist": "6"
