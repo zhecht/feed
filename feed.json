@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "17",
-        "batters": "131",
-        "pitches": "825",
+        "batters": "132",
+        "pitches": "831",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "75.7",
-        "ff%fourseam fastball %": "34.4",
+        "ff%fourseam fastball %": "34.3",
         "si%sinker %": "11.2",
-        "fc%cutter %": "5.6",
+        "fc%cutter %": "5.7",
         "fs%splitter %": "5.1",
-        "ch%changeup %": "11.5",
+        "ch%changeup %": "11.6",
         "sl%slider %": "22.1",
-        "cu%curve %": "10.2",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "116.7",
         "hhhard hit": "65",
         "hh%hard hit %": "43.6",
         "brlbarrels": "8",
         "brl%barrel %": "5.4",
-        "ab": "189",
-        "avg": ".222",
+        "ab": "192",
+        "avg": ".219",
         "h": "42",
         "1b": "24",
         "2b": "11",
@@ -28,9 +28,24 @@
         "bipballs in play": "149",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-04-22 19:47:11.481323"
+        "updated": "2025-04-22 19:47:19.027586"
     },
     "nyy @ cle": [
+        {
+            "player": "steven kwan",
+            "game": "nyy @ cle",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-04-22 19:47:14",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "anthony volpe",
             "game": "nyy @ cle",
@@ -1682,7 +1697,7 @@
             "team": "wsh",
             "start": "6:45 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2139,6 +2154,21 @@
         }
     ],
     "sea @ bos": [
+        {
+            "player": "trevor story",
+            "game": "sea @ bos",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-04-22 19:47:14",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "6:45 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "alex bregman",
             "game": "sea @ bos",
@@ -2759,6 +2789,21 @@
     ],
     "stl @ atl": [
         {
+            "player": "victor scott",
+            "game": "stl @ atl",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-04-22 19:47:14",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:15 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jarred kelenic",
             "game": "stl @ atl",
             "hr/park": "",
@@ -3097,14 +3142,14 @@
         {
             "player": "andrew vaughn",
             "game": "chw @ min",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "4",
             "dt": "2025-04-22 19:46:43",
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
             "team": "chw",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "97.7",
             "la": "29",
             "dist": "376"
