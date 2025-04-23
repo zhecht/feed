@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "21",
-        "batters": "157",
-        "pitches": "1051",
+        "pitchers": "22",
+        "batters": "160",
+        "pitches": "1062",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "71.6",
         "ff%fourseam fastball %": "32.1",
-        "si%sinker %": "12.7",
+        "si%sinker %": "12.8",
         "fc%cutter %": "5.2",
-        "fs%splitter %": "6.1",
-        "ch%changeup %": "11.2",
-        "sl%slider %": "22.7",
+        "fs%splitter %": "6.0",
+        "ch%changeup %": "11.1",
+        "sl%slider %": "22.9",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "116.7",
         "hhhard hit": "83",
-        "hh%hard hit %": "41.9",
+        "hh%hard hit %": "41.7",
         "brlbarrels": "13",
-        "brl%barrel %": "6.6",
-        "ab": "248",
+        "brl%barrel %": "6.5",
+        "ab": "252",
         "avg": ".238",
-        "h": "59",
+        "h": "60",
         "1b": "33",
         "2b": "17",
-        "3b": "2",
+        "3b": "3",
         "hr": "7",
         "so": "51",
-        "bipballs in play": "198",
+        "bipballs in play": "199",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-04-22 20:00:41.119839"
+        "updated": "2025-04-22 20:00:49.101123"
     },
     "nyy @ cle": [
         {
@@ -1355,6 +1355,21 @@
         }
     ],
     "cin @ mia": [
+        {
+            "player": "gavin lux",
+            "game": "cin @ mia",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-04-22 20:00:43",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "austin hays",
             "game": "cin @ mia",
@@ -3314,6 +3329,21 @@
     ],
     "stl @ atl": [
         {
+            "player": "alex verdugo",
+            "game": "stl @ atl",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-04-22 20:00:43",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "89.3",
+            "la": "-20",
+            "dist": "8"
+        },
+        {
             "player": "orlando arcia",
             "game": "stl @ atl",
             "hr/park": "",
@@ -3661,6 +3691,21 @@
     ],
     "col @ kc": [
         {
+            "player": "salvador perez",
+            "game": "col @ kc",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-04-22 20:00:43",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jacob stallings",
             "game": "col @ kc",
             "hr/park": "",
@@ -3798,16 +3843,31 @@
     ],
     "lad @ chc": [
         {
-            "player": "dansby swanson",
+            "player": "nico hoerner",
             "game": "lad @ chc",
             "hr/park": "",
+            "pa": "12",
+            "dt": "2025-04-22 20:00:43",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "dansby swanson",
+            "game": "lad @ chc",
+            "hr/park": "3/30",
             "pa": "11",
             "dt": "2025-04-22 19:59:57",
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
             "team": "chc",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Triple",
             "evo": "104.2",
             "la": "41",
             "dist": "399"
@@ -3965,6 +4025,21 @@
     ],
     "chw @ min": [
         {
+            "player": "jacob amaya",
+            "game": "chw @ min",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-04-22 20:00:43",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bobby dalbec",
             "game": "chw @ min",
             "hr/park": "",
@@ -3974,7 +4049,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
