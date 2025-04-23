@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "33",
         "batters": "191",
-        "pitches": "1611",
+        "pitches": "1617",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "70.7",
         "ff%fourseam fastball %": "30.9",
         "si%sinker %": "13.4",
-        "fc%cutter %": "5.2",
+        "fc%cutter %": "5.1",
         "fs%splitter %": "5.6",
         "ch%changeup %": "10.4",
-        "sl%slider %": "25.1",
+        "sl%slider %": "25.2",
         "cu%curve %": "9.5",
         "max evmax exit velocity": "116.7",
-        "hhhard hit": "117",
-        "hh%hard hit %": "39.9",
-        "brlbarrels": "19",
-        "brl%barrel %": "6.5",
-        "ab": "370",
-        "avg": ".243",
-        "h": "90",
+        "hhhard hit": "119",
+        "hh%hard hit %": "40.3",
+        "brlbarrels": "21",
+        "brl%barrel %": "7.1",
+        "ab": "375",
+        "avg": ".245",
+        "h": "92",
         "1b": "58",
-        "2b": "20",
+        "2b": "21",
         "3b": "3",
-        "hr": "9",
-        "so": "83",
-        "bipballs in play": "293",
+        "hr": "10",
+        "so": "84",
+        "bipballs in play": "295",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-22 20:30:07.327622"
+        "updated": "2025-04-22 20:30:15.702923"
     },
     "nyy @ cle": [
         {
@@ -41,7 +41,7 @@
             "team": "nyy",
             "start": "6:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2603,9 +2603,24 @@
     ],
     "bal @ wsh": [
         {
-            "player": "ryan mountcastle",
+            "player": "tyler oneill",
             "game": "bal @ wsh",
             "hr/park": "",
+            "pa": "51",
+            "dt": "2025-04-22 20:30:12",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:45 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "ryan mountcastle",
+            "game": "bal @ wsh",
+            "hr/park": "1/30",
             "pa": "50",
             "dt": "2025-04-22 20:28:56",
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
@@ -4002,6 +4017,21 @@
     ],
     "phi @ nym": [
         {
+            "player": "alec bohm",
+            "game": "phi @ nym",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-04-22 20:30:12",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jt realmuto",
             "game": "phi @ nym",
             "hr/park": "",
@@ -4468,6 +4498,36 @@
         }
     ],
     "stl @ atl": [
+        {
+            "player": "jarred kelenic",
+            "game": "stl @ atl",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-04-22 20:30:12",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "4",
+            "result": "Double",
+            "evo": "104.3",
+            "la": "24",
+            "dist": "388"
+        },
+        {
+            "player": "sean murphy",
+            "game": "stl @ atl",
+            "hr/park": "30/30",
+            "pa": "35",
+            "dt": "2025-04-22 20:29:44",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "4",
+            "result": "Home Run",
+            "evo": "99.5",
+            "la": "26",
+            "dist": "374"
+        },
         {
             "player": "michael harris",
             "game": "stl @ atl",
@@ -4980,6 +5040,21 @@
         }
     ],
     "col @ kc": [
+        {
+            "player": "vinnie pasquantino",
+            "game": "col @ kc",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-04-22 20:30:12",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "bobby witt",
             "game": "col @ kc",
@@ -5729,7 +5804,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "3",
-            "result": "Official Scorer Ruling Pending",
+            "result": "In Progress",
             "evo": "49.8",
             "la": "-76",
             "dist": "1"
