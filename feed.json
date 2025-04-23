@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "22",
         "batters": "93",
-        "pitches": "1052",
+        "pitches": "1054",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "26.1",
-        "si%sinker %": "21.0",
+        "ff%fourseam fastball %": "26.2",
+        "si%sinker %": "21.1",
         "fc%cutter %": "4.4",
         "fs%splitter %": "1.4",
         "ch%changeup %": "16.5",
@@ -14,9 +14,9 @@
         "cu%curve %": "5.8",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "77",
-        "hh%hard hit %": "40.3",
+        "hh%hard hit %": "40.1",
         "brlbarrels": "15",
-        "brl%barrel %": "7.9",
+        "brl%barrel %": "7.8",
         "ab": "255",
         "avg": ".231",
         "h": "59",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "6",
         "so": "65",
-        "bipballs in play": "191",
+        "bipballs in play": "192",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-04-23 14:53:23.089692"
+        "updated": "2025-04-23 14:53:30.773788"
     },
     "stl @ atl": [
         {
@@ -1154,9 +1154,9 @@
             "start": "1:10 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "71.9",
+            "la": "13",
+            "dist": "147"
         },
         {
             "player": "gleyber torres",
@@ -3445,6 +3445,21 @@
     ],
     "nyy @ cle": [
         {
+            "player": "aaron judge",
+            "game": "nyy @ cle",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-04-23 14:53:25",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ben rice",
             "game": "nyy @ cle",
             "hr/park": "",
@@ -3454,7 +3469,7 @@
             "team": "nyy",
             "start": "1:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
