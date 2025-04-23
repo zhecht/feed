@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "33",
         "batters": "189",
-        "pitches": "1550",
+        "pitches": "1556",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "70.7",
         "ff%fourseam fastball %": "30.5",
-        "si%sinker %": "13.4",
+        "si%sinker %": "13.3",
         "fc%cutter %": "5.2",
-        "fs%splitter %": "5.6",
+        "fs%splitter %": "5.7",
         "ch%changeup %": "10.4",
         "sl%slider %": "25.3",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "116.7",
         "hhhard hit": "111",
-        "hh%hard hit %": "39.5",
+        "hh%hard hit %": "39.4",
         "brlbarrels": "18",
         "brl%barrel %": "6.4",
-        "ab": "361",
+        "ab": "362",
         "avg": ".238",
         "h": "86",
         "1b": "54",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "9",
         "so": "80",
-        "bipballs in play": "281",
+        "bipballs in play": "282",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-22 20:26:35.458405"
+        "updated": "2025-04-22 20:26:43.833637"
     },
     "nyy @ cle": [
         {
@@ -41,7 +41,7 @@
             "team": "nyy",
             "start": "6:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -973,7 +973,7 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "74.7",
             "la": "-11",
             "dist": "12"
@@ -3304,10 +3304,10 @@
             "team": "bos",
             "start": "6:45 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "104.1",
+            "la": "-21",
+            "dist": "9"
         },
         {
             "player": "ceddanne rafaela",
@@ -4373,10 +4373,10 @@
             "team": "stl",
             "start": "7:15 PM",
             "in": "4",
-            "result": "Groundout",
-            "evo": "95.0",
-            "la": "-32",
-            "dist": "5"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "masyn winn",
@@ -4860,6 +4860,21 @@
         }
     ],
     "col @ kc": [
+        {
+            "player": "jonathan india",
+            "game": "col @ kc",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-04-22 20:26:42",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "michael toglia",
             "game": "col @ kc",
@@ -5942,9 +5957,9 @@
             "start": "8:10 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "47.4",
+            "la": "-74",
+            "dist": "2"
         },
         {
             "player": "isaac paredes",
