@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "71",
-        "batters": "219",
-        "pitches": "2792",
+        "pitchers": "73",
+        "batters": "221",
+        "pitches": "2805",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "70.4",
-        "ff%fourseam fastball %": "30.3",
-        "si%sinker %": "14.0",
+        "ff%fourseam fastball %": "30.4",
+        "si%sinker %": "14.1",
         "fc%cutter %": "5.8",
         "fs%splitter %": "5.3",
         "ch%changeup %": "10.2",
         "sl%slider %": "26.3",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "116.7",
-        "hhhard hit": "189",
+        "hhhard hit": "190",
         "hh%hard hit %": "36.8",
         "brlbarrels": "34",
         "brl%barrel %": "6.6",
-        "ab": "650",
+        "ab": "653",
         "avg": ".228",
-        "h": "148",
-        "1b": "96",
+        "h": "149",
+        "1b": "97",
         "2b": "31",
         "3b": "4",
         "hr": "17",
         "so": "141",
-        "bipballs in play": "514",
+        "bipballs in play": "516",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-22 21:47:37.215608"
+        "updated": "2025-04-22 21:47:46.760441"
     },
     "nyy @ cle": [
         {
@@ -6329,6 +6329,21 @@
     ],
     "stl @ atl": [
         {
+            "player": "nolan gorman",
+            "game": "stl @ atl",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-04-22 21:47:41",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:15 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "willson contreras",
             "game": "stl @ atl",
             "hr/park": "",
@@ -8298,6 +8313,21 @@
     ],
     "lad @ chc": [
         {
+            "player": "teoscar hernandez",
+            "game": "lad @ chc",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-04-22 21:47:41",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mookie betts",
             "game": "lad @ chc",
             "hr/park": "",
@@ -8307,7 +8337,7 @@
             "team": "lad",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10946,6 +10976,21 @@
     ],
     "tb @ ari": [
         {
+            "player": "corbin carroll",
+            "game": "tb @ ari",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-04-22 21:47:41",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "94.8",
+            "la": "55",
+            "dist": "246"
+        },
+        {
             "player": "yandy diaz",
             "game": "tb @ ari",
             "hr/park": "3/30",
@@ -10991,6 +11036,22 @@
             "dist": ""
         }
     ],
-    "mil @ sf": [],
+    "mil @ sf": [
+        {
+            "player": "brice turang",
+            "game": "mil @ sf",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-04-22 21:47:41",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "9:45 PM",
+            "in": "1",
+            "result": "Single",
+            "evo": "106.3",
+            "la": "4",
+            "dist": "128"
+        }
+    ],
     "tex @ ath": []
 }
