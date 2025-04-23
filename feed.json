@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "64",
         "batters": "209",
-        "pitches": "2616",
+        "pitches": "2620",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "70.6",
-        "ff%fourseam fastball %": "30.6",
+        "ff%fourseam fastball %": "30.5",
         "si%sinker %": "13.4",
         "fc%cutter %": "6.1",
         "fs%splitter %": "5.5",
         "ch%changeup %": "10.2",
-        "sl%slider %": "26.0",
+        "sl%slider %": "26.1",
         "cu%curve %": "8.1",
         "max evmax exit velocity": "116.7",
-        "hhhard hit": "177",
+        "hhhard hit": "178",
         "hh%hard hit %": "37.1",
-        "brlbarrels": "30",
-        "brl%barrel %": "6.3",
-        "ab": "606",
-        "avg": ".226",
+        "brlbarrels": "31",
+        "brl%barrel %": "6.5",
+        "ab": "608",
+        "avg": ".225",
         "h": "137",
         "1b": "88",
         "2b": "29",
         "3b": "4",
         "hr": "16",
-        "so": "135",
-        "bipballs in play": "477",
+        "so": "136",
+        "bipballs in play": "480",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-22 21:35:01.687176"
+        "updated": "2025-04-22 21:35:11.307988"
     },
     "nyy @ cle": [
         {
@@ -4249,7 +4249,7 @@
             "team": "bos",
             "start": "6:45 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5287,9 +5287,9 @@
             "start": "7:10 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "52.0",
+            "la": "-66",
+            "dist": "1"
         },
         {
             "player": "jose azocar",
@@ -6149,6 +6149,21 @@
     ],
     "stl @ atl": [
         {
+            "player": "michael harris",
+            "game": "stl @ atl",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-04-22 21:35:11",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ozzie albies",
             "game": "stl @ atl",
             "hr/park": "",
@@ -6158,7 +6173,7 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "85.1",
             "la": "58",
             "dist": "210"
@@ -8765,19 +8780,34 @@
     ],
     "chw @ min": [
         {
-            "player": "edouard julien",
+            "player": "byron buxton",
             "game": "chw @ min",
             "hr/park": "",
+            "pa": "58",
+            "dt": "2025-04-22 21:35:11",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "91.6",
+            "la": "-24",
+            "dist": "5"
+        },
+        {
+            "player": "edouard julien",
+            "game": "chw @ min",
+            "hr/park": "0/30",
             "pa": "57",
             "dt": "2025-04-22 21:33:41",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "106.1",
+            "la": "19",
+            "dist": "352"
         },
         {
             "player": "harrison bader",
