@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "50",
-        "batters": "172",
-        "pitches": "1847",
+        "batters": "173",
+        "pitches": "1852",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "29.3",
-        "si%sinker %": "17.7",
+        "ff%fourseam fastball %": "29.4",
+        "si%sinker %": "17.6",
         "fc%cutter %": "5.5",
         "fs%splitter %": "3.0",
         "ch%changeup %": "13.3",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "40.5",
         "brlbarrels": "25",
         "brl%barrel %": "7.6",
-        "ab": "444",
-        "avg": ".243",
+        "ab": "446",
+        "avg": ".242",
         "h": "108",
         "1b": "80",
         "2b": "17",
         "3b": "1",
         "hr": "10",
-        "so": "114",
+        "so": "116",
         "bipballs in play": "331",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-23 19:52:46.962311"
+        "updated": "2025-04-23 19:52:55.528755"
     },
     "stl @ atl": [
         {
@@ -6224,6 +6224,21 @@
     ],
     "sea @ bos": [
         {
+            "player": "wilyer abreu",
+            "game": "sea @ bos",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-04-23 19:52:55",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "6:45 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alex bregman",
             "game": "sea @ bos",
             "hr/park": "",
@@ -6233,7 +6248,7 @@
             "team": "bos",
             "start": "6:45 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6721,6 +6736,21 @@
     ],
     "lad @ chc": [
         {
+            "player": "jon berti",
+            "game": "lad @ chc",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-04-23 19:52:55",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:00 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "carson kelly",
             "game": "lad @ chc",
             "hr/park": "",
@@ -6730,7 +6760,7 @@
             "team": "chc",
             "start": "7:00 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "77.1",
             "la": "44",
             "dist": "243"
@@ -7048,7 +7078,7 @@
             "team": "hou",
             "start": "7:40 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
