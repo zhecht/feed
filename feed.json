@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "40",
         "batters": "202",
-        "pitches": "1901",
+        "pitches": "1907",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "70.7",
-        "ff%fourseam fastball %": "30.8",
+        "ff%fourseam fastball %": "30.9",
         "si%sinker %": "13.4",
         "fc%cutter %": "5.8",
         "fs%splitter %": "5.6",
-        "ch%changeup %": "10.4",
+        "ch%changeup %": "10.3",
         "sl%slider %": "25.3",
         "cu%curve %": "8.7",
         "max evmax exit velocity": "116.7",
         "hhhard hit": "137",
-        "hh%hard hit %": "38.2",
+        "hh%hard hit %": "38.1",
         "brlbarrels": "22",
         "brl%barrel %": "6.1",
         "ab": "455",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "10",
         "so": "97",
-        "bipballs in play": "359",
+        "bipballs in play": "360",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-22 20:46:48.868661"
+        "updated": "2025-04-22 20:46:57.751813"
     },
     "nyy @ cle": [
         {
@@ -2888,6 +2888,21 @@
     ],
     "bal @ wsh": [
         {
+            "player": "jackson holliday",
+            "game": "bal @ wsh",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-04-22 20:46:57",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:45 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gary sanchez",
             "game": "bal @ wsh",
             "hr/park": "",
@@ -2897,10 +2912,10 @@
             "team": "bal",
             "start": "6:45 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "90.8",
+            "la": "69",
+            "dist": "145"
         },
         {
             "player": "jordan westburg",
@@ -3784,7 +3799,7 @@
             "team": "sea",
             "start": "6:45 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6267,7 +6282,7 @@
             "team": "lad",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
