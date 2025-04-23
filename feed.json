@@ -2,15 +2,15 @@
     "all": {
         "pitchers": "10",
         "batters": "86",
-        "pitches": "486",
+        "pitches": "487",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "23.5",
+        "ff%fourseam fastball %": "23.2",
         "si%sinker %": "25.5",
         "fc%cutter %": "4.3",
         "fs%splitter %": "0.6",
         "ch%changeup %": "14.8",
-        "sl%slider %": "26.5",
+        "sl%slider %": "26.9",
         "cu%curve %": "4.7",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "48",
@@ -24,11 +24,11 @@
         "2b": "6",
         "3b": "1",
         "hr": "4",
-        "so": "19",
+        "so": "21",
         "bipballs in play": "102",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-04-23 13:49:22.628478"
+        "updated": "2025-04-23 13:49:29.916839"
     },
     "stl @ atl": [
         {
@@ -41,7 +41,7 @@
             "team": "atl",
             "start": "12:15 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "98.4",
             "la": "-24",
             "dist": "5"
@@ -808,7 +808,7 @@
             "team": "det",
             "start": "1:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1442,7 +1442,7 @@
             "team": "mia",
             "start": "1:10 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
