@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "25",
+        "pitchers": "24",
         "batters": "177",
-        "pitches": "1266",
+        "pitches": "1269",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "71.6",
         "ff%fourseam fastball %": "32.8",
         "si%sinker %": "12.1",
-        "fc%cutter %": "4.9",
+        "fc%cutter %": "5.0",
         "fs%splitter %": "5.8",
         "ch%changeup %": "11.0",
-        "sl%slider %": "23.1",
-        "cu%curve %": "10.3",
+        "sl%slider %": "23.2",
+        "cu%curve %": "10.2",
         "max evmax exit velocity": "116.7",
-        "hhhard hit": "92",
-        "hh%hard hit %": "38.8",
-        "brlbarrels": "14",
-        "brl%barrel %": "5.9",
-        "ab": "297",
-        "avg": ".239",
+        "hhhard hit": "91",
+        "hh%hard hit %": "38.4",
+        "brlbarrels": "13",
+        "brl%barrel %": "5.5",
+        "ab": "296",
+        "avg": ".240",
         "h": "71",
         "1b": "44",
         "2b": "17",
         "3b": "3",
         "hr": "7",
-        "so": "61",
+        "so": "62",
         "bipballs in play": "237",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-22 20:12:04.485112"
+        "updated": "2025-04-22 20:12:12.658031"
     },
     "nyy @ cle": [
         {
@@ -41,7 +41,7 @@
             "team": "nyy",
             "start": "6:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -829,21 +829,6 @@
     ],
     "sd @ det": [
         {
-            "player": "riley greene",
-            "game": "sd @ det",
-            "hr/park": "",
-            "pa": "45",
-            "dt": "2025-04-22 20:11:59",
-            "img": "https://www.mlbstatic.com/team-logos/116.svg",
-            "team": "det",
-            "start": "6:40 PM",
-            "in": "6",
-            "result": "Flyout",
-            "evo": "109.7",
-            "la": "22",
-            "dist": "383"
-        },
-        {
             "player": "gleyber torres",
             "game": "sd @ det",
             "hr/park": "0/30",
@@ -1515,10 +1500,10 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "79.4",
+            "la": "73",
+            "dist": "95"
         },
         {
             "player": "xavier edwards",
@@ -2874,6 +2859,21 @@
         }
     ],
     "sea @ bos": [
+        {
+            "player": "jp crawford",
+            "game": "sea @ bos",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-04-22 20:12:12",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "6:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "carlos narvaez",
             "game": "sea @ bos",
@@ -4443,6 +4443,21 @@
     ],
     "lad @ chc": [
         {
+            "player": "andy pages",
+            "game": "lad @ chc",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-04-22 20:12:12",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "enrique hernandez",
             "game": "lad @ chc",
             "hr/park": "",
@@ -4452,7 +4467,7 @@
             "team": "lad",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "91.0",
             "la": "-29",
             "dist": "4"
@@ -4709,7 +4724,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
