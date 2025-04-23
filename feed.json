@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "41",
         "batters": "205",
-        "pitches": "1965",
+        "pitches": "1970",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "70.7",
-        "ff%fourseam fastball %": "30.7",
-        "si%sinker %": "13.1",
+        "ff%fourseam fastball %": "30.8",
+        "si%sinker %": "13.2",
         "fc%cutter %": "5.9",
         "fs%splitter %": "5.6",
         "ch%changeup %": "10.4",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.7",
         "max evmax exit velocity": "116.7",
         "hhhard hit": "142",
-        "hh%hard hit %": "38.6",
+        "hh%hard hit %": "38.5",
         "brlbarrels": "23",
-        "brl%barrel %": "6.3",
-        "ab": "464",
-        "avg": ".235",
+        "brl%barrel %": "6.2",
+        "ab": "466",
+        "avg": ".234",
         "h": "109",
         "1b": "69",
         "2b": "26",
         "3b": "3",
         "hr": "11",
         "so": "100",
-        "bipballs in play": "368",
+        "bipballs in play": "369",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-22 20:50:03.332184"
+        "updated": "2025-04-22 20:50:12.202359"
     },
     "nyy @ cle": [
         {
@@ -1068,6 +1068,21 @@
         }
     ],
     "sd @ det": [
+        {
+            "player": "jose iglesias",
+            "game": "sd @ det",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-04-22 20:50:12",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "tirso ornelas",
             "game": "sd @ det",
@@ -4626,10 +4641,10 @@
             "team": "phi",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "73.7",
+            "la": "-31",
+            "dist": "6"
         },
         {
             "player": "bryce harper",
@@ -5881,9 +5896,24 @@
     ],
     "col @ kc": [
         {
-            "player": "aaron schunk",
+            "player": "sean bouchard",
             "game": "col @ kc",
             "hr/park": "",
+            "pa": "35",
+            "dt": "2025-04-22 20:50:12",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "aaron schunk",
+            "game": "col @ kc",
+            "hr/park": "0/30",
             "pa": "34",
             "dt": "2025-04-22 20:49:12",
             "img": "https://www.mlbstatic.com/team-logos/115.svg",
