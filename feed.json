@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "13",
         "batters": "91",
-        "pitches": "648",
+        "pitches": "655",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "23.9",
-        "si%sinker %": "23.9",
-        "fc%cutter %": "4.8",
+        "ff%fourseam fastball %": "24.0",
+        "si%sinker %": "23.8",
+        "fc%cutter %": "4.7",
         "fs%splitter %": "0.9",
-        "ch%changeup %": "16.4",
-        "sl%slider %": "24.1",
-        "cu%curve %": "5.9",
+        "ch%changeup %": "16.2",
+        "sl%slider %": "24.4",
+        "cu%curve %": "5.8",
         "max evmax exit velocity": "113.9",
-        "hhhard hit": "55",
+        "hhhard hit": "56",
         "hh%hard hit %": "44.4",
         "brlbarrels": "12",
-        "brl%barrel %": "9.7",
-        "ab": "163",
-        "avg": ".239",
+        "brl%barrel %": "9.5",
+        "ab": "164",
+        "avg": ".238",
         "h": "39",
         "1b": "27",
         "2b": "7",
         "3b": "1",
         "hr": "4",
-        "so": "34",
-        "bipballs in play": "124",
+        "so": "35",
+        "bipballs in play": "126",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-04-23 14:06:48.514756"
+        "updated": "2025-04-23 14:06:56.010823"
     },
     "stl @ atl": [
         {
@@ -41,7 +41,7 @@
             "team": "atl",
             "start": "12:15 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -913,10 +913,10 @@
             "team": "det",
             "start": "1:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "100.8",
+            "la": "-40",
+            "dist": "3"
         },
         {
             "player": "dillon dingler",
@@ -1807,6 +1807,21 @@
         }
     ],
     "cin @ mia": [
+        {
+            "player": "austin wynns",
+            "game": "cin @ mia",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-04-23 14:06:53",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "1:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "89.1",
+            "la": "3",
+            "dist": "75"
+        },
         {
             "player": "spencer steer",
             "game": "cin @ mia",
