@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "9",
-        "batters": "44",
-        "pitches": "242",
+        "batters": "46",
+        "pitches": "246",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "74.3",
-        "ff%fourseam fastball %": "24.0",
-        "si%sinker %": "28.5",
+        "ff%fourseam fastball %": "23.6",
+        "si%sinker %": "28.9",
         "fc%cutter %": "3.7",
         "fs%splitter %": "0.8",
-        "ch%changeup %": "12.4",
+        "ch%changeup %": "12.6",
         "sl%slider %": "26.0",
         "cu%curve %": "4.5",
         "max evmax exit velocity": "113.8",
         "hhhard hit": "22",
-        "hh%hard hit %": "47.8",
+        "hh%hard hit %": "46.8",
         "brlbarrels": "5",
-        "brl%barrel %": "10.9",
-        "ab": "59",
-        "avg": ".288",
+        "brl%barrel %": "10.6",
+        "ab": "61",
+        "avg": ".279",
         "h": "17",
         "1b": "11",
         "2b": "4",
         "3b": "1",
         "hr": "1",
-        "so": "7",
-        "bipballs in play": "46",
+        "so": "8",
+        "bipballs in play": "47",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-04-23 13:23:51.830016"
+        "updated": "2025-04-23 13:23:59.086993"
     },
     "stl @ atl": [
         {
@@ -619,6 +619,21 @@
     ],
     "sd @ det": [
         {
+            "player": "spencer torkelson",
+            "game": "sd @ det",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-04-23 13:23:54",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andy ibanez",
             "game": "sd @ det",
             "hr/park": "",
@@ -842,10 +857,10 @@
             "team": "mia",
             "start": "1:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "82.4",
+            "la": "-1",
+            "dist": "34"
         },
         {
             "player": "xavier edwards",
@@ -940,6 +955,21 @@
     ],
     "nyy @ cle": [
         {
+            "player": "anthony volpe",
+            "game": "nyy @ cle",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-04-23 13:23:54",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jazz chisholm",
             "game": "nyy @ cle",
             "hr/park": "",
@@ -949,7 +979,7 @@
             "team": "nyy",
             "start": "1:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
