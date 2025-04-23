@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "47",
-        "batters": "159",
-        "pitches": "1751",
+        "batters": "160",
+        "pitches": "1754",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.1",
         "ff%fourseam fastball %": "29.0",
         "si%sinker %": "18.0",
-        "fc%cutter %": "5.0",
+        "fc%cutter %": "4.9",
         "fs%splitter %": "2.7",
         "ch%changeup %": "13.8",
-        "sl%slider %": "25.6",
+        "sl%slider %": "25.7",
         "cu%curve %": "5.9",
         "max evmax exit velocity": "116.3",
         "hhhard hit": "126",
-        "hh%hard hit %": "40.5",
+        "hh%hard hit %": "40.4",
         "brlbarrels": "24",
         "brl%barrel %": "7.7",
-        "ab": "418",
-        "avg": ".239",
-        "h": "100",
-        "1b": "73",
+        "ab": "420",
+        "avg": ".240",
+        "h": "101",
+        "1b": "74",
         "2b": "17",
         "3b": "1",
         "hr": "9",
         "so": "112",
-        "bipballs in play": "311",
+        "bipballs in play": "312",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-23 19:42:36.875807"
+        "updated": "2025-04-23 19:42:45.508843"
     },
     "stl @ atl": [
         {
@@ -6571,6 +6571,21 @@
     ],
     "lad @ chc": [
         {
+            "player": "shohei ohtani",
+            "game": "lad @ chc",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-04-23 19:42:41",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "7:00 PM",
+            "in": "3",
+            "result": "Single",
+            "evo": "67.9",
+            "la": "34",
+            "dist": "225"
+        },
+        {
             "player": "austin barnes",
             "game": "lad @ chc",
             "hr/park": "",
@@ -6814,6 +6829,21 @@
     "col @ kc": [],
     "tor @ hou": [
         {
+            "player": "vladimir guerrero",
+            "game": "tor @ hou",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-04-23 19:42:41",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bo bichette",
             "game": "tor @ hou",
             "hr/park": "",
@@ -6823,7 +6853,7 @@
             "team": "tor",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "93.2",
             "la": "8",
             "dist": "131"
