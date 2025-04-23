@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "82",
+        "pitchers": "83",
         "batters": "242",
-        "pitches": "3035",
+        "pitches": "3039",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "70.4",
         "ff%fourseam fastball %": "29.8",
@@ -10,14 +10,14 @@
         "fc%cutter %": "5.8",
         "fs%splitter %": "5.3",
         "ch%changeup %": "10.0",
-        "sl%slider %": "26.3",
+        "sl%slider %": "26.4",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "116.7",
-        "hhhard hit": "205",
-        "hh%hard hit %": "36.7",
+        "hhhard hit": "204",
+        "hh%hard hit %": "36.6",
         "brlbarrels": "37",
         "brl%barrel %": "6.6",
-        "ab": "704",
+        "ab": "706",
         "avg": ".237",
         "h": "167",
         "1b": "106",
@@ -28,7 +28,7 @@
         "bipballs in play": "558",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-22 22:01:03.419824"
+        "updated": "2025-04-22 22:01:13.649176"
     },
     "nyy @ cle": [
         {
@@ -4249,10 +4249,10 @@
             "team": "sea",
             "start": "6:45 PM",
             "in": "9",
-            "result": "Groundout",
-            "evo": "97.4",
-            "la": "-20",
-            "dist": "8"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "julio rodriguez",
@@ -5456,6 +5456,36 @@
         }
     ],
     "phi @ nym": [
+        {
+            "player": "jose azocar",
+            "game": "phi @ nym",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-04-22 22:01:11",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "luisangel acuna",
+            "game": "phi @ nym",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-04-22 22:01:11",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "Flyout",
+            "evo": "81.7",
+            "la": "40",
+            "dist": "268"
+        },
         {
             "player": "jt realmuto",
             "game": "phi @ nym",
