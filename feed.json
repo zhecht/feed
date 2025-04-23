@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "12",
         "batters": "91",
-        "pitches": "629",
+        "pitches": "633",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "23.8",
-        "si%sinker %": "24.0",
-        "fc%cutter %": "4.6",
-        "fs%splitter %": "1.0",
-        "ch%changeup %": "16.4",
+        "ff%fourseam fastball %": "24.0",
+        "si%sinker %": "23.9",
+        "fc%cutter %": "4.7",
+        "fs%splitter %": "0.9",
+        "ch%changeup %": "16.3",
         "sl%slider %": "24.0",
         "cu%curve %": "6.0",
         "max evmax exit velocity": "113.9",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "43.0",
         "brlbarrels": "12",
         "brl%barrel %": "9.9",
-        "ab": "156",
-        "avg": ".237",
+        "ab": "158",
+        "avg": ".234",
         "h": "37",
         "1b": "25",
         "2b": "7",
         "3b": "1",
         "hr": "4",
-        "so": "33",
+        "so": "34",
         "bipballs in play": "121",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-04-23 14:04:46.738707"
+        "updated": "2025-04-23 14:04:54.260291"
     },
     "stl @ atl": [
         {
@@ -898,7 +898,7 @@
             "team": "det",
             "start": "1:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1340,6 +1340,21 @@
         }
     ],
     "phi @ nym": [
+        {
+            "player": "alec bohm",
+            "game": "phi @ nym",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-04-23 14:04:53",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "1:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jt realmuto",
             "game": "phi @ nym",
@@ -2200,6 +2215,21 @@
     ],
     "nyy @ cle": [
         {
+            "player": "jasson dominguez",
+            "game": "nyy @ cle",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-04-23 14:04:53",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "austin wells",
             "game": "nyy @ cle",
             "hr/park": "",
@@ -2209,7 +2239,7 @@
             "team": "nyy",
             "start": "1:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "60.1",
             "la": "3",
             "dist": "44"
