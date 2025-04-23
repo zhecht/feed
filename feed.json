@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "26",
+        "pitchers": "27",
         "batters": "94",
-        "pitches": "1132",
+        "pitches": "1138",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "26.7",
-        "si%sinker %": "20.8",
-        "fc%cutter %": "4.2",
+        "ff%fourseam fastball %": "26.6",
+        "si%sinker %": "20.7",
+        "fc%cutter %": "4.1",
         "fs%splitter %": "1.5",
         "ch%changeup %": "16.5",
-        "sl%slider %": "24.6",
-        "cu%curve %": "5.7",
+        "sl%slider %": "24.7",
+        "cu%curve %": "5.9",
         "max evmax exit velocity": "113.9",
-        "hhhard hit": "83",
-        "hh%hard hit %": "40.3",
+        "hhhard hit": "84",
+        "hh%hard hit %": "40.6",
         "brlbarrels": "16",
-        "brl%barrel %": "7.8",
-        "ab": "275",
+        "brl%barrel %": "7.7",
+        "ab": "276",
         "avg": ".236",
         "h": "65",
         "1b": "46",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "6",
         "so": "69",
-        "bipballs in play": "206",
+        "bipballs in play": "207",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-04-23 15:05:17.212816"
+        "updated": "2025-04-23 15:05:25.793555"
     },
     "stl @ atl": [
         {
@@ -2016,6 +2016,21 @@
     ],
     "phi @ nym": [
         {
+            "player": "bryce harper",
+            "game": "phi @ nym",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-04-23 15:05:24",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "1:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trea turner",
             "game": "phi @ nym",
             "hr/park": "",
@@ -2813,6 +2828,21 @@
     ],
     "cin @ mia": [
         {
+            "player": "noelvi marte",
+            "game": "cin @ mia",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-04-23 15:05:24",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "1:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "blake dunn",
             "game": "cin @ mia",
             "hr/park": "",
@@ -2822,10 +2852,10 @@
             "team": "cin",
             "start": "1:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "101.4",
+            "la": "5",
+            "dist": "96"
         },
         {
             "player": "elly de la cruz",
@@ -3679,7 +3709,7 @@
             "team": "nyy",
             "start": "1:10 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
