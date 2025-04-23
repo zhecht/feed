@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "5",
-        "batters": "21",
-        "pitches": "124",
+        "pitchers": "6",
+        "batters": "23",
+        "pitches": "129",
         "max velomax pitch velocity": "97.4",
         "min velomin pitch velocity": "74.3",
-        "ff%fourseam fastball %": "20.2",
-        "si%sinker %": "31.5",
-        "fc%cutter %": "0.8",
+        "ff%fourseam fastball %": "21.7",
+        "si%sinker %": "31.0",
+        "fc%cutter %": "1.6",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "11.3",
-        "sl%slider %": "31.5",
-        "cu%curve %": "4.8",
+        "ch%changeup %": "10.9",
+        "sl%slider %": "30.2",
+        "cu%curve %": "4.7",
         "max evmax exit velocity": "113.8",
         "hhhard hit": "10",
         "hh%hard hit %": "40.0",
         "brlbarrels": "1",
         "brl%barrel %": "4.0",
-        "ab": "30",
-        "avg": ".233",
+        "ab": "32",
+        "avg": ".219",
         "h": "7",
         "1b": "5",
         "2b": "2",
@@ -28,7 +28,7 @@
         "bipballs in play": "25",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-04-23 13:12:51.497651"
+        "updated": "2025-04-23 13:12:58.466999"
     },
     "stl @ atl": [
         {
@@ -499,6 +499,21 @@
     ],
     "sd @ det": [
         {
+            "player": "gavin sheets",
+            "game": "sd @ det",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-04-23 13:12:53",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "1:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "fernando tatis",
             "game": "sd @ det",
             "hr/park": "",
@@ -508,7 +523,7 @@
             "team": "sd",
             "start": "1:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Field Error",
             "evo": "109.9",
             "la": "-17",
             "dist": "9"
@@ -531,7 +546,23 @@
             "dist": ""
         }
     ],
-    "cin @ mia": [],
+    "cin @ mia": [
+        {
+            "player": "tj friedl",
+            "game": "cin @ mia",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-04-23 13:12:53",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "1:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "nyy @ cle": [
         {
             "player": "ben rice",
