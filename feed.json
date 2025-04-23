@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "34",
         "batters": "192",
-        "pitches": "1651",
+        "pitches": "1652",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "70.7",
-        "ff%fourseam fastball %": "30.9",
+        "ff%fourseam fastball %": "31.0",
         "si%sinker %": "13.3",
-        "fc%cutter %": "5.1",
+        "fc%cutter %": "5.2",
         "fs%splitter %": "5.7",
         "ch%changeup %": "10.5",
         "sl%slider %": "25.1",
         "cu%curve %": "9.3",
         "max evmax exit velocity": "116.7",
         "hhhard hit": "122",
-        "hh%hard hit %": "40.4",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "22",
         "brl%barrel %": "7.3",
         "ab": "385",
-        "avg": ".242",
-        "h": "93",
+        "avg": ".244",
+        "h": "94",
         "1b": "58",
-        "2b": "22",
+        "2b": "23",
         "3b": "3",
         "hr": "10",
         "so": "85",
-        "bipballs in play": "302",
+        "bipballs in play": "303",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-22 20:32:23.619946"
+        "updated": "2025-04-22 20:32:32.119075"
     },
     "nyy @ cle": [
         {
@@ -1806,6 +1806,21 @@
     ],
     "cin @ mia": [
         {
+            "player": "matt mervis",
+            "game": "cin @ mia",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-04-22 20:32:27",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "46.5",
+            "la": "75",
+            "dist": "42"
+        },
+        {
             "player": "connor norby",
             "game": "cin @ mia",
             "hr/park": "",
@@ -1815,7 +1830,7 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "98.5",
             "la": "28",
             "dist": "370"
@@ -5131,21 +5146,6 @@
     ],
     "col @ kc": [
         {
-            "player": "salvador perez",
-            "game": "col @ kc",
-            "hr/park": "",
-            "pa": "27",
-            "dt": "2025-04-22 20:32:12",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "start": "7:40 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "vinnie pasquantino",
             "game": "col @ kc",
             "hr/park": "",
@@ -5155,10 +5155,10 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "4",
-            "result": "Flyout",
-            "evo": "94.9",
-            "la": "57",
-            "dist": "224"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "bobby witt",
@@ -5925,9 +5925,9 @@
             "start": "7:40 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "78.3",
+            "la": "63",
+            "dist": "156"
         },
         {
             "player": "trevor larnach",
@@ -5939,7 +5939,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "3",
-            "result": "Official Scorer Ruling Pending",
+            "result": "Field Error",
             "evo": "49.8",
             "la": "-76",
             "dist": "1"
