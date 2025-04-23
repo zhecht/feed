@@ -1,51 +1,36 @@
 {
     "all": {
-        "pitchers": "23",
-        "batters": "163",
-        "pitches": "1137",
+        "pitchers": "22",
+        "batters": "164",
+        "pitches": "1141",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "71.6",
         "ff%fourseam fastball %": "31.5",
-        "si%sinker %": "12.8",
+        "si%sinker %": "12.9",
         "fc%cutter %": "4.9",
-        "fs%splitter %": "6.2",
-        "ch%changeup %": "11.2",
+        "fs%splitter %": "6.1",
+        "ch%changeup %": "11.1",
         "sl%slider %": "23.4",
-        "cu%curve %": "10.0",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "116.7",
         "hhhard hit": "86",
-        "hh%hard hit %": "41.0",
+        "hh%hard hit %": "40.8",
         "brlbarrels": "13",
         "brl%barrel %": "6.2",
-        "ab": "266",
-        "avg": ".248",
-        "h": "66",
-        "1b": "38",
+        "ab": "268",
+        "avg": ".243",
+        "h": "65",
+        "1b": "37",
         "2b": "18",
         "3b": "3",
         "hr": "7",
         "so": "57",
-        "bipballs in play": "210",
+        "bipballs in play": "211",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-04-22 20:05:04.641957"
+        "updated": "2025-04-22 20:05:12.537390"
     },
     "nyy @ cle": [
-        {
-            "player": "brayan rocchio",
-            "game": "nyy @ cle",
-            "hr/park": "",
-            "pa": "51",
-            "dt": "2025-04-22 20:04:59",
-            "img": "https://www.mlbstatic.com/team-logos/114.svg",
-            "team": "cle",
-            "start": "6:10 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "daniel schneemann",
             "game": "nyy @ cle",
@@ -71,7 +56,7 @@
             "team": "cle",
             "start": "6:10 PM",
             "in": "6",
-            "result": "Single",
+            "result": "Field Error",
             "evo": "69.1",
             "la": "15",
             "dist": "142"
@@ -799,6 +784,21 @@
     ],
     "sd @ det": [
         {
+            "player": "oscar gonzalez",
+            "game": "sd @ det",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-04-22 20:05:12",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "xander bogaerts",
             "game": "sd @ det",
             "hr/park": "",
@@ -808,10 +808,10 @@
             "team": "sd",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "85.0",
+            "la": "49",
+            "dist": "225"
         },
         {
             "player": "manny machado",
@@ -3162,6 +3162,21 @@
     ],
     "phi @ nym": [
         {
+            "player": "juan soto",
+            "game": "phi @ nym",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-04-22 20:04:12",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "francisco lindor",
             "game": "phi @ nym",
             "hr/park": "",
@@ -4052,6 +4067,21 @@
         }
     ],
     "lad @ chc": [
+        {
+            "player": "miguel amaya",
+            "game": "lad @ chc",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-04-22 20:05:12",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "pete crow armstrong",
             "game": "lad @ chc",
