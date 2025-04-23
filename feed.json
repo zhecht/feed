@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "48",
         "batters": "206",
-        "pitches": "2211",
+        "pitches": "2216",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "70.7",
         "ff%fourseam fastball %": "30.8",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.3",
         "max evmax exit velocity": "116.7",
         "hhhard hit": "155",
-        "hh%hard hit %": "37.6",
+        "hh%hard hit %": "37.4",
         "brlbarrels": "26",
         "brl%barrel %": "6.3",
-        "ab": "516",
-        "avg": ".229",
-        "h": "118",
-        "1b": "74",
+        "ab": "517",
+        "avg": ".230",
+        "h": "119",
+        "1b": "75",
         "2b": "28",
         "3b": "3",
         "hr": "13",
         "so": "112",
-        "bipballs in play": "412",
+        "bipballs in play": "414",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-22 21:04:18.822913"
+        "updated": "2025-04-22 21:04:28.019833"
     },
     "nyy @ cle": [
         {
@@ -2100,10 +2100,10 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "76.0",
+            "la": "53",
+            "dist": "200"
         },
         {
             "player": "otto lopez",
@@ -3167,7 +3167,7 @@
             "team": "bal",
             "start": "6:45 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "92.2",
             "la": "-17",
             "dist": "7"
@@ -4174,7 +4174,7 @@
             "team": "bos",
             "start": "6:45 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "47.2",
             "la": "-33",
             "dist": "6"
@@ -5684,6 +5684,21 @@
     ],
     "stl @ atl": [
         {
+            "player": "pedro pages",
+            "game": "stl @ atl",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-04-22 21:04:28",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:15 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jordan walker",
             "game": "stl @ atl",
             "hr/park": "",
@@ -5693,7 +5708,7 @@
             "team": "stl",
             "start": "7:15 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7655,6 +7670,21 @@
     ],
     "chw @ min": [
         {
+            "player": "trevor larnach",
+            "game": "chw @ min",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-04-22 21:04:28",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luke keaschall",
             "game": "chw @ min",
             "hr/park": "",
@@ -7664,10 +7694,10 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "5",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "90.6",
+            "la": "12",
+            "dist": "181"
         },
         {
             "player": "byron buxton",
