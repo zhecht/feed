@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "33",
         "batters": "98",
-        "pitches": "1280",
+        "pitches": "1281",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "71.1",
         "ff%fourseam fastball %": "27.7",
-        "si%sinker %": "19.2",
+        "si%sinker %": "19.3",
         "fc%cutter %": "3.7",
         "fs%splitter %": "2.2",
         "ch%changeup %": "15.3",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "40.1",
         "brlbarrels": "17",
         "brl%barrel %": "7.5",
-        "ab": "304",
-        "avg": ".234",
+        "ab": "305",
+        "avg": ".233",
         "h": "71",
         "1b": "50",
         "2b": "13",
@@ -28,7 +28,7 @@
         "bipballs in play": "227",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-04-23 15:25:46.576933"
+        "updated": "2025-04-23 15:25:54.629169"
     },
     "stl @ atl": [
         {
@@ -2130,7 +2130,7 @@
             "team": "phi",
             "start": "1:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "83.9",
             "la": "-31",
             "dist": "3"
@@ -4015,6 +4015,21 @@
     ],
     "nyy @ cle": [
         {
+            "player": "paul goldschmidt",
+            "game": "nyy @ cle",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-04-23 15:25:54",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cody bellinger",
             "game": "nyy @ cle",
             "hr/park": "",
@@ -4024,7 +4039,7 @@
             "team": "nyy",
             "start": "1:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "86.8",
             "la": "27",
             "dist": "288"
