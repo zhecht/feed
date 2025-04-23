@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "23",
         "batters": "93",
-        "pitches": "1057",
+        "pitches": "1061",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "71.1",
         "ff%fourseam fastball %": "26.2",
-        "si%sinker %": "21.1",
-        "fc%cutter %": "4.4",
+        "si%sinker %": "21.0",
+        "fc%cutter %": "4.3",
         "fs%splitter %": "1.4",
         "ch%changeup %": "16.5",
         "sl%slider %": "24.7",
         "cu%curve %": "5.8",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "77",
-        "hh%hard hit %": "40.1",
+        "hh%hard hit %": "39.9",
         "brlbarrels": "15",
         "brl%barrel %": "7.8",
-        "ab": "257",
+        "ab": "258",
         "avg": ".233",
         "h": "60",
         "1b": "42",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "6",
         "so": "65",
-        "bipballs in play": "192",
+        "bipballs in play": "193",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-04-23 14:54:02.210279"
+        "updated": "2025-04-23 14:54:09.962984"
     },
     "stl @ atl": [
         {
@@ -2693,6 +2693,21 @@
     ],
     "cin @ mia": [
         {
+            "player": "otto lopez",
+            "game": "cin @ mia",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-04-23 14:54:09",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle stowers",
             "game": "cin @ mia",
             "hr/park": "",
@@ -2702,10 +2717,10 @@
             "team": "mia",
             "start": "1:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "84.5",
+            "la": "23",
+            "dist": "274"
         },
         {
             "player": "matt mclain",
