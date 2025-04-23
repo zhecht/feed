@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "10",
-        "batters": "75",
-        "pitches": "383",
+        "batters": "76",
+        "pitches": "387",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "23.5",
-        "si%sinker %": "26.9",
-        "fc%cutter %": "3.7",
+        "ff%fourseam fastball %": "23.3",
+        "si%sinker %": "26.6",
+        "fc%cutter %": "4.1",
         "fs%splitter %": "0.5",
-        "ch%changeup %": "13.6",
-        "sl%slider %": "26.9",
-        "cu%curve %": "5.0",
+        "ch%changeup %": "14.2",
+        "sl%slider %": "26.4",
+        "cu%curve %": "4.9",
         "max evmax exit velocity": "113.8",
-        "hhhard hit": "36",
-        "hh%hard hit %": "47.4",
+        "hhhard hit": "37",
+        "hh%hard hit %": "48.1",
         "brlbarrels": "8",
-        "brl%barrel %": "10.5",
+        "brl%barrel %": "10.4",
         "ab": "96",
         "avg": ".260",
         "h": "25",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "2",
         "so": "15",
-        "bipballs in play": "76",
+        "bipballs in play": "77",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-04-23 13:38:15.486236"
+        "updated": "2025-04-23 13:38:24.911752"
     },
     "stl @ atl": [
         {
@@ -709,21 +709,6 @@
     ],
     "sd @ det": [
         {
-            "player": "justyn henry malloy",
-            "game": "sd @ det",
-            "hr/park": "",
-            "pa": "17",
-            "dt": "2025-04-23 13:37:38",
-            "img": "https://www.mlbstatic.com/team-logos/116.svg",
-            "team": "det",
-            "start": "1:10 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "trey sweeney",
             "game": "sd @ det",
             "hr/park": "",
@@ -965,6 +950,21 @@
         }
     ],
     "phi @ nym": [
+        {
+            "player": "trea turner",
+            "game": "phi @ nym",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-04-23 13:38:23",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "1:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "104.8",
+            "la": "-2",
+            "dist": "31"
+        },
         {
             "player": "johan rojas",
             "game": "phi @ nym",
@@ -1405,6 +1405,21 @@
     ],
     "nyy @ cle": [
         {
+            "player": "oswaldo cabrera",
+            "game": "nyy @ cle",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-04-23 13:38:23",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:10 PM",
+            "in": "2",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jasson dominguez",
             "game": "nyy @ cle",
             "hr/park": "",
@@ -1414,7 +1429,7 @@
             "team": "nyy",
             "start": "1:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
