@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "40",
-        "batters": "200",
-        "pitches": "1895",
+        "batters": "202",
+        "pitches": "1901",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "70.7",
         "ff%fourseam fastball %": "30.8",
@@ -11,24 +11,24 @@
         "fs%splitter %": "5.6",
         "ch%changeup %": "10.4",
         "sl%slider %": "25.3",
-        "cu%curve %": "8.6",
+        "cu%curve %": "8.7",
         "max evmax exit velocity": "116.7",
         "hhhard hit": "137",
-        "hh%hard hit %": "38.4",
+        "hh%hard hit %": "38.2",
         "brlbarrels": "22",
-        "brl%barrel %": "6.2",
-        "ab": "451",
+        "brl%barrel %": "6.1",
+        "ab": "455",
         "avg": ".235",
-        "h": "106",
-        "1b": "67",
+        "h": "107",
+        "1b": "68",
         "2b": "26",
         "3b": "3",
         "hr": "10",
         "so": "97",
-        "bipballs in play": "357",
+        "bipballs in play": "359",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-22 20:46:39.763027"
+        "updated": "2025-04-22 20:46:48.868661"
     },
     "nyy @ cle": [
         {
@@ -1079,9 +1079,9 @@
             "start": "6:40 PM",
             "in": "9",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "37.8",
+            "la": "-50",
+            "dist": "4"
         },
         {
             "player": "gleyber torres",
@@ -6267,7 +6267,7 @@
             "team": "lad",
             "start": "7:40 PM",
             "in": "4",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6755,6 +6755,21 @@
     ],
     "chw @ min": [
         {
+            "player": "harrison bader",
+            "game": "chw @ min",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-04-22 20:46:42",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brooks lee",
             "game": "chw @ min",
             "hr/park": "",
@@ -6764,7 +6779,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "66.1",
             "la": "31",
             "dist": "222"
@@ -7281,6 +7296,36 @@
         }
     ],
     "tor @ hou": [
+        {
+            "player": "ernie clement",
+            "game": "tor @ hou",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-04-22 20:46:42",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "will wagner",
+            "game": "tor @ hou",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-04-22 20:46:42",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "49.9",
+            "la": "-27",
+            "dist": "8"
+        },
         {
             "player": "jose altuve",
             "game": "tor @ hou",
