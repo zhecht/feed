@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "21",
         "batters": "74",
-        "pitches": "853",
+        "pitches": "855",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "75.3",
-        "ff%fourseam fastball %": "39.4",
+        "ff%fourseam fastball %": "39.3",
         "si%sinker %": "15.9",
         "fc%cutter %": "4.1",
         "fs%splitter %": "0.0",
         "ch%changeup %": "11.7",
-        "sl%slider %": "19.0",
-        "cu%curve %": "9.8",
+        "sl%slider %": "19.3",
+        "cu%curve %": "9.7",
         "max evmax exit velocity": "110.8",
         "hhhard hit": "46",
-        "hh%hard hit %": "34.1",
+        "hh%hard hit %": "33.8",
         "brlbarrels": "10",
         "brl%barrel %": "7.4",
         "ab": "185",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "6",
         "so": "54",
-        "bipballs in play": "135",
+        "bipballs in play": "136",
         "liveGames": 4,
         "totGames": 9,
-        "updated": "2025-04-24 16:18:04.871197"
+        "updated": "2025-04-24 16:18:12.374713"
     },
     "chw @ min": [
         {
@@ -973,7 +973,7 @@
             "team": "sea",
             "start": "1:35 PM",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2040,7 +2040,7 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "7",
-            "result": "Strikeout",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3003,10 +3003,10 @@
             "team": "sf",
             "start": "3:45 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "63.2",
+            "la": "-61",
+            "dist": "4"
         },
         {
             "player": "tyler fitzgerald",
