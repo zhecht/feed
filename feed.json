@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "5",
-        "batters": "38",
-        "pitches": "229",
+        "batters": "39",
+        "pitches": "231",
         "max velomax pitch velocity": "97.8",
         "min velomin pitch velocity": "76.1",
-        "ff%fourseam fastball %": "46.7",
-        "si%sinker %": "8.7",
-        "fc%cutter %": "7.9",
+        "ff%fourseam fastball %": "46.3",
+        "si%sinker %": "9.1",
+        "fc%cutter %": "7.8",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "18.8",
-        "sl%slider %": "9.2",
+        "ch%changeup %": "19.0",
+        "sl%slider %": "9.1",
         "cu%curve %": "8.7",
         "max evmax exit velocity": "109.3",
         "hhhard hit": "15",
-        "hh%hard hit %": "48.4",
+        "hh%hard hit %": "46.9",
         "brlbarrels": "5",
-        "brl%barrel %": "16.1",
-        "ab": "45",
-        "avg": ".267",
+        "brl%barrel %": "15.6",
+        "ab": "46",
+        "avg": ".261",
         "h": "12",
         "1b": "8",
         "2b": "2",
         "3b": "0",
         "hr": "2",
-        "so": "13",
-        "bipballs in play": "31",
+        "so": "14",
+        "bipballs in play": "32",
         "liveGames": 3,
         "totGames": 9,
-        "updated": "2025-04-24 14:17:35.375343"
+        "updated": "2025-04-24 14:17:42.340489"
     },
     "chw @ min": [
         {
@@ -514,6 +514,21 @@
     ],
     "sea @ bos": [
         {
+            "player": "david hamilton",
+            "game": "sea @ bos",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-04-24 14:17:40",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kristian campbell",
             "game": "sea @ bos",
             "hr/park": "",
@@ -523,7 +538,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -811,9 +826,9 @@
             "start": "2:10 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "80.3",
+            "la": "18",
+            "dist": "196"
         },
         {
             "player": "ryan mcmahon",
