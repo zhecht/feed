@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "54",
         "batters": "196",
-        "pitches": "2154",
+        "pitches": "2157",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.1",
         "ff%fourseam fastball %": "28.7",
-        "si%sinker %": "17.6",
+        "si%sinker %": "17.7",
         "fc%cutter %": "5.6",
         "fs%splitter %": "3.2",
         "ch%changeup %": "13.5",
@@ -14,21 +14,21 @@
         "cu%curve %": "6.2",
         "max evmax exit velocity": "116.3",
         "hhhard hit": "158",
-        "hh%hard hit %": "40.7",
+        "hh%hard hit %": "40.6",
         "brlbarrels": "29",
         "brl%barrel %": "7.5",
-        "ab": "514",
+        "ab": "515",
         "avg": ".247",
         "h": "127",
         "1b": "93",
         "2b": "20",
         "3b": "2",
         "hr": "12",
-        "so": "129",
-        "bipballs in play": "388",
+        "so": "130",
+        "bipballs in play": "389",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-23 20:26:38.540987"
+        "updated": "2025-04-23 20:26:47.329520"
     },
     "stl @ atl": [
         {
@@ -7180,7 +7180,7 @@
             "team": "lad",
             "start": "7:00 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "88.6",
             "la": "44",
             "dist": "286"
@@ -7738,10 +7738,10 @@
             "team": "hou",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "66.4",
+            "la": "76",
+            "dist": "64"
         },
         {
             "player": "christian walker",
@@ -8106,6 +8106,21 @@
     ],
     "chw @ min": [
         {
+            "player": "luis robert",
+            "game": "chw @ min",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-04-23 20:26:41",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andrew benintendi",
             "game": "chw @ min",
             "hr/park": "",
@@ -8115,7 +8130,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
