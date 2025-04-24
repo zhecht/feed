@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "93",
         "batters": "273",
-        "pitches": "3296",
+        "pitches": "3300",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.1",
         "ff%fourseam fastball %": "31.6",
@@ -11,24 +11,24 @@
         "fs%splitter %": "3.6",
         "ch%changeup %": "12.0",
         "sl%slider %": "25.1",
-        "cu%curve %": "5.4",
+        "cu%curve %": "5.5",
         "max evmax exit velocity": "116.3",
         "hhhard hit": "231",
         "hh%hard hit %": "39.2",
         "brlbarrels": "39",
         "brl%barrel %": "6.6",
-        "ab": "769",
-        "avg": ".250",
+        "ab": "770",
+        "avg": ".249",
         "h": "192",
         "1b": "140",
         "2b": "29",
         "3b": "3",
         "hr": "20",
         "so": "194",
-        "bipballs in play": "589",
+        "bipballs in play": "590",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-04-23 22:33:46.702030"
+        "updated": "2025-04-23 22:33:57.155226"
     },
     "stl @ atl": [
         {
@@ -11393,6 +11393,21 @@
     ],
     "pit @ laa": [
         {
+            "player": "zach neto",
+            "game": "pit @ laa",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-04-23 22:33:57",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jorge soler",
             "game": "pit @ laa",
             "hr/park": "",
@@ -11799,21 +11814,6 @@
         }
     ],
     "tb @ ari": [
-        {
-            "player": "jake mangum",
-            "game": "tb @ ari",
-            "hr/park": "",
-            "pa": "28",
-            "dt": "2025-04-23 22:33:26",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "9:40 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "curtis mead",
             "game": "tb @ ari",
@@ -12222,6 +12222,21 @@
     ],
     "mil @ sf": [
         {
+            "player": "joey ortiz",
+            "game": "mil @ sf",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-04-23 22:33:57",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "9:45 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "garrett mitchell",
             "game": "mil @ sf",
             "hr/park": "",
@@ -12231,10 +12246,10 @@
             "team": "mil",
             "start": "9:45 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "93.3",
+            "la": "35",
+            "dist": "310"
         },
         {
             "player": "rhys hoskins",
