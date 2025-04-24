@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "93",
-        "batters": "273",
-        "pitches": "3308",
+        "pitchers": "94",
+        "batters": "274",
+        "pitches": "3313",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.1",
         "ff%fourseam fastball %": "31.6",
@@ -14,7 +14,7 @@
         "cu%curve %": "5.4",
         "max evmax exit velocity": "116.3",
         "hhhard hit": "231",
-        "hh%hard hit %": "39.2",
+        "hh%hard hit %": "39.1",
         "brlbarrels": "39",
         "brl%barrel %": "6.6",
         "ab": "772",
@@ -24,11 +24,11 @@
         "2b": "29",
         "3b": "3",
         "hr": "20",
-        "so": "195",
-        "bipballs in play": "590",
+        "so": "194",
+        "bipballs in play": "591",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-04-23 22:34:49.518845"
+        "updated": "2025-04-23 22:34:59.658864"
     },
     "stl @ atl": [
         {
@@ -10221,6 +10221,21 @@
     ],
     "chw @ min": [
         {
+            "player": "lenyn sosa",
+            "game": "chw @ min",
+            "hr/park": "",
+            "pa": "79",
+            "dt": "2025-04-23 22:34:26",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan jeffers",
             "game": "chw @ min",
             "hr/park": "",
@@ -11393,21 +11408,6 @@
     ],
     "pit @ laa": [
         {
-            "player": "mike trout",
-            "game": "pit @ laa",
-            "hr/park": "",
-            "pa": "29",
-            "dt": "2025-04-23 22:34:42",
-            "img": "https://www.mlbstatic.com/team-logos/108.svg",
-            "team": "laa",
-            "start": "9:38 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "zach neto",
             "game": "pit @ laa",
             "hr/park": "",
@@ -11417,7 +11417,7 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "4",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12261,7 +12261,7 @@
             "team": "mil",
             "start": "9:45 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12684,9 +12684,9 @@
             "start": "10:05 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "92.2",
+            "la": "-19",
+            "dist": "8"
         },
         {
             "player": "luis urias",
