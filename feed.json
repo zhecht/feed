@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "70",
         "batters": "201",
-        "pitches": "2661",
+        "pitches": "2664",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.1",
         "ff%fourseam fastball %": "30.4",
-        "si%sinker %": "17.1",
+        "si%sinker %": "17.0",
         "fc%cutter %": "5.9",
         "fs%splitter %": "3.6",
         "ch%changeup %": "12.8",
-        "sl%slider %": "24.2",
+        "sl%slider %": "24.3",
         "cu%curve %": "5.9",
         "max evmax exit velocity": "116.3",
         "hhhard hit": "198",
-        "hh%hard hit %": "41.1",
+        "hh%hard hit %": "41.0",
         "brlbarrels": "32",
         "brl%barrel %": "6.6",
-        "ab": "624",
+        "ab": "625",
         "avg": ".258",
         "h": "161",
         "1b": "118",
         "2b": "25",
         "3b": "3",
         "hr": "15",
-        "so": "153",
-        "bipballs in play": "482",
+        "so": "154",
+        "bipballs in play": "483",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-23 21:26:55.181251"
+        "updated": "2025-04-23 21:27:04.472109"
     },
     "stl @ atl": [
         {
@@ -6796,7 +6796,7 @@
         {
             "player": "rowdy tellez",
             "game": "sea @ bos",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "76",
             "dt": "2025-04-23 21:25:25",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
@@ -8914,6 +8914,21 @@
     "col @ kc": [],
     "tor @ hou": [
         {
+            "player": "jose altuve",
+            "game": "tor @ hou",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-04-23 21:26:58",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "victor caratini",
             "game": "tor @ hou",
             "hr/park": "",
@@ -8923,7 +8938,7 @@
             "team": "hou",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9661,9 +9676,9 @@
             "start": "7:40 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "94.5",
+            "la": "18",
+            "dist": "264"
         },
         {
             "player": "ty france",
