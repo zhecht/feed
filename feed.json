@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "59",
         "batters": "198",
-        "pitches": "2340",
+        "pitches": "2343",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.1",
         "ff%fourseam fastball %": "28.5",
@@ -10,25 +10,25 @@
         "fc%cutter %": "5.8",
         "fs%splitter %": "3.5",
         "ch%changeup %": "13.5",
-        "sl%slider %": "25.0",
+        "sl%slider %": "24.9",
         "cu%curve %": "6.1",
         "max evmax exit velocity": "116.3",
-        "hhhard hit": "178",
+        "hhhard hit": "179",
         "hh%hard hit %": "41.9",
         "brlbarrels": "30",
-        "brl%barrel %": "7.1",
-        "ab": "552",
-        "avg": ".257",
+        "brl%barrel %": "7.0",
+        "ab": "554",
+        "avg": ".256",
         "h": "142",
         "1b": "104",
         "2b": "23",
         "3b": "2",
         "hr": "13",
         "so": "135",
-        "bipballs in play": "425",
+        "bipballs in play": "427",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-23 20:48:18.454756"
+        "updated": "2025-04-23 20:48:27.661503"
     },
     "stl @ atl": [
         {
@@ -5697,6 +5697,21 @@
     ],
     "bal @ wsh": [
         {
+            "player": "heston kjerstad",
+            "game": "bal @ wsh",
+            "hr/park": "1/30",
+            "pa": "56",
+            "dt": "2025-04-23 20:48:26",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:45 PM",
+            "in": "7",
+            "result": "Flyout",
+            "evo": "101.7",
+            "la": "37",
+            "dist": "370"
+        },
+        {
             "player": "tyler oneill",
             "game": "bal @ wsh",
             "hr/park": "",
@@ -8173,10 +8188,10 @@
             "team": "hou",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "49.8",
+            "la": "-38",
+            "dist": "5"
         },
         {
             "player": "chas mccormick",
@@ -8676,9 +8691,24 @@
     ],
     "chw @ min": [
         {
-            "player": "andrew vaughn",
+            "player": "matt thaiss",
             "game": "chw @ min",
             "hr/park": "",
+            "pa": "34",
+            "dt": "2025-04-23 20:48:26",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "andrew vaughn",
+            "game": "chw @ min",
+            "hr/park": "7/30",
             "pa": "33",
             "dt": "2025-04-23 20:47:40",
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
