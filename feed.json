@@ -2,25 +2,25 @@
     "all": {
         "pitchers": "21",
         "batters": "76",
-        "pitches": "864",
+        "pitches": "866",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "75.3",
         "ff%fourseam fastball %": "39.0",
         "si%sinker %": "15.7",
-        "fc%cutter %": "4.1",
+        "fc%cutter %": "4.0",
         "fs%splitter %": "0.0",
         "ch%changeup %": "11.7",
         "sl%slider %": "19.6",
-        "cu%curve %": "10.0",
+        "cu%curve %": "9.9",
         "max evmax exit velocity": "110.8",
         "hhhard hit": "47",
         "hh%hard hit %": "33.8",
         "brlbarrels": "10",
         "brl%barrel %": "7.2",
-        "ab": "188",
-        "avg": ".255",
-        "h": "48",
-        "1b": "32",
+        "ab": "189",
+        "avg": ".259",
+        "h": "49",
+        "1b": "33",
         "2b": "10",
         "3b": "0",
         "hr": "6",
@@ -28,7 +28,7 @@
         "bipballs in play": "139",
         "liveGames": 4,
         "totGames": 9,
-        "updated": "2025-04-24 16:20:18.835839"
+        "updated": "2025-04-24 16:20:26.176255"
     },
     "chw @ min": [
         {
@@ -964,6 +964,21 @@
     ],
     "sea @ bos": [
         {
+            "player": "ben williamson",
+            "game": "sea @ bos",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-04-24 16:20:25",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jorge polanco",
             "game": "sea @ bos",
             "hr/park": "",
@@ -973,7 +988,7 @@
             "team": "sea",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "106.7",
             "la": "3",
             "dist": "75"
@@ -2055,7 +2070,7 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "94.9",
             "la": "24",
             "dist": "342"
