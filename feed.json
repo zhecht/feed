@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "28",
+        "pitchers": "29",
         "batters": "78",
-        "pitches": "1092",
+        "pitches": "1094",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "74.9",
         "ff%fourseam fastball %": "35.9",
-        "si%sinker %": "17.2",
+        "si%sinker %": "17.3",
         "fc%cutter %": "5.1",
         "fs%splitter %": "0.0",
         "ch%changeup %": "10.3",
@@ -14,21 +14,21 @@
         "cu%curve %": "11.1",
         "max evmax exit velocity": "110.8",
         "hhhard hit": "60",
-        "hh%hard hit %": "34.3",
+        "hh%hard hit %": "34.1",
         "brlbarrels": "13",
         "brl%barrel %": "7.4",
-        "ab": "231",
-        "avg": ".242",
+        "ab": "233",
+        "avg": ".240",
         "h": "56",
         "1b": "37",
         "2b": "11",
         "3b": "0",
         "hr": "8",
         "so": "62",
-        "bipballs in play": "175",
+        "bipballs in play": "176",
         "liveGames": 5,
         "totGames": 9,
-        "updated": "2025-04-24 17:40:53.358781"
+        "updated": "2025-04-24 17:41:01.015885"
     },
     "chw @ min": [
         {
@@ -3248,16 +3248,31 @@
     ],
     "col @ kc-gm2": [
         {
-            "player": "jonathan india",
+            "player": "bobby witt",
             "game": "col @ kc-gm2",
             "hr/park": "",
+            "pa": "6",
+            "dt": "2025-04-24 17:40:56",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "5:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jonathan india",
+            "game": "col @ kc-gm2",
+            "hr/park": "0/30",
             "pa": "5",
             "dt": "2025-04-24 17:40:10",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "start": "5:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "85.3",
             "la": "29",
             "dist": "323"
@@ -3324,6 +3339,21 @@
         }
     ],
     "mil @ sf": [
+        {
+            "player": "brice turang",
+            "game": "mil @ sf",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-04-24 17:40:56",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "3:45 PM",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "84.7",
+            "la": "-29",
+            "dist": "5"
+        },
         {
             "player": "eric haase",
             "game": "mil @ sf",
