@@ -1,16 +1,16 @@
 {
     "all": {
         "pitchers": "89",
-        "batters": "241",
-        "pitches": "2998",
+        "batters": "242",
+        "pitches": "3008",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.1",
         "ff%fourseam fastball %": "31.3",
-        "si%sinker %": "16.3",
+        "si%sinker %": "16.4",
         "fc%cutter %": "5.8",
         "fs%splitter %": "3.7",
         "ch%changeup %": "12.1",
-        "sl%slider %": "25.1",
+        "sl%slider %": "25.2",
         "cu%curve %": "5.6",
         "max evmax exit velocity": "116.3",
         "hhhard hit": "216",
@@ -24,11 +24,11 @@
         "2b": "26",
         "3b": "3",
         "hr": "18",
-        "so": "179",
+        "so": "181",
         "bipballs in play": "534",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-23 22:04:45.755748"
+        "updated": "2025-04-23 22:04:55.872374"
     },
     "stl @ atl": [
         {
@@ -9163,7 +9163,7 @@
             "team": "tor",
             "start": "7:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11168,6 +11168,21 @@
     ],
     "pit @ laa": [
         {
+            "player": "nolan schanuel",
+            "game": "pit @ laa",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-04-23 22:04:55",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "2",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "travis darnaud",
             "game": "pit @ laa",
             "hr/park": "",
@@ -11177,7 +11192,7 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11571,7 +11586,7 @@
             "team": "mil",
             "start": "9:45 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
