@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "5",
-        "batters": "35",
-        "pitches": "210",
+        "batters": "36",
+        "pitches": "212",
         "max velomax pitch velocity": "97.8",
         "min velomin pitch velocity": "76.1",
-        "ff%fourseam fastball %": "48.6",
-        "si%sinker %": "7.1",
-        "fc%cutter %": "8.6",
+        "ff%fourseam fastball %": "48.1",
+        "si%sinker %": "7.5",
+        "fc%cutter %": "8.5",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "17.1",
-        "sl%slider %": "9.5",
+        "ch%changeup %": "17.0",
+        "sl%slider %": "9.9",
         "cu%curve %": "9.0",
         "max evmax exit velocity": "109.3",
         "hhhard hit": "14",
-        "hh%hard hit %": "50.0",
+        "hh%hard hit %": "48.3",
         "brlbarrels": "5",
-        "brl%barrel %": "17.9",
+        "brl%barrel %": "17.2",
         "ab": "43",
         "avg": ".279",
         "h": "12",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "2",
         "so": "13",
-        "bipballs in play": "28",
+        "bipballs in play": "29",
         "liveGames": 3,
         "totGames": 9,
-        "updated": "2025-04-24 14:15:22.059372"
+        "updated": "2025-04-24 14:15:29.573994"
     },
     "chw @ min": [
         {
@@ -499,6 +499,21 @@
     ],
     "sea @ bos": [
         {
+            "player": "kristian campbell",
+            "game": "sea @ bos",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-04-24 14:15:25",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "triston casas",
             "game": "sea @ bos",
             "hr/park": "",
@@ -508,7 +523,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -780,7 +795,7 @@
             "team": "col",
             "start": "2:10 PM",
             "in": "1",
-            "result": "Wild Pitch",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
