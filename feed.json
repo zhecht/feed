@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "80",
-        "batters": "212",
-        "pitches": "2815",
+        "pitchers": "81",
+        "batters": "213",
+        "pitches": "2821",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.1",
         "ff%fourseam fastball %": "30.6",
@@ -11,24 +11,24 @@
         "fs%splitter %": "3.5",
         "ch%changeup %": "12.4",
         "sl%slider %": "25.2",
-        "cu%curve %": "5.8",
+        "cu%curve %": "5.7",
         "max evmax exit velocity": "116.3",
-        "hhhard hit": "207",
+        "hhhard hit": "208",
         "hh%hard hit %": "40.7",
         "brlbarrels": "32",
         "brl%barrel %": "6.3",
-        "ab": "663",
-        "avg": ".253",
-        "h": "168",
-        "1b": "125",
+        "ab": "664",
+        "avg": ".255",
+        "h": "169",
+        "1b": "126",
         "2b": "25",
         "3b": "3",
         "hr": "15",
-        "so": "164",
-        "bipballs in play": "509",
+        "so": "165",
+        "bipballs in play": "511",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-23 21:46:37.258976"
+        "updated": "2025-04-23 21:46:46.793435"
     },
     "stl @ atl": [
         {
@@ -8035,10 +8035,10 @@
             "team": "lad",
             "start": "7:00 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "92.9",
+            "la": "39",
+            "dist": "300"
         },
         {
             "player": "shohei ohtani",
@@ -10922,7 +10922,7 @@
             "team": "pit",
             "start": "9:38 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11035,6 +11035,22 @@
             "dist": ""
         }
     ],
-    "mil @ sf": [],
+    "mil @ sf": [
+        {
+            "player": "brice turang",
+            "game": "mil @ sf",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-04-23 21:46:41",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "9:45 PM",
+            "in": "1",
+            "result": "Single",
+            "evo": "100.5",
+            "la": "12",
+            "dist": "212"
+        }
+    ],
     "tex @ ath": []
 }
