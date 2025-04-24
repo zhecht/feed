@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "62",
         "batters": "198",
-        "pitches": "2471",
+        "pitches": "2474",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "29.1",
+        "ff%fourseam fastball %": "29.2",
         "si%sinker %": "17.4",
         "fc%cutter %": "5.7",
         "fs%splitter %": "3.5",
@@ -13,22 +13,22 @@
         "sl%slider %": "24.6",
         "cu%curve %": "6.3",
         "max evmax exit velocity": "116.3",
-        "hhhard hit": "189",
-        "hh%hard hit %": "41.9",
+        "hhhard hit": "190",
+        "hh%hard hit %": "42.1",
         "brlbarrels": "30",
         "brl%barrel %": "6.7",
-        "ab": "583",
-        "avg": ".257",
+        "ab": "582",
+        "avg": ".258",
         "h": "150",
         "1b": "108",
         "2b": "25",
         "3b": "3",
         "hr": "14",
-        "so": "142",
+        "so": "143",
         "bipballs in play": "451",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-23 21:03:33.646448"
+        "updated": "2025-04-23 21:03:42.822699"
     },
     "stl @ atl": [
         {
@@ -6653,10 +6653,10 @@
             "team": "bos",
             "start": "6:45 PM",
             "in": "7",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "107.4",
+            "la": "-1",
+            "dist": "46"
         },
         {
             "player": "ceddanne rafaela",
@@ -7645,7 +7645,7 @@
             "team": "chc",
             "start": "7:00 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8464,21 +8464,6 @@
     "col @ kc": [],
     "tor @ hou": [
         {
-            "player": "jeremy pena",
-            "game": "tor @ hou",
-            "hr/park": "",
-            "pa": "40",
-            "dt": "2025-04-23 21:03:27",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "7:40 PM",
-            "in": "5",
-            "result": "Lineout",
-            "evo": "75.2",
-            "la": "27",
-            "dist": "249"
-        },
-        {
             "player": "isaac paredes",
             "game": "tor @ hou",
             "hr/park": "",
@@ -8488,7 +8473,7 @@
             "team": "hou",
             "start": "7:40 PM",
             "in": "5",
-            "result": "Forceout",
+            "result": "GIDP",
             "evo": "91.9",
             "la": "3",
             "dist": "80"
