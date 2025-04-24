@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "75",
-        "batters": "204",
-        "pitches": "2759",
+        "pitchers": "76",
+        "batters": "206",
+        "pitches": "2763",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "30.5",
-        "si%sinker %": "16.7",
+        "ff%fourseam fastball %": "30.4",
+        "si%sinker %": "16.8",
         "fc%cutter %": "5.9",
         "fs%splitter %": "3.6",
         "ch%changeup %": "12.6",
         "sl%slider %": "24.8",
         "cu%curve %": "5.8",
         "max evmax exit velocity": "116.3",
-        "hhhard hit": "202",
-        "hh%hard hit %": "40.6",
+        "hhhard hit": "203",
+        "hh%hard hit %": "40.7",
         "brlbarrels": "32",
         "brl%barrel %": "6.4",
-        "ab": "647",
-        "avg": ".257",
+        "ab": "649",
+        "avg": ".256",
         "h": "166",
         "1b": "123",
         "2b": "25",
         "3b": "3",
         "hr": "15",
         "so": "160",
-        "bipballs in play": "497",
+        "bipballs in play": "499",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-04-23 21:41:17.098492"
+        "updated": "2025-04-23 21:41:26.692454"
     },
     "stl @ atl": [
         {
@@ -9975,10 +9975,10 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "79.7",
+            "la": "30",
+            "dist": "277"
         },
         {
             "player": "edouard julien",
@@ -10776,7 +10776,38 @@
             "dist": "314"
         }
     ],
-    "pit @ laa": [],
+    "pit @ laa": [
+        {
+            "player": "bryan reynolds",
+            "game": "pit @ laa",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-04-23 21:41:26",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "oneil cruz",
+            "game": "pit @ laa",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-04-23 21:41:26",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "102.3",
+            "la": "-1",
+            "dist": "42"
+        }
+    ],
     "tb @ ari": [],
     "mil @ sf": [],
     "tex @ ath": []
