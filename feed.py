@@ -54,18 +54,23 @@ def writeFeed(date, loop):
 		#with open(f"feed.html", "w") as fh:
 		#	fh.write(html)
 
+		totGames = len(schedule[date])
 		games = []
-		for gameData in schedule[date]:
-			try:
-				dt = datetime.strptime(gameData["start"], "%I:%M %p")
-				dt = int(dt.strftime("%H%M"))
-			except:
-				dt = 0
+		if date != str(datetime.now())[:10]:
+			liveGames = totGames
+		else:
+			for gameData in schedule[date]:
+				try:
+					dt = datetime.strptime(gameData["start"], "%I:%M %p")
+					dt = int(dt.strftime("%H%M"))
+				except:
+					dt = 0
 
-			if dt <= int(datetime.now().strftime("%H%M")):
-				games.append(gameData)
+				if dt <= int(datetime.now().strftime("%H%M")):
+					games.append(gameData)
+			liveGames = len(games)
 		data = {}
-		parseFeed(data, times, games, len(schedule[date]), soup)
+		parseFeed(data, times, games, totGames, soup)
 		i += 1
 
 		if not loop:
