@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "7",
         "batters": "54",
-        "pitches": "416",
+        "pitches": "417",
         "max velomax pitch velocity": "97.8",
         "min velomin pitch velocity": "76.1",
-        "ff%fourseam fastball %": "44.0",
-        "si%sinker %": "13.7",
+        "ff%fourseam fastball %": "43.9",
+        "si%sinker %": "13.9",
         "fc%cutter %": "5.8",
         "fs%splitter %": "0.0",
         "ch%changeup %": "15.6",
-        "sl%slider %": "12.3",
-        "cu%curve %": "8.7",
+        "sl%slider %": "12.2",
+        "cu%curve %": "8.6",
         "max evmax exit velocity": "110.8",
         "hhhard hit": "23",
         "hh%hard hit %": "37.1",
         "brlbarrels": "7",
         "brl%barrel %": "11.3",
-        "ab": "90",
-        "avg": ".256",
+        "ab": "91",
+        "avg": ".253",
         "h": "23",
         "1b": "14",
         "2b": "5",
@@ -28,7 +28,7 @@
         "bipballs in play": "62",
         "liveGames": 3,
         "totGames": 9,
-        "updated": "2025-04-24 14:50:39.003720"
+        "updated": "2025-04-24 14:50:46.031026"
     },
     "chw @ min": [
         {
@@ -41,7 +41,7 @@
             "team": "chw",
             "start": "1:10 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -709,6 +709,21 @@
     ],
     "sea @ bos": [
         {
+            "player": "kristian campbell",
+            "game": "sea @ bos",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-04-24 14:50:41",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "triston casas",
             "game": "sea @ bos",
             "hr/park": "",
@@ -718,7 +733,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "91.8",
             "la": "43",
             "dist": "299"
