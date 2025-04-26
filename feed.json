@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "79",
         "batters": "245",
-        "pitches": "3052",
+        "pitches": "3057",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "68.2",
         "ff%fourseam fastball %": "31.3",
@@ -14,21 +14,21 @@
         "cu%curve %": "11.0",
         "max evmax exit velocity": "117.6",
         "hhhard hit": "237",
-        "hh%hard hit %": "41.9",
+        "hh%hard hit %": "41.8",
         "brlbarrels": "37",
         "brl%barrel %": "6.5",
-        "ab": "707",
-        "avg": ".252",
+        "ab": "709",
+        "avg": ".251",
         "h": "178",
         "1b": "122",
         "2b": "40",
         "3b": "5",
         "hr": "11",
         "so": "161",
-        "bipballs in play": "566",
+        "bipballs in play": "567",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-04-25 23:27:58.347649"
+        "updated": "2025-04-25 23:28:08.608098"
     },
     "phi @ chc": [
         {
@@ -7812,7 +7812,7 @@
             "team": "sd",
             "start": "9:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9262,6 +9262,21 @@
     ],
     "mia @ sea": [
         {
+            "player": "jesus sanchez",
+            "game": "mia @ sea",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-04-25 23:28:08",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "9:40 PM",
+            "in": "8",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ben williamson",
             "game": "mia @ sea",
             "hr/park": "0/30",
@@ -10089,6 +10104,21 @@
     ],
     "chw @ ath": [
         {
+            "player": "shea langeliers",
+            "game": "chw @ ath",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-04-25 23:28:08",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyler soderstrom",
             "game": "chw @ ath",
             "hr/park": "",
@@ -10790,10 +10820,10 @@
             "team": "pit",
             "start": "10:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "46.0",
+            "la": "-72",
+            "dist": "2"
         },
         {
             "player": "andrew mccutchen",
