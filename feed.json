@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "76",
         "batters": "183",
-        "pitches": "2747",
+        "pitches": "2750",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "70.8",
         "ff%fourseam fastball %": "31.0",
@@ -11,14 +11,14 @@
         "fs%splitter %": "3.1",
         "ch%changeup %": "8.8",
         "sl%slider %": "26.1",
-        "cu%curve %": "7.8",
+        "cu%curve %": "7.7",
         "max evmax exit velocity": "111.9",
         "hhhard hit": "202",
         "hh%hard hit %": "41.2",
         "brlbarrels": "40",
         "brl%barrel %": "8.2",
-        "ab": "626",
-        "avg": ".268",
+        "ab": "629",
+        "avg": ".267",
         "h": "168",
         "1b": "120",
         "2b": "30",
@@ -28,7 +28,7 @@
         "bipballs in play": "490",
         "liveGames": 12,
         "totGames": 17,
-        "updated": "2025-04-26 18:53:55.414836"
+        "updated": "2025-04-26 18:54:05.254514"
     },
     "bos @ cle": [
         {
@@ -2678,9 +2678,24 @@
     ],
     "bal @ det-gm2": [
         {
-            "player": "ramon urias",
+            "player": "cedric mullins",
             "game": "bal @ det-gm2",
             "hr/park": "",
+            "pa": "17",
+            "dt": "2025-04-26 18:54:00",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "ramon urias",
+            "game": "bal @ det-gm2",
+            "hr/park": "0/30",
             "pa": "16",
             "dt": "2025-04-26 18:51:29",
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
@@ -6436,6 +6451,21 @@
     ],
     "nym @ wsh": [
         {
+            "player": "josh bell",
+            "game": "nym @ wsh",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-04-26 18:54:00",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "4:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nathaniel lowe",
             "game": "nym @ wsh",
             "hr/park": "",
@@ -8195,6 +8225,21 @@
     ],
     "phi @ chc": [
         {
+            "player": "jt realmuto",
+            "game": "phi @ chc",
+            "hr/park": "",
+            "pa": "79",
+            "dt": "2025-04-26 18:54:00",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "4:05 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nick castellanos",
             "game": "phi @ chc",
             "hr/park": "",
@@ -8204,7 +8249,7 @@
             "team": "phi",
             "start": "4:05 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "83.8",
             "la": "47",
             "dist": "228"
