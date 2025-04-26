@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "71",
         "batters": "238",
-        "pitches": "2586",
+        "pitches": "2590",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "68.2",
         "ff%fourseam fastball %": "30.8",
@@ -14,9 +14,9 @@
         "cu%curve %": "10.8",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "199",
-        "hh%hard hit %": "42.2",
+        "hh%hard hit %": "42.0",
         "brlbarrels": "30",
-        "brl%barrel %": "6.4",
+        "brl%barrel %": "6.3",
         "ab": "590",
         "avg": ".256",
         "h": "151",
@@ -25,10 +25,10 @@
         "3b": "5",
         "hr": "9",
         "so": "135",
-        "bipballs in play": "472",
+        "bipballs in play": "474",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-04-25 22:50:46.186061"
+        "updated": "2025-04-25 22:50:55.752611"
     },
     "phi @ chc": [
         {
@@ -6631,6 +6631,21 @@
     ],
     "cin @ col": [
         {
+            "player": "santiago espinal",
+            "game": "cin @ col",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-04-25 22:50:52",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "8:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "spencer steer",
             "game": "cin @ col",
             "hr/park": "",
@@ -6640,7 +6655,7 @@
             "team": "cin",
             "start": "8:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9455,10 +9470,10 @@
             "team": "lad",
             "start": "10:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "90.4",
+            "la": "-12",
+            "dist": "12"
         },
         {
             "player": "tommy edman",
