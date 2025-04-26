@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "36",
-        "batters": "135",
-        "pitches": "1401",
+        "pitchers": "37",
+        "batters": "136",
+        "pitches": "1404",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "70.8",
         "ff%fourseam fastball %": "29.5",
@@ -10,25 +10,25 @@
         "fc%cutter %": "6.6",
         "fs%splitter %": "4.3",
         "ch%changeup %": "7.9",
-        "sl%slider %": "25.0",
+        "sl%slider %": "24.9",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "110.9",
-        "hhhard hit": "109",
-        "hh%hard hit %": "45.6",
+        "hhhard hit": "111",
+        "hh%hard hit %": "46.1",
         "brlbarrels": "17",
         "brl%barrel %": "7.1",
-        "ab": "318",
-        "avg": ".296",
+        "ab": "321",
+        "avg": ".293",
         "h": "94",
         "1b": "65",
         "2b": "19",
         "3b": "0",
         "hr": "10",
         "so": "86",
-        "bipballs in play": "239",
+        "bipballs in play": "241",
         "liveGames": 10,
         "totGames": 17,
-        "updated": "2025-04-26 16:30:20.581948"
+        "updated": "2025-04-26 16:30:28.954130"
     },
     "bos @ cle": [
         {
@@ -3325,6 +3325,21 @@
     ],
     "mil @ stl": [
         {
+            "player": "william contreras",
+            "game": "mil @ stl",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-04-26 16:30:28",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:15 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "christian yelich",
             "game": "mil @ stl",
             "hr/park": "",
@@ -4266,7 +4281,7 @@
             "team": "col",
             "start": "3:10 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4845,6 +4860,21 @@
     "nym @ wsh": [],
     "tex @ sf": [
         {
+            "player": "wilmer flores",
+            "game": "tex @ sf",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-04-26 16:30:28",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nick ahmed",
             "game": "tex @ sf",
             "hr/park": "",
@@ -5224,19 +5254,34 @@
     ],
     "chw @ ath": [
         {
-            "player": "jacob amaya",
+            "player": "miguel vargas",
             "game": "chw @ ath",
             "hr/park": "",
+            "pa": "13",
+            "dt": "2025-04-26 16:30:28",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "99.4",
+            "la": "11",
+            "dist": "187"
+        },
+        {
+            "player": "jacob amaya",
+            "game": "chw @ ath",
+            "hr/park": "0/30",
             "pa": "12",
             "dt": "2025-04-26 16:29:14",
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
             "team": "chw",
             "start": "4:05 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "98.6",
+            "la": "23",
+            "dist": "383"
         },
         {
             "player": "tyler soderstrom",
