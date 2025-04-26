@@ -1,13 +1,13 @@
 {
     "all": {
-        "pitchers": "38",
+        "pitchers": "40",
         "batters": "140",
-        "pitches": "1438",
+        "pitches": "1450",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "70.8",
-        "ff%fourseam fastball %": "30.0",
-        "si%sinker %": "18.2",
-        "fc%cutter %": "6.7",
+        "ff%fourseam fastball %": "30.1",
+        "si%sinker %": "18.1",
+        "fc%cutter %": "6.6",
         "fs%splitter %": "4.2",
         "ch%changeup %": "7.9",
         "sl%slider %": "25.0",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "45.9",
         "brlbarrels": "17",
         "brl%barrel %": "6.9",
-        "ab": "328",
-        "avg": ".296",
+        "ab": "332",
+        "avg": ".292",
         "h": "97",
         "1b": "67",
         "2b": "19",
         "3b": "0",
         "hr": "11",
-        "so": "88",
+        "so": "89",
         "bipballs in play": "246",
         "liveGames": 10,
         "totGames": 17,
-        "updated": "2025-04-26 16:33:56.167769"
+        "updated": "2025-04-26 16:34:05.539992"
     },
     "bos @ cle": [
         {
@@ -2348,6 +2348,36 @@
     "bal @ det-gm2": [],
     "laa @ min": [
         {
+            "player": "jorge soler",
+            "game": "laa @ min",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-04-26 16:33:59",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "tim anderson",
+            "game": "laa @ min",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-04-26 16:33:59",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "carlos correa",
             "game": "laa @ min",
             "hr/park": "",
@@ -3324,6 +3354,21 @@
         }
     ],
     "mil @ stl": [
+        {
+            "player": "thomas saggese",
+            "game": "mil @ stl",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-04-26 16:33:59",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "2:15 PM",
+            "in": "7",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "william contreras",
             "game": "mil @ stl",
@@ -5345,6 +5390,21 @@
     ],
     "chw @ ath": [
         {
+            "player": "edgar quero",
+            "game": "chw @ ath",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-04-26 16:33:59",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis robert",
             "game": "chw @ ath",
             "hr/park": "",
@@ -5354,7 +5414,7 @@
             "team": "chw",
             "start": "4:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Fielders Choice",
             "evo": "90.7",
             "la": "",
             "dist": "41"
