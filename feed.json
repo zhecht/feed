@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "8",
         "batters": "50",
-        "pitches": "353",
+        "pitches": "359",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "75.7",
-        "ff%fourseam fastball %": "26.9",
-        "si%sinker %": "22.4",
-        "fc%cutter %": "7.9",
-        "fs%splitter %": "10.2",
-        "ch%changeup %": "8.8",
-        "sl%slider %": "15.9",
-        "cu%curve %": "7.9",
+        "ff%fourseam fastball %": "26.7",
+        "si%sinker %": "22.6",
+        "fc%cutter %": "7.8",
+        "fs%splitter %": "10.3",
+        "ch%changeup %": "8.6",
+        "sl%slider %": "16.2",
+        "cu%curve %": "7.8",
         "max evmax exit velocity": "110.9",
         "hhhard hit": "35",
-        "hh%hard hit %": "55.6",
+        "hh%hard hit %": "53.8",
         "brlbarrels": "5",
-        "brl%barrel %": "7.9",
+        "brl%barrel %": "7.7",
         "ab": "82",
         "avg": ".341",
         "h": "28",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "3",
         "so": "16",
-        "bipballs in play": "63",
+        "bipballs in play": "65",
         "liveGames": 5,
         "totGames": 17,
-        "updated": "2025-04-26 14:27:26.539365"
+        "updated": "2025-04-26 14:27:33.714820"
     },
     "bos @ cle": [
         {
@@ -620,6 +620,21 @@
     "bos @ cle-gm2": [],
     "bal @ det": [
         {
+            "player": "cedric mullins",
+            "game": "bal @ det",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-04-26 14:27:29",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ramon laureano",
             "game": "bal @ det",
             "hr/park": "",
@@ -629,10 +644,10 @@
             "team": "bal",
             "start": "1:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "83.6",
+            "la": "8",
+            "dist": "108"
         },
         {
             "player": "gleyber torres",
@@ -1217,10 +1232,10 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "79.8",
+            "la": "7",
+            "dist": "120"
         },
         {
             "player": "ty france",
@@ -1354,7 +1369,7 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
