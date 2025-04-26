@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "57",
         "batters": "177",
-        "pitches": "1961",
+        "pitches": "1967",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "68.2",
         "ff%fourseam fastball %": "31.0",
@@ -14,21 +14,21 @@
         "cu%curve %": "10.6",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "161",
-        "hh%hard hit %": "43.9",
+        "hh%hard hit %": "43.6",
         "brlbarrels": "22",
         "brl%barrel %": "6.0",
-        "ab": "449",
-        "avg": ".261",
-        "h": "117",
-        "1b": "79",
+        "ab": "450",
+        "avg": ".262",
+        "h": "118",
+        "1b": "80",
         "2b": "26",
         "3b": "4",
         "hr": "8",
-        "so": "94",
-        "bipballs in play": "367",
+        "so": "95",
+        "bipballs in play": "369",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-25 22:11:03.526761"
+        "updated": "2025-04-25 22:11:12.349675"
     },
     "phi @ chc": [
         {
@@ -4431,10 +4431,10 @@
             "team": "laa",
             "start": "7:40 PM",
             "in": "8",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "87.6",
+            "la": "14",
+            "dist": "202"
         },
         {
             "player": "jd davis",
@@ -5483,7 +5483,7 @@
             "team": "mil",
             "start": "8:15 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6285,6 +6285,21 @@
         }
     ],
     "cin @ col": [
+        {
+            "player": "santiago espinal",
+            "game": "cin @ col",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-04-25 22:10:23",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "8:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "spencer steer",
             "game": "cin @ col",
@@ -7381,10 +7396,10 @@
             "team": "mia",
             "start": "9:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "85.0",
+            "la": "-31",
+            "dist": "7"
         },
         {
             "player": "matt mervis",
@@ -7608,7 +7623,7 @@
             "team": "chw",
             "start": "10:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
