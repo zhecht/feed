@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "58",
         "batters": "172",
-        "pitches": "2296",
+        "pitches": "2300",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "70.8",
         "ff%fourseam fastball %": "31.3",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.1",
         "fs%splitter %": "3.5",
         "ch%changeup %": "8.3",
-        "sl%slider %": "26.0",
+        "sl%slider %": "26.1",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "111.9",
-        "hhhard hit": "171",
-        "hh%hard hit %": "41.5",
+        "hhhard hit": "172",
+        "hh%hard hit %": "41.6",
         "brlbarrels": "34",
-        "brl%barrel %": "8.3",
-        "ab": "529",
-        "avg": ".276",
+        "brl%barrel %": "8.2",
+        "ab": "530",
+        "avg": ".275",
         "h": "146",
         "1b": "101",
         "2b": "28",
         "3b": "0",
         "hr": "17",
-        "so": "130",
-        "bipballs in play": "412",
+        "so": "131",
+        "bipballs in play": "413",
         "liveGames": 10,
         "totGames": 17,
-        "updated": "2025-04-26 18:06:51.058086"
+        "updated": "2025-04-26 18:07:00.292755"
     },
     "bos @ cle": [
         {
@@ -5873,10 +5873,10 @@
             "team": "wsh",
             "start": "4:05 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "95.3",
+            "la": "-39",
+            "dist": "3"
         },
         {
             "player": "cj abrams",
@@ -6235,7 +6235,7 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7053,9 +7053,24 @@
     ],
     "phi @ chc": [
         {
-            "player": "max kepler",
+            "player": "alec bohm",
             "game": "phi @ chc",
             "hr/park": "",
+            "pa": "60",
+            "dt": "2025-04-26 18:07:00",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "4:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "max kepler",
+            "game": "phi @ chc",
+            "hr/park": "27/30",
             "pa": "59",
             "dt": "2025-04-26 18:05:59",
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
