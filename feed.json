@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "57",
         "batters": "170",
-        "pitches": "2162",
+        "pitches": "2165",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "70.8",
-        "ff%fourseam fastball %": "31.1",
+        "ff%fourseam fastball %": "31.0",
         "si%sinker %": "15.3",
         "fc%cutter %": "7.0",
-        "fs%splitter %": "3.7",
-        "ch%changeup %": "8.4",
-        "sl%slider %": "25.9",
+        "fs%splitter %": "3.6",
+        "ch%changeup %": "8.5",
+        "sl%slider %": "25.8",
         "cu%curve %": "8.7",
-        "max evmax exit velocity": "110.9",
-        "hhhard hit": "160",
-        "hh%hard hit %": "41.3",
-        "brlbarrels": "30",
-        "brl%barrel %": "7.8",
-        "ab": "496",
+        "max evmax exit velocity": "111.9",
+        "hhhard hit": "161",
+        "hh%hard hit %": "41.5",
+        "brlbarrels": "31",
+        "brl%barrel %": "8.0",
+        "ab": "497",
         "avg": ".274",
         "h": "136",
         "1b": "96",
         "2b": "25",
         "3b": "0",
         "hr": "15",
-        "so": "121",
-        "bipballs in play": "387",
+        "so": "122",
+        "bipballs in play": "388",
         "liveGames": 10,
         "totGames": 17,
-        "updated": "2025-04-26 17:51:26.852931"
+        "updated": "2025-04-26 17:51:36.088283"
     },
     "bos @ cle": [
         {
@@ -4671,7 +4671,7 @@
             "team": "cin",
             "start": "3:10 PM",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6770,7 +6770,7 @@
         {
             "player": "kyle schwarber",
             "game": "phi @ chc",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "52",
             "dt": "2025-04-26 17:50:29",
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
@@ -6778,9 +6778,9 @@
             "start": "4:05 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "111.9",
+            "la": "16",
+            "dist": "356"
         },
         {
             "player": "bryce harper",
@@ -7549,6 +7549,21 @@
         }
     ],
     "chw @ ath": [
+        {
+            "player": "michael a taylor",
+            "game": "chw @ ath",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-04-26 17:51:29",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "4:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "lenyn sosa",
             "game": "chw @ ath",
