@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "30",
+        "pitchers": "31",
         "batters": "124",
-        "pitches": "1250",
+        "pitches": "1252",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "68.2",
-        "ff%fourseam fastball %": "29.4",
+        "ff%fourseam fastball %": "29.3",
         "si%sinker %": "18.0",
-        "fc%cutter %": "9.4",
+        "fc%cutter %": "9.5",
         "fs%splitter %": "4.9",
-        "ch%changeup %": "10.5",
-        "sl%slider %": "17.0",
-        "cu%curve %": "10.2",
+        "ch%changeup %": "10.6",
+        "sl%slider %": "17.1",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "114.7",
-        "hhhard hit": "102",
-        "hh%hard hit %": "44.0",
+        "hhhard hit": "101",
+        "hh%hard hit %": "43.5",
         "brlbarrels": "13",
         "brl%barrel %": "5.6",
-        "ab": "282",
-        "avg": ".245",
+        "ab": "284",
+        "avg": ".243",
         "h": "69",
         "1b": "50",
         "2b": "15",
@@ -28,7 +28,7 @@
         "bipballs in play": "232",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-04-25 21:08:36.535943"
+        "updated": "2025-04-25 21:08:44.753988"
     },
     "phi @ chc": [
         {
@@ -2152,6 +2152,21 @@
     ],
     "tor @ nyy": [
         {
+            "player": "ben rice",
+            "game": "tor @ nyy",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-04-25 21:08:39",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "aaron judge",
             "game": "tor @ nyy",
             "hr/park": "",
@@ -2161,7 +2176,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3687,6 +3702,36 @@
     ],
     "laa @ min": [
         {
+            "player": "mickey gasper",
+            "game": "laa @ min",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-04-25 21:08:39",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "byron buxton",
+            "game": "laa @ min",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-04-25 21:08:39",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "Sac Fly",
+            "evo": "90.3",
+            "la": "25",
+            "dist": "291"
+        },
+        {
             "player": "edouard julien",
             "game": "laa @ min",
             "hr/park": "",
@@ -4229,6 +4274,21 @@
     ],
     "mil @ stl": [
         {
+            "player": "brendan donovan",
+            "game": "mil @ stl",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-04-25 21:08:39",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:15 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "sal frelick",
             "game": "mil @ stl",
             "hr/park": "0/30",
@@ -4721,9 +4781,9 @@
             "start": "8:40 PM",
             "in": "1",
             "result": "Groundout",
-            "evo": "98.3",
-            "la": "-27",
-            "dist": "6"
+            "evo": "89.3",
+            "la": "48",
+            "dist": "288"
         },
         {
             "player": "jordan beck",
