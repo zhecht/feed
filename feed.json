@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "92",
+        "pitchers": "94",
         "batters": "246",
-        "pitches": "3401",
+        "pitches": "3407",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "68.2",
-        "ff%fourseam fastball %": "32.0",
+        "ff%fourseam fastball %": "32.1",
         "si%sinker %": "14.3",
         "fc%cutter %": "9.1",
         "fs%splitter %": "5.3",
         "ch%changeup %": "9.0",
         "sl%slider %": "19.2",
-        "cu%curve %": "10.8",
+        "cu%curve %": "10.7",
         "max evmax exit velocity": "117.6",
         "hhhard hit": "255",
         "hh%hard hit %": "40.7",
         "brlbarrels": "42",
         "brl%barrel %": "6.7",
-        "ab": "783",
-        "avg": ".254",
+        "ab": "786",
+        "avg": ".253",
         "h": "199",
         "1b": "136",
         "2b": "45",
@@ -28,7 +28,7 @@
         "bipballs in play": "626",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-04-25 23:56:58.769127"
+        "updated": "2025-04-25 23:57:09.606464"
     },
     "phi @ chc": [
         {
@@ -8885,9 +8885,24 @@
     ],
     "atl @ ari": [
         {
-            "player": "jorge barrosa",
+            "player": "geraldo perdomo",
             "game": "atl @ ari",
             "hr/park": "",
+            "pa": "59",
+            "dt": "2025-04-25 23:57:09",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "9:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jorge barrosa",
+            "game": "atl @ ari",
+            "hr/park": "0/30",
             "pa": "58",
             "dt": "2025-04-25 23:56:23",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
@@ -9756,6 +9771,21 @@
         }
     ],
     "mia @ sea": [
+        {
+            "player": "rowdy tellez",
+            "game": "mia @ sea",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-04-25 23:57:09",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "9:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "xavier edwards",
             "game": "mia @ sea",
@@ -10794,6 +10824,21 @@
     ],
     "chw @ ath": [
         {
+            "player": "lawrence butler",
+            "game": "chw @ ath",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-04-25 23:57:09",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis urias",
             "game": "chw @ ath",
             "hr/park": "",
@@ -11645,7 +11690,7 @@
             "team": "lad",
             "start": "10:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
