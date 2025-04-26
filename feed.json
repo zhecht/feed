@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "107",
         "batters": "249",
-        "pitches": "3737",
+        "pitches": "3738",
         "max velomax pitch velocity": "102.2",
         "min velomin pitch velocity": "68.2",
-        "ff%fourseam fastball %": "31.7",
+        "ff%fourseam fastball %": "31.6",
         "si%sinker %": "14.8",
         "fc%cutter %": "9.3",
         "fs%splitter %": "5.0",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "40.7",
         "brlbarrels": "45",
         "brl%barrel %": "6.6",
-        "ab": "859",
+        "ab": "860",
         "avg": ".251",
         "h": "216",
         "1b": "147",
@@ -28,7 +28,7 @@
         "bipballs in play": "680",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-04-26 00:42:13.539392"
+        "updated": "2025-04-26 00:42:24.823644"
     },
     "phi @ chc": [
         {
@@ -8958,16 +8958,31 @@
     ],
     "atl @ ari": [
         {
-            "player": "garrett hampson",
+            "player": "corbin carroll",
             "game": "atl @ ari",
             "hr/park": "",
+            "pa": "81",
+            "dt": "2025-04-26 00:42:17",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "garrett hampson",
+            "game": "atl @ ari",
+            "hr/park": "0/30",
             "pa": "80",
             "dt": "2025-04-26 00:41:44",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "start": "",
             "in": "9",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "96.3",
             "la": "25",
             "dist": "321"
@@ -12393,7 +12408,7 @@
             "team": "pit",
             "start": "",
             "in": "9",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "85.1",
             "la": "-7",
             "dist": "20"
