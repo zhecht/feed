@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "74",
         "batters": "182",
-        "pitches": "2702",
+        "pitches": "2705",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "70.8",
         "ff%fourseam fastball %": "31.1",
@@ -13,22 +13,22 @@
         "sl%slider %": "26.3",
         "cu%curve %": "7.7",
         "max evmax exit velocity": "111.9",
-        "hhhard hit": "199",
-        "hh%hard hit %": "41.2",
-        "brlbarrels": "39",
-        "brl%barrel %": "8.1",
-        "ab": "617",
-        "avg": ".267",
-        "h": "165",
-        "1b": "117",
+        "hhhard hit": "201",
+        "hh%hard hit %": "41.4",
+        "brlbarrels": "40",
+        "brl%barrel %": "8.2",
+        "ab": "619",
+        "avg": ".268",
+        "h": "166",
+        "1b": "118",
         "2b": "30",
         "3b": "1",
         "hr": "17",
         "so": "150",
-        "bipballs in play": "483",
+        "bipballs in play": "485",
         "liveGames": 12,
         "totGames": 17,
-        "updated": "2025-04-26 18:48:05.434152"
+        "updated": "2025-04-26 18:48:14.943807"
     },
     "bos @ cle": [
         {
@@ -1173,6 +1173,21 @@
         }
     ],
     "bos @ cle-gm2": [
+        {
+            "player": "gabriel arias",
+            "game": "bos @ cle-gm2",
+            "hr/park": "10/30",
+            "pa": "20",
+            "dt": "2025-04-26 18:48:14",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "102.8",
+            "la": "33",
+            "dist": "378"
+        },
         {
             "player": "kyle manzardo",
             "game": "bos @ cle-gm2",
@@ -2633,6 +2648,21 @@
     ],
     "bal @ det-gm2": [
         {
+            "player": "jackson holliday",
+            "game": "bal @ det-gm2",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-04-26 18:48:14",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan mountcastle",
             "game": "bal @ det-gm2",
             "hr/park": "",
@@ -2642,10 +2672,10 @@
             "team": "bal",
             "start": "6:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "96.8",
+            "la": "2",
+            "dist": "76"
         },
         {
             "player": "tomas nido",
@@ -8084,7 +8114,7 @@
             "team": "chc",
             "start": "4:05 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "93.5",
             "la": "-19",
             "dist": "6"
