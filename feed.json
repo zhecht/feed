@@ -2,15 +2,15 @@
     "all": {
         "pitchers": "85",
         "batters": "199",
-        "pitches": "3017",
+        "pitches": "3022",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "70.8",
-        "ff%fourseam fastball %": "31.4",
+        "ff%fourseam fastball %": "31.5",
         "si%sinker %": "15.7",
         "fc%cutter %": "7.3",
-        "fs%splitter %": "2.9",
+        "fs%splitter %": "2.8",
         "ch%changeup %": "9.0",
-        "sl%slider %": "25.1",
+        "sl%slider %": "25.0",
         "cu%curve %": "8.6",
         "max evmax exit velocity": "111.9",
         "hhhard hit": "221",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "18",
         "so": "166",
-        "bipballs in play": "536",
+        "bipballs in play": "537",
         "liveGames": 13,
         "totGames": 17,
-        "updated": "2025-04-26 19:31:42.113795"
+        "updated": "2025-04-26 19:31:52.257258"
     },
     "bos @ cle": [
         {
@@ -2972,10 +2972,10 @@
             "team": "det",
             "start": "6:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "81.8",
+            "la": "50",
+            "dist": "227"
         },
         {
             "player": "jace jung",
@@ -6991,6 +6991,21 @@
     ],
     "nym @ wsh": [
         {
+            "player": "nathaniel lowe",
+            "game": "nym @ wsh",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-04-26 19:31:45",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "4:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "james wood",
             "game": "nym @ wsh",
             "hr/park": "",
@@ -7000,7 +7015,7 @@
             "team": "wsh",
             "start": "4:05 PM",
             "in": "8",
-            "result": "Pitching Substitution",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
