@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "32",
-        "batters": "124",
-        "pitches": "1267",
+        "batters": "125",
+        "pitches": "1279",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "68.2",
-        "ff%fourseam fastball %": "29.5",
+        "ff%fourseam fastball %": "29.6",
         "si%sinker %": "17.8",
         "fc%cutter %": "9.6",
-        "fs%splitter %": "4.9",
+        "fs%splitter %": "4.8",
         "ch%changeup %": "10.6",
         "sl%slider %": "17.0",
-        "cu%curve %": "10.0",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "114.7",
-        "hhhard hit": "101",
-        "hh%hard hit %": "43.2",
+        "hhhard hit": "103",
+        "hh%hard hit %": "43.3",
         "brlbarrels": "13",
-        "brl%barrel %": "5.6",
-        "ab": "285",
-        "avg": ".246",
-        "h": "70",
-        "1b": "51",
+        "brl%barrel %": "5.5",
+        "ab": "287",
+        "avg": ".247",
+        "h": "71",
+        "1b": "52",
         "2b": "15",
         "3b": "2",
         "hr": "2",
         "so": "60",
-        "bipballs in play": "234",
+        "bipballs in play": "238",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-04-25 21:10:07.305960"
+        "updated": "2025-04-25 21:10:15.194161"
     },
     "phi @ chc": [
         {
@@ -1190,6 +1190,21 @@
     "bal @ det": [],
     "nym @ wsh": [
         {
+            "player": "luis garcia",
+            "game": "nym @ wsh",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-04-25 21:10:09",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "keibert ruiz",
             "game": "nym @ wsh",
             "hr/park": "",
@@ -2177,9 +2192,9 @@
             "start": "7:05 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "85.8",
+            "la": "52",
+            "dist": "244"
         },
         {
             "player": "aaron judge",
@@ -3034,10 +3049,10 @@
             "team": "hou",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "104.5",
+            "la": "12",
+            "dist": "267"
         },
         {
             "player": "drew waters",
@@ -4304,6 +4319,21 @@
     ],
     "mil @ stl": [
         {
+            "player": "nolan arenado",
+            "game": "mil @ stl",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-04-25 21:10:09",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:15 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brendan donovan",
             "game": "mil @ stl",
             "hr/park": "",
@@ -4313,7 +4343,7 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4698,7 +4728,7 @@
         {
             "player": "mickey moniak",
             "game": "cin @ col",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "16",
             "dt": "2025-04-25 21:09:38",
             "img": "https://www.mlbstatic.com/team-logos/115.svg",
@@ -4706,9 +4736,9 @@
             "start": "8:40 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "93.5",
+            "la": "44",
+            "dist": "320"
         },
         {
             "player": "jacob stallings",
@@ -4811,9 +4841,9 @@
             "start": "8:40 PM",
             "in": "1",
             "result": "Groundout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "98.3",
+            "la": "-27",
+            "dist": "6"
         },
         {
             "player": "sean bouchard",
@@ -4825,7 +4855,7 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "1",
-            "result": "Groundout",
+            "result": "Flyout",
             "evo": "89.3",
             "la": "48",
             "dist": "288"
