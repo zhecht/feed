@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "8",
-        "batters": "55",
-        "pitches": "391",
+        "batters": "56",
+        "pitches": "393",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "75.7",
-        "ff%fourseam fastball %": "26.3",
-        "si%sinker %": "23.0",
+        "ff%fourseam fastball %": "26.2",
+        "si%sinker %": "22.9",
         "fc%cutter %": "7.4",
-        "fs%splitter %": "10.0",
-        "ch%changeup %": "8.7",
-        "sl%slider %": "17.1",
+        "fs%splitter %": "9.9",
+        "ch%changeup %": "8.9",
+        "sl%slider %": "17.3",
         "cu%curve %": "7.4",
         "max evmax exit velocity": "110.9",
         "hhhard hit": "37",
         "hh%hard hit %": "51.4",
         "brlbarrels": "5",
         "brl%barrel %": "6.9",
-        "ab": "89",
-        "avg": ".337",
+        "ab": "91",
+        "avg": ".330",
         "h": "30",
         "1b": "22",
         "2b": "5",
@@ -28,7 +28,7 @@
         "bipballs in play": "72",
         "liveGames": 5,
         "totGames": 17,
-        "updated": "2025-04-26 14:31:56.756762"
+        "updated": "2025-04-26 14:32:04.005462"
     },
     "bos @ cle": [
         {
@@ -634,6 +634,21 @@
     ],
     "bos @ cle-gm2": [],
     "bal @ det": [
+        {
+            "player": "zach mckinstry",
+            "game": "bal @ det",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-04-26 14:31:59",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "gunnar henderson",
             "game": "bal @ det",
@@ -1435,16 +1450,31 @@
     ],
     "mil @ stl": [
         {
-            "player": "brendan donovan",
+            "player": "nolan arenado",
             "game": "mil @ stl",
             "hr/park": "",
+            "pa": "8",
+            "dt": "2025-04-26 14:31:00",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "2:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "brendan donovan",
+            "game": "mil @ stl",
+            "hr/park": "0/30",
             "pa": "7",
             "dt": "2025-04-26 14:28:44",
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
             "team": "stl",
             "start": "2:15 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "99.8",
             "la": "20",
             "dist": "348"
