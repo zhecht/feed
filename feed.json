@@ -2,13 +2,13 @@
     "all": {
         "pitchers": "12",
         "batters": "72",
-        "pitches": "598",
+        "pitches": "599",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "75.7",
         "ff%fourseam fastball %": "24.7",
-        "si%sinker %": "22.2",
+        "si%sinker %": "22.4",
         "fc%cutter %": "7.0",
-        "fs%splitter %": "7.4",
+        "fs%splitter %": "7.3",
         "ch%changeup %": "9.0",
         "sl%slider %": "21.4",
         "cu%curve %": "8.2",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "48.1",
         "brlbarrels": "8",
         "brl%barrel %": "7.4",
-        "ab": "132",
-        "avg": ".318",
+        "ab": "133",
+        "avg": ".316",
         "h": "42",
         "1b": "31",
         "2b": "8",
@@ -28,7 +28,7 @@
         "bipballs in play": "108",
         "liveGames": 5,
         "totGames": 17,
-        "updated": "2025-04-26 14:59:08.913121"
+        "updated": "2025-04-26 14:59:16.416691"
     },
     "bos @ cle": [
         {
@@ -2005,6 +2005,21 @@
     ],
     "mil @ stl": [
         {
+            "player": "brendan donovan",
+            "game": "mil @ stl",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-04-26 14:59:14",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "2:15 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "willson contreras",
             "game": "mil @ stl",
             "hr/park": "",
@@ -2014,7 +2029,7 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "68.2",
             "la": "-21",
             "dist": "9"
