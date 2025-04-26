@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "91",
         "batters": "246",
-        "pitches": "3354",
+        "pitches": "3359",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "68.2",
         "ff%fourseam fastball %": "31.9",
-        "si%sinker %": "14.4",
+        "si%sinker %": "14.3",
         "fc%cutter %": "9.2",
         "fs%splitter %": "5.2",
-        "ch%changeup %": "9.0",
+        "ch%changeup %": "9.1",
         "sl%slider %": "19.3",
         "cu%curve %": "10.8",
         "max evmax exit velocity": "117.6",
         "hhhard hit": "254",
-        "hh%hard hit %": "41.0",
+        "hh%hard hit %": "40.9",
         "brlbarrels": "42",
         "brl%barrel %": "6.8",
-        "ab": "775",
+        "ab": "777",
         "avg": ".254",
         "h": "197",
         "1b": "134",
@@ -25,10 +25,10 @@
         "3b": "5",
         "hr": "13",
         "so": "174",
-        "bipballs in play": "620",
+        "bipballs in play": "621",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-04-25 23:52:31.896178"
+        "updated": "2025-04-25 23:52:42.343940"
     },
     "phi @ chc": [
         {
@@ -7962,7 +7962,7 @@
             "team": "tb",
             "start": "9:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9727,6 +9727,21 @@
     ],
     "mia @ sea": [
         {
+            "player": "xavier edwards",
+            "game": "mia @ sea",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-04-25 23:52:38",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "9:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "otto lopez",
             "game": "mia @ sea",
             "hr/park": "",
@@ -9736,10 +9751,10 @@
             "team": "mia",
             "start": "9:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "63.3",
+            "la": "-19",
+            "dist": "9"
         },
         {
             "player": "liam hicks",
@@ -10748,6 +10763,21 @@
         }
     ],
     "chw @ ath": [
+        {
+            "player": "luis urias",
+            "game": "chw @ ath",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-04-25 23:52:38",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "gio urshela",
             "game": "chw @ ath",
