@@ -1,20 +1,20 @@
 {
     "all": {
-        "pitchers": "22",
-        "batters": "103",
-        "pitches": "981",
+        "pitchers": "23",
+        "batters": "105",
+        "pitches": "983",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "68.2",
         "ff%fourseam fastball %": "31.1",
         "si%sinker %": "16.5",
         "fc%cutter %": "8.5",
         "fs%splitter %": "6.0",
-        "ch%changeup %": "8.7",
+        "ch%changeup %": "8.6",
         "sl%slider %": "18.3",
         "cu%curve %": "10.5",
         "max evmax exit velocity": "114.7",
-        "hhhard hit": "74",
-        "hh%hard hit %": "42.3",
+        "hhhard hit": "75",
+        "hh%hard hit %": "42.6",
         "brlbarrels": "11",
         "brl%barrel %": "6.3",
         "ab": "223",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "2",
         "so": "52",
-        "bipballs in play": "175",
+        "bipballs in play": "176",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-04-25 20:41:18.755537"
+        "updated": "2025-04-25 20:41:26.670912"
     },
     "phi @ chc": [
         {
@@ -1199,7 +1199,7 @@
             "team": "wsh",
             "start": "6:45 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Sac Bunt",
             "evo": "27.0",
             "la": "-45",
             "dist": "3"
@@ -1996,7 +1996,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3539,6 +3539,21 @@
     ],
     "mil @ stl": [
         {
+            "player": "nolan gorman",
+            "game": "mil @ stl",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-04-25 20:41:22",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:15 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "96.6",
+            "la": "45",
+            "dist": "260"
+        },
+        {
             "player": "joey ortiz",
             "game": "mil @ stl",
             "hr/park": "",
@@ -3719,7 +3734,23 @@
             "dist": "196"
         }
     ],
-    "cin @ col": [],
+    "cin @ col": [
+        {
+            "player": "tj friedl",
+            "game": "cin @ col",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-04-25 20:41:22",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "8:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "tb @ sd": [],
     "atl @ ari": [],
     "mia @ sea": [],
