@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "64",
-        "batters": "172",
-        "pitches": "2412",
+        "batters": "174",
+        "pitches": "2416",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "70.8",
         "ff%fourseam fastball %": "31.0",
@@ -11,24 +11,24 @@
         "fs%splitter %": "3.4",
         "ch%changeup %": "8.2",
         "sl%slider %": "26.4",
-        "cu%curve %": "8.0",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "111.9",
-        "hhhard hit": "180",
+        "hhhard hit": "181",
         "hh%hard hit %": "41.8",
         "brlbarrels": "35",
         "brl%barrel %": "8.1",
-        "ab": "554",
+        "ab": "557",
         "avg": ".271",
-        "h": "150",
-        "1b": "105",
+        "h": "151",
+        "1b": "106",
         "2b": "28",
         "3b": "0",
         "hr": "17",
         "so": "135",
-        "bipballs in play": "431",
+        "bipballs in play": "433",
         "liveGames": 12,
         "totGames": 17,
-        "updated": "2025-04-26 18:18:39.724744"
+        "updated": "2025-04-26 18:18:48.982519"
     },
     "bos @ cle": [
         {
@@ -1174,6 +1174,21 @@
     ],
     "bos @ cle-gm2": [
         {
+            "player": "rob refsnyder",
+            "game": "bos @ cle-gm2",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-04-26 18:18:44",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "6:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trevor story",
             "game": "bos @ cle-gm2",
             "hr/park": "",
@@ -1183,7 +1198,7 @@
             "team": "bos",
             "start": "6:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "109.7",
             "la": "12",
             "dist": "240"
@@ -2417,10 +2432,10 @@
             "team": "det",
             "start": "6:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "79.8",
+            "la": "80",
+            "dist": "67"
         },
         {
             "player": "adley rutschman",
@@ -8286,6 +8301,36 @@
         }
     ],
     "chw @ ath": [
+        {
+            "player": "seth brown",
+            "game": "chw @ ath",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-04-26 18:18:44",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "4:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jacob wilson",
+            "game": "chw @ ath",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-04-26 18:18:44",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "4:05 PM",
+            "in": "8",
+            "result": "Groundout",
+            "evo": "100.1",
+            "la": "-6",
+            "dist": "24"
+        },
         {
             "player": "lenyn sosa",
             "game": "chw @ ath",
