@@ -2,12 +2,12 @@
     "all": {
         "pitchers": "40",
         "batters": "129",
-        "pitches": "1494",
+        "pitches": "1495",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "68.2",
         "ff%fourseam fastball %": "29.3",
         "si%sinker %": "17.1",
-        "fc%cutter %": "9.7",
+        "fc%cutter %": "9.8",
         "fs%splitter %": "5.1",
         "ch%changeup %": "10.4",
         "sl%slider %": "17.3",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "44.2",
         "brlbarrels": "18",
         "brl%barrel %": "6.4",
-        "ab": "338",
-        "avg": ".257",
-        "h": "87",
-        "1b": "62",
+        "ab": "340",
+        "avg": ".259",
+        "h": "88",
+        "1b": "63",
         "2b": "18",
         "3b": "3",
         "hr": "4",
@@ -28,7 +28,7 @@
         "bipballs in play": "283",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-04-25 21:31:18.622745"
+        "updated": "2025-04-25 21:31:26.955479"
     },
     "phi @ chc": [
         {
@@ -2311,7 +2311,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "8",
-            "result": "Hit By Pitch",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3289,10 +3289,10 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "8",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "In Progress",
+            "evo": "89.5",
+            "la": "-18",
+            "dist": "11"
         },
         {
             "player": "jake meyers",
@@ -4874,6 +4874,21 @@
     ],
     "mil @ stl": [
         {
+            "player": "willson contreras",
+            "game": "mil @ stl",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-04-25 21:31:22",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "lars nootbaar",
             "game": "mil @ stl",
             "hr/park": "",
@@ -4883,7 +4898,7 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "106.4",
             "la": "11",
             "dist": "242"
