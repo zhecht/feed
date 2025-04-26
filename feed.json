@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "78",
         "batters": "244",
-        "pitches": "3036",
+        "pitches": "3040",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "68.2",
         "ff%fourseam fastball %": "31.2",
-        "si%sinker %": "15.1",
+        "si%sinker %": "15.0",
         "fc%cutter %": "9.4",
         "fs%splitter %": "4.7",
         "ch%changeup %": "9.6",
@@ -14,7 +14,7 @@
         "cu%curve %": "11.0",
         "max evmax exit velocity": "117.6",
         "hhhard hit": "236",
-        "hh%hard hit %": "42.1",
+        "hh%hard hit %": "42.0",
         "brlbarrels": "37",
         "brl%barrel %": "6.6",
         "ab": "701",
@@ -25,10 +25,10 @@
         "3b": "5",
         "hr": "11",
         "so": "160",
-        "bipballs in play": "560",
+        "bipballs in play": "562",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-04-25 23:26:27.865814"
+        "updated": "2025-04-25 23:26:37.777707"
     },
     "phi @ chc": [
         {
@@ -7788,6 +7788,21 @@
     ],
     "tb @ sd": [
         {
+            "player": "tirso ornelas",
+            "game": "tb @ sd",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-04-25 23:26:37",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose iglesias",
             "game": "tb @ sd",
             "hr/park": "",
@@ -7797,7 +7812,7 @@
             "team": "sd",
             "start": "9:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9219,17 +9234,17 @@
         {
             "player": "ben williamson",
             "game": "mia @ sea",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "55",
             "dt": "2025-04-25 23:25:54",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "start": "9:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "86.9",
+            "la": "23",
+            "dist": "302"
         },
         {
             "player": "miles mastrobuoni",
@@ -11257,7 +11272,7 @@
             "team": "tex",
             "start": "10:15 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "64.7",
             "la": "65",
             "dist": "122"
