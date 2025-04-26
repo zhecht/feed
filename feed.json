@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "85",
         "batters": "196",
-        "pitches": "2988",
+        "pitches": "2990",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "70.8",
         "ff%fourseam fastball %": "31.4",
         "si%sinker %": "15.8",
         "fc%cutter %": "7.3",
         "fs%splitter %": "2.9",
-        "ch%changeup %": "8.9",
+        "ch%changeup %": "9.0",
         "sl%slider %": "25.2",
         "cu%curve %": "8.5",
         "max evmax exit velocity": "111.9",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "41.6",
         "brlbarrels": "41",
         "brl%barrel %": "7.7",
-        "ab": "680",
-        "avg": ".268",
+        "ab": "682",
+        "avg": ".267",
         "h": "182",
         "1b": "127",
         "2b": "35",
@@ -28,7 +28,7 @@
         "bipballs in play": "531",
         "liveGames": 13,
         "totGames": 17,
-        "updated": "2025-04-26 19:27:58.171595"
+        "updated": "2025-04-26 19:28:08.087760"
     },
     "bos @ cle": [
         {
@@ -1173,6 +1173,21 @@
         }
     ],
     "bos @ cle-gm2": [
+        {
+            "player": "bo naylor",
+            "game": "bos @ cle-gm2",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-04-26 19:28:01",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "gabriel arias",
             "game": "bos @ cle-gm2",
@@ -2918,6 +2933,21 @@
     ],
     "bal @ det-gm2": [
         {
+            "player": "jace jung",
+            "game": "bal @ det-gm2",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-04-26 19:28:01",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tomas nido",
             "game": "bal @ det-gm2",
             "hr/park": "",
@@ -2927,7 +2957,7 @@
             "team": "det",
             "start": "6:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "91.1",
             "la": "3",
             "dist": "67"
