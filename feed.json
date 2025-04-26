@@ -1,26 +1,26 @@
 {
     "all": {
         "pitchers": "33",
-        "batters": "117",
-        "pitches": "1267",
+        "batters": "118",
+        "pitches": "1268",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "70.8",
-        "ff%fourseam fastball %": "29.0",
-        "si%sinker %": "18.9",
+        "ff%fourseam fastball %": "29.1",
+        "si%sinker %": "18.8",
         "fc%cutter %": "6.2",
-        "fs%splitter %": "4.4",
-        "ch%changeup %": "7.7",
-        "sl%slider %": "25.6",
+        "fs%splitter %": "4.5",
+        "ch%changeup %": "7.6",
+        "sl%slider %": "25.5",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "110.9",
         "hhhard hit": "99",
         "hh%hard hit %": "45.4",
         "brlbarrels": "17",
         "brl%barrel %": "7.8",
-        "ab": "291",
-        "avg": ".299",
-        "h": "87",
-        "1b": "58",
+        "ab": "290",
+        "avg": ".303",
+        "h": "88",
+        "1b": "59",
         "2b": "19",
         "3b": "0",
         "hr": "10",
@@ -28,7 +28,7 @@
         "bipballs in play": "218",
         "liveGames": 10,
         "totGames": 17,
-        "updated": "2025-04-26 16:17:55.445040"
+        "updated": "2025-04-26 16:18:03.436072"
     },
     "bos @ cle": [
         {
@@ -3250,21 +3250,6 @@
     ],
     "mil @ stl": [
         {
-            "player": "nolan gorman",
-            "game": "mil @ stl",
-            "hr/park": "",
-            "pa": "59",
-            "dt": "2025-04-26 16:17:44",
-            "img": "https://www.mlbstatic.com/team-logos/138.svg",
-            "team": "stl",
-            "start": "2:15 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "nolan arenado",
             "game": "mil @ stl",
             "hr/park": "",
@@ -4650,6 +4635,21 @@
     "nym @ wsh": [],
     "tex @ sf": [
         {
+            "player": "willy adames",
+            "game": "tex @ sf",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-04-26 16:17:59",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mike yastrzemski",
             "game": "tex @ sf",
             "hr/park": "",
@@ -4659,7 +4659,7 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "88.8",
             "la": "8",
             "dist": "121"
@@ -4751,7 +4751,7 @@
             "team": "chc",
             "start": "4:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4821,7 +4821,7 @@
         {
             "player": "bobby dalbec",
             "game": "chw @ ath",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "8",
             "dt": "2025-04-26 16:16:44",
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
