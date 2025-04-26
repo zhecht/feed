@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "46",
         "batters": "156",
-        "pitches": "1629",
+        "pitches": "1631",
         "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "70.8",
-        "ff%fourseam fastball %": "29.8",
+        "ff%fourseam fastball %": "29.9",
         "si%sinker %": "17.4",
         "fc%cutter %": "7.1",
         "fs%splitter %": "3.9",
@@ -13,22 +13,22 @@
         "sl%slider %": "25.2",
         "cu%curve %": "9.1",
         "max evmax exit velocity": "110.9",
-        "hhhard hit": "122",
-        "hh%hard hit %": "44.0",
+        "hhhard hit": "123",
+        "hh%hard hit %": "44.2",
         "brlbarrels": "21",
         "brl%barrel %": "7.6",
-        "ab": "373",
-        "avg": ".282",
+        "ab": "374",
+        "avg": ".281",
         "h": "105",
         "1b": "73",
         "2b": "20",
         "3b": "0",
         "hr": "12",
-        "so": "102",
-        "bipballs in play": "277",
+        "so": "103",
+        "bipballs in play": "278",
         "liveGames": 10,
         "totGames": 17,
-        "updated": "2025-04-26 16:48:36.688499"
+        "updated": "2025-04-26 16:48:45.082216"
     },
     "bos @ cle": [
         {
@@ -5320,7 +5320,7 @@
             "team": "tex",
             "start": "4:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Stolen Base 3B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5643,6 +5643,21 @@
     ],
     "phi @ chc": [
         {
+            "player": "ian happ",
+            "game": "phi @ chc",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-04-26 16:48:45",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jon berti",
             "game": "phi @ chc",
             "hr/park": "",
@@ -5652,10 +5667,10 @@
             "team": "chc",
             "start": "4:05 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Groundout",
+            "evo": "105.3",
             "la": "",
-            "dist": ""
+            "dist": "55"
         },
         {
             "player": "miguel amaya",
@@ -5969,7 +5984,7 @@
             "team": "chw",
             "start": "4:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
