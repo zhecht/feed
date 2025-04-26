@@ -2,18 +2,18 @@
     "all": {
         "pitchers": "97",
         "batters": "246",
-        "pitches": "3482",
+        "pitches": "3490",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "68.2",
         "ff%fourseam fastball %": "32.0",
-        "si%sinker %": "14.1",
+        "si%sinker %": "14.2",
         "fc%cutter %": "9.1",
         "fs%splitter %": "5.4",
         "ch%changeup %": "9.0",
-        "sl%slider %": "19.5",
-        "cu%curve %": "10.6",
+        "sl%slider %": "19.6",
+        "cu%curve %": "10.5",
         "max evmax exit velocity": "117.6",
-        "hhhard hit": "258",
+        "hhhard hit": "259",
         "hh%hard hit %": "40.5",
         "brlbarrels": "42",
         "brl%barrel %": "6.6",
@@ -25,10 +25,10 @@
         "3b": "5",
         "hr": "13",
         "so": "186",
-        "bipballs in play": "637",
+        "bipballs in play": "639",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-04-26 00:05:02.918500"
+        "updated": "2025-04-26 00:05:13.755240"
     },
     "phi @ chc": [
         {
@@ -7953,6 +7953,21 @@
     ],
     "tb @ sd": [
         {
+            "player": "gavin sheets",
+            "game": "tb @ sd",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-04-26 00:05:08",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "manny machado",
             "game": "tb @ sd",
             "hr/park": "",
@@ -10953,7 +10968,7 @@
             "team": "chw",
             "start": "",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11885,10 +11900,10 @@
             "team": "pit",
             "start": "",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "101.7",
+            "la": "-19",
+            "dist": "7"
         },
         {
             "player": "oneil cruz",
