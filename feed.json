@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "58",
+        "pitchers": "59",
         "batters": "172",
-        "pitches": "2314",
+        "pitches": "2317",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "70.8",
         "ff%fourseam fastball %": "31.1",
         "si%sinker %": "15.6",
         "fc%cutter %": "7.2",
         "fs%splitter %": "3.5",
-        "ch%changeup %": "8.3",
-        "sl%slider %": "26.1",
-        "cu%curve %": "8.3",
+        "ch%changeup %": "8.2",
+        "sl%slider %": "26.2",
+        "cu%curve %": "8.2",
         "max evmax exit velocity": "111.9",
         "hhhard hit": "173",
-        "hh%hard hit %": "41.7",
+        "hh%hard hit %": "41.6",
         "brlbarrels": "34",
         "brl%barrel %": "8.2",
-        "ab": "534",
+        "ab": "535",
         "avg": ".275",
         "h": "147",
         "1b": "102",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "17",
         "so": "131",
-        "bipballs in play": "415",
+        "bipballs in play": "416",
         "liveGames": 10,
         "totGames": 17,
-        "updated": "2025-04-26 18:09:28.688367"
+        "updated": "2025-04-26 18:09:37.616421"
     },
     "bos @ cle": [
         {
@@ -6241,6 +6241,21 @@
     ],
     "tex @ sf": [
         {
+            "player": "mike yastrzemski",
+            "game": "tex @ sf",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-04-26 18:09:31",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "sam huff",
             "game": "tex @ sf",
             "hr/park": "",
@@ -7077,10 +7092,10 @@
             "team": "phi",
             "start": "4:05 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "69.1",
+            "la": "6",
+            "dist": "83"
         },
         {
             "player": "alec bohm",
