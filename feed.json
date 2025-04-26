@@ -2,18 +2,18 @@
     "all": {
         "pitchers": "57",
         "batters": "170",
-        "pitches": "2157",
+        "pitches": "2161",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "70.8",
         "ff%fourseam fastball %": "31.1",
-        "si%sinker %": "15.2",
+        "si%sinker %": "15.3",
         "fc%cutter %": "7.0",
         "fs%splitter %": "3.7",
         "ch%changeup %": "8.4",
         "sl%slider %": "25.9",
-        "cu%curve %": "8.8",
+        "cu%curve %": "8.7",
         "max evmax exit velocity": "111.9",
-        "hhhard hit": "160",
+        "hhhard hit": "161",
         "hh%hard hit %": "41.5",
         "brlbarrels": "31",
         "brl%barrel %": "8.0",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "15",
         "so": "121",
-        "bipballs in play": "386",
+        "bipballs in play": "388",
         "liveGames": 10,
         "totGames": 17,
-        "updated": "2025-04-26 17:50:40.019435"
+        "updated": "2025-04-26 17:50:49.240524"
     },
     "bos @ cle": [
         {
@@ -6040,10 +6040,10 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "101.9",
+            "la": "-11",
+            "dist": "11"
         },
         {
             "player": "wilmer flores",
@@ -7535,6 +7535,21 @@
     ],
     "chw @ ath": [
         {
+            "player": "lenyn sosa",
+            "game": "chw @ ath",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-04-26 17:50:44",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "4:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "93.3",
+            "la": "60",
+            "dist": "197"
+        },
+        {
             "player": "andrew vaughn",
             "game": "chw @ ath",
             "hr/park": "",
@@ -7544,7 +7559,7 @@
             "team": "chw",
             "start": "4:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
