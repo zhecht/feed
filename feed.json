@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "35",
         "batters": "129",
-        "pitches": "1396",
+        "pitches": "1398",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "68.2",
         "ff%fourseam fastball %": "29.4",
         "si%sinker %": "17.8",
         "fc%cutter %": "9.4",
         "fs%splitter %": "5.4",
-        "ch%changeup %": "10.5",
+        "ch%changeup %": "10.4",
         "sl%slider %": "16.8",
-        "cu%curve %": "10.1",
+        "cu%curve %": "10.2",
         "max evmax exit velocity": "114.7",
-        "hhhard hit": "112",
+        "hhhard hit": "113",
         "hh%hard hit %": "42.6",
         "brlbarrels": "15",
         "brl%barrel %": "5.7",
-        "ab": "316",
-        "avg": ".250",
+        "ab": "317",
+        "avg": ".249",
         "h": "79",
         "1b": "58",
         "2b": "16",
         "3b": "2",
         "hr": "3",
         "so": "65",
-        "bipballs in play": "263",
+        "bipballs in play": "265",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-04-25 21:21:32.783569"
+        "updated": "2025-04-25 21:21:41.237487"
     },
     "phi @ chc": [
         {
@@ -3966,10 +3966,10 @@
             "team": "laa",
             "start": "7:40 PM",
             "in": "5",
-            "result": "Single",
-            "evo": "81.7",
-            "la": "10",
-            "dist": "146"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "zach neto",
@@ -4643,10 +4643,10 @@
             "team": "mil",
             "start": "8:15 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "48.5",
+            "la": "-48",
+            "dist": "4"
         },
         {
             "player": "isaac collins",
@@ -5131,19 +5131,34 @@
     ],
     "cin @ col": [
         {
-            "player": "matt mclain",
+            "player": "elly de la cruz",
             "game": "cin @ col",
             "hr/park": "",
+            "pa": "21",
+            "dt": "2025-04-25 21:21:38",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "8:40 PM",
+            "in": "3",
+            "result": "Single",
+            "evo": "61.1",
+            "la": "-33",
+            "dist": "6"
+        },
+        {
+            "player": "matt mclain",
+            "game": "cin @ col",
+            "hr/park": "2/30",
             "pa": "20",
             "dt": "2025-04-25 21:19:52",
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
             "team": "cin",
             "start": "8:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "96.1",
+            "la": "34",
+            "dist": "348"
         },
         {
             "player": "aaron schunk",
