@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "70",
         "batters": "229",
-        "pitches": "2413",
+        "pitches": "2422",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "68.2",
-        "ff%fourseam fastball %": "31.1",
+        "ff%fourseam fastball %": "31.0",
         "si%sinker %": "15.8",
         "fc%cutter %": "9.4",
         "fs%splitter %": "4.5",
-        "ch%changeup %": "9.7",
+        "ch%changeup %": "9.8",
         "sl%slider %": "18.5",
         "cu%curve %": "10.6",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "193",
-        "hh%hard hit %": "43.1",
+        "hh%hard hit %": "42.9",
         "brlbarrels": "28",
-        "brl%barrel %": "6.3",
-        "ab": "555",
-        "avg": ".256",
-        "h": "142",
-        "1b": "98",
+        "brl%barrel %": "6.2",
+        "ab": "557",
+        "avg": ".257",
+        "h": "143",
+        "1b": "99",
         "2b": "32",
         "3b": "4",
         "hr": "8",
-        "so": "121",
-        "bipballs in play": "448",
+        "so": "122",
+        "bipballs in play": "450",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-04-25 22:38:50.310159"
+        "updated": "2025-04-25 22:38:59.777124"
     },
     "phi @ chc": [
         {
@@ -6586,6 +6586,21 @@
     ],
     "cin @ col": [
         {
+            "player": "ryan mcmahon",
+            "game": "cin @ col",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-04-25 22:38:53",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "owen miller",
             "game": "cin @ col",
             "hr/park": "",
@@ -6595,7 +6610,7 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "67.3",
             "la": "-31",
             "dist": "3"
@@ -7925,6 +7940,21 @@
     ],
     "atl @ ari": [
         {
+            "player": "ozzie albies",
+            "game": "atl @ ari",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-04-25 22:38:08",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "9:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "sean murphy",
             "game": "atl @ ari",
             "hr/park": "",
@@ -7934,7 +7964,7 @@
             "team": "atl",
             "start": "9:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8281,10 +8311,10 @@
             "team": "mia",
             "start": "9:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Field Error",
+            "evo": "65.4",
+            "la": "-23",
+            "dist": "9"
         },
         {
             "player": "connor norby",
@@ -8718,7 +8748,7 @@
             "team": "ath",
             "start": "10:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "105.8",
             "la": "17",
             "dist": "323"
@@ -9035,10 +9065,10 @@
             "team": "pit",
             "start": "10:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "82.4",
+            "la": "13",
+            "dist": "192"
         },
         {
             "player": "adam frazier",
