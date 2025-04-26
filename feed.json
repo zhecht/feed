@@ -2,15 +2,15 @@
     "all": {
         "pitchers": "69",
         "batters": "176",
-        "pitches": "2530",
+        "pitches": "2533",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "70.8",
         "ff%fourseam fastball %": "31.2",
         "si%sinker %": "15.6",
         "fc%cutter %": "7.3",
         "fs%splitter %": "3.2",
-        "ch%changeup %": "8.9",
-        "sl%slider %": "26.0",
+        "ch%changeup %": "8.8",
+        "sl%slider %": "25.9",
         "cu%curve %": "7.9",
         "max evmax exit velocity": "111.9",
         "hhhard hit": "186",
@@ -18,17 +18,17 @@
         "brlbarrels": "36",
         "brl%barrel %": "7.9",
         "ab": "578",
-        "avg": ".268",
-        "h": "155",
+        "avg": ".266",
+        "h": "154",
         "1b": "109",
-        "2b": "29",
+        "2b": "28",
         "3b": "0",
         "hr": "17",
         "so": "139",
         "bipballs in play": "453",
         "liveGames": 12,
         "totGames": 17,
-        "updated": "2025-04-26 18:29:07.052210"
+        "updated": "2025-04-26 18:29:16.700457"
     },
     "bos @ cle": [
         {
@@ -1183,7 +1183,7 @@
             "team": "bos",
             "start": "6:10 PM",
             "in": "2",
-            "result": "Double",
+            "result": "In Progress",
             "evo": "101.2",
             "la": "21",
             "dist": "364"
@@ -2507,7 +2507,7 @@
             "team": "bal",
             "start": "6:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7595,6 +7595,21 @@
     ],
     "phi @ chc": [
         {
+            "player": "dansby swanson",
+            "game": "phi @ chc",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-04-26 18:29:14",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "4:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "justin turner",
             "game": "phi @ chc",
             "hr/park": "0/30",
@@ -7604,7 +7619,7 @@
             "team": "chc",
             "start": "4:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Sac Fly",
             "evo": "92.6",
             "la": "31",
             "dist": "340"
