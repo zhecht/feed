@@ -2,16 +2,16 @@
     "all": {
         "pitchers": "22",
         "batters": "103",
-        "pitches": "966",
+        "pitches": "967",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "68.2",
         "ff%fourseam fastball %": "31.2",
-        "si%sinker %": "16.6",
-        "fc%cutter %": "8.6",
+        "si%sinker %": "16.5",
+        "fc%cutter %": "8.5",
         "fs%splitter %": "6.1",
         "ch%changeup %": "8.4",
         "sl%slider %": "18.5",
-        "cu%curve %": "10.2",
+        "cu%curve %": "10.3",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "73",
         "hh%hard hit %": "42.4",
@@ -24,11 +24,11 @@
         "2b": "12",
         "3b": "1",
         "hr": "1",
-        "so": "51",
+        "so": "52",
         "bipballs in play": "172",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-04-25 20:39:22.087310"
+        "updated": "2025-04-25 20:39:29.867553"
     },
     "phi @ chc": [
         {
@@ -1190,6 +1190,21 @@
     "bal @ det": [],
     "nym @ wsh": [
         {
+            "player": "jose tena",
+            "game": "nym @ wsh",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-04-25 20:39:24",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "dylan crews",
             "game": "nym @ wsh",
             "hr/park": "",
@@ -1957,21 +1972,6 @@
     ],
     "tor @ nyy": [
         {
-            "player": "cody bellinger",
-            "game": "tor @ nyy",
-            "hr/park": "",
-            "pa": "46",
-            "dt": "2025-04-25 20:39:09",
-            "img": "https://www.mlbstatic.com/team-logos/147.svg",
-            "team": "nyy",
-            "start": "7:05 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "paul goldschmidt",
             "game": "tor @ nyy",
             "hr/park": "",
@@ -1981,7 +1981,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "6",
-            "result": "Flyout",
+            "result": "In Progress",
             "evo": "98.6",
             "la": "50",
             "dist": "273"
@@ -3503,7 +3503,7 @@
             "team": "mil",
             "start": "8:15 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
