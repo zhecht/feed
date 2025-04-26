@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "57",
         "batters": "170",
-        "pitches": "2161",
+        "pitches": "2162",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "70.8",
         "ff%fourseam fastball %": "31.1",
@@ -12,23 +12,23 @@
         "ch%changeup %": "8.4",
         "sl%slider %": "25.9",
         "cu%curve %": "8.7",
-        "max evmax exit velocity": "111.9",
-        "hhhard hit": "161",
-        "hh%hard hit %": "41.5",
-        "brlbarrels": "31",
-        "brl%barrel %": "8.0",
-        "ab": "495",
-        "avg": ".275",
+        "max evmax exit velocity": "110.9",
+        "hhhard hit": "160",
+        "hh%hard hit %": "41.3",
+        "brlbarrels": "30",
+        "brl%barrel %": "7.8",
+        "ab": "496",
+        "avg": ".274",
         "h": "136",
         "1b": "96",
         "2b": "25",
         "3b": "0",
         "hr": "15",
         "so": "121",
-        "bipballs in play": "388",
+        "bipballs in play": "387",
         "liveGames": 10,
         "totGames": 17,
-        "updated": "2025-04-26 17:51:07.458183"
+        "updated": "2025-04-26 17:51:17.587812"
     },
     "bos @ cle": [
         {
@@ -4671,7 +4671,7 @@
             "team": "cin",
             "start": "3:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6031,6 +6031,21 @@
     ],
     "tex @ sf": [
         {
+            "player": "lamonte wade",
+            "game": "tex @ sf",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-04-26 17:51:14",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "heliot ramos",
             "game": "tex @ sf",
             "hr/park": "",
@@ -6763,9 +6778,9 @@
             "start": "4:05 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "111.9",
-            "la": "16",
-            "dist": "356"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "bryce harper",
@@ -7544,7 +7559,7 @@
             "team": "chw",
             "start": "4:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "93.3",
             "la": "60",
             "dist": "197"
