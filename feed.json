@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "105",
         "batters": "248",
-        "pitches": "3693",
+        "pitches": "3695",
         "max velomax pitch velocity": "102.2",
         "min velomin pitch velocity": "68.2",
-        "ff%fourseam fastball %": "31.8",
-        "si%sinker %": "14.4",
-        "fc%cutter %": "9.3",
+        "ff%fourseam fastball %": "31.7",
+        "si%sinker %": "14.6",
+        "fc%cutter %": "9.4",
         "fs%splitter %": "5.1",
-        "ch%changeup %": "8.8",
+        "ch%changeup %": "8.6",
         "sl%slider %": "19.9",
-        "cu%curve %": "10.5",
+        "cu%curve %": "10.4",
         "max evmax exit velocity": "117.6",
-        "hhhard hit": "273",
-        "hh%hard hit %": "40.6",
+        "hhhard hit": "274",
+        "hh%hard hit %": "40.8",
         "brlbarrels": "45",
         "brl%barrel %": "6.7",
         "ab": "849",
@@ -24,11 +24,11 @@
         "2b": "50",
         "3b": "5",
         "hr": "14",
-        "so": "198",
+        "so": "199",
         "bipballs in play": "672",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-04-26 00:34:40.698311"
+        "updated": "2025-04-26 00:35:09.096007"
     },
     "phi @ chc": [
         {
@@ -1187,7 +1187,6 @@
             "dist": ""
         }
     ],
-    "bal @ det": [],
     "nym @ wsh": [
         {
             "player": "james wood",
@@ -2342,8 +2341,8 @@
             "start": "",
             "in": "9",
             "result": "Double",
-            "evo": "",
-            "la": "",
+            "evo": "96.9",
+            "la": "23",
             "dist": ""
         },
         {
@@ -2641,7 +2640,7 @@
             "team": "nyy",
             "start": "",
             "in": "7",
-            "result": "Pop Out",
+            "result": "Flyout",
             "evo": "85.8",
             "la": "52",
             "dist": "244"
@@ -3487,7 +3486,6 @@
             "dist": "260"
         }
     ],
-    "bos @ cle": [],
     "hou @ kc": [
         {
             "player": "isaac paredes",
@@ -11193,7 +11191,7 @@
             "team": "chw",
             "start": "",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -14127,5 +14125,7 @@
             "la": "",
             "dist": ""
         }
-    ]
+    ],
+    "bal @ det": [],
+    "bos @ cle": []
 }
