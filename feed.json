@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "25",
         "batters": "95",
-        "pitches": "1029",
+        "pitches": "1033",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "74.7",
-        "ff%fourseam fastball %": "25.9",
+        "ff%fourseam fastball %": "25.8",
         "si%sinker %": "21.3",
         "fc%cutter %": "7.3",
-        "fs%splitter %": "5.1",
-        "ch%changeup %": "8.0",
-        "sl%slider %": "24.2",
-        "cu%curve %": "8.4",
+        "fs%splitter %": "5.0",
+        "ch%changeup %": "7.9",
+        "sl%slider %": "24.3",
+        "cu%curve %": "8.3",
         "max evmax exit velocity": "110.9",
-        "hhhard hit": "79",
-        "hh%hard hit %": "45.1",
+        "hhhard hit": "80",
+        "hh%hard hit %": "45.2",
         "brlbarrels": "13",
-        "brl%barrel %": "7.4",
-        "ab": "232",
-        "avg": ".293",
+        "brl%barrel %": "7.3",
+        "ab": "234",
+        "avg": ".291",
         "h": "68",
         "1b": "47",
         "2b": "13",
         "3b": "0",
         "hr": "8",
         "so": "63",
-        "bipballs in play": "175",
+        "bipballs in play": "177",
         "liveGames": 6,
         "totGames": 17,
-        "updated": "2025-04-26 15:50:12.270056"
+        "updated": "2025-04-26 15:50:20.182461"
     },
     "bos @ cle": [
         {
@@ -1175,6 +1175,21 @@
     "bos @ cle-gm2": [],
     "bal @ det": [
         {
+            "player": "kerry carpenter",
+            "game": "bal @ det",
+            "hr/park": "",
+            "pa": "74",
+            "dt": "2025-04-26 15:50:14",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "javier baez",
             "game": "bal @ det",
             "hr/park": "",
@@ -2273,6 +2288,21 @@
     "bal @ det-gm2": [],
     "laa @ min": [
         {
+            "player": "byron buxton",
+            "game": "laa @ min",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-04-26 15:50:14",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan jeffers",
             "game": "laa @ min",
             "hr/park": "",
@@ -2282,10 +2312,10 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "99.1",
+            "la": "-15",
+            "dist": "10"
         },
         {
             "player": "tim anderson",
@@ -2967,17 +2997,17 @@
         {
             "player": "victor scott",
             "game": "mil @ stl",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "47",
             "dt": "2025-04-26 15:49:29",
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
             "team": "stl",
             "start": "2:15 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "90.1",
+            "la": "36",
+            "dist": "328"
         },
         {
             "player": "pedro pages",
