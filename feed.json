@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "72",
         "batters": "244",
-        "pitches": "2744",
+        "pitches": "2752",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "68.2",
         "ff%fourseam fastball %": "31.1",
@@ -10,25 +10,25 @@
         "fc%cutter %": "9.6",
         "fs%splitter %": "4.6",
         "ch%changeup %": "10.0",
-        "sl%slider %": "18.5",
-        "cu%curve %": "10.6",
+        "sl%slider %": "18.6",
+        "cu%curve %": "10.7",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "211",
-        "hh%hard hit %": "42.0",
+        "hh%hard hit %": "41.9",
         "brlbarrels": "32",
-        "brl%barrel %": "6.4",
-        "ab": "627",
-        "avg": ".254",
-        "h": "159",
-        "1b": "109",
+        "brl%barrel %": "6.3",
+        "ab": "628",
+        "avg": ".255",
+        "h": "160",
+        "1b": "110",
         "2b": "36",
         "3b": "5",
         "hr": "9",
-        "so": "142",
-        "bipballs in play": "502",
+        "so": "143",
+        "bipballs in play": "504",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-04-25 23:02:57.980103"
+        "updated": "2025-04-25 23:03:07.526820"
     },
     "phi @ chc": [
         {
@@ -6640,10 +6640,10 @@
             "team": "cin",
             "start": "8:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "76.7",
+            "la": "-12",
+            "dist": "11"
         },
         {
             "player": "blake dunn",
@@ -8255,6 +8255,21 @@
     ],
     "atl @ ari": [
         {
+            "player": "tim tawa",
+            "game": "atl @ ari",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-04-25 23:03:07",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "9:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gabriel moreno",
             "game": "atl @ ari",
             "hr/park": "",
@@ -8264,7 +8279,7 @@
             "team": "ari",
             "start": "9:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9408,10 +9423,10 @@
             "team": "chw",
             "start": "10:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "90.4",
+            "la": "16",
+            "dist": "246"
         },
         {
             "player": "brooks baldwin",
@@ -9890,7 +9905,7 @@
             "team": "lad",
             "start": "10:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10252,7 +10267,7 @@
             "team": "sf",
             "start": "10:15 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
