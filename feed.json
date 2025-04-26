@@ -2,25 +2,25 @@
     "all": {
         "pitchers": "5",
         "batters": "40",
-        "pitches": "297",
+        "pitches": "298",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "76.0",
-        "ff%fourseam fastball %": "27.6",
-        "si%sinker %": "22.6",
+        "ff%fourseam fastball %": "27.5",
+        "si%sinker %": "22.5",
         "fc%cutter %": "8.1",
-        "fs%splitter %": "11.8",
-        "ch%changeup %": "7.4",
-        "sl%slider %": "15.2",
+        "fs%splitter %": "11.7",
+        "ch%changeup %": "7.7",
+        "sl%slider %": "15.1",
         "cu%curve %": "7.4",
         "max evmax exit velocity": "110.9",
         "hhhard hit": "29",
         "hh%hard hit %": "56.9",
         "brlbarrels": "5",
         "brl%barrel %": "9.8",
-        "ab": "64",
-        "avg": ".313",
-        "h": "20",
-        "1b": "12",
+        "ab": "65",
+        "avg": ".323",
+        "h": "21",
+        "1b": "13",
         "2b": "5",
         "3b": "0",
         "hr": "3",
@@ -28,7 +28,7 @@
         "bipballs in play": "51",
         "liveGames": 5,
         "totGames": 17,
-        "updated": "2025-04-26 14:19:27.634696"
+        "updated": "2025-04-26 14:19:34.754427"
     },
     "bos @ cle": [
         {
@@ -41,7 +41,7 @@
             "team": "bos",
             "start": "1:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "85.4",
             "la": "-14",
             "dist": "11"
@@ -545,6 +545,21 @@
     "bos @ cle-gm2": [],
     "bal @ det": [
         {
+            "player": "kerry carpenter",
+            "game": "bal @ det",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-04-26 14:19:30",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "javier baez",
             "game": "bal @ det",
             "hr/park": "",
@@ -554,7 +569,7 @@
             "team": "det",
             "start": "1:10 PM",
             "in": "4",
-            "result": "Groundout",
+            "result": "Single",
             "evo": "67.3",
             "la": "-28",
             "dist": "5"
@@ -1097,7 +1112,7 @@
             "team": "laa",
             "start": "2:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "89.7",
             "la": "55",
             "dist": "243"
