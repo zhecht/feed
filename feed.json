@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "98",
         "batters": "224",
-        "pitches": "3538",
+        "pitches": "3542",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "70.8",
         "ff%fourseam fastball %": "30.9",
@@ -11,13 +11,13 @@
         "fs%splitter %": "2.6",
         "ch%changeup %": "9.8",
         "sl%slider %": "24.3",
-        "cu%curve %": "9.0",
+        "cu%curve %": "8.9",
         "max evmax exit velocity": "111.9",
-        "hhhard hit": "256",
+        "hhhard hit": "257",
         "hh%hard hit %": "40.5",
         "brlbarrels": "47",
         "brl%barrel %": "7.4",
-        "ab": "804",
+        "ab": "805",
         "avg": ".256",
         "h": "206",
         "1b": "143",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "23",
         "so": "189",
-        "bipballs in play": "632",
+        "bipballs in play": "634",
         "liveGames": 15,
         "totGames": 17,
-        "updated": "2025-04-26 20:46:41.059619"
+        "updated": "2025-04-26 20:46:51.828300"
     },
     "bos @ cle": [
         {
@@ -12564,19 +12564,34 @@
     ],
     "hou @ kc": [
         {
-            "player": "zach dezenzo",
+            "player": "jake meyers",
             "game": "hou @ kc",
             "hr/park": "",
+            "pa": "47",
+            "dt": "2025-04-26 20:46:44",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "91.2",
+            "la": "-5",
+            "dist": "18"
+        },
+        {
+            "player": "zach dezenzo",
+            "game": "hou @ kc",
+            "hr/park": "0/30",
             "pa": "46",
             "dt": "2025-04-26 20:45:17",
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
             "team": "hou",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "99.5",
+            "la": "22",
+            "dist": "352"
         },
         {
             "player": "salvador perez",
