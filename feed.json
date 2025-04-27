@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "51",
+        "pitchers": "50",
         "batters": "172",
-        "pitches": "2067",
+        "pitches": "2072",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "51.6",
         "ff%fourseam fastball %": "31.0",
-        "si%sinker %": "20.0",
+        "si%sinker %": "19.9",
         "fc%cutter %": "6.1",
         "fs%splitter %": "4.4",
-        "ch%changeup %": "11.1",
-        "sl%slider %": "19.0",
-        "cu%curve %": "8.4",
+        "ch%changeup %": "11.3",
+        "sl%slider %": "18.9",
+        "cu%curve %": "8.3",
         "max evmax exit velocity": "113.0",
-        "hhhard hit": "146",
+        "hhhard hit": "147",
         "hh%hard hit %": "40.7",
         "brlbarrels": "31",
         "brl%barrel %": "8.6",
-        "ab": "462",
-        "avg": ".273",
+        "ab": "464",
+        "avg": ".272",
         "h": "126",
         "1b": "80",
         "2b": "35",
         "3b": "0",
         "hr": "11",
         "so": "114",
-        "bipballs in play": "359",
+        "bipballs in play": "361",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-04-27 16:15:05.590355"
+        "updated": "2025-04-27 16:15:15.000499"
     },
     "nym @ wsh": [
         {
@@ -2107,11 +2107,11 @@
     "tor @ nyy-gm2": [],
     "bos @ cle": [
         {
-            "player": "ceddanne rafaela",
+            "player": "jarren duran",
             "game": "bos @ cle",
             "hr/park": "",
-            "pa": "80",
-            "dt": "2025-04-27 16:14:31",
+            "pa": "81",
+            "dt": "2025-04-27 16:15:15",
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
             "team": "bos",
             "start": "1:40 PM",
@@ -2120,6 +2120,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "ceddanne rafaela",
+            "game": "bos @ cle",
+            "hr/park": "0/30",
+            "pa": "80",
+            "dt": "2025-04-27 16:14:31",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:40 PM",
+            "in": "9",
+            "result": "Lineout",
+            "evo": "101.5",
+            "la": "20",
+            "dist": "340"
         },
         {
             "player": "carlos narvaez",
@@ -7127,6 +7142,21 @@
     ],
     "cin @ col": [
         {
+            "player": "hunter goodman",
+            "game": "cin @ col",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-04-27 16:14:45",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "3:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jordan beck",
             "game": "cin @ col",
             "hr/park": "",
@@ -7558,10 +7588,10 @@
             "team": "tex",
             "start": "4:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "103.0",
+            "la": "12",
+            "dist": "220"
         },
         {
             "player": "marcus semien",
@@ -7640,21 +7670,6 @@
         }
     ],
     "chw @ ath": [
-        {
-            "player": "lawrence butler",
-            "game": "chw @ ath",
-            "hr/park": "",
-            "pa": "6",
-            "dt": "2025-04-27 16:15:00",
-            "img": "https://www.mlbstatic.com/team-logos/133.svg",
-            "team": "ath",
-            "start": "4:05 PM",
-            "in": "1",
-            "result": "Single",
-            "evo": "98.6",
-            "la": "-4",
-            "dist": "24"
-        },
         {
             "player": "andrew vaughn",
             "game": "chw @ ath",
@@ -7842,6 +7857,21 @@
     ],
     "atl @ ari": [
         {
+            "player": "marcell ozuna",
+            "game": "atl @ ari",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-04-27 16:14:31",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "Double Play",
+            "evo": "80.3",
+            "la": "45",
+            "dist": "248"
+        },
+        {
             "player": "austin riley",
             "game": "atl @ ari",
             "hr/park": "0/30",
@@ -7876,7 +7906,7 @@
         {
             "player": "agustin ramirez",
             "game": "mia @ sea",
-            "hr/park": "",
+            "hr/park": "19/30",
             "pa": "3",
             "dt": "2025-04-27 16:14:00",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
