@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "68",
         "batters": "247",
-        "pitches": "2582",
+        "pitches": "2585",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "51.6",
-        "ff%fourseam fastball %": "30.7",
+        "ff%fourseam fastball %": "30.8",
         "si%sinker %": "19.0",
         "fc%cutter %": "6.0",
         "fs%splitter %": "4.7",
@@ -14,21 +14,21 @@
         "cu%curve %": "7.9",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "192",
-        "hh%hard hit %": "41.7",
+        "hh%hard hit %": "41.5",
         "brlbarrels": "34",
-        "brl%barrel %": "7.4",
-        "ab": "581",
+        "brl%barrel %": "7.3",
+        "ab": "583",
         "avg": ".274",
-        "h": "159",
+        "h": "160",
         "1b": "102",
-        "2b": "42",
+        "2b": "43",
         "3b": "1",
         "hr": "14",
         "so": "138",
-        "bipballs in play": "460",
+        "bipballs in play": "463",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-04-27 16:40:10.467003"
+        "updated": "2025-04-27 16:40:20.000328"
     },
     "nym @ wsh": [
         {
@@ -41,7 +41,7 @@
             "team": "wsh",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Field Error",
             "evo": "95.7",
             "la": "-27",
             "dist": "7"
@@ -1249,19 +1249,34 @@
     ],
     "tor @ nyy": [
         {
-            "player": "anthony santander",
+            "player": "alan roden",
             "game": "tor @ nyy",
             "hr/park": "",
+            "pa": "84",
+            "dt": "2025-04-27 16:40:16",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "Pop Out",
+            "evo": "70.8",
+            "la": "76",
+            "dist": "60"
+        },
+        {
+            "player": "anthony santander",
+            "game": "tor @ nyy",
+            "hr/park": "0/30",
             "pa": "83",
             "dt": "2025-04-27 16:39:15",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "94.4",
+            "la": "33",
+            "dist": "350"
         },
         {
             "player": "will wagner",
@@ -5848,6 +5863,21 @@
     ],
     "hou @ kc": [
         {
+            "player": "yordan alvarez",
+            "game": "hou @ kc",
+            "hr/park": "0/30",
+            "pa": "71",
+            "dt": "2025-04-27 16:40:16",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "9",
+            "result": "Flyout",
+            "evo": "87.3",
+            "la": "31",
+            "dist": "323"
+        },
+        {
             "player": "isaac paredes",
             "game": "hou @ kc",
             "hr/park": "",
@@ -7931,7 +7961,7 @@
             "team": "col",
             "start": "3:10 PM",
             "in": "5",
-            "result": "GIDP",
+            "result": "In Progress",
             "evo": "74.6",
             "la": "1",
             "dist": "47"
@@ -9501,7 +9531,7 @@
             "team": "ari",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Fielders Choice Out",
             "evo": "101.7",
             "la": "-13",
             "dist": "9"
@@ -9758,7 +9788,7 @@
             "team": "sea",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "105.8",
             "la": "9",
             "dist": "249"
