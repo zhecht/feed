@@ -1,36 +1,51 @@
 {
     "all": {
         "pitchers": "47",
-        "batters": "159",
-        "pitches": "1997",
+        "batters": "160",
+        "pitches": "2002",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "74.1",
-        "ff%fourseam fastball %": "31.4",
-        "si%sinker %": "19.9",
-        "fc%cutter %": "6.2",
-        "fs%splitter %": "4.6",
+        "ff%fourseam fastball %": "31.3",
+        "si%sinker %": "20.0",
+        "fc%cutter %": "6.1",
+        "fs%splitter %": "4.5",
         "ch%changeup %": "10.9",
-        "sl%slider %": "18.7",
+        "sl%slider %": "18.8",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "137",
-        "hh%hard hit %": "40.5",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "28",
-        "brl%barrel %": "8.3",
-        "ab": "442",
-        "avg": ".267",
-        "h": "118",
+        "brl%barrel %": "8.2",
+        "ab": "443",
+        "avg": ".269",
+        "h": "119",
         "1b": "75",
-        "2b": "33",
+        "2b": "34",
         "3b": "0",
         "hr": "10",
         "so": "112",
-        "bipballs in play": "338",
+        "bipballs in play": "340",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-04-27 16:12:11.865343"
+        "updated": "2025-04-27 16:12:20.709073"
     },
     "nym @ wsh": [
+        {
+            "player": "jose tena",
+            "game": "nym @ wsh",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-04-27 16:12:16",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "dylan crews",
             "game": "nym @ wsh",
@@ -7414,6 +7429,21 @@
     ],
     "tex @ sf": [
         {
+            "player": "adolis garcia",
+            "game": "tex @ sf",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-04-27 16:12:16",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "joc pederson",
             "game": "tex @ sf",
             "hr/park": "",
@@ -7423,10 +7453,10 @@
             "team": "tex",
             "start": "4:05 PM",
             "in": "1",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "63.2",
+            "la": "10",
+            "dist": "78"
         },
         {
             "player": "jake burger",
@@ -7547,7 +7577,7 @@
             "team": "pit",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7587,6 +7617,22 @@
             "dist": ""
         }
     ],
-    "mia @ sea": [],
+    "mia @ sea": [
+        {
+            "player": "xavier edwards",
+            "game": "mia @ sea",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-04-27 16:12:16",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "67.7",
+            "la": "-29",
+            "dist": "5"
+        }
+    ],
     "phi @ chc": []
 }
