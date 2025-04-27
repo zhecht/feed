@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "49",
         "batters": "166",
-        "pitches": "2029",
+        "pitches": "2037",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "51.6",
-        "ff%fourseam fastball %": "31.3",
-        "si%sinker %": "20.0",
+        "ff%fourseam fastball %": "31.2",
+        "si%sinker %": "19.9",
         "fc%cutter %": "6.1",
         "fs%splitter %": "4.5",
-        "ch%changeup %": "10.9",
-        "sl%slider %": "19.0",
-        "cu%curve %": "8.2",
+        "ch%changeup %": "11.1",
+        "sl%slider %": "18.9",
+        "cu%curve %": "8.3",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "142",
-        "hh%hard hit %": "40.6",
+        "hh%hard hit %": "40.5",
         "brlbarrels": "30",
-        "brl%barrel %": "8.6",
+        "brl%barrel %": "8.5",
         "ab": "452",
-        "avg": ".272",
-        "h": "123",
+        "avg": ".270",
+        "h": "122",
         "1b": "77",
-        "2b": "35",
+        "2b": "34",
         "3b": "0",
         "hr": "11",
         "so": "113",
-        "bipballs in play": "350",
+        "bipballs in play": "351",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-04-27 16:13:42.647585"
+        "updated": "2025-04-27 16:13:51.612613"
     },
     "nym @ wsh": [
         {
@@ -41,10 +41,10 @@
             "team": "wsh",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "69.9",
+            "la": "11",
+            "dist": "130"
         },
         {
             "player": "dylan crews",
@@ -2107,6 +2107,21 @@
     "tor @ nyy-gm2": [],
     "bos @ cle": [
         {
+            "player": "carlos narvaez",
+            "game": "bos @ cle",
+            "hr/park": "",
+            "pa": "79",
+            "dt": "2025-04-27 16:13:47",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kristian campbell",
             "game": "bos @ cle",
             "hr/park": "",
@@ -2116,7 +2131,7 @@
             "team": "bos",
             "start": "1:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7474,21 +7489,6 @@
     ],
     "tex @ sf": [
         {
-            "player": "marcus semien",
-            "game": "tex @ sf",
-            "hr/park": "",
-            "pa": "5",
-            "dt": "2025-04-27 16:13:30",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "4:05 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "71.4",
-            "la": "39",
-            "dist": "238"
-        },
-        {
             "player": "adolis garcia",
             "game": "tex @ sf",
             "hr/park": "",
@@ -7675,6 +7675,21 @@
     ],
     "tb @ sd": [
         {
+            "player": "brandon lowe",
+            "game": "tb @ sd",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-04-27 16:13:47",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "chandler simpson",
             "game": "tb @ sd",
             "hr/park": "",
@@ -7694,14 +7709,14 @@
         {
             "player": "austin riley",
             "game": "atl @ ari",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "2",
             "dt": "2025-04-27 16:13:15",
             "img": "https://www.mlbstatic.com/team-logos/144.svg",
             "team": "atl",
             "start": "4:10 PM",
             "in": "1",
-            "result": "Double",
+            "result": "In Progress",
             "evo": "89.3",
             "la": "27",
             "dist": "306"
@@ -7733,10 +7748,10 @@
             "team": "mia",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "90.2",
+            "la": "-26",
+            "dist": "6"
         },
         {
             "player": "xavier edwards",
