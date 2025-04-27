@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "53",
-        "batters": "178",
-        "pitches": "2098",
+        "pitchers": "54",
+        "batters": "180",
+        "pitches": "2107",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "51.6",
-        "ff%fourseam fastball %": "30.8",
-        "si%sinker %": "20.0",
-        "fc%cutter %": "6.0",
+        "ff%fourseam fastball %": "30.7",
+        "si%sinker %": "20.1",
+        "fc%cutter %": "6.1",
         "fs%splitter %": "4.4",
-        "ch%changeup %": "11.5",
+        "ch%changeup %": "11.4",
         "sl%slider %": "19.0",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "113.0",
-        "hhhard hit": "150",
-        "hh%hard hit %": "40.8",
+        "hhhard hit": "151",
+        "hh%hard hit %": "40.9",
         "brlbarrels": "31",
         "brl%barrel %": "8.4",
-        "ab": "472",
-        "avg": ".278",
+        "ab": "474",
+        "avg": ".276",
         "h": "131",
         "1b": "81",
         "2b": "37",
         "3b": "0",
         "hr": "13",
-        "so": "114",
-        "bipballs in play": "368",
+        "so": "115",
+        "bipballs in play": "369",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-04-27 16:16:28.176870"
+        "updated": "2025-04-27 16:16:37.213846"
     },
     "nym @ wsh": [
         {
@@ -1123,7 +1123,7 @@
             "team": "nyy",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7748,7 +7748,7 @@
         {
             "player": "brent rooker",
             "game": "chw @ ath",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "7",
             "dt": "2025-04-27 16:16:15",
             "img": "https://www.mlbstatic.com/team-logos/133.svg",
@@ -7930,6 +7930,21 @@
     ],
     "tb @ sd": [
         {
+            "player": "fernando tatis",
+            "game": "tb @ sd",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-04-27 16:16:31",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "yandy diaz",
             "game": "tb @ sd",
             "hr/park": "",
@@ -7976,6 +7991,21 @@
         }
     ],
     "atl @ ari": [
+        {
+            "player": "matt olson",
+            "game": "atl @ ari",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-04-27 16:16:31",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "marcell ozuna",
             "game": "atl @ ari",
@@ -8033,10 +8063,10 @@
             "team": "mia",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "108.1",
+            "la": "-12",
+            "dist": "14"
         },
         {
             "player": "agustin ramirez",
