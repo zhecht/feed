@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "88",
         "batters": "205",
-        "pitches": "3258",
+        "pitches": "3260",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "70.8",
         "ff%fourseam fastball %": "30.7",
@@ -13,8 +13,8 @@
         "sl%slider %": "24.8",
         "cu%curve %": "8.8",
         "max evmax exit velocity": "111.9",
-        "hhhard hit": "235",
-        "hh%hard hit %": "40.6",
+        "hhhard hit": "236",
+        "hh%hard hit %": "40.7",
         "brlbarrels": "44",
         "brl%barrel %": "7.6",
         "ab": "739",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "19",
         "so": "178",
-        "bipballs in play": "579",
+        "bipballs in play": "580",
         "liveGames": 13,
         "totGames": 17,
-        "updated": "2025-04-26 20:06:08.186940"
+        "updated": "2025-04-26 20:06:18.780379"
     },
     "bos @ cle": [
         {
@@ -1183,10 +1183,10 @@
             "team": "bos",
             "start": "6:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "102.3",
+            "la": "-6",
+            "dist": "25"
         },
         {
             "player": "carlos narvaez",
@@ -3263,6 +3263,21 @@
     ],
     "bal @ det-gm2": [
         {
+            "player": "ryan mountcastle",
+            "game": "bal @ det-gm2",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-04-26 20:06:15",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ramon laureano",
             "game": "bal @ det-gm2",
             "hr/park": "0/30",
@@ -3272,7 +3287,7 @@
             "team": "bal",
             "start": "6:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Sac Fly",
             "evo": "91.5",
             "la": "39",
             "dist": "306"
