@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "107",
-        "batters": "260",
-        "pitches": "3911",
+        "batters": "261",
+        "pitches": "3914",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "70.8",
         "ff%fourseam fastball %": "31.1",
@@ -13,11 +13,11 @@
         "sl%slider %": "24.8",
         "cu%curve %": "8.8",
         "max evmax exit velocity": "111.9",
-        "hhhard hit": "280",
-        "hh%hard hit %": "39.9",
+        "hhhard hit": "281",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "52",
         "brl%barrel %": "7.4",
-        "ab": "893",
+        "ab": "894",
         "avg": ".251",
         "h": "224",
         "1b": "151",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "26",
         "so": "210",
-        "bipballs in play": "702",
+        "bipballs in play": "703",
         "liveGames": 17,
         "totGames": 17,
-        "updated": "2025-04-26 21:42:19.525385"
+        "updated": "2025-04-26 21:42:31.155177"
     },
     "bos @ cle": [
         {
@@ -15047,6 +15047,21 @@
     ],
     "mia @ sea": [
         {
+            "player": "jesus sanchez",
+            "game": "mia @ sea",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-04-26 21:42:29",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "xavier edwards",
             "game": "mia @ sea",
             "hr/park": "",
@@ -15056,10 +15071,10 @@
             "team": "mia",
             "start": "9:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "105.1",
+            "la": "-23",
+            "dist": "7"
         }
     ],
     "tor @ nyy": []
