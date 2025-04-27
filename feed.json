@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "10",
         "batters": "70",
-        "pitches": "305",
+        "pitches": "310",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "76.7",
-        "ff%fourseam fastball %": "44.9",
-        "si%sinker %": "18.7",
+        "ff%fourseam fastball %": "44.8",
+        "si%sinker %": "18.4",
         "fc%cutter %": "3.9",
-        "fs%splitter %": "5.9",
-        "ch%changeup %": "5.9",
-        "sl%slider %": "9.2",
-        "cu%curve %": "11.5",
+        "fs%splitter %": "6.5",
+        "ch%changeup %": "5.8",
+        "sl%slider %": "9.4",
+        "cu%curve %": "11.3",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "19",
-        "hh%hard hit %": "40.4",
+        "hh%hard hit %": "38.0",
         "brlbarrels": "3",
-        "brl%barrel %": "6.4",
-        "ab": "61",
-        "avg": ".262",
+        "brl%barrel %": "6.0",
+        "ab": "62",
+        "avg": ".258",
         "h": "16",
         "1b": "11",
         "2b": "4",
         "3b": "0",
         "hr": "1",
         "so": "14",
-        "bipballs in play": "47",
+        "bipballs in play": "50",
         "liveGames": 6,
         "totGames": 16,
-        "updated": "2025-04-27 14:12:13.971414"
+        "updated": "2025-04-27 14:12:21.375610"
     },
     "nym @ wsh": [
         {
@@ -41,10 +41,10 @@
             "team": "nym",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "80.9",
+            "la": "49",
+            "dist": "220"
         },
         {
             "player": "pete alonso",
@@ -283,10 +283,10 @@
             "team": "nyy",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "62.0",
+            "la": "-10",
+            "dist": "15"
         },
         {
             "player": "paul goldschmidt",
@@ -517,6 +517,21 @@
     "tor @ nyy-gm2": [],
     "bos @ cle": [
         {
+            "player": "jarren duran",
+            "game": "bos @ cle",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-04-27 14:12:16",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ceddanne rafaela",
             "game": "bos @ cle",
             "hr/park": "",
@@ -526,7 +541,7 @@
             "team": "bos",
             "start": "1:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "92.5",
             "la": "49",
             "dist": "252"
@@ -738,10 +753,10 @@
             "team": "det",
             "start": "1:40 PM",
             "in": "2",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "91.4",
+            "la": "84",
+            "dist": "26"
         },
         {
             "player": "javier baez",
