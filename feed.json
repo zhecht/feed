@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "50",
         "batters": "170",
-        "pitches": "2050",
+        "pitches": "2053",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "51.6",
         "ff%fourseam fastball %": "31.1",
@@ -10,25 +10,25 @@
         "fc%cutter %": "6.0",
         "fs%splitter %": "4.4",
         "ch%changeup %": "11.1",
-        "sl%slider %": "18.9",
+        "sl%slider %": "19.0",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "113.0",
-        "hhhard hit": "143",
+        "hhhard hit": "144",
         "hh%hard hit %": "40.4",
         "brlbarrels": "30",
-        "brl%barrel %": "8.5",
+        "brl%barrel %": "8.4",
         "ab": "458",
-        "avg": ".273",
-        "h": "125",
+        "avg": ".271",
+        "h": "124",
         "1b": "78",
         "2b": "35",
         "3b": "0",
-        "hr": "12",
+        "hr": "11",
         "so": "113",
-        "bipballs in play": "354",
+        "bipballs in play": "356",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-04-27 16:14:28.491152"
+        "updated": "2025-04-27 16:14:37.652988"
     },
     "nym @ wsh": [
         {
@@ -2107,6 +2107,21 @@
     "tor @ nyy-gm2": [],
     "bos @ cle": [
         {
+            "player": "ceddanne rafaela",
+            "game": "bos @ cle",
+            "hr/park": "",
+            "pa": "80",
+            "dt": "2025-04-27 16:14:31",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "carlos narvaez",
             "game": "bos @ cle",
             "hr/park": "",
@@ -2116,10 +2131,10 @@
             "team": "bos",
             "start": "1:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "101.0",
+            "la": "13",
+            "dist": "243"
         },
         {
             "player": "kristian campbell",
@@ -7097,21 +7112,6 @@
     ],
     "cin @ col": [
         {
-            "player": "jordan beck",
-            "game": "cin @ col",
-            "hr/park": "",
-            "pa": "28",
-            "dt": "2025-04-27 16:14:00",
-            "img": "https://www.mlbstatic.com/team-logos/115.svg",
-            "team": "col",
-            "start": "3:10 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jeimer candelario",
             "game": "cin @ col",
             "hr/park": "",
@@ -7519,21 +7519,6 @@
     ],
     "tex @ sf": [
         {
-            "player": "josh jung",
-            "game": "tex @ sf",
-            "hr/park": "",
-            "pa": "6",
-            "dt": "2025-04-27 16:14:00",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "4:05 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "marcus semien",
             "game": "tex @ sf",
             "hr/park": "",
@@ -7543,7 +7528,7 @@
             "team": "tex",
             "start": "4:05 PM",
             "in": "1",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "71.4",
             "la": "39",
             "dist": "238"
@@ -7782,6 +7767,21 @@
     ],
     "atl @ ari": [
         {
+            "player": "marcell ozuna",
+            "game": "atl @ ari",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-04-27 16:14:31",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "80.3",
+            "la": "45",
+            "dist": "248"
+        },
+        {
             "player": "austin riley",
             "game": "atl @ ari",
             "hr/park": "0/30",
@@ -7823,7 +7823,7 @@
             "team": "mia",
             "start": "4:10 PM",
             "in": "1",
-            "result": "Home Run",
+            "result": "In Progress",
             "evo": "105.1",
             "la": "18",
             "dist": "404"
