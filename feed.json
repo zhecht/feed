@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "88",
         "batters": "205",
-        "pitches": "3242",
+        "pitches": "3245",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "70.8",
         "ff%fourseam fastball %": "30.8",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.4",
         "fs%splitter %": "2.7",
         "ch%changeup %": "9.5",
-        "sl%slider %": "24.8",
+        "sl%slider %": "24.9",
         "cu%curve %": "8.8",
         "max evmax exit velocity": "111.9",
-        "hhhard hit": "234",
-        "hh%hard hit %": "40.6",
+        "hhhard hit": "235",
+        "hh%hard hit %": "40.7",
         "brlbarrels": "44",
         "brl%barrel %": "7.6",
-        "ab": "733",
-        "avg": ".265",
+        "ab": "735",
+        "avg": ".264",
         "h": "194",
         "1b": "137",
         "2b": "36",
         "3b": "2",
         "hr": "19",
         "so": "176",
-        "bipballs in play": "576",
+        "bipballs in play": "577",
         "liveGames": 13,
         "totGames": 17,
-        "updated": "2025-04-26 20:04:13.246878"
+        "updated": "2025-04-26 20:04:23.426228"
     },
     "bos @ cle": [
         {
@@ -1173,6 +1173,21 @@
         }
     ],
     "bos @ cle-gm2": [
+        {
+            "player": "kristian campbell",
+            "game": "bos @ cle-gm2",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-04-26 20:04:16",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "6:10 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "98.1",
+            "la": "5",
+            "dist": "86"
+        },
         {
             "player": "angel martinez",
             "game": "bos @ cle-gm2",
@@ -3218,6 +3233,21 @@
     ],
     "bal @ det-gm2": [
         {
+            "player": "ramon laureano",
+            "game": "bal @ det-gm2",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-04-26 20:04:16",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jordan westburg",
             "game": "bal @ det-gm2",
             "hr/park": "",
@@ -3227,7 +3257,7 @@
             "team": "bal",
             "start": "6:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "65.7",
             "la": "-28",
             "dist": "6"
