@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "112",
         "batters": "277",
-        "pitches": "4103",
+        "pitches": "4111",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "51.6",
         "ff%fourseam fastball %": "28.7",
-        "si%sinker %": "18.1",
+        "si%sinker %": "18.0",
         "fc%cutter %": "7.3",
         "fs%splitter %": "4.4",
         "ch%changeup %": "11.2",
-        "sl%slider %": "21.9",
+        "sl%slider %": "21.8",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "113.3",
         "hhhard hit": "293",
-        "hh%hard hit %": "39.2",
+        "hh%hard hit %": "39.1",
         "brlbarrels": "51",
         "brl%barrel %": "6.8",
-        "ab": "933",
+        "ab": "935",
         "avg": ".264",
-        "h": "246",
-        "1b": "161",
+        "h": "247",
+        "1b": "162",
         "2b": "58",
         "3b": "4",
         "hr": "23",
-        "so": "216",
-        "bipballs in play": "747",
+        "so": "217",
+        "bipballs in play": "750",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-04-27 18:33:33.117056"
+        "updated": "2025-04-27 18:33:45.945911"
     },
     "nym @ wsh": [
         {
@@ -2511,6 +2511,21 @@
     ],
     "tor @ nyy-gm2": [
         {
+            "player": "jasson dominguez",
+            "game": "tor @ nyy-gm2",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-04-27 18:33:36",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "5:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "anthony volpe",
             "game": "tor @ nyy-gm2",
             "hr/park": "",
@@ -2520,7 +2535,7 @@
             "team": "nyy",
             "start": "5:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9839,10 +9854,10 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "93.1",
+            "la": "-18",
+            "dist": "9"
         },
         {
             "player": "matt chapman",
@@ -11919,6 +11934,21 @@
     ],
     "pit @ lad": [
         {
+            "player": "oneil cruz",
+            "game": "pit @ lad",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-04-27 18:33:36",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "4:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mookie betts",
             "game": "pit @ lad",
             "hr/park": "",
@@ -12898,17 +12928,17 @@
         {
             "player": "ben rortvedt",
             "game": "tb @ sd",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "66",
             "dt": "2025-04-27 18:32:01",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "start": "4:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "89.5",
+            "la": "29",
+            "dist": "312"
         },
         {
             "player": "taylor walls",
@@ -13887,6 +13917,21 @@
         }
     ],
     "atl @ ari": [
+        {
+            "player": "lourdes gurriel",
+            "game": "atl @ ari",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-04-27 18:33:36",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "4:10 PM",
+            "in": "8",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "alek thomas",
             "game": "atl @ ari",
@@ -14919,7 +14964,7 @@
             "team": "mia",
             "start": "4:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "88.0",
             "la": "-6",
             "dist": "31"
