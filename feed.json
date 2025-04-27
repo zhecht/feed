@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "26",
+        "pitchers": "27",
         "batters": "139",
-        "pitches": "1419",
+        "pitches": "1425",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "74.1",
-        "ff%fourseam fastball %": "33.8",
-        "si%sinker %": "19.5",
-        "fc%cutter %": "5.7",
-        "fs%splitter %": "5.4",
-        "ch%changeup %": "9.9",
+        "ff%fourseam fastball %": "33.7",
+        "si%sinker %": "19.4",
+        "fc%cutter %": "5.8",
+        "fs%splitter %": "5.3",
+        "ch%changeup %": "10.0",
         "sl%slider %": "17.8",
-        "cu%curve %": "8.0",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "95",
-        "hh%hard hit %": "39.4",
+        "hh%hard hit %": "39.1",
         "brlbarrels": "21",
-        "brl%barrel %": "8.7",
-        "ab": "310",
-        "avg": ".271",
-        "h": "84",
-        "1b": "55",
+        "brl%barrel %": "8.6",
+        "ab": "311",
+        "avg": ".277",
+        "h": "86",
+        "1b": "57",
         "2b": "23",
         "3b": "0",
         "hr": "6",
-        "so": "75",
-        "bipballs in play": "241",
+        "so": "76",
+        "bipballs in play": "243",
         "liveGames": 8,
         "totGames": 16,
-        "updated": "2025-04-27 15:35:39.865779"
+        "updated": "2025-04-27 15:35:48.246479"
     },
     "nym @ wsh": [
         {
@@ -1606,10 +1606,10 @@
             "team": "bos",
             "start": "1:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Field Error",
+            "evo": "88.4",
+            "la": "-10",
+            "dist": "12"
         },
         {
             "player": "will wilson",
@@ -3311,6 +3311,21 @@
     ],
     "laa @ min": [
         {
+            "player": "harrison bader",
+            "game": "laa @ min",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-04-27 15:35:45",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jd davis",
             "game": "laa @ min",
             "hr/park": "",
@@ -3485,7 +3500,7 @@
             "team": "min",
             "start": "1:40 PM",
             "in": "6",
-            "result": "Field Error",
+            "result": "Single",
             "evo": "112.6",
             "la": "1",
             "dist": "75"
@@ -4659,10 +4674,10 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "91.4",
+            "la": "13",
+            "dist": "225"
         },
         {
             "player": "jordan walker",
@@ -5261,7 +5276,7 @@
             "team": "col",
             "start": "3:10 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
