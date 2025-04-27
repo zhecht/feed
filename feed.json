@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "68",
-        "batters": "251",
-        "pitches": "2610",
+        "batters": "252",
+        "pitches": "2616",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "51.6",
-        "ff%fourseam fastball %": "30.6",
-        "si%sinker %": "19.1",
+        "ff%fourseam fastball %": "30.7",
+        "si%sinker %": "19.0",
         "fc%cutter %": "6.0",
         "fs%splitter %": "4.7",
         "ch%changeup %": "11.0",
-        "sl%slider %": "19.9",
+        "sl%slider %": "20.0",
         "cu%curve %": "7.9",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "194",
-        "hh%hard hit %": "41.5",
+        "hh%hard hit %": "41.4",
         "brlbarrels": "34",
-        "brl%barrel %": "7.3",
+        "brl%barrel %": "7.2",
         "ab": "590",
         "avg": ".275",
         "h": "162",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "14",
         "so": "138",
-        "bipballs in play": "468",
+        "bipballs in play": "469",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-04-27 16:41:38.636103"
+        "updated": "2025-04-27 16:41:48.517854"
     },
     "nym @ wsh": [
         {
@@ -8880,7 +8880,7 @@
             "team": "chw",
             "start": "4:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9173,9 +9173,24 @@
     ],
     "pit @ lad": [
         {
-            "player": "adam frazier",
+            "player": "tommy pham",
             "game": "pit @ lad",
             "hr/park": "",
+            "pa": "15",
+            "dt": "2025-04-27 16:41:45",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "adam frazier",
+            "game": "pit @ lad",
+            "hr/park": "0/30",
             "pa": "14",
             "dt": "2025-04-27 16:41:02",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
@@ -9606,10 +9621,10 @@
             "team": "ari",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "86.5",
+            "la": "-15",
+            "dist": "9"
         },
         {
             "player": "tim tawa",
