@@ -1,26 +1,26 @@
 {
     "all": {
         "pitchers": "13",
-        "batters": "101",
-        "pitches": "485",
+        "batters": "102",
+        "pitches": "488",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "74.1",
-        "ff%fourseam fastball %": "39.6",
-        "si%sinker %": "21.2",
+        "ff%fourseam fastball %": "39.8",
+        "si%sinker %": "21.1",
         "fc%cutter %": "4.3",
-        "fs%splitter %": "5.6",
+        "fs%splitter %": "5.5",
         "ch%changeup %": "6.4",
-        "sl%slider %": "13.8",
-        "cu%curve %": "9.1",
+        "sl%slider %": "13.9",
+        "cu%curve %": "9.0",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "31",
         "hh%hard hit %": "36.5",
         "brlbarrels": "6",
         "brl%barrel %": "7.1",
-        "ab": "109",
-        "avg": ".266",
-        "h": "29",
-        "1b": "19",
+        "ab": "110",
+        "avg": ".273",
+        "h": "30",
+        "1b": "20",
         "2b": "8",
         "3b": "0",
         "hr": "2",
@@ -28,7 +28,7 @@
         "bipballs in play": "85",
         "liveGames": 7,
         "totGames": 16,
-        "updated": "2025-04-27 14:26:08.477740"
+        "updated": "2025-04-27 14:26:15.896089"
     },
     "nym @ wsh": [
         {
@@ -736,10 +736,10 @@
             "team": "bos",
             "start": "1:40 PM",
             "in": "3",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "96.8",
+            "la": "18",
+            "dist": "232"
         },
         {
             "player": "trevor story",
@@ -1446,9 +1446,9 @@
             "start": "1:40 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "97.7",
-            "la": "-6",
-            "dist": "18"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "carlos correa",
@@ -1845,9 +1845,24 @@
     ],
     "mil @ stl": [
         {
-            "player": "isaac collins",
+            "player": "joey ortiz",
             "game": "mil @ stl",
             "hr/park": "",
+            "pa": "8",
+            "dt": "2025-04-27 14:26:14",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "isaac collins",
+            "game": "mil @ stl",
+            "hr/park": "0/30",
             "pa": "7",
             "dt": "2025-04-27 14:25:00",
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
