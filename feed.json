@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "38",
-        "batters": "145",
-        "pitches": "1815",
+        "batters": "146",
+        "pitches": "1826",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "74.1",
         "ff%fourseam fastball %": "32.1",
         "si%sinker %": "19.6",
         "fc%cutter %": "6.2",
-        "fs%splitter %": "4.6",
+        "fs%splitter %": "4.5",
         "ch%changeup %": "10.4",
-        "sl%slider %": "18.4",
-        "cu%curve %": "8.7",
+        "sl%slider %": "18.3",
+        "cu%curve %": "8.8",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "125",
-        "hh%hard hit %": "40.6",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "26",
         "brl%barrel %": "8.4",
-        "ab": "403",
-        "avg": ".273",
+        "ab": "404",
+        "avg": ".272",
         "h": "110",
         "1b": "71",
         "2b": "31",
         "3b": "0",
         "hr": "8",
-        "so": "99",
-        "bipballs in play": "308",
+        "so": "100",
+        "bipballs in play": "311",
         "liveGames": 8,
         "totGames": 16,
-        "updated": "2025-04-27 16:02:10.093740"
+        "updated": "2025-04-27 16:02:18.931996"
     },
     "nym @ wsh": [
         {
@@ -1018,10 +1018,10 @@
             "team": "tor",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "82.1",
+            "la": "-5",
+            "dist": "22"
         },
         {
             "player": "jasson dominguez",
@@ -1936,7 +1936,7 @@
             "team": "bos",
             "start": "1:40 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5754,7 +5754,7 @@
             "team": "mil",
             "start": "2:15 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6542,11 +6542,11 @@
     ],
     "cin @ col": [
         {
-            "player": "alan trejo",
+            "player": "owen miller",
             "game": "cin @ col",
             "hr/park": "",
-            "pa": "22",
-            "dt": "2025-04-27 16:01:46",
+            "pa": "23",
+            "dt": "2025-04-27 16:02:16",
             "img": "https://www.mlbstatic.com/team-logos/115.svg",
             "team": "col",
             "start": "3:10 PM",
@@ -6555,6 +6555,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "alan trejo",
+            "game": "cin @ col",
+            "hr/park": "0/30",
+            "pa": "22",
+            "dt": "2025-04-27 16:01:46",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "3:10 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "93.8",
+            "la": "50",
+            "dist": "326"
         },
         {
             "player": "gavin lux",
