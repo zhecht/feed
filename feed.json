@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "28",
+        "pitchers": "30",
         "batters": "144",
-        "pitches": "1604",
+        "pitches": "1613",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "74.1",
-        "ff%fourseam fastball %": "33.7",
-        "si%sinker %": "18.8",
-        "fc%cutter %": "6.2",
+        "ff%fourseam fastball %": "33.6",
+        "si%sinker %": "19.0",
+        "fc%cutter %": "6.1",
         "fs%splitter %": "4.9",
-        "ch%changeup %": "10.4",
+        "ch%changeup %": "10.5",
         "sl%slider %": "17.7",
-        "cu%curve %": "8.3",
+        "cu%curve %": "8.2",
         "max evmax exit velocity": "113.0",
-        "hhhard hit": "107",
-        "hh%hard hit %": "39.6",
+        "hhhard hit": "110",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "24",
-        "brl%barrel %": "8.9",
-        "ab": "351",
+        "brl%barrel %": "8.8",
+        "ab": "354",
         "avg": ".271",
-        "h": "95",
-        "1b": "61",
+        "h": "96",
+        "1b": "62",
         "2b": "27",
         "3b": "0",
         "hr": "7",
-        "so": "87",
-        "bipballs in play": "270",
+        "so": "88",
+        "bipballs in play": "273",
         "liveGames": 8,
         "totGames": 16,
-        "updated": "2025-04-27 15:47:56.426266"
+        "updated": "2025-04-27 15:48:04.861357"
     },
     "nym @ wsh": [
+        {
+            "player": "jose tena",
+            "game": "nym @ wsh",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-04-27 15:48:00",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "dylan crews",
             "game": "nym @ wsh",
@@ -41,7 +56,7 @@
             "team": "wsh",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -903,6 +918,21 @@
         }
     ],
     "tor @ nyy": [
+        {
+            "player": "cody bellinger",
+            "game": "tor @ nyy",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-04-27 15:48:00",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ernie clement",
             "game": "tor @ nyy",
@@ -2703,10 +2733,10 @@
             "team": "bal",
             "start": "1:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "103.4",
+            "la": "14",
+            "dist": "203"
         },
         {
             "player": "jackson holliday",
@@ -3596,6 +3626,21 @@
     ],
     "laa @ min": [
         {
+            "player": "jo adell",
+            "game": "laa @ min",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-04-27 15:48:00",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "1:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "106.8",
+            "la": "-12",
+            "dist": "9"
+        },
+        {
             "player": "ty france",
             "game": "laa @ min",
             "hr/park": "",
@@ -4447,10 +4492,10 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "99.3",
+            "la": "-6",
+            "dist": "20"
         },
         {
             "player": "bobby witt",
