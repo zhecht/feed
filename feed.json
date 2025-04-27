@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "20",
         "batters": "133",
-        "pitches": "1203",
+        "pitches": "1208",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "74.1",
         "ff%fourseam fastball %": "34.7",
         "si%sinker %": "19.9",
         "fc%cutter %": "5.5",
-        "fs%splitter %": "5.6",
-        "ch%changeup %": "9.2",
+        "fs%splitter %": "5.5",
+        "ch%changeup %": "9.3",
         "sl%slider %": "16.8",
         "cu%curve %": "8.4",
         "max evmax exit velocity": "113.0",
-        "hhhard hit": "78",
-        "hh%hard hit %": "39.0",
+        "hhhard hit": "79",
+        "hh%hard hit %": "38.9",
         "brlbarrels": "16",
-        "brl%barrel %": "8.0",
-        "ab": "257",
-        "avg": ".249",
-        "h": "64",
-        "1b": "42",
+        "brl%barrel %": "7.9",
+        "ab": "258",
+        "avg": ".252",
+        "h": "65",
+        "1b": "43",
         "2b": "18",
         "3b": "0",
         "hr": "4",
-        "so": "62",
-        "bipballs in play": "200",
+        "so": "63",
+        "bipballs in play": "203",
         "liveGames": 8,
         "totGames": 16,
-        "updated": "2025-04-27 15:19:56.527202"
+        "updated": "2025-04-27 15:20:04.686992"
     },
     "nym @ wsh": [
         {
@@ -748,7 +748,7 @@
             "team": "tor",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2885,10 +2885,10 @@
             "team": "min",
             "start": "1:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "92.1",
+            "la": "30",
+            "dist": "330"
         },
         {
             "player": "ryan jeffers",
@@ -4005,6 +4005,21 @@
     ],
     "mil @ stl": [
         {
+            "player": "joey ortiz",
+            "game": "mil @ stl",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-04-27 15:20:00",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:15 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "isaac collins",
             "game": "mil @ stl",
             "hr/park": "",
@@ -4451,10 +4466,10 @@
             "team": "cin",
             "start": "3:10 PM",
             "in": "1",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "99.6",
+            "la": "1",
+            "dist": "63"
         },
         {
             "player": "gavin lux",
