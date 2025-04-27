@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "70",
         "batters": "262",
-        "pitches": "2797",
+        "pitches": "2810",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "51.6",
-        "ff%fourseam fastball %": "30.5",
-        "si%sinker %": "18.8",
+        "ff%fourseam fastball %": "30.4",
+        "si%sinker %": "18.9",
         "fc%cutter %": "6.0",
         "fs%splitter %": "4.7",
-        "ch%changeup %": "11.0",
-        "sl%slider %": "20.3",
+        "ch%changeup %": "10.9",
+        "sl%slider %": "20.4",
         "cu%curve %": "7.9",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "205",
-        "hh%hard hit %": "41.3",
+        "hhhard hit": "207",
+        "hh%hard hit %": "41.4",
         "brlbarrels": "37",
-        "brl%barrel %": "7.5",
-        "ab": "628",
-        "avg": ".274",
+        "brl%barrel %": "7.4",
+        "ab": "630",
+        "avg": ".273",
         "h": "172",
         "1b": "110",
         "2b": "45",
         "3b": "2",
         "hr": "15",
         "so": "147",
-        "bipballs in play": "496",
+        "bipballs in play": "500",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-04-27 16:52:30.267978"
+        "updated": "2025-04-27 16:52:40.518715"
     },
     "nym @ wsh": [
         {
@@ -8869,10 +8869,10 @@
     ],
     "tex @ sf": [
         {
-            "player": "jake burger",
+            "player": "joc pederson",
             "game": "tex @ sf",
             "hr/park": "",
-            "pa": "21",
+            "pa": "22",
             "dt": "2025-04-27 16:51:45",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
@@ -8882,6 +8882,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "jake burger",
+            "game": "tex @ sf",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-04-27 16:51:45",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "95.5",
+            "la": "-2",
+            "dist": "43"
         },
         {
             "player": "mike yastrzemski",
@@ -9563,19 +9578,34 @@
     ],
     "pit @ lad": [
         {
-            "player": "mookie betts",
+            "player": "teoscar hernandez",
             "game": "pit @ lad",
             "hr/park": "",
+            "pa": "20",
+            "dt": "2025-04-27 16:52:33",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "74.2",
+            "la": "29",
+            "dist": "265"
+        },
+        {
+            "player": "mookie betts",
+            "game": "pit @ lad",
+            "hr/park": "0/30",
             "pa": "19",
             "dt": "2025-04-27 16:51:15",
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
             "team": "lad",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Sac Fly",
+            "evo": "95.7",
+            "la": "43",
+            "dist": "328"
         },
         {
             "player": "shohei ohtani",
@@ -10152,6 +10182,21 @@
     ],
     "atl @ ari": [
         {
+            "player": "geraldo perdomo",
+            "game": "atl @ ari",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-04-27 16:52:33",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "4:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "corbin carroll",
             "game": "atl @ ari",
             "hr/park": "",
@@ -10161,10 +10206,10 @@
             "team": "ari",
             "start": "4:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "79.9",
+            "la": "-15",
+            "dist": "6"
         },
         {
             "player": "marcell ozuna",
