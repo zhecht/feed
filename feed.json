@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "3",
-        "batters": "6",
-        "pitches": "20",
-        "max velomax pitch velocity": "95.6",
+        "pitchers": "4",
+        "batters": "8",
+        "pitches": "24",
+        "max velomax pitch velocity": "97.9",
         "min velomin pitch velocity": "80.2",
-        "ff%fourseam fastball %": "50.0",
-        "si%sinker %": "15.0",
-        "fc%cutter %": "5.0",
-        "fs%splitter %": "5.0",
+        "ff%fourseam fastball %": "45.8",
+        "si%sinker %": "20.8",
+        "fc%cutter %": "4.2",
+        "fs%splitter %": "4.2",
         "ch%changeup %": "0.0",
-        "sl%slider %": "10.0",
-        "cu%curve %": "15.0",
+        "sl%slider %": "8.3",
+        "cu%curve %": "16.7",
         "max evmax exit velocity": "97.1",
         "hhhard hit": "1",
         "hh%hard hit %": "33.3",
         "brlbarrels": "0",
         "brl%barrel %": "0.0",
-        "ab": "5",
-        "avg": ".600",
+        "ab": "7",
+        "avg": ".429",
         "h": "3",
         "1b": "3",
         "2b": "0",
@@ -28,7 +28,7 @@
         "bipballs in play": "3",
         "liveGames": 5,
         "totGames": 16,
-        "updated": "2025-04-27 13:42:13.319232"
+        "updated": "2025-04-27 13:42:20.389991"
     },
     "nym @ wsh": [
         {
@@ -112,6 +112,21 @@
     "tor @ nyy-gm2": [],
     "bos @ cle": [
         {
+            "player": "rafael devers",
+            "game": "bos @ cle",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-04-27 13:42:15",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jarren duran",
             "game": "bos @ cle",
             "hr/park": "",
@@ -127,7 +142,23 @@
             "dist": "170"
         }
     ],
-    "bal @ det": [],
+    "bal @ det": [
+        {
+            "player": "ramon laureano",
+            "game": "bal @ det",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-04-27 13:42:15",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "laa @ min": [],
     "hou @ kc": [],
     "mil @ stl": [],
