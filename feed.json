@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "96",
         "batters": "274",
-        "pitches": "3778",
+        "pitches": "3786",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "51.6",
         "ff%fourseam fastball %": "28.8",
-        "si%sinker %": "18.6",
+        "si%sinker %": "18.5",
         "fc%cutter %": "7.1",
-        "fs%splitter %": "4.6",
+        "fs%splitter %": "4.5",
         "ch%changeup %": "11.3",
-        "sl%slider %": "21.1",
+        "sl%slider %": "21.2",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "113.3",
         "hhhard hit": "276",
-        "hh%hard hit %": "39.7",
+        "hh%hard hit %": "39.6",
         "brlbarrels": "48",
         "brl%barrel %": "6.9",
-        "ab": "863",
-        "avg": ".269",
+        "ab": "866",
+        "avg": ".268",
         "h": "232",
         "1b": "152",
         "2b": "56",
         "3b": "3",
         "hr": "21",
-        "so": "193",
-        "bipballs in play": "695",
+        "so": "194",
+        "bipballs in play": "697",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-04-27 18:07:12.285198"
+        "updated": "2025-04-27 18:07:23.599783"
     },
     "nym @ wsh": [
         {
@@ -2520,7 +2520,7 @@
             "team": "tor",
             "start": "5:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10486,10 +10486,10 @@
             "team": "ath",
             "start": "4:05 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "93.9",
+            "la": "37",
+            "dist": "337"
         },
         {
             "player": "max schuemann",
@@ -11409,11 +11409,11 @@
     ],
     "pit @ lad": [
         {
-            "player": "freddie freeman",
+            "player": "tommy edman",
             "game": "pit @ lad",
             "hr/park": "",
-            "pa": "54",
-            "dt": "2025-04-27 18:05:46",
+            "pa": "55",
+            "dt": "2025-04-27 18:07:15",
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
             "team": "lad",
             "start": "4:10 PM",
@@ -11422,6 +11422,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "freddie freeman",
+            "game": "pit @ lad",
+            "hr/park": "0/30",
+            "pa": "54",
+            "dt": "2025-04-27 18:05:46",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "4:10 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "94.4",
+            "la": "34",
+            "dist": "313"
         },
         {
             "player": "chris taylor",
@@ -12220,6 +12235,21 @@
         }
     ],
     "tb @ sd": [
+        {
+            "player": "tyler wade",
+            "game": "tb @ sd",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-04-27 18:06:46",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jose iglesias",
             "game": "tb @ sd",
@@ -13934,6 +13964,21 @@
         }
     ],
     "mia @ sea": [
+        {
+            "player": "cal raleigh",
+            "game": "mia @ sea",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-04-27 18:07:15",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "4:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jorge polanco",
             "game": "mia @ sea",
