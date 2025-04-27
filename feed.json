@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "4",
         "batters": "8",
-        "pitches": "29",
+        "pitches": "31",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "80.2",
-        "ff%fourseam fastball %": "48.3",
-        "si%sinker %": "17.2",
-        "fc%cutter %": "3.4",
-        "fs%splitter %": "3.4",
-        "ch%changeup %": "6.9",
-        "sl%slider %": "6.9",
-        "cu%curve %": "13.8",
+        "ff%fourseam fastball %": "45.2",
+        "si%sinker %": "22.6",
+        "fc%cutter %": "3.2",
+        "fs%splitter %": "3.2",
+        "ch%changeup %": "6.5",
+        "sl%slider %": "6.5",
+        "cu%curve %": "12.9",
         "max evmax exit velocity": "97.1",
         "hhhard hit": "1",
-        "hh%hard hit %": "33.3",
+        "hh%hard hit %": "25.0",
         "brlbarrels": "0",
         "brl%barrel %": "0.0",
         "ab": "7",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "0",
         "so": "1",
-        "bipballs in play": "3",
+        "bipballs in play": "4",
         "liveGames": 5,
         "totGames": 16,
-        "updated": "2025-04-27 13:42:55.658055"
+        "updated": "2025-04-27 13:43:02.496926"
     },
     "nym @ wsh": [
         {
@@ -88,7 +88,7 @@
             "team": "tor",
             "start": "1:35 PM",
             "in": "1",
-            "result": "Wild Pitch",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -121,10 +121,10 @@
             "team": "bos",
             "start": "1:40 PM",
             "in": "1",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "53.6",
+            "la": "-2",
+            "dist": "19"
         },
         {
             "player": "jarren duran",
