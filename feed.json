@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "113",
         "batters": "278",
-        "pitches": "4242",
+        "pitches": "4245",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "70.8",
         "ff%fourseam fastball %": "31.8",
@@ -13,8 +13,8 @@
         "sl%slider %": "25.0",
         "cu%curve %": "8.4",
         "max evmax exit velocity": "112.5",
-        "hhhard hit": "305",
-        "hh%hard hit %": "40.5",
+        "hhhard hit": "306",
+        "hh%hard hit %": "40.6",
         "brlbarrels": "57",
         "brl%barrel %": "7.6",
         "ab": "960",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "30",
         "so": "228",
-        "bipballs in play": "753",
+        "bipballs in play": "754",
         "liveGames": 17,
         "totGames": 17,
-        "updated": "2025-04-26 22:27:07.977813"
+        "updated": "2025-04-26 22:27:20.129573"
     },
     "bos @ cle": [
         {
@@ -15354,7 +15354,7 @@
             "team": "lad",
             "start": "9:10 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -15947,6 +15947,21 @@
     ],
     "mia @ sea": [
         {
+            "player": "rowdy tellez",
+            "game": "mia @ sea",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-04-26 22:27:15",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "9:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "100.8",
+            "la": "23",
+            "dist": "367"
+        },
+        {
             "player": "luke raley",
             "game": "mia @ sea",
             "hr/park": "0/30",
@@ -15956,7 +15971,7 @@
             "team": "sea",
             "start": "9:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Sac Fly",
             "evo": "97.7",
             "la": "31",
             "dist": "352"
