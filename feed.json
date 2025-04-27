@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "50",
-        "batters": "170",
-        "pitches": "2053",
+        "batters": "171",
+        "pitches": "2062",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "51.6",
-        "ff%fourseam fastball %": "31.1",
+        "ff%fourseam fastball %": "31.0",
         "si%sinker %": "20.0",
-        "fc%cutter %": "6.0",
+        "fc%cutter %": "6.1",
         "fs%splitter %": "4.4",
-        "ch%changeup %": "11.1",
+        "ch%changeup %": "11.2",
         "sl%slider %": "19.0",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "144",
-        "hh%hard hit %": "40.4",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "30",
         "brl%barrel %": "8.4",
-        "ab": "458",
-        "avg": ".271",
-        "h": "124",
-        "1b": "78",
+        "ab": "461",
+        "avg": ".273",
+        "h": "126",
+        "1b": "79",
         "2b": "35",
         "3b": "0",
-        "hr": "11",
-        "so": "113",
-        "bipballs in play": "356",
+        "hr": "12",
+        "so": "114",
+        "bipballs in play": "357",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-04-27 16:14:37.652988"
+        "updated": "2025-04-27 16:14:46.868506"
     },
     "nym @ wsh": [
         {
@@ -7112,6 +7112,36 @@
     ],
     "cin @ col": [
         {
+            "player": "hunter goodman",
+            "game": "cin @ col",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-04-27 16:14:45",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "3:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jordan beck",
+            "game": "cin @ col",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-04-27 16:14:00",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "3:10 PM",
+            "in": "4",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jeimer candelario",
             "game": "cin @ col",
             "hr/park": "",
@@ -7519,6 +7549,21 @@
     ],
     "tex @ sf": [
         {
+            "player": "josh jung",
+            "game": "tex @ sf",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-04-27 16:14:00",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "marcus semien",
             "game": "tex @ sf",
             "hr/park": "",
@@ -7528,7 +7573,7 @@
             "team": "tex",
             "start": "4:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "71.4",
             "la": "39",
             "dist": "238"
@@ -7735,6 +7780,21 @@
     ],
     "tb @ sd": [
         {
+            "player": "yandy diaz",
+            "game": "tb @ sd",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-04-27 16:14:45",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "86.5",
+            "la": "-18",
+            "dist": "10"
+        },
+        {
             "player": "brandon lowe",
             "game": "tb @ sd",
             "hr/park": "",
@@ -7744,10 +7804,10 @@
             "team": "tb",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "92.9",
+            "la": "-11",
+            "dist": "12"
         },
         {
             "player": "chandler simpson",
@@ -7766,21 +7826,6 @@
         }
     ],
     "atl @ ari": [
-        {
-            "player": "marcell ozuna",
-            "game": "atl @ ari",
-            "hr/park": "",
-            "pa": "3",
-            "dt": "2025-04-27 16:14:31",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "4:10 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "80.3",
-            "la": "45",
-            "dist": "248"
-        },
         {
             "player": "austin riley",
             "game": "atl @ ari",
@@ -7823,7 +7868,7 @@
             "team": "mia",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Home Run",
             "evo": "105.1",
             "la": "18",
             "dist": "404"
