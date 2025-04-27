@@ -1,13 +1,13 @@
 {
     "all": {
-        "pitchers": "89",
-        "batters": "205",
-        "pitches": "3288",
+        "pitchers": "90",
+        "batters": "206",
+        "pitches": "3289",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "70.8",
-        "ff%fourseam fastball %": "30.8",
+        "ff%fourseam fastball %": "30.9",
         "si%sinker %": "16.0",
-        "fc%cutter %": "7.5",
+        "fc%cutter %": "7.4",
         "fs%splitter %": "2.7",
         "ch%changeup %": "9.5",
         "sl%slider %": "24.7",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "40.4",
         "brlbarrels": "44",
         "brl%barrel %": "7.5",
-        "ab": "745",
-        "avg": ".262",
+        "ab": "746",
+        "avg": ".261",
         "h": "195",
         "1b": "138",
         "2b": "36",
         "3b": "2",
         "hr": "19",
-        "so": "179",
+        "so": "178",
         "bipballs in play": "586",
         "liveGames": 14,
         "totGames": 17,
-        "updated": "2025-04-26 20:11:43.636936"
+        "updated": "2025-04-26 20:11:54.027707"
     },
     "bos @ cle": [
         {
@@ -1183,7 +1183,7 @@
             "team": "cle",
             "start": "6:10 PM",
             "in": "7",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12123,7 +12123,7 @@
             "team": "hou",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12579,7 +12579,23 @@
             "dist": "47"
         }
     ],
-    "atl @ ari": [],
+    "atl @ ari": [
+        {
+            "player": "alex verdugo",
+            "game": "atl @ ari",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-04-26 20:11:46",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "tb @ sd": [],
     "pit @ lad": [],
     "mia @ sea": [],
