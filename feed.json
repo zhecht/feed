@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "17",
         "batters": "76",
-        "pitches": "753",
+        "pitches": "755",
         "max velomax pitch velocity": "98.0",
         "min velomin pitch velocity": "41.5",
         "ff%fourseam fastball %": "34.3",
-        "si%sinker %": "12.1",
+        "si%sinker %": "12.2",
         "fc%cutter %": "1.9",
         "fs%splitter %": "1.3",
-        "ch%changeup %": "14.5",
+        "ch%changeup %": "14.3",
         "sl%slider %": "25.4",
         "cu%curve %": "10.6",
         "max evmax exit velocity": "111.4",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "39.3",
         "brlbarrels": "13",
         "brl%barrel %": "9.3",
-        "ab": "176",
-        "avg": ".335",
-        "h": "59",
+        "ab": "177",
+        "avg": ".339",
+        "h": "60",
         "1b": "38",
         "2b": "11",
-        "3b": "1",
+        "3b": "2",
         "hr": "9",
         "so": "40",
         "bipballs in play": "140",
         "liveGames": 4,
         "totGames": 8,
-        "updated": "2025-04-28 19:38:03.784923"
+        "updated": "2025-04-28 19:38:11.351017"
     },
     "nym @ wsh": [
         {
@@ -1513,7 +1513,7 @@
             "team": "min",
             "start": "6:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2528,6 +2528,21 @@
     ],
     "stl @ cin": [
         {
+            "player": "spencer steer",
+            "game": "stl @ cin",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-04-28 19:38:06",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "noelvi marte",
             "game": "stl @ cin",
             "hr/park": "",
@@ -2537,7 +2552,7 @@
             "team": "cin",
             "start": "6:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Triple",
             "evo": "101.1",
             "la": "11",
             "dist": "255"
