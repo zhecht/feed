@@ -1,17 +1,17 @@
 {
     "all": {
         "pitchers": "12",
-        "batters": "100",
-        "pitches": "464",
+        "batters": "99",
+        "pitches": "468",
         "max velomax pitch velocity": "97.8",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "36.9",
-        "si%sinker %": "13.1",
-        "fc%cutter %": "6.7",
-        "fs%splitter %": "8.6",
-        "ch%changeup %": "8.0",
-        "sl%slider %": "14.2",
-        "cu%curve %": "12.5",
+        "ff%fourseam fastball %": "37.0",
+        "si%sinker %": "13.2",
+        "fc%cutter %": "6.6",
+        "fs%splitter %": "8.5",
+        "ch%changeup %": "7.9",
+        "sl%slider %": "14.1",
+        "cu%curve %": "12.6",
         "max evmax exit velocity": "109.9",
         "hhhard hit": "50",
         "hh%hard hit %": "50.5",
@@ -28,7 +28,7 @@
         "bipballs in play": "99",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-04-29 19:39:29.625612"
+        "updated": "2025-04-29 19:39:37.081480"
     },
     "kc @ tb": [
         {
@@ -787,6 +787,21 @@
     ],
     "chc @ pit": [
         {
+            "player": "ian happ",
+            "game": "chc @ pit",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-04-29 19:39:37",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "oneil cruz",
             "game": "chc @ pit",
             "hr/park": "",
@@ -1483,17 +1498,17 @@
         {
             "player": "jarren duran",
             "game": "bos @ tor",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "14",
             "dt": "2025-04-29 19:37:06",
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
             "team": "bos",
             "start": "7:07 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "98.6",
+            "la": "46",
+            "dist": "317"
         },
         {
             "player": "carlos narvaez",
@@ -1692,21 +1707,6 @@
         }
     ],
     "ari @ nym": [
-        {
-            "player": "tyrone taylor",
-            "game": "ari @ nym",
-            "hr/park": "",
-            "pa": "15",
-            "dt": "2025-04-29 19:39:22",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "7:10 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "99.9",
-            "la": "8",
-            "dist": "134"
-        },
         {
             "player": "francisco alvarez",
             "game": "ari @ nym",
