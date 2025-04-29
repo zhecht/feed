@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "14",
         "batters": "106",
-        "pitches": "527",
+        "pitches": "533",
         "max velomax pitch velocity": "98.0",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "37.2",
-        "si%sinker %": "13.9",
-        "fc%cutter %": "7.2",
-        "fs%splitter %": "8.3",
-        "ch%changeup %": "7.4",
+        "ff%fourseam fastball %": "37.0",
+        "si%sinker %": "14.3",
+        "fc%cutter %": "7.1",
+        "fs%splitter %": "8.4",
+        "ch%changeup %": "7.3",
         "sl%slider %": "14.8",
-        "cu%curve %": "11.2",
+        "cu%curve %": "11.1",
         "max evmax exit velocity": "109.9",
-        "hhhard hit": "56",
+        "hhhard hit": "57",
         "hh%hard hit %": "51.4",
         "brlbarrels": "11",
-        "brl%barrel %": "10.1",
-        "ab": "133",
-        "avg": ".278",
+        "brl%barrel %": "9.9",
+        "ab": "134",
+        "avg": ".276",
         "h": "37",
         "1b": "18",
         "2b": "6",
         "3b": "1",
         "hr": "12",
-        "so": "23",
-        "bipballs in play": "109",
+        "so": "24",
+        "bipballs in play": "111",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-04-29 19:45:06.142673"
+        "updated": "2025-04-29 19:45:13.571741"
     },
     "kc @ tb": [
         {
@@ -329,7 +329,7 @@
             "team": "nyy",
             "start": "6:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -834,7 +834,7 @@
         {
             "player": "carson kelly",
             "game": "chc @ pit",
-            "hr/park": "",
+            "hr/park": "30/30",
             "pa": "23",
             "dt": "2025-04-29 19:43:38",
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
@@ -1625,10 +1625,10 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "68.7",
+            "la": "16",
+            "dist": "147"
         },
         {
             "player": "daulton varsho",
@@ -1872,6 +1872,21 @@
         }
     ],
     "ari @ nym": [
+        {
+            "player": "juan soto",
+            "game": "ari @ nym",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-04-29 19:45:08",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "2",
+            "result": "Lineout",
+            "evo": "104.0",
+            "la": "17",
+            "dist": "299"
+        },
         {
             "player": "francisco lindor",
             "game": "ari @ nym",
@@ -2139,7 +2154,7 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
