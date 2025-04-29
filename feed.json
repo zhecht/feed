@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "57",
         "batters": "160",
-        "pitches": "2150",
+        "pitches": "2176",
         "max velomax pitch velocity": "103.3",
         "min velomin pitch velocity": "41.5",
-        "ff%fourseam fastball %": "27.7",
-        "si%sinker %": "16.7",
+        "ff%fourseam fastball %": "27.8",
+        "si%sinker %": "16.5",
         "fc%cutter %": "4.0",
-        "fs%splitter %": "1.2",
-        "ch%changeup %": "12.9",
-        "sl%slider %": "28.8",
-        "cu%curve %": "8.6",
+        "fs%splitter %": "1.1",
+        "ch%changeup %": "12.7",
+        "sl%slider %": "28.2",
+        "cu%curve %": "8.3",
         "max evmax exit velocity": "116.6",
-        "hhhard hit": "148",
-        "hh%hard hit %": "36.3",
+        "hhhard hit": "150",
+        "hh%hard hit %": "36.7",
         "brlbarrels": "27",
         "brl%barrel %": "6.6",
-        "ab": "509",
-        "avg": ".285",
+        "ab": "512",
+        "avg": ".283",
         "h": "145",
         "1b": "96",
         "2b": "31",
         "3b": "2",
         "hr": "16",
-        "so": "109",
-        "bipballs in play": "408",
+        "so": "110",
+        "bipballs in play": "409",
         "liveGames": 8,
         "totGames": 8,
-        "updated": "2025-04-28 23:03:44.382273"
+        "updated": "2025-04-28 23:07:20.683218"
     },
     "nym @ wsh": [
         {
@@ -1514,9 +1514,9 @@
             "start": "6:10 PM",
             "in": "9",
             "result": "Groundout",
-            "evo": "76.8",
-            "la": "69",
-            "dist": "172"
+            "evo": "93.4",
+            "la": "-5",
+            "dist": "25"
         },
         {
             "player": "jhonkensy noel",
@@ -1634,9 +1634,9 @@
             "start": "6:10 PM",
             "in": "8",
             "result": "Single",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "43.8",
+            "la": "-74",
+            "dist": "4"
         },
         {
             "player": "angel martinez",
@@ -1649,9 +1649,9 @@
             "start": "6:10 PM",
             "in": "8",
             "result": "Pop Out",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "80.5",
+            "la": "69",
+            "dist": "124"
         },
         {
             "player": "nolan jones",
@@ -1679,9 +1679,9 @@
             "start": "6:10 PM",
             "in": "8",
             "result": "Single",
-            "evo": "63.3",
-            "la": "-37",
-            "dist": "4"
+            "evo": "107.1",
+            "la": "11",
+            "dist": "182"
         },
         {
             "player": "mickey gasper",
@@ -6959,6 +6959,36 @@
     ],
     "atl @ col": [
         {
+            "player": "mickey moniak",
+            "game": "atl @ col",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-04-28 23:07:14",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "michael toglia",
+            "game": "atl @ col",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-04-28 23:07:14",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "8",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "hunter goodman",
             "game": "atl @ col",
             "hr/park": "",
@@ -6968,7 +6998,7 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "76.7",
             "la": "38",
             "dist": "261"
@@ -8011,6 +8041,36 @@
     ],
     "mia @ lad": [
         {
+            "player": "kyle stowers",
+            "game": "mia @ lad",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-04-28 23:07:14",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "10:10 PM",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "agustin ramirez",
+            "game": "mia @ lad",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-04-28 23:07:14",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "10:10 PM",
+            "in": "4",
+            "result": "GIDP",
+            "evo": "108.8",
+            "la": "-14",
+            "dist": "9"
+        },
+        {
             "player": "eric wagaman",
             "game": "mia @ lad",
             "hr/park": "",
@@ -8020,7 +8080,7 @@
             "team": "mia",
             "start": "10:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
