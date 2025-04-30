@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "60",
         "batters": "159",
-        "pitches": "1944",
+        "pitches": "1947",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "28.5",
-        "si%sinker %": "17.9",
+        "si%sinker %": "18.0",
         "fc%cutter %": "6.3",
         "fs%splitter %": "2.4",
         "ch%changeup %": "11.8",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.4",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "127",
-        "hh%hard hit %": "36.0",
+        "hh%hard hit %": "35.9",
         "brlbarrels": "38",
-        "brl%barrel %": "10.8",
-        "ab": "456",
-        "avg": ".248",
+        "brl%barrel %": "10.7",
+        "ab": "458",
+        "avg": ".247",
         "h": "113",
         "1b": "79",
         "2b": "10",
         "3b": "4",
         "hr": "20",
         "so": "106",
-        "bipballs in play": "353",
+        "bipballs in play": "354",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-04-30 18:56:41.098129"
+        "updated": "2025-04-30 18:56:50.198245"
     },
     "kc @ tb": [],
     "stl @ cin": [
@@ -1129,6 +1129,21 @@
         }
     ],
     "stl @ cin-gm2": [
+        {
+            "player": "noelvi marte",
+            "game": "stl @ cin-gm2",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-04-30 18:56:50",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "1",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "elly de la cruz",
             "game": "stl @ cin-gm2",
@@ -6932,6 +6947,21 @@
     ],
     "min @ cle": [
         {
+            "player": "carlos correa",
+            "game": "min @ cle",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-04-30 18:56:50",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "6:10 PM",
+            "in": "4",
+            "result": "Groundout",
+            "evo": "77.7",
+            "la": "-60",
+            "dist": "1"
+        },
+        {
             "player": "byron buxton",
             "game": "min @ cle",
             "hr/park": "",
@@ -6941,7 +6971,7 @@
             "team": "min",
             "start": "6:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "73.3",
             "la": "57",
             "dist": "159"
