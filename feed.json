@@ -2,16 +2,16 @@
     "all": {
         "pitchers": "23",
         "batters": "142",
-        "pitches": "1158",
+        "pitches": "1160",
         "max velomax pitch velocity": "98.4",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "34.3",
-        "si%sinker %": "15.1",
+        "si%sinker %": "15.2",
         "fc%cutter %": "7.2",
         "fs%splitter %": "6.8",
-        "ch%changeup %": "9.7",
+        "ch%changeup %": "9.8",
         "sl%slider %": "15.5",
-        "cu%curve %": "11.3",
+        "cu%curve %": "11.1",
         "max evmax exit velocity": "111.8",
         "hhhard hit": "115",
         "hh%hard hit %": "50.9",
@@ -28,9 +28,24 @@
         "bipballs in play": "226",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-29 20:27:05.426299"
+        "updated": "2025-04-29 20:27:13.545780"
     },
     "kc @ tb": [
+        {
+            "player": "chandler simpson",
+            "game": "kc @ tb",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-04-29 20:27:08",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "Groundout",
+            "evo": "81.9",
+            "la": "-25",
+            "dist": "7"
+        },
         {
             "player": "ben rortvedt",
             "game": "kc @ tb",
@@ -1432,11 +1447,11 @@
     ],
     "chc @ pit": [
         {
-            "player": "pete crow armstrong",
+            "player": "nico hoerner",
             "game": "chc @ pit",
             "hr/park": "",
-            "pa": "45",
-            "dt": "2025-04-29 20:26:52",
+            "pa": "44",
+            "dt": "2025-04-29 20:25:39",
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
             "team": "chc",
             "start": "6:40 PM",
@@ -1445,21 +1460,6 @@
             "evo": "",
             "la": "",
             "dist": ""
-        },
-        {
-            "player": "nico hoerner",
-            "game": "chc @ pit",
-            "hr/park": "0/30",
-            "pa": "44",
-            "dt": "2025-04-29 20:25:39",
-            "img": "https://www.mlbstatic.com/team-logos/112.svg",
-            "team": "chc",
-            "start": "6:40 PM",
-            "in": "6",
-            "result": "Lineout",
-            "evo": "88.4",
-            "la": "26",
-            "dist": "331"
         },
         {
             "player": "michael busch",
@@ -4513,7 +4513,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
