@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "45",
-        "batters": "188",
-        "pitches": "1962",
+        "pitchers": "44",
+        "batters": "189",
+        "pitches": "1973",
         "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "34.1",
-        "si%sinker %": "16.0",
-        "fc%cutter %": "8.0",
+        "ff%fourseam fastball %": "34.3",
+        "si%sinker %": "15.9",
+        "fc%cutter %": "7.9",
         "fs%splitter %": "4.7",
         "ch%changeup %": "9.2",
-        "sl%slider %": "17.3",
-        "cu%curve %": "10.6",
+        "sl%slider %": "17.4",
+        "cu%curve %": "10.5",
         "max evmax exit velocity": "111.8",
         "hhhard hit": "171",
-        "hh%hard hit %": "46.3",
+        "hh%hard hit %": "46.2",
         "brlbarrels": "33",
         "brl%barrel %": "8.9",
         "ab": "461",
-        "avg": ".254",
-        "h": "117",
-        "1b": "68",
+        "avg": ".252",
+        "h": "116",
+        "1b": "67",
         "2b": "21",
         "3b": "1",
         "hr": "27",
-        "so": "95",
-        "bipballs in play": "369",
+        "so": "97",
+        "bipballs in play": "370",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-04-29 21:13:00.450501"
+        "updated": "2025-04-29 21:13:09.468213"
     },
     "kc @ tb": [
         {
@@ -974,7 +974,7 @@
             "team": "bal",
             "start": "6:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4025,7 +4025,7 @@
             "team": "bos",
             "start": "7:07 PM",
             "in": "8",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "104.9",
             "la": "9",
             "dist": "190"
@@ -4972,7 +4972,7 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5834,21 +5834,6 @@
         }
     ],
     "mil @ chw": [
-        {
-            "player": "christian yelich",
-            "game": "mil @ chw",
-            "hr/park": "",
-            "pa": "44",
-            "dt": "2025-04-29 21:12:54",
-            "img": "https://www.mlbstatic.com/team-logos/158.svg",
-            "team": "mil",
-            "start": "7:40 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "william contreras",
             "game": "mil @ chw",
@@ -6934,6 +6919,21 @@
     ],
     "det @ hou": [
         {
+            "player": "isaac paredes",
+            "game": "det @ hou",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-04-29 21:13:08",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "yordan alvarez",
             "game": "det @ hou",
             "hr/park": "",
@@ -6943,7 +6943,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7370,6 +7370,36 @@
         }
     ],
     "atl @ col": [
+        {
+            "player": "brenton doyle",
+            "game": "atl @ col",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-04-29 21:13:08",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "alan trejo",
+            "game": "atl @ col",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-04-29 21:13:08",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "3",
+            "result": "Sac Bunt",
+            "evo": "30.4",
+            "la": "-1",
+            "dist": "19"
+        },
         {
             "player": "nick martini",
             "game": "atl @ col",
