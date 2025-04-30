@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "32",
+        "pitchers": "34",
         "batters": "113",
-        "pitches": "1306",
+        "pitches": "1312",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "72.5",
-        "ff%fourseam fastball %": "29.0",
-        "si%sinker %": "16.4",
-        "fc%cutter %": "5.1",
+        "ff%fourseam fastball %": "29.1",
+        "si%sinker %": "16.3",
+        "fc%cutter %": "5.2",
         "fs%splitter %": "2.8",
         "ch%changeup %": "10.9",
         "sl%slider %": "26.0",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "111.3",
         "hhhard hit": "86",
-        "hh%hard hit %": "37.2",
+        "hh%hard hit %": "37.1",
         "brlbarrels": "27",
-        "brl%barrel %": "11.7",
-        "ab": "303",
-        "avg": ".228",
+        "brl%barrel %": "11.6",
+        "ab": "305",
+        "avg": ".226",
         "h": "69",
         "1b": "49",
         "2b": "4",
         "3b": "1",
         "hr": "15",
         "so": "76",
-        "bipballs in play": "231",
+        "bipballs in play": "232",
         "liveGames": 6,
         "totGames": 16,
-        "updated": "2025-04-30 17:16:58.107386"
+        "updated": "2025-04-30 17:17:06.428070"
     },
     "kc @ tb": [],
     "stl @ cin": [
@@ -2363,6 +2363,21 @@
     ],
     "atl @ col": [
         {
+            "player": "marcell ozuna",
+            "game": "atl @ col",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-04-30 17:17:05",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "3:10 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "98.8",
+            "la": "-21",
+            "dist": "6"
+        },
+        {
             "player": "brenton doyle",
             "game": "atl @ col",
             "hr/park": "0/30",
@@ -3219,6 +3234,21 @@
         }
     ],
     "mia @ lad": [
+        {
+            "player": "max muncy",
+            "game": "mia @ lad",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-04-30 17:17:05",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "3:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "liam hicks",
             "game": "mia @ lad",
@@ -4117,9 +4147,9 @@
             "start": "4:10 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "59.8",
+            "la": "17",
+            "dist": "126"
         },
         {
             "player": "kevin newman",
@@ -4628,10 +4658,10 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "4",
-            "result": "Groundout",
-            "evo": "106.2",
-            "la": "-21",
-            "dist": "6"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "tyler wade",
