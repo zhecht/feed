@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "64",
         "batters": "211",
-        "pitches": "2557",
+        "pitches": "2560",
         "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "34.8",
@@ -13,22 +13,22 @@
         "sl%slider %": "18.7",
         "cu%curve %": "9.3",
         "max evmax exit velocity": "116.5",
-        "hhhard hit": "220",
-        "hh%hard hit %": "46.4",
+        "hhhard hit": "221",
+        "hh%hard hit %": "46.2",
         "brlbarrels": "35",
-        "brl%barrel %": "7.4",
-        "ab": "601",
-        "avg": ".255",
-        "h": "153",
-        "1b": "96",
+        "brl%barrel %": "7.3",
+        "ab": "600",
+        "avg": ".258",
+        "h": "155",
+        "1b": "98",
         "2b": "25",
         "3b": "2",
         "hr": "30",
         "so": "131",
-        "bipballs in play": "474",
+        "bipballs in play": "478",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-29 21:43:50.048890"
+        "updated": "2025-04-29 21:43:59.618140"
     },
     "kc @ tb": [
         {
@@ -1129,19 +1129,34 @@
     ],
     "min @ cle": [
         {
-            "player": "kyle manzardo",
+            "player": "carlos santana",
             "game": "min @ cle",
             "hr/park": "",
+            "pa": "11",
+            "dt": "2025-04-29 21:43:53",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:10 PM",
+            "in": "2",
+            "result": "Groundout",
+            "evo": "93.1",
+            "la": "-32",
+            "dist": "6"
+        },
+        {
+            "player": "kyle manzardo",
+            "game": "min @ cle",
+            "hr/park": "0/30",
             "pa": "10",
             "dt": "2025-04-29 21:41:53",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
             "team": "cle",
             "start": "6:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "91.9",
+            "la": "29",
+            "dist": "325"
         },
         {
             "player": "jonah bride",
@@ -2587,21 +2602,6 @@
         }
     ],
     "chc @ pit": [
-        {
-            "player": "alexander canario",
-            "game": "chc @ pit",
-            "hr/park": "",
-            "pa": "76",
-            "dt": "2025-04-29 21:43:37",
-            "img": "https://www.mlbstatic.com/team-logos/134.svg",
-            "team": "pit",
-            "start": "6:40 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "nicky lopez",
             "game": "chc @ pit",
@@ -7156,21 +7156,6 @@
     ],
     "mil @ chw": [
         {
-            "player": "miguel vargas",
-            "game": "mil @ chw",
-            "hr/park": "",
-            "pa": "59",
-            "dt": "2025-04-29 21:43:37",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "start": "7:40 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "lenyn sosa",
             "game": "mil @ chw",
             "hr/park": "",
@@ -8052,10 +8037,10 @@
             "team": "ath",
             "start": "8:05 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "97.5",
+            "la": "15",
+            "dist": "267"
         },
         {
             "player": "wyatt langford",
@@ -8744,10 +8729,10 @@
             "team": "det",
             "start": "8:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "76.2",
+            "la": "47",
+            "dist": "233"
         },
         {
             "player": "justyn henry malloy",
@@ -9391,7 +9376,7 @@
             "team": "atl",
             "start": "8:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "96.5",
             "la": "9",
             "dist": "146"
