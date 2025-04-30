@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "12",
         "batters": "41",
-        "pitches": "408",
+        "pitches": "409",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "74.5",
-        "ff%fourseam fastball %": "22.3",
+        "ff%fourseam fastball %": "22.2",
         "si%sinker %": "24.0",
         "fc%cutter %": "5.1",
-        "fs%splitter %": "0.0",
+        "fs%splitter %": "0.2",
         "ch%changeup %": "5.9",
         "sl%slider %": "35.0",
         "cu%curve %": "7.6",
         "max evmax exit velocity": "109.6",
         "hhhard hit": "35",
-        "hh%hard hit %": "46.7",
+        "hh%hard hit %": "46.1",
         "brlbarrels": "12",
-        "brl%barrel %": "16.0",
+        "brl%barrel %": "15.8",
         "ab": "90",
         "avg": ".189",
         "h": "17",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "7",
         "so": "18",
-        "bipballs in play": "75",
+        "bipballs in play": "76",
         "liveGames": 4,
         "totGames": 16,
-        "updated": "2025-04-30 15:13:44.907128"
+        "updated": "2025-04-30 15:13:52.309404"
     },
     "kc @ tb": [],
     "stl @ cin": [
@@ -1140,7 +1140,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "71.8",
             "la": "-20",
             "dist": "8"
@@ -1609,10 +1609,10 @@
             "team": "mia",
             "start": "3:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "68.1",
+            "la": "12",
+            "dist": "117"
         },
         {
             "player": "xavier edwards",
