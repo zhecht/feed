@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "34",
-        "batters": "172",
-        "pitches": "1610",
+        "batters": "173",
+        "pitches": "1618",
         "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "35.5",
-        "si%sinker %": "14.3",
+        "ff%fourseam fastball %": "35.6",
+        "si%sinker %": "14.5",
         "fc%cutter %": "8.0",
-        "fs%splitter %": "5.5",
-        "ch%changeup %": "9.4",
+        "fs%splitter %": "5.4",
+        "ch%changeup %": "9.3",
         "sl%slider %": "15.5",
-        "cu%curve %": "11.7",
+        "cu%curve %": "11.6",
         "max evmax exit velocity": "111.8",
         "hhhard hit": "145",
-        "hh%hard hit %": "47.4",
+        "hh%hard hit %": "46.9",
         "brlbarrels": "31",
-        "brl%barrel %": "10.1",
-        "ab": "378",
-        "avg": ".243",
-        "h": "92",
-        "1b": "48",
+        "brl%barrel %": "10.0",
+        "ab": "379",
+        "avg": ".245",
+        "h": "93",
+        "1b": "49",
         "2b": "18",
         "3b": "1",
         "hr": "25",
         "so": "74",
-        "bipballs in play": "306",
+        "bipballs in play": "309",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-04-29 20:54:05.403951"
+        "updated": "2025-04-29 20:54:13.802180"
     },
     "kc @ tb": [
         {
@@ -2613,7 +2613,7 @@
             "team": "wsh",
             "start": "6:45 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4282,10 +4282,10 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "91.9",
+            "la": "69",
+            "dist": "164"
         },
         {
             "player": "jose azocar",
@@ -5606,10 +5606,10 @@
             "team": "ath",
             "start": "8:05 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "89.0",
+            "la": "49",
+            "dist": "263"
         },
         {
             "player": "gio urshela",
@@ -6201,6 +6201,21 @@
     ],
     "atl @ col": [
         {
+            "player": "ozzie albies",
+            "game": "atl @ col",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-04-29 20:54:08",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "8:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "86.6",
+            "la": "63",
+            "dist": "200"
+        },
+        {
             "player": "matt olson",
             "game": "atl @ col",
             "hr/park": "",
@@ -6210,7 +6225,7 @@
             "team": "atl",
             "start": "8:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "93.8",
             "la": "-18",
             "dist": "8"
