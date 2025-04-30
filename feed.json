@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "30",
         "batters": "164",
-        "pitches": "1511",
+        "pitches": "1515",
         "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "35.0",
@@ -14,9 +14,9 @@
         "cu%curve %": "11.6",
         "max evmax exit velocity": "111.8",
         "hhhard hit": "135",
-        "hh%hard hit %": "47.4",
+        "hh%hard hit %": "47.2",
         "brlbarrels": "29",
-        "brl%barrel %": "10.2",
+        "brl%barrel %": "10.1",
         "ab": "352",
         "avg": ".244",
         "h": "86",
@@ -24,11 +24,11 @@
         "2b": "17",
         "3b": "1",
         "hr": "24",
-        "so": "69",
-        "bipballs in play": "285",
+        "so": "70",
+        "bipballs in play": "286",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-04-29 20:47:19.866444"
+        "updated": "2025-04-29 20:47:28.255169"
     },
     "kc @ tb": [
         {
@@ -794,7 +794,7 @@
             "team": "nyy",
             "start": "6:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3350,7 +3350,7 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4093,6 +4093,21 @@
     ],
     "ari @ nym": [
         {
+            "player": "eugenio suarez",
+            "game": "ari @ nym",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-04-29 20:47:22",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "lourdes gurriel",
             "game": "ari @ nym",
             "hr/park": "",
@@ -4809,7 +4824,7 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "5",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5296,21 +5311,6 @@
         }
     ],
     "ath @ tex": [
-        {
-            "player": "kyle higashioka",
-            "game": "ath @ tex",
-            "hr/park": "",
-            "pa": "19",
-            "dt": "2025-04-29 20:46:51",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "8:05 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "josh smith",
             "game": "ath @ tex",
@@ -5835,10 +5835,10 @@
             "team": "atl",
             "start": "8:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "83.8",
+            "la": "-10",
+            "dist": "15"
         },
         {
             "player": "austin riley",
