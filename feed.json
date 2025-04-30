@@ -1,26 +1,26 @@
 {
     "all": {
         "pitchers": "26",
-        "batters": "103",
-        "pitches": "974",
+        "batters": "104",
+        "pitches": "976",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "72.5",
         "ff%fourseam fastball %": "31.4",
-        "si%sinker %": "15.8",
-        "fc%cutter %": "4.5",
+        "si%sinker %": "15.9",
+        "fc%cutter %": "4.6",
         "fs%splitter %": "2.8",
         "ch%changeup %": "7.6",
         "sl%slider %": "27.5",
-        "cu%curve %": "10.4",
+        "cu%curve %": "10.3",
         "max evmax exit velocity": "109.6",
         "hhhard hit": "71",
         "hh%hard hit %": "40.3",
         "brlbarrels": "21",
         "brl%barrel %": "11.9",
-        "ab": "229",
-        "avg": ".227",
-        "h": "52",
-        "1b": "38",
+        "ab": "231",
+        "avg": ".229",
+        "h": "53",
+        "1b": "39",
         "2b": "2",
         "3b": "0",
         "hr": "12",
@@ -28,7 +28,7 @@
         "bipballs in play": "176",
         "liveGames": 6,
         "totGames": 16,
-        "updated": "2025-04-30 16:38:33.466080"
+        "updated": "2025-04-30 16:38:41.626753"
     },
     "kc @ tb": [],
     "stl @ cin": [
@@ -1130,6 +1130,21 @@
     ],
     "stl @ cin-gm2": [],
     "det @ hou": [
+        {
+            "player": "jake meyers",
+            "game": "det @ hou",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-04-30 16:38:36",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "trey sweeney",
             "game": "det @ hou",
@@ -3674,6 +3689,21 @@
     ],
     "sf @ sd": [
         {
+            "player": "jason heyward",
+            "game": "sf @ sd",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-04-30 16:38:36",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyler wade",
             "game": "sf @ sd",
             "hr/park": "",
@@ -3683,7 +3713,7 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "81.1",
             "la": "18",
             "dist": "210"
