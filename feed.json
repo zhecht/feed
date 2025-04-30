@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "66",
-        "batters": "222",
-        "pitches": "2357",
+        "batters": "223",
+        "pitches": "2365",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "27.8",
@@ -13,24 +13,39 @@
         "sl%slider %": "23.1",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "114.7",
-        "hhhard hit": "160",
-        "hh%hard hit %": "38.0",
+        "hhhard hit": "161",
+        "hh%hard hit %": "38.1",
         "brlbarrels": "46",
         "brl%barrel %": "10.9",
-        "ab": "547",
+        "ab": "548",
         "avg": ".250",
         "h": "137",
         "1b": "93",
         "2b": "14",
         "3b": "4",
         "hr": "26",
-        "so": "126",
-        "bipballs in play": "421",
+        "so": "127",
+        "bipballs in play": "423",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-04-30 19:27:48.746944"
+        "updated": "2025-04-30 19:27:58.174657"
     },
     "kc @ tb": [
+        {
+            "player": "brandon lowe",
+            "game": "kc @ tb",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-04-30 19:27:51",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "junior caminero",
             "game": "kc @ tb",
@@ -41,10 +56,10 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "2",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "87.1",
+            "la": "51",
+            "dist": "222"
         },
         {
             "player": "cavan biggio",
@@ -7302,7 +7317,7 @@
             "team": "min",
             "start": "6:10 PM",
             "in": "6",
-            "result": "Stolen Base 2B",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8251,10 +8266,10 @@
             "team": "chc",
             "start": "6:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "100.9",
+            "la": "-17",
+            "dist": "7"
         },
         {
             "player": "ian happ",
