@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "44",
+        "pitchers": "45",
         "batters": "188",
-        "pitches": "1960",
+        "pitches": "1962",
         "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "34.1",
@@ -14,21 +14,21 @@
         "cu%curve %": "10.6",
         "max evmax exit velocity": "111.8",
         "hhhard hit": "171",
-        "hh%hard hit %": "46.5",
+        "hh%hard hit %": "46.3",
         "brlbarrels": "33",
-        "brl%barrel %": "9.0",
-        "ab": "460",
-        "avg": ".252",
-        "h": "116",
-        "1b": "67",
+        "brl%barrel %": "8.9",
+        "ab": "461",
+        "avg": ".254",
+        "h": "117",
+        "1b": "68",
         "2b": "21",
         "3b": "1",
         "hr": "27",
         "so": "95",
-        "bipballs in play": "368",
+        "bipballs in play": "369",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-04-29 21:12:51.568130"
+        "updated": "2025-04-29 21:13:00.450501"
     },
     "kc @ tb": [
         {
@@ -3033,7 +3033,7 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4025,7 +4025,7 @@
             "team": "bos",
             "start": "7:07 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "104.9",
             "la": "9",
             "dist": "190"
@@ -5835,6 +5835,21 @@
     ],
     "mil @ chw": [
         {
+            "player": "christian yelich",
+            "game": "mil @ chw",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-04-29 21:12:54",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "william contreras",
             "game": "mil @ chw",
             "hr/park": "",
@@ -6491,10 +6506,10 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "59.0",
+            "la": "-14",
+            "dist": "11"
         },
         {
             "player": "leody taveras",
