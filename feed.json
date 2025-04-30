@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "31",
-        "batters": "164",
-        "pitches": "1532",
+        "pitchers": "32",
+        "batters": "165",
+        "pitches": "1536",
         "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "35.1",
-        "si%sinker %": "14.8",
+        "ff%fourseam fastball %": "35.2",
+        "si%sinker %": "14.7",
         "fc%cutter %": "7.4",
         "fs%splitter %": "5.6",
-        "ch%changeup %": "9.7",
+        "ch%changeup %": "9.6",
         "sl%slider %": "15.9",
-        "cu%curve %": "11.6",
+        "cu%curve %": "11.5",
         "max evmax exit velocity": "111.8",
-        "hhhard hit": "135",
-        "hh%hard hit %": "47.2",
+        "hhhard hit": "137",
+        "hh%hard hit %": "47.6",
         "brlbarrels": "29",
         "brl%barrel %": "10.1",
-        "ab": "356",
-        "avg": ".242",
+        "ab": "357",
+        "avg": ".241",
         "h": "86",
         "1b": "44",
         "2b": "17",
         "3b": "1",
         "hr": "24",
         "so": "71",
-        "bipballs in play": "286",
+        "bipballs in play": "288",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-04-29 20:49:00.942672"
+        "updated": "2025-04-29 20:49:09.327702"
     },
     "kc @ tb": [
         {
@@ -1756,10 +1756,10 @@
             "team": "chc",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "106.7",
+            "la": "-3",
+            "dist": "25"
         },
         {
             "player": "tommy pham",
@@ -2528,6 +2528,21 @@
         }
     ],
     "wsh @ phi": [
+        {
+            "player": "amed rosario",
+            "game": "wsh @ phi",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-04-29 20:49:06",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "max kepler",
             "game": "wsh @ phi",
@@ -3358,7 +3373,7 @@
         {
             "player": "alejandro kirk",
             "game": "bos @ tor",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "51",
             "dt": "2025-04-29 20:48:07",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
@@ -3366,9 +3381,9 @@
             "start": "7:07 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "103.4",
+            "la": "19",
+            "dist": "377"
         },
         {
             "player": "george springer",
@@ -5366,7 +5381,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
