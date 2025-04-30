@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "61",
         "batters": "200",
-        "pitches": "2438",
+        "pitches": "2445",
         "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "34.7",
+        "ff%fourseam fastball %": "34.6",
         "si%sinker %": "15.3",
         "fc%cutter %": "7.8",
         "fs%splitter %": "4.3",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.3",
         "max evmax exit velocity": "116.5",
         "hhhard hit": "208",
-        "hh%hard hit %": "46.1",
+        "hh%hard hit %": "46.0",
         "brlbarrels": "34",
         "brl%barrel %": "7.5",
-        "ab": "572",
-        "avg": ".259",
+        "ab": "573",
+        "avg": ".258",
         "h": "148",
         "1b": "93",
         "2b": "24",
         "3b": "1",
         "hr": "30",
         "so": "124",
-        "bipballs in play": "451",
+        "bipballs in play": "452",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-04-29 21:36:28.973826"
+        "updated": "2025-04-29 21:36:38.373277"
     },
     "kc @ tb": [
         {
@@ -3634,7 +3634,7 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8420,6 +8420,21 @@
     ],
     "det @ hou": [
         {
+            "player": "jake meyers",
+            "game": "det @ hou",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-04-29 21:36:36",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "zach dezenzo",
             "game": "det @ hou",
             "hr/park": "",
@@ -8429,10 +8444,10 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "78.6",
+            "la": "-9",
+            "dist": "17"
         },
         {
             "player": "yainer diaz",
