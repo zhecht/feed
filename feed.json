@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "11",
-        "batters": "38",
-        "pitches": "398",
+        "pitchers": "12",
+        "batters": "39",
+        "pitches": "400",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "74.5",
-        "ff%fourseam fastball %": "21.9",
-        "si%sinker %": "24.4",
+        "ff%fourseam fastball %": "22.0",
+        "si%sinker %": "24.5",
         "fc%cutter %": "5.3",
         "fs%splitter %": "0.0",
         "ch%changeup %": "5.8",
-        "sl%slider %": "35.2",
+        "sl%slider %": "35.0",
         "cu%curve %": "7.5",
         "max evmax exit velocity": "109.6",
-        "hhhard hit": "34",
-        "hh%hard hit %": "46.6",
+        "hhhard hit": "35",
+        "hh%hard hit %": "47.3",
         "brlbarrels": "12",
-        "brl%barrel %": "16.4",
-        "ab": "86",
-        "avg": ".198",
+        "brl%barrel %": "16.2",
+        "ab": "88",
+        "avg": ".193",
         "h": "17",
         "1b": "10",
         "2b": "0",
         "3b": "0",
         "hr": "7",
         "so": "18",
-        "bipballs in play": "73",
+        "bipballs in play": "74",
         "liveGames": 4,
         "totGames": 16,
-        "updated": "2025-04-30 15:12:17.394864"
+        "updated": "2025-04-30 15:12:24.644196"
     },
     "kc @ tb": [],
     "stl @ cin": [
@@ -1131,6 +1131,21 @@
     "stl @ cin-gm2": [],
     "det @ hou": [
         {
+            "player": "christian walker",
+            "game": "det @ hou",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-04-30 15:12:19",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "isaac paredes",
             "game": "det @ hou",
             "hr/park": "",
@@ -1551,7 +1566,23 @@
             "dist": "369"
         }
     ],
-    "atl @ col": [],
+    "atl @ col": [
+        {
+            "player": "michael harris",
+            "game": "atl @ col",
+            "hr/park": "3/30",
+            "pa": "1",
+            "dt": "2025-04-30 15:12:19",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "3:10 PM",
+            "in": "1",
+            "result": "Flyout",
+            "evo": "97.7",
+            "la": "40",
+            "dist": "343"
+        }
+    ],
     "mia @ lad": [
         {
             "player": "xavier edwards",
@@ -1563,7 +1594,7 @@
             "team": "mia",
             "start": "3:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "86.8",
             "la": "42",
             "dist": "258"
