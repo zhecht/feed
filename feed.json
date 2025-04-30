@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "26",
+        "pitchers": "27",
         "batters": "153",
-        "pitches": "1351",
+        "pitches": "1357",
         "max velomax pitch velocity": "98.4",
         "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "34.9",
+        "ff%fourseam fastball %": "35.0",
         "si%sinker %": "14.4",
-        "fc%cutter %": "7.4",
+        "fc%cutter %": "7.3",
         "fs%splitter %": "6.1",
         "ch%changeup %": "9.8",
         "sl%slider %": "16.1",
-        "cu%curve %": "11.2",
+        "cu%curve %": "11.3",
         "max evmax exit velocity": "111.8",
         "hhhard hit": "127",
         "hh%hard hit %": "49.0",
         "brlbarrels": "27",
         "brl%barrel %": "10.4",
-        "ab": "319",
-        "avg": ".251",
+        "ab": "321",
+        "avg": ".249",
         "h": "80",
         "1b": "38",
         "2b": "17",
@@ -28,7 +28,7 @@
         "bipballs in play": "259",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-29 20:39:31.127522"
+        "updated": "2025-04-29 20:39:39.416259"
     },
     "kc @ tb": [
         {
@@ -710,6 +710,21 @@
     "min @ cle": [],
     "nyy @ bal": [
         {
+            "player": "cody bellinger",
+            "game": "nyy @ bal",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-04-29 20:39:36",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "6:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "paul goldschmidt",
             "game": "nyy @ bal",
             "hr/park": "",
@@ -719,10 +734,10 @@
             "team": "nyy",
             "start": "6:35 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "78.3",
+            "la": "-7",
+            "dist": "14"
         },
         {
             "player": "ben rice",
@@ -2319,6 +2334,21 @@
     ],
     "wsh @ phi": [
         {
+            "player": "alec bohm",
+            "game": "wsh @ phi",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-04-29 20:39:36",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:45 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "james wood",
             "game": "wsh @ phi",
             "hr/park": "",
@@ -3111,9 +3141,9 @@
             "start": "7:07 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "87.3",
-            "la": "1",
-            "dist": "52"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "carlos narvaez",
