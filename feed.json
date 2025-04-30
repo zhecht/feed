@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "57",
         "batters": "194",
-        "pitches": "2299",
+        "pitches": "2301",
         "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "34.2",
-        "si%sinker %": "15.5",
+        "si%sinker %": "15.6",
         "fc%cutter %": "7.8",
         "fs%splitter %": "4.4",
         "ch%changeup %": "9.4",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.5",
         "max evmax exit velocity": "116.5",
         "hhhard hit": "200",
-        "hh%hard hit %": "46.6",
+        "hh%hard hit %": "46.4",
         "brlbarrels": "34",
         "brl%barrel %": "7.9",
-        "ab": "538",
-        "avg": ".264",
+        "ab": "540",
+        "avg": ".263",
         "h": "142",
         "1b": "87",
         "2b": "24",
         "3b": "1",
         "hr": "30",
-        "so": "115",
-        "bipballs in play": "429",
+        "so": "114",
+        "bipballs in play": "431",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-04-29 21:29:33.454440"
+        "updated": "2025-04-29 21:29:42.640194"
     },
     "kc @ tb": [
         {
@@ -1078,10 +1078,10 @@
             "team": "cle",
             "start": "6:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "88.6",
+            "la": "52",
+            "dist": "224"
         },
         {
             "player": "carlos correa",
@@ -3415,6 +3415,21 @@
     ],
     "wsh @ phi": [
         {
+            "player": "josh bell",
+            "game": "wsh @ phi",
+            "hr/park": "",
+            "pa": "74",
+            "dt": "2025-04-29 21:29:38",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nathaniel lowe",
             "game": "wsh @ phi",
             "hr/park": "26/30",
@@ -4511,6 +4526,21 @@
         }
     ],
     "bos @ tor": [
+        {
+            "player": "triston casas",
+            "game": "bos @ tor",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-04-29 21:29:38",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:07 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kristian campbell",
             "game": "bos @ tor",
@@ -7964,7 +7994,7 @@
             "team": "det",
             "start": "8:10 PM",
             "in": "5",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8506,7 +8536,7 @@
             "team": "atl",
             "start": "8:40 PM",
             "in": "4",
-            "result": "Stolen Base 2B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
