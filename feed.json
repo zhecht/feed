@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "7",
-        "batters": "28",
-        "pitches": "255",
+        "batters": "29",
+        "pitches": "256",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "74.5",
-        "ff%fourseam fastball %": "19.6",
-        "si%sinker %": "25.9",
+        "ff%fourseam fastball %": "19.5",
+        "si%sinker %": "25.8",
         "fc%cutter %": "5.9",
         "fs%splitter %": "0.0",
         "ch%changeup %": "5.1",
-        "sl%slider %": "35.3",
+        "sl%slider %": "35.5",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "109.6",
         "hhhard hit": "22",
         "hh%hard hit %": "46.8",
         "brlbarrels": "8",
         "brl%barrel %": "17.0",
-        "ab": "57",
-        "avg": ".158",
+        "ab": "58",
+        "avg": ".155",
         "h": "9",
         "1b": "6",
         "2b": "0",
@@ -28,7 +28,7 @@
         "bipballs in play": "47",
         "liveGames": 2,
         "totGames": 16,
-        "updated": "2025-04-30 14:33:44.102589"
+        "updated": "2025-04-30 14:33:51.184319"
     },
     "kc @ tb": [],
     "stl @ cin": [
@@ -861,6 +861,21 @@
     "stl @ cin-gm2": [],
     "det @ hou": [
         {
+            "player": "jace jung",
+            "game": "det @ hou",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-04-30 14:33:50",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "javier baez",
             "game": "det @ hou",
             "hr/park": "",
@@ -870,7 +885,7 @@
             "team": "det",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "94.0",
             "la": "51",
             "dist": "241"
