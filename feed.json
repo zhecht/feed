@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "51",
         "batters": "189",
-        "pitches": "2141",
+        "pitches": "2152",
         "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "34.0",
         "si%sinker %": "15.6",
-        "fc%cutter %": "7.9",
+        "fc%cutter %": "8.0",
         "fs%splitter %": "4.7",
         "ch%changeup %": "9.2",
         "sl%slider %": "18.5",
         "cu%curve %": "10.0",
         "max evmax exit velocity": "116.5",
         "hhhard hit": "188",
-        "hh%hard hit %": "46.7",
+        "hh%hard hit %": "46.5",
         "brlbarrels": "34",
         "brl%barrel %": "8.4",
-        "ab": "501",
-        "avg": ".253",
+        "ab": "504",
+        "avg": ".252",
         "h": "127",
         "1b": "75",
         "2b": "22",
         "3b": "1",
         "hr": "29",
         "so": "105",
-        "bipballs in play": "403",
+        "bipballs in play": "404",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-04-29 21:21:47.087184"
+        "updated": "2025-04-29 21:21:56.580812"
     },
     "kc @ tb": [
         {
@@ -5302,7 +5302,7 @@
             "team": "ari",
             "start": "7:10 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6962,6 +6962,36 @@
     ],
     "ath @ tex": [
         {
+            "player": "jonah heim",
+            "game": "ath @ tex",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-04-29 21:21:51",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "kyle higashioka",
+            "game": "ath @ tex",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-04-29 21:20:37",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:05 PM",
+            "in": "4",
+            "result": "Groundout",
+            "evo": "87.4",
+            "la": "-29",
+            "dist": "5"
+        },
+        {
             "player": "josh smith",
             "game": "ath @ tex",
             "hr/park": "",
@@ -7458,6 +7488,21 @@
         }
     ],
     "det @ hou": [
+        {
+            "player": "gleyber torres",
+            "game": "det @ hou",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-04-29 21:21:51",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kerry carpenter",
             "game": "det @ hou",
@@ -7966,9 +8011,9 @@
             "start": "8:40 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "61.4",
+            "la": "-49",
+            "dist": "3"
         },
         {
             "player": "ozzie albies",
