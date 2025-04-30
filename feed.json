@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "32",
         "batters": "113",
-        "pitches": "1300",
+        "pitches": "1303",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "72.5",
-        "ff%fourseam fastball %": "29.2",
-        "si%sinker %": "16.0",
-        "fc%cutter %": "5.2",
+        "ff%fourseam fastball %": "29.1",
+        "si%sinker %": "16.2",
+        "fc%cutter %": "5.1",
         "fs%splitter %": "2.8",
         "ch%changeup %": "11.0",
-        "sl%slider %": "26.1",
-        "cu%curve %": "9.8",
+        "sl%slider %": "26.0",
+        "cu%curve %": "9.7",
         "max evmax exit velocity": "111.3",
         "hhhard hit": "85",
-        "hh%hard hit %": "37.1",
+        "hh%hard hit %": "37.0",
         "brlbarrels": "27",
-        "brl%barrel %": "11.8",
+        "brl%barrel %": "11.7",
         "ab": "302",
         "avg": ".225",
         "h": "68",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "15",
         "so": "76",
-        "bipballs in play": "229",
+        "bipballs in play": "230",
         "liveGames": 6,
         "totGames": 16,
-        "updated": "2025-04-30 17:15:30.255131"
+        "updated": "2025-04-30 17:15:40.198254"
     },
     "kc @ tb": [],
     "stl @ cin": [
@@ -3229,7 +3229,7 @@
             "team": "mia",
             "start": "3:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "81.5",
             "la": "51",
             "dist": "223"
@@ -4117,9 +4117,9 @@
             "start": "4:10 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "74.8",
+            "la": "24",
+            "dist": "235"
         },
         {
             "player": "kyren paris",
@@ -4604,6 +4604,21 @@
     ],
     "sf @ sd": [
         {
+            "player": "jason heyward",
+            "game": "sf @ sd",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-04-30 17:15:35",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "4:10 PM",
+            "in": "4",
+            "result": "Mound Visit",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyler wade",
             "game": "sf @ sd",
             "hr/park": "",
@@ -4613,7 +4628,7 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
