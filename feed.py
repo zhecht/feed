@@ -155,6 +155,7 @@ if __name__ == '__main__':
 	parser.add_argument("--clear", action="store_true")
 	parser.add_argument("--yest", action="store_true")
 	parser.add_argument("--history", action="store_true")
+	parser.add_argument("--commit", action="store_true")
 
 	args = parser.parse_args()
 
@@ -177,6 +178,10 @@ if __name__ == '__main__':
 	if args.clear:
 		with open("feed_times.json", "w") as fh:
 			json.dump({}, fh)
+		exit()
+
+	if args.commit:
+		commitChanges()
 		exit()
 
 	writeFeed(date, args.loop)
