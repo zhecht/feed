@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "68",
         "batters": "235",
-        "pitches": "2541",
+        "pitches": "2543",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "70.0",
-        "ff%fourseam fastball %": "27.7",
+        "ff%fourseam fastball %": "27.6",
         "si%sinker %": "19.2",
         "fc%cutter %": "7.3",
         "fs%splitter %": "2.0",
@@ -13,22 +13,22 @@
         "sl%slider %": "22.5",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "114.7",
-        "hhhard hit": "172",
-        "hh%hard hit %": "38.2",
-        "brlbarrels": "48",
-        "brl%barrel %": "10.7",
-        "ab": "586",
-        "avg": ".246",
-        "h": "144",
-        "1b": "98",
+        "hhhard hit": "174",
+        "hh%hard hit %": "38.5",
+        "brlbarrels": "49",
+        "brl%barrel %": "10.8",
+        "ab": "587",
+        "avg": ".247",
+        "h": "145",
+        "1b": "99",
         "2b": "16",
         "3b": "4",
         "hr": "26",
         "so": "139",
-        "bipballs in play": "450",
+        "bipballs in play": "452",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-04-30 19:40:42.243147"
+        "updated": "2025-04-30 19:40:51.586055"
     },
     "kc @ tb": [
         {
@@ -1425,7 +1425,7 @@
             "team": "stl",
             "start": "6:40 PM",
             "in": "3",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "75.1",
             "la": "-34",
             "dist": "4"
@@ -8647,6 +8647,21 @@
     ],
     "chc @ pit": [
         {
+            "player": "pete crow armstrong",
+            "game": "chc @ pit",
+            "hr/park": "0/30",
+            "pa": "28",
+            "dt": "2025-04-30 19:40:50",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "Lineout",
+            "evo": "103.8",
+            "la": "21",
+            "dist": "324"
+        },
+        {
             "player": "nico hoerner",
             "game": "chc @ pit",
             "hr/park": "",
@@ -8656,10 +8671,10 @@
             "team": "chc",
             "start": "6:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "96.8",
+            "la": "3",
+            "dist": "100"
         },
         {
             "player": "carson kelly",
