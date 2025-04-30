@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "22",
         "batters": "140",
-        "pitches": "1116",
+        "pitches": "1124",
         "max velomax pitch velocity": "98.4",
         "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "34.5",
-        "si%sinker %": "14.8",
+        "ff%fourseam fastball %": "34.3",
+        "si%sinker %": "14.9",
         "fc%cutter %": "7.4",
-        "fs%splitter %": "7.1",
-        "ch%changeup %": "9.2",
+        "fs%splitter %": "7.0",
+        "ch%changeup %": "9.3",
         "sl%slider %": "15.7",
         "cu%curve %": "11.2",
         "max evmax exit velocity": "111.8",
-        "hhhard hit": "112",
-        "hh%hard hit %": "51.1",
+        "hhhard hit": "114",
+        "hh%hard hit %": "51.6",
         "brlbarrels": "25",
-        "brl%barrel %": "11.4",
+        "brl%barrel %": "11.3",
         "ab": "269",
         "avg": ".268",
         "h": "72",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "24",
         "so": "47",
-        "bipballs in play": "219",
+        "bipballs in play": "221",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-29 20:24:47.869099"
+        "updated": "2025-04-29 20:24:55.800567"
     },
     "kc @ tb": [
         {
@@ -2756,6 +2756,21 @@
     ],
     "bos @ tor": [
         {
+            "player": "kristian campbell",
+            "game": "bos @ tor",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-04-29 20:24:51",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:07 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "wilyer abreu",
             "game": "bos @ tor",
             "hr/park": "",
@@ -2765,7 +2780,7 @@
             "team": "bos",
             "start": "7:07 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3353,9 +3368,9 @@
             "start": "7:10 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "100.2",
+            "la": "4",
+            "dist": "96"
         },
         {
             "player": "pavin smith",
@@ -3939,10 +3954,10 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "96.1",
+            "la": "3",
+            "dist": "66"
         },
         {
             "player": "isaac collins",
@@ -4256,7 +4271,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
