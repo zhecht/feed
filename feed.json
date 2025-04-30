@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "20",
         "batters": "129",
-        "pitches": "912",
+        "pitches": "924",
         "max velomax pitch velocity": "98.4",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "34.4",
         "si%sinker %": "15.2",
-        "fc%cutter %": "7.2",
-        "fs%splitter %": "7.9",
-        "ch%changeup %": "8.8",
+        "fc%cutter %": "7.3",
+        "fs%splitter %": "7.8",
+        "ch%changeup %": "8.7",
         "sl%slider %": "15.9",
-        "cu%curve %": "10.4",
+        "cu%curve %": "10.7",
         "max evmax exit velocity": "111.8",
         "hhhard hit": "96",
-        "hh%hard hit %": "51.9",
+        "hh%hard hit %": "51.3",
         "brlbarrels": "23",
-        "brl%barrel %": "12.4",
-        "ab": "230",
-        "avg": ".278",
+        "brl%barrel %": "12.3",
+        "ab": "231",
+        "avg": ".277",
         "h": "64",
         "1b": "31",
         "2b": "10",
         "3b": "1",
         "hr": "22",
-        "so": "41",
-        "bipballs in play": "185",
+        "so": "42",
+        "bipballs in play": "187",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-29 20:13:35.569904"
+        "updated": "2025-04-29 20:13:43.474452"
     },
     "kc @ tb": [
         {
@@ -554,10 +554,10 @@
             "team": "bal",
             "start": "6:35 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "86.9",
+            "la": "6",
+            "dist": "130"
         },
         {
             "player": "ryan mountcastle",
@@ -1818,7 +1818,7 @@
             "team": "wsh",
             "start": "6:45 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2440,6 +2440,21 @@
         }
     ],
     "bos @ tor": [
+        {
+            "player": "alejandro kirk",
+            "game": "bos @ tor",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-04-29 20:13:38",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "george springer",
             "game": "bos @ tor",
@@ -3459,10 +3474,10 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "81.8",
+            "la": "68",
+            "dist": "108"
         },
         {
             "player": "lenyn sosa",
@@ -3748,7 +3763,7 @@
             "team": "det",
             "start": "8:10 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
