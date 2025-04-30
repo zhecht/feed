@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "39",
         "batters": "116",
-        "pitches": "1520",
+        "pitches": "1522",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "72.5",
         "ff%fourseam fastball %": "28.5",
@@ -13,11 +13,11 @@
         "sl%slider %": "25.7",
         "cu%curve %": "9.0",
         "max evmax exit velocity": "111.3",
-        "hhhard hit": "100",
-        "hh%hard hit %": "36.8",
+        "hhhard hit": "101",
+        "hh%hard hit %": "37.0",
         "brlbarrels": "29",
-        "brl%barrel %": "10.7",
-        "ab": "355",
+        "brl%barrel %": "10.6",
+        "ab": "356",
         "avg": ".239",
         "h": "85",
         "1b": "60",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "16",
         "so": "87",
-        "bipballs in play": "272",
+        "bipballs in play": "273",
         "liveGames": 6,
         "totGames": 16,
-        "updated": "2025-04-30 17:53:47.523747"
+        "updated": "2025-04-30 17:53:56.020862"
     },
     "kc @ tb": [],
     "stl @ cin": [
@@ -3282,7 +3282,7 @@
         {
             "player": "kyle stowers",
             "game": "mia @ lad",
-            "hr/park": "",
+            "hr/park": "22/30",
             "pa": "77",
             "dt": "2025-04-30 17:53:19",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
@@ -4437,11 +4437,11 @@
     ],
     "laa @ sea": [
         {
-            "player": "mitch garver",
+            "player": "donovan solano",
             "game": "laa @ sea",
             "hr/park": "",
-            "pa": "52",
-            "dt": "2025-04-30 17:53:04",
+            "pa": "53",
+            "dt": "2025-04-30 17:53:50",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "start": "4:10 PM",
@@ -4450,6 +4450,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "mitch garver",
+            "game": "laa @ sea",
+            "hr/park": "1/30",
+            "pa": "52",
+            "dt": "2025-04-30 17:53:04",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "4:10 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "97.2",
+            "la": "27",
+            "dist": "359"
         },
         {
             "player": "randy arozarena",
