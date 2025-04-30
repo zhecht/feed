@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "71",
         "batters": "249",
-        "pitches": "2675",
+        "pitches": "2682",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "27.6",
@@ -11,26 +11,41 @@
         "fs%splitter %": "2.1",
         "ch%changeup %": "13.2",
         "sl%slider %": "22.6",
-        "cu%curve %": "8.3",
+        "cu%curve %": "8.4",
         "max evmax exit velocity": "114.7",
-        "hhhard hit": "188",
-        "hh%hard hit %": "38.9",
+        "hhhard hit": "189",
+        "hh%hard hit %": "39.0",
         "brlbarrels": "51",
-        "brl%barrel %": "10.6",
-        "ab": "628",
-        "avg": ".252",
-        "h": "158",
-        "1b": "108",
-        "2b": "20",
+        "brl%barrel %": "10.5",
+        "ab": "630",
+        "avg": ".254",
+        "h": "160",
+        "1b": "109",
+        "2b": "21",
         "3b": "4",
         "hr": "26",
-        "so": "147",
-        "bipballs in play": "483",
+        "so": "148",
+        "bipballs in play": "485",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-04-30 19:49:27.835273"
+        "updated": "2025-04-30 19:49:37.700970"
     },
     "kc @ tb": [
+        {
+            "player": "maikel garcia",
+            "game": "kc @ tb",
+            "hr/park": "0/30",
+            "pa": "25",
+            "dt": "2025-04-30 19:49:35",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:05 PM",
+            "in": "4",
+            "result": "Double",
+            "evo": "90.3",
+            "la": "21",
+            "dist": "322"
+        },
         {
             "player": "salvador perez",
             "game": "kc @ tb",
@@ -1500,7 +1515,7 @@
             "team": "cin",
             "start": "6:40 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7662,7 +7677,7 @@
             "team": "cle",
             "start": "6:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "99.3",
             "la": "8",
             "dist": "177"
@@ -8871,6 +8886,21 @@
         }
     ],
     "chc @ pit": [
+        {
+            "player": "jared triolo",
+            "game": "chc @ pit",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-04-30 19:49:35",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "tommy pham",
             "game": "chc @ pit",
@@ -10132,10 +10162,10 @@
             "team": "ari",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "95.5",
+            "la": "47",
+            "dist": "248"
         },
         {
             "player": "francisco lindor",
