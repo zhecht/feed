@@ -1,22 +1,22 @@
 {
     "all": {
-        "pitchers": "24",
+        "pitchers": "25",
         "batters": "148",
-        "pitches": "1267",
+        "pitches": "1271",
         "max velomax pitch velocity": "98.4",
         "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "34.8",
+        "ff%fourseam fastball %": "34.7",
         "si%sinker %": "14.9",
-        "fc%cutter %": "6.9",
+        "fc%cutter %": "7.0",
         "fs%splitter %": "6.4",
         "ch%changeup %": "10.0",
         "sl%slider %": "15.9",
         "cu%curve %": "11.0",
         "max evmax exit velocity": "111.8",
-        "hhhard hit": "120",
-        "hh%hard hit %": "48.8",
+        "hhhard hit": "122",
+        "hh%hard hit %": "49.2",
         "brlbarrels": "26",
-        "brl%barrel %": "10.6",
+        "brl%barrel %": "10.5",
         "ab": "299",
         "avg": ".258",
         "h": "77",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "24",
         "so": "52",
-        "bipballs in play": "246",
+        "bipballs in play": "248",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-29 20:33:48.710110"
+        "updated": "2025-04-29 20:33:56.825795"
     },
     "kc @ tb": [
         {
@@ -41,10 +41,10 @@
             "team": "kc",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "95.9",
+            "la": "-18",
+            "dist": "8"
         },
         {
             "player": "brandon lowe",
@@ -2244,6 +2244,21 @@
     ],
     "wsh @ phi": [
         {
+            "player": "cj abrams",
+            "game": "wsh @ phi",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-04-29 20:33:52",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jacob young",
             "game": "wsh @ phi",
             "hr/park": "",
@@ -2998,17 +3013,17 @@
         {
             "player": "bo bichette",
             "game": "bos @ tor",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "44",
             "dt": "2025-04-29 20:33:37",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "start": "7:07 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "104.9",
+            "la": "16",
+            "dist": "309"
         },
         {
             "player": "myles straw",
@@ -4299,7 +4314,7 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
