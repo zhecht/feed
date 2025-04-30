@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "16",
         "batters": "123",
-        "pitches": "832",
+        "pitches": "834",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "35.3",
@@ -10,15 +10,15 @@
         "fc%cutter %": "7.3",
         "fs%splitter %": "8.2",
         "ch%changeup %": "8.3",
-        "sl%slider %": "15.4",
+        "sl%slider %": "15.6",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "111.1",
         "hhhard hit": "89",
         "hh%hard hit %": "51.1",
         "brlbarrels": "21",
         "brl%barrel %": "12.1",
-        "ab": "210",
-        "avg": ".290",
+        "ab": "211",
+        "avg": ".289",
         "h": "61",
         "1b": "30",
         "2b": "10",
@@ -28,7 +28,7 @@
         "bipballs in play": "174",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-04-29 20:07:58.985854"
+        "updated": "2025-04-29 20:08:06.770505"
     },
     "kc @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2773,6 +2773,21 @@
     ],
     "ari @ nym": [
         {
+            "player": "lourdes gurriel",
+            "game": "ari @ nym",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-04-29 20:08:06",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "randal grichuk",
             "game": "ari @ nym",
             "hr/park": "",
@@ -2782,7 +2797,7 @@
             "team": "ari",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "100.1",
             "la": "7",
             "dist": "108"
