@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "21",
         "batters": "131",
-        "pitches": "940",
+        "pitches": "948",
         "max velomax pitch velocity": "98.4",
         "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "34.7",
-        "si%sinker %": "15.1",
-        "fc%cutter %": "7.2",
+        "ff%fourseam fastball %": "34.5",
+        "si%sinker %": "15.0",
+        "fc%cutter %": "7.5",
         "fs%splitter %": "7.7",
-        "ch%changeup %": "8.7",
+        "ch%changeup %": "8.5",
         "sl%slider %": "16.0",
-        "cu%curve %": "10.5",
+        "cu%curve %": "10.7",
         "max evmax exit velocity": "111.8",
         "hhhard hit": "97",
-        "hh%hard hit %": "50.8",
+        "hh%hard hit %": "50.5",
         "brlbarrels": "24",
-        "brl%barrel %": "12.6",
-        "ab": "235",
-        "avg": ".277",
+        "brl%barrel %": "12.5",
+        "ab": "236",
+        "avg": ".275",
         "h": "65",
         "1b": "31",
         "2b": "10",
         "3b": "1",
         "hr": "23",
         "so": "42",
-        "bipballs in play": "191",
+        "bipballs in play": "192",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-04-29 20:14:46.973982"
+        "updated": "2025-04-29 20:14:54.692018"
     },
     "kc @ tb": [
         {
@@ -544,21 +544,6 @@
     ],
     "min @ cle": [],
     "nyy @ bal": [
-        {
-            "player": "ramon urias",
-            "game": "nyy @ bal",
-            "hr/park": "",
-            "pa": "48",
-            "dt": "2025-04-29 20:14:07",
-            "img": "https://www.mlbstatic.com/team-logos/110.svg",
-            "team": "bal",
-            "start": "6:35 PM",
-            "in": "5",
-            "result": "Groundout",
-            "evo": "43.3",
-            "la": "-23",
-            "dist": "8"
-        },
         {
             "player": "ramon laureano",
             "game": "nyy @ bal",
@@ -1276,10 +1261,10 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "84.1",
+            "la": "9",
+            "dist": "129"
         },
         {
             "player": "matt gorski",
@@ -1838,6 +1823,21 @@
         }
     ],
     "wsh @ phi": [
+        {
+            "player": "nathaniel lowe",
+            "game": "wsh @ phi",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-04-29 20:14:52",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "keibert ruiz",
             "game": "wsh @ phi",
@@ -2471,6 +2471,21 @@
     ],
     "bos @ tor": [
         {
+            "player": "daulton varsho",
+            "game": "bos @ tor",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-04-29 20:14:52",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alejandro kirk",
             "game": "bos @ tor",
             "hr/park": "",
@@ -2480,10 +2495,10 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "51.9",
+            "la": "-7",
+            "dist": "18"
         },
         {
             "player": "george springer",
