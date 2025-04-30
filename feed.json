@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "64",
         "batters": "213",
-        "pitches": "2573",
+        "pitches": "2579",
         "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "34.9",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.2",
         "max evmax exit velocity": "116.5",
         "hhhard hit": "222",
-        "hh%hard hit %": "46.3",
+        "hh%hard hit %": "46.1",
         "brlbarrels": "35",
         "brl%barrel %": "7.3",
-        "ab": "604",
-        "avg": ".257",
+        "ab": "605",
+        "avg": ".256",
         "h": "155",
         "1b": "98",
         "2b": "25",
         "3b": "2",
         "hr": "30",
-        "so": "131",
-        "bipballs in play": "480",
+        "so": "132",
+        "bipballs in play": "482",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-04-29 21:44:48.495956"
+        "updated": "2025-04-29 21:44:58.061228"
     },
     "kc @ tb": [
         {
@@ -7196,9 +7196,9 @@
             "start": "7:40 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "64.2",
+            "la": "-20",
+            "dist": "7"
         },
         {
             "player": "lenyn sosa",
@@ -8774,7 +8774,7 @@
             "team": "det",
             "start": "8:10 PM",
             "in": "6",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "105.6",
             "la": "-2",
             "dist": "36"
@@ -9427,6 +9427,21 @@
     ],
     "atl @ col": [
         {
+            "player": "sean murphy",
+            "game": "atl @ col",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-04-29 21:44:53",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "8:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ozzie albies",
             "game": "atl @ col",
             "hr/park": "",
@@ -10008,7 +10023,7 @@
             "team": "laa",
             "start": "9:40 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10040,10 +10055,10 @@
             "team": "sf",
             "start": "9:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "92.4",
+            "la": "65",
+            "dist": "160"
         },
         {
             "player": "mike yastrzemski",
