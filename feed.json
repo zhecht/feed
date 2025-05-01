@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "100",
+        "pitchers": "101",
         "batters": "289",
-        "pitches": "3777",
+        "pitches": "3779",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "27.6",
-        "si%sinker %": "18.0",
+        "si%sinker %": "17.9",
         "fc%cutter %": "8.0",
         "fs%splitter %": "2.4",
-        "ch%changeup %": "13.4",
-        "sl%slider %": "22.4",
-        "cu%curve %": "8.2",
+        "ch%changeup %": "13.3",
+        "sl%slider %": "22.5",
+        "cu%curve %": "8.3",
         "max evmax exit velocity": "114.7",
-        "hhhard hit": "270",
-        "hh%hard hit %": "39.4",
-        "brlbarrels": "65",
-        "brl%barrel %": "9.5",
-        "ab": "895",
-        "avg": ".241",
-        "h": "216",
+        "hhhard hit": "269",
+        "hh%hard hit %": "39.3",
+        "brlbarrels": "64",
+        "brl%barrel %": "9.3",
+        "ab": "896",
+        "avg": ".240",
+        "h": "215",
         "1b": "150",
         "2b": "27",
         "3b": "4",
-        "hr": "35",
+        "hr": "34",
         "so": "217",
         "bipballs in play": "685",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-04-30 20:57:34.703436"
+        "updated": "2025-04-30 20:57:45.927063"
     },
     "kc @ tb": [
         {
@@ -2031,6 +2031,21 @@
     ],
     "stl @ cin-gm2": [
         {
+            "player": "masyn winn",
+            "game": "stl @ cin-gm2",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-04-30 20:57:38",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "yohel pozo",
             "game": "stl @ cin-gm2",
             "hr/park": "",
@@ -2040,10 +2055,10 @@
             "team": "stl",
             "start": "6:40 PM",
             "in": "9",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "83.0",
+            "la": "61",
+            "dist": "156"
         },
         {
             "player": "victor scott",
@@ -10612,6 +10627,21 @@
     ],
     "chc @ pit": [
         {
+            "player": "joey bart",
+            "game": "chc @ pit",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-04-30 20:57:38",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andrew mccutchen",
             "game": "chc @ pit",
             "hr/park": "",
@@ -12535,21 +12565,6 @@
         }
     ],
     "bos @ tor": [
-        {
-            "player": "alejandro kirk",
-            "game": "bos @ tor",
-            "hr/park": "",
-            "pa": "52",
-            "dt": "2025-04-30 20:57:21",
-            "img": "https://www.mlbstatic.com/team-logos/141.svg",
-            "team": "tor",
-            "start": "7:07 PM",
-            "in": "6",
-            "result": "Home Run",
-            "evo": "106.4",
-            "la": "22",
-            "dist": "424"
-        },
         {
             "player": "daulton varsho",
             "game": "bos @ tor",
@@ -14606,7 +14621,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
