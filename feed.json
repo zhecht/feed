@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "87",
-        "batters": "278",
-        "pitches": "3305",
+        "batters": "277",
+        "pitches": "3308",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "27.7",
-        "si%sinker %": "18.5",
+        "si%sinker %": "18.4",
         "fc%cutter %": "7.5",
         "fs%splitter %": "2.1",
         "ch%changeup %": "13.6",
-        "sl%slider %": "22.1",
+        "sl%slider %": "22.2",
         "cu%curve %": "8.4",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "237",
         "hh%hard hit %": "39.8",
         "brlbarrels": "60",
         "brl%barrel %": "10.1",
-        "ab": "783",
-        "avg": ".244",
+        "ab": "781",
+        "avg": ".245",
         "h": "191",
         "1b": "132",
         "2b": "24",
@@ -28,7 +28,7 @@
         "bipballs in play": "596",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-04-30 20:27:04.663735"
+        "updated": "2025-04-30 20:27:15.233392"
     },
     "kc @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9200,6 +9200,21 @@
     ],
     "nyy @ bal": [
         {
+            "player": "austin wells",
+            "game": "nyy @ bal",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-04-30 20:27:08",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "6:35 PM",
+            "in": "6",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "anthony volpe",
             "game": "nyy @ bal",
             "hr/park": "",
@@ -9209,10 +9224,10 @@
             "team": "nyy",
             "start": "6:35 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "108.3",
+            "la": "6",
+            "dist": "134"
         },
         {
             "player": "ben rice",
@@ -9951,36 +9966,6 @@
         }
     ],
     "chc @ pit": [
-        {
-            "player": "tommy pham",
-            "game": "chc @ pit",
-            "hr/park": "",
-            "pa": "50",
-            "dt": "2025-04-30 20:26:35",
-            "img": "https://www.mlbstatic.com/team-logos/134.svg",
-            "team": "pit",
-            "start": "6:40 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
-            "player": "enmanuel valdez",
-            "game": "chc @ pit",
-            "hr/park": "",
-            "pa": "49",
-            "dt": "2025-04-30 20:26:20",
-            "img": "https://www.mlbstatic.com/team-logos/134.svg",
-            "team": "pit",
-            "start": "6:40 PM",
-            "in": "6",
-            "result": "Single",
-            "evo": "106.8",
-            "la": "3",
-            "dist": "70"
-        },
         {
             "player": "kebryan hayes",
             "game": "chc @ pit",
