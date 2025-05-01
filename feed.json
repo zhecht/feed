@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "51",
         "batters": "135",
-        "pitches": "1863",
+        "pitches": "1864",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "60.5",
-        "ff%fourseam fastball %": "34.6",
+        "ff%fourseam fastball %": "34.5",
         "si%sinker %": "11.5",
         "fc%cutter %": "10.7",
         "fs%splitter %": "5.3",
-        "ch%changeup %": "8.1",
-        "sl%slider %": "19.1",
+        "ch%changeup %": "8.0",
+        "sl%slider %": "19.0",
         "cu%curve %": "10.4",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "140",
-        "hh%hard hit %": "40.2",
+        "hh%hard hit %": "40.1",
         "brlbarrels": "28",
         "brl%barrel %": "8.0",
         "ab": "426",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "15",
         "so": "83",
-        "bipballs in play": "348",
+        "bipballs in play": "349",
         "liveGames": 7,
         "totGames": 11,
-        "updated": "2025-05-01 16:25:39.881799"
+        "updated": "2025-05-01 16:25:49.198221"
     },
     "kc @ tb": [
         {
@@ -2420,6 +2420,21 @@
         }
     ],
     "stl @ cin": [
+        {
+            "player": "brendan donovan",
+            "game": "stl @ cin",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-05-01 16:25:47",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "12:40 PM",
+            "in": "8",
+            "result": "Groundout",
+            "evo": "83.7",
+            "la": "5",
+            "dist": "84"
+        },
         {
             "player": "masyn winn",
             "game": "stl @ cin",
@@ -5487,21 +5502,6 @@
     ],
     "mil @ chw": [
         {
-            "player": "chase meidroth",
-            "game": "mil @ chw",
-            "hr/park": "",
-            "pa": "65",
-            "dt": "2025-05-01 16:25:34",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "start": "2:10 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "michael a taylor",
             "game": "mil @ chw",
             "hr/park": "",
@@ -5511,7 +5511,7 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "8",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "72.5",
             "la": "-28",
             "dist": "6"
