@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "77",
         "batters": "259",
-        "pitches": "2980",
+        "pitches": "2984",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "27.6",
         "si%sinker %": "19.2",
         "fc%cutter %": "7.3",
         "fs%splitter %": "2.0",
-        "ch%changeup %": "13.2",
+        "ch%changeup %": "13.1",
         "sl%slider %": "22.4",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "211",
-        "hh%hard hit %": "39.1",
+        "hh%hard hit %": "39.0",
         "brlbarrels": "56",
         "brl%barrel %": "10.4",
-        "ab": "700",
+        "ab": "702",
         "avg": ".251",
         "h": "176",
         "1b": "120",
         "2b": "23",
         "3b": "4",
         "hr": "29",
-        "so": "165",
-        "bipballs in play": "539",
+        "so": "166",
+        "bipballs in play": "541",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-04-30 20:09:16.782584"
+        "updated": "2025-04-30 20:09:27.135787"
     },
     "kc @ tb": [
         {
@@ -1701,6 +1701,21 @@
     ],
     "stl @ cin-gm2": [
         {
+            "player": "tj friedl",
+            "game": "stl @ cin-gm2",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-04-30 20:09:20",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "Pop Out",
+            "evo": "69.1",
+            "la": "40",
+            "dist": "213"
+        },
+        {
             "player": "blake dunn",
             "game": "stl @ cin-gm2",
             "hr/park": "",
@@ -1710,7 +1725,7 @@
             "team": "cin",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10059,6 +10074,21 @@
     ],
     "wsh @ phi": [
         {
+            "player": "nick castellanos",
+            "game": "wsh @ phi",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-04-30 20:09:20",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "92.7",
+            "la": "-32",
+            "dist": "4"
+        },
+        {
             "player": "kyle schwarber",
             "game": "wsh @ phi",
             "hr/park": "",
@@ -10068,7 +10098,7 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "95.3",
             "la": "-18",
             "dist": "7"
