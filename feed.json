@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "99",
         "batters": "289",
-        "pitches": "3730",
+        "pitches": "3734",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "27.7",
         "si%sinker %": "17.9",
         "fc%cutter %": "7.9",
         "fs%splitter %": "2.4",
-        "ch%changeup %": "13.1",
+        "ch%changeup %": "13.2",
         "sl%slider %": "22.5",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "265",
-        "hh%hard hit %": "39.3",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "63",
         "brl%barrel %": "9.3",
         "ab": "886",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "33",
         "so": "216",
-        "bipballs in play": "675",
+        "bipballs in play": "676",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-04-30 20:53:44.702111"
+        "updated": "2025-04-30 20:53:56.409394"
     },
     "kc @ tb": [
         {
@@ -2025,10 +2025,10 @@
             "team": "cin",
             "start": "6:40 PM",
             "in": "8",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "90.1",
+            "la": "-38",
+            "dist": "5"
         },
         {
             "player": "tyler callihan",
@@ -9644,7 +9644,7 @@
             "team": "nyy",
             "start": "6:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Pickoff Error 1B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11439,21 +11439,6 @@
     ],
     "wsh @ phi": [
         {
-            "player": "edmundo sosa",
-            "game": "wsh @ phi",
-            "hr/park": "",
-            "pa": "67",
-            "dt": "2025-04-30 20:53:37",
-            "img": "https://www.mlbstatic.com/team-logos/143.svg",
-            "team": "phi",
-            "start": "6:45 PM",
-            "in": "8",
-            "result": "Groundout",
-            "evo": "83.7",
-            "la": "-44",
-            "dist": "3"
-        },
-        {
             "player": "max kepler",
             "game": "wsh @ phi",
             "hr/park": "",
@@ -11463,7 +11448,7 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "8",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "109.3",
             "la": "-1",
             "dist": "43"
@@ -13919,6 +13904,21 @@
         }
     ],
     "mil @ chw": [
+        {
+            "player": "lenyn sosa",
+            "game": "mil @ chw",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-04-30 20:53:50",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "90.8",
+            "la": "20",
+            "dist": "292"
+        },
         {
             "player": "matt thaiss",
             "game": "mil @ chw",
