@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "3",
-        "batters": "9",
-        "pitches": "24",
+        "pitchers": "4",
+        "batters": "10",
+        "pitches": "25",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "78.6",
-        "ff%fourseam fastball %": "62.5",
-        "si%sinker %": "0.0",
+        "ff%fourseam fastball %": "60.0",
+        "si%sinker %": "4.0",
         "fc%cutter %": "0.0",
-        "fs%splitter %": "4.2",
-        "ch%changeup %": "8.3",
-        "sl%slider %": "16.7",
-        "cu%curve %": "8.3",
+        "fs%splitter %": "4.0",
+        "ch%changeup %": "8.0",
+        "sl%slider %": "16.0",
+        "cu%curve %": "8.0",
         "max evmax exit velocity": "101.2",
         "hhhard hit": "2",
         "hh%hard hit %": "28.6",
         "brlbarrels": "0",
         "brl%barrel %": "0.0",
-        "ab": "8",
-        "avg": ".125",
+        "ab": "9",
+        "avg": ".111",
         "h": "1",
         "1b": "1",
         "2b": "0",
@@ -28,7 +28,7 @@
         "bipballs in play": "7",
         "liveGames": 2,
         "totGames": 11,
-        "updated": "2025-05-01 12:46:41.875788"
+        "updated": "2025-05-01 12:46:49.106936"
     },
     "kc @ tb": [],
     "chc @ pit": [
@@ -42,7 +42,7 @@
             "team": "pit",
             "start": "12:35 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "90.9",
             "la": "8",
             "dist": "123"
@@ -109,6 +109,21 @@
         }
     ],
     "stl @ cin": [
+        {
+            "player": "tj friedl",
+            "game": "stl @ cin",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-05-01 12:46:46",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "12:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "nolan arenado",
             "game": "stl @ cin",
