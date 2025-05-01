@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "78",
+        "pitchers": "79",
         "batters": "261",
-        "pitches": "2994",
+        "pitches": "3002",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "70.0",
-        "ff%fourseam fastball %": "27.7",
+        "ff%fourseam fastball %": "27.6",
         "si%sinker %": "19.2",
         "fc%cutter %": "7.3",
-        "fs%splitter %": "2.0",
+        "fs%splitter %": "2.1",
         "ch%changeup %": "13.1",
         "sl%slider %": "22.4",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "211",
-        "hh%hard hit %": "39.0",
+        "hh%hard hit %": "38.9",
         "brlbarrels": "56",
-        "brl%barrel %": "10.4",
-        "ab": "705",
-        "avg": ".252",
+        "brl%barrel %": "10.3",
+        "ab": "709",
+        "avg": ".251",
         "h": "178",
         "1b": "122",
         "2b": "23",
         "3b": "4",
         "hr": "29",
-        "so": "166",
-        "bipballs in play": "541",
+        "so": "167",
+        "bipballs in play": "543",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-04-30 20:10:18.980545"
+        "updated": "2025-04-30 20:10:29.283536"
     },
     "kc @ tb": [
+        {
+            "player": "jose caballero",
+            "game": "kc @ tb",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-04-30 20:09:50",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "curtis mead",
             "game": "kc @ tb",
@@ -41,10 +56,10 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "71.8",
+            "la": "48",
+            "dist": "204"
         },
         {
             "player": "danny jansen",
@@ -8058,6 +8073,21 @@
     ],
     "min @ cle": [
         {
+            "player": "brooks lee",
+            "game": "min @ cle",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-04-30 20:10:22",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "6:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "angel martinez",
             "game": "min @ cle",
             "hr/park": "",
@@ -8839,6 +8869,21 @@
         }
     ],
     "nyy @ bal": [
+        {
+            "player": "ryan ohearn",
+            "game": "nyy @ bal",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-04-30 20:10:22",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "adley rutschman",
             "game": "nyy @ bal",
@@ -11580,6 +11625,21 @@
     ],
     "mil @ chw": [
         {
+            "player": "jackson chourio",
+            "game": "mil @ chw",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-04-30 20:10:22",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "GIDP",
+            "evo": "93.2",
+            "la": "2",
+            "dist": "66"
+        },
+        {
             "player": "isaac collins",
             "game": "mil @ chw",
             "hr/park": "",
@@ -11801,7 +11861,7 @@
             "team": "ath",
             "start": "8:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
