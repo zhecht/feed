@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "36",
+        "pitchers": "37",
         "batters": "132",
-        "pitches": "1553",
+        "pitches": "1558",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "68.9",
-        "ff%fourseam fastball %": "37.0",
+        "ff%fourseam fastball %": "36.9",
         "si%sinker %": "10.6",
         "fc%cutter %": "10.0",
         "fs%splitter %": "5.5",
-        "ch%changeup %": "7.0",
-        "sl%slider %": "18.7",
+        "ch%changeup %": "7.1",
+        "sl%slider %": "18.6",
         "cu%curve %": "10.8",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "119",
-        "hh%hard hit %": "40.9",
+        "hhhard hit": "120",
+        "hh%hard hit %": "41.1",
         "brlbarrels": "25",
         "brl%barrel %": "8.6",
-        "ab": "356",
-        "avg": ".225",
+        "ab": "357",
+        "avg": ".224",
         "h": "80",
         "1b": "54",
         "2b": "14",
         "3b": "0",
         "hr": "12",
-        "so": "67",
-        "bipballs in play": "291",
+        "so": "68",
+        "bipballs in play": "292",
         "liveGames": 7,
         "totGames": 11,
-        "updated": "2025-05-01 15:41:42.539095"
+        "updated": "2025-05-01 15:41:50.812559"
     },
     "kc @ tb": [
         {
@@ -3002,7 +3002,7 @@
             "team": "nym",
             "start": "1:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4000,6 +4000,21 @@
     ],
     "min @ cle": [
         {
+            "player": "brooks lee",
+            "game": "min @ cle",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-05-01 15:41:17",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "1:10 PM",
+            "in": "8",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "steven kwan",
             "game": "min @ cle",
             "hr/park": "",
@@ -4911,10 +4926,10 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "96.3",
+            "la": "20",
+            "dist": "293"
         },
         {
             "player": "william contreras",
