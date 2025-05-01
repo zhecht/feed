@@ -1,17 +1,17 @@
 {
     "all": {
         "pitchers": "4",
-        "batters": "20",
-        "pitches": "63",
-        "max velomax pitch velocity": "98.7",
+        "batters": "21",
+        "pitches": "66",
+        "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "77.4",
-        "ff%fourseam fastball %": "47.6",
-        "si%sinker %": "7.9",
-        "fc%cutter %": "1.6",
-        "fs%splitter %": "3.2",
-        "ch%changeup %": "11.1",
-        "sl%slider %": "14.3",
-        "cu%curve %": "14.3",
+        "ff%fourseam fastball %": "50.0",
+        "si%sinker %": "7.6",
+        "fc%cutter %": "1.5",
+        "fs%splitter %": "3.0",
+        "ch%changeup %": "10.6",
+        "sl%slider %": "13.6",
+        "cu%curve %": "13.6",
         "max evmax exit velocity": "106.7",
         "hhhard hit": "4",
         "hh%hard hit %": "28.6",
@@ -28,10 +28,25 @@
         "bipballs in play": "14",
         "liveGames": 2,
         "totGames": 11,
-        "updated": "2025-05-01 12:56:55.992233"
+        "updated": "2025-05-01 12:57:03.016821"
     },
     "kc @ tb": [],
     "chc @ pit": [
+        {
+            "player": "miguel amaya",
+            "game": "chc @ pit",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-05-01 12:57:01",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "12:35 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "pete crow armstrong",
             "game": "chc @ pit",
@@ -42,7 +57,7 @@
             "team": "chc",
             "start": "12:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "69.5",
             "la": "50",
             "dist": "192"
@@ -194,7 +209,7 @@
             "team": "stl",
             "start": "12:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
