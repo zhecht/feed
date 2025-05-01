@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "41",
         "batters": "133",
-        "pitches": "1655",
+        "pitches": "1661",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "68.9",
         "ff%fourseam fastball %": "35.8",
         "si%sinker %": "10.8",
-        "fc%cutter %": "10.6",
+        "fc%cutter %": "10.5",
         "fs%splitter %": "5.3",
         "ch%changeup %": "7.7",
         "sl%slider %": "18.7",
-        "cu%curve %": "10.6",
+        "cu%curve %": "10.7",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "127",
-        "hh%hard hit %": "41.2",
+        "hh%hard hit %": "41.1",
         "brlbarrels": "26",
         "brl%barrel %": "8.4",
-        "ab": "379",
+        "ab": "380",
         "avg": ".224",
         "h": "85",
         "1b": "57",
         "2b": "15",
         "3b": "0",
         "hr": "13",
-        "so": "72",
-        "bipballs in play": "308",
+        "so": "74",
+        "bipballs in play": "309",
         "liveGames": 7,
         "totGames": 11,
-        "updated": "2025-05-01 15:51:46.427947"
+        "updated": "2025-05-01 15:51:55.140749"
     },
     "kc @ tb": [
         {
@@ -2421,6 +2421,21 @@
     ],
     "stl @ cin": [
         {
+            "player": "spencer steer",
+            "game": "stl @ cin",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-05-01 15:51:49",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "12:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "santiago espinal",
             "game": "stl @ cin",
             "hr/park": "",
@@ -2430,7 +2445,7 @@
             "team": "cin",
             "start": "12:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3137,7 +3152,7 @@
             "team": "ari",
             "start": "1:10 PM",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5159,7 +5174,7 @@
         {
             "player": "miguel vargas",
             "game": "mil @ chw",
-            "hr/park": "",
+            "hr/park": "18/30",
             "pa": "46",
             "dt": "2025-05-01 15:51:04",
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
@@ -5167,9 +5182,9 @@
             "start": "2:10 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "94.6",
+            "la": "33",
+            "dist": "367"
         },
         {
             "player": "andrew vaughn",
@@ -5858,7 +5873,7 @@
             "team": "tex",
             "start": "2:35 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
