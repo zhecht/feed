@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "21",
         "batters": "111",
-        "pitches": "964",
+        "pitches": "970",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "68.9",
-        "ff%fourseam fastball %": "38.2",
+        "ff%fourseam fastball %": "38.5",
         "si%sinker %": "9.2",
-        "fc%cutter %": "8.7",
+        "fc%cutter %": "8.6",
         "fs%splitter %": "6.0",
-        "ch%changeup %": "7.8",
-        "sl%slider %": "15.8",
-        "cu%curve %": "13.8",
+        "ch%changeup %": "7.7",
+        "sl%slider %": "15.9",
+        "cu%curve %": "13.7",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "72",
-        "hh%hard hit %": "40.4",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "19",
-        "brl%barrel %": "10.7",
-        "ab": "215",
-        "avg": ".223",
+        "brl%barrel %": "10.6",
+        "ab": "217",
+        "avg": ".221",
         "h": "48",
         "1b": "29",
         "2b": "10",
         "3b": "0",
         "hr": "9",
-        "so": "35",
-        "bipballs in play": "178",
+        "so": "36",
+        "bipballs in play": "180",
         "liveGames": 7,
         "totGames": 11,
-        "updated": "2025-05-01 14:46:15.651108"
+        "updated": "2025-05-01 14:46:23.320014"
     },
     "kc @ tb": [
         {
@@ -769,6 +769,21 @@
     ],
     "chc @ pit": [
         {
+            "player": "enmanuel valdez",
+            "game": "chc @ pit",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-05-01 14:46:18",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "12:35 PM",
+            "in": "8",
+            "result": "Mound Visit",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andrew mccutchen",
             "game": "chc @ pit",
             "hr/park": "",
@@ -778,10 +793,10 @@
             "team": "pit",
             "start": "12:35 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "56.2",
+            "la": "-35",
+            "dist": "5"
         },
         {
             "player": "bryan reynolds",
@@ -2183,6 +2198,21 @@
     ],
     "ari @ nym": [
         {
+            "player": "tyrone taylor",
+            "game": "ari @ nym",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-05-01 14:46:18",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "1:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jeff mcneil",
             "game": "ari @ nym",
             "hr/park": "",
@@ -2192,7 +2222,7 @@
             "team": "nym",
             "start": "1:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2809,7 +2839,7 @@
             "team": "min",
             "start": "1:10 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3456,10 +3486,10 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "78.4",
+            "la": "30",
+            "dist": "256"
         },
         {
             "player": "eric haase",
