@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "84",
+        "pitchers": "85",
         "batters": "271",
-        "pitches": "3166",
+        "pitches": "3174",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "27.4",
         "si%sinker %": "19.0",
         "fc%cutter %": "7.3",
         "fs%splitter %": "2.1",
-        "ch%changeup %": "13.6",
-        "sl%slider %": "22.2",
+        "ch%changeup %": "13.5",
+        "sl%slider %": "22.3",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "114.7",
-        "hhhard hit": "224",
-        "hh%hard hit %": "39.1",
+        "hhhard hit": "225",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "59",
         "brl%barrel %": "10.3",
-        "ab": "746",
-        "avg": ".252",
+        "ab": "750",
+        "avg": ".251",
         "h": "188",
         "1b": "129",
         "2b": "24",
         "3b": "4",
         "hr": "31",
-        "so": "178",
-        "bipballs in play": "573",
+        "so": "179",
+        "bipballs in play": "574",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-04-30 20:19:56.714464"
+        "updated": "2025-04-30 20:20:07.153533"
     },
     "kc @ tb": [
+        {
+            "player": "hunter renfroe",
+            "game": "kc @ tb",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-04-30 20:20:05",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "drew waters",
             "game": "kc @ tb",
@@ -41,7 +56,7 @@
             "team": "kc",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8193,6 +8208,21 @@
     ],
     "min @ cle": [
         {
+            "player": "steven kwan",
+            "game": "min @ cle",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-04-30 20:20:05",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "byron buxton",
             "game": "min @ cle",
             "hr/park": "",
@@ -9034,6 +9064,21 @@
         }
     ],
     "nyy @ bal": [
+        {
+            "player": "heston kjerstad",
+            "game": "nyy @ bal",
+            "hr/park": "0/30",
+            "pa": "48",
+            "dt": "2025-04-30 20:19:07",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:35 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "96.0",
+            "la": "42",
+            "dist": "316"
+        },
         {
             "player": "ryan mountcastle",
             "game": "nyy @ bal",
@@ -11186,6 +11231,21 @@
     ],
     "bos @ tor": [
         {
+            "player": "carlos narvaez",
+            "game": "bos @ tor",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-04-30 20:20:05",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:07 PM",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ceddanne rafaela",
             "game": "bos @ tor",
             "hr/park": "0/30",
@@ -11647,7 +11707,7 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "4",
-            "result": "Forceout",
+            "result": "In Progress",
             "evo": "75.4",
             "la": "-17",
             "dist": "6"
