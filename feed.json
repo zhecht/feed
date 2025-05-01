@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "93",
+        "pitchers": "94",
         "batters": "284",
-        "pitches": "3561",
+        "pitches": "3567",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "27.7",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.7",
         "fs%splitter %": "2.5",
         "ch%changeup %": "13.4",
-        "sl%slider %": "22.2",
+        "sl%slider %": "22.3",
         "cu%curve %": "8.4",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "248",
         "hh%hard hit %": "38.8",
         "brlbarrels": "60",
         "brl%barrel %": "9.4",
-        "ab": "842",
-        "avg": ".241",
+        "ab": "845",
+        "avg": ".240",
         "h": "203",
         "1b": "142",
         "2b": "26",
         "3b": "4",
         "hr": "31",
         "so": "209",
-        "bipballs in play": "639",
+        "bipballs in play": "640",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-04-30 20:43:03.024836"
+        "updated": "2025-04-30 20:43:14.044215"
     },
     "kc @ tb": [
         {
@@ -9494,7 +9494,7 @@
             "team": "nyy",
             "start": "6:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10342,9 +10342,24 @@
     ],
     "chc @ pit": [
         {
-            "player": "adam frazier",
+            "player": "isiah kiner falefa",
             "game": "chc @ pit",
             "hr/park": "",
+            "pa": "56",
+            "dt": "2025-04-30 20:43:06",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "adam frazier",
+            "game": "chc @ pit",
+            "hr/park": "0/30",
             "pa": "55",
             "dt": "2025-04-30 20:41:05",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
@@ -11168,6 +11183,21 @@
         }
     ],
     "wsh @ phi": [
+        {
+            "player": "james wood",
+            "game": "wsh @ phi",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-04-30 20:42:36",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "nick castellanos",
             "game": "wsh @ phi",
@@ -12085,6 +12115,21 @@
         }
     ],
     "bos @ tor": [
+        {
+            "player": "kristian campbell",
+            "game": "bos @ tor",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-04-30 20:43:06",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:07 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "88.5",
+            "la": "56",
+            "dist": "213"
+        },
         {
             "player": "bo bichette",
             "game": "bos @ tor",
