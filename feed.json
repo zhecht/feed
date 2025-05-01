@@ -2,15 +2,15 @@
     "all": {
         "pitchers": "1",
         "batters": "3",
-        "pitches": "7",
+        "pitches": "8",
         "max velomax pitch velocity": "98.2",
         "min velomin pitch velocity": "83.6",
-        "ff%fourseam fastball %": "42.9",
+        "ff%fourseam fastball %": "50.0",
         "si%sinker %": "0.0",
         "fc%cutter %": "0.0",
-        "fs%splitter %": "14.3",
-        "ch%changeup %": "14.3",
-        "sl%slider %": "28.6",
+        "fs%splitter %": "12.5",
+        "ch%changeup %": "12.5",
+        "sl%slider %": "25.0",
         "cu%curve %": "0.0",
         "max evmax exit velocity": "101.2",
         "hhhard hit": "1",
@@ -28,7 +28,7 @@
         "bipballs in play": "2",
         "liveGames": 2,
         "totGames": 11,
-        "updated": "2025-05-01 12:41:44.748338"
+        "updated": "2025-05-01 12:41:51.752245"
     },
     "kc @ tb": [],
     "chc @ pit": [
@@ -78,7 +78,23 @@
             "dist": "235"
         }
     ],
-    "stl @ cin": [],
+    "stl @ cin": [
+        {
+            "player": "lars nootbaar",
+            "game": "stl @ cin",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-01 12:41:47",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "12:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "ari @ nym": [],
     "min @ cle": [],
     "mil @ chw": [],
