@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "108",
         "batters": "293",
-        "pitches": "3963",
+        "pitches": "3969",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "28.3",
@@ -10,14 +10,14 @@
         "fc%cutter %": "8.0",
         "fs%splitter %": "2.4",
         "ch%changeup %": "13.3",
-        "sl%slider %": "22.1",
+        "sl%slider %": "22.2",
         "cu%curve %": "8.1",
         "max evmax exit velocity": "114.7",
-        "hhhard hit": "280",
-        "hh%hard hit %": "39.0",
-        "brlbarrels": "65",
-        "brl%barrel %": "9.1",
-        "ab": "941",
+        "hhhard hit": "281",
+        "hh%hard hit %": "39.1",
+        "brlbarrels": "66",
+        "brl%barrel %": "9.2",
+        "ab": "942",
         "avg": ".238",
         "h": "224",
         "1b": "157",
@@ -25,26 +25,26 @@
         "3b": "4",
         "hr": "35",
         "so": "230",
-        "bipballs in play": "718",
+        "bipballs in play": "719",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-04-30 21:11:32.520071"
+        "updated": "2025-04-30 21:11:43.780351"
     },
     "kc @ tb": [
         {
             "player": "junior caminero",
             "game": "kc @ tb",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "66",
             "dt": "2025-04-30 21:09:36",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "start": "7:05 PM",
             "in": "8",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "98.9",
+            "la": "27",
+            "dist": "358"
         },
         {
             "player": "christopher morel",
@@ -13777,7 +13777,7 @@
             "team": "ari",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "102.1",
             "la": "14",
             "dist": "285"
@@ -14589,7 +14589,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Catcher Interference",
             "evo": "",
             "la": "",
             "dist": ""
@@ -15257,6 +15257,21 @@
     ],
     "ath @ tex": [
         {
+            "player": "adolis garcia",
+            "game": "ath @ tex",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-04-30 21:11:36",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh jung",
             "game": "ath @ tex",
             "hr/park": "",
@@ -15266,7 +15281,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "82.0",
             "la": "-4",
             "dist": "30"
