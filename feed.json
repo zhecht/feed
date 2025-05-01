@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "14",
+        "pitchers": "15",
         "batters": "99",
-        "pitches": "758",
+        "pitches": "760",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "68.9",
         "ff%fourseam fastball %": "37.9",
-        "si%sinker %": "10.2",
-        "fc%cutter %": "8.2",
+        "si%sinker %": "10.1",
+        "fc%cutter %": "8.0",
         "fs%splitter %": "6.3",
         "ch%changeup %": "8.0",
-        "sl%slider %": "14.4",
-        "cu%curve %": "14.5",
+        "sl%slider %": "14.5",
+        "cu%curve %": "14.6",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "60",
-        "hh%hard hit %": "42.0",
+        "hh%hard hit %": "41.7",
         "brlbarrels": "16",
-        "brl%barrel %": "11.2",
-        "ab": "173",
-        "avg": ".237",
+        "brl%barrel %": "11.1",
+        "ab": "174",
+        "avg": ".236",
         "h": "41",
         "1b": "23",
         "2b": "9",
         "3b": "0",
         "hr": "9",
         "so": "28",
-        "bipballs in play": "143",
+        "bipballs in play": "144",
         "liveGames": 6,
         "totGames": 11,
-        "updated": "2025-05-01 14:25:54.482840"
+        "updated": "2025-05-01 14:26:02.235192"
     },
     "kc @ tb": [
         {
@@ -618,6 +618,21 @@
         }
     ],
     "chc @ pit": [
+        {
+            "player": "alexander canario",
+            "game": "chc @ pit",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-05-01 14:26:02",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "12:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "michael busch",
             "game": "chc @ pit",
@@ -2389,10 +2404,10 @@
             "team": "cle",
             "start": "1:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "61.3",
+            "la": "-38",
+            "dist": "5"
         },
         {
             "player": "daniel schneemann",
