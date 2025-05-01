@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "77",
-        "batters": "260",
-        "pitches": "2987",
+        "pitchers": "78",
+        "batters": "261",
+        "pitches": "2992",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "27.7",
@@ -11,26 +11,41 @@
         "fs%splitter %": "2.0",
         "ch%changeup %": "13.1",
         "sl%slider %": "22.4",
-        "cu%curve %": "8.2",
+        "cu%curve %": "8.3",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "211",
-        "hh%hard hit %": "39.0",
+        "hh%hard hit %": "38.9",
         "brlbarrels": "56",
-        "brl%barrel %": "10.4",
-        "ab": "702",
-        "avg": ".251",
+        "brl%barrel %": "10.3",
+        "ab": "705",
+        "avg": ".250",
         "h": "176",
         "1b": "120",
         "2b": "23",
         "3b": "4",
         "hr": "29",
         "so": "166",
-        "bipballs in play": "541",
+        "bipballs in play": "542",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-04-30 20:09:47.607776"
+        "updated": "2025-04-30 20:09:57.932128"
     },
     "kc @ tb": [
+        {
+            "player": "jose caballero",
+            "game": "kc @ tb",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-04-30 20:09:50",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "curtis mead",
             "game": "kc @ tb",
@@ -41,10 +56,10 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "71.8",
+            "la": "48",
+            "dist": "204"
         },
         {
             "player": "danny jansen",
@@ -1700,6 +1715,21 @@
         }
     ],
     "stl @ cin-gm2": [
+        {
+            "player": "matt mclain",
+            "game": "stl @ cin-gm2",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-04-30 20:09:50",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "tj friedl",
             "game": "stl @ cin-gm2",
@@ -11760,5 +11790,21 @@
             "dist": "105"
         }
     ],
-    "ath @ tex": []
+    "ath @ tex": [
+        {
+            "player": "lawrence butler",
+            "game": "ath @ tex",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-04-30 20:09:50",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "8:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ]
 }
