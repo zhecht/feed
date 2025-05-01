@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "99",
         "batters": "289",
-        "pitches": "3734",
+        "pitches": "3741",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "27.7",
         "si%sinker %": "17.9",
-        "fc%cutter %": "7.9",
+        "fc%cutter %": "8.0",
         "fs%splitter %": "2.4",
         "ch%changeup %": "13.2",
         "sl%slider %": "22.5",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "265",
-        "hh%hard hit %": "39.2",
+        "hh%hard hit %": "39.1",
         "brlbarrels": "63",
         "brl%barrel %": "9.3",
-        "ab": "886",
+        "ab": "888",
         "avg": ".239",
         "h": "212",
         "1b": "148",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "33",
         "so": "216",
-        "bipballs in play": "676",
+        "bipballs in play": "678",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-04-30 20:53:56.409394"
+        "updated": "2025-04-30 20:54:07.753517"
     },
     "kc @ tb": [
         {
@@ -9637,17 +9637,17 @@
         {
             "player": "ben rice",
             "game": "nyy @ bal",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "61",
             "dt": "2025-04-30 20:52:51",
             "img": "https://www.mlbstatic.com/team-logos/147.svg",
             "team": "nyy",
             "start": "6:35 PM",
             "in": "7",
-            "result": "Pickoff Error 1B",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "86.7",
+            "la": "34",
+            "dist": "315"
         },
         {
             "player": "aaron judge",
@@ -11439,6 +11439,21 @@
     ],
     "wsh @ phi": [
         {
+            "player": "edmundo sosa",
+            "game": "wsh @ phi",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-04-30 20:53:37",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:45 PM",
+            "in": "8",
+            "result": "Groundout",
+            "evo": "83.7",
+            "la": "-44",
+            "dist": "3"
+        },
+        {
             "player": "max kepler",
             "game": "wsh @ phi",
             "hr/park": "",
@@ -11448,7 +11463,7 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "109.3",
             "la": "-1",
             "dist": "43"
@@ -13905,6 +13920,21 @@
     ],
     "mil @ chw": [
         {
+            "player": "brooks baldwin",
+            "game": "mil @ chw",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-04-30 20:54:05",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "lenyn sosa",
             "game": "mil @ chw",
             "hr/park": "",
@@ -13914,7 +13944,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "90.8",
             "la": "20",
             "dist": "292"
