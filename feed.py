@@ -101,7 +101,7 @@ def parseFeed(data, times, games, totGames, soup):
 		home = convertMLBTeam(home.text.strip())
 		game = f"{away} @ {home}"
 		if game in data:
-			game += "-gm2"
+			game = f"{away}-gm2 @ {home}-gm2"
 		data[game] = []
 		#table = div.find("div", class_="exit-velocity-table")
 		table = div.find("div", class_="mini-ev-table")
