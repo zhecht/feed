@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "97",
         "batters": "288",
-        "pitches": "3651",
+        "pitches": "3660",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "27.7",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.8",
         "fs%splitter %": "2.5",
         "ch%changeup %": "13.3",
-        "sl%slider %": "22.5",
+        "sl%slider %": "22.6",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "114.7",
-        "hhhard hit": "255",
-        "hh%hard hit %": "38.8",
+        "hhhard hit": "258",
+        "hh%hard hit %": "39.0",
         "brlbarrels": "62",
         "brl%barrel %": "9.4",
-        "ab": "866",
+        "ab": "869",
         "avg": ".239",
-        "h": "207",
-        "1b": "145",
+        "h": "208",
+        "1b": "146",
         "2b": "26",
         "3b": "4",
         "hr": "32",
         "so": "212",
-        "bipballs in play": "658",
+        "bipballs in play": "662",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-04-30 20:49:02.100970"
+        "updated": "2025-04-30 20:49:13.308547"
     },
     "kc @ tb": [
         {
@@ -1971,11 +1971,11 @@
     ],
     "stl @ cin-gm2": [
         {
-            "player": "matt mclain",
+            "player": "tyler callihan",
             "game": "stl @ cin-gm2",
             "hr/park": "",
-            "pa": "64",
-            "dt": "2025-04-30 20:47:35",
+            "pa": "65",
+            "dt": "2025-04-30 20:49:05",
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
             "team": "cin",
             "start": "6:40 PM",
@@ -1984,6 +1984,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "matt mclain",
+            "game": "stl @ cin-gm2",
+            "hr/park": "0/30",
+            "pa": "64",
+            "dt": "2025-04-30 20:47:35",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "Flyout",
+            "evo": "86.1",
+            "la": "36",
+            "dist": "325"
         },
         {
             "player": "pedro pages",
@@ -10462,6 +10477,21 @@
     ],
     "chc @ pit": [
         {
+            "player": "andrew mccutchen",
+            "game": "chc @ pit",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-04-30 20:48:20",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bryan reynolds",
             "game": "chc @ pit",
             "hr/park": "",
@@ -10471,10 +10501,10 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "101.6",
+            "la": "3",
+            "dist": "69"
         },
         {
             "player": "oneil cruz",
@@ -12296,6 +12326,21 @@
     ],
     "bos @ tor": [
         {
+            "player": "jarren duran",
+            "game": "bos @ tor",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-04-30 20:49:05",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:07 PM",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "99.9",
+            "la": "-6",
+            "dist": "19"
+        },
+        {
             "player": "carlos narvaez",
             "game": "bos @ tor",
             "hr/park": "30/30",
@@ -12988,6 +13033,21 @@
     ],
     "ari @ nym": [
         {
+            "player": "starling marte",
+            "game": "ari @ nym",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-04-30 20:49:05",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "eugenio suarez",
             "game": "ari @ nym",
             "hr/park": "",
@@ -13652,17 +13712,17 @@
         {
             "player": "vinny capra",
             "game": "mil @ chw",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "33",
             "dt": "2025-04-30 20:48:20",
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
             "team": "mil",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Sac Fly",
+            "evo": "96.9",
+            "la": "26",
+            "dist": "370"
         },
         {
             "player": "caleb durbin",
