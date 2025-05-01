@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "79",
         "batters": "264",
-        "pitches": "3037",
+        "pitches": "3044",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "70.0",
-        "ff%fourseam fastball %": "27.7",
+        "ff%fourseam fastball %": "27.6",
         "si%sinker %": "19.2",
         "fc%cutter %": "7.2",
         "fs%splitter %": "2.1",
@@ -14,23 +14,38 @@
         "cu%curve %": "8.3",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "214",
-        "hh%hard hit %": "39.0",
+        "hh%hard hit %": "38.8",
         "brlbarrels": "57",
-        "brl%barrel %": "10.4",
-        "ab": "717",
-        "avg": ".254",
+        "brl%barrel %": "10.3",
+        "ab": "718",
+        "avg": ".253",
         "h": "182",
         "1b": "124",
         "2b": "24",
         "3b": "4",
         "hr": "30",
         "so": "169",
-        "bipballs in play": "549",
+        "bipballs in play": "551",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-04-30 20:12:12.905825"
+        "updated": "2025-04-30 20:12:23.722733"
     },
     "kc @ tb": [
+        {
+            "player": "taylor walls",
+            "game": "kc @ tb",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-04-30 20:12:21",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jose caballero",
             "game": "kc @ tb",
@@ -41,7 +56,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8073,6 +8088,21 @@
     ],
     "min @ cle": [
         {
+            "player": "edouard julien",
+            "game": "min @ cle",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-04-30 20:12:21",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "6:10 PM",
+            "in": "8",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brooks lee",
             "game": "min @ cle",
             "hr/park": "25/30",
@@ -8869,6 +8899,21 @@
         }
     ],
     "nyy @ bal": [
+        {
+            "player": "ramon laureano",
+            "game": "nyy @ bal",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-04-30 20:11:50",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ryan ohearn",
             "game": "nyy @ bal",
@@ -11715,21 +11760,6 @@
     ],
     "mil @ chw": [
         {
-            "player": "miguel vargas",
-            "game": "mil @ chw",
-            "hr/park": "",
-            "pa": "16",
-            "dt": "2025-04-30 20:12:05",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "start": "7:40 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jackson chourio",
             "game": "mil @ chw",
             "hr/park": "",
@@ -11966,10 +11996,10 @@
             "team": "ath",
             "start": "8:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "94.7",
+            "la": "-20",
+            "dist": "8"
         },
         {
             "player": "jacob wilson",
