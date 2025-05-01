@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "25",
         "batters": "123",
-        "pitches": "1174",
+        "pitches": "1176",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "68.9",
         "ff%fourseam fastball %": "37.8",
@@ -10,27 +10,42 @@
         "fc%cutter %": "10.2",
         "fs%splitter %": "5.7",
         "ch%changeup %": "7.2",
-        "sl%slider %": "16.4",
-        "cu%curve %": "13.1",
+        "sl%slider %": "16.2",
+        "cu%curve %": "13.2",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "90",
-        "hh%hard hit %": "39.8",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "21",
         "brl%barrel %": "9.3",
-        "ab": "265",
-        "avg": ".230",
+        "ab": "267",
+        "avg": ".228",
         "h": "61",
         "1b": "40",
         "2b": "11",
         "3b": "0",
         "hr": "10",
         "so": "43",
-        "bipballs in play": "226",
+        "bipballs in play": "225",
         "liveGames": 7,
         "totGames": 11,
-        "updated": "2025-05-01 15:06:14.648294"
+        "updated": "2025-05-01 15:06:22.513403"
     },
     "kc @ tb": [
+        {
+            "player": "drew waters",
+            "game": "kc @ tb",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-05-01 15:06:17",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "1:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "freddy fermin",
             "game": "kc @ tb",
@@ -913,10 +928,10 @@
             "team": "pit",
             "start": "12:35 PM",
             "in": "9",
-            "result": "Pop Out",
-            "evo": "72.5",
-            "la": "52",
-            "dist": "177"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "nico hoerner",
@@ -3972,6 +3987,21 @@
     ],
     "mil @ chw": [
         {
+            "player": "jake bauers",
+            "game": "mil @ chw",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-05-01 15:06:17",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "william contreras",
             "game": "mil @ chw",
             "hr/park": "",
@@ -3981,7 +4011,7 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "101.7",
             "la": "10",
             "dist": "166"
@@ -4358,7 +4388,7 @@
             "team": "tex",
             "start": "2:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "65.3",
             "la": "36",
             "dist": "213"
