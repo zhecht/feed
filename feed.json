@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "71",
         "batters": "180",
-        "pitches": "2430",
+        "pitches": "2433",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "60.5",
         "ff%fourseam fastball %": "30.9",
-        "si%sinker %": "15.3",
+        "si%sinker %": "15.4",
         "fc%cutter %": "10.5",
         "fs%splitter %": "5.8",
         "ch%changeup %": "8.6",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.3",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "186",
-        "hh%hard hit %": "40.2",
+        "hh%hard hit %": "40.1",
         "brlbarrels": "34",
         "brl%barrel %": "7.3",
-        "ab": "577",
-        "avg": ".222",
+        "ab": "578",
+        "avg": ".221",
         "h": "128",
         "1b": "93",
         "2b": "20",
         "3b": "0",
         "hr": "15",
         "so": "120",
-        "bipballs in play": "463",
+        "bipballs in play": "464",
         "liveGames": 9,
         "totGames": 11,
-        "updated": "2025-05-01 20:45:01.331384"
+        "updated": "2025-05-01 20:45:10.958749"
     },
     "kc @ tb": [
         {
@@ -8071,9 +8071,24 @@
     ],
     "wsh @ phi": [
         {
-            "player": "luis garcia",
+            "player": "josh bell",
             "game": "wsh @ phi",
             "hr/park": "",
+            "pa": "61",
+            "dt": "2025-05-01 20:45:04",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "luis garcia",
+            "game": "wsh @ phi",
+            "hr/park": "0/30",
             "pa": "60",
             "dt": "2025-05-01 20:44:18",
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
@@ -8982,10 +8997,10 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "7",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "91.5",
+            "la": "-28",
+            "dist": "8"
         },
         {
             "player": "jarren duran",
