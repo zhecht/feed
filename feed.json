@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "33",
         "batters": "215",
-        "pitches": "1622",
+        "pitches": "1626",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "70.1",
-        "ff%fourseam fastball %": "31.3",
-        "si%sinker %": "15.2",
+        "ff%fourseam fastball %": "31.2",
+        "si%sinker %": "15.3",
         "fc%cutter %": "11.3",
-        "fs%splitter %": "4.1",
-        "ch%changeup %": "11.2",
-        "sl%slider %": "19.0",
-        "cu%curve %": "8.0",
+        "fs%splitter %": "4.2",
+        "ch%changeup %": "11.1",
+        "sl%slider %": "18.9",
+        "cu%curve %": "7.9",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "110",
-        "hh%hard hit %": "35.1",
+        "hhhard hit": "111",
+        "hh%hard hit %": "35.2",
         "brlbarrels": "17",
         "brl%barrel %": "5.4",
         "ab": "389",
-        "avg": ".229",
-        "h": "89",
-        "1b": "60",
+        "avg": ".231",
+        "h": "90",
+        "1b": "61",
         "2b": "17",
         "3b": "1",
         "hr": "11",
         "so": "75",
-        "bipballs in play": "313",
+        "bipballs in play": "315",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 20:41:29.163224"
+        "updated": "2025-05-02 20:41:37.891116"
     },
     "wsh @ cin": [
         {
@@ -41,10 +41,10 @@
             "team": "cin",
             "start": "6:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Groundout",
+            "evo": "104.3",
             "la": "",
-            "dist": ""
+            "dist": "55"
         },
         {
             "player": "matt mclain",
@@ -319,6 +319,21 @@
     ],
     "sd @ pit": [
         {
+            "player": "manny machado",
+            "game": "sd @ pit",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-05-02 20:41:32",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "Forceout",
+            "evo": "100.0",
+            "la": "-27",
+            "dist": "6"
+        },
+        {
             "player": "luis arraez",
             "game": "sd @ pit",
             "hr/park": "",
@@ -328,7 +343,7 @@
             "team": "sd",
             "start": "6:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "89.7",
             "la": "11",
             "dist": "143"
@@ -4105,10 +4120,10 @@
             "team": "mia",
             "start": "7:10 PM",
             "in": "5",
-            "result": "Groundout",
-            "evo": "102.8",
-            "la": "3",
-            "dist": "94"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "connor norby",
@@ -4738,9 +4753,9 @@
             "start": "7:15 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "77.5",
+            "la": "-27",
+            "dist": "5"
         },
         {
             "player": "nick allen",
@@ -6018,7 +6033,7 @@
             "team": "chc",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6215,7 +6230,7 @@
             "team": "nym",
             "start": "8:15 PM",
             "in": "2",
-            "result": "Forceout",
+            "result": "In Progress",
             "evo": "91.9",
             "la": "-14",
             "dist": "11"
