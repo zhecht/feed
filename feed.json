@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "31",
-        "batters": "203",
-        "pitches": "1424",
+        "pitchers": "32",
+        "batters": "204",
+        "pitches": "1440",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "70.1",
         "ff%fourseam fastball %": "31.9",
-        "si%sinker %": "14.9",
-        "fc%cutter %": "11.4",
-        "fs%splitter %": "4.4",
+        "si%sinker %": "14.8",
+        "fc%cutter %": "11.3",
+        "fs%splitter %": "4.3",
         "ch%changeup %": "11.4",
-        "sl%slider %": "18.0",
+        "sl%slider %": "18.3",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "92",
-        "hh%hard hit %": "33.6",
-        "brlbarrels": "10",
-        "brl%barrel %": "3.6",
-        "ab": "349",
-        "avg": ".212",
-        "h": "74",
-        "1b": "54",
+        "hhhard hit": "95",
+        "hh%hard hit %": "33.9",
+        "brlbarrels": "12",
+        "brl%barrel %": "4.3",
+        "ab": "350",
+        "avg": ".220",
+        "h": "77",
+        "1b": "55",
         "2b": "13",
         "3b": "1",
-        "hr": "6",
-        "so": "70",
-        "bipballs in play": "274",
+        "hr": "8",
+        "so": "72",
+        "bipballs in play": "280",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 20:32:53.442488"
+        "updated": "2025-05-02 20:33:01.883439"
     },
     "wsh @ cin": [
+        {
+            "player": "jose trevino",
+            "game": "wsh @ cin",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-05-02 20:33:01",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "tyler stephenson",
             "game": "wsh @ cin",
@@ -41,7 +56,7 @@
             "team": "cin",
             "start": "6:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -243,6 +258,21 @@
         }
     ],
     "sd @ pit": [
+        {
+            "player": "fernando tatis",
+            "game": "sd @ pit",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-05-02 20:33:01",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "martin maldonado",
             "game": "sd @ pit",
@@ -495,7 +525,7 @@
             "team": "ari",
             "start": "6:45 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1253,21 +1283,6 @@
     ],
     "kc @ bal": [
         {
-            "player": "ryan mountcastle",
-            "game": "kc @ bal",
-            "hr/park": "",
-            "pa": "48",
-            "dt": "2025-05-02 20:32:32",
-            "img": "https://www.mlbstatic.com/team-logos/110.svg",
-            "team": "bal",
-            "start": "7:05 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "ryan ohearn",
             "game": "kc @ bal",
             "hr/park": "7/30",
@@ -1975,6 +1990,21 @@
     ],
     "tb @ nyy": [
         {
+            "player": "ben rice",
+            "game": "tb @ nyy",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-05-02 20:33:01",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "aaron judge",
             "game": "tb @ nyy",
             "hr/park": "",
@@ -2534,17 +2564,17 @@
         {
             "player": "george springer",
             "game": "cle @ tor",
-            "hr/park": "",
+            "hr/park": "12/30",
             "pa": "42",
             "dt": "2025-05-02 20:31:31",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "start": "7:07 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "105.3",
+            "la": "27",
+            "dist": "407"
         },
         {
             "player": "anthony santander",
@@ -3173,7 +3203,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "102.9",
             "la": "20",
             "dist": "358"
@@ -3730,10 +3760,10 @@
             "team": "ath",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "82.8",
+            "la": "20",
+            "dist": "227"
         },
         {
             "player": "jj bleday",
@@ -4295,17 +4325,17 @@
         {
             "player": "mookie betts",
             "game": "lad @ atl",
-            "hr/park": "",
+            "hr/park": "26/30",
             "pa": "37",
             "dt": "2025-05-02 20:31:31",
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
             "team": "lad",
             "start": "7:15 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "100.9",
+            "la": "31",
+            "dist": "398"
         },
         {
             "player": "shohei ohtani",
@@ -4859,7 +4889,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5251,10 +5281,10 @@
             "team": "sea",
             "start": "8:05 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "58.5",
+            "la": "1",
+            "dist": "34"
         },
         {
             "player": "miles mastrobuoni",
@@ -5418,10 +5448,10 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "100.9",
+            "la": "-5",
+            "dist": "25"
         },
         {
             "player": "jackson chourio",
@@ -5570,10 +5600,10 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "76.0",
+            "la": "84",
+            "dist": "36"
         },
         {
             "player": "brendan donovan",
