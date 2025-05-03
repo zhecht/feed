@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "47",
         "batters": "138",
-        "pitches": "1670",
+        "pitches": "1671",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.2",
-        "ff%fourseam fastball %": "30.1",
+        "ff%fourseam fastball %": "30.0",
         "si%sinker %": "13.7",
         "fc%cutter %": "7.8",
         "fs%splitter %": "7.1",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "39.2",
         "brlbarrels": "29",
         "brl%barrel %": "10.1",
-        "ab": "379",
-        "avg": ".214",
-        "h": "81",
-        "1b": "52",
+        "ab": "380",
+        "avg": ".216",
+        "h": "82",
+        "1b": "53",
         "2b": "14",
         "3b": "1",
         "hr": "14",
@@ -28,7 +28,7 @@
         "bipballs in play": "288",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-05-03 18:19:45.168814"
+        "updated": "2025-05-03 18:19:53.653244"
     },
     "tb @ nyy": [
         {
@@ -3620,7 +3620,7 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "73.2",
             "la": "-19",
             "dist": "8"
@@ -3628,7 +3628,7 @@
         {
             "player": "heliot ramos",
             "game": "col @ sf",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "65",
             "dt": "2025-05-03 18:16:35",
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
@@ -5430,6 +5430,21 @@
     ],
     "ath @ mia": [
         {
+            "player": "lawrence butler",
+            "game": "ath @ mia",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-05-03 18:19:50",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "4:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gio urshela",
             "game": "ath @ mia",
             "hr/park": "",
@@ -6401,7 +6416,7 @@
             "team": "phi",
             "start": "6:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "106.6",
             "la": "9",
             "dist": "220"
