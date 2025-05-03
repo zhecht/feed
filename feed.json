@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "39",
         "batters": "223",
-        "pitches": "1851",
+        "pitches": "1859",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "70.1",
-        "ff%fourseam fastball %": "31.1",
+        "ff%fourseam fastball %": "31.0",
         "si%sinker %": "14.8",
         "fc%cutter %": "10.7",
-        "fs%splitter %": "4.2",
-        "ch%changeup %": "11.2",
-        "sl%slider %": "20.0",
+        "fs%splitter %": "4.1",
+        "ch%changeup %": "11.3",
+        "sl%slider %": "20.2",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "135",
-        "hh%hard hit %": "38.0",
+        "hh%hard hit %": "37.8",
         "brlbarrels": "20",
         "brl%barrel %": "5.6",
         "ab": "441",
@@ -24,28 +24,13 @@
         "2b": "19",
         "3b": "1",
         "hr": "12",
-        "so": "87",
-        "bipballs in play": "355",
+        "so": "88",
+        "bipballs in play": "357",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 20:50:56.986958"
+        "updated": "2025-05-02 20:51:05.772012"
     },
     "wsh @ cin": [
-        {
-            "player": "james wood",
-            "game": "wsh @ cin",
-            "hr/park": "",
-            "pa": "23",
-            "dt": "2025-05-02 20:50:46",
-            "img": "https://www.mlbstatic.com/team-logos/120.svg",
-            "team": "wsh",
-            "start": "6:10 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "cj abrams",
             "game": "wsh @ cin",
@@ -388,7 +373,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2455,6 +2440,21 @@
     ],
     "tb @ nyy": [
         {
+            "player": "oswaldo cabrera",
+            "game": "tb @ nyy",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-05-02 20:51:01",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "austin wells",
             "game": "tb @ nyy",
             "hr/park": "",
@@ -3141,10 +3141,10 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "83.1",
+            "la": "28",
+            "dist": "299"
         },
         {
             "player": "addison barger",
@@ -6731,17 +6731,17 @@
         {
             "player": "nico hoerner",
             "game": "chc @ mil",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "18",
             "dt": "2025-05-02 20:50:46",
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
             "team": "chc",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "89.1",
+            "la": "28",
+            "dist": "319"
         },
         {
             "player": "michael busch",
