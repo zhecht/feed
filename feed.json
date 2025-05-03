@@ -1,36 +1,51 @@
 {
     "all": {
         "pitchers": "24",
-        "batters": "175",
-        "pitches": "1146",
+        "batters": "177",
+        "pitches": "1155",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "70.1",
         "ff%fourseam fastball %": "33.0",
-        "si%sinker %": "14.7",
-        "fc%cutter %": "11.7",
+        "si%sinker %": "14.4",
+        "fc%cutter %": "11.8",
         "fs%splitter %": "4.3",
-        "ch%changeup %": "10.9",
-        "sl%slider %": "17.5",
+        "ch%changeup %": "11.0",
+        "sl%slider %": "17.7",
         "cu%curve %": "7.9",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "69",
-        "hh%hard hit %": "32.4",
+        "hhhard hit": "68",
+        "hh%hard hit %": "31.8",
         "brlbarrels": "8",
-        "brl%barrel %": "3.8",
-        "ab": "275",
-        "avg": ".222",
-        "h": "61",
-        "1b": "47",
+        "brl%barrel %": "3.7",
+        "ab": "279",
+        "avg": ".215",
+        "h": "60",
+        "1b": "46",
         "2b": "8",
         "3b": "1",
         "hr": "5",
         "so": "59",
-        "bipballs in play": "213",
+        "bipballs in play": "214",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 20:20:00.102235"
+        "updated": "2025-05-02 20:20:08.417570"
     },
     "wsh @ cin": [
+        {
+            "player": "santiago espinal",
+            "game": "wsh @ cin",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-05-02 20:20:02",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "noelvi marte",
             "game": "wsh @ cin",
@@ -41,10 +56,10 @@
             "team": "cin",
             "start": "6:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "86.0",
+            "la": "44",
+            "dist": "270"
         },
         {
             "player": "elly de la cruz",
@@ -998,19 +1013,34 @@
     ],
     "kc @ bal": [
         {
-            "player": "cedric mullins",
+            "player": "gunnar henderson",
             "game": "kc @ bal",
             "hr/park": "",
+            "pa": "41",
+            "dt": "2025-05-02 20:20:02",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "92.9",
+            "la": "-29",
+            "dist": "5"
+        },
+        {
+            "player": "cedric mullins",
+            "game": "kc @ bal",
+            "hr/park": "0/30",
             "pa": "40",
             "dt": "2025-05-02 20:19:31",
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
             "team": "bal",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "84.2",
+            "la": "37",
+            "dist": "306"
         },
         {
             "player": "emmanuel rivera",
@@ -2097,6 +2127,21 @@
     ],
     "cle @ tor": [
         {
+            "player": "bo bichette",
+            "game": "cle @ tor",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-05-02 20:20:02",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andres gimenez",
             "game": "cle @ tor",
             "hr/park": "",
@@ -2106,7 +2151,7 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "99.8",
             "la": "1",
             "dist": "67"
@@ -3573,6 +3618,21 @@
     ],
     "lad @ atl": [
         {
+            "player": "miguel rojas",
+            "game": "lad @ atl",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-05-02 20:20:02",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "7:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael conforto",
             "game": "lad @ atl",
             "hr/park": "",
@@ -4040,21 +4100,6 @@
     ],
     "hou @ chw": [
         {
-            "player": "luis robert",
-            "game": "hou @ chw",
-            "hr/park": "",
-            "pa": "20",
-            "dt": "2025-05-02 20:19:31",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "start": "7:40 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "chase meidroth",
             "game": "hou @ chw",
             "hr/park": "",
@@ -4064,10 +4109,10 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "2",
-            "result": "Single",
-            "evo": "105.4",
-            "la": "-5",
-            "dist": "24"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "michael a taylor",
@@ -4428,10 +4473,10 @@
             "team": "chc",
             "start": "8:10 PM",
             "in": "1",
-            "result": "Single",
-            "evo": "69.7",
-            "la": "31",
-            "dist": "224"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "seiya suzuki",
@@ -4480,6 +4525,21 @@
         }
     ],
     "nym @ stl": [
+        {
+            "player": "pete alonso",
+            "game": "nym @ stl",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-05-02 20:20:03",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "8:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "juan soto",
             "game": "nym @ stl",
