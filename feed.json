@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "30",
         "batters": "195",
-        "pitches": "1365",
+        "pitches": "1367",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "70.1",
         "ff%fourseam fastball %": "31.9",
-        "si%sinker %": "14.8",
+        "si%sinker %": "14.9",
         "fc%cutter %": "11.6",
         "fs%splitter %": "4.5",
         "ch%changeup %": "11.0",
-        "sl%slider %": "17.9",
+        "sl%slider %": "18.0",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "85",
-        "hh%hard hit %": "32.4",
+        "hh%hard hit %": "32.3",
         "brlbarrels": "9",
         "brl%barrel %": "3.4",
         "ab": "329",
-        "avg": ".210",
-        "h": "69",
-        "1b": "52",
+        "avg": ".213",
+        "h": "70",
+        "1b": "53",
         "2b": "11",
         "3b": "1",
         "hr": "5",
         "so": "69",
-        "bipballs in play": "262",
+        "bipballs in play": "263",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 20:30:13.017224"
+        "updated": "2025-05-02 20:30:21.303190"
     },
     "wsh @ cin": [
         {
@@ -440,6 +440,21 @@
         }
     ],
     "ari @ phi": [
+        {
+            "player": "corbin carroll",
+            "game": "ari @ phi",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-05-02 20:29:33",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "6:45 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ketel marte",
             "game": "ari @ phi",
@@ -1178,21 +1193,6 @@
     ],
     "kc @ bal": [
         {
-            "player": "adley rutschman",
-            "game": "kc @ bal",
-            "hr/park": "",
-            "pa": "46",
-            "dt": "2025-05-02 20:29:46",
-            "img": "https://www.mlbstatic.com/team-logos/110.svg",
-            "team": "bal",
-            "start": "7:05 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "drew waters",
             "game": "kc @ bal",
             "hr/park": "",
@@ -1880,9 +1880,9 @@
             "start": "7:05 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "81.4",
+            "la": "7",
+            "dist": "91"
         },
         {
             "player": "trent grisham",
@@ -5026,7 +5026,7 @@
             "team": "sea",
             "start": "8:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "80.6",
             "la": "20",
             "dist": "229"
