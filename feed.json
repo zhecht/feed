@@ -1,23 +1,23 @@
 {
     "all": {
         "pitchers": "64",
-        "batters": "210",
-        "pitches": "2310",
+        "batters": "211",
+        "pitches": "2314",
         "max velomax pitch velocity": "102.9",
         "min velomin pitch velocity": "64.4",
         "ff%fourseam fastball %": "30.9",
         "si%sinker %": "15.5",
         "fc%cutter %": "7.2",
         "fs%splitter %": "5.5",
-        "ch%changeup %": "10.0",
+        "ch%changeup %": "10.1",
         "sl%slider %": "23.7",
         "cu%curve %": "7.2",
         "max evmax exit velocity": "118.4",
         "hhhard hit": "165",
-        "hh%hard hit %": "40.9",
+        "hh%hard hit %": "40.8",
         "brlbarrels": "39",
         "brl%barrel %": "9.7",
-        "ab": "527",
+        "ab": "528",
         "avg": ".231",
         "h": "122",
         "1b": "80",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "19",
         "so": "135",
-        "bipballs in play": "403",
+        "bipballs in play": "404",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-03 19:42:02.428603"
+        "updated": "2025-05-03 19:42:11.534123"
     },
     "tb @ nyy": [
         {
@@ -3354,6 +3354,21 @@
     ],
     "sd @ pit": [
         {
+            "player": "jason heyward",
+            "game": "sd @ pit",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-05-03 19:42:05",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "4:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyler wade",
             "game": "sd @ pit",
             "hr/park": "",
@@ -3363,10 +3378,10 @@
             "team": "sd",
             "start": "4:05 PM",
             "in": "8",
-            "result": "Mound Visit",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "64.8",
+            "la": "-12",
+            "dist": "11"
         },
         {
             "player": "jose iglesias",
