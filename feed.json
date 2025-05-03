@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "49",
         "batters": "239",
-        "pitches": "2215",
+        "pitches": "2222",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "70.1",
-        "ff%fourseam fastball %": "30.0",
+        "ff%fourseam fastball %": "30.1",
         "si%sinker %": "15.1",
-        "fc%cutter %": "9.8",
-        "fs%splitter %": "4.3",
+        "fc%cutter %": "9.7",
+        "fs%splitter %": "4.4",
         "ch%changeup %": "12.4",
         "sl%slider %": "19.9",
-        "cu%curve %": "8.5",
+        "cu%curve %": "8.4",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "163",
-        "hh%hard hit %": "39.1",
+        "hhhard hit": "165",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "28",
         "brl%barrel %": "6.7",
-        "ab": "525",
-        "avg": ".238",
-        "h": "125",
-        "1b": "86",
+        "ab": "527",
+        "avg": ".239",
+        "h": "126",
+        "1b": "87",
         "2b": "20",
         "3b": "1",
         "hr": "18",
-        "so": "111",
-        "bipballs in play": "417",
+        "so": "112",
+        "bipballs in play": "421",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 21:07:30.037772"
+        "updated": "2025-05-02 21:07:39.234486"
     },
     "wsh @ cin": [
         {
@@ -484,6 +484,21 @@
     ],
     "sd @ pit": [
         {
+            "player": "joey bart",
+            "game": "sd @ pit",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-05-02 21:07:32",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "enmanuel valdez",
             "game": "sd @ pit",
             "hr/park": "",
@@ -493,10 +508,10 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "68.5",
+            "la": "72",
+            "dist": "83"
         },
         {
             "player": "andrew mccutchen",
@@ -1937,10 +1952,10 @@
             "team": "kc",
             "start": "7:05 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "81.9",
+            "la": "-17",
+            "dist": "11"
         },
         {
             "player": "ryan ohearn",
@@ -2854,10 +2869,10 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "99.4",
+            "la": "-9",
+            "dist": "13"
         },
         {
             "player": "christopher morel",
@@ -5275,10 +5290,10 @@
             "team": "ath",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "96.1",
+            "la": "5",
+            "dist": "121"
         },
         {
             "player": "seth brown",
@@ -7522,6 +7537,21 @@
     ],
     "sea @ tex": [
         {
+            "player": "miles mastrobuoni",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-05-02 21:06:31",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "8:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "rowdy tellez",
             "game": "sea @ tex",
             "hr/park": "0/30",
@@ -7531,7 +7561,7 @@
             "team": "sea",
             "start": "8:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "93.1",
             "la": "33",
             "dist": "350"
@@ -8285,7 +8315,7 @@
             "team": "nym",
             "start": "8:15 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
