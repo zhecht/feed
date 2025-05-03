@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "41",
+        "pitchers": "43",
         "batters": "232",
-        "pitches": "2026",
+        "pitches": "2035",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "70.1",
-        "ff%fourseam fastball %": "30.5",
-        "si%sinker %": "15.1",
+        "ff%fourseam fastball %": "30.4",
+        "si%sinker %": "15.0",
         "fc%cutter %": "10.2",
-        "fs%splitter %": "4.0",
+        "fs%splitter %": "4.1",
         "ch%changeup %": "11.7",
-        "sl%slider %": "21.0",
+        "sl%slider %": "20.9",
         "cu%curve %": "7.6",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "145",
-        "hh%hard hit %": "37.7",
+        "hhhard hit": "146",
+        "hh%hard hit %": "37.6",
         "brlbarrels": "23",
-        "brl%barrel %": "6.0",
-        "ab": "475",
-        "avg": ".236",
-        "h": "112",
-        "1b": "77",
+        "brl%barrel %": "5.9",
+        "ab": "480",
+        "avg": ".237",
+        "h": "114",
+        "1b": "79",
         "2b": "19",
         "3b": "1",
         "hr": "15",
         "so": "98",
-        "bipballs in play": "385",
+        "bipballs in play": "388",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 20:59:08.608699"
+        "updated": "2025-05-02 20:59:17.703317"
     },
     "wsh @ cin": [
+        {
+            "player": "tyler stephenson",
+            "game": "wsh @ cin",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-05-02 20:59:17",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "spencer steer",
             "game": "wsh @ cin",
@@ -41,10 +56,10 @@
             "team": "cin",
             "start": "6:10 PM",
             "in": "3",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "81.5",
+            "la": "-17",
+            "dist": "9"
         },
         {
             "player": "santiago espinal",
@@ -424,6 +439,21 @@
     ],
     "sd @ pit": [
         {
+            "player": "tyler wade",
+            "game": "sd @ pit",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-05-02 20:59:17",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose iglesias",
             "game": "sd @ pit",
             "hr/park": "",
@@ -433,7 +463,7 @@
             "team": "sd",
             "start": "6:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "62.4",
             "la": "-26",
             "dist": "6"
@@ -815,6 +845,21 @@
         }
     ],
     "ari @ phi": [
+        {
+            "player": "lourdes gurriel",
+            "game": "ari @ phi",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-05-02 20:59:17",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "6:45 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "bryce harper",
             "game": "ari @ phi",
@@ -2620,6 +2665,21 @@
     ],
     "tb @ nyy": [
         {
+            "player": "junior caminero",
+            "game": "tb @ nyy",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-05-02 20:59:17",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trent grisham",
             "game": "tb @ nyy",
             "hr/park": "",
@@ -3341,21 +3401,6 @@
         }
     ],
     "cle @ tor": [
-        {
-            "player": "brayan rocchio",
-            "game": "cle @ tor",
-            "hr/park": "",
-            "pa": "53",
-            "dt": "2025-05-02 20:59:02",
-            "img": "https://www.mlbstatic.com/team-logos/114.svg",
-            "team": "cle",
-            "start": "7:07 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "jhonkensy noel",
             "game": "cle @ tor",
@@ -4876,19 +4921,34 @@
     ],
     "ath @ mia": [
         {
-            "player": "xavier edwards",
+            "player": "kyle stowers",
             "game": "ath @ mia",
             "hr/park": "",
+            "pa": "51",
+            "dt": "2025-05-02 20:58:47",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "Single",
+            "evo": "100.7",
+            "la": "14",
+            "dist": "260"
+        },
+        {
+            "player": "xavier edwards",
+            "game": "ath @ mia",
+            "hr/park": "0/30",
             "pa": "50",
             "dt": "2025-05-02 20:58:17",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
             "team": "mia",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "88.8",
+            "la": "22",
+            "dist": "326"
         },
         {
             "player": "dane myers",
@@ -5627,6 +5687,21 @@
         }
     ],
     "lad @ atl": [
+        {
+            "player": "matt olson",
+            "game": "lad @ atl",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-05-02 20:59:17",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "andy pages",
             "game": "lad @ atl",
