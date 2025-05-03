@@ -1,15 +1,15 @@
 {
     "all": {
         "pitchers": "74",
-        "batters": "248",
-        "pitches": "2964",
+        "batters": "249",
+        "pitches": "2968",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "70.1",
-        "ff%fourseam fastball %": "30.3",
+        "ff%fourseam fastball %": "30.4",
         "si%sinker %": "15.5",
         "fc%cutter %": "8.4",
         "fs%splitter %": "3.9",
-        "ch%changeup %": "11.4",
+        "ch%changeup %": "11.5",
         "sl%slider %": "21.6",
         "cu%curve %": "8.8",
         "max evmax exit velocity": "114.3",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "38.7",
         "brlbarrels": "36",
         "brl%barrel %": "6.5",
-        "ab": "699",
-        "avg": ".242",
+        "ab": "701",
+        "avg": ".241",
         "h": "169",
         "1b": "118",
         "2b": "28",
@@ -28,7 +28,7 @@
         "bipballs in play": "556",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-02 21:47:31.271477"
+        "updated": "2025-05-02 21:47:41.389103"
     },
     "wsh @ cin": [
         {
@@ -8504,7 +8504,7 @@
             "team": "hou",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10089,6 +10089,21 @@
     ],
     "chc @ mil": [
         {
+            "player": "caleb durbin",
+            "game": "chc @ mil",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-05-02 21:47:34",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "joey ortiz",
             "game": "chc @ mil",
             "hr/park": "",
@@ -11383,6 +11398,21 @@
     ],
     "det @ laa": [
         {
+            "player": "jorge soler",
+            "game": "det @ laa",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-05-02 21:47:34",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nolan schanuel",
             "game": "det @ laa",
             "hr/park": "",
@@ -11392,7 +11422,7 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "91.2",
             "la": "-33",
             "dist": "3"
