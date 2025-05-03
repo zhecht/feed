@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "37",
         "batters": "222",
-        "pitches": "1786",
+        "pitches": "1790",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "70.1",
-        "ff%fourseam fastball %": "31.4",
+        "ff%fourseam fastball %": "31.3",
         "si%sinker %": "14.8",
-        "fc%cutter %": "10.9",
-        "fs%splitter %": "4.3",
+        "fc%cutter %": "10.8",
+        "fs%splitter %": "4.2",
         "ch%changeup %": "10.9",
-        "sl%slider %": "19.9",
+        "sl%slider %": "20.0",
         "cu%curve %": "7.8",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "129",
-        "hh%hard hit %": "37.3",
+        "hhhard hit": "130",
+        "hh%hard hit %": "37.5",
         "brlbarrels": "19",
         "brl%barrel %": "5.5",
         "ab": "430",
@@ -24,11 +24,11 @@
         "2b": "19",
         "3b": "1",
         "hr": "11",
-        "so": "83",
-        "bipballs in play": "346",
+        "so": "82",
+        "bipballs in play": "347",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 20:48:44.742402"
+        "updated": "2025-05-02 20:48:53.593476"
     },
     "wsh @ cin": [
         {
@@ -3803,7 +3803,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "6",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4486,6 +4486,36 @@
     ],
     "ath @ mia": [
         {
+            "player": "tyler soderstrom",
+            "game": "ath @ mia",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-05-02 20:48:47",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jacob wilson",
+            "game": "ath @ mia",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-05-02 20:48:17",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "76.5",
+            "la": "53",
+            "dist": "190"
+        },
+        {
             "player": "gio urshela",
             "game": "ath @ mia",
             "hr/park": "",
@@ -5148,21 +5178,6 @@
     ],
     "lad @ atl": [
         {
-            "player": "will smith",
-            "game": "lad @ atl",
-            "hr/park": "",
-            "pa": "44",
-            "dt": "2025-05-02 20:48:31",
-            "img": "https://www.mlbstatic.com/team-logos/119.svg",
-            "team": "lad",
-            "start": "7:15 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "marcell ozuna",
             "game": "lad @ atl",
             "hr/park": "",
@@ -5809,21 +5824,6 @@
         }
     ],
     "hou @ chw": [
-        {
-            "player": "brooks baldwin",
-            "game": "hou @ chw",
-            "hr/park": "",
-            "pa": "34",
-            "dt": "2025-05-02 20:48:31",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "start": "7:40 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "bobby dalbec",
             "game": "hou @ chw",
@@ -6589,9 +6589,9 @@
             "start": "8:10 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "104.0",
+            "la": "-20",
+            "dist": "5"
         },
         {
             "player": "seiya suzuki",
