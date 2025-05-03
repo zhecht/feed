@@ -1,36 +1,51 @@
 {
     "all": {
         "pitchers": "21",
-        "batters": "156",
-        "pitches": "968",
+        "batters": "158",
+        "pitches": "982",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "70.1",
-        "ff%fourseam fastball %": "33.1",
-        "si%sinker %": "13.7",
-        "fc%cutter %": "12.4",
+        "ff%fourseam fastball %": "33.4",
+        "si%sinker %": "13.8",
+        "fc%cutter %": "12.2",
         "fs%splitter %": "4.2",
-        "ch%changeup %": "10.2",
-        "sl%slider %": "18.4",
-        "cu%curve %": "8.0",
+        "ch%changeup %": "10.1",
+        "sl%slider %": "18.1",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "58",
-        "hh%hard hit %": "32.4",
+        "hh%hard hit %": "31.9",
         "brlbarrels": "8",
-        "brl%barrel %": "4.5",
-        "ab": "232",
-        "avg": ".207",
-        "h": "48",
-        "1b": "35",
+        "brl%barrel %": "4.4",
+        "ab": "235",
+        "avg": ".209",
+        "h": "49",
+        "1b": "36",
         "2b": "7",
         "3b": "1",
         "hr": "5",
-        "so": "49",
-        "bipballs in play": "179",
+        "so": "50",
+        "bipballs in play": "182",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-05-02 20:12:28.578221"
+        "updated": "2025-05-02 20:12:36.392119"
     },
     "wsh @ cin": [
+        {
+            "player": "matt mclain",
+            "game": "wsh @ cin",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-05-02 20:12:31",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "tj friedl",
             "game": "wsh @ cin",
@@ -1414,10 +1429,10 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "67.4",
+            "la": "-8",
+            "dist": "12"
         },
         {
             "player": "anthony volpe",
@@ -1842,6 +1857,21 @@
     ],
     "cle @ tor": [
         {
+            "player": "jhonkensy noel",
+            "game": "cle @ tor",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-05-02 20:12:31",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:07 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "angel martinez",
             "game": "cle @ tor",
             "hr/park": "",
@@ -1851,7 +1881,7 @@
             "team": "cle",
             "start": "7:07 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1927,9 +1957,9 @@
             "start": "7:07 PM",
             "in": "3",
             "result": "Catcher Interference",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "74.5",
+            "la": "52",
+            "dist": "201"
         },
         {
             "player": "anthony santander",
@@ -3817,6 +3847,21 @@
     ],
     "sea @ tex": [
         {
+            "player": "jorge polanco",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-05-02 20:12:31",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "8:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jp crawford",
             "game": "sea @ tex",
             "hr/park": "",
@@ -3826,10 +3871,10 @@
             "team": "sea",
             "start": "8:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "85.2",
+            "la": "-8",
+            "dist": "16"
         }
     ],
     "chc @ mil": [],
