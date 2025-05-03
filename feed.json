@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "55",
+        "pitchers": "56",
         "batters": "241",
-        "pitches": "2449",
+        "pitches": "2458",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "70.1",
-        "ff%fourseam fastball %": "29.4",
+        "ff%fourseam fastball %": "29.5",
         "si%sinker %": "15.4",
         "fc%cutter %": "9.6",
         "fs%splitter %": "4.1",
@@ -13,22 +13,22 @@
         "sl%slider %": "20.9",
         "cu%curve %": "8.6",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "178",
-        "hh%hard hit %": "38.1",
+        "hhhard hit": "179",
+        "hh%hard hit %": "38.3",
         "brlbarrels": "29",
         "brl%barrel %": "6.2",
-        "ab": "579",
-        "avg": ".237",
+        "ab": "581",
+        "avg": ".236",
         "h": "137",
         "1b": "97",
         "2b": "21",
         "3b": "1",
         "hr": "18",
-        "so": "122",
+        "so": "125",
         "bipballs in play": "467",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 21:18:53.891177"
+        "updated": "2025-05-02 21:19:03.339482"
     },
     "wsh @ cin": [
         {
@@ -41,7 +41,7 @@
             "team": "cin",
             "start": "6:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "92.4",
             "la": "65",
             "dist": "150"
@@ -3034,10 +3034,10 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "8",
-            "result": "Lineout",
-            "evo": "58.2",
-            "la": "24",
-            "dist": "156"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "kameron misner",
@@ -4814,6 +4814,21 @@
     ],
     "min @ bos": [
         {
+            "player": "jonah bride",
+            "game": "min @ bos",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-05-02 21:17:17",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "wilyer abreu",
             "game": "min @ bos",
             "hr/park": "",
@@ -5671,6 +5686,21 @@
     ],
     "ath @ mia": [
         {
+            "player": "tyler soderstrom",
+            "game": "ath @ mia",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-05-02 21:19:01",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jacob wilson",
             "game": "ath @ mia",
             "hr/park": "",
@@ -5680,7 +5710,7 @@
             "team": "ath",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "57.2",
             "la": "-14",
             "dist": "10"
@@ -6612,7 +6642,7 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7439,7 +7469,7 @@
             "team": "hou",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8169,17 +8199,17 @@
         {
             "player": "joc pederson",
             "game": "sea @ tex",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "29",
             "dt": "2025-05-02 21:17:17",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
             "start": "8:05 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "98.1",
+            "la": "32",
+            "dist": "359"
         },
         {
             "player": "wyatt langford",
