@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "41",
         "batters": "232",
-        "pitches": "2024",
+        "pitches": "2026",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "70.1",
-        "ff%fourseam fastball %": "30.3",
-        "si%sinker %": "15.0",
+        "ff%fourseam fastball %": "30.5",
+        "si%sinker %": "15.1",
         "fc%cutter %": "10.2",
         "fs%splitter %": "4.0",
-        "ch%changeup %": "11.9",
+        "ch%changeup %": "11.7",
         "sl%slider %": "21.0",
         "cu%curve %": "7.6",
         "max evmax exit velocity": "113.5",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "37.7",
         "brlbarrels": "23",
         "brl%barrel %": "6.0",
-        "ab": "476",
-        "avg": ".235",
+        "ab": "475",
+        "avg": ".236",
         "h": "112",
         "1b": "77",
         "2b": "19",
         "3b": "1",
         "hr": "15",
-        "so": "97",
+        "so": "98",
         "bipballs in play": "385",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 20:58:59.595713"
+        "updated": "2025-05-02 20:59:08.608699"
     },
     "wsh @ cin": [
         {
@@ -434,9 +434,9 @@
             "start": "6:40 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "62.4",
+            "la": "-26",
+            "dist": "6"
         },
         {
             "player": "xander bogaerts",
@@ -3342,6 +3342,21 @@
     ],
     "cle @ tor": [
         {
+            "player": "brayan rocchio",
+            "game": "cle @ tor",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-05-02 20:59:02",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:07 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jhonkensy noel",
             "game": "cle @ tor",
             "hr/park": "",
@@ -4861,34 +4876,19 @@
     ],
     "ath @ mia": [
         {
-            "player": "kyle stowers",
-            "game": "ath @ mia",
-            "hr/park": "",
-            "pa": "51",
-            "dt": "2025-05-02 20:58:47",
-            "img": "https://www.mlbstatic.com/team-logos/146.svg",
-            "team": "mia",
-            "start": "7:10 PM",
-            "in": "6",
-            "result": "Single",
-            "evo": "100.7",
-            "la": "14",
-            "dist": "260"
-        },
-        {
             "player": "xavier edwards",
             "game": "ath @ mia",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "50",
             "dt": "2025-05-02 20:58:17",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
             "team": "mia",
             "start": "7:10 PM",
             "in": "6",
-            "result": "Lineout",
-            "evo": "88.8",
-            "la": "22",
-            "dist": "326"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "dane myers",
@@ -6320,21 +6320,6 @@
     ],
     "hou @ chw": [
         {
-            "player": "isaac paredes",
-            "game": "hou @ chw",
-            "hr/park": "",
-            "pa": "39",
-            "dt": "2025-05-02 20:58:47",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "7:40 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "yordan alvarez",
             "game": "hou @ chw",
             "hr/park": "",
@@ -6916,7 +6901,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7233,10 +7218,10 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "108.4",
+            "la": "14",
+            "dist": "260"
         },
         {
             "player": "dansby swanson",
