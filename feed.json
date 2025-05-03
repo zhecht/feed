@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "102",
-        "batters": "285",
-        "pitches": "3663",
+        "batters": "286",
+        "pitches": "3673",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "38.2",
-        "ff%fourseam fastball %": "31.0",
-        "si%sinker %": "15.8",
+        "ff%fourseam fastball %": "31.1",
+        "si%sinker %": "15.7",
         "fc%cutter %": "8.1",
         "fs%splitter %": "4.1",
-        "ch%changeup %": "10.4",
+        "ch%changeup %": "10.3",
         "sl%slider %": "21.7",
         "cu%curve %": "9.0",
         "max evmax exit velocity": "114.3",
-        "hhhard hit": "273",
+        "hhhard hit": "274",
         "hh%hard hit %": "39.8",
         "brlbarrels": "48",
         "brl%barrel %": "7.0",
-        "ab": "860",
+        "ab": "864",
         "avg": ".242",
-        "h": "208",
-        "1b": "142",
+        "h": "209",
+        "1b": "143",
         "2b": "38",
         "3b": "1",
         "hr": "27",
-        "so": "195",
-        "bipballs in play": "686",
+        "so": "196",
+        "bipballs in play": "688",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-02 22:41:46.296733"
+        "updated": "2025-05-02 22:41:57.243766"
     },
     "wsh @ cin": [
         {
@@ -41,7 +41,7 @@
             "team": "wsh",
             "start": "6:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10357,6 +10357,21 @@
     ],
     "sea @ tex": [
         {
+            "player": "jp crawford",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-05-02 22:41:49",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "8:05 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "98.6",
+            "la": "25",
+            "dist": "349"
+        },
+        {
             "player": "rhylan thomas",
             "game": "sea @ tex",
             "hr/park": "",
@@ -11418,7 +11433,7 @@
             "team": "chc",
             "start": "8:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "91.6",
             "la": "38",
             "dist": "329"
@@ -12506,9 +12521,24 @@
     ],
     "nym @ stl": [
         {
-            "player": "juan soto",
+            "player": "pete alonso",
             "game": "nym @ stl",
             "hr/park": "",
+            "pa": "67",
+            "dt": "2025-05-02 22:41:49",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "8:15 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "juan soto",
+            "game": "nym @ stl",
+            "hr/park": "0/30",
             "pa": "66",
             "dt": "2025-05-02 22:39:32",
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
@@ -13498,6 +13528,21 @@
     ],
     "det @ laa": [
         {
+            "player": "trey sweeney",
+            "game": "det @ laa",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-05-02 22:41:49",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "9:38 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "logan ohoppe",
             "game": "det @ laa",
             "hr/park": "0/30",
@@ -13950,6 +13995,21 @@
     ],
     "col @ sf": [
         {
+            "player": "lamonte wade",
+            "game": "col @ sf",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-05-02 22:41:49",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "10:15 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "heliot ramos",
             "game": "col @ sf",
             "hr/park": "",
@@ -13959,10 +14019,10 @@
             "team": "sf",
             "start": "10:15 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "61.0",
+            "la": "-53",
+            "dist": "3"
         },
         {
             "player": "wilmer flores",
