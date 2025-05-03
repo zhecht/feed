@@ -1,15 +1,15 @@
 {
     "all": {
         "pitchers": "74",
-        "batters": "247",
-        "pitches": "2951",
+        "batters": "248",
+        "pitches": "2958",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "70.1",
         "ff%fourseam fastball %": "30.3",
         "si%sinker %": "15.5",
         "fc%cutter %": "8.4",
         "fs%splitter %": "3.9",
-        "ch%changeup %": "11.5",
+        "ch%changeup %": "11.4",
         "sl%slider %": "21.6",
         "cu%curve %": "8.8",
         "max evmax exit velocity": "114.3",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "38.7",
         "brlbarrels": "36",
         "brl%barrel %": "6.5",
-        "ab": "696",
-        "avg": ".243",
+        "ab": "698",
+        "avg": ".242",
         "h": "169",
         "1b": "118",
         "2b": "28",
         "3b": "1",
         "hr": "22",
-        "so": "157",
+        "so": "158",
         "bipballs in play": "553",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-02 21:46:31.022656"
+        "updated": "2025-05-02 21:46:41.023092"
     },
     "wsh @ cin": [
         {
@@ -8504,7 +8504,7 @@
             "team": "hou",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9421,7 +9421,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10073,6 +10073,21 @@
         }
     ],
     "chc @ mil": [
+        {
+            "player": "joey ortiz",
+            "game": "chc @ mil",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-05-02 21:46:34",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "isaac collins",
             "game": "chc @ mil",
@@ -11353,9 +11368,24 @@
     ],
     "det @ laa": [
         {
-            "player": "zach neto",
+            "player": "nolan schanuel",
             "game": "det @ laa",
             "hr/park": "",
+            "pa": "5",
+            "dt": "2025-05-02 21:46:34",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "zach neto",
+            "game": "det @ laa",
+            "hr/park": "30/30",
             "pa": "4",
             "dt": "2025-05-02 21:45:47",
             "img": "https://www.mlbstatic.com/team-logos/108.svg",
