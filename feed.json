@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "37",
         "batters": "222",
-        "pitches": "1781",
+        "pitches": "1786",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "70.1",
         "ff%fourseam fastball %": "31.4",
         "si%sinker %": "14.8",
         "fc%cutter %": "10.9",
-        "fs%splitter %": "4.2",
-        "ch%changeup %": "10.8",
-        "sl%slider %": "20.0",
-        "cu%curve %": "7.9",
+        "fs%splitter %": "4.3",
+        "ch%changeup %": "10.9",
+        "sl%slider %": "19.9",
+        "cu%curve %": "7.8",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "129",
-        "hh%hard hit %": "37.4",
+        "hh%hard hit %": "37.3",
         "brlbarrels": "19",
         "brl%barrel %": "5.5",
-        "ab": "428",
-        "avg": ".231",
+        "ab": "430",
+        "avg": ".230",
         "h": "99",
         "1b": "68",
         "2b": "19",
         "3b": "1",
         "hr": "11",
-        "so": "81",
-        "bipballs in play": "345",
+        "so": "83",
+        "bipballs in play": "346",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 20:48:27.292551"
+        "updated": "2025-05-02 20:48:35.999430"
     },
     "wsh @ cin": [
         {
@@ -373,7 +373,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3803,7 +3803,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4486,21 +4486,6 @@
     ],
     "ath @ mia": [
         {
-            "player": "jacob wilson",
-            "game": "ath @ mia",
-            "hr/park": "",
-            "pa": "45",
-            "dt": "2025-05-02 20:48:17",
-            "img": "https://www.mlbstatic.com/team-logos/133.svg",
-            "team": "ath",
-            "start": "7:10 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "gio urshela",
             "game": "ath @ mia",
             "hr/park": "",
@@ -5163,6 +5148,21 @@
     ],
     "lad @ atl": [
         {
+            "player": "will smith",
+            "game": "lad @ atl",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-05-02 20:48:31",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "7:15 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "marcell ozuna",
             "game": "lad @ atl",
             "hr/park": "",
@@ -5810,6 +5810,21 @@
     ],
     "hou @ chw": [
         {
+            "player": "brooks baldwin",
+            "game": "hou @ chw",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-05-02 20:48:31",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bobby dalbec",
             "game": "hou @ chw",
             "hr/park": "",
@@ -6307,6 +6322,21 @@
     ],
     "sea @ tex": [
         {
+            "player": "jorge polanco",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-05-02 20:48:31",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "8:05 PM",
+            "in": "3",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jp crawford",
             "game": "sea @ tex",
             "hr/park": "",
@@ -6316,7 +6346,7 @@
             "team": "sea",
             "start": "8:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
