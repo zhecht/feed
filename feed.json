@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "108",
         "batters": "297",
-        "pitches": "3920",
+        "pitches": "3921",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "38.2",
-        "ff%fourseam fastball %": "31.1",
+        "ff%fourseam fastball %": "31.2",
         "si%sinker %": "15.7",
         "fc%cutter %": "8.1",
         "fs%splitter %": "4.0",
@@ -13,22 +13,22 @@
         "sl%slider %": "22.1",
         "cu%curve %": "8.8",
         "max evmax exit velocity": "114.3",
-        "hhhard hit": "294",
+        "hhhard hit": "295",
         "hh%hard hit %": "40.2",
         "brlbarrels": "53",
-        "brl%barrel %": "7.3",
-        "ab": "917",
+        "brl%barrel %": "7.2",
+        "ab": "916",
         "avg": ".242",
         "h": "222",
         "1b": "151",
         "2b": "41",
         "3b": "1",
         "hr": "29",
-        "so": "213",
-        "bipballs in play": "731",
+        "so": "212",
+        "bipballs in play": "733",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-02 23:06:50.616992"
+        "updated": "2025-05-02 23:07:02.875836"
     },
     "wsh @ cin": [
         {
@@ -1114,6 +1114,21 @@
     ],
     "sd @ pit": [
         {
+            "player": "jason heyward",
+            "game": "sd @ pit",
+            "hr/park": "",
+            "pa": "81",
+            "dt": "2025-05-02 23:07:02",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "Sac Fly",
+            "evo": "98.8",
+            "la": "32",
+            "dist": "368"
+        },
+        {
             "player": "tyler wade",
             "game": "sd @ pit",
             "hr/park": "",
@@ -1123,10 +1138,10 @@
             "team": "sd",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Sac Bunt",
+            "evo": "41.2",
+            "la": "-23",
+            "dist": "7"
         },
         {
             "player": "jose iglesias",
@@ -14784,7 +14799,7 @@
             "team": "sf",
             "start": "10:15 PM",
             "in": "3",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
