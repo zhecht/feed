@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "51",
-        "batters": "156",
-        "pitches": "1949",
+        "pitchers": "52",
+        "batters": "158",
+        "pitches": "1954",
         "max velomax pitch velocity": "102.9",
         "min velomin pitch velocity": "71.2",
-        "ff%fourseam fastball %": "30.1",
-        "si%sinker %": "14.0",
-        "fc%cutter %": "7.9",
-        "fs%splitter %": "6.5",
+        "ff%fourseam fastball %": "30.0",
+        "si%sinker %": "14.1",
+        "fc%cutter %": "7.8",
+        "fs%splitter %": "6.4",
         "ch%changeup %": "9.6",
         "sl%slider %": "24.6",
         "cu%curve %": "7.4",
         "max evmax exit velocity": "118.4",
-        "hhhard hit": "134",
-        "hh%hard hit %": "40.1",
+        "hhhard hit": "136",
+        "hh%hard hit %": "40.5",
         "brlbarrels": "34",
-        "brl%barrel %": "10.2",
-        "ab": "441",
-        "avg": ".229",
-        "h": "101",
-        "1b": "66",
+        "brl%barrel %": "10.1",
+        "ab": "443",
+        "avg": ".233",
+        "h": "103",
+        "1b": "67",
         "2b": "17",
         "3b": "1",
-        "hr": "17",
-        "so": "117",
-        "bipballs in play": "334",
+        "hr": "18",
+        "so": "118",
+        "bipballs in play": "336",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-03 19:09:31.066427"
+        "updated": "2025-05-03 19:09:39.694814"
     },
     "tb @ nyy": [
         {
@@ -3363,7 +3363,7 @@
             "team": "pit",
             "start": "4:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7459,6 +7459,21 @@
     ],
     "wsh @ cin": [
         {
+            "player": "alex call",
+            "game": "wsh @ cin",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-05-03 19:09:35",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:40 PM",
+            "in": "1",
+            "result": "Single",
+            "evo": "103.4",
+            "la": "10",
+            "dist": "152"
+        },
+        {
             "player": "nathaniel lowe",
             "game": "wsh @ cin",
             "hr/park": "",
@@ -7519,7 +7534,23 @@
             "dist": "188"
         }
     ],
-    "sea @ tex": [],
+    "sea @ tex": [
+        {
+            "player": "jp crawford",
+            "game": "sea @ tex",
+            "hr/park": "26/30",
+            "pa": "1",
+            "dt": "2025-05-03 19:09:35",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:05 PM",
+            "in": "1",
+            "result": "Home Run",
+            "evo": "100.3",
+            "la": "38",
+            "dist": "369"
+        }
+    ],
     "chc @ mil": [],
     "kc @ bal": [],
     "lad @ atl": [],
