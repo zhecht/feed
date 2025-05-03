@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "48",
         "batters": "238",
-        "pitches": "2156",
+        "pitches": "2161",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "70.1",
         "ff%fourseam fastball %": "30.4",
         "si%sinker %": "15.2",
-        "fc%cutter %": "10.0",
+        "fc%cutter %": "9.9",
         "fs%splitter %": "4.3",
-        "ch%changeup %": "12.0",
+        "ch%changeup %": "12.1",
         "sl%slider %": "20.1",
-        "cu%curve %": "7.9",
+        "cu%curve %": "8.0",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "161",
-        "hh%hard hit %": "39.3",
+        "hhhard hit": "160",
+        "hh%hard hit %": "39.0",
         "brlbarrels": "27",
         "brl%barrel %": "6.6",
         "ab": "511",
@@ -24,11 +24,11 @@
         "2b": "20",
         "3b": "1",
         "hr": "17",
-        "so": "105",
+        "so": "106",
         "bipballs in play": "410",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 21:04:26.517555"
+        "updated": "2025-05-02 21:04:35.677631"
     },
     "wsh @ cin": [
         {
@@ -41,10 +41,10 @@
             "team": "cin",
             "start": "6:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "68.0",
+            "la": "-34",
+            "dist": "4"
         },
         {
             "player": "jose trevino",
@@ -1892,10 +1892,10 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "8",
-            "result": "Groundout",
-            "evo": "97.5",
-            "la": "-17",
-            "dist": "8"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "adley rutschman",
@@ -5155,7 +5155,7 @@
             "team": "ath",
             "start": "7:10 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6719,7 +6719,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7676,7 +7676,7 @@
         {
             "player": "joey ortiz",
             "game": "chc @ mil",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "25",
             "dt": "2025-05-02 21:02:32",
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
