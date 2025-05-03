@@ -1,36 +1,51 @@
 {
     "all": {
         "pitchers": "28",
-        "batters": "190",
-        "pitches": "1324",
+        "batters": "191",
+        "pitches": "1332",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "70.1",
-        "ff%fourseam fastball %": "32.1",
-        "si%sinker %": "15.0",
+        "ff%fourseam fastball %": "32.2",
+        "si%sinker %": "14.9",
         "fc%cutter %": "11.6",
         "fs%splitter %": "4.5",
         "ch%changeup %": "10.6",
-        "sl%slider %": "17.8",
-        "cu%curve %": "8.2",
+        "sl%slider %": "17.9",
+        "cu%curve %": "8.3",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "82",
-        "hh%hard hit %": "32.8",
+        "hhhard hit": "83",
+        "hh%hard hit %": "32.7",
         "brlbarrels": "9",
-        "brl%barrel %": "3.6",
-        "ab": "316",
-        "avg": ".209",
-        "h": "66",
-        "1b": "50",
-        "2b": "10",
+        "brl%barrel %": "3.5",
+        "ab": "320",
+        "avg": ".212",
+        "h": "68",
+        "1b": "51",
+        "2b": "11",
         "3b": "1",
         "hr": "5",
-        "so": "67",
-        "bipballs in play": "250",
+        "so": "68",
+        "bipballs in play": "254",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 20:28:15.849451"
+        "updated": "2025-05-02 20:28:24.117865"
     },
     "wsh @ cin": [
+        {
+            "player": "dylan crews",
+            "game": "wsh @ cin",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-05-02 20:28:18",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "josh bell",
             "game": "wsh @ cin",
@@ -41,7 +56,7 @@
             "team": "wsh",
             "start": "6:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1142,10 +1157,10 @@
             "team": "kc",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "101.8",
+            "la": "-2",
+            "dist": "37"
         },
         {
             "player": "mark canha",
@@ -1809,6 +1824,21 @@
         }
     ],
     "tb @ nyy": [
+        {
+            "player": "aaron judge",
+            "game": "tb @ nyy",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-05-02 20:28:18",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "trent grisham",
             "game": "tb @ nyy",
@@ -3466,6 +3496,21 @@
     ],
     "ath @ mia": [
         {
+            "player": "jj bleday",
+            "game": "ath @ mia",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-05-02 20:28:18",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "Double",
+            "evo": "91.9",
+            "la": "23",
+            "dist": "298"
+        },
+        {
             "player": "shea langeliers",
             "game": "ath @ mia",
             "hr/park": "",
@@ -4008,6 +4053,21 @@
     ],
     "lad @ atl": [
         {
+            "player": "eli white",
+            "game": "lad @ atl",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-05-02 20:28:18",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael harris",
             "game": "lad @ atl",
             "hr/park": "",
@@ -4017,10 +4077,10 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "87.0",
+            "la": "25",
+            "dist": "296"
         },
         {
             "player": "ozzie albies",
@@ -4876,10 +4936,10 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "63.0",
+            "la": "36",
+            "dist": "192"
         },
         {
             "player": "wyatt langford",
@@ -5105,7 +5165,7 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "1",
-            "result": "Groundout",
+            "result": "Single",
             "evo": "90.7",
             "la": "-4",
             "dist": "20"
