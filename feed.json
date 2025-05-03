@@ -1,22 +1,22 @@
 {
     "all": {
-        "pitchers": "29",
-        "batters": "194",
-        "pitches": "1357",
+        "pitchers": "30",
+        "batters": "195",
+        "pitches": "1365",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "70.1",
         "ff%fourseam fastball %": "31.9",
-        "si%sinker %": "14.9",
+        "si%sinker %": "14.8",
         "fc%cutter %": "11.6",
-        "fs%splitter %": "4.6",
-        "ch%changeup %": "10.8",
-        "sl%slider %": "18.1",
-        "cu%curve %": "8.1",
+        "fs%splitter %": "4.5",
+        "ch%changeup %": "11.0",
+        "sl%slider %": "17.9",
+        "cu%curve %": "8.2",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "83",
-        "hh%hard hit %": "32.0",
+        "hhhard hit": "85",
+        "hh%hard hit %": "32.4",
         "brlbarrels": "9",
-        "brl%barrel %": "3.5",
+        "brl%barrel %": "3.4",
         "ab": "329",
         "avg": ".210",
         "h": "69",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "5",
         "so": "69",
-        "bipballs in play": "259",
+        "bipballs in play": "262",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 20:29:56.123297"
+        "updated": "2025-05-02 20:30:04.452444"
     },
     "wsh @ cin": [
         {
@@ -440,21 +440,6 @@
         }
     ],
     "ari @ phi": [
-        {
-            "player": "corbin carroll",
-            "game": "ari @ phi",
-            "hr/park": "",
-            "pa": "51",
-            "dt": "2025-05-02 20:29:33",
-            "img": "https://www.mlbstatic.com/team-logos/109.svg",
-            "team": "ari",
-            "start": "6:45 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "ketel marte",
             "game": "ari @ phi",
@@ -4679,10 +4664,10 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "100.9",
+            "la": "-6",
+            "dist": "22"
         },
         {
             "player": "yordan alvarez",
@@ -5169,6 +5154,21 @@
     ],
     "chc @ mil": [
         {
+            "player": "brice turang",
+            "game": "chc @ mil",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-05-02 20:29:33",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "97.8",
+            "la": "-25",
+            "dist": "6"
+        },
+        {
             "player": "pete crow armstrong",
             "game": "chc @ mil",
             "hr/park": "",
@@ -5285,10 +5285,10 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "89.8",
+            "la": "44",
+            "dist": "279"
         },
         {
             "player": "masyn winn",
