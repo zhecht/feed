@@ -1,36 +1,51 @@
 {
     "all": {
         "pitchers": "36",
-        "batters": "220",
-        "pitches": "1716",
+        "batters": "222",
+        "pitches": "1727",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "70.1",
-        "ff%fourseam fastball %": "31.3",
+        "ff%fourseam fastball %": "31.5",
         "si%sinker %": "15.0",
         "fc%cutter %": "11.2",
-        "fs%splitter %": "4.3",
+        "fs%splitter %": "4.2",
         "ch%changeup %": "10.8",
-        "sl%slider %": "19.5",
+        "sl%slider %": "19.6",
         "cu%curve %": "7.8",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "122",
-        "hh%hard hit %": "36.3",
-        "brlbarrels": "17",
-        "brl%barrel %": "5.1",
-        "ab": "412",
+        "hhhard hit": "125",
+        "hh%hard hit %": "37.0",
+        "brlbarrels": "18",
+        "brl%barrel %": "5.3",
+        "ab": "417",
         "avg": ".233",
-        "h": "96",
-        "1b": "65",
+        "h": "97",
+        "1b": "66",
         "2b": "19",
         "3b": "1",
         "hr": "11",
         "so": "80",
-        "bipballs in play": "336",
+        "bipballs in play": "338",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 20:45:41.582667"
+        "updated": "2025-05-02 20:45:50.202928"
     },
     "wsh @ cin": [
+        {
+            "player": "jacob young",
+            "game": "wsh @ cin",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-05-02 20:45:47",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jose tena",
             "game": "wsh @ cin",
@@ -334,6 +349,21 @@
     ],
     "sd @ pit": [
         {
+            "player": "jared triolo",
+            "game": "sd @ pit",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-05-02 20:44:47",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alexander canario",
             "game": "sd @ pit",
             "hr/park": "",
@@ -635,6 +665,21 @@
         }
     ],
     "ari @ phi": [
+        {
+            "player": "josh naylor",
+            "game": "ari @ phi",
+            "hr/park": "1/30",
+            "pa": "59",
+            "dt": "2025-05-02 20:45:47",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "6:45 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "102.2",
+            "la": "35",
+            "dist": "373"
+        },
         {
             "player": "eugenio suarez",
             "game": "ari @ phi",
@@ -2937,6 +2982,21 @@
     ],
     "cle @ tor": [
         {
+            "player": "angel martinez",
+            "game": "cle @ tor",
+            "hr/park": "0/30",
+            "pa": "48",
+            "dt": "2025-05-02 20:45:47",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:07 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "99.7",
+            "la": "35",
+            "dist": "352"
+        },
+        {
             "player": "bo naylor",
             "game": "cle @ tor",
             "hr/park": "0/30",
@@ -2946,7 +3006,7 @@
             "team": "cle",
             "start": "7:07 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "101.6",
             "la": "50",
             "dist": "310"
@@ -3643,6 +3703,21 @@
         }
     ],
     "min @ bos": [
+        {
+            "player": "trevor story",
+            "game": "min @ bos",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-05-02 20:45:47",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "Single",
+            "evo": "100.9",
+            "la": "7",
+            "dist": "147"
+        },
         {
             "player": "wilyer abreu",
             "game": "min @ bos",
@@ -6334,9 +6409,9 @@
             "start": "8:10 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "78.0",
-            "la": "54",
-            "dist": "196"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "kyle tucker",
