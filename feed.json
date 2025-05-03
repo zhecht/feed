@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "48",
+        "pitchers": "49",
         "batters": "238",
-        "pitches": "2198",
+        "pitches": "2205",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "70.1",
-        "ff%fourseam fastball %": "30.2",
-        "si%sinker %": "15.0",
+        "ff%fourseam fastball %": "30.1",
+        "si%sinker %": "15.1",
         "fc%cutter %": "9.8",
         "fs%splitter %": "4.3",
-        "ch%changeup %": "12.3",
+        "ch%changeup %": "12.4",
         "sl%slider %": "20.0",
-        "cu%curve %": "8.3",
+        "cu%curve %": "8.4",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "163",
         "hh%hard hit %": "39.1",
         "brlbarrels": "28",
         "brl%barrel %": "6.7",
-        "ab": "520",
-        "avg": ".240",
+        "ab": "523",
+        "avg": ".239",
         "h": "125",
         "1b": "86",
         "2b": "20",
         "3b": "1",
         "hr": "18",
-        "so": "110",
+        "so": "111",
         "bipballs in play": "417",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 21:06:25.873122"
+        "updated": "2025-05-02 21:06:34.905254"
     },
     "wsh @ cin": [
         {
@@ -493,7 +493,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "100.1",
             "la": "2",
             "dist": "66"
@@ -1913,6 +1913,21 @@
     ],
     "kc @ bal": [
         {
+            "player": "vinnie pasquantino",
+            "game": "kc @ bal",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-05-02 21:06:31",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:05 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan ohearn",
             "game": "kc @ bal",
             "hr/park": "",
@@ -2824,7 +2839,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3606,7 +3621,7 @@
             "team": "cle",
             "start": "7:07 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7447,16 +7462,31 @@
     ],
     "sea @ tex": [
         {
-            "player": "rowdy tellez",
+            "player": "miles mastrobuoni",
             "game": "sea @ tex",
             "hr/park": "",
+            "pa": "25",
+            "dt": "2025-05-02 21:06:31",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "8:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "rowdy tellez",
+            "game": "sea @ tex",
+            "hr/park": "0/30",
             "pa": "24",
             "dt": "2025-05-02 21:05:01",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "start": "8:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "93.1",
             "la": "33",
             "dist": "350"
@@ -7808,6 +7838,21 @@
         }
     ],
     "chc @ mil": [
+        {
+            "player": "nicky lopez",
+            "game": "chc @ mil",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-05-02 21:06:31",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "joey ortiz",
             "game": "chc @ mil",
