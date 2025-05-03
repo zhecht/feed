@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "28",
-        "batters": "186",
-        "pitches": "1271",
+        "batters": "185",
+        "pitches": "1277",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "70.1",
-        "ff%fourseam fastball %": "32.2",
-        "si%sinker %": "15.2",
+        "ff%fourseam fastball %": "31.9",
+        "si%sinker %": "15.3",
         "fc%cutter %": "11.8",
         "fs%splitter %": "4.3",
-        "ch%changeup %": "10.9",
-        "sl%slider %": "17.4",
-        "cu%curve %": "8.3",
+        "ch%changeup %": "10.8",
+        "sl%slider %": "17.7",
+        "cu%curve %": "8.2",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "79",
-        "hh%hard hit %": "33.2",
+        "hh%hard hit %": "33.1",
         "brlbarrels": "9",
         "brl%barrel %": "3.8",
         "ab": "307",
@@ -24,28 +24,13 @@
         "2b": "10",
         "3b": "1",
         "hr": "5",
-        "so": "63",
-        "bipballs in play": "238",
+        "so": "64",
+        "bipballs in play": "239",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 20:25:46.036810"
+        "updated": "2025-05-02 20:25:54.270484"
     },
     "wsh @ cin": [
-        {
-            "player": "luis garcia",
-            "game": "wsh @ cin",
-            "hr/park": "",
-            "pa": "11",
-            "dt": "2025-05-02 20:25:32",
-            "img": "https://www.mlbstatic.com/team-logos/120.svg",
-            "team": "wsh",
-            "start": "6:10 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "spencer steer",
             "game": "wsh @ cin",
@@ -199,6 +184,21 @@
     ],
     "sd @ pit": [
         {
+            "player": "kebryan hayes",
+            "game": "sd @ pit",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-05-02 20:25:48",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "joey bart",
             "game": "sd @ pit",
             "hr/park": "",
@@ -208,7 +208,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2292,11 +2292,11 @@
     ],
     "cle @ tor": [
         {
-            "player": "steven kwan",
+            "player": "gabriel arias",
             "game": "cle @ tor",
             "hr/park": "",
-            "pa": "38",
-            "dt": "2025-05-02 20:24:01",
+            "pa": "39",
+            "dt": "2025-05-02 20:25:48",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
             "team": "cle",
             "start": "7:07 PM",
@@ -2305,6 +2305,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "steven kwan",
+            "game": "cle @ tor",
+            "hr/park": "0/30",
+            "pa": "38",
+            "dt": "2025-05-02 20:24:01",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:07 PM",
+            "in": "5",
+            "result": "Lineout",
+            "evo": "90.6",
+            "la": "21",
+            "dist": "313"
         },
         {
             "player": "brayan rocchio",
@@ -4746,21 +4761,6 @@
         }
     ],
     "sea @ tex": [
-        {
-            "player": "wyatt langford",
-            "game": "sea @ tex",
-            "hr/park": "",
-            "pa": "7",
-            "dt": "2025-05-02 20:25:16",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "8:05 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "josh smith",
             "game": "sea @ tex",
