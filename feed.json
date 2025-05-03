@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "41",
         "batters": "232",
-        "pitches": "2022",
+        "pitches": "2024",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "70.1",
-        "ff%fourseam fastball %": "30.4",
+        "ff%fourseam fastball %": "30.3",
         "si%sinker %": "15.0",
         "fc%cutter %": "10.2",
         "fs%splitter %": "4.0",
-        "ch%changeup %": "11.7",
+        "ch%changeup %": "11.9",
         "sl%slider %": "21.0",
         "cu%curve %": "7.6",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "145",
-        "hh%hard hit %": "37.8",
+        "hh%hard hit %": "37.7",
         "brlbarrels": "23",
         "brl%barrel %": "6.0",
-        "ab": "474",
-        "avg": ".236",
+        "ab": "476",
+        "avg": ".235",
         "h": "112",
         "1b": "77",
         "2b": "19",
         "3b": "1",
         "hr": "15",
         "so": "97",
-        "bipballs in play": "384",
+        "bipballs in play": "385",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 20:58:41.704089"
+        "updated": "2025-05-02 20:58:50.584293"
     },
     "wsh @ cin": [
         {
@@ -4861,19 +4861,34 @@
     ],
     "ath @ mia": [
         {
-            "player": "xavier edwards",
+            "player": "kyle stowers",
             "game": "ath @ mia",
             "hr/park": "",
+            "pa": "51",
+            "dt": "2025-05-02 20:58:47",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "Single",
+            "evo": "100.7",
+            "la": "14",
+            "dist": "260"
+        },
+        {
+            "player": "xavier edwards",
+            "game": "ath @ mia",
+            "hr/park": "0/30",
             "pa": "50",
             "dt": "2025-05-02 20:58:17",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
             "team": "mia",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "88.8",
+            "la": "22",
+            "dist": "326"
         },
         {
             "player": "dane myers",
@@ -6305,6 +6320,21 @@
     ],
     "hou @ chw": [
         {
+            "player": "isaac paredes",
+            "game": "hou @ chw",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-05-02 20:58:47",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "yordan alvarez",
             "game": "hou @ chw",
             "hr/park": "",
@@ -6314,7 +6344,7 @@
             "team": "hou",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "79.2",
             "la": "59",
             "dist": "183"
@@ -7203,10 +7233,10 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "2",
-            "result": "Single",
-            "evo": "108.4",
-            "la": "14",
-            "dist": "260"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "dansby swanson",
