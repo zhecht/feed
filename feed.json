@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "23",
-        "batters": "163",
-        "pitches": "1041",
+        "batters": "164",
+        "pitches": "1050",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "70.1",
         "ff%fourseam fastball %": "32.9",
-        "si%sinker %": "14.2",
-        "fc%cutter %": "12.1",
+        "si%sinker %": "14.4",
+        "fc%cutter %": "12.0",
         "fs%splitter %": "4.4",
-        "ch%changeup %": "10.7",
-        "sl%slider %": "17.9",
-        "cu%curve %": "7.8",
+        "ch%changeup %": "10.8",
+        "sl%slider %": "17.7",
+        "cu%curve %": "7.9",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "61",
-        "hh%hard hit %": "31.8",
+        "hhhard hit": "64",
+        "hh%hard hit %": "32.7",
         "brlbarrels": "8",
-        "brl%barrel %": "4.2",
-        "ab": "248",
-        "avg": ".218",
-        "h": "54",
-        "1b": "41",
+        "brl%barrel %": "4.1",
+        "ab": "251",
+        "avg": ".219",
+        "h": "55",
+        "1b": "42",
         "2b": "7",
         "3b": "1",
         "hr": "5",
         "so": "54",
-        "bipballs in play": "192",
+        "bipballs in play": "196",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 20:15:24.287041"
+        "updated": "2025-05-02 20:15:32.380502"
     },
     "wsh @ cin": [
         {
@@ -141,17 +141,17 @@
         {
             "player": "enmanuel valdez",
             "game": "sd @ pit",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "8",
             "dt": "2025-05-02 20:10:47",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
             "team": "pit",
             "start": "6:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "98.4",
+            "la": "24",
+            "dist": "381"
         },
         {
             "player": "andrew mccutchen",
@@ -260,6 +260,21 @@
         }
     ],
     "ari @ phi": [
+        {
+            "player": "geraldo perdomo",
+            "game": "ari @ phi",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-05-02 20:15:32",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "6:45 PM",
+            "in": "6",
+            "result": "Double Play",
+            "evo": "20.8",
+            "la": "77",
+            "dist": "10"
+        },
         {
             "player": "alek thomas",
             "game": "ari @ phi",
@@ -2881,6 +2896,21 @@
     ],
     "ath @ mia": [
         {
+            "player": "agustin ramirez",
+            "game": "ath @ mia",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-05-02 20:15:02",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "106.1",
+            "la": "-2",
+            "dist": "41"
+        },
+        {
             "player": "kyle stowers",
             "game": "ath @ mia",
             "hr/park": "",
@@ -3770,6 +3800,21 @@
     ],
     "hou @ chw": [
         {
+            "player": "michael a taylor",
+            "game": "hou @ chw",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-05-02 20:15:32",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brooks baldwin",
             "game": "hou @ chw",
             "hr/park": "",
@@ -4068,10 +4113,10 @@
             "team": "chc",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "106.2",
+            "la": "12",
+            "dist": "220"
         },
         {
             "player": "ian happ",
