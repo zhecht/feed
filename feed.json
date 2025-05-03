@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "53",
         "batters": "240",
-        "pitches": "2373",
+        "pitches": "2382",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "70.1",
         "ff%fourseam fastball %": "29.5",
-        "si%sinker %": "15.3",
+        "si%sinker %": "15.2",
         "fc%cutter %": "9.8",
         "fs%splitter %": "4.2",
-        "ch%changeup %": "12.0",
+        "ch%changeup %": "12.1",
         "sl%slider %": "20.6",
         "cu%curve %": "8.6",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "173",
+        "hhhard hit": "174",
         "hh%hard hit %": "39.1",
         "brlbarrels": "29",
         "brl%barrel %": "6.5",
-        "ab": "557",
-        "avg": ".239",
+        "ab": "558",
+        "avg": ".238",
         "h": "133",
         "1b": "94",
         "2b": "20",
         "3b": "1",
         "hr": "18",
-        "so": "117",
-        "bipballs in play": "443",
+        "so": "119",
+        "bipballs in play": "445",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 21:14:29.071731"
+        "updated": "2025-05-02 21:14:38.363635"
     },
     "wsh @ cin": [
         {
@@ -41,7 +41,7 @@
             "team": "cin",
             "start": "6:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3816,10 +3816,10 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "93.3",
+            "la": "51",
+            "dist": "245"
         },
         {
             "player": "bo bichette",
@@ -5536,6 +5536,21 @@
     ],
     "ath @ mia": [
         {
+            "player": "javier sanoja",
+            "game": "ath @ mia",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-05-02 21:14:31",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "connor norby",
             "game": "ath @ mia",
             "hr/park": "",
@@ -5545,10 +5560,10 @@
             "team": "mia",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "102.5",
+            "la": "7",
+            "dist": "120"
         },
         {
             "player": "matt mervis",
