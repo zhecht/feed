@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "66",
         "batters": "211",
-        "pitches": "2363",
+        "pitches": "2370",
         "max velomax pitch velocity": "102.9",
         "min velomin pitch velocity": "64.4",
-        "ff%fourseam fastball %": "30.5",
-        "si%sinker %": "15.8",
-        "fc%cutter %": "7.2",
+        "ff%fourseam fastball %": "30.4",
+        "si%sinker %": "15.9",
+        "fc%cutter %": "7.3",
         "fs%splitter %": "5.5",
         "ch%changeup %": "10.3",
-        "sl%slider %": "23.4",
+        "sl%slider %": "23.3",
         "cu%curve %": "7.3",
         "max evmax exit velocity": "118.4",
         "hhhard hit": "167",
-        "hh%hard hit %": "40.5",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "39",
-        "brl%barrel %": "9.5",
-        "ab": "540",
+        "brl%barrel %": "9.4",
+        "ab": "544",
         "avg": ".230",
-        "h": "124",
-        "1b": "81",
+        "h": "125",
+        "1b": "82",
         "2b": "22",
         "3b": "2",
         "hr": "19",
         "so": "140",
-        "bipballs in play": "412",
+        "bipballs in play": "414",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-03 19:47:14.449404"
+        "updated": "2025-05-03 19:47:23.818306"
     },
     "tb @ nyy": [
         {
@@ -3354,11 +3354,11 @@
     ],
     "sd @ pit": [
         {
-            "player": "adam frazier",
+            "player": "alexander canario",
             "game": "sd @ pit",
             "hr/park": "",
-            "pa": "61",
-            "dt": "2025-05-03 19:46:36",
+            "pa": "62",
+            "dt": "2025-05-03 19:47:20",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
             "team": "pit",
             "start": "4:05 PM",
@@ -3367,6 +3367,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "adam frazier",
+            "game": "sd @ pit",
+            "hr/park": "0/30",
+            "pa": "61",
+            "dt": "2025-05-03 19:46:36",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "4:05 PM",
+            "in": "8",
+            "result": "Flyout",
+            "evo": "86.8",
+            "la": "37",
+            "dist": "316"
         },
         {
             "player": "kebryan hayes",
@@ -5308,6 +5323,21 @@
     ],
     "min @ bos": [
         {
+            "player": "connor wong",
+            "game": "min @ bos",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-05-03 19:47:20",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "4:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "david hamilton",
             "game": "min @ bos",
             "hr/park": "",
@@ -5317,7 +5347,7 @@
             "team": "bos",
             "start": "4:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "84.1",
             "la": "21",
             "dist": "237"
@@ -8179,6 +8209,21 @@
     ],
     "wsh @ cin": [
         {
+            "player": "alex call",
+            "game": "wsh @ cin",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-05-03 19:47:20",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nathaniel lowe",
             "game": "wsh @ cin",
             "hr/park": "",
@@ -8556,6 +8601,21 @@
     ],
     "sea @ tex": [
         {
+            "player": "cal raleigh",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-05-03 19:47:20",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "julio rodriguez",
             "game": "sea @ tex",
             "hr/park": "",
@@ -8565,10 +8625,10 @@
             "team": "sea",
             "start": "7:05 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "56.3",
+            "la": "-36",
+            "dist": "5"
         },
         {
             "player": "jonah heim",
