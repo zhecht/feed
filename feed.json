@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "68",
         "batters": "242",
-        "pitches": "2789",
+        "pitches": "2793",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "70.1",
         "ff%fourseam fastball %": "30.0",
         "si%sinker %": "15.4",
         "fc%cutter %": "8.8",
         "fs%splitter %": "3.7",
-        "ch%changeup %": "11.7",
+        "ch%changeup %": "11.6",
         "sl%slider %": "21.5",
         "cu%curve %": "9.0",
         "max evmax exit velocity": "113.5",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "38.4",
         "brlbarrels": "33",
         "brl%barrel %": "6.2",
-        "ab": "663",
-        "avg": ".240",
+        "ab": "664",
+        "avg": ".239",
         "h": "159",
         "1b": "111",
         "2b": "27",
         "3b": "1",
         "hr": "20",
-        "so": "142",
+        "so": "143",
         "bipballs in play": "534",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 21:36:53.749311"
+        "updated": "2025-05-02 21:37:03.722432"
     },
     "wsh @ cin": [
         {
@@ -41,7 +41,7 @@
             "team": "wsh",
             "start": "6:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4266,10 +4266,10 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "8",
-            "result": "Groundout",
-            "evo": "87.6",
-            "la": "-2",
-            "dist": "26"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "nathan lukes",
@@ -8255,6 +8255,21 @@
     ],
     "hou @ chw": [
         {
+            "player": "chase meidroth",
+            "game": "hou @ chw",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-05-02 21:37:01",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael a taylor",
             "game": "hou @ chw",
             "hr/park": "",
@@ -8264,7 +8279,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10295,7 +10310,7 @@
             "team": "nym",
             "start": "8:15 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "101.2",
             "la": "23",
             "dist": "356"
