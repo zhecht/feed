@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "23",
-        "batters": "79",
-        "pitches": "745",
+        "batters": "80",
+        "pitches": "746",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "71.2",
         "ff%fourseam fastball %": "30.3",
@@ -10,15 +10,15 @@
         "fc%cutter %": "6.3",
         "fs%splitter %": "10.9",
         "ch%changeup %": "9.4",
-        "sl%slider %": "20.9",
+        "sl%slider %": "21.0",
         "cu%curve %": "5.6",
         "max evmax exit velocity": "110.2",
         "hhhard hit": "50",
         "hh%hard hit %": "41.0",
         "brlbarrels": "12",
         "brl%barrel %": "9.8",
-        "ab": "168",
-        "avg": ".214",
+        "ab": "169",
+        "avg": ".213",
         "h": "36",
         "1b": "25",
         "2b": "4",
@@ -28,7 +28,7 @@
         "bipballs in play": "122",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-05-03 16:22:31.476215"
+        "updated": "2025-05-03 16:22:39.256302"
     },
     "tb @ nyy": [
         {
@@ -2515,6 +2515,21 @@
     "sd @ pit": [],
     "col @ sf": [
         {
+            "player": "kyle farmer",
+            "game": "col @ sf",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-05-03 16:22:35",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nick martini",
             "game": "col @ sf",
             "hr/park": "",
@@ -2524,7 +2539,7 @@
             "team": "col",
             "start": "4:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "102.2",
             "la": "-5",
             "dist": "24"
@@ -2654,7 +2669,7 @@
         {
             "player": "wilyer abreu",
             "game": "min @ bos",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "7",
             "dt": "2025-05-03 16:20:19",
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
