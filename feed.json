@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "46",
+        "pitchers": "47",
         "batters": "238",
-        "pitches": "2122",
+        "pitches": "2127",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "70.1",
         "ff%fourseam fastball %": "30.3",
-        "si%sinker %": "15.4",
+        "si%sinker %": "15.3",
         "fc%cutter %": "10.0",
         "fs%splitter %": "4.3",
         "ch%changeup %": "11.8",
         "sl%slider %": "20.3",
         "cu%curve %": "7.9",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "156",
-        "hh%hard hit %": "38.5",
+        "hhhard hit": "157",
+        "hh%hard hit %": "38.7",
         "brlbarrels": "26",
         "brl%barrel %": "6.4",
-        "ab": "503",
+        "ab": "506",
         "avg": ".239",
-        "h": "120",
-        "1b": "82",
+        "h": "121",
+        "1b": "83",
         "2b": "20",
         "3b": "1",
         "hr": "17",
-        "so": "101",
-        "bipballs in play": "405",
+        "so": "102",
+        "bipballs in play": "406",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 21:03:13.519853"
+        "updated": "2025-05-02 21:03:22.479487"
     },
     "wsh @ cin": [
+        {
+            "player": "blake dunn",
+            "game": "wsh @ cin",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-05-02 21:03:16",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jose trevino",
             "game": "wsh @ cin",
@@ -41,7 +56,7 @@
             "team": "cin",
             "start": "6:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "105.4",
             "la": "-2",
             "dist": "30"
@@ -1868,6 +1883,21 @@
     ],
     "kc @ bal": [
         {
+            "player": "ryan ohearn",
+            "game": "kc @ bal",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-05-02 21:03:16",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "adley rutschman",
             "game": "kc @ bal",
             "hr/park": "",
@@ -1877,7 +1907,7 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4318,6 +4348,21 @@
         }
     ],
     "min @ bos": [
+        {
+            "player": "connor wong",
+            "game": "min @ bos",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-05-02 21:03:16",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "Single",
+            "evo": "95.0",
+            "la": "4",
+            "dist": "96"
+        },
         {
             "player": "jonah bride",
             "game": "min @ bos",
@@ -7955,7 +8000,7 @@
             "team": "nym",
             "start": "8:15 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Caught Stealing 2B",
             "evo": "",
             "la": "",
             "dist": ""
