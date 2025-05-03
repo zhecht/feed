@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "55",
         "batters": "240",
-        "pitches": "2436",
+        "pitches": "2443",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "70.1",
         "ff%fourseam fastball %": "29.5",
         "si%sinker %": "15.4",
         "fc%cutter %": "9.6",
         "fs%splitter %": "4.1",
-        "ch%changeup %": "11.9",
+        "ch%changeup %": "12.0",
         "sl%slider %": "20.9",
         "cu%curve %": "8.5",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "178",
-        "hh%hard hit %": "38.6",
+        "hhhard hit": "179",
+        "hh%hard hit %": "38.5",
         "brlbarrels": "29",
-        "brl%barrel %": "6.3",
-        "ab": "574",
+        "brl%barrel %": "6.2",
+        "ab": "578",
         "avg": ".237",
-        "h": "136",
-        "1b": "96",
+        "h": "137",
+        "1b": "97",
         "2b": "21",
         "3b": "1",
         "hr": "18",
         "so": "122",
-        "bipballs in play": "461",
+        "bipballs in play": "465",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 21:18:16.096979"
+        "updated": "2025-05-02 21:18:25.356975"
     },
     "wsh @ cin": [
         {
@@ -41,10 +41,10 @@
             "team": "cin",
             "start": "6:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "92.4",
+            "la": "65",
+            "dist": "150"
         },
         {
             "player": "matt mclain",
@@ -561,7 +561,7 @@
         {
             "player": "jared triolo",
             "game": "sd @ pit",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "35",
             "dt": "2025-05-02 21:17:31",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
@@ -3881,6 +3881,21 @@
         }
     ],
     "cle @ tor": [
+        {
+            "player": "carlos santana",
+            "game": "cle @ tor",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-05-02 21:18:19",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:07 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kyle manzardo",
             "game": "cle @ tor",
@@ -7415,6 +7430,21 @@
     ],
     "hou @ chw": [
         {
+            "player": "cam smith",
+            "game": "hou @ chw",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-05-02 21:17:17",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brendan rodgers",
             "game": "hou @ chw",
             "hr/park": "",
@@ -8146,10 +8176,10 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "98.1",
+            "la": "32",
+            "dist": "359"
         },
         {
             "player": "wyatt langford",
@@ -9025,6 +9055,36 @@
         }
     ],
     "nym @ stl": [
+        {
+            "player": "alec burleson",
+            "game": "nym @ stl",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-05-02 21:18:19",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:15 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "86.3",
+            "la": "45",
+            "dist": "266"
+        },
+        {
+            "player": "willson contreras",
+            "game": "nym @ stl",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-05-02 21:18:19",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:15 PM",
+            "in": "3",
+            "result": "Single",
+            "evo": "82.4",
+            "la": "10",
+            "dist": "121"
+        },
         {
             "player": "nolan arenado",
             "game": "nym @ stl",
