@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "34",
-        "batters": "216",
-        "pitches": "1662",
+        "batters": "218",
+        "pitches": "1670",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "70.1",
-        "ff%fourseam fastball %": "30.9",
-        "si%sinker %": "15.4",
+        "ff%fourseam fastball %": "31.0",
+        "si%sinker %": "15.3",
         "fc%cutter %": "11.4",
         "fs%splitter %": "4.2",
-        "ch%changeup %": "11.1",
+        "ch%changeup %": "11.0",
         "sl%slider %": "19.1",
-        "cu%curve %": "7.9",
+        "cu%curve %": "8.0",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "118",
         "hh%hard hit %": "36.0",
         "brlbarrels": "17",
         "brl%barrel %": "5.2",
-        "ab": "399",
-        "avg": ".233",
+        "ab": "402",
+        "avg": ".231",
         "h": "93",
         "1b": "63",
         "2b": "18",
@@ -28,9 +28,24 @@
         "bipballs in play": "328",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 20:43:13.305188"
+        "updated": "2025-05-02 20:43:21.743043"
     },
     "wsh @ cin": [
+        {
+            "player": "jose tena",
+            "game": "wsh @ cin",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-05-02 20:43:17",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "elly de la cruz",
             "game": "wsh @ cin",
@@ -1457,7 +1472,7 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "7",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "106.0",
             "la": "9",
             "dist": "175"
@@ -4210,10 +4225,10 @@
             "team": "mia",
             "start": "7:10 PM",
             "in": "5",
-            "result": "Groundout",
-            "evo": "96.9",
-            "la": "-12",
-            "dist": "9"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "javier sanoja",
@@ -5947,6 +5962,21 @@
     ],
     "sea @ tex": [
         {
+            "player": "jonah heim",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-05-02 20:43:17",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "marcus semien",
             "game": "sea @ tex",
             "hr/park": "",
@@ -6159,6 +6189,21 @@
     ],
     "chc @ mil": [
         {
+            "player": "kyle tucker",
+            "game": "chc @ mil",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-05-02 20:43:17",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "Single",
+            "evo": "104.0",
+            "la": "16",
+            "dist": "268"
+        },
+        {
             "player": "ian happ",
             "game": "chc @ mil",
             "hr/park": "",
@@ -6365,7 +6410,7 @@
             "team": "nym",
             "start": "8:15 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "91.6",
             "la": "5",
             "dist": "82"
