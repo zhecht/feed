@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "67",
+        "pitchers": "68",
         "batters": "242",
-        "pitches": "2776",
+        "pitches": "2789",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "70.1",
         "ff%fourseam fastball %": "30.0",
         "si%sinker %": "15.4",
         "fc%cutter %": "8.8",
         "fs%splitter %": "3.7",
-        "ch%changeup %": "11.6",
-        "sl%slider %": "21.6",
+        "ch%changeup %": "11.7",
+        "sl%slider %": "21.5",
         "cu%curve %": "9.0",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "202",
-        "hh%hard hit %": "38.3",
-        "brlbarrels": "31",
-        "brl%barrel %": "5.9",
-        "ab": "661",
-        "avg": ".238",
-        "h": "157",
-        "1b": "110",
-        "2b": "26",
+        "hhhard hit": "205",
+        "hh%hard hit %": "38.4",
+        "brlbarrels": "33",
+        "brl%barrel %": "6.2",
+        "ab": "663",
+        "avg": ".240",
+        "h": "159",
+        "1b": "111",
+        "2b": "27",
         "3b": "1",
         "hr": "20",
-        "so": "141",
-        "bipballs in play": "528",
+        "so": "142",
+        "bipballs in play": "534",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 21:36:23.004542"
+        "updated": "2025-05-02 21:36:33.542901"
     },
     "wsh @ cin": [
+        {
+            "player": "james wood",
+            "game": "wsh @ cin",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-05-02 21:36:33",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "cj abrams",
             "game": "wsh @ cin",
@@ -41,7 +56,7 @@
             "team": "wsh",
             "start": "6:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -688,10 +703,10 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "77.9",
+            "la": "40",
+            "dist": "254"
         },
         {
             "player": "oneil cruz",
@@ -4251,10 +4266,10 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "87.6",
+            "la": "-2",
+            "dist": "26"
         },
         {
             "player": "nathan lukes",
@@ -5289,9 +5304,9 @@
             "start": "7:10 PM",
             "in": "8",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "109.1",
+            "la": "3",
+            "dist": "82"
         },
         {
             "player": "jarren duran",
@@ -6300,6 +6315,21 @@
         }
     ],
     "ath @ mia": [
+        {
+            "player": "agustin ramirez",
+            "game": "ath @ mia",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-05-02 21:36:33",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "82.9",
+            "la": "-35",
+            "dist": "4"
+        },
         {
             "player": "seth brown",
             "game": "ath @ mia",
@@ -9084,17 +9114,17 @@
         {
             "player": "ben williamson",
             "game": "sea @ tex",
-            "hr/park": "",
+            "hr/park": "5/30",
             "pa": "38",
             "dt": "2025-05-02 21:36:18",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "start": "8:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "100.4",
+            "la": "27",
+            "dist": "381"
         },
         {
             "player": "miles mastrobuoni",
@@ -10258,7 +10288,7 @@
         {
             "player": "francisco lindor",
             "game": "nym @ stl",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "37",
             "dt": "2025-05-02 21:35:48",
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
@@ -10266,9 +10296,9 @@
             "start": "8:15 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "101.2",
+            "la": "23",
+            "dist": "356"
         },
         {
             "player": "victor scott",
