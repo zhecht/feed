@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "24",
         "batters": "104",
-        "pitches": "911",
+        "pitches": "913",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "71.2",
-        "ff%fourseam fastball %": "31.1",
+        "ff%fourseam fastball %": "31.0",
         "si%sinker %": "14.9",
         "fc%cutter %": "6.0",
-        "fs%splitter %": "9.5",
-        "ch%changeup %": "9.8",
-        "sl%slider %": "23.3",
+        "fs%splitter %": "9.6",
+        "ch%changeup %": "9.9",
+        "sl%slider %": "23.2",
         "cu%curve %": "5.3",
         "max evmax exit velocity": "110.2",
         "hhhard hit": "59",
         "hh%hard hit %": "39.6",
         "brlbarrels": "12",
         "brl%barrel %": "8.1",
-        "ab": "208",
-        "avg": ".192",
+        "ab": "209",
+        "avg": ".191",
         "h": "40",
         "1b": "26",
         "2b": "6",
@@ -28,7 +28,7 @@
         "bipballs in play": "149",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-05-03 16:39:00.833010"
+        "updated": "2025-05-03 16:39:08.692112"
     },
     "tb @ nyy": [
         {
@@ -1108,7 +1108,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2997,6 +2997,21 @@
     ],
     "min @ bos": [
         {
+            "player": "trevor larnach",
+            "game": "min @ bos",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-05-03 16:39:04",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "4:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "christian vazquez",
             "game": "min @ bos",
             "hr/park": "",
@@ -3006,7 +3021,7 @@
             "team": "min",
             "start": "4:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "101.5",
             "la": "-11",
             "dist": "12"
