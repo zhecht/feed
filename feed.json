@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "97",
         "batters": "276",
-        "pitches": "3498",
+        "pitches": "3508",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "38.2",
         "ff%fourseam fastball %": "31.0",
         "si%sinker %": "16.0",
         "fc%cutter %": "8.0",
         "fs%splitter %": "3.9",
-        "ch%changeup %": "10.7",
-        "sl%slider %": "21.7",
-        "cu%curve %": "8.7",
+        "ch%changeup %": "10.6",
+        "sl%slider %": "21.8",
+        "cu%curve %": "8.8",
         "max evmax exit velocity": "114.3",
         "hhhard hit": "259",
-        "hh%hard hit %": "39.5",
+        "hh%hard hit %": "39.4",
         "brlbarrels": "46",
         "brl%barrel %": "7.0",
-        "ab": "817",
-        "avg": ".240",
-        "h": "196",
-        "1b": "133",
-        "2b": "35",
+        "ab": "818",
+        "avg": ".242",
+        "h": "198",
+        "1b": "134",
+        "2b": "36",
         "3b": "1",
         "hr": "27",
         "so": "181",
-        "bipballs in play": "655",
+        "bipballs in play": "657",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-02 22:30:13.360974"
+        "updated": "2025-05-02 22:30:24.350673"
     },
     "wsh @ cin": [
         {
@@ -10186,7 +10186,7 @@
             "team": "sea",
             "start": "8:05 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11108,6 +11108,21 @@
         }
     ],
     "chc @ mil": [
+        {
+            "player": "vinny capra",
+            "game": "chc @ mil",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-05-02 22:30:16",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "caleb durbin",
             "game": "chc @ mil",
@@ -12086,6 +12101,21 @@
     ],
     "nym @ stl": [
         {
+            "player": "luisangel acuna",
+            "game": "nym @ stl",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-05-02 22:30:16",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "8:15 PM",
+            "in": "7",
+            "result": "Double",
+            "evo": "82.2",
+            "la": "17",
+            "dist": "239"
+        },
+        {
             "player": "francisco alvarez",
             "game": "nym @ stl",
             "hr/park": "",
@@ -12095,7 +12125,7 @@
             "team": "nym",
             "start": "8:15 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "105.3",
             "la": "9",
             "dist": "170"
