@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "52",
-        "batters": "161",
-        "pitches": "1962",
+        "pitchers": "53",
+        "batters": "163",
+        "pitches": "1964",
         "max velomax pitch velocity": "102.9",
         "min velomin pitch velocity": "64.4",
         "ff%fourseam fastball %": "29.9",
-        "si%sinker %": "14.2",
+        "si%sinker %": "14.3",
         "fc%cutter %": "7.8",
         "fs%splitter %": "6.4",
         "ch%changeup %": "9.6",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "40.7",
         "brlbarrels": "35",
         "brl%barrel %": "10.3",
-        "ab": "446",
-        "avg": ".233",
+        "ab": "448",
+        "avg": ".232",
         "h": "104",
         "1b": "67",
         "2b": "18",
@@ -28,7 +28,7 @@
         "bipballs in play": "339",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-05-03 19:12:01.784295"
+        "updated": "2025-05-03 19:12:10.802750"
     },
     "tb @ nyy": [
         {
@@ -7551,9 +7551,24 @@
     ],
     "sea @ tex": [
         {
-            "player": "cal raleigh",
+            "player": "randy arozarena",
             "game": "sea @ tex",
             "hr/park": "",
+            "pa": "4",
+            "dt": "2025-05-03 19:12:04",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "cal raleigh",
+            "game": "sea @ tex",
+            "hr/park": "0/30",
             "pa": "3",
             "dt": "2025-05-03 19:10:35",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
@@ -7596,7 +7611,23 @@
             "dist": "369"
         }
     ],
-    "chc @ mil": [],
+    "chc @ mil": [
+        {
+            "player": "ian happ",
+            "game": "chc @ mil",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-03 19:12:04",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "kc @ bal": [],
     "lad @ atl": [],
     "det @ laa": []
