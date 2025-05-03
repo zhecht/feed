@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "43",
-        "batters": "233",
-        "pitches": "2037",
+        "batters": "234",
+        "pitches": "2048",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "70.1",
         "ff%fourseam fastball %": "30.5",
-        "si%sinker %": "15.1",
+        "si%sinker %": "15.0",
         "fc%cutter %": "10.2",
         "fs%splitter %": "4.1",
         "ch%changeup %": "11.7",
-        "sl%slider %": "20.9",
-        "cu%curve %": "7.5",
+        "sl%slider %": "20.8",
+        "cu%curve %": "7.6",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "148",
-        "hh%hard hit %": "37.9",
+        "hh%hard hit %": "37.7",
         "brlbarrels": "25",
         "brl%barrel %": "6.4",
-        "ab": "480",
-        "avg": ".240",
+        "ab": "483",
+        "avg": ".238",
         "h": "115",
         "1b": "79",
         "2b": "19",
         "3b": "1",
         "hr": "16",
         "so": "98",
-        "bipballs in play": "391",
+        "bipballs in play": "393",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 20:59:45.013688"
+        "updated": "2025-05-02 20:59:54.159551"
     },
     "wsh @ cin": [
         {
@@ -439,6 +439,21 @@
     ],
     "sd @ pit": [
         {
+            "player": "tyler wade",
+            "game": "sd @ pit",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-05-02 20:59:17",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose iglesias",
             "game": "sd @ pit",
             "hr/park": "",
@@ -448,7 +463,7 @@
             "team": "sd",
             "start": "6:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "62.4",
             "la": "-26",
             "dist": "6"
@@ -2650,6 +2665,21 @@
     ],
     "tb @ nyy": [
         {
+            "player": "junior caminero",
+            "game": "tb @ nyy",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-05-02 20:59:17",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trent grisham",
             "game": "tb @ nyy",
             "hr/park": "",
@@ -3381,7 +3411,7 @@
             "team": "cle",
             "start": "7:07 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6380,6 +6410,21 @@
     ],
     "hou @ chw": [
         {
+            "player": "isaac paredes",
+            "game": "hou @ chw",
+            "hr/park": "0/30",
+            "pa": "39",
+            "dt": "2025-05-02 20:58:47",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "92.3",
+            "la": "40",
+            "dist": "301"
+        },
+        {
             "player": "yordan alvarez",
             "game": "hou @ chw",
             "hr/park": "",
@@ -7269,6 +7314,21 @@
     ],
     "chc @ mil": [
         {
+            "player": "rhys hoskins",
+            "game": "chc @ mil",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-05-02 20:59:47",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "sal frelick",
             "game": "chc @ mil",
             "hr/park": "",
@@ -7278,7 +7338,7 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "79.3",
             "la": "64",
             "dist": "164"
