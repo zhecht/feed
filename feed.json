@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "63",
         "batters": "203",
-        "pitches": "2256",
+        "pitches": "2261",
         "max velomax pitch velocity": "102.9",
         "min velomin pitch velocity": "64.4",
         "ff%fourseam fastball %": "30.6",
@@ -13,11 +13,11 @@
         "sl%slider %": "23.7",
         "cu%curve %": "7.3",
         "max evmax exit velocity": "118.4",
-        "hhhard hit": "161",
+        "hhhard hit": "162",
         "hh%hard hit %": "41.1",
         "brlbarrels": "39",
         "brl%barrel %": "9.9",
-        "ab": "512",
+        "ab": "514",
         "avg": ".232",
         "h": "119",
         "1b": "78",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "19",
         "so": "132",
-        "bipballs in play": "392",
+        "bipballs in play": "394",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-03 19:36:44.240520"
+        "updated": "2025-05-03 19:36:53.765907"
     },
     "tb @ nyy": [
         {
@@ -3363,10 +3363,10 @@
             "team": "pit",
             "start": "4:05 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "85.6",
+            "la": "69",
+            "dist": "132"
         },
         {
             "player": "joey bart",
@@ -5233,9 +5233,39 @@
     ],
     "min @ bos": [
         {
-            "player": "kody clemens",
+            "player": "christian vazquez",
             "game": "min @ bos",
             "hr/park": "",
+            "pa": "67",
+            "dt": "2025-05-03 19:36:50",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "4:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "harrison bader",
+            "game": "min @ bos",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-05-03 19:36:50",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "4:10 PM",
+            "in": "8",
+            "result": "Fielders Choice Out",
+            "evo": "97.8",
+            "la": "-28",
+            "dist": "5"
+        },
+        {
+            "player": "kody clemens",
+            "game": "min @ bos",
+            "hr/park": "0/30",
             "pa": "65",
             "dt": "2025-05-03 19:34:05",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
@@ -8280,7 +8310,7 @@
             "team": "sea",
             "start": "7:05 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
