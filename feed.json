@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "33",
         "batters": "215",
-        "pitches": "1626",
+        "pitches": "1636",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "70.1",
-        "ff%fourseam fastball %": "31.2",
-        "si%sinker %": "15.3",
+        "ff%fourseam fastball %": "31.1",
+        "si%sinker %": "15.4",
         "fc%cutter %": "11.3",
         "fs%splitter %": "4.2",
         "ch%changeup %": "11.1",
         "sl%slider %": "18.9",
         "cu%curve %": "7.9",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "111",
-        "hh%hard hit %": "35.2",
+        "hhhard hit": "113",
+        "hh%hard hit %": "35.4",
         "brlbarrels": "17",
-        "brl%barrel %": "5.4",
-        "ab": "389",
-        "avg": ".231",
+        "brl%barrel %": "5.3",
+        "ab": "391",
+        "avg": ".230",
         "h": "90",
         "1b": "61",
         "2b": "17",
         "3b": "1",
         "hr": "11",
         "so": "75",
-        "bipballs in play": "315",
+        "bipballs in play": "319",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 20:41:37.891116"
+        "updated": "2025-05-02 20:41:46.616355"
     },
     "wsh @ cin": [
         {
@@ -328,7 +328,7 @@
             "team": "sd",
             "start": "6:40 PM",
             "in": "3",
-            "result": "Forceout",
+            "result": "In Progress",
             "evo": "100.0",
             "la": "-27",
             "dist": "6"
@@ -606,19 +606,34 @@
     ],
     "ari @ phi": [
         {
-            "player": "jt realmuto",
+            "player": "alec bohm",
             "game": "ari @ phi",
             "hr/park": "",
+            "pa": "57",
+            "dt": "2025-05-02 20:41:46",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:45 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "100.9",
+            "la": "-2",
+            "dist": "33"
+        },
+        {
+            "player": "jt realmuto",
+            "game": "ari @ phi",
+            "hr/park": "0/30",
             "pa": "56",
             "dt": "2025-05-02 20:39:17",
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "start": "6:45 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "91.5",
+            "la": "38",
+            "dist": "332"
         },
         {
             "player": "max kepler",
@@ -2195,9 +2210,9 @@
             "start": "7:05 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "89.7",
+            "la": "62",
+            "dist": "190"
         },
         {
             "player": "cody bellinger",
@@ -4111,6 +4126,21 @@
     ],
     "ath @ mia": [
         {
+            "player": "liam hicks",
+            "game": "ath @ mia",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-05-02 20:41:46",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "javier sanoja",
             "game": "ath @ mia",
             "hr/park": "",
@@ -4120,10 +4150,10 @@
             "team": "mia",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "102.8",
+            "la": "3",
+            "dist": "94"
         },
         {
             "player": "connor norby",
@@ -4752,7 +4782,7 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "77.5",
             "la": "-27",
             "dist": "5"
