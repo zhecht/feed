@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "60",
         "batters": "242",
-        "pitches": "2643",
+        "pitches": "2646",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "70.1",
         "ff%fourseam fastball %": "29.8",
@@ -10,25 +10,25 @@
         "fc%cutter %": "9.1",
         "fs%splitter %": "3.8",
         "ch%changeup %": "11.7",
-        "sl%slider %": "21.3",
-        "cu%curve %": "8.9",
+        "sl%slider %": "21.2",
+        "cu%curve %": "9.0",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "191",
+        "hhhard hit": "192",
         "hh%hard hit %": "38.3",
-        "brlbarrels": "30",
-        "brl%barrel %": "6.0",
-        "ab": "627",
-        "avg": ".238",
-        "h": "149",
+        "brlbarrels": "31",
+        "brl%barrel %": "6.2",
+        "ab": "626",
+        "avg": ".240",
+        "h": "150",
         "1b": "105",
         "2b": "24",
         "3b": "1",
-        "hr": "19",
-        "so": "136",
-        "bipballs in play": "499",
+        "hr": "20",
+        "so": "137",
+        "bipballs in play": "501",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 21:28:44.767482"
+        "updated": "2025-05-02 21:28:54.495505"
     },
     "wsh @ cin": [
         {
@@ -618,21 +618,6 @@
         }
     ],
     "sd @ pit": [
-        {
-            "player": "jose iglesias",
-            "game": "sd @ pit",
-            "hr/park": "",
-            "pa": "42",
-            "dt": "2025-05-02 21:28:31",
-            "img": "https://www.mlbstatic.com/team-logos/135.svg",
-            "team": "sd",
-            "start": "6:40 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "xander bogaerts",
             "game": "sd @ pit",
@@ -4107,21 +4092,6 @@
     ],
     "cle @ tor": [
         {
-            "player": "addison barger",
-            "game": "cle @ tor",
-            "hr/park": "",
-            "pa": "66",
-            "dt": "2025-05-02 21:28:31",
-            "img": "https://www.mlbstatic.com/team-logos/141.svg",
-            "team": "tor",
-            "start": "7:07 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "alejandro kirk",
             "game": "cle @ tor",
             "hr/park": "",
@@ -5099,6 +5069,21 @@
     ],
     "min @ bos": [
         {
+            "player": "david hamilton",
+            "game": "min @ bos",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-05-02 21:28:48",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "connor wong",
             "game": "min @ bos",
             "hr/park": "",
@@ -5108,7 +5093,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8739,17 +8724,17 @@
         {
             "player": "cal raleigh",
             "game": "sea @ tex",
-            "hr/park": "",
+            "hr/park": "30/30",
             "pa": "34",
             "dt": "2025-05-02 21:27:31",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "start": "8:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "104.8",
+            "la": "30",
+            "dist": "387"
         },
         {
             "player": "julio rodriguez",
@@ -9258,10 +9243,10 @@
             "team": "chc",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "77.1",
+            "la": "-16",
+            "dist": "4"
         },
         {
             "player": "nico hoerner",
