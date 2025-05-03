@@ -1,23 +1,23 @@
 {
     "all": {
         "pitchers": "28",
-        "batters": "189",
-        "pitches": "1314",
+        "batters": "190",
+        "pitches": "1319",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "70.1",
-        "ff%fourseam fastball %": "32.0",
+        "ff%fourseam fastball %": "31.9",
         "si%sinker %": "15.1",
-        "fc%cutter %": "11.6",
+        "fc%cutter %": "11.7",
         "fs%splitter %": "4.5",
-        "ch%changeup %": "10.6",
+        "ch%changeup %": "10.7",
         "sl%slider %": "17.9",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "79",
-        "hh%hard hit %": "32.1",
+        "hhhard hit": "82",
+        "hh%hard hit %": "33.1",
         "brlbarrels": "9",
-        "brl%barrel %": "3.7",
-        "ab": "314",
+        "brl%barrel %": "3.6",
+        "ab": "315",
         "avg": ".210",
         "h": "66",
         "1b": "50",
@@ -25,12 +25,27 @@
         "3b": "1",
         "hr": "5",
         "so": "67",
-        "bipballs in play": "246",
+        "bipballs in play": "248",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 20:27:09.112002"
+        "updated": "2025-05-02 20:27:17.662542"
     },
     "wsh @ cin": [
+        {
+            "player": "josh bell",
+            "game": "wsh @ cin",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-05-02 20:27:16",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "luis garcia",
             "game": "wsh @ cin",
@@ -1804,10 +1819,10 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "5",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "98.0",
+            "la": "32",
+            "dist": "369"
         },
         {
             "player": "jorbit vivas",
@@ -2924,6 +2939,21 @@
     ],
     "min @ bos": [
         {
+            "player": "connor wong",
+            "game": "min @ bos",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-05-02 20:26:31",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "Groundout",
+            "evo": "105.6",
+            "la": "-14",
+            "dist": "9"
+        },
+        {
             "player": "harrison bader",
             "game": "min @ bos",
             "hr/park": "",
@@ -3430,10 +3460,10 @@
             "team": "ath",
             "start": "7:10 PM",
             "in": "5",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Sac Fly",
+            "evo": "97.6",
+            "la": "46",
+            "dist": "296"
         },
         {
             "player": "brent rooker",
@@ -4832,9 +4862,9 @@
             "start": "8:05 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "63.0",
-            "la": "36",
-            "dist": "192"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "wyatt langford",
@@ -4953,7 +4983,7 @@
             "team": "chc",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "83.6",
             "la": "-2",
             "dist": "31"
