@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "28",
         "batters": "187",
-        "pitches": "1291",
+        "pitches": "1306",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "70.1",
-        "ff%fourseam fastball %": "32.1",
-        "si%sinker %": "15.0",
-        "fc%cutter %": "11.8",
-        "fs%splitter %": "4.3",
-        "ch%changeup %": "10.8",
+        "ff%fourseam fastball %": "31.9",
+        "si%sinker %": "15.2",
+        "fc%cutter %": "11.6",
+        "fs%splitter %": "4.4",
+        "ch%changeup %": "10.6",
         "sl%slider %": "17.9",
-        "cu%curve %": "8.1",
+        "cu%curve %": "8.3",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "79",
-        "hh%hard hit %": "33.1",
+        "hh%hard hit %": "32.4",
         "brlbarrels": "9",
-        "brl%barrel %": "3.8",
-        "ab": "311",
-        "avg": ".209",
-        "h": "65",
-        "1b": "49",
+        "brl%barrel %": "3.7",
+        "ab": "313",
+        "avg": ".211",
+        "h": "66",
+        "1b": "50",
         "2b": "10",
         "3b": "1",
         "hr": "5",
-        "so": "64",
-        "bipballs in play": "239",
+        "so": "65",
+        "bipballs in play": "244",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 20:26:27.610573"
+        "updated": "2025-05-02 20:26:35.840037"
     },
     "wsh @ cin": [
         {
@@ -41,7 +41,7 @@
             "team": "wsh",
             "start": "6:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2347,9 +2347,9 @@
             "start": "7:07 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "52.4",
+            "la": "-26",
+            "dist": "7"
         },
         {
             "player": "steven kwan",
@@ -2924,6 +2924,21 @@
     ],
     "min @ bos": [
         {
+            "player": "connor wong",
+            "game": "min @ bos",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-05-02 20:26:31",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "harrison bader",
             "game": "min @ bos",
             "hr/park": "",
@@ -3430,7 +3445,7 @@
             "team": "ath",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3963,6 +3978,21 @@
     ],
     "lad @ atl": [
         {
+            "player": "michael harris",
+            "game": "lad @ atl",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-05-02 20:26:31",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ozzie albies",
             "game": "lad @ atl",
             "hr/park": "",
@@ -3972,10 +4002,10 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "93.1",
+            "la": "-15",
+            "dist": "5"
         },
         {
             "player": "miguel rojas",
@@ -4816,10 +4846,10 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "75.0",
+            "la": "83",
+            "dist": "54"
         },
         {
             "player": "josh smith",
@@ -4923,10 +4953,10 @@
             "team": "chc",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "94.2",
+            "la": "1",
+            "dist": "55"
         },
         {
             "player": "michael busch",
@@ -5015,10 +5045,10 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "90.7",
+            "la": "-4",
+            "dist": "20"
         },
         {
             "player": "lars nootbaar",
