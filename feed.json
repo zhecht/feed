@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "33",
-        "batters": "215",
-        "pitches": "1646",
+        "pitchers": "34",
+        "batters": "216",
+        "pitches": "1649",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "70.1",
         "ff%fourseam fastball %": "31.0",
-        "si%sinker %": "15.4",
+        "si%sinker %": "15.3",
         "fc%cutter %": "11.4",
-        "fs%splitter %": "4.3",
+        "fs%splitter %": "4.2",
         "ch%changeup %": "11.1",
         "sl%slider %": "19.0",
-        "cu%curve %": "8.0",
+        "cu%curve %": "7.9",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "115",
-        "hh%hard hit %": "35.8",
+        "hhhard hit": "116",
+        "hh%hard hit %": "35.9",
         "brlbarrels": "17",
         "brl%barrel %": "5.3",
-        "ab": "394",
-        "avg": ".231",
-        "h": "91",
-        "1b": "61",
+        "ab": "395",
+        "avg": ".233",
+        "h": "92",
+        "1b": "62",
         "2b": "18",
         "3b": "1",
         "hr": "11",
         "so": "75",
-        "bipballs in play": "321",
+        "bipballs in play": "323",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 20:42:30.037737"
+        "updated": "2025-05-02 20:42:38.591305"
     },
     "wsh @ cin": [
         {
@@ -1448,6 +1448,21 @@
     ],
     "kc @ bal": [
         {
+            "player": "heston kjerstad",
+            "game": "kc @ bal",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-05-02 20:42:32",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "106.0",
+            "la": "9",
+            "dist": "175"
+        },
+        {
             "player": "ramon laureano",
             "game": "kc @ bal",
             "hr/park": "",
@@ -2200,21 +2215,6 @@
     ],
     "tb @ nyy": [
         {
-            "player": "chandler simpson",
-            "game": "tb @ nyy",
-            "hr/park": "",
-            "pa": "42",
-            "dt": "2025-05-02 20:42:17",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "7:05 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "danny jansen",
             "game": "tb @ nyy",
             "hr/park": "",
@@ -2841,7 +2841,7 @@
             "team": "cle",
             "start": "7:07 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "96.1",
             "la": "4",
             "dist": "91"
@@ -5896,10 +5896,10 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "81.5",
+            "la": "66",
+            "dist": "139"
         },
         {
             "player": "adolis garcia",
@@ -6296,6 +6296,21 @@
     ],
     "nym @ stl": [
         {
+            "player": "francisco alvarez",
+            "game": "nym @ stl",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-05-02 20:42:32",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "8:15 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jeff mcneil",
             "game": "nym @ stl",
             "hr/park": "",
@@ -6305,7 +6320,7 @@
             "team": "nym",
             "start": "8:15 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "91.9",
             "la": "-14",
             "dist": "11"
