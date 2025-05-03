@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "31",
-        "batters": "202",
-        "pitches": "1402",
+        "batters": "201",
+        "pitches": "1404",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "70.1",
         "ff%fourseam fastball %": "32.1",
-        "si%sinker %": "14.8",
+        "si%sinker %": "14.9",
         "fc%cutter %": "11.5",
         "fs%splitter %": "4.4",
-        "ch%changeup %": "11.3",
+        "ch%changeup %": "11.2",
         "sl%slider %": "17.9",
-        "cu%curve %": "8.1",
+        "cu%curve %": "8.0",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "89",
-        "hh%hard hit %": "33.0",
+        "hhhard hit": "90",
+        "hh%hard hit %": "33.2",
         "brlbarrels": "9",
         "brl%barrel %": "3.3",
-        "ab": "346",
-        "avg": ".211",
+        "ab": "344",
+        "avg": ".212",
         "h": "73",
         "1b": "54",
         "2b": "13",
         "3b": "1",
         "hr": "5",
         "so": "70",
-        "bipballs in play": "270",
+        "bipballs in play": "271",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 20:31:45.584095"
+        "updated": "2025-05-02 20:31:53.960993"
     },
     "wsh @ cin": [
         {
@@ -243,21 +243,6 @@
         }
     ],
     "sd @ pit": [
-        {
-            "player": "martin maldonado",
-            "game": "sd @ pit",
-            "hr/park": "",
-            "pa": "16",
-            "dt": "2025-05-02 20:31:31",
-            "img": "https://www.mlbstatic.com/team-logos/135.svg",
-            "team": "sd",
-            "start": "6:40 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "jason heyward",
             "game": "sd @ pit",
@@ -486,11 +471,11 @@
     ],
     "ari @ phi": [
         {
-            "player": "corbin carroll",
+            "player": "randal grichuk",
             "game": "ari @ phi",
             "hr/park": "",
-            "pa": "51",
-            "dt": "2025-05-02 20:29:33",
+            "pa": "52",
+            "dt": "2025-05-02 20:31:48",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "start": "6:45 PM",
@@ -499,6 +484,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "corbin carroll",
+            "game": "ari @ phi",
+            "hr/park": "0/30",
+            "pa": "51",
+            "dt": "2025-05-02 20:29:33",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "6:45 PM",
+            "in": "7",
+            "result": "Flyout",
+            "evo": "96.8",
+            "la": "42",
+            "dist": "319"
         },
         {
             "player": "ketel marte",
@@ -2502,21 +2502,6 @@
     ],
     "cle @ tor": [
         {
-            "player": "george springer",
-            "game": "cle @ tor",
-            "hr/park": "",
-            "pa": "42",
-            "dt": "2025-05-02 20:31:31",
-            "img": "https://www.mlbstatic.com/team-logos/141.svg",
-            "team": "tor",
-            "start": "7:07 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "anthony santander",
             "game": "cle @ tor",
             "hr/park": "0/30",
@@ -3144,9 +3129,9 @@
             "start": "7:10 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "102.9",
-            "la": "20",
-            "dist": "358"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "ceddanne rafaela",
@@ -4263,21 +4248,6 @@
     ],
     "lad @ atl": [
         {
-            "player": "mookie betts",
-            "game": "lad @ atl",
-            "hr/park": "",
-            "pa": "37",
-            "dt": "2025-05-02 20:31:31",
-            "img": "https://www.mlbstatic.com/team-logos/119.svg",
-            "team": "lad",
-            "start": "7:15 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "shohei ohtani",
             "game": "lad @ atl",
             "hr/park": "",
@@ -5222,9 +5192,9 @@
             "start": "8:05 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "96.3",
+            "la": "21",
+            "dist": "321"
         },
         {
             "player": "rowdy tellez",
@@ -5381,7 +5351,7 @@
         {
             "player": "jackson chourio",
             "game": "chc @ mil",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "9",
             "dt": "2025-05-02 20:31:02",
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
