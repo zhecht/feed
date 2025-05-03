@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "31",
-        "batters": "201",
-        "pitches": "1404",
+        "batters": "203",
+        "pitches": "1412",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "70.1",
-        "ff%fourseam fastball %": "32.1",
+        "ff%fourseam fastball %": "31.9",
         "si%sinker %": "14.9",
-        "fc%cutter %": "11.5",
+        "fc%cutter %": "11.4",
         "fs%splitter %": "4.4",
-        "ch%changeup %": "11.2",
-        "sl%slider %": "17.9",
+        "ch%changeup %": "11.3",
+        "sl%slider %": "18.1",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "90",
-        "hh%hard hit %": "33.2",
+        "hhhard hit": "91",
+        "hh%hard hit %": "33.3",
         "brlbarrels": "9",
         "brl%barrel %": "3.3",
-        "ab": "344",
-        "avg": ".212",
+        "ab": "347",
+        "avg": ".210",
         "h": "73",
         "1b": "54",
         "2b": "13",
         "3b": "1",
         "hr": "5",
         "so": "70",
-        "bipballs in play": "271",
+        "bipballs in play": "273",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 20:31:53.960993"
+        "updated": "2025-05-02 20:32:02.486818"
     },
     "wsh @ cin": [
         {
@@ -243,6 +243,21 @@
         }
     ],
     "sd @ pit": [
+        {
+            "player": "martin maldonado",
+            "game": "sd @ pit",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-05-02 20:31:31",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "81.7",
+            "la": "33",
+            "dist": "296"
+        },
         {
             "player": "jason heyward",
             "game": "sd @ pit",
@@ -3129,9 +3144,9 @@
             "start": "7:10 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "102.9",
+            "la": "20",
+            "dist": "358"
         },
         {
             "player": "ceddanne rafaela",
@@ -4248,6 +4263,21 @@
     ],
     "lad @ atl": [
         {
+            "player": "mookie betts",
+            "game": "lad @ atl",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-05-02 20:31:31",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "7:15 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "shohei ohtani",
             "game": "lad @ atl",
             "hr/park": "",
@@ -5182,16 +5212,31 @@
     ],
     "sea @ tex": [
         {
-            "player": "miles mastrobuoni",
+            "player": "ben williamson",
             "game": "sea @ tex",
             "hr/park": "",
+            "pa": "11",
+            "dt": "2025-05-02 20:32:01",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "8:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "miles mastrobuoni",
+            "game": "sea @ tex",
+            "hr/park": "0/30",
             "pa": "10",
             "dt": "2025-05-02 20:30:46",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "start": "8:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "96.3",
             "la": "21",
             "dist": "321"
