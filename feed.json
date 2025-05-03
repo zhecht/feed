@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "33",
-        "batters": "213",
-        "pitches": "1572",
+        "batters": "214",
+        "pitches": "1587",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "70.1",
         "ff%fourseam fastball %": "31.4",
         "si%sinker %": "15.3",
-        "fc%cutter %": "11.3",
-        "fs%splitter %": "4.1",
-        "ch%changeup %": "11.3",
+        "fc%cutter %": "11.2",
+        "fs%splitter %": "4.2",
+        "ch%changeup %": "11.2",
         "sl%slider %": "18.8",
         "cu%curve %": "7.9",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "107",
-        "hh%hard hit %": "35.1",
+        "hhhard hit": "108",
+        "hh%hard hit %": "35.2",
         "brlbarrels": "16",
         "brl%barrel %": "5.2",
         "ab": "382",
-        "avg": ".228",
-        "h": "87",
-        "1b": "59",
+        "avg": ".230",
+        "h": "88",
+        "1b": "60",
         "2b": "16",
         "3b": "1",
         "hr": "11",
         "so": "75",
-        "bipballs in play": "305",
+        "bipballs in play": "307",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-02 20:39:28.547543"
+        "updated": "2025-05-02 20:39:37.090290"
     },
     "wsh @ cin": [
         {
@@ -42,9 +42,9 @@
             "start": "6:10 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "57.2",
+            "la": "-14",
+            "dist": "11"
         },
         {
             "player": "tj friedl",
@@ -1412,7 +1412,7 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2154,6 +2154,21 @@
         }
     ],
     "tb @ nyy": [
+        {
+            "player": "danny jansen",
+            "game": "tb @ nyy",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-05-02 20:39:01",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "cody bellinger",
             "game": "tb @ nyy",
@@ -5279,7 +5294,7 @@
             "team": "hou",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5707,6 +5722,21 @@
     ],
     "sea @ tex": [
         {
+            "player": "marcus semien",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-05-02 20:38:32",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "adolis garcia",
             "game": "sea @ tex",
             "hr/park": "",
@@ -5913,7 +5943,7 @@
             "team": "chc",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6095,10 +6125,10 @@
             "team": "nym",
             "start": "8:15 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "96.4",
+            "la": "10",
+            "dist": "160"
         },
         {
             "player": "jesse winker",
