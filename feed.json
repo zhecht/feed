@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "41",
-        "batters": "122",
-        "pitches": "1529",
+        "batters": "123",
+        "pitches": "1531",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.2",
         "ff%fourseam fastball %": "30.6",
@@ -10,14 +10,14 @@
         "fc%cutter %": "7.5",
         "fs%splitter %": "7.6",
         "ch%changeup %": "10.1",
-        "sl%slider %": "24.3",
-        "cu%curve %": "6.4",
+        "sl%slider %": "24.4",
+        "cu%curve %": "6.5",
         "max evmax exit velocity": "115.0",
         "hhhard hit": "105",
         "hh%hard hit %": "39.8",
         "brlbarrels": "29",
         "brl%barrel %": "11.0",
-        "ab": "354",
+        "ab": "355",
         "avg": ".223",
         "h": "79",
         "1b": "51",
@@ -28,7 +28,7 @@
         "bipballs in play": "264",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-05-03 17:59:44.454729"
+        "updated": "2025-05-03 17:59:53.104153"
     },
     "tb @ nyy": [
         {
@@ -3324,6 +3324,21 @@
     ],
     "sd @ pit": [
         {
+            "player": "joey bart",
+            "game": "sd @ pit",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-05-03 17:59:50",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andrew mccutchen",
             "game": "sd @ pit",
             "hr/park": "",
@@ -3440,7 +3455,7 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4297,7 +4312,7 @@
             "team": "min",
             "start": "4:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "78.0",
             "la": "30",
             "dist": "251"
