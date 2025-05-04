@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "79",
-        "batters": "220",
-        "pitches": "2756",
+        "batters": "221",
+        "pitches": "2760",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "29.0",
-        "si%sinker %": "17.7",
+        "si%sinker %": "17.8",
         "fc%cutter %": "8.1",
         "fs%splitter %": "3.4",
         "ch%changeup %": "12.4",
         "sl%slider %": "19.8",
-        "cu%curve %": "9.4",
+        "cu%curve %": "9.3",
         "max evmax exit velocity": "112.0",
-        "hhhard hit": "201",
-        "hh%hard hit %": "39.6",
+        "hhhard hit": "202",
+        "hh%hard hit %": "39.7",
         "brlbarrels": "34",
         "brl%barrel %": "6.7",
         "ab": "637",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "19",
         "so": "130",
-        "bipballs in play": "507",
+        "bipballs in play": "509",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-04 16:11:09.013826"
+        "updated": "2025-05-04 16:11:19.177454"
     },
     "nym @ stl": [
         {
@@ -8368,7 +8368,7 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "5",
-            "result": "Mound Visit",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10662,17 +10662,17 @@
         {
             "player": "mike yastrzemski",
             "game": "col @ sf",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "5",
             "dt": "2025-05-04 16:11:05",
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
             "team": "sf",
             "start": "4:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "97.7",
+            "la": "24",
+            "dist": "366"
         },
         {
             "player": "hunter goodman",
@@ -10737,6 +10737,21 @@
     ],
     "det @ laa": [
         {
+            "player": "zach mckinstry",
+            "game": "det @ laa",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-05-04 16:11:19",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "4:07 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gleyber torres",
             "game": "det @ laa",
             "hr/park": "",
@@ -10746,7 +10761,7 @@
             "team": "det",
             "start": "4:07 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
