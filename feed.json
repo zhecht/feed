@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "64",
+        "pitchers": "63",
         "batters": "211",
-        "pitches": "2528",
+        "pitches": "2535",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "28.9",
-        "si%sinker %": "17.7",
+        "ff%fourseam fastball %": "29.0",
+        "si%sinker %": "17.6",
         "fc%cutter %": "7.8",
-        "fs%splitter %": "3.0",
+        "fs%splitter %": "3.1",
         "ch%changeup %": "12.9",
-        "sl%slider %": "19.7",
+        "sl%slider %": "19.8",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "112.0",
-        "hhhard hit": "182",
-        "hh%hard hit %": "38.8",
-        "brlbarrels": "30",
-        "brl%barrel %": "6.4",
-        "ab": "586",
-        "avg": ".275",
-        "h": "161",
+        "hhhard hit": "184",
+        "hh%hard hit %": "39.1",
+        "brlbarrels": "32",
+        "brl%barrel %": "6.8",
+        "ab": "587",
+        "avg": ".278",
+        "h": "163",
         "1b": "116",
         "2b": "27",
         "3b": "2",
-        "hr": "16",
+        "hr": "18",
         "so": "118",
-        "bipballs in play": "469",
+        "bipballs in play": "471",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-05-04 15:59:26.220491"
+        "updated": "2025-05-04 15:59:35.890364"
     },
     "nym @ stl": [
+        {
+            "player": "brandon nimmo",
+            "game": "nym @ stl",
+            "hr/park": "",
+            "pa": "77",
+            "dt": "2025-05-04 15:59:34",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "1:15 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "pete alonso",
             "game": "nym @ stl",
@@ -1177,17 +1192,17 @@
         {
             "player": "luke maile",
             "game": "kc @ bal",
-            "hr/park": "",
+            "hr/park": "30/30",
             "pa": "66",
             "dt": "2025-05-04 15:58:20",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "106.1",
+            "la": "27",
+            "dist": "419"
         },
         {
             "player": "drew waters",
@@ -2166,21 +2181,6 @@
         }
     ],
     "sd @ pit": [
-        {
-            "player": "luis arraez",
-            "game": "sd @ pit",
-            "hr/park": "",
-            "pa": "69",
-            "dt": "2025-05-04 15:59:19",
-            "img": "https://www.mlbstatic.com/team-logos/135.svg",
-            "team": "sd",
-            "start": "1:35 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "joey bart",
             "game": "sd @ pit",
@@ -3203,6 +3203,21 @@
         }
     ],
     "min @ bos": [
+        {
+            "player": "ty france",
+            "game": "min @ bos",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-05-04 15:59:34",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ryan jeffers",
             "game": "min @ bos",
@@ -4288,17 +4303,17 @@
         {
             "player": "cody bellinger",
             "game": "tb @ nyy",
-            "hr/park": "",
+            "hr/park": "29/30",
             "pa": "56",
             "dt": "2025-05-04 15:59:06",
             "img": "https://www.mlbstatic.com/team-logos/147.svg",
             "team": "nyy",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "101.1",
+            "la": "30",
+            "dist": "395"
         },
         {
             "player": "aaron judge",
