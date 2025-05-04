@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "89",
         "batters": "240",
-        "pitches": "3021",
+        "pitches": "3027",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "29.4",
-        "si%sinker %": "17.6",
+        "si%sinker %": "17.7",
         "fc%cutter %": "7.5",
         "fs%splitter %": "3.3",
         "ch%changeup %": "11.9",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "39.1",
         "brlbarrels": "35",
         "brl%barrel %": "6.3",
-        "ab": "693",
-        "avg": ".271",
-        "h": "188",
-        "1b": "137",
+        "ab": "694",
+        "avg": ".272",
+        "h": "189",
+        "1b": "138",
         "2b": "29",
         "3b": "2",
         "hr": "20",
         "so": "143",
-        "bipballs in play": "557",
+        "bipballs in play": "558",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-04 16:26:10.376195"
+        "updated": "2025-05-04 16:26:20.994114"
     },
     "nym @ stl": [
         {
@@ -4775,7 +4775,7 @@
             "team": "nyy",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7892,6 +7892,21 @@
     ],
     "ari @ phi": [
         {
+            "player": "alec bohm",
+            "game": "ari @ phi",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-05-04 16:26:19",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "2:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jt realmuto",
             "game": "ari @ phi",
             "hr/park": "",
@@ -8863,10 +8878,10 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "80.8",
+            "la": "17",
+            "dist": "233"
         },
         {
             "player": "brooks baldwin",
