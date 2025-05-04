@@ -1,17 +1,17 @@
 {
     "all": {
-        "pitchers": "11",
-        "batters": "54",
-        "pitches": "210",
+        "pitchers": "12",
+        "batters": "55",
+        "pitches": "215",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.4",
-        "ff%fourseam fastball %": "31.9",
-        "si%sinker %": "19.0",
-        "fc%cutter %": "11.4",
+        "ff%fourseam fastball %": "32.1",
+        "si%sinker %": "20.0",
+        "fc%cutter %": "11.2",
         "fs%splitter %": "1.9",
-        "ch%changeup %": "11.0",
-        "sl%slider %": "20.5",
-        "cu%curve %": "3.8",
+        "ch%changeup %": "10.2",
+        "sl%slider %": "19.5",
+        "cu%curve %": "4.7",
         "max evmax exit velocity": "108.5",
         "hhhard hit": "16",
         "hh%hard hit %": "44.4",
@@ -28,24 +28,9 @@
         "bipballs in play": "36",
         "liveGames": 7,
         "totGames": 16,
-        "updated": "2025-05-04 13:52:43.819113"
+        "updated": "2025-05-04 13:52:51.126098"
     },
     "nym @ stl": [
-        {
-            "player": "juan soto",
-            "game": "nym @ stl",
-            "hr/park": "",
-            "pa": "21",
-            "dt": "2025-05-04 13:52:34",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "1:15 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "lars nootbaar",
             "game": "nym @ stl",
@@ -457,6 +442,21 @@
     ],
     "sd @ pit": [
         {
+            "player": "oneil cruz",
+            "game": "sd @ pit",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-05-04 13:52:48",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "1:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose iglesias",
             "game": "sd @ pit",
             "hr/park": "",
@@ -566,7 +566,7 @@
         {
             "player": "kristian campbell",
             "game": "min @ bos",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "9",
             "dt": "2025-05-04 13:50:03",
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
@@ -818,7 +818,7 @@
             "team": "mia",
             "start": "1:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
