@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "51",
         "batters": "209",
-        "pitches": "2342",
+        "pitches": "2348",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "28.6",
+        "ff%fourseam fastball %": "28.5",
         "si%sinker %": "18.1",
         "fc%cutter %": "8.2",
         "fs%splitter %": "3.1",
@@ -13,10 +13,10 @@
         "sl%slider %": "18.4",
         "cu%curve %": "10.0",
         "max evmax exit velocity": "112.0",
-        "hhhard hit": "171",
+        "hhhard hit": "172",
         "hh%hard hit %": "40.0",
         "brlbarrels": "29",
-        "brl%barrel %": "6.8",
+        "brl%barrel %": "6.7",
         "ab": "534",
         "avg": ".281",
         "h": "150",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "15",
         "so": "108",
-        "bipballs in play": "428",
+        "bipballs in play": "430",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-05-04 15:49:42.520271"
+        "updated": "2025-05-04 15:49:52.097958"
     },
     "nym @ stl": [
         {
@@ -1154,7 +1154,7 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4747,7 +4747,7 @@
             "team": "cle",
             "start": "1:37 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8497,6 +8497,36 @@
         }
     ],
     "sea @ tex": [
+        {
+            "player": "corey seager",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-05-04 15:49:50",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "2:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "wyatt langford",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-05-04 15:49:50",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "2:35 PM",
+            "in": "4",
+            "result": "GIDP",
+            "evo": "96.9",
+            "la": "-7",
+            "dist": "18"
+        },
         {
             "player": "josh smith",
             "game": "sea @ tex",
