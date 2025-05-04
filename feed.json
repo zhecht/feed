@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "27",
-        "batters": "195",
-        "pitches": "1529",
+        "batters": "196",
+        "pitches": "1539",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "30.6",
+        "ff%fourseam fastball %": "30.7",
         "si%sinker %": "18.2",
         "fc%cutter %": "8.6",
         "fs%splitter %": "2.9",
@@ -13,22 +13,22 @@
         "sl%slider %": "16.5",
         "cu%curve %": "8.9",
         "max evmax exit velocity": "112.0",
-        "hhhard hit": "116",
-        "hh%hard hit %": "42.6",
+        "hhhard hit": "117",
+        "hh%hard hit %": "42.7",
         "brlbarrels": "20",
-        "brl%barrel %": "7.4",
-        "ab": "343",
-        "avg": ".274",
+        "brl%barrel %": "7.3",
+        "ab": "347",
+        "avg": ".271",
         "h": "94",
         "1b": "66",
         "2b": "19",
         "3b": "0",
         "hr": "9",
-        "so": "69",
-        "bipballs in play": "272",
+        "so": "70",
+        "bipballs in play": "274",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-05-04 15:06:16.622453"
+        "updated": "2025-05-04 15:06:24.999603"
     },
     "nym @ stl": [
         {
@@ -2154,6 +2154,36 @@
     ],
     "min @ bos": [
         {
+            "player": "kristian campbell",
+            "game": "min @ bos",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-05-04 15:06:19",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "alex bregman",
+            "game": "min @ bos",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-05-04 15:06:19",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "Groundout",
+            "evo": "102.3",
+            "la": "4",
+            "dist": "88"
+        },
+        {
             "player": "rafael devers",
             "game": "min @ bos",
             "hr/park": "",
@@ -3840,6 +3870,21 @@
     ],
     "ath @ mia": [
         {
+            "player": "miguel andujar",
+            "game": "ath @ mia",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-05-04 15:06:19",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "1:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jj bleday",
             "game": "ath @ mia",
             "hr/park": "",
@@ -3849,7 +3894,7 @@
             "team": "ath",
             "start": "1:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "81.3",
             "la": "79",
             "dist": "37"
@@ -5280,7 +5325,7 @@
             "team": "chc",
             "start": "2:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5618,11 +5663,11 @@
     ],
     "sea @ tex": [
         {
-            "player": "jonah heim",
+            "player": "adolis garcia",
             "game": "sea @ tex",
             "hr/park": "",
-            "pa": "13",
-            "dt": "2025-05-04 15:04:49",
+            "pa": "14",
+            "dt": "2025-05-04 15:06:19",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
             "start": "2:35 PM",
@@ -5631,6 +5676,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "jonah heim",
+            "game": "sea @ tex",
+            "hr/park": "0/30",
+            "pa": "13",
+            "dt": "2025-05-04 15:04:49",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "2:35 PM",
+            "in": "2",
+            "result": "Lineout",
+            "evo": "91.2",
+            "la": "24",
+            "dist": "318"
         },
         {
             "player": "marcus semien",
