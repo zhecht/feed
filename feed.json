@@ -1,16 +1,16 @@
 {
     "all": {
         "pitchers": "16",
-        "batters": "113",
-        "pitches": "501",
+        "batters": "112",
+        "pitches": "504",
         "max velomax pitch velocity": "98.5",
         "min velomin pitch velocity": "72.3",
-        "ff%fourseam fastball %": "30.7",
-        "si%sinker %": "21.0",
-        "fc%cutter %": "7.8",
-        "fs%splitter %": "2.0",
-        "ch%changeup %": "13.0",
-        "sl%slider %": "19.0",
+        "ff%fourseam fastball %": "30.2",
+        "si%sinker %": "21.4",
+        "fc%cutter %": "7.9",
+        "fs%splitter %": "2.2",
+        "ch%changeup %": "12.9",
+        "sl%slider %": "18.8",
         "cu%curve %": "6.0",
         "max evmax exit velocity": "110.9",
         "hhhard hit": "39",
@@ -24,13 +24,28 @@
         "2b": "11",
         "3b": "0",
         "hr": "5",
-        "so": "27",
+        "so": "29",
         "bipballs in play": "93",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-04 14:14:16.943209"
+        "updated": "2025-05-04 14:14:24.619233"
     },
     "nym @ stl": [
+        {
+            "player": "francisco lindor",
+            "game": "nym @ stl",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-05-04 14:14:19",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "1:15 PM",
+            "in": "4",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jose azocar",
             "game": "nym @ stl",
@@ -1415,7 +1430,7 @@
             "team": "tb",
             "start": "1:35 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1492,10 +1507,10 @@
             "team": "cle",
             "start": "1:37 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "92.7",
+            "la": "-1",
+            "dist": "36"
         },
         {
             "player": "angel martinez",
@@ -1739,21 +1754,6 @@
         }
     ],
     "ath @ mia": [
-        {
-            "player": "nick fortes",
-            "game": "ath @ mia",
-            "hr/park": "",
-            "pa": "16",
-            "dt": "2025-05-04 14:13:33",
-            "img": "https://www.mlbstatic.com/team-logos/146.svg",
-            "team": "mia",
-            "start": "1:40 PM",
-            "in": "2",
-            "result": "Lineout",
-            "evo": "93.6",
-            "la": "20",
-            "dist": "335"
-        },
         {
             "player": "dane myers",
             "game": "ath @ mia",
@@ -2038,7 +2038,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
