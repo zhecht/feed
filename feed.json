@@ -1,13 +1,13 @@
 {
     "all": {
         "pitchers": "13",
-        "batters": "87",
-        "pitches": "388",
+        "batters": "88",
+        "pitches": "389",
         "max velomax pitch velocity": "98.5",
         "min velomin pitch velocity": "72.3",
-        "ff%fourseam fastball %": "30.4",
+        "ff%fourseam fastball %": "30.6",
         "si%sinker %": "20.6",
-        "fc%cutter %": "8.8",
+        "fc%cutter %": "8.7",
         "fs%splitter %": "2.1",
         "ch%changeup %": "13.1",
         "sl%slider %": "18.8",
@@ -28,7 +28,7 @@
         "bipballs in play": "74",
         "liveGames": 8,
         "totGames": 16,
-        "updated": "2025-05-04 14:07:14.093460"
+        "updated": "2025-05-04 14:07:21.425814"
     },
     "nym @ stl": [
         {
@@ -494,7 +494,7 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "35.4",
             "la": "-1",
             "dist": "20"
@@ -691,7 +691,7 @@
             "team": "sd",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "101.4",
             "la": "-2",
             "dist": "37"
@@ -939,6 +939,21 @@
     ],
     "min @ bos": [
         {
+            "player": "carlos narvaez",
+            "game": "min @ bos",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-05-04 14:07:18",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "david hamilton",
             "game": "min @ bos",
             "hr/park": "",
@@ -948,7 +963,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Sac Bunt",
             "evo": "36.5",
             "la": "-68",
             "dist": "2"
