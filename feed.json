@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "9",
-        "batters": "39",
-        "pitches": "141",
+        "batters": "41",
+        "pitches": "148",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.4",
-        "ff%fourseam fastball %": "26.2",
-        "si%sinker %": "24.8",
-        "fc%cutter %": "14.9",
-        "fs%splitter %": "2.8",
-        "ch%changeup %": "11.3",
-        "sl%slider %": "16.3",
-        "cu%curve %": "2.8",
+        "ff%fourseam fastball %": "27.7",
+        "si%sinker %": "25.0",
+        "fc%cutter %": "14.2",
+        "fs%splitter %": "2.7",
+        "ch%changeup %": "10.8",
+        "sl%slider %": "16.2",
+        "cu%curve %": "2.7",
         "max evmax exit velocity": "108.5",
-        "hhhard hit": "12",
-        "hh%hard hit %": "46.2",
+        "hhhard hit": "13",
+        "hh%hard hit %": "46.4",
         "brlbarrels": "4",
-        "brl%barrel %": "15.4",
-        "ab": "37",
-        "avg": ".270",
-        "h": "10",
+        "brl%barrel %": "14.3",
+        "ab": "39",
+        "avg": ".282",
+        "h": "11",
         "1b": "4",
-        "2b": "4",
+        "2b": "5",
         "3b": "0",
         "hr": "2",
-        "so": "8",
-        "bipballs in play": "26",
+        "so": "9",
+        "bipballs in play": "28",
         "liveGames": 7,
         "totGames": 16,
-        "updated": "2025-05-04 13:46:33.010344"
+        "updated": "2025-05-04 13:46:40.304109"
     },
     "nym @ stl": [
         {
@@ -299,7 +299,7 @@
             "team": "kc",
             "start": "1:35 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -351,6 +351,21 @@
         }
     ],
     "sd @ pit": [
+        {
+            "player": "oscar gonzalez",
+            "game": "sd @ pit",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-05-04 13:46:35",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "1:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "luis campusano",
             "game": "sd @ pit",
@@ -537,6 +552,21 @@
     "tb @ nyy": [],
     "cle @ tor": [
         {
+            "player": "vladimir guerrero",
+            "game": "cle @ tor",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-05-04 13:46:35",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:37 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "105.7",
+            "la": "-17",
+            "dist": "10"
+        },
+        {
             "player": "bo bichette",
             "game": "cle @ tor",
             "hr/park": "",
@@ -546,10 +576,10 @@
             "team": "tor",
             "start": "1:37 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "92.2",
+            "la": "17",
+            "dist": "223"
         },
         {
             "player": "jose ramirez",
