@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "20",
         "batters": "130",
-        "pitches": "676",
+        "pitches": "679",
         "max velomax pitch velocity": "98.5",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "30.3",
+        "ff%fourseam fastball %": "30.5",
         "si%sinker %": "20.0",
-        "fc%cutter %": "8.0",
+        "fc%cutter %": "8.2",
         "fs%splitter %": "2.8",
-        "ch%changeup %": "13.8",
-        "sl%slider %": "18.2",
-        "cu%curve %": "6.1",
+        "ch%changeup %": "13.4",
+        "sl%slider %": "18.1",
+        "cu%curve %": "6.0",
         "max evmax exit velocity": "110.9",
-        "hhhard hit": "49",
-        "hh%hard hit %": "42.6",
+        "hhhard hit": "50",
+        "hh%hard hit %": "43.1",
         "brlbarrels": "11",
-        "brl%barrel %": "9.6",
+        "brl%barrel %": "9.5",
         "ab": "159",
         "avg": ".283",
         "h": "45",
@@ -24,11 +24,11 @@
         "2b": "11",
         "3b": "0",
         "hr": "6",
-        "so": "40",
-        "bipballs in play": "115",
+        "so": "41",
+        "bipballs in play": "116",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-04 14:22:58.325174"
+        "updated": "2025-05-04 14:23:05.924165"
     },
     "nym @ stl": [
         {
@@ -901,7 +901,7 @@
             "team": "sd",
             "start": "1:35 PM",
             "in": "3",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "60.1",
             "la": "30",
             "dist": "171"
@@ -1278,10 +1278,10 @@
             "team": "min",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "99.3",
+            "la": "-7",
+            "dist": "16"
         },
         {
             "player": "byron buxton",
@@ -1738,6 +1738,21 @@
     ],
     "cle @ tor": [
         {
+            "player": "anthony santander",
+            "game": "cle @ tor",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-05-04 14:23:04",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:37 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "vladimir guerrero",
             "game": "cle @ tor",
             "hr/park": "",
@@ -1747,7 +1762,7 @@
             "team": "tor",
             "start": "1:37 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2381,7 +2396,7 @@
             "team": "phi",
             "start": "2:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
