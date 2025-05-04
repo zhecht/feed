@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "22",
-        "batters": "164",
-        "pitches": "1007",
+        "batters": "165",
+        "pitches": "1009",
         "max velomax pitch velocity": "98.5",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "32.6",
-        "si%sinker %": "18.3",
-        "fc%cutter %": "8.5",
+        "ff%fourseam fastball %": "32.7",
+        "si%sinker %": "18.0",
+        "fc%cutter %": "8.6",
         "fs%splitter %": "2.8",
         "ch%changeup %": "13.6",
         "sl%slider %": "15.7",
-        "cu%curve %": "7.9",
+        "cu%curve %": "8.0",
         "max evmax exit velocity": "111.3",
-        "hhhard hit": "68",
-        "hh%hard hit %": "41.0",
+        "hhhard hit": "69",
+        "hh%hard hit %": "41.3",
         "brlbarrels": "13",
         "brl%barrel %": "7.8",
         "ab": "221",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "6",
         "so": "51",
-        "bipballs in play": "166",
+        "bipballs in play": "167",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-05-04 14:40:03.203115"
+        "updated": "2025-05-04 14:40:11.175598"
     },
     "nym @ stl": [
         {
@@ -694,21 +694,6 @@
     ],
     "nym-gm2 @ stl-gm2": [],
     "kc @ bal": [
-        {
-            "player": "hunter renfroe",
-            "game": "kc @ bal",
-            "hr/park": "",
-            "pa": "29",
-            "dt": "2025-05-04 14:39:49",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "start": "1:35 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "michael massey",
             "game": "kc @ bal",
@@ -2096,6 +2081,21 @@
     ],
     "tb @ nyy": [
         {
+            "player": "jc escarra",
+            "game": "tb @ nyy",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-05-04 14:40:05",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:35 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jasson dominguez",
             "game": "tb @ nyy",
             "hr/park": "",
@@ -2769,10 +2769,10 @@
             "team": "mia",
             "start": "1:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "100.4",
+            "la": "-10",
+            "dist": "14"
         },
         {
             "player": "luis urias",
