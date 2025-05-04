@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "20",
         "batters": "154",
-        "pitches": "906",
+        "pitches": "914",
         "max velomax pitch velocity": "98.5",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "31.9",
+        "ff%fourseam fastball %": "32.1",
         "si%sinker %": "18.3",
-        "fc%cutter %": "8.6",
-        "fs%splitter %": "2.8",
-        "ch%changeup %": "14.0",
-        "sl%slider %": "16.4",
+        "fc%cutter %": "8.5",
+        "fs%splitter %": "2.7",
+        "ch%changeup %": "13.9",
+        "sl%slider %": "16.5",
         "cu%curve %": "7.3",
         "max evmax exit velocity": "111.3",
-        "hhhard hit": "63",
-        "hh%hard hit %": "42.3",
+        "hhhard hit": "64",
+        "hh%hard hit %": "42.7",
         "brlbarrels": "13",
         "brl%barrel %": "8.7",
-        "ab": "199",
-        "avg": ".266",
-        "h": "53",
-        "1b": "35",
+        "ab": "200",
+        "avg": ".270",
+        "h": "54",
+        "1b": "36",
         "2b": "12",
         "3b": "0",
         "hr": "6",
-        "so": "47",
-        "bipballs in play": "149",
+        "so": "48",
+        "bipballs in play": "150",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-04 14:34:43.680309"
+        "updated": "2025-05-04 14:34:51.574248"
     },
     "nym @ stl": [
         {
@@ -689,7 +689,7 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -697,7 +697,7 @@
         {
             "player": "adley rutschman",
             "game": "kc @ bal",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "24",
             "dt": "2025-05-04 14:31:35",
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
@@ -1056,6 +1056,21 @@
         }
     ],
     "sd @ pit": [
+        {
+            "player": "fernando tatis",
+            "game": "sd @ pit",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-05-04 14:34:49",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "bryan reynolds",
             "game": "sd @ pit",
@@ -3118,10 +3133,10 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "101.4",
+            "la": "3",
+            "dist": "68"
         },
         {
             "player": "victor caratini",
