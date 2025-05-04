@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "87",
-        "batters": "237",
-        "pitches": "2987",
+        "batters": "239",
+        "pitches": "2995",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "29.4",
@@ -11,24 +11,24 @@
         "fs%splitter %": "3.3",
         "ch%changeup %": "12.0",
         "sl%slider %": "21.0",
-        "cu%curve %": "8.9",
+        "cu%curve %": "8.8",
         "max evmax exit velocity": "112.0",
-        "hhhard hit": "215",
-        "hh%hard hit %": "39.3",
+        "hhhard hit": "217",
+        "hh%hard hit %": "39.5",
         "brlbarrels": "35",
         "brl%barrel %": "6.4",
-        "ab": "682",
-        "avg": ".271",
+        "ab": "687",
+        "avg": ".269",
         "h": "185",
         "1b": "134",
         "2b": "29",
         "3b": "2",
         "hr": "20",
-        "so": "141",
-        "bipballs in play": "547",
+        "so": "142",
+        "bipballs in play": "549",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-04 16:24:14.362854"
+        "updated": "2025-05-04 16:24:24.901064"
     },
     "nym @ stl": [
         {
@@ -7847,16 +7847,31 @@
     ],
     "ari @ phi": [
         {
-            "player": "kyle schwarber",
+            "player": "nick castellanos",
             "game": "ari @ phi",
             "hr/park": "",
+            "pa": "63",
+            "dt": "2025-05-04 16:24:19",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "2:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "96.4",
+            "la": "-3",
+            "dist": "31"
+        },
+        {
+            "player": "kyle schwarber",
+            "game": "ari @ phi",
+            "hr/park": "1/30",
             "pa": "62",
             "dt": "2025-05-04 16:22:05",
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "start": "2:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "101.7",
             "la": "40",
             "dist": "372"
@@ -8778,6 +8793,21 @@
         }
     ],
     "hou @ chw": [
+        {
+            "player": "brooks baldwin",
+            "game": "hou @ chw",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-05-04 16:24:19",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "miguel vargas",
             "game": "hou @ chw",
@@ -10493,6 +10523,36 @@
     ],
     "sea @ tex": [
         {
+            "player": "joc pederson",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-05-04 16:24:19",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "2:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "corey seager",
+            "game": "sea @ tex",
+            "hr/park": "0/30",
+            "pa": "55",
+            "dt": "2025-05-04 16:24:19",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "2:35 PM",
+            "in": "6",
+            "result": "Lineout",
+            "evo": "103.6",
+            "la": "16",
+            "dist": "315"
+        },
+        {
             "player": "wyatt langford",
             "game": "sea @ tex",
             "hr/park": "",
@@ -11305,6 +11365,21 @@
     ],
     "col @ sf": [
         {
+            "player": "jacob stallings",
+            "game": "col @ sf",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-05-04 16:24:19",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mickey moniak",
             "game": "col @ sf",
             "hr/park": "",
@@ -11314,7 +11389,7 @@
             "team": "col",
             "start": "4:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
