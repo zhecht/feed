@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "80",
+        "pitchers": "79",
         "batters": "222",
-        "pitches": "2821",
+        "pitches": "2824",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "29.1",
@@ -10,8 +10,8 @@
         "fc%cutter %": "7.9",
         "fs%splitter %": "3.4",
         "ch%changeup %": "12.3",
-        "sl%slider %": "20.0",
-        "cu%curve %": "9.3",
+        "sl%slider %": "19.9",
+        "cu%curve %": "9.2",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "205",
         "hh%hard hit %": "39.7",
@@ -24,11 +24,11 @@
         "2b": "29",
         "3b": "2",
         "hr": "19",
-        "so": "134",
+        "so": "135",
         "bipballs in play": "517",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-04 16:14:11.671958"
+        "updated": "2025-05-04 16:14:22.363693"
     },
     "nym @ stl": [
         {
@@ -7592,21 +7592,6 @@
     ],
     "ari @ phi": [
         {
-            "player": "randal grichuk",
-            "game": "ari @ phi",
-            "hr/park": "",
-            "pa": "58",
-            "dt": "2025-05-04 16:14:04",
-            "img": "https://www.mlbstatic.com/team-logos/109.svg",
-            "team": "ari",
-            "start": "2:05 PM",
-            "in": "7",
-            "result": "Pop Out",
-            "evo": "75.6",
-            "la": "85",
-            "dist": "47"
-        },
-        {
             "player": "trea turner",
             "game": "ari @ phi",
             "hr/park": "",
@@ -8464,6 +8449,21 @@
     ],
     "hou @ chw": [
         {
+            "player": "mauricio dubon",
+            "game": "hou @ chw",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-05-04 16:13:34",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "86.0",
+            "la": "9",
+            "dist": "144"
+        },
+        {
             "player": "michael a taylor",
             "game": "hou @ chw",
             "hr/park": "",
@@ -9270,7 +9270,7 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10834,7 +10834,7 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
