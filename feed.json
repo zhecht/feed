@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "50",
         "batters": "208",
-        "pitches": "2300",
+        "pitches": "2305",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "28.9",
-        "si%sinker %": "18.1",
-        "fc%cutter %": "8.0",
+        "si%sinker %": "18.0",
+        "fc%cutter %": "7.9",
         "fs%splitter %": "3.0",
         "ch%changeup %": "13.4",
-        "sl%slider %": "18.3",
+        "sl%slider %": "18.4",
         "cu%curve %": "10.0",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "166",
-        "hh%hard hit %": "39.8",
+        "hh%hard hit %": "39.7",
         "brlbarrels": "28",
         "brl%barrel %": "6.7",
         "ab": "522",
@@ -24,11 +24,11 @@
         "2b": "24",
         "3b": "1",
         "hr": "14",
-        "so": "106",
-        "bipballs in play": "417",
+        "so": "107",
+        "bipballs in play": "418",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-05-04 15:46:42.497143"
+        "updated": "2025-05-04 15:46:52.046233"
     },
     "nym @ stl": [
         {
@@ -2919,6 +2919,21 @@
     ],
     "min @ bos": [
         {
+            "player": "christian vazquez",
+            "game": "min @ bos",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-05-04 15:46:50",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trevor larnach",
             "game": "min @ bos",
             "hr/park": "",
@@ -4627,7 +4642,7 @@
             "team": "cle",
             "start": "1:37 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6341,7 +6356,7 @@
             "team": "phi",
             "start": "2:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8312,10 +8327,10 @@
             "team": "sea",
             "start": "2:35 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "79.3",
+            "la": "39",
+            "dist": "264"
         },
         {
             "player": "miles mastrobuoni",
