@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "101",
-        "batters": "265",
-        "pitches": "3319",
+        "batters": "266",
+        "pitches": "3323",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "29.3",
@@ -10,15 +10,15 @@
         "fc%cutter %": "7.3",
         "fs%splitter %": "3.1",
         "ch%changeup %": "11.9",
-        "sl%slider %": "21.3",
+        "sl%slider %": "21.4",
         "cu%curve %": "9.0",
         "max evmax exit velocity": "113.8",
         "hhhard hit": "236",
         "hh%hard hit %": "38.1",
         "brlbarrels": "41",
         "brl%barrel %": "6.6",
-        "ab": "760",
-        "avg": ".267",
+        "ab": "763",
+        "avg": ".266",
         "h": "203",
         "1b": "148",
         "2b": "31",
@@ -28,7 +28,7 @@
         "bipballs in play": "620",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-04 16:45:27.344272"
+        "updated": "2025-05-04 16:45:38.601655"
     },
     "nym @ stl": [
         {
@@ -6028,6 +6028,21 @@
     ],
     "cle @ tor": [
         {
+            "player": "bo bichette",
+            "game": "cle @ tor",
+            "hr/park": "",
+            "pa": "79",
+            "dt": "2025-05-04 16:45:34",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:37 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andres gimenez",
             "game": "cle @ tor",
             "hr/park": "",
@@ -6037,7 +6052,7 @@
             "team": "tor",
             "start": "1:37 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Field Error",
             "evo": "57.8",
             "la": "-53",
             "dist": "4"
@@ -12235,6 +12250,21 @@
     ],
     "col @ sf": [
         {
+            "player": "ryan mcmahon",
+            "game": "col @ sf",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-05-04 16:45:34",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jung hoo lee",
             "game": "col @ sf",
             "hr/park": "",
@@ -12582,6 +12612,21 @@
     ],
     "det @ laa": [
         {
+            "player": "kyren paris",
+            "game": "det @ laa",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-05-04 16:45:34",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "4:07 PM",
+            "in": "2",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jo adell",
             "game": "det @ laa",
             "hr/park": "",
@@ -12591,7 +12636,7 @@
             "team": "laa",
             "start": "4:07 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "107.2",
             "la": "-19",
             "dist": "6"
