@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "70",
-        "batters": "212",
-        "pitches": "2668",
+        "batters": "213",
+        "pitches": "2670",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "29.0",
+        "ff%fourseam fastball %": "29.1",
         "si%sinker %": "17.6",
-        "fc%cutter %": "8.2",
+        "fc%cutter %": "8.3",
         "fs%splitter %": "3.4",
         "ch%changeup %": "12.4",
-        "sl%slider %": "19.5",
+        "sl%slider %": "19.4",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "112.0",
-        "hhhard hit": "192",
-        "hh%hard hit %": "39.4",
+        "hhhard hit": "191",
+        "hh%hard hit %": "39.1",
         "brlbarrels": "32",
         "brl%barrel %": "6.6",
         "ab": "612",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "18",
         "so": "124",
-        "bipballs in play": "487",
+        "bipballs in play": "488",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-05-04 16:06:14.815060"
+        "updated": "2025-05-04 16:06:24.753211"
     },
     "nym @ stl": [
         {
@@ -2241,21 +2241,6 @@
         }
     ],
     "sd @ pit": [
-        {
-            "player": "enmanuel valdez",
-            "game": "sd @ pit",
-            "hr/park": "",
-            "pa": "72",
-            "dt": "2025-05-04 16:06:04",
-            "img": "https://www.mlbstatic.com/team-logos/134.svg",
-            "team": "pit",
-            "start": "1:35 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "xander bogaerts",
             "game": "sd @ pit",
@@ -4491,9 +4476,9 @@
             "start": "1:35 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "107.3",
-            "la": "2",
-            "dist": "85"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "paul goldschmidt",
@@ -9677,10 +9662,10 @@
             "team": "tex",
             "start": "2:35 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "80.4",
+            "la": "68",
+            "dist": "130"
         },
         {
             "player": "adolis garcia",
@@ -10373,7 +10358,23 @@
             "dist": "7"
         }
     ],
-    "col @ sf": [],
+    "col @ sf": [
+        {
+            "player": "brenton doyle",
+            "game": "col @ sf",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-04 16:06:19",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "Lineout",
+            "evo": "86.5",
+            "la": "21",
+            "dist": "278"
+        }
+    ],
     "det @ laa": [],
     "wsh @ cin": [],
     "lad @ atl": []
