@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "34",
         "batters": "200",
-        "pitches": "1822",
+        "pitches": "1826",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "30.2",
-        "si%sinker %": "17.8",
+        "ff%fourseam fastball %": "30.3",
+        "si%sinker %": "17.7",
         "fc%cutter %": "8.1",
         "fs%splitter %": "2.9",
         "ch%changeup %": "14.0",
         "sl%slider %": "16.8",
-        "cu%curve %": "9.8",
+        "cu%curve %": "9.9",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "139",
-        "hh%hard hit %": "41.7",
+        "hh%hard hit %": "41.9",
         "brlbarrels": "24",
         "brl%barrel %": "7.2",
-        "ab": "414",
-        "avg": ".278",
+        "ab": "415",
+        "avg": ".277",
         "h": "115",
         "1b": "83",
         "2b": "20",
         "3b": "0",
         "hr": "12",
         "so": "82",
-        "bipballs in play": "333",
+        "bipballs in play": "332",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-05-04 15:22:13.280584"
+        "updated": "2025-05-04 15:22:22.068933"
     },
     "nym @ stl": [
         {
@@ -2463,10 +2463,10 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "83.0",
-            "la": "42",
-            "dist": "255"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "david hamilton",
@@ -3802,7 +3802,7 @@
             "team": "cle",
             "start": "1:37 PM",
             "in": "6",
-            "result": "Stolen Base 2B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5728,7 +5728,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6216,6 +6216,21 @@
     ],
     "chc @ mil": [
         {
+            "player": "miguel amaya",
+            "game": "chc @ mil",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-05-04 15:22:19",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "Caught Stealing 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "pete crow armstrong",
             "game": "chc @ mil",
             "hr/park": "",
@@ -6677,7 +6692,7 @@
             "team": "sea",
             "start": "2:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
