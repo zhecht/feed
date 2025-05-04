@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "12",
-        "batters": "66",
-        "pitches": "280",
+        "batters": "68",
+        "pitches": "287",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.4",
-        "ff%fourseam fastball %": "29.6",
-        "si%sinker %": "20.7",
-        "fc%cutter %": "10.4",
-        "fs%splitter %": "2.5",
-        "ch%changeup %": "11.4",
-        "sl%slider %": "19.3",
-        "cu%curve %": "5.4",
+        "ff%fourseam fastball %": "29.3",
+        "si%sinker %": "20.9",
+        "fc%cutter %": "10.1",
+        "fs%splitter %": "2.4",
+        "ch%changeup %": "11.8",
+        "sl%slider %": "19.2",
+        "cu%curve %": "5.6",
         "max evmax exit velocity": "108.5",
         "hhhard hit": "18",
-        "hh%hard hit %": "38.3",
+        "hh%hard hit %": "37.5",
         "brlbarrels": "5",
-        "brl%barrel %": "10.6",
-        "ab": "67",
-        "avg": ".254",
+        "brl%barrel %": "10.4",
+        "ab": "69",
+        "avg": ".246",
         "h": "17",
         "1b": "8",
         "2b": "7",
         "3b": "0",
         "hr": "2",
-        "so": "17",
-        "bipballs in play": "47",
+        "so": "18",
+        "bipballs in play": "48",
         "liveGames": 7,
         "totGames": 16,
-        "updated": "2025-05-04 13:58:13.182207"
+        "updated": "2025-05-04 13:58:20.513937"
     },
     "nym @ stl": [
         {
@@ -410,6 +410,21 @@
     "nym-gm2 @ stl-gm2": [],
     "kc @ bal": [
         {
+            "player": "maikel garcia",
+            "game": "kc @ bal",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-05-04 13:58:19",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "1:35 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan ohearn",
             "game": "kc @ bal",
             "hr/park": "",
@@ -699,6 +714,21 @@
     ],
     "min @ bos": [
         {
+            "player": "trevor larnach",
+            "game": "min @ bos",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-05-04 13:58:19",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "1:35 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "harrison bader",
             "game": "min @ bos",
             "hr/park": "",
@@ -708,7 +738,7 @@
             "team": "min",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1029,9 +1059,9 @@
             "start": "1:40 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "78.7",
+            "la": "18",
+            "dist": "230"
         },
         {
             "player": "connor norby",
