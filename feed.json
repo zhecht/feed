@@ -1,15 +1,15 @@
 {
     "all": {
         "pitchers": "20",
-        "batters": "156",
-        "pitches": "942",
+        "batters": "158",
+        "pitches": "946",
         "max velomax pitch velocity": "98.5",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "32.5",
-        "si%sinker %": "18.3",
-        "fc%cutter %": "8.4",
-        "fs%splitter %": "2.7",
-        "ch%changeup %": "13.9",
+        "si%sinker %": "18.2",
+        "fc%cutter %": "8.5",
+        "fs%splitter %": "2.6",
+        "ch%changeup %": "14.1",
         "sl%slider %": "16.3",
         "cu%curve %": "7.3",
         "max evmax exit velocity": "111.3",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "42.3",
         "brlbarrels": "13",
         "brl%barrel %": "8.3",
-        "ab": "204",
-        "avg": ".275",
-        "h": "56",
-        "1b": "38",
+        "ab": "205",
+        "avg": ".278",
+        "h": "57",
+        "1b": "39",
         "2b": "12",
         "3b": "0",
         "hr": "6",
@@ -28,7 +28,7 @@
         "bipballs in play": "156",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-05-04 14:36:42.830829"
+        "updated": "2025-05-04 14:36:50.606356"
     },
     "nym @ stl": [
         {
@@ -2212,7 +2212,7 @@
             "team": "cle",
             "start": "1:37 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "97.8",
             "la": "-5",
             "dist": "24"
@@ -2605,9 +2605,9 @@
             "start": "1:40 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "65.8",
-            "la": "-7",
-            "dist": "18"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "nick kurtz",
@@ -2987,6 +2987,36 @@
     ],
     "ari @ phi": [
         {
+            "player": "weston wilson",
+            "game": "ari @ phi",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-05-04 14:36:49",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "2:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "edmundo sosa",
+            "game": "ari @ phi",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-05-04 14:36:49",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "2:05 PM",
+            "in": "2",
+            "result": "Forceout",
+            "evo": "64.2",
+            "la": "-34",
+            "dist": "5"
+        },
+        {
             "player": "alec bohm",
             "game": "ari @ phi",
             "hr/park": "",
@@ -3178,7 +3208,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
