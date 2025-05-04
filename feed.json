@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "61",
         "batters": "210",
-        "pitches": "2471",
+        "pitches": "2478",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "28.6",
         "si%sinker %": "17.8",
         "fc%cutter %": "8.0",
-        "fs%splitter %": "3.0",
+        "fs%splitter %": "2.9",
         "ch%changeup %": "13.1",
         "sl%slider %": "19.7",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "112.0",
-        "hhhard hit": "177",
-        "hh%hard hit %": "39.0",
+        "hhhard hit": "179",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "30",
         "brl%barrel %": "6.6",
-        "ab": "568",
-        "avg": ".276",
-        "h": "157",
-        "1b": "114",
+        "ab": "570",
+        "avg": ".277",
+        "h": "158",
+        "1b": "115",
         "2b": "25",
         "3b": "2",
         "hr": "16",
         "so": "115",
-        "bipballs in play": "454",
+        "bipballs in play": "457",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-05-04 15:56:49.037380"
+        "updated": "2025-05-04 15:56:58.809466"
     },
     "nym @ stl": [
         {
@@ -2122,6 +2122,21 @@
     ],
     "sd @ pit": [
         {
+            "player": "joey bart",
+            "game": "sd @ pit",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-05-04 15:56:52",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "Groundout",
+            "evo": "105.4",
+            "la": "-2",
+            "dist": "31"
+        },
+        {
             "player": "bryan reynolds",
             "game": "sd @ pit",
             "hr/park": "",
@@ -2131,7 +2146,7 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4181,6 +4196,21 @@
     ],
     "tb @ nyy": [
         {
+            "player": "trent grisham",
+            "game": "tb @ nyy",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-05-04 15:56:52",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ben rortvedt",
             "game": "tb @ nyy",
             "hr/park": "",
@@ -5904,10 +5934,10 @@
             "team": "ath",
             "start": "1:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "98.7",
+            "la": "11",
+            "dist": "231"
         },
         {
             "player": "nick kurtz",
