@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "63",
-        "batters": "210",
-        "pitches": "2500",
+        "batters": "211",
+        "pitches": "2507",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "28.7",
-        "si%sinker %": "17.7",
+        "si%sinker %": "17.8",
         "fc%cutter %": "7.9",
         "fs%splitter %": "3.0",
         "ch%changeup %": "13.0",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.7",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "180",
-        "hh%hard hit %": "39.0",
+        "hh%hard hit %": "38.9",
         "brlbarrels": "30",
         "brl%barrel %": "6.5",
-        "ab": "576",
-        "avg": ".276",
+        "ab": "579",
+        "avg": ".275",
         "h": "159",
         "1b": "115",
         "2b": "26",
         "3b": "2",
         "hr": "16",
         "so": "116",
-        "bipballs in play": "462",
+        "bipballs in play": "463",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-05-04 15:58:17.166883"
+        "updated": "2025-05-04 15:58:27.050108"
     },
     "nym @ stl": [
         {
@@ -1175,6 +1175,21 @@
     "nym-gm2 @ stl-gm2": [],
     "kc @ bal": [
         {
+            "player": "luke maile",
+            "game": "kc @ bal",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-05-04 15:58:20",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "drew waters",
             "game": "kc @ bal",
             "hr/park": "",
@@ -1184,7 +1199,7 @@
             "team": "kc",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "83.9",
             "la": "-22",
             "dist": "5"
@@ -2169,7 +2184,7 @@
         {
             "player": "bryan reynolds",
             "game": "sd @ pit",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "67",
             "dt": "2025-05-04 15:55:20",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
@@ -2177,9 +2192,9 @@
             "start": "1:35 PM",
             "in": "8",
             "result": "Flyout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "93.9",
+            "la": "39",
+            "dist": "322"
         },
         {
             "player": "oneil cruz",
@@ -3183,10 +3198,10 @@
             "team": "min",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "93.2",
+            "la": "19",
+            "dist": "313"
         },
         {
             "player": "romy gonzalez",
@@ -5985,6 +6000,21 @@
     ],
     "ath @ mia": [
         {
+            "player": "seth brown",
+            "game": "ath @ mia",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-05-04 15:58:20",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "1:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyler soderstrom",
             "game": "ath @ mia",
             "hr/park": "",
@@ -7699,6 +7729,21 @@
     ],
     "hou @ chw": [
         {
+            "player": "luis robert",
+            "game": "hou @ chw",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-05-04 15:58:20",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andrew benintendi",
             "game": "hou @ chw",
             "hr/park": "",
@@ -7708,7 +7753,7 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Field Error",
             "evo": "93.3",
             "la": "58",
             "dist": "217"
@@ -9107,7 +9152,7 @@
             "team": "sea",
             "start": "2:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
