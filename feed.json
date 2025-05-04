@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "21",
-        "batters": "160",
-        "pitches": "971",
+        "batters": "161",
+        "pitches": "979",
         "max velomax pitch velocity": "98.5",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "32.1",
+        "ff%fourseam fastball %": "32.3",
         "si%sinker %": "18.6",
         "fc%cutter %": "8.5",
-        "fs%splitter %": "2.7",
-        "ch%changeup %": "13.7",
-        "sl%slider %": "16.0",
-        "cu%curve %": "7.7",
+        "fs%splitter %": "2.8",
+        "ch%changeup %": "13.6",
+        "sl%slider %": "15.9",
+        "cu%curve %": "7.8",
         "max evmax exit velocity": "111.3",
-        "hhhard hit": "66",
-        "hh%hard hit %": "41.5",
+        "hhhard hit": "67",
+        "hh%hard hit %": "41.6",
         "brlbarrels": "13",
-        "brl%barrel %": "8.2",
-        "ab": "213",
-        "avg": ".272",
-        "h": "58",
-        "1b": "40",
+        "brl%barrel %": "8.1",
+        "ab": "215",
+        "avg": ".274",
+        "h": "59",
+        "1b": "41",
         "2b": "12",
         "3b": "0",
         "hr": "6",
-        "so": "49",
-        "bipballs in play": "159",
+        "so": "50",
+        "bipballs in play": "161",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-05-04 14:38:26.734808"
+        "updated": "2025-05-04 14:38:34.539931"
     },
     "nym @ stl": [
         {
@@ -1102,6 +1102,21 @@
     ],
     "sd @ pit": [
         {
+            "player": "xander bogaerts",
+            "game": "sd @ pit",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-05-04 14:38:34",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "manny machado",
             "game": "sd @ pit",
             "hr/park": "",
@@ -1111,10 +1126,10 @@
             "team": "sd",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "102.1",
+            "la": "8",
+            "dist": "175"
         },
         {
             "player": "luis arraez",
@@ -3313,7 +3328,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3501,6 +3516,21 @@
     ],
     "chc @ mil": [
         {
+            "player": "miguel amaya",
+            "game": "chc @ mil",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-05-04 14:38:34",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "pete crow armstrong",
             "game": "chc @ mil",
             "hr/park": "",
@@ -3510,10 +3540,10 @@
             "team": "chc",
             "start": "2:10 PM",
             "in": "2",
-            "result": "Game Advisory",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "78.9",
+            "la": "28",
+            "dist": "274"
         },
         {
             "player": "nico hoerner",
