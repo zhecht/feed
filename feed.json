@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "31",
+        "pitchers": "30",
         "batters": "200",
-        "pitches": "1728",
+        "pitches": "1731",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "30.1",
-        "si%sinker %": "18.4",
+        "si%sinker %": "18.5",
         "fc%cutter %": "8.3",
         "fs%splitter %": "2.7",
         "ch%changeup %": "13.9",
-        "sl%slider %": "16.6",
+        "sl%slider %": "16.5",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "112.0",
-        "hhhard hit": "131",
-        "hh%hard hit %": "42.1",
+        "hhhard hit": "132",
+        "hh%hard hit %": "42.2",
         "brlbarrels": "23",
-        "brl%barrel %": "7.4",
-        "ab": "392",
-        "avg": ".276",
-        "h": "108",
-        "1b": "77",
+        "brl%barrel %": "7.3",
+        "ab": "393",
+        "avg": ".280",
+        "h": "110",
+        "1b": "79",
         "2b": "20",
         "3b": "0",
         "hr": "11",
         "so": "78",
-        "bipballs in play": "311",
+        "bipballs in play": "313",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-05-04 15:16:30.694589"
+        "updated": "2025-05-04 15:16:39.700896"
     },
     "nym @ stl": [
         {
@@ -934,21 +934,6 @@
     ],
     "nym-gm2 @ stl-gm2": [],
     "kc @ bal": [
-        {
-            "player": "ryan mountcastle",
-            "game": "kc @ bal",
-            "hr/park": "",
-            "pa": "45",
-            "dt": "2025-05-04 15:16:04",
-            "img": "https://www.mlbstatic.com/team-logos/110.svg",
-            "team": "bal",
-            "start": "1:35 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "ryan ohearn",
             "game": "kc @ bal",
@@ -4946,10 +4931,10 @@
             "team": "ari",
             "start": "2:05 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "108.0",
+            "la": "9",
+            "dist": "191"
         },
         {
             "player": "geraldo perdomo",
@@ -5448,6 +5433,36 @@
         }
     ],
     "hou @ chw": [
+        {
+            "player": "brendan rodgers",
+            "game": "hou @ chw",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-05-04 15:16:33",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jake meyers",
+            "game": "hou @ chw",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-05-04 15:16:04",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "4",
+            "result": "Single",
+            "evo": "77.2",
+            "la": "27",
+            "dist": "246"
+        },
         {
             "player": "edgar quero",
             "game": "hou @ chw",
@@ -6332,7 +6347,7 @@
             "team": "sea",
             "start": "2:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
