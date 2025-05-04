@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "113",
+        "pitchers": "114",
         "batters": "274",
-        "pitches": "3966",
+        "pitches": "3969",
         "max velomax pitch velocity": "102.9",
         "min velomin pitch velocity": "64.4",
-        "ff%fourseam fastball %": "30.2",
+        "ff%fourseam fastball %": "30.3",
         "si%sinker %": "16.2",
         "fc%cutter %": "6.6",
         "fs%splitter %": "6.2",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "40.5",
         "brlbarrels": "70",
         "brl%barrel %": "9.6",
-        "ab": "923",
+        "ab": "924",
         "avg": ".236",
         "h": "218",
         "1b": "146",
@@ -28,7 +28,7 @@
         "bipballs in play": "729",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-05-04 00:51:17.445248"
+        "updated": "2025-05-04 00:51:28.584727"
     },
     "tb @ nyy": [
         {
@@ -13436,16 +13436,31 @@
     ],
     "lad @ atl": [
         {
-            "player": "matt olson",
+            "player": "chris taylor",
             "game": "lad @ atl",
             "hr/park": "",
+            "pa": "67",
+            "dt": "2025-05-04 00:51:28",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "matt olson",
+            "game": "lad @ atl",
+            "hr/park": "0/30",
             "pa": "66",
             "dt": "2025-05-04 00:46:29",
             "img": "https://www.mlbstatic.com/team-logos/144.svg",
             "team": "atl",
             "start": "",
             "in": "7",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "101.2",
             "la": "23",
             "dist": "347"
