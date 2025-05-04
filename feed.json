@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "35",
+        "pitchers": "36",
         "batters": "200",
-        "pitches": "1839",
+        "pitches": "1848",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "30.3",
-        "si%sinker %": "17.8",
+        "ff%fourseam fastball %": "30.2",
+        "si%sinker %": "17.7",
         "fc%cutter %": "8.0",
-        "fs%splitter %": "2.9",
+        "fs%splitter %": "3.0",
         "ch%changeup %": "13.9",
         "sl%slider %": "16.9",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "140",
-        "hh%hard hit %": "41.8",
+        "hh%hard hit %": "41.5",
         "brlbarrels": "24",
-        "brl%barrel %": "7.2",
-        "ab": "417",
-        "avg": ".278",
-        "h": "116",
+        "brl%barrel %": "7.1",
+        "ab": "420",
+        "avg": ".279",
+        "h": "117",
         "1b": "84",
-        "2b": "20",
+        "2b": "21",
         "3b": "0",
         "hr": "12",
         "so": "82",
-        "bipballs in play": "335",
+        "bipballs in play": "337",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-05-04 15:22:57.168811"
+        "updated": "2025-05-04 15:23:05.916188"
     },
     "nym @ stl": [
         {
@@ -1672,6 +1672,21 @@
     ],
     "sd @ pit": [
         {
+            "player": "joey bart",
+            "game": "sd @ pit",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-05-04 15:22:04",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "Double",
+            "evo": "89.9",
+            "la": "17",
+            "dist": "237"
+        },
+        {
             "player": "bryan reynolds",
             "game": "sd @ pit",
             "hr/park": "",
@@ -2463,7 +2478,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "6",
-            "result": "Flyout",
+            "result": "In Progress",
             "evo": "83.0",
             "la": "42",
             "dist": "255"
@@ -3221,6 +3236,21 @@
     ],
     "tb @ nyy": [
         {
+            "player": "jc escarra",
+            "game": "tb @ nyy",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-05-04 15:23:04",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jasson dominguez",
             "game": "tb @ nyy",
             "hr/park": "",
@@ -3230,10 +3260,10 @@
             "team": "nyy",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "74.3",
+            "la": "-17",
+            "dist": "6"
         },
         {
             "player": "paul goldschmidt",
@@ -5749,6 +5779,21 @@
     ],
     "hou @ chw": [
         {
+            "player": "jose altuve",
+            "game": "hou @ chw",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-05-04 15:23:04",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jeremy pena",
             "game": "hou @ chw",
             "hr/park": "",
@@ -6255,7 +6300,7 @@
             "team": "chc",
             "start": "2:10 PM",
             "in": "5",
-            "result": "Caught Stealing 2B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
