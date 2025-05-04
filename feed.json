@@ -2,16 +2,16 @@
     "all": {
         "pitchers": "23",
         "batters": "176",
-        "pitches": "1123",
+        "pitches": "1132",
         "max velomax pitch velocity": "98.5",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "32.2",
-        "si%sinker %": "18.1",
-        "fc%cutter %": "8.5",
+        "si%sinker %": "18.0",
+        "fc%cutter %": "8.6",
         "fs%splitter %": "2.8",
         "ch%changeup %": "13.2",
-        "sl%slider %": "16.7",
-        "cu%curve %": "7.9",
+        "sl%slider %": "16.8",
+        "cu%curve %": "8.0",
         "max evmax exit velocity": "111.3",
         "hhhard hit": "81",
         "hh%hard hit %": "42.6",
@@ -28,7 +28,7 @@
         "bipballs in play": "190",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-05-04 14:45:58.721374"
+        "updated": "2025-05-04 14:46:06.873511"
     },
     "nym @ stl": [
         {
@@ -734,7 +734,7 @@
             "team": "kc",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2985,6 +2985,21 @@
     ],
     "ath @ mia": [
         {
+            "player": "nick fortes",
+            "game": "ath @ mia",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-05-04 14:46:04",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "dane myers",
             "game": "ath @ mia",
             "hr/park": "",
@@ -3461,7 +3476,7 @@
             "team": "ari",
             "start": "2:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
