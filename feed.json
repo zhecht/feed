@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "38",
+        "pitchers": "39",
         "batters": "202",
-        "pitches": "2005",
+        "pitches": "2012",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "29.9",
-        "si%sinker %": "17.7",
+        "ff%fourseam fastball %": "29.8",
+        "si%sinker %": "17.8",
         "fc%cutter %": "7.7",
         "fs%splitter %": "3.1",
         "ch%changeup %": "14.0",
-        "sl%slider %": "17.7",
+        "sl%slider %": "17.6",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "145",
-        "hh%hard hit %": "40.3",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "24",
-        "brl%barrel %": "6.7",
-        "ab": "451",
-        "avg": ".273",
-        "h": "123",
-        "1b": "89",
+        "brl%barrel %": "6.6",
+        "ab": "455",
+        "avg": ".275",
+        "h": "125",
+        "1b": "91",
         "2b": "22",
         "3b": "0",
         "hr": "12",
         "so": "92",
-        "bipballs in play": "360",
+        "bipballs in play": "361",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-05-04 15:30:58.605700"
+        "updated": "2025-05-04 15:31:07.462264"
     },
     "nym @ stl": [
+        {
+            "player": "pedro pages",
+            "game": "nym @ stl",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-05-04 15:31:04",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "1:15 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "90.1",
+            "la": "-4",
+            "dist": "26"
+        },
         {
             "player": "mark vientos",
             "game": "nym @ stl",
@@ -1019,7 +1034,7 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2634,16 +2649,31 @@
     ],
     "min @ bos": [
         {
-            "player": "ryan jeffers",
+            "player": "ty france",
             "game": "min @ bos",
             "hr/park": "",
+            "pa": "57",
+            "dt": "2025-05-04 15:31:04",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "ryan jeffers",
+            "game": "min @ bos",
+            "hr/park": "0/30",
             "pa": "56",
             "dt": "2025-05-04 15:29:34",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "107.0",
             "la": "15",
             "dist": "306"
@@ -4103,9 +4133,9 @@
             "start": "1:37 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "73.7",
-            "la": "80",
-            "dist": "28"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "bo naylor",
@@ -4844,6 +4874,21 @@
         }
     ],
     "ath @ mia": [
+        {
+            "player": "kyle stowers",
+            "game": "ath @ mia",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-05-04 15:30:19",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "Lineout",
+            "evo": "87.3",
+            "la": "23",
+            "dist": "278"
+        },
         {
             "player": "jhonny pereda",
             "game": "ath @ mia",
@@ -7238,6 +7283,21 @@
     ],
     "sea @ tex": [
         {
+            "player": "corey seager",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-05-04 15:31:04",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "2:35 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "wyatt langford",
             "game": "sea @ tex",
             "hr/park": "",
@@ -7247,7 +7307,7 @@
             "team": "tex",
             "start": "2:35 PM",
             "in": "3",
-            "result": "Field Error",
+            "result": "Single",
             "evo": "94.2",
             "la": "-18",
             "dist": "10"
