@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "19",
-        "batters": "124",
-        "pitches": "601",
+        "batters": "125",
+        "pitches": "610",
         "max velomax pitch velocity": "98.5",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "30.8",
+        "ff%fourseam fastball %": "31.1",
         "si%sinker %": "20.5",
-        "fc%cutter %": "8.0",
+        "fc%cutter %": "7.9",
         "fs%splitter %": "2.5",
         "ch%changeup %": "13.1",
-        "sl%slider %": "18.8",
-        "cu%curve %": "5.7",
+        "sl%slider %": "18.7",
+        "cu%curve %": "5.6",
         "max evmax exit velocity": "110.9",
         "hhhard hit": "45",
-        "hh%hard hit %": "44.1",
+        "hh%hard hit %": "43.3",
         "brlbarrels": "11",
-        "brl%barrel %": "10.8",
-        "ab": "144",
-        "avg": ".285",
+        "brl%barrel %": "10.6",
+        "ab": "145",
+        "avg": ".283",
         "h": "41",
         "1b": "24",
         "2b": "11",
         "3b": "0",
         "hr": "6",
         "so": "36",
-        "bipballs in play": "102",
+        "bipballs in play": "104",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-04 14:19:30.378533"
+        "updated": "2025-05-04 14:19:38.020470"
     },
     "nym @ stl": [
         {
@@ -856,10 +856,10 @@
             "team": "sd",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "94.6",
+            "la": "-37",
+            "dist": "4"
         },
         {
             "player": "jared triolo",
@@ -1618,6 +1618,21 @@
     ],
     "cle @ tor": [
         {
+            "player": "andres gimenez",
+            "game": "cle @ tor",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-05-04 14:19:34",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:37 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nathan lukes",
             "game": "cle @ tor",
             "hr/park": "",
@@ -1627,10 +1642,10 @@
             "team": "tor",
             "start": "1:37 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "90.0",
+            "la": "3",
+            "dist": "81"
         },
         {
             "player": "nolan jones",
@@ -2201,7 +2216,7 @@
             "team": "phi",
             "start": "2:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
