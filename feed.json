@@ -2,25 +2,25 @@
     "all": {
         "pitchers": "24",
         "batters": "189",
-        "pitches": "1305",
+        "pitches": "1311",
         "max velomax pitch velocity": "98.5",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "31.2",
-        "si%sinker %": "18.1",
-        "fc%cutter %": "8.6",
+        "ff%fourseam fastball %": "31.0",
+        "si%sinker %": "18.2",
+        "fc%cutter %": "8.5",
         "fs%splitter %": "2.5",
-        "ch%changeup %": "13.7",
+        "ch%changeup %": "13.8",
         "sl%slider %": "16.6",
-        "cu%curve %": "8.8",
+        "cu%curve %": "8.9",
         "max evmax exit velocity": "112.0",
-        "hhhard hit": "100",
-        "hh%hard hit %": "43.3",
+        "hhhard hit": "99",
+        "hh%hard hit %": "42.9",
         "brlbarrels": "17",
         "brl%barrel %": "7.4",
         "ab": "290",
-        "avg": ".286",
-        "h": "83",
-        "1b": "57",
+        "avg": ".283",
+        "h": "82",
+        "1b": "56",
         "2b": "18",
         "3b": "0",
         "hr": "8",
@@ -28,7 +28,7 @@
         "bipballs in play": "231",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-05-04 14:55:00.976176"
+        "updated": "2025-05-04 14:55:09.275597"
     },
     "nym @ stl": [
         {
@@ -809,10 +809,10 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "69.6",
+            "la": "-53",
+            "dist": "2"
         },
         {
             "player": "heston kjerstad",
@@ -1929,6 +1929,21 @@
     ],
     "min @ bos": [
         {
+            "player": "christian vazquez",
+            "game": "min @ bos",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-05-04 14:55:05",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "Mound Visit",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trevor larnach",
             "game": "min @ bos",
             "hr/park": "",
@@ -2485,21 +2500,6 @@
         }
     ],
     "tb @ nyy": [
-        {
-            "player": "trent grisham",
-            "game": "tb @ nyy",
-            "hr/park": "",
-            "pa": "25",
-            "dt": "2025-05-04 14:54:50",
-            "img": "https://www.mlbstatic.com/team-logos/147.svg",
-            "team": "nyy",
-            "start": "1:35 PM",
-            "in": "3",
-            "result": "Single",
-            "evo": "99.4",
-            "la": "15",
-            "dist": "256"
-        },
         {
             "player": "oswald peraza",
             "game": "tb @ nyy",
