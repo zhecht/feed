@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "43",
         "batters": "203",
-        "pitches": "2096",
+        "pitches": "2104",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "29.6",
-        "si%sinker %": "17.6",
+        "si%sinker %": "17.5",
         "fc%cutter %": "7.7",
-        "fs%splitter %": "3.0",
-        "ch%changeup %": "13.9",
+        "fs%splitter %": "2.9",
+        "ch%changeup %": "14.0",
         "sl%slider %": "18.2",
-        "cu%curve %": "9.7",
+        "cu%curve %": "9.8",
         "max evmax exit velocity": "112.0",
-        "hhhard hit": "150",
-        "hh%hard hit %": "40.1",
+        "hhhard hit": "151",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "25",
-        "brl%barrel %": "6.7",
+        "brl%barrel %": "6.6",
         "ab": "471",
         "avg": ".274",
         "h": "129",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "12",
         "so": "98",
-        "bipballs in play": "374",
+        "bipballs in play": "376",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-05-04 15:36:15.564720"
+        "updated": "2025-05-04 15:36:24.897095"
     },
     "nym @ stl": [
         {
@@ -2733,7 +2733,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5019,10 +5019,10 @@
             "team": "mia",
             "start": "1:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "95.2",
+            "la": "-16",
+            "dist": "10"
         },
         {
             "player": "kyle stowers",
@@ -5777,6 +5777,21 @@
     ],
     "ari @ phi": [
         {
+            "player": "josh naylor",
+            "game": "ari @ phi",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-05-04 15:36:20",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "2:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "eugenio suarez",
             "game": "ari @ phi",
             "hr/park": "",
@@ -6403,7 +6418,7 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6975,10 +6990,10 @@
             "team": "chc",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "73.1",
+            "la": "63",
+            "dist": "143"
         },
         {
             "player": "jon berti",
