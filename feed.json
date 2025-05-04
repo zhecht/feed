@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "54",
+        "pitchers": "55",
         "batters": "209",
-        "pitches": "2397",
+        "pitches": "2398",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "28.4",
@@ -10,14 +10,14 @@
         "fc%cutter %": "8.3",
         "fs%splitter %": "3.0",
         "ch%changeup %": "13.3",
-        "sl%slider %": "18.9",
+        "sl%slider %": "19.0",
         "cu%curve %": "9.8",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "175",
         "hh%hard hit %": "40.0",
         "brlbarrels": "29",
         "brl%barrel %": "6.6",
-        "ab": "544",
+        "ab": "545",
         "avg": ".279",
         "h": "152",
         "1b": "112",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "15",
         "so": "112",
-        "bipballs in play": "437",
+        "bipballs in play": "438",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-05-04 15:52:17.405429"
+        "updated": "2025-05-04 15:52:26.722782"
     },
     "nym @ stl": [
         {
@@ -1154,7 +1154,7 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "7",
-            "result": "Lineout",
+            "result": "In Progress",
             "evo": "92.1",
             "la": "21",
             "dist": "323"
@@ -3048,7 +3048,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4063,17 +4063,17 @@
         {
             "player": "curtis mead",
             "game": "tb @ nyy",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "51",
             "dt": "2025-05-04 15:51:51",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "start": "1:35 PM",
             "in": "6",
-            "result": "Flyout",
-            "evo": "94.6",
-            "la": "27",
-            "dist": "347"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "kameron misner",
@@ -4827,6 +4827,21 @@
         }
     ],
     "cle @ tor": [
+        {
+            "player": "carlos santana",
+            "game": "cle @ tor",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-05-04 15:52:20",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "1:37 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "83.7",
+            "la": "82",
+            "dist": "8"
+        },
         {
             "player": "kyle manzardo",
             "game": "cle @ tor",
@@ -7334,9 +7349,9 @@
             "start": "2:10 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "90.5",
+            "la": "5",
+            "dist": "81"
         },
         {
             "player": "jake meyers",
