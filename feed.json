@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "20",
-        "batters": "139",
-        "pitches": "722",
+        "batters": "140",
+        "pitches": "728",
         "max velomax pitch velocity": "98.5",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "30.6",
-        "si%sinker %": "19.9",
-        "fc%cutter %": "8.6",
+        "ff%fourseam fastball %": "30.4",
+        "si%sinker %": "19.6",
+        "fc%cutter %": "8.4",
         "fs%splitter %": "2.9",
-        "ch%changeup %": "13.2",
-        "sl%slider %": "17.9",
-        "cu%curve %": "6.1",
+        "ch%changeup %": "13.3",
+        "sl%slider %": "18.0",
+        "cu%curve %": "6.6",
         "max evmax exit velocity": "110.9",
         "hhhard hit": "53",
-        "hh%hard hit %": "42.4",
+        "hh%hard hit %": "41.7",
         "brlbarrels": "11",
-        "brl%barrel %": "8.8",
-        "ab": "172",
-        "avg": ".285",
+        "brl%barrel %": "8.7",
+        "ab": "173",
+        "avg": ".283",
         "h": "49",
         "1b": "32",
         "2b": "11",
         "3b": "0",
         "hr": "6",
         "so": "42",
-        "bipballs in play": "125",
+        "bipballs in play": "127",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-04 14:25:56.457237"
+        "updated": "2025-05-04 14:26:04.240715"
     },
     "nym @ stl": [
         {
@@ -42,9 +42,9 @@
             "start": "1:15 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "87.4",
+            "la": "56",
+            "dist": "217"
         },
         {
             "player": "jose barrero",
@@ -629,7 +629,7 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -936,21 +936,6 @@
         }
     ],
     "sd @ pit": [
-        {
-            "player": "jared triolo",
-            "game": "sd @ pit",
-            "hr/park": "",
-            "pa": "27",
-            "dt": "2025-05-04 14:24:49",
-            "img": "https://www.mlbstatic.com/team-logos/134.svg",
-            "team": "pit",
-            "start": "1:35 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "brandon lockridge",
             "game": "sd @ pit",
@@ -1343,6 +1328,21 @@
         }
     ],
     "min @ bos": [
+        {
+            "player": "alex bregman",
+            "game": "min @ bos",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-05-04 14:26:04",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "3",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ty france",
             "game": "min @ bos",
@@ -2668,10 +2668,10 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "1",
-            "result": "Stolen Base 2B",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "71.8",
+            "la": "-50",
+            "dist": "1"
         },
         {
             "player": "luis robert",
@@ -2780,6 +2780,21 @@
         }
     ],
     "chc @ mil": [
+        {
+            "player": "christian yelich",
+            "game": "chc @ mil",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-05-04 14:26:04",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "william contreras",
             "game": "chc @ mil",
