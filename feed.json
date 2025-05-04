@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "38",
-        "batters": "202",
-        "pitches": "1966",
+        "pitchers": "37",
+        "batters": "201",
+        "pitches": "1973",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "30.0",
-        "si%sinker %": "17.8",
+        "ff%fourseam fastball %": "30.1",
+        "si%sinker %": "17.7",
         "fc%cutter %": "7.8",
         "fs%splitter %": "3.0",
-        "ch%changeup %": "13.9",
-        "sl%slider %": "17.4",
-        "cu%curve %": "9.8",
+        "ch%changeup %": "14.0",
+        "sl%slider %": "17.3",
+        "cu%curve %": "9.7",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "144",
-        "hh%hard hit %": "40.9",
+        "hh%hard hit %": "40.8",
         "brlbarrels": "24",
         "brl%barrel %": "6.8",
-        "ab": "442",
-        "avg": ".276",
+        "ab": "443",
+        "avg": ".275",
         "h": "122",
         "1b": "88",
         "2b": "22",
         "3b": "0",
         "hr": "12",
-        "so": "91",
-        "bipballs in play": "352",
+        "so": "92",
+        "bipballs in play": "353",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-05-04 15:29:10.588343"
+        "updated": "2025-05-04 15:29:19.507345"
     },
     "nym @ stl": [
         {
@@ -1010,6 +1010,21 @@
     "nym-gm2 @ stl-gm2": [],
     "kc @ bal": [
         {
+            "player": "jackson holliday",
+            "game": "kc @ bal",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-05-04 15:29:19",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "88.2",
+            "la": "24",
+            "dist": "313"
+        },
+        {
             "player": "luke maile",
             "game": "kc @ bal",
             "hr/park": "0/30",
@@ -1761,21 +1776,6 @@
         }
     ],
     "sd @ pit": [
-        {
-            "player": "gavin sheets",
-            "game": "sd @ pit",
-            "hr/park": "",
-            "pa": "56",
-            "dt": "2025-05-04 15:29:04",
-            "img": "https://www.mlbstatic.com/team-logos/135.svg",
-            "team": "sd",
-            "start": "1:35 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "kebryan hayes",
             "game": "sd @ pit",
@@ -3431,6 +3431,21 @@
     ],
     "tb @ nyy": [
         {
+            "player": "ben rortvedt",
+            "game": "tb @ nyy",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-05-04 15:29:19",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "travis jankowski",
             "game": "tb @ nyy",
             "hr/park": "",
@@ -3440,7 +3455,7 @@
             "team": "tb",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5516,7 +5531,7 @@
             "team": "phi",
             "start": "2:05 PM",
             "in": "4",
-            "result": "Passed Ball",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
