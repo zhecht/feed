@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "14",
-        "batters": "65",
-        "pitches": "325",
+        "batters": "66",
+        "pitches": "326",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "74.9",
-        "ff%fourseam fastball %": "39.7",
+        "ff%fourseam fastball %": "39.6",
         "si%sinker %": "12.9",
-        "fc%cutter %": "6.8",
+        "fc%cutter %": "6.7",
         "fs%splitter %": "3.1",
-        "ch%changeup %": "6.8",
+        "ch%changeup %": "6.7",
         "sl%slider %": "16.6",
-        "cu%curve %": "14.2",
+        "cu%curve %": "14.4",
         "max evmax exit velocity": "109.1",
         "hhhard hit": "24",
         "hh%hard hit %": "42.9",
         "brlbarrels": "3",
         "brl%barrel %": "5.4",
-        "ab": "77",
-        "avg": ".169",
+        "ab": "78",
+        "avg": ".167",
         "h": "13",
         "1b": "9",
         "2b": "2",
@@ -28,7 +28,7 @@
         "bipballs in play": "56",
         "liveGames": 8,
         "totGames": 10,
-        "updated": "2025-05-05 19:52:34.210100"
+        "updated": "2025-05-05 19:52:41.457591"
     },
     "lad @ mia": [
         {
@@ -1076,6 +1076,21 @@
     ],
     "chw @ kc": [
         {
+            "player": "bobby witt",
+            "game": "chw @ kc",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-05-05 19:52:40",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jonathan india",
             "game": "chw @ kc",
             "hr/park": "",
@@ -1085,7 +1100,7 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "93.2",
             "la": "8",
             "dist": "169"
@@ -1152,6 +1167,21 @@
         }
     ],
     "hou @ mil": [
+        {
+            "player": "william contreras",
+            "game": "hou @ mil",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-05-05 19:52:40",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "isaac collins",
             "game": "hou @ mil",
@@ -1245,21 +1275,6 @@
     ],
     "pit @ stl": [
         {
-            "player": "joey bart",
-            "game": "pit @ stl",
-            "hr/park": "",
-            "pa": "4",
-            "dt": "2025-05-05 19:52:09",
-            "img": "https://www.mlbstatic.com/team-logos/134.svg",
-            "team": "pit",
-            "start": "7:45 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "andrew mccutchen",
             "game": "pit @ stl",
             "hr/park": "",
@@ -1269,7 +1284,7 @@
             "team": "pit",
             "start": "7:45 PM",
             "in": "1",
-            "result": "Pop Out",
+            "result": "In Progress",
             "evo": "77.9",
             "la": "55",
             "dist": "194"
