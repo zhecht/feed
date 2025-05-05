@@ -1,17 +1,17 @@
 {
     "all": {
-        "pitchers": "10",
-        "batters": "49",
-        "pitches": "251",
+        "pitchers": "11",
+        "batters": "50",
+        "pitches": "255",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "74.9",
-        "ff%fourseam fastball %": "42.6",
-        "si%sinker %": "11.6",
-        "fc%cutter %": "7.2",
-        "fs%splitter %": "4.0",
-        "ch%changeup %": "7.6",
-        "sl%slider %": "15.9",
-        "cu%curve %": "11.2",
+        "ff%fourseam fastball %": "43.1",
+        "si%sinker %": "11.4",
+        "fc%cutter %": "7.1",
+        "fs%splitter %": "3.9",
+        "ch%changeup %": "7.8",
+        "sl%slider %": "15.7",
+        "cu%curve %": "11.0",
         "max evmax exit velocity": "109.1",
         "hhhard hit": "21",
         "hh%hard hit %": "50.0",
@@ -28,24 +28,9 @@
         "bipballs in play": "42",
         "liveGames": 8,
         "totGames": 10,
-        "updated": "2025-05-05 19:47:09.080118"
+        "updated": "2025-05-05 19:47:16.267993"
     },
     "lad @ mia": [
-        {
-            "player": "connor norby",
-            "game": "lad @ mia",
-            "hr/park": "",
-            "pa": "31",
-            "dt": "2025-05-05 19:46:57",
-            "img": "https://www.mlbstatic.com/team-logos/146.svg",
-            "team": "mia",
-            "start": "6:40 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "jesus sanchez",
             "game": "lad @ mia",
@@ -1003,7 +988,23 @@
             "dist": "78"
         }
     ],
-    "pit @ stl": [],
+    "pit @ stl": [
+        {
+            "player": "oneil cruz",
+            "game": "pit @ stl",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-05 19:47:11",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:45 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "nym @ ari": [],
     "sea @ ath": []
 }
