@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "15",
-        "batters": "81",
-        "pitches": "413",
+        "batters": "83",
+        "pitches": "416",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "74.9",
         "ff%fourseam fastball %": "39.2",
         "si%sinker %": "12.3",
-        "fc%cutter %": "6.1",
+        "fc%cutter %": "6.0",
         "fs%splitter %": "2.4",
-        "ch%changeup %": "8.0",
-        "sl%slider %": "18.9",
-        "cu%curve %": "13.1",
+        "ch%changeup %": "7.9",
+        "sl%slider %": "19.2",
+        "cu%curve %": "13.0",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "32",
         "hh%hard hit %": "45.1",
         "brlbarrels": "4",
         "brl%barrel %": "5.6",
-        "ab": "96",
-        "avg": ".177",
+        "ab": "98",
+        "avg": ".173",
         "h": "17",
         "1b": "11",
         "2b": "3",
@@ -28,7 +28,7 @@
         "bipballs in play": "71",
         "liveGames": 8,
         "totGames": 10,
-        "updated": "2025-05-05 19:59:08.614522"
+        "updated": "2025-05-05 19:59:15.917354"
     },
     "lad @ mia": [
         {
@@ -589,6 +589,21 @@
     ],
     "cle @ wsh": [],
     "sd @ nyy": [
+        {
+            "player": "cody bellinger",
+            "game": "sd @ nyy",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-05-05 19:59:11",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "oscar gonzalez",
             "game": "sd @ nyy",
@@ -1515,6 +1530,21 @@
     ],
     "pit @ stl": [
         {
+            "player": "alec burleson",
+            "game": "pit @ stl",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-05-05 19:59:11",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "lars nootbaar",
             "game": "pit @ stl",
             "hr/park": "",
@@ -1524,7 +1554,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "87.0",
             "la": "67",
             "dist": "171"
