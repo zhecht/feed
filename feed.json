@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "32",
-        "batters": "147",
-        "pitches": "1032",
+        "batters": "148",
+        "pitches": "1036",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "75.3",
         "ff%fourseam fastball %": "35.4",
-        "si%sinker %": "11.2",
-        "fc%cutter %": "10.7",
-        "fs%splitter %": "5.3",
-        "ch%changeup %": "10.1",
-        "sl%slider %": "16.7",
-        "cu%curve %": "10.7",
+        "si%sinker %": "11.3",
+        "fc%cutter %": "10.6",
+        "fs%splitter %": "5.4",
+        "ch%changeup %": "10.0",
+        "sl%slider %": "16.6",
+        "cu%curve %": "10.6",
         "max evmax exit velocity": "114.6",
-        "hhhard hit": "73",
-        "hh%hard hit %": "41.0",
+        "hhhard hit": "74",
+        "hh%hard hit %": "40.9",
         "brlbarrels": "12",
-        "brl%barrel %": "6.7",
-        "ab": "232",
-        "avg": ".224",
+        "brl%barrel %": "6.6",
+        "ab": "234",
+        "avg": ".222",
         "h": "52",
         "1b": "36",
         "2b": "12",
         "3b": "0",
         "hr": "4",
         "so": "55",
-        "bipballs in play": "178",
+        "bipballs in play": "181",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-05-06 19:56:59.193057"
+        "updated": "2025-05-06 19:57:07.277280"
     },
     "phi @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "phi",
             "start": "7:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1670,6 +1670,21 @@
         }
     ],
     "cle-gm2 @ wsh-gm2": [
+        {
+            "player": "gabriel arias",
+            "game": "cle-gm2 @ wsh-gm2",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-05-06 19:57:07",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:30 PM",
+            "in": "4",
+            "result": "Groundout",
+            "evo": "71.9",
+            "la": "-29",
+            "dist": "5"
+        },
         {
             "player": "carlos santana",
             "game": "cle-gm2 @ wsh-gm2",
@@ -3361,6 +3376,21 @@
     ],
     "sf @ chc": [
         {
+            "player": "wilmer flores",
+            "game": "sf @ chc",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-05-06 19:57:07",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "58.4",
+            "la": "62",
+            "dist": "121"
+        },
+        {
             "player": "matt chapman",
             "game": "sf @ chc",
             "hr/park": "",
@@ -3829,9 +3859,9 @@
             "start": "7:45 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "105.9",
+            "la": "-24",
+            "dist": "6"
         },
         {
             "player": "alexander canario",
