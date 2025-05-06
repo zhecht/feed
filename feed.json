@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "17",
         "batters": "129",
-        "pitches": "884",
+        "pitches": "885",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "73.1",
-        "ff%fourseam fastball %": "37.7",
-        "si%sinker %": "11.1",
+        "ff%fourseam fastball %": "37.9",
+        "si%sinker %": "11.0",
         "fc%cutter %": "4.5",
         "fs%splitter %": "1.9",
         "ch%changeup %": "10.3",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "39.4",
         "brlbarrels": "13",
         "brl%barrel %": "7.6",
-        "ab": "209",
-        "avg": ".225",
+        "ab": "210",
+        "avg": ".224",
         "h": "47",
         "1b": "30",
         "2b": "8",
         "3b": "0",
         "hr": "9",
-        "so": "45",
+        "so": "44",
         "bipballs in play": "170",
         "liveGames": 8,
         "totGames": 10,
-        "updated": "2025-05-05 20:34:37.252037"
+        "updated": "2025-05-05 20:34:45.029705"
     },
     "lad @ mia": [
         {
@@ -1291,7 +1291,7 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "5",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3090,6 +3090,21 @@
     ],
     "pit @ stl": [
         {
+            "player": "nolan arenado",
+            "game": "pit @ stl",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-05-05 20:34:41",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brendan donovan",
             "game": "pit @ stl",
             "hr/park": "",
@@ -3099,7 +3114,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "68.8",
             "la": "-8",
             "dist": "12"
