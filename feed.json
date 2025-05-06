@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "18",
-        "batters": "47",
-        "pitches": "446",
+        "pitchers": "19",
+        "batters": "49",
+        "pitches": "455",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "75.7",
-        "ff%fourseam fastball %": "33.2",
-        "si%sinker %": "11.0",
-        "fc%cutter %": "9.2",
-        "fs%splitter %": "5.4",
-        "ch%changeup %": "11.0",
-        "sl%slider %": "17.0",
-        "cu%curve %": "13.2",
+        "ff%fourseam fastball %": "33.8",
+        "si%sinker %": "10.8",
+        "fc%cutter %": "9.0",
+        "fs%splitter %": "5.3",
+        "ch%changeup %": "10.8",
+        "sl%slider %": "16.7",
+        "cu%curve %": "13.6",
         "max evmax exit velocity": "114.6",
-        "hhhard hit": "38",
-        "hh%hard hit %": "43.2",
+        "hhhard hit": "39",
+        "hh%hard hit %": "42.9",
         "brlbarrels": "8",
-        "brl%barrel %": "9.1",
-        "ab": "106",
-        "avg": ".255",
-        "h": "27",
-        "1b": "19",
+        "brl%barrel %": "8.8",
+        "ab": "108",
+        "avg": ".278",
+        "h": "30",
+        "1b": "22",
         "2b": "6",
         "3b": "0",
         "hr": "2",
         "so": "18",
-        "bipballs in play": "88",
+        "bipballs in play": "91",
         "liveGames": 6,
         "totGames": 16,
-        "updated": "2025-05-06 19:18:01.495483"
+        "updated": "2025-05-06 19:18:08.941149"
     },
     "phi @ tb": [
         {
@@ -1401,6 +1401,21 @@
     ],
     "cle-gm2 @ wsh-gm2": [
         {
+            "player": "james wood",
+            "game": "cle-gm2 @ wsh-gm2",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-05-06 19:18:07",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cj abrams",
             "game": "cle-gm2 @ wsh-gm2",
             "hr/park": "",
@@ -1410,7 +1425,7 @@
             "team": "wsh",
             "start": "",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1472,10 +1487,10 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Single",
+            "evo": "99.8",
             "la": "",
-            "dist": ""
+            "dist": "51"
         },
         {
             "player": "andy pages",
@@ -1744,13 +1759,28 @@
             "team": "tex",
             "start": "6:45 PM",
             "in": "1",
+            "result": "Single",
+            "evo": "89.1",
+            "la": "16",
+            "dist": "242"
+        }
+    ],
+    "sd @ nyy": [
+        {
+            "player": "jackson merrill",
+            "game": "sd @ nyy",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-05-06 19:18:07",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "7:05 PM",
+            "in": "1",
             "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
-        }
-    ],
-    "sd @ nyy": [
+        },
         {
             "player": "manny machado",
             "game": "sd @ nyy",
@@ -1797,7 +1827,23 @@
             "dist": ""
         }
     ],
-    "cin @ atl": [],
+    "cin @ atl": [
+        {
+            "player": "tj friedl",
+            "game": "cin @ atl",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-06 19:18:07",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:15 PM",
+            "in": "1",
+            "result": "Single",
+            "evo": "94.2",
+            "la": "10",
+            "dist": "179"
+        }
+    ],
     "sf @ chc": [],
     "bal @ min": [],
     "chw @ kc": [],
