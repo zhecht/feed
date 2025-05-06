@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "75",
         "batters": "175",
-        "pitches": "2572",
+        "pitches": "2574",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "70.8",
         "ff%fourseam fastball %": "35.4",
@@ -14,21 +14,21 @@
         "cu%curve %": "10.1",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "190",
-        "hh%hard hit %": "40.2",
+        "hh%hard hit %": "40.1",
         "brlbarrels": "34",
         "brl%barrel %": "7.2",
-        "ab": "585",
-        "avg": ".243",
+        "ab": "586",
+        "avg": ".242",
         "h": "142",
         "1b": "99",
         "2b": "24",
         "3b": "2",
         "hr": "17",
         "so": "124",
-        "bipballs in play": "473",
+        "bipballs in play": "474",
         "liveGames": 0,
         "totGames": 10,
-        "updated": "2025-05-06 00:38:36.488050"
+        "updated": "2025-05-06 00:38:45.869227"
     },
     "lad @ mia": [
         {
@@ -7675,10 +7675,10 @@
             "team": "ari",
             "start": "",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Field Error",
+            "evo": "90.0",
+            "la": "-25",
+            "dist": "6"
         },
         {
             "player": "juan soto",
@@ -8763,9 +8763,24 @@
     ],
     "sea @ ath": [
         {
-            "player": "nick kurtz",
+            "player": "luis urias",
             "game": "sea @ ath",
             "hr/park": "",
+            "pa": "72",
+            "dt": "2025-05-06 00:38:45",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "nick kurtz",
+            "game": "sea @ ath",
+            "hr/park": "0/30",
             "pa": "71",
             "dt": "2025-05-06 00:36:45",
             "img": "https://www.mlbstatic.com/team-logos/133.svg",
