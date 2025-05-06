@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "53",
-        "batters": "147",
-        "pitches": "1888",
+        "pitchers": "54",
+        "batters": "148",
+        "pitches": "1890",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "70.8",
-        "ff%fourseam fastball %": "36.9",
+        "ff%fourseam fastball %": "37.0",
         "si%sinker %": "11.7",
         "fc%cutter %": "4.1",
         "fs%splitter %": "2.2",
@@ -13,22 +13,22 @@
         "sl%slider %": "23.9",
         "cu%curve %": "10.9",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "137",
-        "hh%hard hit %": "38.7",
+        "hhhard hit": "138",
+        "hh%hard hit %": "38.9",
         "brlbarrels": "22",
         "brl%barrel %": "6.2",
-        "ab": "441",
-        "avg": ".234",
+        "ab": "442",
+        "avg": ".233",
         "h": "103",
         "1b": "71",
         "2b": "17",
         "3b": "1",
         "hr": "14",
         "so": "92",
-        "bipballs in play": "354",
+        "bipballs in play": "355",
         "liveGames": 10,
         "totGames": 10,
-        "updated": "2025-05-05 22:06:21.723064"
+        "updated": "2025-05-05 22:06:30.295111"
     },
     "lad @ mia": [
         {
@@ -1259,10 +1259,10 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "99.1",
+            "la": "40",
+            "dist": "324"
         },
         {
             "player": "jorbit vivas",
@@ -7307,5 +7307,21 @@
             "dist": "339"
         }
     ],
-    "sea @ ath": []
+    "sea @ ath": [
+        {
+            "player": "jp crawford",
+            "game": "sea @ ath",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-05 22:06:26",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "10:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ]
 }
