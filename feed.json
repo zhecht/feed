@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "16",
-        "batters": "119",
-        "pitches": "661",
+        "batters": "120",
+        "pitches": "666",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "73.1",
-        "ff%fourseam fastball %": "39.9",
-        "si%sinker %": "11.0",
-        "fc%cutter %": "5.1",
+        "ff%fourseam fastball %": "39.6",
+        "si%sinker %": "11.3",
+        "fc%cutter %": "5.3",
         "fs%splitter %": "2.1",
-        "ch%changeup %": "8.2",
-        "sl%slider %": "20.1",
-        "cu%curve %": "13.5",
+        "ch%changeup %": "8.1",
+        "sl%slider %": "20.3",
+        "cu%curve %": "13.4",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "46",
-        "hh%hard hit %": "39.7",
+        "hh%hard hit %": "39.3",
         "brlbarrels": "7",
         "brl%barrel %": "6.0",
         "ab": "154",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "4",
         "so": "38",
-        "bipballs in play": "116",
+        "bipballs in play": "117",
         "liveGames": 8,
         "totGames": 10,
-        "updated": "2025-05-05 20:17:50.436387"
+        "updated": "2025-05-05 20:17:58.117886"
     },
     "lad @ mia": [
         {
@@ -1524,6 +1524,21 @@
     ],
     "sf @ chc": [
         {
+            "player": "dansby swanson",
+            "game": "sf @ chc",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-05-05 20:17:55",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "willy adames",
             "game": "sf @ chc",
             "hr/park": "",
@@ -2319,7 +2334,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "2",
-            "result": "Passed Ball",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
