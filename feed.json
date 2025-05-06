@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "18",
         "batters": "130",
-        "pitches": "1037",
+        "pitches": "1045",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "73.1",
-        "ff%fourseam fastball %": "37.4",
-        "si%sinker %": "11.3",
+        "ff%fourseam fastball %": "37.3",
+        "si%sinker %": "11.5",
         "fc%cutter %": "4.2",
         "fs%splitter %": "2.4",
         "ch%changeup %": "10.0",
@@ -28,7 +28,7 @@
         "bipballs in play": "196",
         "liveGames": 8,
         "totGames": 10,
-        "updated": "2025-05-05 20:45:51.583652"
+        "updated": "2025-05-05 20:45:59.515324"
     },
     "lad @ mia": [
         {
@@ -41,7 +41,7 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "72.0",
             "la": "-5",
             "dist": "20"
@@ -2154,6 +2154,21 @@
     ],
     "sf @ chc": [
         {
+            "player": "nico hoerner",
+            "game": "sf @ chc",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-05-05 20:45:55",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "pete crow armstrong",
             "game": "sf @ chc",
             "hr/park": "",
@@ -2645,7 +2660,7 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
