@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "43",
         "batters": "135",
-        "pitches": "1653",
+        "pitches": "1655",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "70.8",
-        "ff%fourseam fastball %": "36.3",
-        "si%sinker %": "11.9",
+        "ff%fourseam fastball %": "36.2",
+        "si%sinker %": "12.0",
         "fc%cutter %": "4.2",
         "fs%splitter %": "2.4",
         "ch%changeup %": "11.0",
-        "sl%slider %": "23.0",
+        "sl%slider %": "23.1",
         "cu%curve %": "11.2",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "119",
-        "hh%hard hit %": "38.1",
+        "hhhard hit": "120",
+        "hh%hard hit %": "38.3",
         "brlbarrels": "21",
         "brl%barrel %": "6.7",
         "ab": "392",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "13",
         "so": "83",
-        "bipballs in play": "312",
+        "bipballs in play": "313",
         "liveGames": 9,
         "totGames": 10,
-        "updated": "2025-05-05 21:44:38.413066"
+        "updated": "2025-05-05 21:44:46.870163"
     },
     "lad @ mia": [
         {
@@ -1249,21 +1249,6 @@
     ],
     "cle @ wsh": [],
     "sd @ nyy": [
-        {
-            "player": "austin wells",
-            "game": "sd @ nyy",
-            "hr/park": "",
-            "pa": "45",
-            "dt": "2025-05-05 21:44:11",
-            "img": "https://www.mlbstatic.com/team-logos/147.svg",
-            "team": "nyy",
-            "start": "7:05 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "anthony volpe",
             "game": "sd @ nyy",
@@ -2928,7 +2913,7 @@
             "team": "chc",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "98.7",
             "la": "-2",
             "dist": "25"
@@ -5625,6 +5610,21 @@
     ],
     "pit @ stl": [
         {
+            "player": "jared triolo",
+            "game": "pit @ stl",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-05-05 21:44:41",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:45 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tommy pham",
             "game": "pit @ stl",
             "hr/park": "",
@@ -5634,10 +5634,10 @@
             "team": "pit",
             "start": "7:45 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Field Error",
+            "evo": "108.2",
+            "la": "-4",
+            "dist": "27"
         },
         {
             "player": "adam frazier",
