@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "22",
         "batters": "88",
-        "pitches": "688",
+        "pitches": "691",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "75.7",
-        "ff%fourseam fastball %": "35.2",
+        "ff%fourseam fastball %": "35.0",
         "si%sinker %": "10.6",
-        "fc%cutter %": "9.7",
-        "fs%splitter %": "6.0",
-        "ch%changeup %": "9.9",
-        "sl%slider %": "16.1",
-        "cu%curve %": "12.5",
+        "fc%cutter %": "9.8",
+        "fs%splitter %": "5.9",
+        "ch%changeup %": "9.8",
+        "sl%slider %": "16.4",
+        "cu%curve %": "12.4",
         "max evmax exit velocity": "114.6",
-        "hhhard hit": "55",
-        "hh%hard hit %": "42.0",
+        "hhhard hit": "56",
+        "hh%hard hit %": "42.4",
         "brlbarrels": "11",
-        "brl%barrel %": "8.4",
+        "brl%barrel %": "8.3",
         "ab": "158",
         "avg": ".266",
         "h": "42",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "4",
         "so": "31",
-        "bipballs in play": "131",
+        "bipballs in play": "132",
         "liveGames": 7,
         "totGames": 16,
-        "updated": "2025-05-06 19:39:20.289111"
+        "updated": "2025-05-06 19:39:28.145696"
     },
     "phi @ tb": [
         {
@@ -41,10 +41,10 @@
             "team": "phi",
             "start": "7:05 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "97.1",
+            "la": "-19",
+            "dist": "6"
         },
         {
             "player": "travis jankowski",
@@ -1763,6 +1763,21 @@
     ],
     "lad @ mia": [
         {
+            "player": "agustin ramirez",
+            "game": "lad @ mia",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-05-06 19:39:22",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle stowers",
             "game": "lad @ mia",
             "hr/park": "",
@@ -1772,7 +1787,7 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Sac Bunt",
             "evo": "34.5",
             "la": "-26",
             "dist": "5"
