@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "19",
         "batters": "60",
-        "pitches": "510",
+        "pitches": "512",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "75.7",
-        "ff%fourseam fastball %": "34.7",
+        "ff%fourseam fastball %": "34.8",
         "si%sinker %": "10.4",
-        "fc%cutter %": "9.2",
+        "fc%cutter %": "9.0",
         "fs%splitter %": "4.9",
-        "ch%changeup %": "10.4",
-        "sl%slider %": "17.1",
+        "ch%changeup %": "10.5",
+        "sl%slider %": "17.2",
         "cu%curve %": "13.3",
         "max evmax exit velocity": "114.6",
-        "hhhard hit": "42",
-        "hh%hard hit %": "42.4",
+        "hhhard hit": "43",
+        "hh%hard hit %": "42.6",
         "brlbarrels": "9",
-        "brl%barrel %": "9.1",
+        "brl%barrel %": "8.9",
         "ab": "119",
         "avg": ".286",
         "h": "34",
@@ -24,11 +24,11 @@
         "2b": "8",
         "3b": "0",
         "hr": "3",
-        "so": "20",
-        "bipballs in play": "99",
+        "so": "21",
+        "bipballs in play": "101",
         "liveGames": 6,
         "totGames": 16,
-        "updated": "2025-05-06 19:23:15.107151"
+        "updated": "2025-05-06 19:23:22.625532"
     },
     "phi @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "phi",
             "start": "7:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1440,10 +1440,10 @@
             "team": "wsh",
             "start": "",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "102.2",
+            "la": "49",
+            "dist": "299"
         },
         {
             "player": "nathaniel lowe",
@@ -1548,9 +1548,9 @@
             "start": "6:40 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "91.7",
+            "la": "32",
+            "dist": "348"
         },
         {
             "player": "ronny simon",
@@ -1849,7 +1849,7 @@
             "team": "tex",
             "start": "6:45 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
