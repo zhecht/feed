@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "54",
-        "batters": "148",
-        "pitches": "1892",
+        "pitchers": "55",
+        "batters": "150",
+        "pitches": "1896",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "70.8",
         "ff%fourseam fastball %": "37.0",
@@ -10,25 +10,25 @@
         "fc%cutter %": "4.1",
         "fs%splitter %": "2.2",
         "ch%changeup %": "10.1",
-        "sl%slider %": "23.9",
+        "sl%slider %": "24.1",
         "cu%curve %": "10.9",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "138",
-        "hh%hard hit %": "38.9",
+        "hh%hard hit %": "38.7",
         "brlbarrels": "22",
         "brl%barrel %": "6.2",
-        "ab": "442",
-        "avg": ".233",
-        "h": "103",
-        "1b": "71",
+        "ab": "445",
+        "avg": ".234",
+        "h": "104",
+        "1b": "72",
         "2b": "17",
         "3b": "1",
         "hr": "14",
         "so": "93",
-        "bipballs in play": "355",
+        "bipballs in play": "357",
         "liveGames": 10,
         "totGames": 10,
-        "updated": "2025-05-05 22:06:47.780508"
+        "updated": "2025-05-05 22:06:56.482950"
     },
     "lad @ mia": [
         {
@@ -4136,6 +4136,21 @@
     ],
     "chw @ kc": [
         {
+            "player": "luis robert",
+            "game": "chw @ kc",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-05-05 22:06:56",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "92.1",
+            "la": "-10",
+            "dist": "11"
+        },
+        {
             "player": "freddy fermin",
             "game": "chw @ kc",
             "hr/park": "",
@@ -7127,6 +7142,21 @@
     ],
     "nym @ ari": [
         {
+            "player": "gabriel moreno",
+            "game": "nym @ ari",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-05-05 22:06:56",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "9:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "eugenio suarez",
             "game": "nym @ ari",
             "hr/park": "",
@@ -7309,6 +7339,21 @@
     ],
     "sea @ ath": [
         {
+            "player": "jorge polanco",
+            "game": "sea @ ath",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-05-05 22:06:56",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "10:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jp crawford",
             "game": "sea @ ath",
             "hr/park": "",
@@ -7318,10 +7363,10 @@
             "team": "sea",
             "start": "10:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "85.2",
+            "la": "14",
+            "dist": "192"
         }
     ]
 }
