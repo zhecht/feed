@@ -2,35 +2,50 @@
     "all": {
         "pitchers": "39",
         "batters": "203",
-        "pitches": "1717",
+        "pitches": "1724",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "70.0",
-        "ff%fourseam fastball %": "34.4",
-        "si%sinker %": "10.9",
+        "ff%fourseam fastball %": "34.3",
+        "si%sinker %": "11.0",
         "fc%cutter %": "9.6",
         "fs%splitter %": "4.6",
-        "ch%changeup %": "11.4",
+        "ch%changeup %": "11.3",
         "sl%slider %": "19.0",
-        "cu%curve %": "10.1",
+        "cu%curve %": "10.0",
         "max evmax exit velocity": "114.6",
         "hhhard hit": "131",
-        "hh%hard hit %": "42.4",
+        "hh%hard hit %": "42.1",
         "brlbarrels": "29",
-        "brl%barrel %": "9.4",
-        "ab": "389",
-        "avg": ".262",
+        "brl%barrel %": "9.3",
+        "ab": "392",
+        "avg": ".260",
         "h": "102",
         "1b": "67",
         "2b": "21",
         "3b": "0",
         "hr": "14",
-        "so": "90",
-        "bipballs in play": "309",
+        "so": "91",
+        "bipballs in play": "311",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-05-06 20:31:01.656979"
+        "updated": "2025-05-06 20:31:10.228044"
     },
     "phi @ tb": [
+        {
+            "player": "nick castellanos",
+            "game": "phi @ tb",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-05-06 20:31:07",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kyle schwarber",
             "game": "phi @ tb",
@@ -41,7 +56,7 @@
             "team": "phi",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "98.9",
             "la": "-33",
             "dist": "4"
@@ -2543,6 +2558,21 @@
     ],
     "lad @ mia": [
         {
+            "player": "jesus sanchez",
+            "game": "lad @ mia",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-05-06 20:30:38",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "agustin ramirez",
             "game": "lad @ mia",
             "hr/park": "0/30",
@@ -3234,6 +3264,21 @@
         }
     ],
     "tex @ bos": [
+        {
+            "player": "alex bregman",
+            "game": "tex @ bos",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-05-06 20:31:07",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "6:45 PM",
+            "in": "4",
+            "result": "Lineout",
+            "evo": "89.1",
+            "la": "26",
+            "dist": "321"
+        },
         {
             "player": "rafael devers",
             "game": "tex @ bos",
@@ -4756,21 +4801,6 @@
     ],
     "sf @ chc": [
         {
-            "player": "lamonte wade",
-            "game": "sf @ chc",
-            "hr/park": "",
-            "pa": "27",
-            "dt": "2025-05-06 20:30:52",
-            "img": "https://www.mlbstatic.com/team-logos/137.svg",
-            "team": "sf",
-            "start": "7:40 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "seiya suzuki",
             "game": "sf @ chc",
             "hr/park": "",
@@ -5480,6 +5510,21 @@
     ],
     "chw @ kc": [
         {
+            "player": "maikel garcia",
+            "game": "chw @ kc",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-05-06 20:30:38",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "Groundout",
+            "evo": "93.1",
+            "la": "-19",
+            "dist": "8"
+        },
+        {
             "player": "salvador perez",
             "game": "chw @ kc",
             "hr/park": "",
@@ -5489,7 +5534,7 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
