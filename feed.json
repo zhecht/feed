@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "42",
         "batters": "205",
-        "pitches": "2143",
+        "pitches": "2152",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "68.5",
         "ff%fourseam fastball %": "33.2",
         "si%sinker %": "10.4",
         "fc%cutter %": "9.8",
         "fs%splitter %": "4.9",
-        "ch%changeup %": "11.3",
-        "sl%slider %": "20.1",
+        "ch%changeup %": "11.2",
+        "sl%slider %": "20.0",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "114.6",
         "hhhard hit": "160",
-        "hh%hard hit %": "41.2",
+        "hh%hard hit %": "41.1",
         "brlbarrels": "35",
         "brl%barrel %": "9.0",
-        "ab": "490",
+        "ab": "494",
         "avg": ".243",
-        "h": "119",
-        "1b": "78",
+        "h": "120",
+        "1b": "79",
         "2b": "25",
         "3b": "0",
         "hr": "16",
-        "so": "115",
-        "bipballs in play": "388",
+        "so": "116",
+        "bipballs in play": "389",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-05-06 20:52:45.254231"
+        "updated": "2025-05-06 20:52:54.578219"
     },
     "phi @ tb": [
         {
@@ -2016,6 +2016,21 @@
     ],
     "cle-gm2 @ wsh-gm2": [
         {
+            "player": "jose ramirez",
+            "game": "cle-gm2 @ wsh-gm2",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-05-06 20:52:52",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:30 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "angel martinez",
             "game": "cle-gm2 @ wsh-gm2",
             "hr/park": "",
@@ -2025,10 +2040,10 @@
             "team": "cle",
             "start": "7:30 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "86.1",
+            "la": "50",
+            "dist": "241"
         },
         {
             "player": "steven kwan",
@@ -3610,16 +3625,31 @@
     ],
     "tex @ bos": [
         {
-            "player": "abraham toro",
+            "player": "carlos narvaez",
             "game": "tex @ bos",
             "hr/park": "",
+            "pa": "44",
+            "dt": "2025-05-06 20:52:52",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "6:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "abraham toro",
+            "game": "tex @ bos",
+            "hr/park": "0/30",
             "pa": "43",
             "dt": "2025-05-06 20:51:22",
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
             "team": "bos",
             "start": "6:45 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "98.9",
             "la": "21",
             "dist": "334"
@@ -4257,6 +4287,21 @@
     ],
     "sd @ nyy": [
         {
+            "player": "cody bellinger",
+            "game": "sd @ nyy",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-05-06 20:52:52",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "aaron judge",
             "game": "sd @ nyy",
             "hr/park": "",
@@ -4266,7 +4311,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "65.0",
             "la": "-30",
             "dist": "7"
@@ -5565,6 +5610,21 @@
         }
     ],
     "sf @ chc": [
+        {
+            "player": "matt chapman",
+            "game": "sf @ chc",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-05-06 20:52:52",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jung hoo lee",
             "game": "sf @ chc",
@@ -7758,7 +7818,7 @@
             "team": "pit",
             "start": "7:45 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
