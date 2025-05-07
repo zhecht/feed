@@ -2,35 +2,50 @@
     "all": {
         "pitchers": "41",
         "batters": "205",
-        "pitches": "2052",
+        "pitches": "2054",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "68.5",
-        "ff%fourseam fastball %": "33.8",
+        "ff%fourseam fastball %": "33.7",
         "si%sinker %": "10.5",
         "fc%cutter %": "9.5",
         "fs%splitter %": "4.8",
         "ch%changeup %": "11.1",
         "sl%slider %": "19.7",
-        "cu%curve %": "10.5",
+        "cu%curve %": "10.6",
         "max evmax exit velocity": "114.6",
         "hhhard hit": "148",
-        "hh%hard hit %": "40.1",
-        "brlbarrels": "32",
-        "brl%barrel %": "8.7",
-        "ab": "462",
+        "hh%hard hit %": "40.0",
+        "brlbarrels": "33",
+        "brl%barrel %": "8.9",
+        "ab": "465",
         "avg": ".247",
-        "h": "114",
-        "1b": "77",
+        "h": "115",
+        "1b": "78",
         "2b": "22",
         "3b": "0",
         "hr": "15",
-        "so": "108",
-        "bipballs in play": "369",
+        "so": "109",
+        "bipballs in play": "370",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-05-06 20:47:50.969174"
+        "updated": "2025-05-06 20:48:00.067861"
     },
     "phi @ tb": [
+        {
+            "player": "alec bohm",
+            "game": "phi @ tb",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-05-06 20:47:54",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jt realmuto",
             "game": "phi @ tb",
@@ -2732,7 +2747,7 @@
             "team": "lad",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4152,6 +4167,21 @@
     ],
     "sd @ nyy": [
         {
+            "player": "xander bogaerts",
+            "game": "sd @ nyy",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-05-06 20:47:54",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "89.8",
+            "la": "-26",
+            "dist": "7"
+        },
+        {
             "player": "jackson merrill",
             "game": "sd @ nyy",
             "hr/park": "",
@@ -4161,7 +4191,7 @@
             "team": "sd",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5893,9 +5923,9 @@
             "start": "7:40 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "112.0",
-            "la": "11",
-            "dist": "218"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "ryan ohearn",
@@ -6319,6 +6349,21 @@
         }
     ],
     "chw @ kc": [
+        {
+            "player": "joshua palacios",
+            "game": "chw @ kc",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-05-06 20:47:54",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "104.5",
+            "la": "31",
+            "dist": "413"
+        },
         {
             "player": "andrew vaughn",
             "game": "chw @ kc",
@@ -6931,7 +6976,7 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "21.8",
             "la": "-8",
             "dist": "11"
