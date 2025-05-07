@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "46",
         "batters": "205",
-        "pitches": "2240",
+        "pitches": "2246",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "68.5",
-        "ff%fourseam fastball %": "33.1",
+        "ff%fourseam fastball %": "33.0",
         "si%sinker %": "10.6",
         "fc%cutter %": "9.9",
         "fs%splitter %": "4.8",
@@ -13,22 +13,22 @@
         "sl%slider %": "20.3",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "114.6",
-        "hhhard hit": "171",
-        "hh%hard hit %": "41.9",
+        "hhhard hit": "172",
+        "hh%hard hit %": "42.0",
         "brlbarrels": "35",
-        "brl%barrel %": "8.6",
-        "ab": "512",
-        "avg": ".240",
-        "h": "123",
-        "1b": "80",
+        "brl%barrel %": "8.5",
+        "ab": "514",
+        "avg": ".241",
+        "h": "124",
+        "1b": "81",
         "2b": "27",
         "3b": "0",
         "hr": "16",
         "so": "118",
-        "bipballs in play": "408",
+        "bipballs in play": "410",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-05-06 20:57:18.674248"
+        "updated": "2025-05-06 20:57:28.210802"
     },
     "phi @ tb": [
         {
@@ -2030,6 +2030,21 @@
         }
     ],
     "cle-gm2 @ wsh-gm2": [
+        {
+            "player": "luis garcia",
+            "game": "cle-gm2 @ wsh-gm2",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-05-06 20:57:23",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "7:30 PM",
+            "in": "7",
+            "result": "Single",
+            "evo": "96.3",
+            "la": "3",
+            "dist": "73"
+        },
         {
             "player": "josh bell",
             "game": "cle-gm2 @ wsh-gm2",
@@ -5039,6 +5054,21 @@
     ],
     "cin @ atl": [
         {
+            "player": "matt olson",
+            "game": "cin @ atl",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-05-06 20:57:23",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "marcell ozuna",
             "game": "cin @ atl",
             "hr/park": "",
@@ -5048,10 +5078,10 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "65.4",
+            "la": "-18",
+            "dist": "5"
         },
         {
             "player": "austin riley",
