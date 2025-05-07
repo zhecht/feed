@@ -2,13 +2,13 @@
     "all": {
         "pitchers": "39",
         "batters": "204",
-        "pitches": "1765",
+        "pitches": "1772",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "70.0",
-        "ff%fourseam fastball %": "34.2",
+        "ff%fourseam fastball %": "34.1",
         "si%sinker %": "10.9",
         "fc%cutter %": "9.6",
-        "fs%splitter %": "4.8",
+        "fs%splitter %": "4.7",
         "ch%changeup %": "11.2",
         "sl%slider %": "19.2",
         "cu%curve %": "10.1",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "41.8",
         "brlbarrels": "30",
         "brl%barrel %": "9.5",
-        "ab": "400",
-        "avg": ".258",
-        "h": "103",
-        "1b": "68",
+        "ab": "402",
+        "avg": ".259",
+        "h": "104",
+        "1b": "69",
         "2b": "21",
         "3b": "0",
         "hr": "14",
@@ -28,7 +28,7 @@
         "bipballs in play": "316",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-05-06 20:33:04.387342"
+        "updated": "2025-05-06 20:33:12.941438"
     },
     "phi @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "phi",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5283,6 +5283,21 @@
     ],
     "bal @ min": [
         {
+            "player": "carlos correa",
+            "game": "bal @ min",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-05-06 20:33:07",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ty france",
             "game": "bal @ min",
             "hr/park": "17/30",
@@ -5292,7 +5307,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "105.3",
             "la": "29",
             "dist": "410"
@@ -5615,6 +5630,21 @@
     ],
     "chw @ kc": [
         {
+            "player": "michael a taylor",
+            "game": "chw @ kc",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-05-06 20:33:07",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "maikel garcia",
             "game": "chw @ kc",
             "hr/park": "",
@@ -5654,7 +5684,7 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "4",
-            "result": "Groundout",
+            "result": "Single",
             "evo": "95.4",
             "la": "-11",
             "dist": "19"
