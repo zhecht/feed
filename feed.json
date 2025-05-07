@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "86",
+        "pitchers": "87",
         "batters": "223",
-        "pitches": "3186",
+        "pitches": "3195",
         "max velomax pitch velocity": "100.5",
         "min velomin pitch velocity": "68.5",
-        "ff%fourseam fastball %": "32.5",
+        "ff%fourseam fastball %": "32.6",
         "si%sinker %": "11.2",
         "fc%cutter %": "9.5",
         "fs%splitter %": "4.2",
         "ch%changeup %": "10.5",
-        "sl%slider %": "23.5",
-        "cu%curve %": "8.3",
+        "sl%slider %": "23.6",
+        "cu%curve %": "8.4",
         "max evmax exit velocity": "114.6",
-        "hhhard hit": "232",
-        "hh%hard hit %": "41.6",
-        "brlbarrels": "43",
-        "brl%barrel %": "7.7",
-        "ab": "719",
-        "avg": ".249",
-        "h": "179",
+        "hhhard hit": "233",
+        "hh%hard hit %": "41.5",
+        "brlbarrels": "44",
+        "brl%barrel %": "7.8",
+        "ab": "721",
+        "avg": ".250",
+        "h": "180",
         "1b": "123",
         "2b": "35",
         "3b": "0",
-        "hr": "21",
+        "hr": "22",
         "so": "177",
-        "bipballs in play": "558",
+        "bipballs in play": "561",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-05-06 21:45:28.675640"
+        "updated": "2025-05-06 21:45:39.219710"
     },
     "phi @ tb": [
+        {
+            "player": "christopher morel",
+            "game": "phi @ tb",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-05-06 21:45:39",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "max kepler",
             "game": "phi @ tb",
@@ -6608,7 +6623,7 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "8",
-            "result": "Game Advisory",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7561,6 +7576,21 @@
     ],
     "sf @ chc": [
         {
+            "player": "lamonte wade",
+            "game": "sf @ chc",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-05-06 21:45:39",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "wilmer flores",
             "game": "sf @ chc",
             "hr/park": "",
@@ -7570,10 +7600,10 @@
             "team": "sf",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Field Error",
+            "evo": "40.1",
+            "la": "48",
+            "dist": "89"
         },
         {
             "player": "kyle tucker",
@@ -8480,17 +8510,17 @@
         {
             "player": "byron buxton",
             "game": "bal @ min",
-            "hr/park": "",
+            "hr/park": "28/30",
             "pa": "52",
             "dt": "2025-05-06 21:45:23",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "101.5",
+            "la": "25",
+            "dist": "371"
         },
         {
             "player": "willi castro",
@@ -10267,21 +10297,6 @@
     ],
     "hou @ mil": [
         {
-            "player": "christian yelich",
-            "game": "hou @ mil",
-            "hr/park": "",
-            "pa": "58",
-            "dt": "2025-05-06 21:45:23",
-            "img": "https://www.mlbstatic.com/team-logos/158.svg",
-            "team": "mil",
-            "start": "7:40 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "william contreras",
             "game": "hou @ mil",
             "hr/park": "",
@@ -11139,6 +11154,21 @@
     ],
     "pit @ stl": [
         {
+            "player": "andrew mccutchen",
+            "game": "pit @ stl",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-05-06 21:45:10",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:45 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bryan reynolds",
             "game": "pit @ stl",
             "hr/park": "",
@@ -11148,7 +11178,7 @@
             "team": "pit",
             "start": "7:45 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "74.8",
             "la": "-41",
             "dist": "3"
@@ -12022,9 +12052,9 @@
             "start": "9:38 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "73.1",
+            "la": "86",
+            "dist": "40"
         },
         {
             "player": "vladimir guerrero",
