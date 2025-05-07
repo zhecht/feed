@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "97",
-        "batters": "235",
-        "pitches": "3419",
+        "batters": "237",
+        "pitches": "3423",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "68.5",
         "ff%fourseam fastball %": "32.4",
         "si%sinker %": "12.1",
-        "fc%cutter %": "9.3",
+        "fc%cutter %": "9.4",
         "fs%splitter %": "4.0",
         "ch%changeup %": "10.4",
         "sl%slider %": "23.6",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "114.6",
-        "hhhard hit": "253",
-        "hh%hard hit %": "42.0",
+        "hhhard hit": "255",
+        "hh%hard hit %": "42.2",
         "brlbarrels": "47",
         "brl%barrel %": "7.8",
-        "ab": "773",
-        "avg": ".247",
+        "ab": "775",
+        "avg": ".246",
         "h": "191",
         "1b": "131",
         "2b": "37",
         "3b": "0",
         "hr": "23",
         "so": "189",
-        "bipballs in play": "603",
+        "bipballs in play": "604",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-05-06 21:56:00.741753"
+        "updated": "2025-05-06 21:56:11.478943"
     },
     "phi @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5811,10 +5811,10 @@
             "team": "sd",
             "start": "7:05 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "98.4",
+            "la": "-16",
+            "dist": "10"
         },
         {
             "player": "jose iglesias",
@@ -6913,6 +6913,21 @@
         }
     ],
     "cin @ atl": [
+        {
+            "player": "jake fraley",
+            "game": "cin @ atl",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-05-06 21:55:39",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:15 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jose trevino",
             "game": "cin @ atl",
@@ -12742,9 +12757,9 @@
             "start": "9:38 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "90.8",
-            "la": "20",
-            "dist": "287"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "zach neto",
@@ -12854,11 +12869,11 @@
     ],
     "nym @ ari": [
         {
-            "player": "brandon nimmo",
+            "player": "mark vientos",
             "game": "nym @ ari",
             "hr/park": "",
-            "pa": "8",
-            "dt": "2025-05-06 21:54:09",
+            "pa": "9",
+            "dt": "2025-05-06 21:56:08",
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
             "team": "nym",
             "start": "9:40 PM",
@@ -12867,6 +12882,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "brandon nimmo",
+            "game": "nym @ ari",
+            "hr/park": "0/30",
+            "pa": "8",
+            "dt": "2025-05-06 21:54:09",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "9:40 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "96.5",
+            "la": "28",
+            "dist": "361"
         },
         {
             "player": "starling marte",
