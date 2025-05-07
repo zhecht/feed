@@ -1,23 +1,23 @@
 {
     "all": {
         "pitchers": "40",
-        "batters": "204",
-        "pitches": "1935",
+        "batters": "205",
+        "pitches": "1941",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "33.7",
-        "si%sinker %": "10.6",
-        "fc%cutter %": "9.5",
+        "si%sinker %": "10.7",
+        "fc%cutter %": "9.4",
         "fs%splitter %": "4.9",
         "ch%changeup %": "11.3",
-        "sl%slider %": "19.5",
+        "sl%slider %": "19.6",
         "cu%curve %": "10.4",
         "max evmax exit velocity": "114.6",
         "hhhard hit": "142",
-        "hh%hard hit %": "41.0",
+        "hh%hard hit %": "40.9",
         "brlbarrels": "32",
         "brl%barrel %": "9.2",
-        "ab": "440",
+        "ab": "441",
         "avg": ".252",
         "h": "111",
         "1b": "74",
@@ -25,14 +25,14 @@
         "3b": "0",
         "hr": "15",
         "so": "102",
-        "bipballs in play": "346",
+        "bipballs in play": "347",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-05-06 20:41:47.647783"
+        "updated": "2025-05-06 20:41:56.452623"
     },
     "phi @ tb": [
         {
-            "player": "yandy diaz",
+            "player": "christopher morel",
             "game": "phi @ tb",
             "hr/park": "",
             "pa": "45",
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "6",
-            "result": "Game Advisory",
+            "result": "Offensive Substitution",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1980,7 +1980,7 @@
             "team": "cle",
             "start": "7:30 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2662,6 +2662,21 @@
         }
     ],
     "lad @ mia": [
+        {
+            "player": "james outman",
+            "game": "lad @ mia",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-05-06 20:41:53",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ronny simon",
             "game": "lad @ mia",
@@ -4016,6 +4031,21 @@
         }
     ],
     "sd @ nyy": [
+        {
+            "player": "trent grisham",
+            "game": "sd @ nyy",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-05-06 20:41:53",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "Groundout",
+            "evo": "85.2",
+            "la": "-11",
+            "dist": "8"
+        },
         {
             "player": "jorbit vivas",
             "game": "sd @ nyy",
@@ -5658,6 +5688,21 @@
     ],
     "bal @ min": [
         {
+            "player": "adley rutschman",
+            "game": "bal @ min",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-05-06 20:41:53",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gunnar henderson",
             "game": "bal @ min",
             "hr/park": "",
@@ -5667,7 +5712,7 @@
             "team": "bal",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
