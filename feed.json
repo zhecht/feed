@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "51",
         "batters": "209",
-        "pitches": "2416",
+        "pitches": "2425",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "68.5",
         "ff%fourseam fastball %": "32.7",
         "si%sinker %": "10.9",
         "fc%cutter %": "9.9",
         "fs%splitter %": "4.7",
-        "ch%changeup %": "10.6",
+        "ch%changeup %": "10.5",
         "sl%slider %": "21.9",
         "cu%curve %": "9.3",
         "max evmax exit velocity": "114.6",
-        "hhhard hit": "177",
+        "hhhard hit": "178",
         "hh%hard hit %": "40.9",
         "brlbarrels": "36",
         "brl%barrel %": "8.3",
-        "ab": "546",
-        "avg": ".242",
+        "ab": "548",
+        "avg": ".241",
         "h": "132",
         "1b": "88",
         "2b": "28",
         "3b": "0",
         "hr": "16",
         "so": "129",
-        "bipballs in play": "433",
+        "bipballs in play": "435",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-05-06 21:05:46.618148"
+        "updated": "2025-05-06 21:05:56.222886"
     },
     "phi @ tb": [
         {
@@ -2101,9 +2101,9 @@
             "start": "7:30 PM",
             "in": "8",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "99.9",
+            "la": "7",
+            "dist": "119"
         },
         {
             "player": "carlos santana",
@@ -3849,6 +3849,21 @@
         }
     ],
     "tex @ bos": [
+        {
+            "player": "jarren duran",
+            "game": "tex @ bos",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-05-06 21:05:52",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "6:45 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "corey seager",
             "game": "tex @ bos",
@@ -6687,7 +6702,7 @@
             "team": "bal",
             "start": "7:40 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7987,6 +8002,21 @@
     ],
     "hou @ mil": [
         {
+            "player": "isaac paredes",
+            "game": "hou @ mil",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-05-06 21:05:52",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose altuve",
             "game": "hou @ mil",
             "hr/park": "",
@@ -7996,10 +8026,10 @@
             "team": "hou",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "83.9",
+            "la": "-30",
+            "dist": "6"
         },
         {
             "player": "jeremy pena",
