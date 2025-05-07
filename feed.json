@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "40",
         "batters": "205",
-        "pitches": "1941",
+        "pitches": "1945",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "70.0",
-        "ff%fourseam fastball %": "33.7",
-        "si%sinker %": "10.7",
-        "fc%cutter %": "9.4",
+        "ff%fourseam fastball %": "33.9",
+        "si%sinker %": "10.6",
+        "fc%cutter %": "9.5",
         "fs%splitter %": "4.9",
         "ch%changeup %": "11.3",
-        "sl%slider %": "19.6",
-        "cu%curve %": "10.4",
+        "sl%slider %": "19.5",
+        "cu%curve %": "10.3",
         "max evmax exit velocity": "114.6",
         "hhhard hit": "142",
-        "hh%hard hit %": "40.9",
+        "hh%hard hit %": "40.8",
         "brlbarrels": "32",
         "brl%barrel %": "9.2",
-        "ab": "441",
-        "avg": ".252",
+        "ab": "442",
+        "avg": ".251",
         "h": "111",
         "1b": "74",
         "2b": "22",
         "3b": "0",
         "hr": "15",
         "so": "102",
-        "bipballs in play": "347",
+        "bipballs in play": "348",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-05-06 20:42:05.497710"
+        "updated": "2025-05-06 20:42:14.517425"
     },
     "phi @ tb": [
         {
@@ -1970,6 +1970,21 @@
         }
     ],
     "cle-gm2 @ wsh-gm2": [
+        {
+            "player": "daniel schneemann",
+            "game": "cle-gm2 @ wsh-gm2",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-05-06 20:42:08",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:30 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "nolan jones",
             "game": "cle-gm2 @ wsh-gm2",
@@ -5215,7 +5230,7 @@
             "team": "chc",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5687,21 +5702,6 @@
         }
     ],
     "bal @ min": [
-        {
-            "player": "adley rutschman",
-            "game": "bal @ min",
-            "hr/park": "",
-            "pa": "27",
-            "dt": "2025-05-06 20:41:53",
-            "img": "https://www.mlbstatic.com/team-logos/110.svg",
-            "team": "bal",
-            "start": "7:40 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "gunnar henderson",
             "game": "bal @ min",
@@ -7074,6 +7074,21 @@
     ],
     "pit @ stl": [
         {
+            "player": "matt gorski",
+            "game": "pit @ stl",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-05-06 20:42:08",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:45 PM",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alexander canario",
             "game": "pit @ stl",
             "hr/park": "",
@@ -7083,10 +7098,10 @@
             "team": "pit",
             "start": "7:45 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "57.3",
+            "la": "-43",
+            "dist": "3"
         },
         {
             "player": "kebryan hayes",
