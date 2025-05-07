@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "84",
-        "batters": "221",
-        "pitches": "3161",
+        "batters": "222",
+        "pitches": "3168",
         "max velomax pitch velocity": "100.5",
         "min velomin pitch velocity": "68.5",
-        "ff%fourseam fastball %": "32.4",
+        "ff%fourseam fastball %": "32.3",
         "si%sinker %": "11.3",
-        "fc%cutter %": "9.6",
+        "fc%cutter %": "9.5",
         "fs%splitter %": "4.2",
-        "ch%changeup %": "10.5",
-        "sl%slider %": "23.6",
+        "ch%changeup %": "10.6",
+        "sl%slider %": "23.5",
         "cu%curve %": "8.4",
         "max evmax exit velocity": "114.6",
-        "hhhard hit": "231",
+        "hhhard hit": "232",
         "hh%hard hit %": "41.7",
         "brlbarrels": "43",
-        "brl%barrel %": "7.8",
+        "brl%barrel %": "7.7",
         "ab": "713",
         "avg": ".251",
         "h": "179",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "21",
         "so": "176",
-        "bipballs in play": "554",
+        "bipballs in play": "556",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-05-06 21:44:14.694777"
+        "updated": "2025-05-06 21:44:25.085565"
     },
     "phi @ tb": [
         {
@@ -5586,7 +5586,7 @@
             "team": "sd",
             "start": "7:05 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9224,7 +9224,7 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11074,9 +11074,9 @@
             "start": "7:45 PM",
             "in": "8",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "74.8",
+            "la": "-41",
+            "dist": "3"
         },
         {
             "player": "oneil cruz",
@@ -11937,6 +11937,21 @@
     "det @ col": [],
     "tor @ laa": [
         {
+            "player": "anthony santander",
+            "game": "tor @ laa",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-05-06 21:44:25",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "vladimir guerrero",
             "game": "tor @ laa",
             "hr/park": "",
@@ -11978,10 +11993,10 @@
             "team": "nym",
             "start": "9:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "100.0",
+            "la": "6",
+            "dist": "97"
         },
         {
             "player": "francisco lindor",
