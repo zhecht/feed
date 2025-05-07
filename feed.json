@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "65",
         "batters": "215",
-        "pitches": "2851",
+        "pitches": "2859",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "68.5",
         "ff%fourseam fastball %": "32.4",
-        "si%sinker %": "11.1",
+        "si%sinker %": "11.2",
         "fc%cutter %": "9.9",
         "fs%splitter %": "4.5",
         "ch%changeup %": "10.4",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.7",
         "max evmax exit velocity": "114.6",
         "hhhard hit": "209",
-        "hh%hard hit %": "41.8",
+        "hh%hard hit %": "41.7",
         "brlbarrels": "41",
         "brl%barrel %": "8.2",
-        "ab": "640",
+        "ab": "642",
         "avg": ".245",
         "h": "157",
         "1b": "104",
         "2b": "34",
         "3b": "0",
         "hr": "19",
-        "so": "155",
-        "bipballs in play": "500",
+        "so": "157",
+        "bipballs in play": "501",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-05-06 21:28:27.973141"
+        "updated": "2025-05-06 21:28:38.567688"
     },
     "phi @ tb": [
         {
@@ -2250,7 +2250,7 @@
             "team": "cle",
             "start": "7:30 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3287,7 +3287,7 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4285,6 +4285,21 @@
     ],
     "tex @ bos": [
         {
+            "player": "carlos narvaez",
+            "game": "tex @ bos",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-05-06 21:28:38",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "6:45 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "abraham toro",
             "game": "tex @ bos",
             "hr/park": "",
@@ -4294,10 +4309,10 @@
             "team": "bos",
             "start": "6:45 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "94.5",
+            "la": "16",
+            "dist": "74"
         },
         {
             "player": "trevor story",
@@ -10104,6 +10119,21 @@
     ],
     "pit @ stl": [
         {
+            "player": "jared triolo",
+            "game": "pit @ stl",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-05-06 21:28:38",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:45 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "matt gorski",
             "game": "pit @ stl",
             "hr/park": "",
@@ -10113,7 +10143,7 @@
             "team": "pit",
             "start": "7:45 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
