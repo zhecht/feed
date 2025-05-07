@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "52",
         "batters": "210",
-        "pitches": "2513",
+        "pitches": "2518",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "68.5",
-        "ff%fourseam fastball %": "32.7",
+        "ff%fourseam fastball %": "32.8",
         "si%sinker %": "11.0",
         "fc%cutter %": "9.9",
         "fs%splitter %": "4.7",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.8",
         "cu%curve %": "9.2",
         "max evmax exit velocity": "114.6",
-        "hhhard hit": "181",
-        "hh%hard hit %": "40.6",
+        "hhhard hit": "183",
+        "hh%hard hit %": "40.8",
         "brlbarrels": "37",
         "brl%barrel %": "8.3",
-        "ab": "566",
-        "avg": ".240",
+        "ab": "568",
+        "avg": ".239",
         "h": "136",
         "1b": "90",
         "2b": "29",
         "3b": "0",
         "hr": "17",
         "so": "135",
-        "bipballs in play": "446",
+        "bipballs in play": "448",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-05-06 21:11:06.490323"
+        "updated": "2025-05-06 21:11:16.114738"
     },
     "phi @ tb": [
         {
@@ -2130,7 +2130,7 @@
             "team": "cle",
             "start": "7:30 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "96.7",
             "la": "-21",
             "dist": "6"
@@ -3939,6 +3939,21 @@
         }
     ],
     "tex @ bos": [
+        {
+            "player": "alex bregman",
+            "game": "tex @ bos",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-05-06 21:11:09",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "6:45 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "rafael devers",
             "game": "tex @ bos",
@@ -6235,10 +6250,10 @@
             "team": "chc",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "105.9",
+            "la": "14",
+            "dist": "285"
         },
         {
             "player": "kyle tucker",
@@ -6903,6 +6918,21 @@
     ],
     "bal @ min": [
         {
+            "player": "ty france",
+            "game": "bal @ min",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-05-06 21:11:09",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan jeffers",
             "game": "bal @ min",
             "hr/park": "",
@@ -7477,17 +7507,17 @@
         {
             "player": "lenyn sosa",
             "game": "chw @ kc",
-            "hr/park": "",
+            "hr/park": "1/30",
             "pa": "53",
             "dt": "2025-05-06 21:06:23",
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
             "team": "chw",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "98.0",
+            "la": "32",
+            "dist": "381"
         },
         {
             "player": "miguel vargas",
