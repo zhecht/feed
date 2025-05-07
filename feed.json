@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "33",
         "batters": "190",
-        "pitches": "1420",
+        "pitches": "1427",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "72.4",
-        "ff%fourseam fastball %": "35.6",
+        "ff%fourseam fastball %": "35.7",
         "si%sinker %": "11.2",
         "fc%cutter %": "10.2",
-        "fs%splitter %": "5.4",
+        "fs%splitter %": "5.3",
         "ch%changeup %": "10.4",
-        "sl%slider %": "16.9",
-        "cu%curve %": "10.3",
+        "sl%slider %": "17.0",
+        "cu%curve %": "10.2",
         "max evmax exit velocity": "114.6",
-        "hhhard hit": "104",
-        "hh%hard hit %": "40.6",
+        "hhhard hit": "105",
+        "hh%hard hit %": "40.7",
         "brlbarrels": "22",
-        "brl%barrel %": "8.6",
-        "ab": "323",
-        "avg": ".235",
-        "h": "76",
-        "1b": "51",
+        "brl%barrel %": "8.5",
+        "ab": "324",
+        "avg": ".238",
+        "h": "77",
+        "1b": "52",
         "2b": "16",
         "3b": "0",
         "hr": "9",
-        "so": "74",
-        "bipballs in play": "256",
+        "so": "75",
+        "bipballs in play": "258",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-05-06 20:16:20.061980"
+        "updated": "2025-05-06 20:16:28.588828"
     },
     "phi @ tb": [
         {
@@ -1821,11 +1821,11 @@
     ],
     "cle-gm2 @ wsh-gm2": [
         {
-            "player": "austin hedges",
+            "player": "steven kwan",
             "game": "cle-gm2 @ wsh-gm2",
             "hr/park": "",
-            "pa": "35",
-            "dt": "2025-05-06 20:15:24",
+            "pa": "36",
+            "dt": "2025-05-06 20:16:23",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
             "team": "cle",
             "start": "7:30 PM",
@@ -1834,6 +1834,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "austin hedges",
+            "game": "cle-gm2 @ wsh-gm2",
+            "hr/park": "1/30",
+            "pa": "35",
+            "dt": "2025-05-06 20:15:24",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:30 PM",
+            "in": "6",
+            "result": "Lineout",
+            "evo": "94.3",
+            "la": "25",
+            "dist": "351"
         },
         {
             "player": "jose tena",
@@ -3794,6 +3809,21 @@
     ],
     "cin @ atl": [
         {
+            "player": "jose trevino",
+            "game": "cin @ atl",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-05-06 20:16:23",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:15 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "austin wynns",
             "game": "cin @ atl",
             "hr/park": "",
@@ -3803,10 +3833,10 @@
             "team": "cin",
             "start": "7:15 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "97.9",
+            "la": "7",
+            "dist": "163"
         },
         {
             "player": "spencer steer",
@@ -4200,21 +4230,6 @@
         }
     ],
     "sf @ chc": [
-        {
-            "player": "matt chapman",
-            "game": "sf @ chc",
-            "hr/park": "",
-            "pa": "19",
-            "dt": "2025-05-06 20:16:07",
-            "img": "https://www.mlbstatic.com/team-logos/137.svg",
-            "team": "sf",
-            "start": "7:40 PM",
-            "in": "3",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "jung hoo lee",
             "game": "sf @ chc",
@@ -4694,7 +4709,7 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "3",
-            "result": "Flyout",
+            "result": "In Progress",
             "evo": "85.0",
             "la": "56",
             "dist": "188"
@@ -5026,7 +5041,7 @@
             "team": "hou",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
