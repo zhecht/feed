@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "56",
+        "pitchers": "57",
         "batters": "212",
-        "pitches": "2599",
+        "pitches": "2606",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "68.5",
         "ff%fourseam fastball %": "32.6",
-        "si%sinker %": "11.0",
-        "fc%cutter %": "9.8",
+        "si%sinker %": "10.9",
+        "fc%cutter %": "9.9",
         "fs%splitter %": "4.7",
         "ch%changeup %": "10.4",
-        "sl%slider %": "22.3",
+        "sl%slider %": "22.4",
         "cu%curve %": "9.1",
         "max evmax exit velocity": "114.6",
         "hhhard hit": "191",
         "hh%hard hit %": "41.3",
         "brlbarrels": "40",
-        "brl%barrel %": "8.7",
-        "ab": "584",
+        "brl%barrel %": "8.6",
+        "ab": "586",
         "avg": ".241",
         "h": "141",
         "1b": "92",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "18",
         "so": "142",
-        "bipballs in play": "462",
+        "bipballs in play": "463",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-05-06 21:16:00.204668"
+        "updated": "2025-05-06 21:16:10.104411"
     },
     "phi @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "phi",
             "start": "7:05 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3113,6 +3113,21 @@
     ],
     "lad @ mia": [
         {
+            "player": "max muncy",
+            "game": "lad @ mia",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-05-06 21:16:08",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "will smith",
             "game": "lad @ mia",
             "hr/park": "",
@@ -4841,6 +4856,21 @@
         }
     ],
     "sd @ nyy": [
+        {
+            "player": "jasson dominguez",
+            "game": "sd @ nyy",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-05-06 21:16:08",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "93.3",
+            "la": "17",
+            "dist": "310"
+        },
         {
             "player": "manny machado",
             "game": "sd @ nyy",
@@ -7098,6 +7128,21 @@
     ],
     "bal @ min": [
         {
+            "player": "gunnar henderson",
+            "game": "bal @ min",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-05-06 21:16:08",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cedric mullins",
             "game": "bal @ min",
             "hr/park": "",
@@ -8536,7 +8581,7 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
