@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "33",
-        "batters": "189",
-        "pitches": "1405",
+        "batters": "190",
+        "pitches": "1411",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "72.4",
-        "ff%fourseam fastball %": "35.4",
-        "si%sinker %": "11.2",
-        "fc%cutter %": "10.2",
+        "ff%fourseam fastball %": "35.6",
+        "si%sinker %": "11.1",
+        "fc%cutter %": "10.1",
         "fs%splitter %": "5.4",
         "ch%changeup %": "10.5",
         "sl%slider %": "16.9",
-        "cu%curve %": "10.4",
+        "cu%curve %": "10.3",
         "max evmax exit velocity": "114.6",
         "hhhard hit": "102",
-        "hh%hard hit %": "40.5",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "21",
         "brl%barrel %": "8.3",
-        "ab": "319",
-        "avg": ".235",
+        "ab": "321",
+        "avg": ".234",
         "h": "75",
         "1b": "51",
         "2b": "16",
         "3b": "0",
         "hr": "8",
-        "so": "73",
-        "bipballs in play": "252",
+        "so": "74",
+        "bipballs in play": "253",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-05-06 20:15:29.642925"
+        "updated": "2025-05-06 20:15:38.136636"
     },
     "phi @ tb": [
         {
@@ -2959,7 +2959,7 @@
             "team": "tex",
             "start": "6:45 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3778,6 +3778,21 @@
         }
     ],
     "cin @ atl": [
+        {
+            "player": "austin wynns",
+            "game": "cin @ atl",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-05-06 20:15:38",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:15 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "spencer steer",
             "game": "cin @ atl",
@@ -4649,10 +4664,10 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "85.0",
+            "la": "56",
+            "dist": "188"
         },
         {
             "player": "jonathan india",
@@ -5199,6 +5214,21 @@
     ],
     "pit @ stl": [
         {
+            "player": "yohel pozo",
+            "game": "pit @ stl",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-05-06 20:15:38",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alec burleson",
             "game": "pit @ stl",
             "hr/park": "",
@@ -5208,7 +5238,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
