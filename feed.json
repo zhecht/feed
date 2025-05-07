@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "96",
+        "pitchers": "97",
         "batters": "234",
-        "pitches": "3385",
+        "pitches": "3387",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "68.5",
         "ff%fourseam fastball %": "32.5",
@@ -11,24 +11,24 @@
         "fs%splitter %": "4.0",
         "ch%changeup %": "10.4",
         "sl%slider %": "23.7",
-        "cu%curve %": "8.1",
+        "cu%curve %": "8.0",
         "max evmax exit velocity": "114.6",
-        "hhhard hit": "249",
-        "hh%hard hit %": "41.8",
+        "hhhard hit": "252",
+        "hh%hard hit %": "42.2",
         "brlbarrels": "47",
         "brl%barrel %": "7.9",
-        "ab": "766",
-        "avg": ".244",
-        "h": "187",
-        "1b": "127",
+        "ab": "768",
+        "avg": ".245",
+        "h": "188",
+        "1b": "128",
         "2b": "37",
         "3b": "0",
         "hr": "23",
         "so": "187",
-        "bipballs in play": "595",
+        "bipballs in play": "597",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-05-06 21:54:33.081006"
+        "updated": "2025-05-06 21:54:44.749485"
     },
     "phi @ tb": [
         {
@@ -5787,6 +5787,36 @@
     ],
     "sd @ nyy": [
         {
+            "player": "jose iglesias",
+            "game": "sd @ nyy",
+            "hr/park": "",
+            "pa": "74",
+            "dt": "2025-05-06 21:54:40",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "7:05 PM",
+            "in": "9",
+            "result": "Field Error",
+            "evo": "101.9",
+            "la": "-23",
+            "dist": "7"
+        },
+        {
+            "player": "elias diaz",
+            "game": "sd @ nyy",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-05-06 21:54:09",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "7:05 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "95.1",
+            "la": "",
+            "dist": "42"
+        },
+        {
             "player": "oscar gonzalez",
             "game": "sd @ nyy",
             "hr/park": "",
@@ -6863,7 +6893,7 @@
             "team": "cin",
             "start": "7:15 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8852,6 +8882,21 @@
         }
     ],
     "bal @ min": [
+        {
+            "player": "heston kjerstad",
+            "game": "bal @ min",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-05-06 21:54:40",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "Single",
+            "evo": "101.3",
+            "la": "7",
+            "dist": "122"
+        },
         {
             "player": "royce lewis",
             "game": "bal @ min",
@@ -11679,21 +11724,6 @@
     ],
     "pit @ stl": [
         {
-            "player": "nolan arenado",
-            "game": "pit @ stl",
-            "hr/park": "",
-            "pa": "63",
-            "dt": "2025-05-06 21:54:25",
-            "img": "https://www.mlbstatic.com/team-logos/138.svg",
-            "team": "stl",
-            "start": "7:45 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "brendan donovan",
             "game": "pit @ stl",
             "hr/park": "",
@@ -11703,10 +11733,10 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "8",
-            "result": "Groundout",
-            "evo": "50.6",
-            "la": "-62",
-            "dist": "3"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "masyn winn",
