@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "34",
+        "pitchers": "35",
         "batters": "109",
-        "pitches": "1278",
+        "pitches": "1280",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "34.0",
+        "ff%fourseam fastball %": "33.9",
         "si%sinker %": "17.7",
         "fc%cutter %": "5.4",
         "fs%splitter %": "0.9",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.3",
         "cu%curve %": "13.0",
         "max evmax exit velocity": "115.2",
-        "hhhard hit": "91",
-        "hh%hard hit %": "40.3",
+        "hhhard hit": "92",
+        "hh%hard hit %": "40.5",
         "brlbarrels": "10",
         "brl%barrel %": "4.4",
-        "ab": "295",
-        "avg": ".244",
+        "ab": "296",
+        "avg": ".243",
         "h": "72",
         "1b": "46",
         "2b": "24",
         "3b": "0",
         "hr": "2",
         "so": "74",
-        "bipballs in play": "226",
+        "bipballs in play": "227",
         "liveGames": 6,
         "totGames": 15,
-        "updated": "2025-05-07 16:28:25.538984"
+        "updated": "2025-05-07 16:28:35.649382"
     },
     "phi @ tb": [],
     "cle @ wsh": [
@@ -3594,6 +3594,21 @@
     ],
     "sf @ chc": [
         {
+            "player": "nico hoerner",
+            "game": "sf @ chc",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-05-07 16:28:30",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:20 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "wilmer flores",
             "game": "sf @ chc",
             "hr/park": "",
@@ -4430,10 +4445,10 @@
             "team": "ath",
             "start": "3:35 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "101.0",
+            "la": "-13",
+            "dist": "9"
         },
         {
             "player": "miguel andujar",
