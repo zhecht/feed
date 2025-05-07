@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "12",
-        "batters": "54",
-        "pitches": "485",
+        "pitchers": "13",
+        "batters": "55",
+        "pitches": "487",
         "max velomax pitch velocity": "96.7",
         "min velomin pitch velocity": "73.9",
-        "ff%fourseam fastball %": "22.3",
-        "si%sinker %": "27.8",
+        "ff%fourseam fastball %": "22.4",
+        "si%sinker %": "27.7",
         "fc%cutter %": "4.5",
         "fs%splitter %": "0.0",
         "ch%changeup %": "10.1",
-        "sl%slider %": "27.2",
+        "sl%slider %": "27.3",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "109.4",
         "hhhard hit": "34",
         "hh%hard hit %": "39.5",
         "brlbarrels": "2",
         "brl%barrel %": "2.3",
-        "ab": "113",
-        "avg": ".239",
+        "ab": "115",
+        "avg": ".235",
         "h": "27",
         "1b": "21",
         "2b": "6",
@@ -28,7 +28,7 @@
         "bipballs in play": "86",
         "liveGames": 4,
         "totGames": 15,
-        "updated": "2025-05-07 14:21:10.502651"
+        "updated": "2025-05-07 14:21:17.930972"
     },
     "phi @ tb": [],
     "cle @ wsh": [
@@ -1070,6 +1070,21 @@
     ],
     "hou @ mil": [
         {
+            "player": "christian walker",
+            "game": "hou @ mil",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-05-07 14:21:15",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "1:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "isaac paredes",
             "game": "hou @ mil",
             "hr/park": "",
@@ -1139,7 +1154,7 @@
             "team": "hou",
             "start": "1:10 PM",
             "in": "5",
-            "result": "Official Scorer Ruling Pending",
+            "result": "Field Error",
             "evo": "76.5",
             "la": "-25",
             "dist": "7"
@@ -2077,7 +2092,23 @@
             "dist": ""
         }
     ],
-    "sf @ chc": [],
+    "sf @ chc": [
+        {
+            "player": "mike yastrzemski",
+            "game": "sf @ chc",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-07 14:21:15",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "2:20 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "sea @ ath": [],
     "nym @ ari": [],
     "lad @ mia": [],
