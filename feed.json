@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "103",
         "batters": "246",
-        "pitches": "3511",
+        "pitches": "3518",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "68.5",
-        "ff%fourseam fastball %": "32.4",
+        "ff%fourseam fastball %": "32.3",
         "si%sinker %": "12.1",
         "fc%cutter %": "9.3",
         "fs%splitter %": "4.2",
         "ch%changeup %": "10.5",
-        "sl%slider %": "23.4",
+        "sl%slider %": "23.5",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "114.6",
-        "hhhard hit": "262",
-        "hh%hard hit %": "41.9",
+        "hhhard hit": "263",
+        "hh%hard hit %": "42.0",
         "brlbarrels": "49",
         "brl%barrel %": "7.8",
-        "ab": "797",
+        "ab": "798",
         "avg": ".247",
         "h": "197",
         "1b": "136",
         "2b": "37",
         "3b": "0",
         "hr": "24",
-        "so": "193",
-        "bipballs in play": "625",
+        "so": "194",
+        "bipballs in play": "626",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-05-06 22:02:01.402316"
+        "updated": "2025-05-06 22:02:12.195087"
     },
     "phi @ tb": [
         {
@@ -4729,7 +4729,7 @@
             "team": "bos",
             "start": "6:45 PM",
             "in": "9",
-            "result": "Defensive Indiff",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5809,7 +5809,7 @@
             "team": "tex",
             "start": "6:45 PM",
             "in": "1",
-            "result": "Runner Out",
+            "result": "Wild Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9995,6 +9995,21 @@
     ],
     "chw @ kc": [
         {
+            "player": "kyle isbel",
+            "game": "chw @ kc",
+            "hr/park": "",
+            "pa": "76",
+            "dt": "2025-05-06 22:02:08",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "freddy fermin",
             "game": "chw @ kc",
             "hr/park": "",
@@ -11116,10 +11131,10 @@
             "team": "hou",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "102.6",
+            "la": "1",
+            "dist": "60"
         },
         {
             "player": "christian walker",
@@ -13056,7 +13071,7 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
