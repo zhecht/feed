@@ -2,13 +2,13 @@
     "all": {
         "pitchers": "52",
         "batters": "211",
-        "pitches": "2533",
+        "pitches": "2537",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "68.5",
-        "ff%fourseam fastball %": "32.7",
+        "ff%fourseam fastball %": "32.6",
         "si%sinker %": "10.9",
         "fc%cutter %": "9.9",
-        "fs%splitter %": "4.7",
+        "fs%splitter %": "4.8",
         "ch%changeup %": "10.5",
         "sl%slider %": "22.0",
         "cu%curve %": "9.1",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "40.7",
         "brlbarrels": "37",
         "brl%barrel %": "8.2",
-        "ab": "571",
-        "avg": ".242",
+        "ab": "573",
+        "avg": ".241",
         "h": "138",
         "1b": "91",
         "2b": "30",
@@ -28,7 +28,7 @@
         "bipballs in play": "452",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-05-06 21:12:33.059935"
+        "updated": "2025-05-06 21:12:42.738434"
     },
     "phi @ tb": [
         {
@@ -2121,6 +2121,21 @@
     ],
     "cle-gm2 @ wsh-gm2": [
         {
+            "player": "riley adams",
+            "game": "cle-gm2 @ wsh-gm2",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-05-06 21:12:37",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "7:30 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brayan rocchio",
             "game": "cle-gm2 @ wsh-gm2",
             "hr/park": "",
@@ -3939,6 +3954,21 @@
         }
     ],
     "tex @ bos": [
+        {
+            "player": "kristian campbell",
+            "game": "tex @ bos",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-05-06 21:12:37",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "6:45 PM",
+            "in": "6",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "alex bregman",
             "game": "tex @ bos",
@@ -6942,7 +6972,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "68.0",
             "la": "-16",
             "dist": "8"
