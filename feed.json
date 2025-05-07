@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "52",
         "batters": "210",
-        "pitches": "2448",
+        "pitches": "2454",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "68.5",
-        "ff%fourseam fastball %": "32.8",
-        "si%sinker %": "11.0",
+        "ff%fourseam fastball %": "32.7",
+        "si%sinker %": "11.1",
         "fc%cutter %": "9.9",
         "fs%splitter %": "4.8",
         "ch%changeup %": "10.4",
         "sl%slider %": "21.8",
-        "cu%curve %": "9.2",
+        "cu%curve %": "9.3",
         "max evmax exit velocity": "114.6",
-        "hhhard hit": "178",
-        "hh%hard hit %": "40.6",
+        "hhhard hit": "179",
+        "hh%hard hit %": "40.7",
         "brlbarrels": "36",
         "brl%barrel %": "8.2",
-        "ab": "552",
-        "avg": ".239",
-        "h": "132",
-        "1b": "88",
-        "2b": "28",
+        "ab": "553",
+        "avg": ".242",
+        "h": "134",
+        "1b": "89",
+        "2b": "29",
         "3b": "0",
         "hr": "16",
         "so": "131",
-        "bipballs in play": "438",
+        "bipballs in play": "440",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-05-06 21:07:33.408962"
+        "updated": "2025-05-06 21:07:42.926940"
     },
     "phi @ tb": [
         {
@@ -41,10 +41,10 @@
             "team": "phi",
             "start": "7:05 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "81.9",
+            "la": "8",
+            "dist": "114"
         },
         {
             "player": "trea turner",
@@ -2106,6 +2106,21 @@
     ],
     "cle-gm2 @ wsh-gm2": [
         {
+            "player": "daniel schneemann",
+            "game": "cle-gm2 @ wsh-gm2",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-05-06 21:07:38",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:30 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nolan jones",
             "game": "cle-gm2 @ wsh-gm2",
             "hr/park": "",
@@ -2115,7 +2130,7 @@
             "team": "cle",
             "start": "7:30 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "94.2",
             "la": "-24",
             "dist": "7"
@@ -4649,17 +4664,17 @@
         {
             "player": "fernando tatis",
             "game": "sd @ nyy",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "50",
             "dt": "2025-05-06 21:05:22",
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
             "team": "sd",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "97.9",
+            "la": "20",
+            "dist": "319"
         },
         {
             "player": "jose iglesias",
@@ -7304,7 +7319,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8733,7 +8748,7 @@
             "team": "pit",
             "start": "7:45 PM",
             "in": "6",
-            "result": "Flyout",
+            "result": "In Progress",
             "evo": "81.4",
             "la": "30",
             "dist": "294"
