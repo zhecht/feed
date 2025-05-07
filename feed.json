@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "24",
+        "pitchers": "25",
         "batters": "73",
-        "pitches": "952",
+        "pitches": "954",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "30.1",
+        "ff%fourseam fastball %": "30.3",
         "si%sinker %": "19.2",
         "fc%cutter %": "5.9",
         "fs%splitter %": "0.6",
@@ -14,21 +14,21 @@
         "cu%curve %": "14.6",
         "max evmax exit velocity": "115.2",
         "hhhard hit": "70",
-        "hh%hard hit %": "42.2",
+        "hh%hard hit %": "41.9",
         "brlbarrels": "7",
         "brl%barrel %": "4.2",
-        "ab": "219",
-        "avg": ".237",
-        "h": "52",
-        "1b": "36",
+        "ab": "220",
+        "avg": ".241",
+        "h": "53",
+        "1b": "37",
         "2b": "14",
         "3b": "0",
         "hr": "2",
         "so": "55",
-        "bipballs in play": "166",
+        "bipballs in play": "167",
         "liveGames": 4,
         "totGames": 15,
-        "updated": "2025-05-07 15:31:08.814782"
+        "updated": "2025-05-07 15:31:16.720239"
     },
     "phi @ tb": [],
     "cle @ wsh": [
@@ -1424,10 +1424,10 @@
             "team": "hou",
             "start": "1:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "84.4",
+            "la": "6",
+            "dist": "106"
         },
         {
             "player": "jose altuve",
@@ -2421,6 +2421,21 @@
         }
     ],
     "pit @ stl": [
+        {
+            "player": "joey bart",
+            "game": "pit @ stl",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-05-07 15:31:15",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "1:15 PM",
+            "in": "9",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "pedro pages",
             "game": "pit @ stl",
