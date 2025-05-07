@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "39",
         "batters": "204",
-        "pitches": "1844",
+        "pitches": "1846",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "70.0",
-        "ff%fourseam fastball %": "33.7",
+        "ff%fourseam fastball %": "33.6",
         "si%sinker %": "10.7",
         "fc%cutter %": "9.5",
-        "fs%splitter %": "4.9",
+        "fs%splitter %": "5.0",
         "ch%changeup %": "11.0",
-        "sl%slider %": "19.6",
+        "sl%slider %": "19.7",
         "cu%curve %": "10.4",
         "max evmax exit velocity": "114.6",
-        "hhhard hit": "137",
-        "hh%hard hit %": "41.4",
+        "hhhard hit": "138",
+        "hh%hard hit %": "41.6",
         "brlbarrels": "32",
-        "brl%barrel %": "9.7",
+        "brl%barrel %": "9.6",
         "ab": "419",
         "avg": ".260",
         "h": "109",
@@ -24,11 +24,11 @@
         "2b": "22",
         "3b": "0",
         "hr": "15",
-        "so": "96",
-        "bipballs in play": "331",
+        "so": "98",
+        "bipballs in play": "332",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-05-06 20:36:44.353309"
+        "updated": "2025-05-06 20:36:53.253929"
     },
     "phi @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "73.7",
             "la": "-56",
             "dist": "2"
@@ -1943,17 +1943,17 @@
         {
             "player": "nathaniel lowe",
             "game": "cle-gm2 @ wsh-gm2",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "45",
             "dt": "2025-05-06 20:34:37",
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
             "team": "wsh",
             "start": "7:30 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "100.6",
+            "la": "16",
+            "dist": "330"
         },
         {
             "player": "james wood",
@@ -2627,7 +2627,7 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4448,7 +4448,7 @@
             "team": "cin",
             "start": "7:15 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6753,7 +6753,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
