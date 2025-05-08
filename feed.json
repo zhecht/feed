@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "99",
+        "pitchers": "100",
         "batters": "266",
-        "pitches": "3453",
+        "pitches": "3457",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.8",
         "ff%fourseam fastball %": "33.1",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.0",
         "fs%splitter %": "2.3",
         "ch%changeup %": "8.6",
-        "sl%slider %": "23.1",
+        "sl%slider %": "23.0",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "115.2",
-        "hhhard hit": "250",
-        "hh%hard hit %": "38.7",
+        "hhhard hit": "251",
+        "hh%hard hit %": "38.8",
         "brlbarrels": "45",
         "brl%barrel %": "7.0",
-        "ab": "825",
+        "ab": "826",
         "avg": ".238",
-        "h": "196",
-        "1b": "130",
+        "h": "197",
+        "1b": "131",
         "2b": "41",
         "3b": "3",
         "hr": "22",
         "so": "190",
-        "bipballs in play": "646",
+        "bipballs in play": "647",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-07 21:23:00.126683"
+        "updated": "2025-05-07 21:23:11.086135"
     },
     "phi @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10942,6 +10942,21 @@
     ],
     "cin @ atl": [
         {
+            "player": "alex verdugo",
+            "game": "cin @ atl",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-05-07 21:23:03",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "spencer steer",
             "game": "cin @ atl",
             "hr/park": "",
@@ -13432,10 +13447,10 @@
             "team": "det",
             "start": "8:40 PM",
             "in": "3",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "95.2",
+            "la": "-6",
+            "dist": "22"
         },
         {
             "player": "javier baez",
