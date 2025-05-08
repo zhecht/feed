@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "75",
         "batters": "245",
-        "pitches": "2925",
+        "pitches": "2929",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.8",
         "ff%fourseam fastball %": "33.1",
-        "si%sinker %": "16.0",
+        "si%sinker %": "16.1",
         "fc%cutter %": "6.8",
         "fs%splitter %": "2.5",
         "ch%changeup %": "8.3",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "39.1",
         "brlbarrels": "36",
         "brl%barrel %": "6.7",
-        "ab": "688",
+        "ab": "689",
         "avg": ".235",
         "h": "162",
         "1b": "106",
         "2b": "36",
         "3b": "3",
         "hr": "17",
-        "so": "160",
-        "bipballs in play": "534",
+        "so": "161",
+        "bipballs in play": "535",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-07 20:36:07.188637"
+        "updated": "2025-05-07 20:36:17.853530"
     },
     "phi @ tb": [
         {
@@ -41,10 +41,10 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "74.4",
+            "la": "-16",
+            "dist": "7"
         },
         {
             "player": "jose caballero",
@@ -9500,6 +9500,21 @@
     ],
     "sd @ nyy": [
         {
+            "player": "xander bogaerts",
+            "game": "sd @ nyy",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-05-07 20:36:16",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jackson merrill",
             "game": "sd @ nyy",
             "hr/park": "",
@@ -9509,7 +9524,7 @@
             "team": "sd",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10668,7 +10683,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
