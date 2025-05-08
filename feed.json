@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "74",
         "batters": "245",
-        "pitches": "2775",
+        "pitches": "2778",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.8",
         "ff%fourseam fastball %": "32.9",
@@ -11,7 +11,7 @@
         "fs%splitter %": "2.6",
         "ch%changeup %": "7.9",
         "sl%slider %": "23.1",
-        "cu%curve %": "10.5",
+        "cu%curve %": "10.4",
         "max evmax exit velocity": "115.2",
         "hhhard hit": "200",
         "hh%hard hit %": "39.1",
@@ -24,13 +24,28 @@
         "2b": "35",
         "3b": "3",
         "hr": "17",
-        "so": "149",
+        "so": "150",
         "bipballs in play": "512",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-07 20:23:10.892243"
+        "updated": "2025-05-07 20:23:20.925242"
     },
     "phi @ tb": [
+        {
+            "player": "brandon lowe",
+            "game": "phi @ tb",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-05-07 20:23:15",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "curtis mead",
             "game": "phi @ tb",
@@ -41,7 +56,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9344,10 +9359,10 @@
             "team": "sd",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "90.4",
+            "la": "24",
+            "dist": "295"
         },
         {
             "player": "fernando tatis",
@@ -10314,11 +10329,11 @@
     ],
     "bal @ min": [
         {
-            "player": "ty france",
+            "player": "ryan jeffers",
             "game": "bal @ min",
             "hr/park": "",
-            "pa": "24",
-            "dt": "2025-05-07 20:23:00",
+            "pa": "23",
+            "dt": "2025-05-07 20:22:46",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "start": "7:40 PM",
@@ -10327,21 +10342,6 @@
             "evo": "",
             "la": "",
             "dist": ""
-        },
-        {
-            "player": "ryan jeffers",
-            "game": "bal @ min",
-            "hr/park": "0/30",
-            "pa": "23",
-            "dt": "2025-05-07 20:22:46",
-            "img": "https://www.mlbstatic.com/team-logos/142.svg",
-            "team": "min",
-            "start": "7:40 PM",
-            "in": "3",
-            "result": "Flyout",
-            "evo": "87.7",
-            "la": "41",
-            "dist": "305"
         },
         {
             "player": "trevor larnach",
@@ -10685,7 +10685,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
