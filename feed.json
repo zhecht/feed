@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "32",
-        "batters": "95",
-        "pitches": "1275",
+        "batters": "94",
+        "pitches": "1279",
         "max velomax pitch velocity": "99.8",
         "min velomin pitch velocity": "44.5",
-        "ff%fourseam fastball %": "34.0",
+        "ff%fourseam fastball %": "34.1",
         "si%sinker %": "13.4",
-        "fc%cutter %": "6.4",
+        "fc%cutter %": "6.3",
         "fs%splitter %": "2.4",
-        "ch%changeup %": "15.5",
+        "ch%changeup %": "15.6",
         "sl%slider %": "23.4",
-        "cu%curve %": "4.5",
+        "cu%curve %": "4.4",
         "max evmax exit velocity": "111.7",
         "hhhard hit": "96",
-        "hh%hard hit %": "38.9",
+        "hh%hard hit %": "38.7",
         "brlbarrels": "20",
         "brl%barrel %": "8.1",
         "ab": "307",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "3",
         "so": "69",
-        "bipballs in play": "247",
+        "bipballs in play": "248",
         "liveGames": 7,
         "totGames": 9,
-        "updated": "2025-05-08 19:21:27.382942"
+        "updated": "2025-05-08 19:21:35.485302"
     },
     "phi @ tb": [
         {
@@ -4542,11 +4542,11 @@
     ],
     "det-gm2 @ col-gm2": [
         {
-            "player": "riley greene",
+            "player": "spencer torkelson",
             "game": "det-gm2 @ col-gm2",
             "hr/park": "",
-            "pa": "39",
-            "dt": "2025-05-08 19:19:45",
+            "pa": "40",
+            "dt": "2025-05-08 19:21:30",
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
             "team": "det",
             "start": "6:40 PM",
@@ -4555,6 +4555,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "riley greene",
+            "game": "det-gm2 @ col-gm2",
+            "hr/park": "0/30",
+            "pa": "39",
+            "dt": "2025-05-08 19:19:45",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "87.0",
+            "la": "33",
+            "dist": "309"
         },
         {
             "player": "colt keith",
@@ -5129,21 +5144,6 @@
     ],
     "cin @ atl": [
         {
-            "player": "elly de la cruz",
-            "game": "cin @ atl",
-            "hr/park": "",
-            "pa": "3",
-            "dt": "2025-05-08 19:21:14",
-            "img": "https://www.mlbstatic.com/team-logos/113.svg",
-            "team": "cin",
-            "start": "7:15 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "matt mclain",
             "game": "cin @ atl",
             "hr/park": "",
@@ -5153,7 +5153,7 @@
             "team": "cin",
             "start": "7:15 PM",
             "in": "1",
-            "result": "Double Play",
+            "result": "In Progress",
             "evo": "104.8",
             "la": "7",
             "dist": "150"
