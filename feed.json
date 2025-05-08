@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "76",
-        "batters": "245",
-        "pitches": "2984",
+        "pitchers": "77",
+        "batters": "246",
+        "pitches": "2991",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.8",
         "ff%fourseam fastball %": "33.1",
-        "si%sinker %": "16.2",
+        "si%sinker %": "16.1",
         "fc%cutter %": "6.8",
         "fs%splitter %": "2.5",
         "ch%changeup %": "8.3",
         "sl%slider %": "23.0",
-        "cu%curve %": "10.2",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "115.2",
-        "hhhard hit": "218",
+        "hhhard hit": "219",
         "hh%hard hit %": "39.6",
         "brlbarrels": "38",
         "brl%barrel %": "6.9",
-        "ab": "708",
-        "avg": ".237",
-        "h": "168",
-        "1b": "109",
+        "ab": "710",
+        "avg": ".238",
+        "h": "169",
+        "1b": "110",
         "2b": "38",
         "3b": "3",
         "hr": "18",
         "so": "164",
-        "bipballs in play": "550",
+        "bipballs in play": "553",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-07 20:42:35.968401"
+        "updated": "2025-05-07 20:42:46.308513"
     },
     "phi @ tb": [
         {
@@ -41,10 +41,10 @@
             "team": "phi",
             "start": "7:05 PM",
             "in": "6",
-            "result": "Stolen Base 2B",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "80.5",
+            "la": "15",
+            "dist": "202"
         },
         {
             "player": "johan rojas",
@@ -10239,17 +10239,17 @@
         {
             "player": "santiago espinal",
             "game": "cin @ atl",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "41",
             "dt": "2025-05-07 20:42:00",
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
             "team": "cin",
             "start": "7:15 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "103.1",
+            "la": "14",
+            "dist": "307"
         },
         {
             "player": "gavin lux",
@@ -11351,6 +11351,21 @@
     ],
     "chw @ kc": [
         {
+            "player": "kyle isbel",
+            "game": "chw @ kc",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-05-07 20:42:46",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luke maile",
             "game": "chw @ kc",
             "hr/park": "",
@@ -11876,6 +11891,22 @@
             "dist": ""
         }
     ],
-    "det @ col": [],
+    "det @ col": [
+        {
+            "player": "kerry carpenter",
+            "game": "det @ col",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-07 20:42:46",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "8:40 PM",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "77.1",
+            "la": "-18",
+            "dist": "5"
+        }
+    ],
     "tor @ laa": []
 }
