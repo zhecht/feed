@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "74",
         "batters": "245",
-        "pitches": "2794",
+        "pitches": "2801",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.8",
         "ff%fourseam fastball %": "33.0",
         "si%sinker %": "16.4",
         "fc%cutter %": "6.6",
         "fs%splitter %": "2.6",
-        "ch%changeup %": "7.8",
-        "sl%slider %": "23.0",
+        "ch%changeup %": "7.9",
+        "sl%slider %": "23.1",
         "cu%curve %": "10.4",
         "max evmax exit velocity": "115.2",
         "hhhard hit": "202",
-        "hh%hard hit %": "39.2",
+        "hh%hard hit %": "39.1",
         "brlbarrels": "35",
         "brl%barrel %": "6.8",
-        "ab": "657",
-        "avg": ".234",
-        "h": "154",
-        "1b": "99",
+        "ab": "659",
+        "avg": ".235",
+        "h": "155",
+        "1b": "100",
         "2b": "35",
         "3b": "3",
         "hr": "17",
         "so": "150",
-        "bipballs in play": "515",
+        "bipballs in play": "516",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-07 20:24:53.539058"
+        "updated": "2025-05-07 20:25:03.582599"
     },
     "phi @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "98.8",
             "la": "-16",
             "dist": "8"
@@ -8675,17 +8675,17 @@
         {
             "player": "rafael devers",
             "game": "tex @ bos",
-            "hr/park": "2/30",
+            "hr/park": "",
             "pa": "45",
             "dt": "2025-05-07 20:22:16",
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
             "team": "bos",
             "start": "6:45 PM",
             "in": "5",
-            "result": "Lineout",
-            "evo": "101.5",
-            "la": "20",
-            "dist": "349"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "jarren duran",
@@ -9350,6 +9350,21 @@
     ],
     "sd @ nyy": [
         {
+            "player": "anthony volpe",
+            "game": "sd @ nyy",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-05-07 20:25:02",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "Groundout",
+            "evo": "49.7",
+            "la": "-61",
+            "dist": "3"
+        },
+        {
             "player": "luis arraez",
             "game": "sd @ nyy",
             "hr/park": "",
@@ -9862,6 +9877,21 @@
     ],
     "cin @ atl": [
         {
+            "player": "rece hinds",
+            "game": "cin @ atl",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-05-07 20:25:02",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ozzie albies",
             "game": "cin @ atl",
             "hr/park": "",
@@ -10338,10 +10368,10 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "99.8",
+            "la": "11",
+            "dist": "190"
         },
         {
             "player": "ryan jeffers",
