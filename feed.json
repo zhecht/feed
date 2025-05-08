@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "71",
-        "batters": "238",
-        "pitches": "2605",
+        "batters": "239",
+        "pitches": "2612",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.8",
         "ff%fourseam fastball %": "33.0",
@@ -11,13 +11,13 @@
         "fs%splitter %": "2.8",
         "ch%changeup %": "7.5",
         "sl%slider %": "23.5",
-        "cu%curve %": "10.0",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "115.2",
         "hhhard hit": "179",
-        "hh%hard hit %": "38.4",
+        "hh%hard hit %": "38.3",
         "brlbarrels": "31",
-        "brl%barrel %": "6.7",
-        "ab": "608",
+        "brl%barrel %": "6.6",
+        "ab": "609",
         "avg": ".232",
         "h": "141",
         "1b": "91",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "15",
         "so": "146",
-        "bipballs in play": "466",
+        "bipballs in play": "467",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-07 20:07:08.578632"
+        "updated": "2025-05-07 20:07:18.835674"
     },
     "phi @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "phi",
             "start": "7:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Passed Ball",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9834,6 +9834,21 @@
     ],
     "bal @ min": [
         {
+            "player": "royce lewis",
+            "game": "bal @ min",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-05-07 20:07:15",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brooks lee",
             "game": "bal @ min",
             "hr/park": "",
@@ -9843,10 +9858,10 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "93.7",
+            "la": "2",
+            "dist": "84"
         },
         {
             "player": "carlos correa",
