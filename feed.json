@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "15",
         "batters": "116",
-        "pitches": "710",
+        "pitches": "717",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "67.9",
         "ff%fourseam fastball %": "29.3",
-        "si%sinker %": "22.4",
+        "si%sinker %": "22.5",
         "fc%cutter %": "4.9",
         "fs%splitter %": "4.5",
-        "ch%changeup %": "8.9",
-        "sl%slider %": "21.8",
-        "cu%curve %": "8.2",
+        "ch%changeup %": "8.8",
+        "sl%slider %": "22.0",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "117.6",
-        "hhhard hit": "50",
-        "hh%hard hit %": "44.2",
+        "hhhard hit": "51",
+        "hh%hard hit %": "44.3",
         "brlbarrels": "8",
-        "brl%barrel %": "7.1",
-        "ab": "158",
-        "avg": ".196",
+        "brl%barrel %": "7.0",
+        "ab": "159",
+        "avg": ".195",
         "h": "31",
         "1b": "22",
         "2b": "5",
         "3b": "0",
         "hr": "4",
-        "so": "46",
-        "bipballs in play": "113",
+        "so": "47",
+        "bipballs in play": "115",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-05-09 19:53:39.547234"
+        "updated": "2025-05-09 19:53:47.268322"
     },
     "mil @ tb": [
         {
@@ -423,6 +423,21 @@
         }
     ],
     "tex @ det": [
+        {
+            "player": "ezequiel duran",
+            "game": "tex @ det",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-05-09 19:53:42",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "josh smith",
             "game": "tex @ det",
@@ -966,6 +981,21 @@
     ],
     "atl @ pit": [
         {
+            "player": "matt gorski",
+            "game": "atl @ pit",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-05-09 19:53:42",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kebryan hayes",
             "game": "atl @ pit",
             "hr/park": "",
@@ -975,7 +1005,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2476,17 +2506,17 @@
         {
             "player": "kristian campbell",
             "game": "bos @ kc",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "7",
             "dt": "2025-05-09 19:53:24",
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
             "team": "bos",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "95.8",
+            "la": "27",
+            "dist": "377"
         },
         {
             "player": "vinnie pasquantino",
