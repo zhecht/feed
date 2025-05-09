@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "15",
-        "batters": "118",
-        "pitches": "731",
+        "pitchers": "16",
+        "batters": "122",
+        "pitches": "758",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "67.9",
-        "ff%fourseam fastball %": "30.0",
-        "si%sinker %": "22.4",
+        "ff%fourseam fastball %": "29.7",
+        "si%sinker %": "22.6",
         "fc%cutter %": "4.9",
-        "fs%splitter %": "4.4",
+        "fs%splitter %": "4.5",
         "ch%changeup %": "8.6",
         "sl%slider %": "21.8",
-        "cu%curve %": "7.9",
+        "cu%curve %": "8.0",
         "max evmax exit velocity": "117.6",
         "hhhard hit": "51",
-        "hh%hard hit %": "44.0",
+        "hh%hard hit %": "41.8",
         "brlbarrels": "8",
-        "brl%barrel %": "6.9",
-        "ab": "164",
-        "avg": ".189",
+        "brl%barrel %": "6.6",
+        "ab": "169",
+        "avg": ".183",
         "h": "31",
         "1b": "22",
         "2b": "5",
         "3b": "0",
         "hr": "4",
         "so": "47",
-        "bipballs in play": "116",
+        "bipballs in play": "122",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-05-09 19:55:50.099459"
+        "updated": "2025-05-09 19:55:57.776064"
     },
     "mil @ tb": [
         {
@@ -433,7 +433,7 @@
             "team": "tex",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -996,19 +996,34 @@
     ],
     "atl @ pit": [
         {
-            "player": "matt gorski",
+            "player": "adam frazier",
             "game": "atl @ pit",
             "hr/park": "",
+            "pa": "35",
+            "dt": "2025-05-09 19:55:54",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "72.1",
+            "la": "46",
+            "dist": "224"
+        },
+        {
+            "player": "matt gorski",
+            "game": "atl @ pit",
+            "hr/park": "0/30",
             "pa": "34",
             "dt": "2025-05-09 19:53:42",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
             "team": "pit",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "91.0",
+            "la": "37",
+            "dist": "317"
         },
         {
             "player": "kebryan hayes",
@@ -1990,6 +2005,21 @@
     ],
     "chc @ nym": [
         {
+            "player": "nicky lopez",
+            "game": "chc @ nym",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-05-09 19:55:54",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "Walk",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "dansby swanson",
             "game": "chc @ nym",
             "hr/park": "",
@@ -2292,6 +2322,21 @@
     ],
     "phi @ cle": [
         {
+            "player": "bryce harper",
+            "game": "phi @ cle",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-05-09 19:55:54",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trea turner",
             "game": "phi @ cle",
             "hr/park": "",
@@ -2301,10 +2346,10 @@
             "team": "phi",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Groundout",
+            "evo": "93.8",
             "la": "",
-            "dist": ""
+            "dist": "44"
         },
         {
             "player": "bryson stott",
@@ -2564,6 +2609,21 @@
     ],
     "bos @ kc": [
         {
+            "player": "trevor story",
+            "game": "bos @ kc",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-05-09 19:55:54",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "wilyer abreu",
             "game": "bos @ kc",
             "hr/park": "",
@@ -2573,10 +2633,10 @@
             "team": "bos",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "83.0",
+            "la": "74",
+            "dist": "78"
         },
         {
             "player": "kristian campbell",
@@ -2685,6 +2745,36 @@
         }
     ],
     "mia @ chw": [
+        {
+            "player": "matt thaiss",
+            "game": "mia @ chw",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-05-09 19:55:54",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "80.2",
+            "la": "-36",
+            "dist": "3"
+        },
+        {
+            "player": "miguel vargas",
+            "game": "mia @ chw",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-05-09 19:55:54",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "Pop Out",
+            "evo": "80.4",
+            "la": "64",
+            "dist": "154"
+        },
         {
             "player": "kyle stowers",
             "game": "mia @ chw",
