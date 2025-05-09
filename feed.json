@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "8",
-        "batters": "46",
-        "pitches": "183",
+        "pitchers": "9",
+        "batters": "47",
+        "pitches": "185",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "74.8",
-        "ff%fourseam fastball %": "33.3",
-        "si%sinker %": "20.2",
-        "fc%cutter %": "3.3",
-        "fs%splitter %": "7.1",
-        "ch%changeup %": "9.8",
-        "sl%slider %": "19.1",
-        "cu%curve %": "7.1",
+        "ff%fourseam fastball %": "33.5",
+        "si%sinker %": "20.5",
+        "fc%cutter %": "3.2",
+        "fs%splitter %": "7.0",
+        "ch%changeup %": "9.7",
+        "sl%slider %": "18.9",
+        "cu%curve %": "7.0",
         "max evmax exit velocity": "117.6",
         "hhhard hit": "8",
         "hh%hard hit %": "27.6",
         "brlbarrels": "2",
         "brl%barrel %": "6.9",
-        "ab": "40",
-        "avg": ".175",
+        "ab": "41",
+        "avg": ".171",
         "h": "7",
         "1b": "4",
         "2b": "3",
@@ -28,7 +28,7 @@
         "bipballs in play": "29",
         "liveGames": 6,
         "totGames": 15,
-        "updated": "2025-05-09 19:12:22.289881"
+        "updated": "2025-05-09 19:12:29.493296"
     },
     "mil @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "mil",
             "start": "7:05 PM",
             "in": "1",
-            "result": "Stolen Base 2B",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -730,7 +730,23 @@
             "dist": ""
         }
     ],
-    "phi @ cle": [],
+    "phi @ cle": [
+        {
+            "player": "bryson stott",
+            "game": "phi @ cle",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-09 19:12:24",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "7:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "bos @ kc": [],
     "mia @ chw": [],
     "cin @ hou": [],
