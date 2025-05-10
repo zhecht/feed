@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "23",
-        "batters": "158",
-        "pitches": "1204",
+        "pitchers": "24",
+        "batters": "160",
+        "pitches": "1210",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "67.9",
-        "ff%fourseam fastball %": "25.9",
-        "si%sinker %": "22.6",
+        "ff%fourseam fastball %": "26.0",
+        "si%sinker %": "22.5",
         "fc%cutter %": "5.1",
         "fs%splitter %": "4.0",
         "ch%changeup %": "10.3",
-        "sl%slider %": "24.2",
+        "sl%slider %": "24.1",
         "cu%curve %": "7.9",
         "max evmax exit velocity": "117.6",
         "hhhard hit": "87",
-        "hh%hard hit %": "40.7",
+        "hh%hard hit %": "40.5",
         "brlbarrels": "18",
         "brl%barrel %": "8.4",
-        "ab": "284",
-        "avg": ".211",
-        "h": "60",
+        "ab": "286",
+        "avg": ".213",
+        "h": "61",
         "1b": "41",
         "2b": "10",
         "3b": "1",
-        "hr": "8",
+        "hr": "9",
         "so": "75",
-        "bipballs in play": "214",
+        "bipballs in play": "215",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-09 20:24:16.983496"
+        "updated": "2025-05-09 20:24:25.128168"
     },
     "mil @ tb": [
         {
@@ -644,9 +644,9 @@
             "start": "6:40 PM",
             "in": "8",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "86.9",
+            "la": "48",
+            "dist": "264"
         },
         {
             "player": "evan carter",
@@ -1445,6 +1445,21 @@
         }
     ],
     "atl @ pit": [
+        {
+            "player": "alex verdugo",
+            "game": "atl @ pit",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-05-09 20:24:23",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "michael harris",
             "game": "atl @ pit",
@@ -3374,14 +3389,14 @@
         {
             "player": "kyle manzardo",
             "game": "phi @ cle",
-            "hr/park": "",
+            "hr/park": "19/30",
             "pa": "32",
             "dt": "2025-05-09 20:24:08",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
             "team": "cle",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Home Run",
             "evo": "105.6",
             "la": "26",
             "dist": "411"
@@ -4610,6 +4625,21 @@
     ],
     "sf @ min": [
         {
+            "player": "brooks lee",
+            "game": "sf @ min",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-05-09 20:24:23",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ty france",
             "game": "sf @ min",
             "hr/park": "",
@@ -4619,7 +4649,7 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Double Play",
             "evo": "97.7",
             "la": "7",
             "dist": "168"
