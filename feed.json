@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "50",
+        "pitchers": "52",
         "batters": "205",
-        "pitches": "2198",
+        "pitches": "2209",
         "max velomax pitch velocity": "100.5",
         "min velomin pitch velocity": "67.9",
-        "ff%fourseam fastball %": "28.9",
-        "si%sinker %": "19.1",
+        "ff%fourseam fastball %": "29.1",
+        "si%sinker %": "19.0",
         "fc%cutter %": "5.1",
         "fs%splitter %": "2.7",
         "ch%changeup %": "11.0",
-        "sl%slider %": "25.1",
+        "sl%slider %": "25.0",
         "cu%curve %": "8.1",
         "max evmax exit velocity": "117.6",
         "hhhard hit": "155",
-        "hh%hard hit %": "39.2",
+        "hh%hard hit %": "39.0",
         "brlbarrels": "27",
         "brl%barrel %": "6.8",
-        "ab": "526",
-        "avg": ".211",
+        "ab": "529",
+        "avg": ".210",
         "h": "111",
         "1b": "78",
         "2b": "18",
         "3b": "3",
         "hr": "12",
-        "so": "140",
-        "bipballs in play": "395",
+        "so": "139",
+        "bipballs in play": "397",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-09 21:22:15.652959"
+        "updated": "2025-05-09 21:22:25.368647"
     },
     "mil @ tb": [
         {
@@ -2897,7 +2897,7 @@
             "team": "stl",
             "start": "6:45 PM",
             "in": "9",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4000,6 +4000,21 @@
     ],
     "chc @ nym": [
         {
+            "player": "dansby swanson",
+            "game": "chc @ nym",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-05-09 21:22:25",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luisangel acuna",
             "game": "chc @ nym",
             "hr/park": "",
@@ -4902,6 +4917,21 @@
     ],
     "phi @ cle": [
         {
+            "player": "jose ramirez",
+            "game": "phi @ cle",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-05-09 21:22:25",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "daniel schneemann",
             "game": "phi @ cle",
             "hr/park": "",
@@ -4911,10 +4941,10 @@
             "team": "cle",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "54.0",
+            "la": "2",
+            "dist": "40"
         },
         {
             "player": "steven kwan",
@@ -5773,6 +5803,21 @@
         }
     ],
     "bos @ kc": [
+        {
+            "player": "connor wong",
+            "game": "bos @ kc",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-05-09 21:22:25",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "freddy fermin",
             "game": "bos @ kc",
@@ -7845,9 +7890,9 @@
             "start": "8:10 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "79.5",
+            "la": "49",
+            "dist": "247"
         },
         {
             "player": "ty france",
