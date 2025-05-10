@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "31",
         "batters": "186",
-        "pitches": "1570",
+        "pitches": "1572",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "67.9",
         "ff%fourseam fastball %": "26.3",
-        "si%sinker %": "20.9",
+        "si%sinker %": "20.8",
         "fc%cutter %": "5.5",
         "fs%splitter %": "3.5",
         "ch%changeup %": "10.8",
-        "sl%slider %": "24.6",
+        "sl%slider %": "24.7",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "117.6",
-        "hhhard hit": "118",
-        "hh%hard hit %": "41.7",
+        "hhhard hit": "117",
+        "hh%hard hit %": "41.6",
         "brlbarrels": "22",
         "brl%barrel %": "7.8",
-        "ab": "380",
-        "avg": ".216",
-        "h": "82",
-        "1b": "58",
+        "ab": "381",
+        "avg": ".218",
+        "h": "83",
+        "1b": "59",
         "2b": "12",
         "3b": "1",
         "hr": "11",
         "so": "99",
-        "bipballs in play": "283",
+        "bipballs in play": "281",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-09 20:44:37.576247"
+        "updated": "2025-05-09 20:44:45.882464"
     },
     "mil @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "6",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1695,7 +1695,7 @@
             "team": "atl",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2527,6 +2527,21 @@
         }
     ],
     "stl @ wsh": [
+        {
+            "player": "josh bell",
+            "game": "stl @ wsh",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-05-09 20:44:40",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "7",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "amed rosario",
             "game": "stl @ wsh",
@@ -4041,10 +4056,10 @@
             "team": "cle",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "88.8",
+            "la": "4",
+            "dist": "68"
         },
         {
             "player": "steven kwan",
@@ -4649,6 +4664,21 @@
     ],
     "bos @ kc": [
         {
+            "player": "freddy fermin",
+            "game": "bos @ kc",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-05-09 20:44:40",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "connor wong",
             "game": "bos @ kc",
             "hr/park": "",
@@ -5146,21 +5176,6 @@
     ],
     "mia @ chw": [
         {
-            "player": "javier sanoja",
-            "game": "mia @ chw",
-            "hr/park": "",
-            "pa": "33",
-            "dt": "2025-05-09 20:43:40",
-            "img": "https://www.mlbstatic.com/team-logos/146.svg",
-            "team": "mia",
-            "start": "7:40 PM",
-            "in": "5",
-            "result": "Groundout",
-            "evo": "70.2",
-            "la": "9",
-            "dist": "125"
-        },
-        {
             "player": "dane myers",
             "game": "mia @ chw",
             "hr/park": "",
@@ -5170,10 +5185,10 @@
             "team": "mia",
             "start": "7:40 PM",
             "in": "5",
-            "result": "Groundout",
-            "evo": "88.2",
-            "la": "-20",
-            "dist": "10"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "lenyn sosa",
@@ -5894,7 +5909,7 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6167,9 +6182,9 @@
             "start": "8:40 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "98.3",
-            "la": "13",
-            "dist": "226"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "luis arraez",
