@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "24",
         "batters": "163",
-        "pitches": "1259",
+        "pitches": "1263",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "67.9",
         "ff%fourseam fastball %": "25.8",
@@ -13,10 +13,10 @@
         "sl%slider %": "24.4",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "117.6",
-        "hhhard hit": "91",
-        "hh%hard hit %": "40.3",
+        "hhhard hit": "93",
+        "hh%hard hit %": "40.8",
         "brlbarrels": "19",
-        "brl%barrel %": "8.4",
+        "brl%barrel %": "8.3",
         "ab": "300",
         "avg": ".210",
         "h": "63",
@@ -24,11 +24,11 @@
         "2b": "10",
         "3b": "1",
         "hr": "9",
-        "so": "77",
-        "bipballs in play": "226",
+        "so": "78",
+        "bipballs in play": "228",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-09 20:27:34.427781"
+        "updated": "2025-05-09 20:27:42.657119"
     },
     "mil @ tb": [
         {
@@ -2207,10 +2207,10 @@
             "team": "wsh",
             "start": "6:45 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "96.1",
+            "la": "18",
+            "dist": "282"
         },
         {
             "player": "cj abrams",
@@ -3983,10 +3983,10 @@
             "team": "bos",
             "start": "7:40 PM",
             "in": "4",
-            "result": "Wild Pitch",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "79.7",
+            "la": "10",
+            "dist": "130"
         },
         {
             "player": "alex bregman",
@@ -4346,9 +4346,9 @@
             "start": "7:40 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "105.0",
+            "la": "3",
+            "dist": "71"
         },
         {
             "player": "miguel vargas",
@@ -4698,6 +4698,21 @@
     ],
     "cin @ hou": [
         {
+            "player": "gavin lux",
+            "game": "cin @ hou",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-05-09 20:27:41",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "austin hays",
             "game": "cin @ hou",
             "hr/park": "",
@@ -4707,7 +4722,7 @@
             "team": "cin",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4804,21 +4819,6 @@
         }
     ],
     "sf @ min": [
-        {
-            "player": "wilmer flores",
-            "game": "sf @ min",
-            "hr/park": "",
-            "pa": "9",
-            "dt": "2025-05-09 20:27:09",
-            "img": "https://www.mlbstatic.com/team-logos/137.svg",
-            "team": "sf",
-            "start": "8:10 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "76.6",
-            "la": "-10",
-            "dist": "14"
-        },
         {
             "player": "matt chapman",
             "game": "sf @ min",
