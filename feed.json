@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "58",
         "batters": "206",
-        "pitches": "2443",
+        "pitches": "2447",
         "max velomax pitch velocity": "100.5",
         "min velomin pitch velocity": "67.9",
-        "ff%fourseam fastball %": "28.7",
-        "si%sinker %": "19.2",
+        "ff%fourseam fastball %": "28.8",
+        "si%sinker %": "19.1",
         "fc%cutter %": "5.6",
         "fs%splitter %": "2.5",
         "ch%changeup %": "10.9",
-        "sl%slider %": "25.2",
+        "sl%slider %": "25.3",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "117.6",
         "hhhard hit": "174",
-        "hh%hard hit %": "39.7",
+        "hh%hard hit %": "39.6",
         "brlbarrels": "31",
         "brl%barrel %": "7.1",
-        "ab": "577",
-        "avg": ".222",
+        "ab": "578",
+        "avg": ".221",
         "h": "128",
         "1b": "89",
         "2b": "23",
         "3b": "3",
         "hr": "13",
-        "so": "151",
-        "bipballs in play": "438",
+        "so": "152",
+        "bipballs in play": "439",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-05-09 21:38:46.458901"
+        "updated": "2025-05-09 21:38:56.020019"
     },
     "mil @ tb": [
         {
@@ -6098,7 +6098,7 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6970,7 +6970,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7862,6 +7862,21 @@
         }
     ],
     "cin @ hou": [
+        {
+            "player": "elly de la cruz",
+            "game": "cin @ hou",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-05-09 21:38:54",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "christian walker",
             "game": "cin @ hou",
@@ -9174,17 +9189,17 @@
         {
             "player": "luis arraez",
             "game": "sd @ col",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "32",
             "dt": "2025-05-09 21:37:40",
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
             "team": "sd",
             "start": "8:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "93.4",
+            "la": "32",
+            "dist": "349"
         },
         {
             "player": "fernando tatis",
