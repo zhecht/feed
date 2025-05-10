@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "25",
+        "pitchers": "26",
         "batters": "166",
-        "pitches": "1280",
+        "pitches": "1288",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "67.9",
-        "ff%fourseam fastball %": "26.1",
+        "ff%fourseam fastball %": "25.9",
         "si%sinker %": "21.7",
-        "fc%cutter %": "5.3",
-        "fs%splitter %": "3.8",
+        "fc%cutter %": "5.4",
+        "fs%splitter %": "3.9",
         "ch%changeup %": "10.7",
-        "sl%slider %": "24.4",
-        "cu%curve %": "8.0",
+        "sl%slider %": "24.3",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "117.6",
-        "hhhard hit": "93",
+        "hhhard hit": "94",
         "hh%hard hit %": "40.3",
         "brlbarrels": "19",
         "brl%barrel %": "8.2",
-        "ab": "307",
-        "avg": ".205",
+        "ab": "309",
+        "avg": ".204",
         "h": "63",
         "1b": "43",
         "2b": "10",
         "3b": "1",
         "hr": "9",
-        "so": "80",
-        "bipballs in play": "231",
+        "so": "79",
+        "bipballs in play": "233",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-09 20:29:04.832588"
+        "updated": "2025-05-09 20:29:12.977080"
     },
     "mil @ tb": [
+        {
+            "player": "rhys hoskins",
+            "game": "mil @ tb",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-05-09 20:29:10",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "christian yelich",
             "game": "mil @ tb",
@@ -649,21 +664,6 @@
     ],
     "tex @ det": [
         {
-            "player": "gleyber torres",
-            "game": "tex @ det",
-            "hr/park": "",
-            "pa": "57",
-            "dt": "2025-05-09 20:28:38",
-            "img": "https://www.mlbstatic.com/team-logos/116.svg",
-            "team": "det",
-            "start": "6:40 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "zach mckinstry",
             "game": "tex @ det",
             "hr/park": "",
@@ -673,7 +673,7 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "8",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1506,6 +1506,21 @@
     ],
     "atl @ pit": [
         {
+            "player": "kebryan hayes",
+            "game": "atl @ pit",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-05-09 20:29:10",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alex verdugo",
             "game": "atl @ pit",
             "hr/park": "",
@@ -2237,10 +2252,10 @@
             "team": "wsh",
             "start": "6:45 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "100.4",
+            "la": "-25",
+            "dist": "6"
         },
         {
             "player": "james wood",
@@ -3004,7 +3019,7 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3536,6 +3551,21 @@
         }
     ],
     "phi @ cle": [
+        {
+            "player": "bryson stott",
+            "game": "phi @ cle",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-05-09 20:29:10",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "bo naylor",
             "game": "phi @ cle",
@@ -4782,10 +4812,10 @@
             "team": "cin",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "73.2",
+            "la": "-22",
+            "dist": "8"
         },
         {
             "player": "austin hays",
@@ -4904,7 +4934,7 @@
             "team": "sf",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "75.2",
             "la": "-42",
             "dist": "4"
