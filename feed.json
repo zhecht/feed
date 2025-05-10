@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "43",
-        "batters": "203",
-        "pitches": "1955",
+        "batters": "204",
+        "pitches": "1967",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "67.9",
-        "ff%fourseam fastball %": "28.7",
+        "ff%fourseam fastball %": "28.9",
         "si%sinker %": "19.2",
-        "fc%cutter %": "5.2",
-        "fs%splitter %": "2.9",
-        "ch%changeup %": "10.5",
-        "sl%slider %": "24.8",
+        "fc%cutter %": "5.1",
+        "fs%splitter %": "2.8",
+        "ch%changeup %": "10.6",
+        "sl%slider %": "24.7",
         "cu%curve %": "8.7",
         "max evmax exit velocity": "117.6",
-        "hhhard hit": "138",
-        "hh%hard hit %": "39.9",
+        "hhhard hit": "139",
+        "hh%hard hit %": "39.7",
         "brlbarrels": "25",
-        "brl%barrel %": "7.2",
-        "ab": "472",
-        "avg": ".210",
-        "h": "99",
-        "1b": "69",
+        "brl%barrel %": "7.1",
+        "ab": "474",
+        "avg": ".211",
+        "h": "100",
+        "1b": "70",
         "2b": "16",
         "3b": "3",
         "hr": "11",
-        "so": "128",
-        "bipballs in play": "346",
+        "so": "129",
+        "bipballs in play": "350",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-09 21:06:53.878600"
+        "updated": "2025-05-09 21:07:02.964373"
     },
     "mil @ tb": [
         {
@@ -42,9 +42,9 @@
             "start": "7:05 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "77.8",
+            "la": "42",
+            "dist": "246"
         },
         {
             "player": "jose caballero",
@@ -1815,7 +1815,7 @@
             "team": "atl",
             "start": "6:40 PM",
             "in": "9",
-            "result": "Game Advisory",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3805,6 +3805,21 @@
     ],
     "chc @ nym": [
         {
+            "player": "brandon nimmo",
+            "game": "chc @ nym",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-05-09 21:06:56",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "pete alonso",
             "game": "chc @ nym",
             "hr/park": "",
@@ -3814,7 +3829,7 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5378,7 +5393,7 @@
             "team": "bos",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6732,10 +6747,10 @@
             "team": "cin",
             "start": "8:10 PM",
             "in": "4",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "82.7",
+            "la": "78",
+            "dist": "64"
         },
         {
             "player": "isaac paredes",
@@ -7552,6 +7567,21 @@
     ],
     "sd @ col": [
         {
+            "player": "kyle farmer",
+            "game": "sd @ col",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-05-09 21:06:56",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "55.0",
+            "la": "-63",
+            "dist": "2"
+        },
+        {
             "player": "mickey moniak",
             "game": "sd @ col",
             "hr/park": "",
@@ -7561,10 +7591,10 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "101.0",
+            "la": "10",
+            "dist": "163"
         },
         {
             "player": "michael toglia",
