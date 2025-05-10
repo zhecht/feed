@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "56",
         "batters": "206",
-        "pitches": "2383",
+        "pitches": "2387",
         "max velomax pitch velocity": "100.5",
         "min velomin pitch velocity": "67.9",
         "ff%fourseam fastball %": "28.7",
@@ -14,10 +14,10 @@
         "cu%curve %": "8.0",
         "max evmax exit velocity": "117.6",
         "hhhard hit": "170",
-        "hh%hard hit %": "39.6",
+        "hh%hard hit %": "39.5",
         "brlbarrels": "30",
         "brl%barrel %": "7.0",
-        "ab": "565",
+        "ab": "566",
         "avg": ".223",
         "h": "126",
         "1b": "88",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "13",
         "so": "147",
-        "bipballs in play": "429",
+        "bipballs in play": "430",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-09 21:33:44.930624"
+        "updated": "2025-05-09 21:33:55.039074"
     },
     "mil @ tb": [
         {
@@ -6038,7 +6038,7 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7743,6 +7743,21 @@
     ],
     "cin @ hou": [
         {
+            "player": "christian walker",
+            "game": "cin @ hou",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-05-09 21:33:55",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "isaac paredes",
             "game": "cin @ hou",
             "hr/park": "",
@@ -8369,10 +8384,10 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "78.3",
+            "la": "-53",
+            "dist": "2"
         },
         {
             "player": "ryan jeffers",
