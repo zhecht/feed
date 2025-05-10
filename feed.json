@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "88",
-        "batters": "282",
-        "pitches": "3319",
+        "batters": "283",
+        "pitches": "3322",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "67.9",
         "ff%fourseam fastball %": "29.7",
@@ -13,11 +13,11 @@
         "sl%slider %": "25.2",
         "cu%curve %": "7.7",
         "max evmax exit velocity": "117.6",
-        "hhhard hit": "239",
+        "hhhard hit": "240",
         "hh%hard hit %": "40.2",
         "brlbarrels": "48",
-        "brl%barrel %": "8.1",
-        "ab": "781",
+        "brl%barrel %": "8.0",
+        "ab": "782",
         "avg": ".229",
         "h": "179",
         "1b": "119",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "22",
         "so": "202",
-        "bipballs in play": "595",
+        "bipballs in play": "597",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-09 22:33:00.322977"
+        "updated": "2025-05-09 22:33:11.849105"
     },
     "mil @ tb": [
         {
@@ -10764,7 +10764,7 @@
         {
             "player": "jason heyward",
             "game": "sd @ col",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "55",
             "dt": "2025-05-09 22:31:55",
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
@@ -11599,9 +11599,9 @@
             "start": "9:38 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "79.0",
+            "la": "-18",
+            "dist": "11"
         },
         {
             "player": "zach neto",
@@ -12433,6 +12433,21 @@
     ],
     "tor @ sea": [
         {
+            "player": "ben williamson",
+            "game": "tor @ sea",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-05-09 22:33:10",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "9:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "101.6",
+            "la": "7",
+            "dist": "125"
+        },
+        {
             "player": "dylan moore",
             "game": "tor @ sea",
             "hr/park": "",
@@ -12442,7 +12457,7 @@
             "team": "sea",
             "start": "9:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12819,7 +12834,7 @@
             "team": "ath",
             "start": "10:05 PM",
             "in": "2",
-            "result": "Strikeout",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
