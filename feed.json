@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "29",
         "batters": "183",
-        "pitches": "1545",
+        "pitches": "1547",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "67.9",
-        "ff%fourseam fastball %": "26.5",
-        "si%sinker %": "20.8",
+        "ff%fourseam fastball %": "26.4",
+        "si%sinker %": "20.9",
         "fc%cutter %": "5.4",
         "fs%splitter %": "3.6",
         "ch%changeup %": "11.0",
-        "sl%slider %": "24.5",
-        "cu%curve %": "8.2",
+        "sl%slider %": "24.6",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "117.6",
-        "hhhard hit": "115",
-        "hh%hard hit %": "41.4",
-        "brlbarrels": "21",
-        "brl%barrel %": "7.6",
-        "ab": "370",
-        "avg": ".219",
-        "h": "81",
-        "1b": "57",
+        "hhhard hit": "117",
+        "hh%hard hit %": "41.8",
+        "brlbarrels": "22",
+        "brl%barrel %": "7.9",
+        "ab": "371",
+        "avg": ".221",
+        "h": "82",
+        "1b": "58",
         "2b": "12",
         "3b": "1",
         "hr": "11",
         "so": "96",
-        "bipballs in play": "278",
+        "bipballs in play": "280",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-09 20:43:03.683829"
+        "updated": "2025-05-09 20:43:12.012878"
     },
     "mil @ tb": [
         {
@@ -738,6 +738,21 @@
         }
     ],
     "tex @ det": [
+        {
+            "player": "adolis garcia",
+            "game": "tex @ det",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-05-09 20:43:09",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "Flyout",
+            "evo": "105.5",
+            "la": "34",
+            "dist": "380"
+        },
         {
             "player": "jonah heim",
             "game": "tex @ det",
@@ -1655,21 +1670,6 @@
         }
     ],
     "atl @ pit": [
-        {
-            "player": "marcell ozuna",
-            "game": "atl @ pit",
-            "hr/park": "",
-            "pa": "55",
-            "dt": "2025-05-09 20:42:40",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "6:40 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "austin riley",
             "game": "atl @ pit",
@@ -3972,6 +3972,21 @@
     ],
     "phi @ cle": [
         {
+            "player": "steven kwan",
+            "game": "phi @ cle",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-05-09 20:42:09",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "Single",
+            "evo": "99.0",
+            "la": "2",
+            "dist": "61"
+        },
+        {
             "player": "angel martinez",
             "game": "phi @ cle",
             "hr/park": "10/30",
@@ -5065,7 +5080,7 @@
             "team": "mia",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
