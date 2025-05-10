@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "60",
-        "batters": "209",
-        "pitches": "2477",
+        "pitchers": "62",
+        "batters": "211",
+        "pitches": "2492",
         "max velomax pitch velocity": "100.5",
         "min velomin pitch velocity": "67.9",
-        "ff%fourseam fastball %": "28.9",
-        "si%sinker %": "19.0",
+        "ff%fourseam fastball %": "29.0",
+        "si%sinker %": "18.9",
         "fc%cutter %": "5.5",
         "fs%splitter %": "2.4",
-        "ch%changeup %": "10.9",
-        "sl%slider %": "25.4",
+        "ch%changeup %": "10.8",
+        "sl%slider %": "25.5",
         "cu%curve %": "7.9",
         "max evmax exit velocity": "117.6",
         "hhhard hit": "175",
         "hh%hard hit %": "39.5",
         "brlbarrels": "32",
         "brl%barrel %": "7.2",
-        "ab": "587",
-        "avg": ".220",
+        "ab": "590",
+        "avg": ".219",
         "h": "129",
         "1b": "89",
         "2b": "23",
         "3b": "3",
         "hr": "14",
-        "so": "153",
+        "so": "156",
         "bipballs in play": "443",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-09 21:41:22.814766"
+        "updated": "2025-05-09 21:41:32.823900"
     },
     "mil @ tb": [
+        {
+            "player": "jonathan aranda",
+            "game": "mil @ tb",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-05-09 21:41:26",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "8",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "taylor walls",
             "game": "mil @ tb",
@@ -5157,6 +5172,21 @@
     ],
     "phi @ cle": [
         {
+            "player": "bo naylor",
+            "game": "phi @ cle",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-05-09 21:41:26",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle manzardo",
             "game": "phi @ cle",
             "hr/park": "",
@@ -5166,7 +5196,7 @@
             "team": "cle",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8579,7 +8609,7 @@
             "team": "sf",
             "start": "8:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9805,6 +9835,22 @@
         }
     ],
     "lad @ ari": [],
-    "tor @ sea": [],
+    "tor @ sea": [
+        {
+            "player": "bo bichette",
+            "game": "tor @ sea",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-09 21:41:26",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "nyy @ ath": []
 }
