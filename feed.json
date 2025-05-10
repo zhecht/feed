@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "64",
+        "pitchers": "66",
         "batters": "213",
-        "pitches": "2530",
+        "pitches": "2542",
         "max velomax pitch velocity": "100.5",
         "min velomin pitch velocity": "67.9",
-        "ff%fourseam fastball %": "29.0",
-        "si%sinker %": "19.0",
-        "fc%cutter %": "5.5",
+        "ff%fourseam fastball %": "28.9",
+        "si%sinker %": "18.9",
+        "fc%cutter %": "5.4",
         "fs%splitter %": "2.4",
         "ch%changeup %": "10.7",
-        "sl%slider %": "25.6",
+        "sl%slider %": "25.8",
         "cu%curve %": "7.9",
         "max evmax exit velocity": "117.6",
-        "hhhard hit": "177",
+        "hhhard hit": "178",
         "hh%hard hit %": "39.6",
-        "brlbarrels": "33",
-        "brl%barrel %": "7.4",
-        "ab": "596",
-        "avg": ".220",
-        "h": "131",
+        "brlbarrels": "34",
+        "brl%barrel %": "7.6",
+        "ab": "598",
+        "avg": ".221",
+        "h": "132",
         "1b": "89",
-        "2b": "24",
+        "2b": "25",
         "3b": "3",
         "hr": "15",
         "so": "160",
-        "bipballs in play": "447",
+        "bipballs in play": "449",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-09 21:43:51.708740"
+        "updated": "2025-05-09 21:44:01.635973"
     },
     "mil @ tb": [
+        {
+            "player": "daz cameron",
+            "game": "mil @ tb",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-05-09 21:43:54",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:05 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jonathan aranda",
             "game": "mil @ tb",
@@ -4165,6 +4180,21 @@
     ],
     "chc @ nym": [
         {
+            "player": "francisco lindor",
+            "game": "chc @ nym",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-05-09 21:43:54",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyrone taylor",
             "game": "chc @ nym",
             "hr/park": "",
@@ -5181,10 +5211,10 @@
             "team": "cle",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "75.3",
+            "la": "9",
+            "dist": "116"
         },
         {
             "player": "bo naylor",
@@ -7065,6 +7095,21 @@
         }
     ],
     "mia @ chw": [
+        {
+            "player": "agustin ramirez",
+            "game": "mia @ chw",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-05-09 21:43:54",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "andrew vaughn",
             "game": "mia @ chw",
@@ -9913,17 +9958,17 @@
         {
             "player": "shohei ohtani",
             "game": "lad @ ari",
-            "hr/park": "",
+            "hr/park": "28/30",
             "pa": "1",
             "dt": "2025-05-09 21:43:10",
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
             "team": "lad",
             "start": "9:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "107.9",
+            "la": "23",
+            "dist": "423"
         }
     ],
     "tor @ sea": [
@@ -9937,7 +9982,7 @@
             "team": "tor",
             "start": "9:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
