@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "31",
         "batters": "189",
-        "pitches": "1613",
+        "pitches": "1617",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "67.9",
-        "ff%fourseam fastball %": "26.5",
-        "si%sinker %": "20.9",
+        "ff%fourseam fastball %": "26.6",
+        "si%sinker %": "20.8",
         "fc%cutter %": "5.6",
-        "fs%splitter %": "3.4",
+        "fs%splitter %": "3.5",
         "ch%changeup %": "10.6",
-        "sl%slider %": "24.7",
+        "sl%slider %": "24.6",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "117.6",
-        "hhhard hit": "118",
-        "hh%hard hit %": "41.0",
+        "hhhard hit": "119",
+        "hh%hard hit %": "41.2",
         "brlbarrels": "22",
         "brl%barrel %": "7.6",
-        "ab": "389",
-        "avg": ".219",
-        "h": "85",
-        "1b": "61",
+        "ab": "393",
+        "avg": ".221",
+        "h": "87",
+        "1b": "62",
         "2b": "12",
-        "3b": "1",
+        "3b": "2",
         "hr": "11",
-        "so": "103",
-        "bipballs in play": "288",
+        "so": "104",
+        "bipballs in play": "289",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-09 20:46:37.991221"
+        "updated": "2025-05-09 20:46:46.602671"
     },
     "mil @ tb": [
         {
@@ -1710,7 +1710,7 @@
             "team": "atl",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4077,6 +4077,21 @@
     ],
     "phi @ cle": [
         {
+            "player": "carlos santana",
+            "game": "phi @ cle",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-05-09 20:46:40",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose ramirez",
             "game": "phi @ cle",
             "hr/park": "",
@@ -4086,10 +4101,10 @@
             "team": "cle",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "83.3",
+            "la": "4",
+            "dist": "75"
         },
         {
             "player": "daniel schneemann",
@@ -4708,6 +4723,36 @@
         }
     ],
     "bos @ kc": [
+        {
+            "player": "jonathan india",
+            "game": "bos @ kc",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-05-09 20:46:40",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "kyle isbel",
+            "game": "bos @ kc",
+            "hr/park": "0/30",
+            "pa": "35",
+            "dt": "2025-05-09 20:46:40",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "Triple",
+            "evo": "95.7",
+            "la": "20",
+            "dist": "366"
+        },
         {
             "player": "freddy fermin",
             "game": "bos @ kc",
@@ -5748,6 +5793,21 @@
     ],
     "cin @ hou": [
         {
+            "player": "tj friedl",
+            "game": "cin @ hou",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-05-09 20:46:40",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "santiago espinal",
             "game": "cin @ hou",
             "hr/park": "",
@@ -6015,9 +6075,9 @@
             "start": "8:10 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "54.2",
-            "la": "-59",
-            "dist": "3"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "kody clemens",
