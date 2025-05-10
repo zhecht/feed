@@ -1,51 +1,36 @@
 {
     "all": {
         "pitchers": "41",
-        "batters": "198",
-        "pitches": "1883",
+        "batters": "199",
+        "pitches": "1887",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "67.9",
-        "ff%fourseam fastball %": "28.1",
+        "ff%fourseam fastball %": "28.2",
         "si%sinker %": "19.6",
         "fc%cutter %": "5.2",
         "fs%splitter %": "3.0",
         "ch%changeup %": "10.8",
         "sl%slider %": "24.6",
-        "cu%curve %": "8.7",
+        "cu%curve %": "8.6",
         "max evmax exit velocity": "117.6",
-        "hhhard hit": "133",
-        "hh%hard hit %": "40.3",
+        "hhhard hit": "134",
+        "hh%hard hit %": "40.5",
         "brlbarrels": "25",
         "brl%barrel %": "7.6",
         "ab": "452",
-        "avg": ".210",
-        "h": "95",
-        "1b": "66",
+        "avg": ".215",
+        "h": "97",
+        "1b": "68",
         "2b": "15",
         "3b": "3",
         "hr": "11",
         "so": "126",
-        "bipballs in play": "330",
+        "bipballs in play": "331",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-09 21:02:22.460059"
+        "updated": "2025-05-09 21:02:31.475611"
     },
     "mil @ tb": [
-        {
-            "player": "taylor walls",
-            "game": "mil @ tb",
-            "hr/park": "",
-            "pa": "54",
-            "dt": "2025-05-09 21:01:09",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "7:05 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "curtis mead",
             "game": "mil @ tb",
@@ -1775,6 +1760,21 @@
         }
     ],
     "atl @ pit": [
+        {
+            "player": "drake baldwin",
+            "game": "atl @ pit",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-05-09 21:02:25",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "alex verdugo",
             "game": "atl @ pit",
@@ -3724,10 +3724,10 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "101.4",
+            "la": "16",
+            "dist": "221"
         },
         {
             "player": "tyrone taylor",
@@ -6869,7 +6869,7 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "101.7",
             "la": "-17",
             "dist": "11"
