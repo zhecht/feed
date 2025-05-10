@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "42",
-        "batters": "200",
-        "pitches": "1908",
+        "batters": "201",
+        "pitches": "1913",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "67.9",
         "ff%fourseam fastball %": "28.4",
@@ -13,22 +13,22 @@
         "sl%slider %": "24.7",
         "cu%curve %": "8.6",
         "max evmax exit velocity": "117.6",
-        "hhhard hit": "136",
-        "hh%hard hit %": "40.5",
+        "hhhard hit": "137",
+        "hh%hard hit %": "40.4",
         "brlbarrels": "25",
         "brl%barrel %": "7.4",
-        "ab": "457",
-        "avg": ".212",
-        "h": "97",
-        "1b": "68",
-        "2b": "15",
+        "ab": "459",
+        "avg": ".216",
+        "h": "99",
+        "1b": "69",
+        "2b": "16",
         "3b": "3",
         "hr": "11",
         "so": "127",
-        "bipballs in play": "336",
+        "bipballs in play": "339",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-09 21:03:34.419798"
+        "updated": "2025-05-09 21:03:43.393208"
     },
     "mil @ tb": [
         {
@@ -1785,10 +1785,10 @@
             "team": "atl",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "93.6",
+            "la": "9",
+            "dist": "126"
         },
         {
             "player": "alex verdugo",
@@ -2747,10 +2747,10 @@
             "team": "stl",
             "start": "6:45 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "101.8",
+            "la": "52",
+            "dist": "255"
         },
         {
             "player": "willson contreras",
@@ -4527,6 +4527,21 @@
     ],
     "phi @ cle": [
         {
+            "player": "jhonkensy noel",
+            "game": "phi @ cle",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-05-09 21:03:39",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "77.4",
+            "la": "33",
+            "dist": "270"
+        },
+        {
             "player": "gabriel arias",
             "game": "phi @ cle",
             "hr/park": "",
@@ -5273,7 +5288,7 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "6",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "72.2",
             "la": "-6",
             "dist": "22"
@@ -6567,10 +6582,10 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "3",
-            "result": "Flyout",
-            "evo": "89.1",
-            "la": "51",
-            "dist": "252"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "jose altuve",
@@ -6919,6 +6934,21 @@
         }
     ],
     "sf @ min": [
+        {
+            "player": "matt chapman",
+            "game": "sf @ min",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-05-09 21:03:39",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "88.6",
+            "la": "40",
+            "dist": "280"
+        },
         {
             "player": "carlos correa",
             "game": "sf @ min",
@@ -7336,7 +7366,7 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "74.7",
             "la": "-1",
             "dist": "38"
