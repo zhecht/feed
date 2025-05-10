@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "26",
-        "batters": "170",
-        "pitches": "1380",
+        "batters": "171",
+        "pitches": "1387",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "67.9",
         "ff%fourseam fastball %": "26.4",
@@ -10,25 +10,25 @@
         "fc%cutter %": "5.2",
         "fs%splitter %": "3.8",
         "ch%changeup %": "10.7",
-        "sl%slider %": "24.6",
+        "sl%slider %": "24.7",
         "cu%curve %": "8.1",
         "max evmax exit velocity": "117.6",
         "hhhard hit": "101",
-        "hh%hard hit %": "40.7",
+        "hh%hard hit %": "40.6",
         "brlbarrels": "20",
-        "brl%barrel %": "8.1",
-        "ab": "328",
+        "brl%barrel %": "8.0",
+        "ab": "329",
         "avg": ".213",
         "h": "70",
         "1b": "48",
         "2b": "11",
         "3b": "1",
         "hr": "10",
-        "so": "83",
-        "bipballs in play": "248",
+        "so": "85",
+        "bipballs in play": "249",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-09 20:33:30.393113"
+        "updated": "2025-05-09 20:33:38.687502"
     },
     "mil @ tb": [
         {
@@ -2342,7 +2342,7 @@
             "team": "stl",
             "start": "6:45 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4238,7 +4238,7 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5052,7 +5052,7 @@
             "team": "cin",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5194,6 +5194,21 @@
         }
     ],
     "sf @ min": [
+        {
+            "player": "willi castro",
+            "game": "sf @ min",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-05-09 20:31:54",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "Forceout",
+            "evo": "50.4",
+            "la": "-51",
+            "dist": "3"
+        },
         {
             "player": "carlos correa",
             "game": "sf @ min",
