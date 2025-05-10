@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "55",
         "batters": "206",
-        "pitches": "2353",
+        "pitches": "2360",
         "max velomax pitch velocity": "100.5",
         "min velomin pitch velocity": "67.9",
         "ff%fourseam fastball %": "28.9",
-        "si%sinker %": "19.2",
+        "si%sinker %": "19.1",
         "fc%cutter %": "5.5",
         "fs%splitter %": "2.5",
-        "ch%changeup %": "10.9",
-        "sl%slider %": "25.0",
+        "ch%changeup %": "10.8",
+        "sl%slider %": "25.2",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "117.6",
         "hhhard hit": "168",
-        "hh%hard hit %": "39.5",
-        "brlbarrels": "29",
-        "brl%barrel %": "6.8",
+        "hh%hard hit %": "39.6",
+        "brlbarrels": "30",
+        "brl%barrel %": "7.1",
         "ab": "561",
         "avg": ".221",
         "h": "124",
@@ -24,11 +24,11 @@
         "2b": "21",
         "3b": "3",
         "hr": "13",
-        "so": "145",
-        "bipballs in play": "425",
+        "so": "147",
+        "bipballs in play": "424",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-09 21:32:07.892771"
+        "updated": "2025-05-09 21:32:17.736114"
     },
     "mil @ tb": [
         {
@@ -2957,10 +2957,10 @@
             "team": "wsh",
             "start": "6:45 PM",
             "in": "9",
-            "result": "GIDP",
-            "evo": "105.9",
-            "la": "-1",
-            "dist": "39"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "james wood",
@@ -5067,6 +5067,21 @@
     ],
     "phi @ cle": [
         {
+            "player": "kyle schwarber",
+            "game": "phi @ cle",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-05-09 21:32:10",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bryce harper",
             "game": "phi @ cle",
             "hr/park": "",
@@ -5076,7 +5091,7 @@
             "team": "phi",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6811,21 +6826,6 @@
     ],
     "mia @ chw": [
         {
-            "player": "jacob amaya",
-            "game": "mia @ chw",
-            "hr/park": "",
-            "pa": "57",
-            "dt": "2025-05-09 21:31:24",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "start": "7:40 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "36.3",
-            "la": "-25",
-            "dist": "6"
-        },
-        {
             "player": "michael a taylor",
             "game": "mia @ chw",
             "hr/park": "",
@@ -8294,7 +8294,7 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8919,17 +8919,17 @@
         {
             "player": "ryan mcmahon",
             "game": "sd @ col",
-            "hr/park": "",
+            "hr/park": "2/30",
             "pa": "29",
             "dt": "2025-05-09 21:30:25",
             "img": "https://www.mlbstatic.com/team-logos/115.svg",
             "team": "col",
             "start": "8:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "102.0",
+            "la": "22",
+            "dist": "360"
         },
         {
             "player": "jordan beck",
