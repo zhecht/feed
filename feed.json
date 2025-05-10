@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "48",
         "batters": "205",
-        "pitches": "2116",
+        "pitches": "2125",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "67.9",
         "ff%fourseam fastball %": "28.6",
-        "si%sinker %": "19.1",
+        "si%sinker %": "19.2",
         "fc%cutter %": "5.2",
         "fs%splitter %": "2.8",
-        "ch%changeup %": "11.0",
+        "ch%changeup %": "10.9",
         "sl%slider %": "24.9",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "117.6",
         "hhhard hit": "151",
-        "hh%hard hit %": "39.9",
+        "hh%hard hit %": "39.8",
         "brlbarrels": "26",
         "brl%barrel %": "6.9",
         "ab": "505",
-        "avg": ".210",
-        "h": "106",
-        "1b": "75",
+        "avg": ".212",
+        "h": "107",
+        "1b": "76",
         "2b": "16",
         "3b": "3",
         "hr": "12",
-        "so": "135",
-        "bipballs in play": "378",
+        "so": "136",
+        "bipballs in play": "379",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-09 21:16:49.180855"
+        "updated": "2025-05-09 21:16:58.727663"
     },
     "mil @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "mil",
             "start": "7:05 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "92.2",
             "la": "-7",
             "dist": "22"
@@ -5633,7 +5633,7 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6370,10 +6370,10 @@
             "team": "mia",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "79.5",
+            "la": "36",
+            "dist": "260"
         },
         {
             "player": "dane myers",
@@ -7565,6 +7565,21 @@
     ],
     "sf @ min": [
         {
+            "player": "trevor larnach",
+            "game": "sf @ min",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-05-09 21:15:54",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "byron buxton",
             "game": "sf @ min",
             "hr/park": "",
@@ -7574,7 +7589,7 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "104.3",
             "la": "",
             "dist": "55"
