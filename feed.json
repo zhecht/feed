@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "33",
         "batters": "190",
-        "pitches": "1661",
+        "pitches": "1667",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "67.9",
         "ff%fourseam fastball %": "27.2",
-        "si%sinker %": "20.5",
+        "si%sinker %": "20.6",
         "fc%cutter %": "5.6",
         "fs%splitter %": "3.4",
         "ch%changeup %": "10.6",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.4",
         "max evmax exit velocity": "117.6",
         "hhhard hit": "122",
-        "hh%hard hit %": "41.1",
+        "hh%hard hit %": "40.9",
         "brlbarrels": "22",
         "brl%barrel %": "7.4",
-        "ab": "403",
+        "ab": "404",
         "avg": ".218",
         "h": "88",
         "1b": "63",
         "2b": "12",
         "3b": "2",
         "hr": "11",
-        "so": "105",
-        "bipballs in play": "297",
+        "so": "106",
+        "bipballs in play": "298",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-09 20:49:30.836414"
+        "updated": "2025-05-09 20:49:39.549871"
     },
     "mil @ tb": [
         {
@@ -4823,7 +4823,7 @@
             "team": "bos",
             "start": "7:40 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5380,10 +5380,10 @@
             "team": "mia",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "93.5",
+            "la": "20",
+            "dist": "318"
         },
         {
             "player": "xavier edwards",
@@ -5898,6 +5898,21 @@
     ],
     "cin @ hou": [
         {
+            "player": "matt mclain",
+            "game": "cin @ hou",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-05-09 20:49:39",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "Mound Visit",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tj friedl",
             "game": "cin @ hou",
             "hr/park": "",
@@ -5907,7 +5922,7 @@
             "team": "cin",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
