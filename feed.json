@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "41",
         "batters": "198",
-        "pitches": "1858",
+        "pitches": "1861",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "67.9",
-        "ff%fourseam fastball %": "27.9",
+        "ff%fourseam fastball %": "28.0",
         "si%sinker %": "19.8",
         "fc%cutter %": "5.3",
         "fs%splitter %": "3.0",
@@ -13,22 +13,22 @@
         "sl%slider %": "24.5",
         "cu%curve %": "8.6",
         "max evmax exit velocity": "117.6",
-        "hhhard hit": "129",
-        "hh%hard hit %": "39.8",
+        "hhhard hit": "131",
+        "hh%hard hit %": "40.1",
         "brlbarrels": "24",
-        "brl%barrel %": "7.4",
-        "ab": "445",
-        "avg": ".211",
+        "brl%barrel %": "7.3",
+        "ab": "444",
+        "avg": ".212",
         "h": "94",
         "1b": "65",
         "2b": "15",
         "3b": "3",
         "hr": "11",
         "so": "125",
-        "bipballs in play": "324",
+        "bipballs in play": "327",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-09 21:00:35.442805"
+        "updated": "2025-05-09 21:00:44.354938"
     },
     "mil @ tb": [
         {
@@ -41,10 +41,10 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Field Error",
+            "evo": "101.8",
+            "la": "2",
+            "dist": "72"
         },
         {
             "player": "jackson chourio",
@@ -2717,7 +2717,7 @@
             "team": "stl",
             "start": "6:45 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5791,21 +5791,6 @@
     ],
     "mia @ chw": [
         {
-            "player": "kyle stowers",
-            "game": "mia @ chw",
-            "hr/park": "",
-            "pa": "41",
-            "dt": "2025-05-09 21:00:25",
-            "img": "https://www.mlbstatic.com/team-logos/146.svg",
-            "team": "mia",
-            "start": "7:40 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "agustin ramirez",
             "game": "mia @ chw",
             "hr/park": "0/30",
@@ -6755,6 +6740,21 @@
     ],
     "sf @ min": [
         {
+            "player": "carlos correa",
+            "game": "sf @ min",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-05-09 21:00:08",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "101.7",
+            "la": "-17",
+            "dist": "11"
+        },
+        {
             "player": "ryan jeffers",
             "game": "sf @ min",
             "hr/park": "",
@@ -7149,17 +7149,17 @@
         {
             "player": "martin maldonado",
             "game": "sd @ col",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "12",
             "dt": "2025-05-09 21:00:08",
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
             "team": "sd",
             "start": "8:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "92.9",
+            "la": "41",
+            "dist": "337"
         },
         {
             "player": "jason heyward",
