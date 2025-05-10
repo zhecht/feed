@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "60",
         "batters": "208",
-        "pitches": "2469",
+        "pitches": "2472",
         "max velomax pitch velocity": "100.5",
         "min velomin pitch velocity": "67.9",
-        "ff%fourseam fastball %": "28.8",
+        "ff%fourseam fastball %": "28.9",
         "si%sinker %": "19.0",
         "fc%cutter %": "5.5",
         "fs%splitter %": "2.4",
-        "ch%changeup %": "10.9",
+        "ch%changeup %": "10.8",
         "sl%slider %": "25.4",
         "cu%curve %": "7.9",
         "max evmax exit velocity": "117.6",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "39.6",
         "brlbarrels": "32",
         "brl%barrel %": "7.2",
-        "ab": "584",
+        "ab": "585",
         "avg": ".221",
         "h": "129",
         "1b": "89",
@@ -28,7 +28,7 @@
         "bipballs in play": "442",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-09 21:40:33.758851"
+        "updated": "2025-05-09 21:40:43.646255"
     },
     "mil @ tb": [
         {
@@ -4149,21 +4149,6 @@
         }
     ],
     "chc @ nym": [
-        {
-            "player": "mark vientos",
-            "game": "chc @ nym",
-            "hr/park": "",
-            "pa": "66",
-            "dt": "2025-05-09 21:39:39",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "7:10 PM",
-            "in": "8",
-            "result": "Groundout",
-            "evo": "80.9",
-            "la": "-23",
-            "dist": "8"
-        },
         {
             "player": "seiya suzuki",
             "game": "chc @ nym",
@@ -9262,6 +9247,21 @@
     ],
     "sd @ col": [
         {
+            "player": "hunter goodman",
+            "game": "sd @ col",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-05-09 21:40:40",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis arraez",
             "game": "sd @ col",
             "hr/park": "0/30",
@@ -9744,6 +9744,21 @@
     ],
     "bal @ laa": [
         {
+            "player": "adley rutschman",
+            "game": "bal @ laa",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-05-09 21:40:40",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cedric mullins",
             "game": "bal @ laa",
             "hr/park": "",
@@ -9753,10 +9768,10 @@
             "team": "bal",
             "start": "9:38 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "91.6",
+            "la": "55",
+            "dist": "236"
         }
     ],
     "lad @ ari": [],
