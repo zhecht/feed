@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "42",
         "batters": "203",
-        "pitches": "1936",
+        "pitches": "1939",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "67.9",
-        "ff%fourseam fastball %": "28.8",
-        "si%sinker %": "19.4",
+        "ff%fourseam fastball %": "28.7",
+        "si%sinker %": "19.3",
         "fc%cutter %": "5.2",
         "fs%splitter %": "2.9",
-        "ch%changeup %": "10.6",
+        "ch%changeup %": "10.7",
         "sl%slider %": "24.5",
-        "cu%curve %": "8.7",
+        "cu%curve %": "8.8",
         "max evmax exit velocity": "117.6",
-        "hhhard hit": "138",
+        "hhhard hit": "137",
         "hh%hard hit %": "40.1",
         "brlbarrels": "25",
         "brl%barrel %": "7.3",
-        "ab": "465",
-        "avg": ".213",
+        "ab": "466",
+        "avg": ".212",
         "h": "99",
         "1b": "69",
         "2b": "16",
         "3b": "3",
         "hr": "11",
         "so": "128",
-        "bipballs in play": "344",
+        "bipballs in play": "342",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-09 21:06:08.194425"
+        "updated": "2025-05-09 21:06:17.313217"
     },
     "mil @ tb": [
         {
@@ -1785,7 +1785,7 @@
             "team": "atl",
             "start": "6:40 PM",
             "in": "9",
-            "result": "Stolen Base 2B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3769,7 +3769,7 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5309,6 +5309,21 @@
     ],
     "bos @ kc": [
         {
+            "player": "trevor story",
+            "game": "bos @ kc",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-05-09 21:06:11",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "wilyer abreu",
             "game": "bos @ kc",
             "hr/park": "0/30",
@@ -6633,6 +6648,21 @@
     ],
     "cin @ hou": [
         {
+            "player": "austin hays",
+            "game": "cin @ hou",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-05-09 21:06:11",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "isaac paredes",
             "game": "cin @ hou",
             "hr/park": "",
@@ -6995,21 +7025,6 @@
     ],
     "sf @ min": [
         {
-            "player": "heliot ramos",
-            "game": "sf @ min",
-            "hr/park": "",
-            "pa": "30",
-            "dt": "2025-05-09 21:05:54",
-            "img": "https://www.mlbstatic.com/team-logos/137.svg",
-            "team": "sf",
-            "start": "8:10 PM",
-            "in": "5",
-            "result": "Groundout",
-            "evo": "102.6",
-            "la": "-22",
-            "dist": "6"
-        },
-        {
             "player": "wilmer flores",
             "game": "sf @ min",
             "hr/park": "",
@@ -7019,10 +7034,10 @@
             "team": "sf",
             "start": "8:10 PM",
             "in": "5",
-            "result": "Groundout",
-            "evo": "91.0",
-            "la": "7",
-            "dist": "114"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "matt chapman",
