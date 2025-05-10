@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "28",
         "batters": "180",
-        "pitches": "1505",
+        "pitches": "1509",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "67.9",
-        "ff%fourseam fastball %": "26.3",
-        "si%sinker %": "21.2",
-        "fc%cutter %": "5.2",
-        "fs%splitter %": "3.7",
-        "ch%changeup %": "10.8",
+        "ff%fourseam fastball %": "26.4",
+        "si%sinker %": "21.1",
+        "fc%cutter %": "5.3",
+        "fs%splitter %": "3.6",
+        "ch%changeup %": "10.9",
         "sl%slider %": "24.6",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "117.6",
-        "hhhard hit": "108",
-        "hh%hard hit %": "40.3",
-        "brlbarrels": "20",
-        "brl%barrel %": "7.5",
+        "hhhard hit": "110",
+        "hh%hard hit %": "40.7",
+        "brlbarrels": "21",
+        "brl%barrel %": "7.8",
         "ab": "360",
         "avg": ".208",
         "h": "75",
@@ -24,11 +24,11 @@
         "2b": "12",
         "3b": "1",
         "hr": "10",
-        "so": "91",
-        "bipballs in play": "268",
+        "so": "92",
+        "bipballs in play": "270",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-09 20:40:38.322897"
+        "updated": "2025-05-09 20:40:46.746591"
     },
     "mil @ tb": [
         {
@@ -748,7 +748,7 @@
             "team": "tex",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4494,9 +4494,9 @@
             "start": "7:40 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "99.2",
+            "la": "-8",
+            "dist": "14"
         },
         {
             "player": "trevor story",
@@ -4968,17 +4968,17 @@
         {
             "player": "lenyn sosa",
             "game": "mia @ chw",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "31",
             "dt": "2025-05-09 20:39:38",
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
             "team": "chw",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "100.3",
+            "la": "32",
+            "dist": "379"
         },
         {
             "player": "josh rojas",
@@ -5669,7 +5669,7 @@
             "team": "sf",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
