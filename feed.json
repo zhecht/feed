@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "45",
-        "batters": "184",
-        "pitches": "2008",
+        "batters": "185",
+        "pitches": "2013",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "67.0",
         "ff%fourseam fastball %": "34.1",
@@ -10,25 +10,25 @@
         "fc%cutter %": "6.0",
         "fs%splitter %": "1.8",
         "ch%changeup %": "10.0",
-        "sl%slider %": "21.9",
+        "sl%slider %": "22.0",
         "cu%curve %": "11.3",
         "max evmax exit velocity": "111.2",
         "hhhard hit": "142",
-        "hh%hard hit %": "38.2",
+        "hh%hard hit %": "38.1",
         "brlbarrels": "30",
-        "brl%barrel %": "8.1",
+        "brl%barrel %": "8.0",
         "ab": "471",
-        "avg": ".240",
-        "h": "113",
-        "1b": "73",
+        "avg": ".238",
+        "h": "112",
+        "1b": "72",
         "2b": "20",
         "3b": "1",
         "hr": "19",
         "so": "116",
-        "bipballs in play": "372",
+        "bipballs in play": "373",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-11 15:53:01.261433"
+        "updated": "2025-05-11 15:53:10.235371"
     },
     "mil @ tb": [
         {
@@ -2777,7 +2777,7 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Mound Visit",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3700,6 +3700,21 @@
     ],
     "tex @ det": [
         {
+            "player": "sam haggerty",
+            "game": "tex @ det",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-05-11 15:53:05",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "1:40 PM",
+            "in": "8",
+            "result": "Bunt Groundout",
+            "evo": "29.1",
+            "la": "-13",
+            "dist": "10"
+        },
+        {
             "player": "wyatt langford",
             "game": "tex @ det",
             "hr/park": "",
@@ -3709,7 +3724,7 @@
             "team": "tex",
             "start": "1:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6972,7 +6987,7 @@
             "team": "mia",
             "start": "2:10 PM",
             "in": "5",
-            "result": "Single",
+            "result": "Field Error",
             "evo": "87.7",
             "la": "-5",
             "dist": "17"
