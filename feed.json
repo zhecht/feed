@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "34",
         "batters": "176",
-        "pitches": "1634",
+        "pitches": "1642",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "67.0",
-        "ff%fourseam fastball %": "35.5",
-        "si%sinker %": "14.0",
+        "ff%fourseam fastball %": "35.6",
+        "si%sinker %": "13.8",
         "fc%cutter %": "5.8",
-        "fs%splitter %": "1.9",
-        "ch%changeup %": "9.9",
-        "sl%slider %": "21.2",
+        "fs%splitter %": "1.8",
+        "ch%changeup %": "9.7",
+        "sl%slider %": "21.5",
         "cu%curve %": "11.6",
         "max evmax exit velocity": "110.6",
-        "hhhard hit": "113",
-        "hh%hard hit %": "37.7",
+        "hhhard hit": "114",
+        "hh%hard hit %": "38.0",
         "brlbarrels": "26",
         "brl%barrel %": "8.7",
-        "ab": "379",
+        "ab": "382",
         "avg": ".243",
-        "h": "92",
+        "h": "93",
         "1b": "59",
         "2b": "16",
         "3b": "1",
-        "hr": "16",
-        "so": "93",
+        "hr": "17",
+        "so": "95",
         "bipballs in play": "300",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-11 15:30:27.810581"
+        "updated": "2025-05-11 15:30:36.275838"
     },
     "mil @ tb": [
         {
@@ -1551,6 +1551,21 @@
     ],
     "stl @ wsh": [
         {
+            "player": "nolan arenado",
+            "game": "stl @ wsh",
+            "hr/park": "29/30",
+            "pa": "57",
+            "dt": "2025-05-11 15:30:34",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "Home Run",
+            "evo": "98.2",
+            "la": "34",
+            "dist": "385"
+        },
+        {
             "player": "brendan donovan",
             "game": "stl @ wsh",
             "hr/park": "",
@@ -1560,7 +1575,7 @@
             "team": "stl",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2393,6 +2408,21 @@
     ],
     "atl @ pit": [
         {
+            "player": "ozzie albies",
+            "game": "atl @ pit",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-05-11 15:30:34",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kebryan hayes",
             "game": "atl @ pit",
             "hr/park": "",
@@ -3169,7 +3199,7 @@
             "team": "tex",
             "start": "1:40 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3957,21 +3987,6 @@
     ],
     "cin @ hou": [
         {
-            "player": "gavin lux",
-            "game": "cin @ hou",
-            "hr/park": "",
-            "pa": "37",
-            "dt": "2025-05-11 15:30:19",
-            "img": "https://www.mlbstatic.com/team-logos/113.svg",
-            "team": "cin",
-            "start": "2:10 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "victor caratini",
             "game": "cin @ hou",
             "hr/park": "",
@@ -4524,9 +4539,9 @@
             "start": "2:10 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "68.7",
+            "evo": "",
             "la": "",
-            "dist": "35"
+            "dist": ""
         },
         {
             "player": "kyle isbel",
@@ -5055,6 +5070,21 @@
         }
     ],
     "sf @ min": [
+        {
+            "player": "heliot ramos",
+            "game": "sf @ min",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-05-11 15:30:34",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ty france",
             "game": "sf @ min",
@@ -5703,6 +5733,21 @@
     ],
     "mia @ chw": [
         {
+            "player": "joshua palacios",
+            "game": "mia @ chw",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-05-11 15:30:34",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "lenyn sosa",
             "game": "mia @ chw",
             "hr/park": "",
@@ -5712,7 +5757,7 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
