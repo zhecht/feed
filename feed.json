@@ -2,15 +2,15 @@
     "all": {
         "pitchers": "26",
         "batters": "162",
-        "pitches": "1179",
+        "pitches": "1183",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "67.0",
         "ff%fourseam fastball %": "36.6",
         "si%sinker %": "12.7",
         "fc%cutter %": "5.2",
-        "fs%splitter %": "2.0",
+        "fs%splitter %": "1.9",
         "ch%changeup %": "10.6",
-        "sl%slider %": "22.7",
+        "sl%slider %": "22.8",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "110.6",
         "hhhard hit": "75",
@@ -28,7 +28,7 @@
         "bipballs in play": "209",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-05-11 15:01:00.915058"
+        "updated": "2025-05-11 15:01:08.897985"
     },
     "mil @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "1:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1988,6 +1988,21 @@
     ],
     "atl @ pit": [
         {
+            "player": "andrew mccutchen",
+            "game": "atl @ pit",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-05-11 15:01:04",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bryan reynolds",
             "game": "atl @ pit",
             "hr/park": "",
@@ -3518,7 +3533,7 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3828,7 +3843,7 @@
         {
             "player": "brett wisely",
             "game": "sf @ min",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "28",
             "dt": "2025-05-11 15:00:35",
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
