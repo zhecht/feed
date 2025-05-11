@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "8",
-        "batters": "51",
-        "pitches": "312",
+        "batters": "52",
+        "pitches": "313",
         "max velomax pitch velocity": "97.2",
         "min velomin pitch velocity": "69.4",
-        "ff%fourseam fastball %": "45.2",
-        "si%sinker %": "7.1",
+        "ff%fourseam fastball %": "44.7",
+        "si%sinker %": "7.0",
         "fc%cutter %": "1.3",
         "fs%splitter %": "0.6",
-        "ch%changeup %": "13.5",
-        "sl%slider %": "23.7",
-        "cu%curve %": "8.7",
+        "ch%changeup %": "13.7",
+        "sl%slider %": "24.0",
+        "cu%curve %": "8.6",
         "max evmax exit velocity": "110.6",
         "hhhard hit": "24",
         "hh%hard hit %": "43.6",
         "brlbarrels": "6",
         "brl%barrel %": "10.9",
-        "ab": "74",
-        "avg": ".216",
+        "ab": "75",
+        "avg": ".213",
         "h": "16",
         "1b": "9",
         "2b": "1",
@@ -28,7 +28,7 @@
         "bipballs in play": "55",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-05-11 13:59:42.438986"
+        "updated": "2025-05-11 13:59:49.593421"
     },
     "mil @ tb": [],
     "chc @ nym": [
@@ -710,6 +710,21 @@
     ],
     "stl @ wsh": [
         {
+            "player": "josh bell",
+            "game": "stl @ wsh",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-05-11 13:59:49",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "1:35 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nathaniel lowe",
             "game": "stl @ wsh",
             "hr/park": "",
@@ -719,10 +734,10 @@
             "team": "wsh",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "76.8",
+            "la": "71",
+            "dist": "100"
         },
         {
             "player": "jordan walker",
@@ -901,10 +916,10 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "79.9",
-            "la": "31",
-            "dist": "273"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "marcell ozuna",
@@ -1046,7 +1061,7 @@
         {
             "player": "jonah heim",
             "game": "tex @ det",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "11",
             "dt": "2025-05-11 13:58:18",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
