@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "22",
-        "batters": "112",
-        "pitches": "719",
+        "batters": "113",
+        "pitches": "723",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "67.0",
-        "ff%fourseam fastball %": "39.5",
-        "si%sinker %": "10.3",
-        "fc%cutter %": "4.2",
+        "ff%fourseam fastball %": "39.6",
+        "si%sinker %": "10.2",
+        "fc%cutter %": "4.4",
         "fs%splitter %": "1.9",
-        "ch%changeup %": "11.3",
-        "sl%slider %": "22.5",
+        "ch%changeup %": "11.2",
+        "sl%slider %": "22.4",
         "cu%curve %": "10.0",
         "max evmax exit velocity": "110.6",
         "hhhard hit": "45",
-        "hh%hard hit %": "38.5",
+        "hh%hard hit %": "38.1",
         "brlbarrels": "12",
-        "brl%barrel %": "10.3",
+        "brl%barrel %": "10.2",
         "ab": "165",
         "avg": ".224",
         "h": "37",
@@ -24,11 +24,11 @@
         "2b": "6",
         "3b": "1",
         "hr": "7",
-        "so": "45",
-        "bipballs in play": "117",
+        "so": "47",
+        "bipballs in play": "118",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-05-11 14:31:43.605398"
+        "updated": "2025-05-11 14:31:51.323266"
     },
     "mil @ tb": [
         {
@@ -1433,21 +1433,6 @@
     ],
     "atl @ pit": [
         {
-            "player": "marcell ozuna",
-            "game": "atl @ pit",
-            "hr/park": "",
-            "pa": "25",
-            "dt": "2025-05-11 14:31:34",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "1:35 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "matt olson",
             "game": "atl @ pit",
             "hr/park": "",
@@ -1810,6 +1795,21 @@
     ],
     "tex @ det": [
         {
+            "player": "jace jung",
+            "game": "tex @ det",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-05-11 14:30:50",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh jung",
             "game": "tex @ det",
             "hr/park": "",
@@ -2166,7 +2166,7 @@
             "team": "cin",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2410,10 +2410,10 @@
             "team": "sf",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "68.7",
+            "la": "59",
+            "dist": "151"
         },
         {
             "player": "ty france",
@@ -2562,7 +2562,7 @@
             "team": "mia",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
