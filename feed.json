@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "8",
-        "batters": "34",
-        "pitches": "221",
+        "batters": "35",
+        "pitches": "223",
         "max velomax pitch velocity": "97.2",
         "min velomin pitch velocity": "69.4",
-        "ff%fourseam fastball %": "46.6",
+        "ff%fourseam fastball %": "46.2",
         "si%sinker %": "6.3",
-        "fc%cutter %": "0.5",
+        "fc%cutter %": "0.4",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "14.0",
-        "sl%slider %": "23.5",
-        "cu%curve %": "9.0",
+        "ch%changeup %": "13.9",
+        "sl%slider %": "23.8",
+        "cu%curve %": "9.4",
         "max evmax exit velocity": "110.5",
         "hhhard hit": "18",
         "hh%hard hit %": "46.2",
         "brlbarrels": "3",
         "brl%barrel %": "7.7",
-        "ab": "53",
-        "avg": ".170",
+        "ab": "54",
+        "avg": ".167",
         "h": "9",
         "1b": "6",
         "2b": "0",
@@ -28,7 +28,7 @@
         "bipballs in play": "39",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-05-11 13:48:29.677489"
+        "updated": "2025-05-11 13:48:36.764575"
     },
     "mil @ tb": [],
     "chc @ nym": [
@@ -742,6 +742,21 @@
     ],
     "atl @ pit": [
         {
+            "player": "bryan reynolds",
+            "game": "atl @ pit",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-05-11 13:48:34",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "1:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kebryan hayes",
             "game": "atl @ pit",
             "hr/park": "0/30",
@@ -751,7 +766,7 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "90.1",
             "la": "29",
             "dist": "314"
