@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "75",
-        "batters": "213",
-        "pitches": "2478",
+        "batters": "215",
+        "pitches": "2482",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "67.0",
-        "ff%fourseam fastball %": "33.3",
+        "ff%fourseam fastball %": "33.2",
         "si%sinker %": "15.8",
         "fc%cutter %": "5.7",
         "fs%splitter %": "1.7",
@@ -13,22 +13,22 @@
         "sl%slider %": "22.6",
         "cu%curve %": "10.9",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "179",
-        "hh%hard hit %": "38.6",
+        "hhhard hit": "180",
+        "hh%hard hit %": "38.7",
         "brlbarrels": "38",
         "brl%barrel %": "8.2",
-        "ab": "587",
-        "avg": ".242",
-        "h": "142",
-        "1b": "91",
+        "ab": "589",
+        "avg": ".243",
+        "h": "143",
+        "1b": "92",
         "2b": "28",
         "3b": "3",
         "hr": "20",
         "so": "142",
-        "bipballs in play": "464",
+        "bipballs in play": "465",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-11 16:20:56.386882"
+        "updated": "2025-05-11 16:21:06.250212"
     },
     "mil @ tb": [
         {
@@ -3032,7 +3032,7 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "60.4",
             "la": "",
             "dist": "28"
@@ -5241,10 +5241,10 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "102.1",
+            "la": "-10",
+            "dist": "13"
         },
         {
             "player": "cam smith",
@@ -9609,6 +9609,21 @@
     ],
     "bal @ laa": [
         {
+            "player": "yoan moncada",
+            "game": "bal @ laa",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-05-11 16:21:04",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "4:07 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "zach neto",
             "game": "bal @ laa",
             "hr/park": "",
@@ -9618,7 +9633,7 @@
             "team": "laa",
             "start": "4:07 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Bunt Groundout",
             "evo": "22.2",
             "la": "-4",
             "dist": "14"
@@ -9701,9 +9716,24 @@
     ],
     "lad @ ari": [
         {
-            "player": "freddie freeman",
+            "player": "will smith",
             "game": "lad @ ari",
             "hr/park": "",
+            "pa": "4",
+            "dt": "2025-05-11 16:21:04",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "freddie freeman",
+            "game": "lad @ ari",
+            "hr/park": "0/30",
             "pa": "3",
             "dt": "2025-05-11 16:19:05",
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
@@ -9750,7 +9780,7 @@
         {
             "player": "jp crawford",
             "game": "tor @ sea",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "4",
             "dt": "2025-05-11 16:20:20",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
