@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "50",
+        "pitchers": "49",
         "batters": "186",
-        "pitches": "2056",
+        "pitches": "2061",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "67.0",
         "ff%fourseam fastball %": "34.1",
-        "si%sinker %": "15.0",
-        "fc%cutter %": "5.9",
+        "si%sinker %": "14.9",
+        "fc%cutter %": "6.0",
         "fs%splitter %": "1.8",
         "ch%changeup %": "9.9",
         "sl%slider %": "21.8",
-        "cu%curve %": "11.2",
+        "cu%curve %": "11.3",
         "max evmax exit velocity": "111.2",
-        "hhhard hit": "143",
+        "hhhard hit": "144",
         "hh%hard hit %": "37.8",
         "brlbarrels": "30",
         "brl%barrel %": "7.9",
-        "ab": "482",
+        "ab": "481",
         "avg": ".237",
         "h": "114",
         "1b": "73",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "19",
         "so": "118",
-        "bipballs in play": "378",
+        "bipballs in play": "381",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-11 15:57:14.947888"
+        "updated": "2025-05-11 15:57:24.370471"
     },
     "mil @ tb": [
         {
@@ -41,10 +41,10 @@
             "team": "tb",
             "start": "1:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "51.2",
+            "la": "13",
+            "dist": "82"
         },
         {
             "player": "rhys hoskins",
@@ -1760,21 +1760,6 @@
         }
     ],
     "stl @ wsh": [
-        {
-            "player": "james wood",
-            "game": "stl @ wsh",
-            "hr/park": "",
-            "pa": "70",
-            "dt": "2025-05-11 15:56:50",
-            "img": "https://www.mlbstatic.com/team-logos/120.svg",
-            "team": "wsh",
-            "start": "1:35 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "brendan donovan",
             "game": "stl @ wsh",
@@ -4717,9 +4702,9 @@
             "start": "2:10 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "103.4",
+            "la": "8",
+            "dist": "168"
         },
         {
             "player": "isaac paredes",
@@ -6196,6 +6181,21 @@
     ],
     "sf @ min": [
         {
+            "player": "mike yastrzemski",
+            "game": "sf @ min",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-05-11 15:56:50",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brett wisely",
             "game": "sf @ min",
             "hr/park": "",
@@ -6205,10 +6205,10 @@
             "team": "sf",
             "start": "2:10 PM",
             "in": "7",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "77.0",
+            "la": "65",
+            "dist": "142"
         },
         {
             "player": "sam huff",
@@ -7032,7 +7032,7 @@
             "team": "mia",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
