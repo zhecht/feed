@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "26",
-        "batters": "162",
-        "pitches": "1197",
+        "batters": "163",
+        "pitches": "1201",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "67.0",
         "ff%fourseam fastball %": "36.7",
         "si%sinker %": "12.7",
         "fc%cutter %": "5.2",
         "fs%splitter %": "1.9",
-        "ch%changeup %": "10.6",
+        "ch%changeup %": "10.7",
         "sl%slider %": "22.6",
-        "cu%curve %": "10.1",
+        "cu%curve %": "10.0",
         "max evmax exit velocity": "110.6",
         "hhhard hit": "75",
-        "hh%hard hit %": "35.2",
+        "hh%hard hit %": "35.0",
         "brlbarrels": "19",
         "brl%barrel %": "8.9",
         "ab": "282",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "11",
         "so": "74",
-        "bipballs in play": "213",
+        "bipballs in play": "214",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-05-11 15:02:14.054251"
+        "updated": "2025-05-11 15:02:22.077468"
     },
     "mil @ tb": [
         {
@@ -41,10 +41,10 @@
             "team": "tb",
             "start": "1:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "94.4",
+            "la": "18",
+            "dist": "300"
         },
         {
             "player": "danny jansen",
@@ -2018,6 +2018,21 @@
     ],
     "atl @ pit": [
         {
+            "player": "joey bart",
+            "game": "atl @ pit",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-05-11 15:02:19",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andrew mccutchen",
             "game": "atl @ pit",
             "hr/park": "",
@@ -2027,7 +2042,7 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Sac Fly",
             "evo": "90.0",
             "la": "45",
             "dist": "285"
@@ -3237,21 +3252,6 @@
     ],
     "cin @ hou": [
         {
-            "player": "zach dezenzo",
-            "game": "cin @ hou",
-            "hr/park": "",
-            "pa": "24",
-            "dt": "2025-05-11 15:02:04",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "2:10 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "victor caratini",
             "game": "cin @ hou",
             "hr/park": "",
@@ -4352,6 +4352,21 @@
         }
     ],
     "mia @ chw": [
+        {
+            "player": "brooks baldwin",
+            "game": "mia @ chw",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-05-11 15:02:19",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kyle stowers",
             "game": "mia @ chw",
