@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "17",
-        "batters": "88",
-        "pitches": "529",
+        "batters": "89",
+        "pitches": "538",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "69.4",
-        "ff%fourseam fastball %": "41.8",
+        "ff%fourseam fastball %": "41.6",
         "si%sinker %": "9.1",
-        "fc%cutter %": "3.6",
-        "fs%splitter %": "2.5",
-        "ch%changeup %": "11.2",
-        "sl%slider %": "22.1",
-        "cu%curve %": "9.8",
+        "fc%cutter %": "3.5",
+        "fs%splitter %": "2.4",
+        "ch%changeup %": "11.0",
+        "sl%slider %": "22.7",
+        "cu%curve %": "9.7",
         "max evmax exit velocity": "110.6",
-        "hhhard hit": "36",
-        "hh%hard hit %": "41.4",
+        "hhhard hit": "37",
+        "hh%hard hit %": "42.0",
         "brlbarrels": "8",
-        "brl%barrel %": "9.2",
+        "brl%barrel %": "9.1",
         "ab": "123",
         "avg": ".220",
         "h": "27",
@@ -24,11 +24,11 @@
         "2b": "4",
         "3b": "1",
         "hr": "5",
-        "so": "31",
-        "bipballs in play": "87",
+        "so": "33",
+        "bipballs in play": "88",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-05-11 14:20:11.512288"
+        "updated": "2025-05-11 14:20:18.901094"
     },
     "mil @ tb": [],
     "chc @ nym": [
@@ -839,10 +839,10 @@
             "team": "stl",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "101.2",
+            "la": "-26",
+            "dist": "6"
         },
         {
             "player": "cj abrams",
@@ -1186,7 +1186,7 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1807,7 +1807,7 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1875,6 +1875,21 @@
     ],
     "sf @ min": [
         {
+            "player": "heliot ramos",
+            "game": "sf @ min",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-05-11 14:20:18",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "2:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "matt chapman",
             "game": "sf @ min",
             "hr/park": "",
@@ -1884,7 +1899,7 @@
             "team": "sf",
             "start": "2:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
