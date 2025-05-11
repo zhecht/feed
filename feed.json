@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "117",
         "batters": "294",
-        "pitches": "3931",
+        "pitches": "3934",
         "max velomax pitch velocity": "102.3",
         "min velomin pitch velocity": "72.2",
         "ff%fourseam fastball %": "36.6",
@@ -10,14 +10,14 @@
         "fc%cutter %": "6.5",
         "fs%splitter %": "4.0",
         "ch%changeup %": "7.4",
-        "sl%slider %": "24.5",
+        "sl%slider %": "24.6",
         "cu%curve %": "6.0",
         "max evmax exit velocity": "116.2",
         "hhhard hit": "292",
         "hh%hard hit %": "41.5",
-        "brlbarrels": "57",
-        "brl%barrel %": "8.1",
-        "ab": "918",
+        "brlbarrels": "58",
+        "brl%barrel %": "8.3",
+        "ab": "919",
         "avg": ".248",
         "h": "228",
         "1b": "145",
@@ -28,7 +28,7 @@
         "bipballs in play": "703",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-10 22:23:11.012501"
+        "updated": "2025-05-10 22:23:22.003253"
     },
     "mil @ tb": [
         {
@@ -7043,10 +7043,10 @@
             "team": "hou",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "99.1",
-            "la": "35",
-            "dist": "374"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "matt mclain",
@@ -15045,11 +15045,11 @@
     ],
     "tor @ sea": [
         {
-            "player": "daulton varsho",
+            "player": "george springer",
             "game": "tor @ sea",
             "hr/park": "",
-            "pa": "23",
-            "dt": "2025-05-10 22:21:26",
+            "pa": "24",
+            "dt": "2025-05-10 22:23:14",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "start": "9:40 PM",
@@ -15058,6 +15058,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "daulton varsho",
+            "game": "tor @ sea",
+            "hr/park": "0/30",
+            "pa": "23",
+            "dt": "2025-05-10 22:21:26",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "9:40 PM",
+            "in": "4",
+            "result": "Flyout",
+            "evo": "107.1",
+            "la": "41",
+            "dist": "367"
         },
         {
             "player": "jorge polanco",
