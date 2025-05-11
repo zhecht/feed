@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "71",
         "batters": "208",
-        "pitches": "2428",
+        "pitches": "2434",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "67.0",
         "ff%fourseam fastball %": "33.6",
-        "si%sinker %": "15.5",
+        "si%sinker %": "15.6",
         "fc%cutter %": "5.7",
         "fs%splitter %": "1.7",
         "ch%changeup %": "9.9",
-        "sl%slider %": "22.5",
+        "sl%slider %": "22.6",
         "cu%curve %": "10.9",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "177",
-        "hh%hard hit %": "39.1",
+        "hh%hard hit %": "39.0",
         "brlbarrels": "37",
-        "brl%barrel %": "8.2",
-        "ab": "574",
-        "avg": ".237",
+        "brl%barrel %": "8.1",
+        "ab": "576",
+        "avg": ".236",
         "h": "136",
         "1b": "88",
         "2b": "25",
         "3b": "3",
         "hr": "20",
-        "so": "139",
-        "bipballs in play": "453",
+        "so": "140",
+        "bipballs in play": "454",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-11 16:18:41.260849"
+        "updated": "2025-05-11 16:18:51.093169"
     },
     "mil @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "1:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "97.2",
             "la": "10",
             "dist": "197"
@@ -5172,6 +5172,21 @@
     ],
     "cin @ hou": [
         {
+            "player": "jeremy pena",
+            "game": "cin @ hou",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-05-11 16:18:49",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cam smith",
             "game": "cin @ hou",
             "hr/park": "",
@@ -5181,7 +5196,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7923,6 +7938,21 @@
     ],
     "mia @ chw": [
         {
+            "player": "agustin ramirez",
+            "game": "mia @ chw",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-05-11 16:18:49",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jesus sanchez",
             "game": "mia @ chw",
             "hr/park": "",
@@ -7932,10 +7962,10 @@
             "team": "mia",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "92.9",
+            "la": "-1",
+            "dist": "41"
         },
         {
             "player": "xavier edwards",
@@ -9562,7 +9592,7 @@
             "team": "tor",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "64.4",
             "la": "-40",
             "dist": "2"
