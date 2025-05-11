@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "24",
         "batters": "146",
-        "pitches": "981",
+        "pitches": "987",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "67.0",
-        "ff%fourseam fastball %": "37.6",
-        "si%sinker %": "11.4",
+        "ff%fourseam fastball %": "37.8",
+        "si%sinker %": "11.2",
         "fc%cutter %": "5.2",
         "fs%splitter %": "1.9",
-        "ch%changeup %": "11.1",
+        "ch%changeup %": "11.2",
         "sl%slider %": "22.8",
-        "cu%curve %": "9.7",
+        "cu%curve %": "9.6",
         "max evmax exit velocity": "110.6",
         "hhhard hit": "54",
-        "hh%hard hit %": "33.3",
+        "hh%hard hit %": "32.9",
         "brlbarrels": "14",
-        "brl%barrel %": "8.6",
+        "brl%barrel %": "8.5",
         "ab": "226",
         "avg": ".208",
         "h": "47",
@@ -24,11 +24,11 @@
         "2b": "10",
         "3b": "1",
         "hr": "8",
-        "so": "60",
-        "bipballs in play": "162",
+        "so": "61",
+        "bipballs in play": "164",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-05-11 14:46:57.659464"
+        "updated": "2025-05-11 14:47:08.361620"
     },
     "mil @ tb": [
         {
@@ -1817,10 +1817,10 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "89.2",
+            "la": "21",
+            "dist": "275"
         },
         {
             "player": "alexander canario",
@@ -2284,10 +2284,10 @@
             "team": "tex",
             "start": "1:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "82.9",
+            "la": "3",
+            "dist": "60"
         },
         {
             "player": "wyatt langford",
@@ -2757,21 +2757,6 @@
     ],
     "cin @ hou": [
         {
-            "player": "cam smith",
-            "game": "cin @ hou",
-            "hr/park": "",
-            "pa": "15",
-            "dt": "2025-05-11 14:46:36",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "2:10 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "brendan rodgers",
             "game": "cin @ hou",
             "hr/park": "",
@@ -2984,6 +2969,21 @@
     ],
     "bos @ kc": [
         {
+            "player": "ceddanne rafaela",
+            "game": "bos @ kc",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-05-11 14:47:04",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "carlos narvaez",
             "game": "bos @ kc",
             "hr/park": "",
@@ -2993,7 +2993,7 @@
             "team": "bos",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
