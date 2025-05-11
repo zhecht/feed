@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "24",
-        "batters": "151",
-        "pitches": "1025",
+        "batters": "152",
+        "pitches": "1029",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "67.0",
-        "ff%fourseam fastball %": "37.4",
-        "si%sinker %": "11.7",
-        "fc%cutter %": "5.4",
-        "fs%splitter %": "1.9",
+        "ff%fourseam fastball %": "37.2",
+        "si%sinker %": "11.8",
+        "fc%cutter %": "5.3",
+        "fs%splitter %": "1.8",
         "ch%changeup %": "10.9",
         "sl%slider %": "22.9",
-        "cu%curve %": "9.7",
+        "cu%curve %": "9.8",
         "max evmax exit velocity": "110.6",
-        "hhhard hit": "57",
-        "hh%hard hit %": "32.9",
-        "brlbarrels": "15",
-        "brl%barrel %": "8.7",
-        "ab": "237",
-        "avg": ".198",
+        "hhhard hit": "58",
+        "hh%hard hit %": "33.3",
+        "brlbarrels": "14",
+        "brl%barrel %": "8.0",
+        "ab": "238",
+        "avg": ".197",
         "h": "47",
         "1b": "28",
         "2b": "10",
         "3b": "1",
         "hr": "8",
-        "so": "63",
-        "bipballs in play": "173",
+        "so": "64",
+        "bipballs in play": "174",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-05-11 14:49:41.673738"
+        "updated": "2025-05-11 14:49:50.059927"
     },
     "mil @ tb": [
         {
@@ -1260,10 +1260,10 @@
             "team": "stl",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "108.1",
+            "la": "-17",
+            "dist": "7"
         },
         {
             "player": "masyn winn",
@@ -1862,10 +1862,10 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "104.8",
+            "la": "-19",
+            "dist": "8"
         },
         {
             "player": "eli white",
@@ -2871,7 +2871,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3089,11 +3089,11 @@
     ],
     "bos @ kc": [
         {
-            "player": "jarren duran",
+            "player": "ceddanne rafaela",
             "game": "bos @ kc",
             "hr/park": "",
-            "pa": "16",
-            "dt": "2025-05-11 14:49:36",
+            "pa": "15",
+            "dt": "2025-05-11 14:47:04",
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
             "team": "bos",
             "start": "2:10 PM",
@@ -3102,21 +3102,6 @@
             "evo": "",
             "la": "",
             "dist": ""
-        },
-        {
-            "player": "ceddanne rafaela",
-            "game": "bos @ kc",
-            "hr/park": "0/30",
-            "pa": "15",
-            "dt": "2025-05-11 14:47:04",
-            "img": "https://www.mlbstatic.com/team-logos/111.svg",
-            "team": "bos",
-            "start": "2:10 PM",
-            "in": "3",
-            "result": "Flyout",
-            "evo": "105.8",
-            "la": "24",
-            "dist": "389"
         },
         {
             "player": "carlos narvaez",
@@ -3330,6 +3315,21 @@
         }
     ],
     "sf @ min": [
+        {
+            "player": "harrison bader",
+            "game": "sf @ min",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-05-11 14:49:50",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kody clemens",
             "game": "sf @ min",
@@ -3632,6 +3632,21 @@
         }
     ],
     "mia @ chw": [
+        {
+            "player": "jesus sanchez",
+            "game": "mia @ chw",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-05-11 14:49:50",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "xavier edwards",
             "game": "mia @ chw",
