@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "41",
         "batters": "183",
-        "pitches": "1879",
+        "pitches": "1883",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "67.0",
         "ff%fourseam fastball %": "34.4",
-        "si%sinker %": "14.6",
+        "si%sinker %": "14.7",
         "fc%cutter %": "6.1",
         "fs%splitter %": "2.0",
-        "ch%changeup %": "10.1",
+        "ch%changeup %": "10.0",
         "sl%slider %": "21.3",
-        "cu%curve %": "11.3",
+        "cu%curve %": "11.4",
         "max evmax exit velocity": "110.6",
         "hhhard hit": "133",
-        "hh%hard hit %": "37.9",
+        "hh%hard hit %": "37.8",
         "brlbarrels": "29",
-        "brl%barrel %": "8.3",
-        "ab": "444",
-        "avg": ".236",
-        "h": "105",
-        "1b": "68",
+        "brl%barrel %": "8.2",
+        "ab": "446",
+        "avg": ".238",
+        "h": "106",
+        "1b": "69",
         "2b": "18",
         "3b": "1",
         "hr": "18",
         "so": "110",
-        "bipballs in play": "351",
+        "bipballs in play": "352",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-11 15:45:31.331850"
+        "updated": "2025-05-11 15:45:40.664558"
     },
     "mil @ tb": [
         {
@@ -2663,6 +2663,21 @@
     ],
     "atl @ pit": [
         {
+            "player": "nick allen",
+            "game": "atl @ pit",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-05-11 15:45:34",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "Single",
+            "evo": "68.4",
+            "la": "14",
+            "dist": "134"
+        },
+        {
             "player": "joey bart",
             "game": "atl @ pit",
             "hr/park": "0/30",
@@ -3519,6 +3534,21 @@
         }
     ],
     "tex @ det": [
+        {
+            "player": "jonah heim",
+            "game": "tex @ det",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-05-11 15:45:34",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "1:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "josh jung",
             "game": "tex @ det",
@@ -7184,7 +7214,7 @@
             "team": "sd",
             "start": "3:10 PM",
             "in": "3",
-            "result": "Groundout",
+            "result": "Bunt Groundout",
             "evo": "66.7",
             "la": "-54",
             "dist": "1"
