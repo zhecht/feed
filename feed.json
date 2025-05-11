@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "34",
         "batters": "179",
-        "pitches": "1720",
+        "pitches": "1721",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "67.0",
         "ff%fourseam fastball %": "35.1",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "38.8",
         "brlbarrels": "28",
         "brl%barrel %": "8.8",
-        "ab": "400",
-        "avg": ".245",
-        "h": "98",
-        "1b": "62",
+        "ab": "402",
+        "avg": ".246",
+        "h": "99",
+        "1b": "63",
         "2b": "17",
         "3b": "1",
         "hr": "18",
-        "so": "99",
+        "so": "100",
         "bipballs in play": "320",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-11 15:35:03.492656"
+        "updated": "2025-05-11 15:35:11.980814"
     },
     "mil @ tb": [
         {
@@ -42,9 +42,9 @@
             "start": "1:40 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "96.2",
-            "la": "6",
-            "dist": "147"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "caleb durbin",
@@ -1595,6 +1595,36 @@
         }
     ],
     "stl @ wsh": [
+        {
+            "player": "jordan walker",
+            "game": "stl @ wsh",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-05-11 15:35:06",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "yohel pozo",
+            "game": "stl @ wsh",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-05-11 15:35:06",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "Single",
+            "evo": "96.6",
+            "la": "-3",
+            "dist": "30"
+        },
         {
             "player": "ivan herrera",
             "game": "stl @ wsh",
@@ -5305,7 +5335,7 @@
             "team": "sf",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6532,7 +6562,7 @@
         {
             "player": "elias diaz",
             "game": "sd @ col",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "15",
             "dt": "2025-05-11 15:34:06",
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
