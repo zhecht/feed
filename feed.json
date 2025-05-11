@@ -2,35 +2,50 @@
     "all": {
         "pitchers": "52",
         "batters": "187",
-        "pitches": "2089",
+        "pitches": "2097",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "67.0",
-        "ff%fourseam fastball %": "34.1",
-        "si%sinker %": "15.1",
+        "ff%fourseam fastball %": "34.0",
+        "si%sinker %": "15.2",
         "fc%cutter %": "5.9",
-        "fs%splitter %": "1.8",
+        "fs%splitter %": "1.9",
         "ch%changeup %": "9.9",
         "sl%slider %": "21.8",
-        "cu%curve %": "11.2",
+        "cu%curve %": "11.3",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "146",
-        "hh%hard hit %": "37.7",
+        "hh%hard hit %": "37.2",
         "brlbarrels": "30",
-        "brl%barrel %": "7.8",
-        "ab": "489",
-        "avg": ".239",
+        "brl%barrel %": "7.7",
+        "ab": "491",
+        "avg": ".238",
         "h": "117",
         "1b": "75",
         "2b": "21",
         "3b": "2",
         "hr": "19",
         "so": "119",
-        "bipballs in play": "387",
+        "bipballs in play": "392",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-11 15:59:04.082937"
+        "updated": "2025-05-11 15:59:13.217012"
     },
     "mil @ tb": [
+        {
+            "player": "taylor walls",
+            "game": "mil @ tb",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-05-11 15:59:07",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "1:40 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "94.4",
+            "la": "36",
+            "dist": "325"
+        },
         {
             "player": "travis jankowski",
             "game": "mil @ tb",
@@ -1776,6 +1791,21 @@
     ],
     "stl @ wsh": [
         {
+            "player": "josh bell",
+            "game": "stl @ wsh",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-05-11 15:59:07",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nathaniel lowe",
             "game": "stl @ wsh",
             "hr/park": "",
@@ -1785,7 +1815,7 @@
             "team": "wsh",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "81.4",
             "la": "-4",
             "dist": "28"
@@ -3799,10 +3829,10 @@
             "team": "det",
             "start": "1:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "86.3",
+            "la": "-11",
+            "dist": "10"
         },
         {
             "player": "dillon dingler",
@@ -4776,10 +4806,10 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "83.6",
+            "la": "27",
+            "dist": "299"
         },
         {
             "player": "christian walker",
@@ -5533,6 +5563,21 @@
         }
     ],
     "bos @ kc": [
+        {
+            "player": "ceddanne rafaela",
+            "game": "bos @ kc",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-05-11 15:59:07",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "Sac Bunt",
+            "evo": "38.8",
+            "la": "-64",
+            "dist": "2"
+        },
         {
             "player": "carlos narvaez",
             "game": "bos @ kc",
@@ -7137,10 +7182,10 @@
             "team": "mia",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "77.8",
+            "la": "10",
+            "dist": "133"
         },
         {
             "player": "matt mervis",
