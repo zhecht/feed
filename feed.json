@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "87",
+        "pitchers": "88",
         "batters": "262",
-        "pitches": "2904",
+        "pitches": "2911",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "67.0",
-        "ff%fourseam fastball %": "32.5",
-        "si%sinker %": "16.5",
+        "ff%fourseam fastball %": "32.4",
+        "si%sinker %": "16.6",
         "fc%cutter %": "6.1",
         "fs%splitter %": "1.9",
         "ch%changeup %": "10.8",
@@ -14,21 +14,21 @@
         "cu%curve %": "10.5",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "208",
-        "hh%hard hit %": "37.6",
+        "hh%hard hit %": "37.5",
         "brlbarrels": "39",
-        "brl%barrel %": "7.1",
-        "ab": "689",
-        "avg": ".241",
+        "brl%barrel %": "7.0",
+        "ab": "692",
+        "avg": ".240",
         "h": "166",
         "1b": "113",
         "2b": "30",
         "3b": "3",
         "hr": "20",
         "so": "161",
-        "bipballs in play": "553",
+        "bipballs in play": "554",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-11 16:44:40.901394"
+        "updated": "2025-05-11 16:44:51.499596"
     },
     "mil @ tb": [
         {
@@ -5412,6 +5412,21 @@
     ],
     "cin @ hou": [
         {
+            "player": "elly de la cruz",
+            "game": "cin @ hou",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-05-11 16:44:49",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "2:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "matt mclain",
             "game": "cin @ hou",
             "hr/park": "",
@@ -5421,7 +5436,7 @@
             "team": "cin",
             "start": "2:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8598,6 +8613,36 @@
     ],
     "mia @ chw": [
         {
+            "player": "javier sanoja",
+            "game": "mia @ chw",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-05-11 16:44:49",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "2:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "nick fortes",
+            "game": "mia @ chw",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-05-11 16:44:04",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "2:10 PM",
+            "in": "9",
+            "result": "Lineout",
+            "evo": "87.4",
+            "la": "26",
+            "dist": "295"
+        },
+        {
             "player": "joshua palacios",
             "game": "mia @ chw",
             "hr/park": "",
@@ -10402,6 +10447,21 @@
     ],
     "nyy @ ath": [
         {
+            "player": "austin wells",
+            "game": "nyy @ ath",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-05-11 16:44:49",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "anthony volpe",
             "game": "nyy @ ath",
             "hr/park": "",
@@ -10411,7 +10471,7 @@
             "team": "nyy",
             "start": "4:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "103.1",
             "la": "15",
             "dist": "282"
