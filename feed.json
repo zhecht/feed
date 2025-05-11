@@ -1,36 +1,51 @@
 {
     "all": {
         "pitchers": "34",
-        "batters": "179",
-        "pitches": "1721",
+        "batters": "178",
+        "pitches": "1727",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "67.0",
-        "ff%fourseam fastball %": "35.1",
+        "ff%fourseam fastball %": "35.0",
         "si%sinker %": "14.4",
         "fc%cutter %": "5.8",
         "fs%splitter %": "1.9",
         "ch%changeup %": "9.8",
         "sl%slider %": "21.6",
-        "cu%curve %": "11.3",
+        "cu%curve %": "11.2",
         "max evmax exit velocity": "110.6",
-        "hhhard hit": "124",
-        "hh%hard hit %": "38.8",
+        "hhhard hit": "125",
+        "hh%hard hit %": "38.9",
         "brlbarrels": "28",
-        "brl%barrel %": "8.8",
-        "ab": "402",
+        "brl%barrel %": "8.7",
+        "ab": "403",
         "avg": ".246",
         "h": "99",
         "1b": "63",
         "2b": "17",
         "3b": "1",
         "hr": "18",
-        "so": "100",
-        "bipballs in play": "320",
+        "so": "101",
+        "bipballs in play": "321",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-11 15:35:11.980814"
+        "updated": "2025-05-11 15:35:20.760381"
     },
     "mil @ tb": [
+        {
+            "player": "jackson chourio",
+            "game": "mil @ tb",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-05-11 15:35:19",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "1:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "sal frelick",
             "game": "mil @ tb",
@@ -41,10 +56,10 @@
             "team": "mil",
             "start": "1:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "96.2",
+            "la": "6",
+            "dist": "147"
         },
         {
             "player": "caleb durbin",
@@ -4739,6 +4754,21 @@
     ],
     "bos @ kc": [
         {
+            "player": "wilyer abreu",
+            "game": "bos @ kc",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-05-11 15:35:19",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "75.9",
+            "la": "-32",
+            "dist": "4"
+        },
+        {
             "player": "alex bregman",
             "game": "bos @ kc",
             "hr/park": "",
@@ -4748,7 +4778,7 @@
             "team": "bos",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4808,7 +4838,7 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "5",
-            "result": "Double Play",
+            "result": "GIDP",
             "evo": "84.4",
             "la": "",
             "dist": "50"
@@ -6559,21 +6589,6 @@
         }
     ],
     "sd @ col": [
-        {
-            "player": "elias diaz",
-            "game": "sd @ col",
-            "hr/park": "0/30",
-            "pa": "15",
-            "dt": "2025-05-11 15:34:06",
-            "img": "https://www.mlbstatic.com/team-logos/135.svg",
-            "team": "sd",
-            "start": "3:10 PM",
-            "in": "2",
-            "result": "Flyout",
-            "evo": "90.3",
-            "la": "37",
-            "dist": "315"
-        },
         {
             "player": "jason heyward",
             "game": "sd @ col",
