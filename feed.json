@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "9",
-        "batters": "61",
-        "pitches": "401",
+        "pitchers": "10",
+        "batters": "62",
+        "pitches": "402",
         "max velomax pitch velocity": "97.5",
         "min velomin pitch velocity": "69.4",
-        "ff%fourseam fastball %": "42.1",
+        "ff%fourseam fastball %": "42.3",
         "si%sinker %": "8.7",
         "fc%cutter %": "3.0",
         "fs%splitter %": "1.2",
-        "ch%changeup %": "13.0",
-        "sl%slider %": "23.7",
+        "ch%changeup %": "12.9",
+        "sl%slider %": "23.6",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "110.6",
         "hhhard hit": "27",
         "hh%hard hit %": "39.7",
         "brlbarrels": "7",
         "brl%barrel %": "10.3",
-        "ab": "91",
-        "avg": ".220",
+        "ab": "92",
+        "avg": ".217",
         "h": "20",
         "1b": "11",
         "2b": "3",
@@ -28,7 +28,7 @@
         "bipballs in play": "68",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-05-11 14:11:46.004996"
+        "updated": "2025-05-11 14:11:53.347169"
     },
     "mil @ tb": [],
     "chc @ nym": [
@@ -794,7 +794,7 @@
             "team": "stl",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Caught Stealing 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1509,7 +1509,23 @@
             "dist": "40"
         }
     ],
-    "cin @ hou": [],
+    "cin @ hou": [
+        {
+            "player": "tj friedl",
+            "game": "cin @ hou",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-11 14:11:49",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "2:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "bos @ kc": [],
     "sf @ min": [],
     "mia @ chw": [],
