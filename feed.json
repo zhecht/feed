@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "67",
         "batters": "198",
-        "pitches": "2334",
+        "pitches": "2342",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "67.0",
-        "ff%fourseam fastball %": "33.7",
+        "ff%fourseam fastball %": "33.8",
         "si%sinker %": "15.3",
-        "fc%cutter %": "5.7",
+        "fc%cutter %": "5.6",
         "fs%splitter %": "1.7",
         "ch%changeup %": "9.8",
         "sl%slider %": "22.5",
         "cu%curve %": "11.2",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "166",
-        "hh%hard hit %": "38.2",
-        "brlbarrels": "36",
-        "brl%barrel %": "8.3",
-        "ab": "550",
+        "hhhard hit": "167",
+        "hh%hard hit %": "38.3",
+        "brlbarrels": "37",
+        "brl%barrel %": "8.5",
+        "ab": "552",
         "avg": ".236",
         "h": "130",
         "1b": "83",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "20",
         "so": "135",
-        "bipballs in play": "435",
+        "bipballs in play": "436",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-11 16:14:14.074505"
+        "updated": "2025-05-11 16:14:23.587031"
     },
     "mil @ tb": [
         {
@@ -2947,6 +2947,36 @@
         }
     ],
     "atl @ pit": [
+        {
+            "player": "nick allen",
+            "game": "atl @ pit",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-05-11 16:14:20",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "michael harris",
+            "game": "atl @ pit",
+            "hr/park": "4/30",
+            "pa": "70",
+            "dt": "2025-05-11 16:13:34",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "Flyout",
+            "evo": "99.8",
+            "la": "29",
+            "dist": "347"
+        },
         {
             "player": "eli white",
             "game": "atl @ pit",
@@ -5918,7 +5948,7 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6776,9 +6806,9 @@
             "start": "2:10 PM",
             "in": "8",
             "result": "In Progress",
-            "evo": "103.2",
-            "la": "-8",
-            "dist": "17"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "matt chapman",
@@ -8555,6 +8585,21 @@
     ],
     "sd @ col": [
         {
+            "player": "hunter goodman",
+            "game": "sd @ col",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-05-11 16:14:20",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "3:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan mcmahon",
             "game": "sd @ col",
             "hr/park": "",
@@ -8564,7 +8609,7 @@
             "team": "col",
             "start": "3:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9084,7 +9129,7 @@
         {
             "player": "jacob wilson",
             "game": "nyy @ ath",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "4",
             "dt": "2025-05-11 16:14:04",
             "img": "https://www.mlbstatic.com/team-logos/133.svg",
@@ -9201,10 +9246,10 @@
             "team": "tor",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "109.6",
+            "la": "-9",
+            "dist": "13"
         }
     ],
     "phi @ cle": []
