@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "8",
-        "batters": "53",
-        "pitches": "235",
+        "batters": "54",
+        "pitches": "236",
         "max velomax pitch velocity": "98.5",
         "min velomin pitch velocity": "77.4",
-        "ff%fourseam fastball %": "24.7",
-        "si%sinker %": "25.1",
+        "ff%fourseam fastball %": "24.6",
+        "si%sinker %": "25.4",
         "fc%cutter %": "3.0",
         "fs%splitter %": "2.1",
-        "ch%changeup %": "14.5",
-        "sl%slider %": "23.0",
-        "cu%curve %": "7.7",
+        "ch%changeup %": "14.4",
+        "sl%slider %": "23.3",
+        "cu%curve %": "7.2",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "18",
-        "hh%hard hit %": "36.7",
+        "hh%hard hit %": "36.0",
         "brlbarrels": "6",
-        "brl%barrel %": "12.2",
-        "ab": "60",
-        "avg": ".183",
+        "brl%barrel %": "12.0",
+        "ab": "62",
+        "avg": ".177",
         "h": "11",
         "1b": "7",
         "2b": "3",
         "3b": "0",
         "hr": "1",
         "so": "11",
-        "bipballs in play": "49",
+        "bipballs in play": "50",
         "liveGames": 4,
         "totGames": 11,
-        "updated": "2025-05-12 19:13:39.432319"
+        "updated": "2025-05-12 19:13:46.682714"
     },
     "mil @ cle": [
         {
@@ -483,6 +483,21 @@
         }
     ],
     "bos @ det": [
+        {
+            "player": "jarren duran",
+            "game": "bos @ det",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-05-12 19:13:45",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "Forceout",
+            "evo": "79.4",
+            "la": "3",
+            "dist": "64"
+        },
         {
             "player": "ceddanne rafaela",
             "game": "bos @ det",
@@ -983,6 +998,21 @@
     ],
     "pit @ nym": [
         {
+            "player": "andrew mccutchen",
+            "game": "pit @ nym",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-05-12 19:13:45",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bryan reynolds",
             "game": "pit @ nym",
             "hr/park": "",
@@ -992,7 +1022,7 @@
             "team": "pit",
             "start": "7:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "86.2",
             "la": "-28",
             "dist": "3"
