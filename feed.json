@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "1",
         "batters": "1",
-        "pitches": "2",
+        "pitches": "3",
         "max velomax pitch velocity": "90.9",
-        "min velomin pitch velocity": "90.3",
+        "min velomin pitch velocity": "82.8",
         "ff%fourseam fastball %": "0.0",
-        "si%sinker %": "100.0",
-        "fc%cutter %": "0.0",
+        "si%sinker %": "66.7",
+        "fc%cutter %": "33.3",
         "fs%splitter %": "0.0",
         "ch%changeup %": "0.0",
         "sl%slider %": "0.0",
         "cu%curve %": "0.0",
-        "max evmax exit velocity": "",
-        "hhhard hit": "",
-        "hh%hard hit %": "",
-        "brlbarrels": "",
-        "brl%barrel %": "",
+        "max evmax exit velocity": "88.5",
+        "hhhard hit": "0",
+        "hh%hard hit %": "0.0",
+        "brlbarrels": "0",
+        "brl%barrel %": "0.0",
         "ab": "1",
         "avg": ".000",
         "h": "0",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "0",
         "so": "0",
-        "bipballs in play": "0",
+        "bipballs in play": "1",
         "liveGames": 1,
         "totGames": 11,
-        "updated": "2025-05-12 18:11:53.441826"
+        "updated": "2025-05-12 18:12:00.527662"
     },
     "mil @ cle": [
         {
@@ -41,10 +41,10 @@
             "team": "mil",
             "start": "6:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "88.5",
+            "la": "-6",
+            "dist": "26"
         }
     ],
     "bos @ det": [],
