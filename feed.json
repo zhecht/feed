@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "7",
-        "batters": "40",
-        "pitches": "176",
+        "batters": "41",
+        "pitches": "177",
         "max velomax pitch velocity": "98.5",
         "min velomin pitch velocity": "77.4",
-        "ff%fourseam fastball %": "27.3",
-        "si%sinker %": "25.6",
+        "ff%fourseam fastball %": "27.1",
+        "si%sinker %": "25.4",
         "fc%cutter %": "2.8",
         "fs%splitter %": "2.8",
-        "ch%changeup %": "12.5",
-        "sl%slider %": "21.6",
-        "cu%curve %": "7.4",
+        "ch%changeup %": "12.4",
+        "sl%slider %": "22.0",
+        "cu%curve %": "7.3",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "13",
         "hh%hard hit %": "36.1",
         "brlbarrels": "4",
         "brl%barrel %": "11.1",
-        "ab": "43",
-        "avg": ".163",
+        "ab": "44",
+        "avg": ".159",
         "h": "7",
         "1b": "4",
         "2b": "2",
@@ -28,7 +28,7 @@
         "bipballs in play": "36",
         "liveGames": 3,
         "totGames": 11,
-        "updated": "2025-05-12 19:03:43.281390"
+        "updated": "2025-05-12 19:03:50.466423"
     },
     "mil @ cle": [
         {
@@ -409,6 +409,21 @@
     ],
     "bos @ det": [
         {
+            "player": "connor wong",
+            "game": "bos @ det",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-05-12 19:03:45",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "6:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "abraham toro",
             "game": "bos @ det",
             "hr/park": "",
@@ -418,7 +433,7 @@
             "team": "bos",
             "start": "6:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "42.3",
             "la": "22",
             "dist": "88"
@@ -615,7 +630,7 @@
             "team": "stl",
             "start": "6:45 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
