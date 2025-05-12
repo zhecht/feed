@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "12",
         "batters": "76",
-        "pitches": "431",
+        "pitches": "433",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "24.8",
-        "si%sinker %": "23.7",
+        "ff%fourseam fastball %": "24.9",
+        "si%sinker %": "23.8",
         "fc%cutter %": "2.8",
-        "fs%splitter %": "2.6",
+        "fs%splitter %": "2.5",
         "ch%changeup %": "13.9",
-        "sl%slider %": "22.0",
+        "sl%slider %": "21.9",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "38",
-        "hh%hard hit %": "46.3",
+        "hh%hard hit %": "45.8",
         "brlbarrels": "9",
-        "brl%barrel %": "11.0",
+        "brl%barrel %": "10.8",
         "ab": "100",
         "avg": ".220",
         "h": "22",
@@ -24,11 +24,11 @@
         "2b": "6",
         "3b": "0",
         "hr": "2",
-        "so": "19",
-        "bipballs in play": "82",
+        "so": "20",
+        "bipballs in play": "83",
         "liveGames": 5,
         "totGames": 11,
-        "updated": "2025-05-12 19:35:08.895078"
+        "updated": "2025-05-12 19:35:16.278075"
     },
     "mil @ cle": [
         {
@@ -649,6 +649,21 @@
     ],
     "bos @ det": [
         {
+            "player": "dillon dingler",
+            "game": "bos @ det",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-05-12 19:35:16",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "zach mckinstry",
             "game": "bos @ det",
             "hr/park": "",
@@ -1088,7 +1103,7 @@
         {
             "player": "willson contreras",
             "game": "stl @ phi",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "26",
             "dt": "2025-05-12 19:33:30",
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
@@ -1487,7 +1502,7 @@
             "team": "pit",
             "start": "7:10 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
