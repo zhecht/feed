@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "15",
         "batters": "96",
-        "pitches": "607",
+        "pitches": "611",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "72.5",
         "ff%fourseam fastball %": "24.9",
         "si%sinker %": "21.9",
         "fc%cutter %": "4.4",
-        "fs%splitter %": "3.0",
-        "ch%changeup %": "13.8",
-        "sl%slider %": "20.9",
-        "cu%curve %": "10.9",
+        "fs%splitter %": "2.9",
+        "ch%changeup %": "13.9",
+        "sl%slider %": "20.8",
+        "cu%curve %": "11.0",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "48",
-        "hh%hard hit %": "43.2",
+        "hh%hard hit %": "42.5",
         "brlbarrels": "10",
-        "brl%barrel %": "9.0",
-        "ab": "139",
-        "avg": ".216",
+        "brl%barrel %": "8.8",
+        "ab": "140",
+        "avg": ".214",
         "h": "30",
         "1b": "20",
         "2b": "7",
         "3b": "0",
         "hr": "3",
-        "so": "27",
-        "bipballs in play": "111",
+        "so": "28",
+        "bipballs in play": "113",
         "liveGames": 6,
         "totGames": 11,
-        "updated": "2025-05-12 19:51:23.076137"
+        "updated": "2025-05-12 19:51:30.592331"
     },
     "mil @ cle": [
         {
@@ -778,7 +778,7 @@
             "team": "bos",
             "start": "6:40 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1350,10 +1350,10 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "60.1",
+            "la": "-28",
+            "dist": "6"
         },
         {
             "player": "jt realmuto",
@@ -1822,6 +1822,21 @@
         }
     ],
     "pit @ nym": [
+        {
+            "player": "andrew mccutchen",
+            "game": "pit @ nym",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-05-12 19:51:30",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "80.0",
+            "la": "43",
+            "dist": "256"
+        },
         {
             "player": "bryan reynolds",
             "game": "pit @ nym",
