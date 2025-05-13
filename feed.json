@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "59",
-        "batters": "188",
-        "pitches": "2189",
+        "batters": "189",
+        "pitches": "2195",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.7",
         "ff%fourseam fastball %": "31.6",
         "si%sinker %": "14.9",
         "fc%cutter %": "7.0",
-        "fs%splitter %": "4.4",
-        "ch%changeup %": "9.9",
+        "fs%splitter %": "4.5",
+        "ch%changeup %": "9.8",
         "sl%slider %": "22.8",
         "cu%curve %": "9.4",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "173",
-        "hh%hard hit %": "42.7",
+        "hh%hard hit %": "42.6",
         "brlbarrels": "38",
         "brl%barrel %": "9.4",
         "ab": "517",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "15",
         "so": "117",
-        "bipballs in play": "405",
+        "bipballs in play": "406",
         "liveGames": 11,
         "totGames": 11,
-        "updated": "2025-05-12 22:00:15.648230"
+        "updated": "2025-05-12 22:00:24.573627"
     },
     "mil @ cle": [
         {
@@ -3502,6 +3502,21 @@
         }
     ],
     "pit @ nym": [
+        {
+            "player": "francisco lindor",
+            "game": "pit @ nym",
+            "hr/park": "",
+            "pa": "75",
+            "dt": "2025-05-12 22:00:18",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "Field Error",
+            "evo": "93.3",
+            "la": "-19",
+            "dist": "8"
+        },
         {
             "player": "luisangel acuna",
             "game": "pit @ nym",
@@ -8313,6 +8328,21 @@
     ],
     "laa @ sd": [
         {
+            "player": "taylor ward",
+            "game": "laa @ sd",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-05-12 21:59:32",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jorge soler",
             "game": "laa @ sd",
             "hr/park": "",
@@ -8322,7 +8352,7 @@
             "team": "laa",
             "start": "9:40 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8459,7 +8489,7 @@
             "team": "nyy",
             "start": "9:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
