@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "25",
         "batters": "143",
-        "pitches": "1304",
+        "pitches": "1306",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.7",
         "ff%fourseam fastball %": "31.5",
-        "si%sinker %": "16.3",
+        "si%sinker %": "16.4",
         "fc%cutter %": "7.2",
         "fs%splitter %": "4.3",
         "ch%changeup %": "10.8",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "47.1",
         "brlbarrels": "24",
         "brl%barrel %": "9.8",
-        "ab": "308",
-        "avg": ".253",
-        "h": "78",
-        "1b": "54",
+        "ab": "309",
+        "avg": ".249",
+        "h": "77",
+        "1b": "53",
         "2b": "14",
         "3b": "1",
         "hr": "9",
@@ -28,7 +28,7 @@
         "bipballs in play": "244",
         "liveGames": 8,
         "totGames": 11,
-        "updated": "2025-05-12 20:41:59.398642"
+        "updated": "2025-05-12 20:42:07.551071"
     },
     "mil @ cle": [
         {
@@ -41,7 +41,7 @@
             "team": "cle",
             "start": "6:10 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2890,7 +2890,7 @@
         {
             "player": "alexander canario",
             "game": "pit @ nym",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "46",
             "dt": "2025-05-12 20:40:48",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
@@ -3582,7 +3582,7 @@
         {
             "player": "luis garcia",
             "game": "wsh @ atl",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "50",
             "dt": "2025-05-12 20:41:45",
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
@@ -4332,6 +4332,21 @@
     ],
     "mia @ chc": [
         {
+            "player": "carson kelly",
+            "game": "mia @ chc",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-05-12 20:42:02",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael busch",
             "game": "mia @ chc",
             "hr/park": "",
@@ -4975,7 +4990,7 @@
             "team": "kc",
             "start": "8:10 PM",
             "in": "2",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "92.3",
             "la": "2",
             "dist": "58"
