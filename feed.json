@@ -2,12 +2,12 @@
     "all": {
         "pitchers": "64",
         "batters": "219",
-        "pitches": "2446",
+        "pitches": "2447",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.7",
         "ff%fourseam fastball %": "31.4",
         "si%sinker %": "15.1",
-        "fc%cutter %": "7.0",
+        "fc%cutter %": "6.9",
         "fs%splitter %": "4.1",
         "ch%changeup %": "10.1",
         "sl%slider %": "22.9",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "41.0",
         "brlbarrels": "41",
         "brl%barrel %": "9.0",
-        "ab": "580",
+        "ab": "581",
         "avg": ".236",
         "h": "137",
         "1b": "94",
@@ -28,7 +28,7 @@
         "bipballs in play": "458",
         "liveGames": 11,
         "totGames": 11,
-        "updated": "2025-05-12 22:27:29.738105"
+        "updated": "2025-05-12 22:27:39.034377"
     },
     "mil @ cle": [
         {
@@ -7743,7 +7743,7 @@
         {
             "player": "bobby witt",
             "game": "kc @ hou",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "69",
             "dt": "2025-05-12 22:25:47",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
@@ -8778,6 +8778,21 @@
     ],
     "laa @ sd": [
         {
+            "player": "manny machado",
+            "game": "laa @ sd",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-05-12 22:27:32",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis arraez",
             "game": "laa @ sd",
             "hr/park": "",
@@ -9466,7 +9481,7 @@
             "team": "sf",
             "start": "9:45 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "96.4",
             "la": "-5",
             "dist": "26"
