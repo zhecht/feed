@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "25",
         "batters": "143",
-        "pitches": "1300",
+        "pitches": "1304",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.7",
         "ff%fourseam fastball %": "31.5",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.2",
         "fs%splitter %": "4.3",
         "ch%changeup %": "10.8",
-        "sl%slider %": "18.6",
+        "sl%slider %": "18.7",
         "cu%curve %": "11.2",
         "max evmax exit velocity": "112.5",
-        "hhhard hit": "114",
+        "hhhard hit": "115",
         "hh%hard hit %": "47.1",
-        "brlbarrels": "23",
-        "brl%barrel %": "9.5",
-        "ab": "307",
-        "avg": ".248",
-        "h": "76",
-        "1b": "53",
-        "2b": "13",
+        "brlbarrels": "24",
+        "brl%barrel %": "9.8",
+        "ab": "308",
+        "avg": ".253",
+        "h": "78",
+        "1b": "54",
+        "2b": "14",
         "3b": "1",
         "hr": "9",
         "so": "66",
-        "bipballs in play": "242",
+        "bipballs in play": "244",
         "liveGames": 8,
         "totGames": 11,
-        "updated": "2025-05-12 20:41:42.753781"
+        "updated": "2025-05-12 20:41:51.200578"
     },
     "mil @ cle": [
         {
@@ -41,7 +41,7 @@
             "team": "cle",
             "start": "6:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3580,6 +3580,21 @@
     ],
     "wsh @ atl": [
         {
+            "player": "luis garcia",
+            "game": "wsh @ atl",
+            "hr/park": "0/30",
+            "pa": "50",
+            "dt": "2025-05-12 20:41:45",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "7:15 PM",
+            "in": "7",
+            "result": "Double",
+            "evo": "107.8",
+            "la": "19",
+            "dist": "377"
+        },
+        {
             "player": "keibert ruiz",
             "game": "wsh @ atl",
             "hr/park": "",
@@ -4326,7 +4341,7 @@
             "team": "chc",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "90.9",
             "la": "51",
             "dist": "252"
@@ -4960,10 +4975,10 @@
             "team": "kc",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "92.3",
+            "la": "2",
+            "dist": "58"
         },
         {
             "player": "bobby witt",
