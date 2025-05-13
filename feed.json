@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "18",
-        "batters": "110",
-        "pitches": "865",
+        "batters": "111",
+        "pitches": "874",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "27.4",
-        "si%sinker %": "19.9",
+        "ff%fourseam fastball %": "27.8",
+        "si%sinker %": "19.8",
         "fc%cutter %": "6.4",
-        "fs%splitter %": "3.4",
-        "ch%changeup %": "12.3",
-        "sl%slider %": "19.4",
-        "cu%curve %": "11.3",
+        "fs%splitter %": "3.3",
+        "ch%changeup %": "12.1",
+        "sl%slider %": "19.1",
+        "cu%curve %": "11.4",
         "max evmax exit velocity": "112.5",
-        "hhhard hit": "72",
+        "hhhard hit": "73",
         "hh%hard hit %": "44.2",
-        "brlbarrels": "14",
-        "brl%barrel %": "8.6",
-        "ab": "207",
-        "avg": ".227",
+        "brlbarrels": "15",
+        "brl%barrel %": "9.1",
+        "ab": "209",
+        "avg": ".225",
         "h": "47",
         "1b": "34",
         "2b": "9",
         "3b": "0",
         "hr": "4",
         "so": "41",
-        "bipballs in play": "163",
+        "bipballs in play": "165",
         "liveGames": 8,
         "totGames": 11,
-        "updated": "2025-05-12 20:13:13.939964"
+        "updated": "2025-05-12 20:13:21.747418"
     },
     "mil @ cle": [
         {
@@ -41,7 +41,7 @@
             "team": "cle",
             "start": "6:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1658,7 +1658,7 @@
         {
             "player": "ivan herrera",
             "game": "stl @ phi",
-            "hr/park": "",
+            "hr/park": "16/30",
             "pa": "44",
             "dt": "2025-05-12 20:12:45",
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
@@ -1666,9 +1666,9 @@
             "start": "6:45 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "108.0",
+            "la": "20",
+            "dist": "389"
         },
         {
             "player": "willson contreras",
@@ -2318,6 +2318,21 @@
     ],
     "pit @ nym": [
         {
+            "player": "alexander canario",
+            "game": "pit @ nym",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-05-12 20:13:16",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brett baty",
             "game": "pit @ nym",
             "hr/park": "",
@@ -2799,6 +2814,21 @@
         }
     ],
     "wsh @ atl": [
+        {
+            "player": "josh bell",
+            "game": "wsh @ atl",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-05-12 20:13:16",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "7:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "alex verdugo",
             "game": "wsh @ atl",
@@ -3556,6 +3586,21 @@
     ],
     "kc @ hou": [
         {
+            "player": "bobby witt",
+            "game": "kc @ hou",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-05-12 20:13:16",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jonathan india",
             "game": "kc @ hou",
             "hr/park": "",
@@ -3565,10 +3610,10 @@
             "team": "kc",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "63.7",
+            "la": "-45",
+            "dist": "5"
         }
     ],
     "laa @ sd": [],
