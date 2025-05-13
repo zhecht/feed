@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "23",
-        "batters": "136",
-        "pitches": "1158",
+        "batters": "137",
+        "pitches": "1161",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.7",
         "ff%fourseam fastball %": "31.1",
         "si%sinker %": "17.0",
         "fc%cutter %": "6.5",
         "fs%splitter %": "4.4",
-        "ch%changeup %": "11.1",
-        "sl%slider %": "19.3",
-        "cu%curve %": "10.6",
+        "ch%changeup %": "11.0",
+        "sl%slider %": "19.4",
+        "cu%curve %": "10.7",
         "max evmax exit velocity": "112.5",
-        "hhhard hit": "99",
-        "hh%hard hit %": "46.5",
+        "hhhard hit": "100",
+        "hh%hard hit %": "46.7",
         "brlbarrels": "22",
         "brl%barrel %": "10.3",
         "ab": "271",
@@ -25,27 +25,12 @@
         "3b": "0",
         "hr": "8",
         "so": "57",
-        "bipballs in play": "213",
+        "bipballs in play": "214",
         "liveGames": 8,
         "totGames": 11,
-        "updated": "2025-05-12 20:32:10.858976"
+        "updated": "2025-05-12 20:32:18.911971"
     },
     "mil @ cle": [
-        {
-            "player": "jake bauers",
-            "game": "mil @ cle",
-            "hr/park": "",
-            "pa": "66",
-            "dt": "2025-05-12 20:32:01",
-            "img": "https://www.mlbstatic.com/team-logos/158.svg",
-            "team": "mil",
-            "start": "6:10 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "rhys hoskins",
             "game": "mil @ cle",
@@ -1911,6 +1896,21 @@
     ],
     "stl @ phi": [
         {
+            "player": "max kepler",
+            "game": "stl @ phi",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-05-12 20:32:16",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:45 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bryson stott",
             "game": "stl @ phi",
             "hr/park": "0/30",
@@ -3304,10 +3304,10 @@
             "team": "wsh",
             "start": "7:15 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "99.4",
+            "la": "-7",
+            "dist": "18"
         },
         {
             "player": "james wood",
