@@ -1,15 +1,15 @@
 {
     "all": {
-        "pitchers": "46",
-        "batters": "161",
-        "pitches": "1966",
+        "pitchers": "48",
+        "batters": "162",
+        "pitches": "1970",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.7",
         "ff%fourseam fastball %": "32.1",
         "si%sinker %": "14.8",
         "fc%cutter %": "7.0",
-        "fs%splitter %": "4.8",
-        "ch%changeup %": "10.0",
+        "fs%splitter %": "4.9",
+        "ch%changeup %": "9.9",
         "sl%slider %": "21.7",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "112.5",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "43.6",
         "brlbarrels": "33",
         "brl%barrel %": "8.9",
-        "ab": "464",
-        "avg": ".244",
+        "ab": "466",
+        "avg": ".242",
         "h": "113",
         "1b": "79",
         "2b": "18",
@@ -28,7 +28,7 @@
         "bipballs in play": "369",
         "liveGames": 10,
         "totGames": 11,
-        "updated": "2025-05-12 21:42:07.467333"
+        "updated": "2025-05-12 21:42:16.181836"
     },
     "mil @ cle": [
         {
@@ -5592,6 +5592,21 @@
     ],
     "mia @ chc": [
         {
+            "player": "liam hicks",
+            "game": "mia @ chc",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-05-12 21:42:16",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "derek hill",
             "game": "mia @ chc",
             "hr/park": "26/30",
@@ -7802,6 +7817,22 @@
         }
     ],
     "laa @ sd": [],
-    "nyy @ sea": [],
+    "nyy @ sea": [
+        {
+            "player": "trent grisham",
+            "game": "nyy @ sea",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-12 21:42:16",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "ari @ sf": []
 }
