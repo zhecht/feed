@@ -1,36 +1,51 @@
 {
     "all": {
         "pitchers": "17",
-        "batters": "93",
-        "pitches": "597",
+        "batters": "94",
+        "pitches": "599",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "66.6",
-        "ff%fourseam fastball %": "27.6",
-        "si%sinker %": "19.6",
-        "fc%cutter %": "6.9",
-        "fs%splitter %": "3.4",
-        "ch%changeup %": "7.9",
-        "sl%slider %": "28.8",
-        "cu%curve %": "5.9",
+        "ff%fourseam fastball %": "27.7",
+        "si%sinker %": "19.4",
+        "fc%cutter %": "7.0",
+        "fs%splitter %": "3.3",
+        "ch%changeup %": "7.8",
+        "sl%slider %": "28.9",
+        "cu%curve %": "5.8",
         "max evmax exit velocity": "110.8",
         "hhhard hit": "31",
-        "hh%hard hit %": "31.0",
+        "hh%hard hit %": "30.7",
         "brlbarrels": "3",
         "brl%barrel %": "3.0",
-        "ab": "143",
-        "avg": ".203",
+        "ab": "144",
+        "avg": ".201",
         "h": "29",
         "1b": "16",
         "2b": "7",
         "3b": "1",
         "hr": "5",
-        "so": "39",
-        "bipballs in play": "100",
+        "so": "40",
+        "bipballs in play": "101",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-05-13 19:53:04.144325"
+        "updated": "2025-05-13 19:53:11.660334"
     },
     "mil @ cle": [
+        {
+            "player": "gabriel arias",
+            "game": "mil @ cle",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-05-13 19:53:11",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "bo naylor",
             "game": "mil @ cle",
@@ -41,7 +56,7 @@
             "team": "cle",
             "start": "6:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1644,6 +1659,21 @@
     ],
     "pit @ nym": [
         {
+            "player": "tyrone taylor",
+            "game": "pit @ nym",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-05-13 19:53:11",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bryan reynolds",
             "game": "pit @ nym",
             "hr/park": "",
@@ -1945,21 +1975,6 @@
         }
     ],
     "wsh @ atl": [
-        {
-            "player": "austin riley",
-            "game": "wsh @ atl",
-            "hr/park": "",
-            "pa": "21",
-            "dt": "2025-05-13 19:52:26",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "7:15 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "alex verdugo",
             "game": "wsh @ atl",
@@ -2273,9 +2288,9 @@
             "start": "7:40 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "88.7",
+            "la": "39",
+            "dist": "296"
         },
         {
             "player": "pete crow armstrong",
