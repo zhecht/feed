@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "63",
-        "batters": "209",
-        "pitches": "2330",
+        "pitchers": "64",
+        "batters": "210",
+        "pitches": "2333",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.7",
         "ff%fourseam fastball %": "31.3",
-        "si%sinker %": "15.2",
+        "si%sinker %": "15.1",
         "fc%cutter %": "7.1",
         "fs%splitter %": "4.3",
         "ch%changeup %": "10.0",
@@ -14,10 +14,10 @@
         "cu%curve %": "9.6",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "181",
-        "hh%hard hit %": "41.9",
+        "hh%hard hit %": "41.8",
         "brlbarrels": "38",
         "brl%barrel %": "8.8",
-        "ab": "549",
+        "ab": "550",
         "avg": ".233",
         "h": "128",
         "1b": "90",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "15",
         "so": "125",
-        "bipballs in play": "432",
+        "bipballs in play": "433",
         "liveGames": 11,
         "totGames": 11,
-        "updated": "2025-05-12 22:14:08.147885"
+        "updated": "2025-05-12 22:14:17.666663"
     },
     "mil @ cle": [
         {
@@ -5757,16 +5757,31 @@
     ],
     "mia @ chc": [
         {
-            "player": "eric wagaman",
+            "player": "connor norby",
             "game": "mia @ chc",
             "hr/park": "",
+            "pa": "69",
+            "dt": "2025-05-12 22:14:16",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "eric wagaman",
+            "game": "mia @ chc",
+            "hr/park": "0/30",
             "pa": "68",
             "dt": "2025-05-12 22:13:45",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
             "team": "mia",
             "start": "7:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "90.1",
             "la": "40",
             "dist": "303"
@@ -6763,6 +6778,21 @@
         }
     ],
     "col @ tex": [
+        {
+            "player": "hunter goodman",
+            "game": "col @ tex",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-05-12 22:14:16",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:05 PM",
+            "in": "9",
+            "result": "Forceout",
+            "evo": "63.1",
+            "la": "-1",
+            "dist": "31"
+        },
         {
             "player": "ryan mcmahon",
             "game": "col @ tex",
@@ -8834,7 +8864,7 @@
             "team": "sea",
             "start": "9:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
