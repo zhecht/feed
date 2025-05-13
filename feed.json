@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "14",
-        "batters": "80",
-        "pitches": "464",
+        "pitchers": "15",
+        "batters": "81",
+        "pitches": "472",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "66.6",
-        "ff%fourseam fastball %": "25.2",
-        "si%sinker %": "20.9",
-        "fc%cutter %": "6.7",
+        "ff%fourseam fastball %": "26.1",
+        "si%sinker %": "20.6",
+        "fc%cutter %": "6.6",
         "fs%splitter %": "1.7",
-        "ch%changeup %": "8.8",
-        "sl%slider %": "31.0",
-        "cu%curve %": "5.6",
+        "ch%changeup %": "8.7",
+        "sl%slider %": "30.9",
+        "cu%curve %": "5.5",
         "max evmax exit velocity": "110.8",
-        "hhhard hit": "26",
-        "hh%hard hit %": "32.9",
+        "hhhard hit": "27",
+        "hh%hard hit %": "33.3",
         "brlbarrels": "2",
         "brl%barrel %": "2.5",
-        "ab": "112",
-        "avg": ".188",
-        "h": "21",
-        "1b": "12",
+        "ab": "115",
+        "avg": ".191",
+        "h": "22",
+        "1b": "13",
         "2b": "5",
         "3b": "1",
         "hr": "3",
         "so": "30",
-        "bipballs in play": "79",
+        "bipballs in play": "81",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-05-13 19:42:09.519391"
+        "updated": "2025-05-13 19:42:16.913765"
     },
     "mil @ cle": [
+        {
+            "player": "brice turang",
+            "game": "mil @ cle",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-05-13 19:42:12",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "6:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "rhys hoskins",
             "game": "mil @ cle",
@@ -41,10 +56,10 @@
             "team": "mil",
             "start": "6:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "75.4",
+            "la": "5",
+            "dist": "65"
         },
         {
             "player": "kyle manzardo",
@@ -1147,6 +1162,21 @@
     "chw @ cin": [],
     "tb @ tor": [
         {
+            "player": "jonathan aranda",
+            "game": "tb @ tor",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-05-13 19:42:12",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:07 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "junior caminero",
             "game": "tb @ tor",
             "hr/park": "",
@@ -1655,10 +1685,10 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "110.1",
+            "la": "3",
+            "dist": "72"
         },
         {
             "player": "ozzie albies",
@@ -1856,7 +1886,23 @@
             "dist": "397"
         }
     ],
-    "mia @ chc": [],
+    "mia @ chc": [
+        {
+            "player": "xavier edwards",
+            "game": "mia @ chc",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-13 19:42:12",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "col @ tex": [],
     "kc @ hou": [],
     "laa @ sd": [],
