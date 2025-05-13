@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "50",
-        "batters": "169",
-        "pitches": "2029",
+        "pitchers": "51",
+        "batters": "170",
+        "pitches": "2035",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "31.6",
+        "ff%fourseam fastball %": "31.5",
         "si%sinker %": "15.0",
         "fc%cutter %": "6.9",
         "fs%splitter %": "4.7",
-        "ch%changeup %": "10.2",
-        "sl%slider %": "22.3",
+        "ch%changeup %": "10.1",
+        "sl%slider %": "22.5",
         "cu%curve %": "9.3",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "165",
-        "hh%hard hit %": "43.8",
+        "hh%hard hit %": "43.7",
         "brlbarrels": "35",
         "brl%barrel %": "9.3",
-        "ab": "476",
-        "avg": ".237",
+        "ab": "478",
+        "avg": ".236",
         "h": "113",
         "1b": "79",
         "2b": "18",
         "3b": "2",
         "hr": "14",
-        "so": "105",
-        "bipballs in play": "377",
+        "so": "104",
+        "bipballs in play": "378",
         "liveGames": 11,
         "totGames": 11,
-        "updated": "2025-05-12 21:47:00.437375"
+        "updated": "2025-05-12 21:47:09.384206"
     },
     "mil @ cle": [
         {
@@ -5622,6 +5622,21 @@
     ],
     "mia @ chc": [
         {
+            "player": "kyle tucker",
+            "game": "mia @ chc",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-05-12 21:47:03",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "pete crow armstrong",
             "game": "mia @ chc",
             "hr/park": "",
@@ -5631,10 +5646,10 @@
             "team": "chc",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "86.8",
+            "la": "66",
+            "dist": "127"
         },
         {
             "player": "liam hicks",
@@ -7165,7 +7180,7 @@
             "team": "kc",
             "start": "8:10 PM",
             "in": "6",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8015,5 +8030,21 @@
             "dist": ""
         }
     ],
-    "ari @ sf": []
+    "ari @ sf": [
+        {
+            "player": "corbin carroll",
+            "game": "ari @ sf",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-12 21:47:03",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "9:45 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ]
 }
