@@ -2,13 +2,13 @@
     "all": {
         "pitchers": "16",
         "batters": "103",
-        "pitches": "798",
+        "pitches": "800",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.7",
         "ff%fourseam fastball %": "26.1",
         "si%sinker %": "20.6",
-        "fc%cutter %": "6.6",
-        "fs%splitter %": "3.4",
+        "fc%cutter %": "6.5",
+        "fs%splitter %": "3.5",
         "ch%changeup %": "12.4",
         "sl%slider %": "19.5",
         "cu%curve %": "11.4",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "44.2",
         "brlbarrels": "14",
         "brl%barrel %": "9.1",
-        "ab": "191",
-        "avg": ".236",
-        "h": "45",
+        "ab": "192",
+        "avg": ".240",
+        "h": "46",
         "1b": "33",
-        "2b": "8",
+        "2b": "9",
         "3b": "0",
         "hr": "4",
-        "so": "38",
+        "so": "37",
         "bipballs in play": "154",
         "liveGames": 7,
         "totGames": 11,
-        "updated": "2025-05-12 20:08:09.351475"
+        "updated": "2025-05-12 20:08:17.034141"
     },
     "mil @ cle": [
         {
@@ -41,7 +41,7 @@
             "team": "mil",
             "start": "6:10 PM",
             "in": "7",
-            "result": "Strikeout",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2213,6 +2213,21 @@
     ],
     "pit @ nym": [
         {
+            "player": "francisco alvarez",
+            "game": "pit @ nym",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-05-12 20:08:15",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jeff mcneil",
             "game": "pit @ nym",
             "hr/park": "",
@@ -2222,7 +2237,7 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "100.4",
             "la": "14",
             "dist": "204"
