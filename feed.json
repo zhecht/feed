@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "20",
-        "batters": "126",
-        "pitches": "1027",
+        "batters": "125",
+        "pitches": "1030",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "29.7",
-        "si%sinker %": "18.4",
-        "fc%cutter %": "6.7",
+        "ff%fourseam fastball %": "29.6",
+        "si%sinker %": "18.3",
+        "fc%cutter %": "6.6",
         "fs%splitter %": "2.9",
         "ch%changeup %": "11.8",
-        "sl%slider %": "19.3",
-        "cu%curve %": "11.2",
+        "sl%slider %": "19.4",
+        "cu%curve %": "11.3",
         "max evmax exit velocity": "112.5",
-        "hhhard hit": "89",
+        "hhhard hit": "90",
         "hh%hard hit %": "46.6",
         "brlbarrels": "19",
-        "brl%barrel %": "9.9",
+        "brl%barrel %": "9.8",
         "ab": "244",
         "avg": ".238",
         "h": "58",
@@ -24,11 +24,11 @@
         "2b": "11",
         "3b": "0",
         "hr": "6",
-        "so": "51",
-        "bipballs in play": "191",
+        "so": "52",
+        "bipballs in play": "193",
         "liveGames": 8,
         "totGames": 11,
-        "updated": "2025-05-12 20:23:26.140523"
+        "updated": "2025-05-12 20:23:34.247769"
     },
     "mil @ cle": [
         {
@@ -41,7 +41,7 @@
             "team": "cle",
             "start": "6:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -948,6 +948,36 @@
         }
     ],
     "bos @ det": [
+        {
+            "player": "abraham toro",
+            "game": "bos @ det",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-05-12 20:23:31",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "trevor story",
+            "game": "bos @ det",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-05-12 20:23:00",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "88.3",
+            "la": "-4",
+            "dist": "37"
+        },
         {
             "player": "wilyer abreu",
             "game": "bos @ det",
@@ -3095,9 +3125,9 @@
             "start": "7:15 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "99.3",
+            "la": "55",
+            "dist": "249"
         },
         {
             "player": "austin riley",
@@ -3953,7 +3983,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4050,21 +4080,6 @@
         }
     ],
     "kc @ hou": [
-        {
-            "player": "isaac paredes",
-            "game": "kc @ hou",
-            "hr/park": "",
-            "pa": "8",
-            "dt": "2025-05-12 20:23:00",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "8:10 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "jose altuve",
             "game": "kc @ hou",
