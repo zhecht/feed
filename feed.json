@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "17",
-        "batters": "107",
-        "pitches": "837",
+        "pitchers": "18",
+        "batters": "109",
+        "pitches": "847",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "27.0",
-        "si%sinker %": "20.0",
+        "ff%fourseam fastball %": "27.2",
+        "si%sinker %": "20.1",
         "fc%cutter %": "6.3",
-        "fs%splitter %": "3.5",
-        "ch%changeup %": "12.3",
+        "fs%splitter %": "3.4",
+        "ch%changeup %": "12.2",
         "sl%slider %": "19.5",
         "cu%curve %": "11.5",
         "max evmax exit velocity": "112.5",
-        "hhhard hit": "70",
-        "hh%hard hit %": "43.5",
+        "hhhard hit": "72",
+        "hh%hard hit %": "44.2",
         "brlbarrels": "14",
-        "brl%barrel %": "8.7",
-        "ab": "202",
-        "avg": ".228",
-        "h": "46",
-        "1b": "33",
+        "brl%barrel %": "8.6",
+        "ab": "204",
+        "avg": ".230",
+        "h": "47",
+        "1b": "34",
         "2b": "9",
         "3b": "0",
         "hr": "4",
         "so": "40",
-        "bipballs in play": "161",
+        "bipballs in play": "163",
         "liveGames": 8,
         "totGames": 11,
-        "updated": "2025-05-12 20:11:40.317785"
+        "updated": "2025-05-12 20:11:48.023810"
     },
     "mil @ cle": [
         {
@@ -41,7 +41,7 @@
             "team": "cle",
             "start": "6:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2779,10 +2779,10 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "102.9",
+            "la": "-10",
+            "dist": "13"
         },
         {
             "player": "nick allen",
@@ -3276,10 +3276,10 @@
             "team": "mia",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "107.6",
+            "la": "16",
+            "dist": "262"
         },
         {
             "player": "derek hill",
@@ -3479,6 +3479,21 @@
     ],
     "col @ tex": [
         {
+            "player": "jordan beck",
+            "game": "col @ tex",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-05-12 20:11:46",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brenton doyle",
             "game": "col @ tex",
             "hr/park": "",
@@ -3494,7 +3509,23 @@
             "dist": "152"
         }
     ],
-    "kc @ hou": [],
+    "kc @ hou": [
+        {
+            "player": "jonathan india",
+            "game": "kc @ hou",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-12 20:11:46",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "laa @ sd": [],
     "nyy @ sea": [],
     "ari @ sf": []
