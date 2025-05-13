@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "54",
+        "pitchers": "55",
         "batters": "179",
-        "pitches": "2093",
+        "pitches": "2099",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "31.5",
+        "ff%fourseam fastball %": "31.4",
         "si%sinker %": "15.0",
         "fc%cutter %": "7.0",
         "fs%splitter %": "4.6",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.3",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "167",
-        "hh%hard hit %": "43.4",
+        "hh%hard hit %": "43.3",
         "brlbarrels": "35",
         "brl%barrel %": "9.1",
-        "ab": "492",
-        "avg": ".232",
+        "ab": "494",
+        "avg": ".231",
         "h": "114",
         "1b": "80",
         "2b": "18",
         "3b": "2",
         "hr": "14",
         "so": "112",
-        "bipballs in play": "385",
+        "bipballs in play": "386",
         "liveGames": 11,
         "totGames": 11,
-        "updated": "2025-05-12 21:52:28.131123"
+        "updated": "2025-05-12 21:52:37.419551"
     },
     "mil @ cle": [
         {
@@ -3503,6 +3503,21 @@
     ],
     "pit @ nym": [
         {
+            "player": "kebryan hayes",
+            "game": "pit @ nym",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-05-12 21:52:31",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "72.1",
+            "la": "-9",
+            "dist": "16"
+        },
+        {
             "player": "henry davis",
             "game": "pit @ nym",
             "hr/park": "",
@@ -6524,6 +6539,21 @@
     ],
     "col @ tex": [
         {
+            "player": "marcus semien",
+            "game": "col @ tex",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-05-12 21:52:31",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "adael amador",
             "game": "col @ tex",
             "hr/park": "",
@@ -8236,7 +8266,7 @@
             "team": "ari",
             "start": "9:45 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
