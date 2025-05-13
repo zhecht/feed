@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "36",
         "batters": "156",
-        "pitches": "1597",
+        "pitches": "1602",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "31.9",
+        "ff%fourseam fastball %": "32.0",
         "si%sinker %": "16.0",
         "fc%cutter %": "6.6",
         "fs%splitter %": "4.7",
@@ -13,22 +13,22 @@
         "sl%slider %": "20.3",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "112.5",
-        "hhhard hit": "134",
-        "hh%hard hit %": "45.6",
+        "hhhard hit": "135",
+        "hh%hard hit %": "45.8",
         "brlbarrels": "27",
         "brl%barrel %": "9.2",
-        "ab": "375",
-        "avg": ".243",
+        "ab": "377",
+        "avg": ".241",
         "h": "91",
         "1b": "63",
         "2b": "17",
         "3b": "1",
         "hr": "10",
         "so": "83",
-        "bipballs in play": "294",
+        "bipballs in play": "295",
         "liveGames": 8,
         "totGames": 11,
-        "updated": "2025-05-12 21:04:38.742637"
+        "updated": "2025-05-12 21:04:47.375663"
     },
     "mil @ cle": [
         {
@@ -1128,6 +1128,21 @@
         }
     ],
     "bos @ det": [
+        {
+            "player": "trey sweeney",
+            "game": "bos @ det",
+            "hr/park": "",
+            "pa": "77",
+            "dt": "2025-05-12 21:04:45",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "95.1",
+            "la": "13",
+            "dist": "222"
+        },
         {
             "player": "trevor story",
             "game": "bos @ det",
@@ -3287,7 +3302,7 @@
             "team": "pit",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Other Advance",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5504,6 +5519,21 @@
     ],
     "col @ tex": [
         {
+            "player": "adolis garcia",
+            "game": "col @ tex",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-05-12 21:04:45",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "joc pederson",
             "game": "col @ tex",
             "hr/park": "0/30",
@@ -5911,16 +5941,31 @@
     ],
     "kc @ hou": [
         {
-            "player": "bobby witt",
+            "player": "vinnie pasquantino",
             "game": "kc @ hou",
             "hr/park": "",
+            "pa": "28",
+            "dt": "2025-05-12 21:04:45",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "bobby witt",
+            "game": "kc @ hou",
+            "hr/park": "0/30",
             "pa": "27",
             "dt": "2025-05-12 21:03:46",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Sac Fly",
             "evo": "107.2",
             "la": "15",
             "dist": "318"
