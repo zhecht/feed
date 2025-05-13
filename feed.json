@@ -1,20 +1,20 @@
 {
     "all": {
-        "pitchers": "27",
+        "pitchers": "28",
         "batters": "153",
-        "pitches": "1389",
+        "pitches": "1395",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "31.4",
+        "ff%fourseam fastball %": "31.5",
         "si%sinker %": "16.0",
-        "fc%cutter %": "7.1",
-        "fs%splitter %": "4.5",
-        "ch%changeup %": "10.7",
+        "fc%cutter %": "7.0",
+        "fs%splitter %": "4.6",
+        "ch%changeup %": "10.6",
         "sl%slider %": "19.5",
-        "cu%curve %": "10.9",
+        "cu%curve %": "10.8",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "118",
-        "hh%hard hit %": "45.7",
+        "hh%hard hit %": "45.6",
         "brlbarrels": "25",
         "brl%barrel %": "9.7",
         "ab": "333",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "9",
         "so": "74",
-        "bipballs in play": "258",
+        "bipballs in play": "259",
         "liveGames": 8,
         "totGames": 11,
-        "updated": "2025-05-12 20:48:42.765977"
+        "updated": "2025-05-12 20:48:51.113233"
     },
     "mil @ cle": [
         {
@@ -41,7 +41,7 @@
             "team": "mil",
             "start": "6:10 PM",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1108,10 +1108,10 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "76.9",
+            "la": "-35",
+            "dist": "4"
         },
         {
             "player": "justyn henry malloy",
@@ -2151,6 +2151,21 @@
     ],
     "stl @ phi": [
         {
+            "player": "nolan arenado",
+            "game": "stl @ phi",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-05-12 20:48:45",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "6:45 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bryce harper",
             "game": "stl @ phi",
             "hr/park": "",
@@ -3047,7 +3062,7 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5305,7 +5320,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "2",
-            "result": "GIDP",
+            "result": "In Progress",
             "evo": "64.4",
             "la": "-16",
             "dist": "12"
