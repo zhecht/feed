@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "55",
-        "batters": "179",
-        "pitches": "2105",
+        "batters": "180",
+        "pitches": "2109",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.7",
         "ff%fourseam fastball %": "31.4",
@@ -10,8 +10,8 @@
         "fc%cutter %": "7.0",
         "fs%splitter %": "4.6",
         "ch%changeup %": "10.0",
-        "sl%slider %": "22.6",
-        "cu%curve %": "9.4",
+        "sl%slider %": "22.8",
+        "cu%curve %": "9.3",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "168",
         "hh%hard hit %": "43.3",
@@ -28,7 +28,7 @@
         "bipballs in play": "388",
         "liveGames": 11,
         "totGames": 11,
-        "updated": "2025-05-12 21:52:55.830849"
+        "updated": "2025-05-12 21:53:04.939855"
     },
     "mil @ cle": [
         {
@@ -6539,6 +6539,21 @@
     ],
     "col @ tex": [
         {
+            "player": "josh jung",
+            "game": "col @ tex",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-05-12 21:53:01",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "marcus semien",
             "game": "col @ tex",
             "hr/park": "",
@@ -6548,7 +6563,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "66.4",
             "la": "76",
             "dist": "76"
@@ -7275,21 +7290,6 @@
         }
     ],
     "kc @ hou": [
-        {
-            "player": "victor caratini",
-            "game": "kc @ hou",
-            "hr/park": "",
-            "pa": "55",
-            "dt": "2025-05-12 21:52:46",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "8:10 PM",
-            "in": "6",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "yainer diaz",
             "game": "kc @ hou",
@@ -8103,6 +8103,21 @@
     ],
     "laa @ sd": [
         {
+            "player": "jackson merrill",
+            "game": "laa @ sd",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-05-12 21:53:01",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "manny machado",
             "game": "laa @ sd",
             "hr/park": "",
@@ -8112,7 +8127,7 @@
             "team": "sd",
             "start": "9:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8296,7 +8311,7 @@
             "team": "ari",
             "start": "9:45 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
