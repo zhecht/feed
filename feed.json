@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "54",
         "batters": "167",
-        "pitches": "1972",
+        "pitches": "1976",
         "max velomax pitch velocity": "102.0",
         "min velomin pitch velocity": "66.6",
         "ff%fourseam fastball %": "29.6",
-        "si%sinker %": "15.3",
-        "fc%cutter %": "8.1",
+        "si%sinker %": "15.2",
+        "fc%cutter %": "8.0",
         "fs%splitter %": "3.2",
         "ch%changeup %": "10.1",
-        "sl%slider %": "24.7",
+        "sl%slider %": "24.8",
         "cu%curve %": "9.0",
         "max evmax exit velocity": "113.9",
-        "hhhard hit": "130",
-        "hh%hard hit %": "38.1",
-        "brlbarrels": "28",
-        "brl%barrel %": "8.2",
+        "hhhard hit": "129",
+        "hh%hard hit %": "37.9",
+        "brlbarrels": "27",
+        "brl%barrel %": "7.9",
         "ab": "465",
         "avg": ".219",
         "h": "102",
@@ -24,11 +24,11 @@
         "2b": "15",
         "3b": "3",
         "hr": "18",
-        "so": "125",
-        "bipballs in play": "341",
+        "so": "126",
+        "bipballs in play": "340",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-13 21:33:36.601085"
+        "updated": "2025-05-13 21:33:46.060241"
     },
     "mil @ cle": [
         {
@@ -3604,7 +3604,7 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "96.7",
             "la": "10",
             "dist": "175"
@@ -4596,7 +4596,7 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5594,6 +5594,21 @@
     ],
     "mia @ chc": [
         {
+            "player": "agustin ramirez",
+            "game": "mia @ chc",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-05-13 21:33:41",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "eric wagaman",
             "game": "mia @ chc",
             "hr/park": "",
@@ -5603,7 +5618,7 @@
             "team": "mia",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7040,7 +7055,7 @@
         {
             "player": "jeremy pena",
             "game": "kc @ hou",
-            "hr/park": "30/30",
+            "hr/park": "",
             "pa": "41",
             "dt": "2025-05-13 21:31:56",
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
@@ -7048,9 +7063,9 @@
             "start": "8:10 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "102.4",
-            "la": "36",
-            "dist": "381"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "mark canha",
