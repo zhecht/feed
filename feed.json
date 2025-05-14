@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "30",
         "batters": "136",
-        "pitches": "1115",
+        "pitches": "1123",
         "max velomax pitch velocity": "102.0",
         "min velomin pitch velocity": "66.6",
-        "ff%fourseam fastball %": "29.7",
-        "si%sinker %": "16.2",
+        "ff%fourseam fastball %": "29.9",
+        "si%sinker %": "16.1",
         "fc%cutter %": "7.6",
         "fs%splitter %": "4.2",
         "ch%changeup %": "7.7",
-        "sl%slider %": "26.9",
-        "cu%curve %": "7.6",
+        "sl%slider %": "26.7",
+        "cu%curve %": "7.7",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "64",
-        "hh%hard hit %": "33.9",
+        "hh%hard hit %": "33.7",
         "brlbarrels": "11",
         "brl%barrel %": "5.8",
-        "ab": "263",
-        "avg": ".213",
+        "ab": "265",
+        "avg": ".211",
         "h": "56",
         "1b": "35",
         "2b": "8",
         "3b": "2",
         "hr": "11",
         "so": "72",
-        "bipballs in play": "189",
+        "bipballs in play": "190",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-13 20:32:47.998289"
+        "updated": "2025-05-13 20:32:56.168508"
     },
     "mil @ cle": [
         {
@@ -1853,6 +1853,21 @@
     ],
     "tb @ tor": [
         {
+            "player": "bo bichette",
+            "game": "tb @ tor",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-05-13 20:32:56",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nathan lukes",
             "game": "tb @ tor",
             "hr/park": "",
@@ -1862,10 +1877,10 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "66.5",
+            "la": "8",
+            "dist": "82"
         },
         {
             "player": "tyler heineman",
@@ -3027,6 +3042,21 @@
     ],
     "wsh @ atl": [
         {
+            "player": "alex verdugo",
+            "game": "wsh @ atl",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-05-13 20:31:57",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nick allen",
             "game": "wsh @ atl",
             "hr/park": "",
@@ -4182,7 +4212,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
