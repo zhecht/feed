@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "21",
-        "batters": "108",
-        "pitches": "830",
+        "pitchers": "22",
+        "batters": "109",
+        "pitches": "835",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "66.6",
-        "ff%fourseam fastball %": "30.2",
-        "si%sinker %": "17.0",
-        "fc%cutter %": "6.9",
+        "ff%fourseam fastball %": "29.9",
+        "si%sinker %": "17.2",
+        "fc%cutter %": "6.8",
         "fs%splitter %": "4.0",
         "ch%changeup %": "7.5",
-        "sl%slider %": "28.3",
-        "cu%curve %": "6.1",
+        "sl%slider %": "28.1",
+        "cu%curve %": "6.3",
         "max evmax exit velocity": "110.8",
-        "hhhard hit": "42",
-        "hh%hard hit %": "30.7",
+        "hhhard hit": "44",
+        "hh%hard hit %": "31.4",
         "brlbarrels": "6",
-        "brl%barrel %": "4.4",
-        "ab": "196",
-        "avg": ".204",
-        "h": "40",
-        "1b": "23",
+        "brl%barrel %": "4.3",
+        "ab": "197",
+        "avg": ".208",
+        "h": "41",
+        "1b": "24",
         "2b": "8",
         "3b": "2",
         "hr": "7",
         "so": "55",
-        "bipballs in play": "137",
+        "bipballs in play": "140",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-13 20:13:10.146874"
+        "updated": "2025-05-13 20:13:18.011755"
     },
     "mil @ cle": [
         {
@@ -959,9 +959,9 @@
             "start": "6:40 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "68.8",
+            "la": "36",
+            "dist": "239"
         },
         {
             "player": "gleyber torres",
@@ -1597,6 +1597,21 @@
     "chw @ cin": [],
     "tb @ tor": [
         {
+            "player": "george springer",
+            "game": "tb @ tor",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-05-13 20:13:12",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "anthony santander",
             "game": "tb @ tor",
             "hr/park": "",
@@ -1606,7 +1621,7 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3204,10 +3219,10 @@
             "team": "col",
             "start": "8:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "99.3",
+            "la": "10",
+            "dist": "209"
         },
         {
             "player": "brenton doyle",
@@ -3225,7 +3240,23 @@
             "dist": ""
         }
     ],
-    "kc @ hou": [],
+    "kc @ hou": [
+        {
+            "player": "jonathan india",
+            "game": "kc @ hou",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-13 20:13:12",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "97.9",
+            "la": "-10",
+            "dist": "13"
+        }
+    ],
     "laa @ sd": [],
     "nyy @ sea": [],
     "ari @ sf": [],
