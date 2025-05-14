@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "34",
+        "pitchers": "35",
         "batters": "103",
-        "pitches": "1313",
+        "pitches": "1315",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "74.7",
         "ff%fourseam fastball %": "33.1",
@@ -11,13 +11,13 @@
         "fs%splitter %": "1.7",
         "ch%changeup %": "11.9",
         "sl%slider %": "24.8",
-        "cu%curve %": "6.7",
+        "cu%curve %": "6.8",
         "max evmax exit velocity": "109.3",
-        "hhhard hit": "95",
-        "hh%hard hit %": "44.6",
+        "hhhard hit": "96",
+        "hh%hard hit %": "44.9",
         "brlbarrels": "16",
         "brl%barrel %": "7.5",
-        "ab": "281",
+        "ab": "282",
         "avg": ".270",
         "h": "76",
         "1b": "52",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "13",
         "so": "75",
-        "bipballs in play": "213",
+        "bipballs in play": "214",
         "liveGames": 6,
         "totGames": 17,
-        "updated": "2025-05-14 16:55:33.366791"
+        "updated": "2025-05-14 16:55:41.737023"
     },
     "min @ bal": [
         {
@@ -1233,6 +1233,21 @@
         }
     ],
     "min-gm2 @ bal-gm2": [
+        {
+            "player": "jonah bride",
+            "game": "min-gm2 @ bal-gm2",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-05-14 16:55:40",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "3:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "maverick handley",
             "game": "min-gm2 @ bal-gm2",
@@ -3965,10 +3980,10 @@
             "team": "ari",
             "start": "3:45 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "103.1",
+            "la": "-6",
+            "dist": "15"
         },
         {
             "player": "lourdes gurriel",
@@ -4507,7 +4522,7 @@
             "team": "sea",
             "start": "4:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Field Error",
             "evo": "84.8",
             "la": "-3",
             "dist": "28"
