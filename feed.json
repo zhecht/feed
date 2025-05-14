@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "70",
-        "batters": "200",
-        "pitches": "2511",
+        "batters": "201",
+        "pitches": "2519",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "32.8",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.3",
         "fs%splitter %": "2.1",
         "ch%changeup %": "10.6",
-        "sl%slider %": "21.5",
+        "sl%slider %": "21.6",
         "cu%curve %": "8.1",
         "max evmax exit velocity": "117.7",
-        "hhhard hit": "187",
+        "hhhard hit": "188",
         "hh%hard hit %": "44.1",
-        "brlbarrels": "38",
-        "brl%barrel %": "9.0",
-        "ab": "562",
-        "avg": ".265",
-        "h": "149",
-        "1b": "100",
+        "brlbarrels": "39",
+        "brl%barrel %": "9.2",
+        "ab": "564",
+        "avg": ".268",
+        "h": "151",
+        "1b": "102",
         "2b": "24",
         "3b": "0",
         "hr": "25",
-        "so": "150",
-        "bipballs in play": "424",
+        "so": "151",
+        "bipballs in play": "426",
         "liveGames": 13,
         "totGames": 17,
-        "updated": "2025-05-14 19:52:54.378661"
+        "updated": "2025-05-14 19:53:04.043007"
     },
     "min @ bal": [
         {
@@ -7771,6 +7771,21 @@
     ],
     "bos @ det": [
         {
+            "player": "kerry carpenter",
+            "game": "bos @ det",
+            "hr/park": "2/30",
+            "pa": "38",
+            "dt": "2025-05-14 19:52:57",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "Single",
+            "evo": "108.4",
+            "la": "20",
+            "dist": "357"
+        },
+        {
             "player": "akil baddoo",
             "game": "bos @ det",
             "hr/park": "",
@@ -8654,10 +8669,10 @@
             "team": "pit",
             "start": "7:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "89.5",
+            "la": "18",
+            "dist": "279"
         },
         {
             "player": "alexander canario",
@@ -8829,14 +8844,14 @@
         {
             "player": "miguel vargas",
             "game": "chw @ cin",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "18",
             "dt": "2025-05-14 19:51:25",
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
             "team": "chw",
             "start": "7:14 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "102.5",
             "la": "19",
             "dist": "380"
@@ -9371,6 +9386,21 @@
     ],
     "mia @ chc": [
         {
+            "player": "carson kelly",
+            "game": "mia @ chc",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-05-14 19:52:57",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "seiya suzuki",
             "game": "mia @ chc",
             "hr/park": "",
@@ -9380,7 +9410,7 @@
             "team": "chc",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
