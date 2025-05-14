@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "20",
-        "batters": "104",
-        "pitches": "780",
+        "pitchers": "21",
+        "batters": "106",
+        "pitches": "788",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "66.6",
-        "ff%fourseam fastball %": "29.0",
-        "si%sinker %": "17.7",
+        "ff%fourseam fastball %": "29.1",
+        "si%sinker %": "17.6",
         "fc%cutter %": "7.1",
         "fs%splitter %": "4.2",
-        "ch%changeup %": "7.3",
-        "sl%slider %": "28.3",
-        "cu%curve %": "6.4",
+        "ch%changeup %": "7.5",
+        "sl%slider %": "28.2",
+        "cu%curve %": "6.3",
         "max evmax exit velocity": "110.8",
         "hhhard hit": "40",
-        "hh%hard hit %": "30.8",
+        "hh%hard hit %": "30.3",
         "brlbarrels": "6",
-        "brl%barrel %": "4.6",
-        "ab": "183",
-        "avg": ".197",
-        "h": "36",
-        "1b": "20",
+        "brl%barrel %": "4.5",
+        "ab": "187",
+        "avg": ".203",
+        "h": "38",
+        "1b": "22",
         "2b": "8",
         "3b": "1",
         "hr": "7",
-        "so": "51",
-        "bipballs in play": "130",
+        "so": "52",
+        "bipballs in play": "132",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-13 20:10:03.352043"
+        "updated": "2025-05-13 20:10:11.163991"
     },
     "mil @ cle": [
+        {
+            "player": "jose ramirez",
+            "game": "mil @ cle",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-05-13 20:10:11",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:10 PM",
+            "in": "8",
+            "result": "Single",
+            "evo": "53.4",
+            "la": "-33",
+            "dist": "4"
+        },
         {
             "player": "daniel schneemann",
             "game": "mil @ cle",
@@ -903,6 +918,21 @@
         }
     ],
     "bos @ det": [
+        {
+            "player": "kerry carpenter",
+            "game": "bos @ det",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-05-13 20:09:27",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "Single",
+            "evo": "74.3",
+            "la": "15",
+            "dist": "159"
+        },
         {
             "player": "javier baez",
             "game": "bos @ det",
@@ -2833,6 +2863,21 @@
     ],
     "mia @ chc": [
         {
+            "player": "dansby swanson",
+            "game": "mia @ chc",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-05-13 20:10:11",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "carson kelly",
             "game": "mia @ chc",
             "hr/park": "",
@@ -2842,7 +2887,7 @@
             "team": "chc",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3028,7 +3073,23 @@
             "dist": ""
         }
     ],
-    "col @ tex": [],
+    "col @ tex": [
+        {
+            "player": "brenton doyle",
+            "game": "col @ tex",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-13 20:10:11",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "kc @ hou": [],
     "laa @ sd": [],
     "nyy @ sea": [],
