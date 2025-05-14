@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "27",
         "batters": "128",
-        "pitches": "1021",
+        "pitches": "1023",
         "max velomax pitch velocity": "102.0",
         "min velomin pitch velocity": "66.6",
         "ff%fourseam fastball %": "29.5",
         "si%sinker %": "16.3",
-        "fc%cutter %": "8.0",
+        "fc%cutter %": "8.1",
         "fs%splitter %": "3.9",
         "ch%changeup %": "7.4",
-        "sl%slider %": "28.5",
+        "sl%slider %": "28.3",
         "cu%curve %": "6.4",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "61",
-        "hh%hard hit %": "34.7",
+        "hh%hard hit %": "34.5",
         "brlbarrels": "11",
-        "brl%barrel %": "6.3",
-        "ab": "245",
+        "brl%barrel %": "6.2",
+        "ab": "246",
         "avg": ".224",
         "h": "55",
         "1b": "34",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "11",
         "so": "66",
-        "bipballs in play": "176",
+        "bipballs in play": "177",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-13 20:26:37.205984"
+        "updated": "2025-05-13 20:26:45.281904"
     },
     "mil @ cle": [
         {
@@ -2343,10 +2343,10 @@
             "team": "pit",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "87.4",
+            "la": "-44",
+            "dist": "4"
         },
         {
             "player": "adam frazier",
@@ -2876,6 +2876,21 @@
     ],
     "wsh @ atl": [
         {
+            "player": "james wood",
+            "game": "wsh @ atl",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-05-13 20:26:41",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "7:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cj abrams",
             "game": "wsh @ atl",
             "hr/park": "",
@@ -2885,7 +2900,7 @@
             "team": "wsh",
             "start": "7:15 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "84.4",
             "la": "62",
             "dist": "193"
