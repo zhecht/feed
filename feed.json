@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "73",
-        "batters": "205",
-        "pitches": "2394",
+        "batters": "206",
+        "pitches": "2399",
         "max velomax pitch velocity": "102.0",
         "min velomin pitch velocity": "66.6",
-        "ff%fourseam fastball %": "30.5",
+        "ff%fourseam fastball %": "30.4",
         "si%sinker %": "14.6",
         "fc%cutter %": "7.0",
         "fs%splitter %": "3.0",
-        "ch%changeup %": "10.2",
-        "sl%slider %": "25.0",
+        "ch%changeup %": "10.3",
+        "sl%slider %": "25.1",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "113.9",
-        "hhhard hit": "154",
+        "hhhard hit": "155",
         "hh%hard hit %": "36.7",
-        "brlbarrels": "35",
-        "brl%barrel %": "8.3",
-        "ab": "574",
-        "avg": ".223",
+        "brlbarrels": "36",
+        "brl%barrel %": "8.5",
+        "ab": "577",
+        "avg": ".222",
         "h": "128",
         "1b": "81",
         "2b": "23",
         "3b": "3",
         "hr": "21",
         "so": "156",
-        "bipballs in play": "420",
+        "bipballs in play": "422",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-13 22:01:17.961458"
+        "updated": "2025-05-13 22:01:27.421934"
     },
     "mil @ cle": [
         {
@@ -1033,7 +1033,7 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "10",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2315,6 +2315,36 @@
         }
     ],
     "chw @ cin": [
+        {
+            "player": "austin hays",
+            "game": "chw @ cin",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-05-13 22:01:21",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "elly de la cruz",
+            "game": "chw @ cin",
+            "hr/park": "0/30",
+            "pa": "43",
+            "dt": "2025-05-13 22:01:21",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "91.4",
+            "la": "33",
+            "dist": "347"
+        },
         {
             "player": "santiago espinal",
             "game": "chw @ cin",
@@ -7308,17 +7338,17 @@
         {
             "player": "brenton doyle",
             "game": "col @ tex",
-            "hr/park": "",
+            "hr/park": "4/30",
             "pa": "57",
             "dt": "2025-05-13 22:00:06",
             "img": "https://www.mlbstatic.com/team-logos/115.svg",
             "team": "col",
             "start": "8:05 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "101.4",
+            "la": "25",
+            "dist": "393"
         },
         {
             "player": "kyle farmer",
@@ -8960,6 +8990,21 @@
     ],
     "laa @ sd": [
         {
+            "player": "luis rengifo",
+            "game": "laa @ sd",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-05-13 22:00:52",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "logan ohoppe",
             "game": "laa @ sd",
             "hr/park": "",
@@ -9121,10 +9166,10 @@
             "team": "nyy",
             "start": "9:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "91.3",
+            "la": "31",
+            "dist": "326"
         },
         {
             "player": "anthony volpe",
