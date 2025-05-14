@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "60",
         "batters": "137",
-        "pitches": "2108",
+        "pitches": "2112",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "33.0",
@@ -14,21 +14,21 @@
         "cu%curve %": "7.4",
         "max evmax exit velocity": "117.7",
         "hhhard hit": "155",
-        "hh%hard hit %": "44.7",
+        "hh%hard hit %": "44.5",
         "brlbarrels": "32",
         "brl%barrel %": "9.2",
-        "ab": "459",
-        "avg": ".264",
-        "h": "121",
-        "1b": "82",
+        "ab": "460",
+        "avg": ".265",
+        "h": "122",
+        "1b": "83",
         "2b": "19",
         "3b": "0",
         "hr": "20",
-        "so": "124",
-        "bipballs in play": "347",
+        "so": "125",
+        "bipballs in play": "348",
         "liveGames": 12,
         "totGames": 17,
-        "updated": "2025-05-14 19:16:05.610939"
+        "updated": "2025-05-14 19:16:14.704847"
     },
     "min @ bal": [
         {
@@ -3467,10 +3467,10 @@
             "team": "stl",
             "start": "6:15 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "93.1",
+            "la": "21",
+            "dist": "291"
         },
         {
             "player": "willson contreras",
@@ -7501,6 +7501,21 @@
     ],
     "bos @ det": [
         {
+            "player": "jarren duran",
+            "game": "bos @ det",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-05-14 19:16:11",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ceddanne rafaela",
             "game": "bos @ det",
             "hr/park": "",
@@ -7510,7 +7525,7 @@
             "team": "bos",
             "start": "6:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7767,7 +7782,7 @@
             "team": "tb",
             "start": "7:07 PM",
             "in": "1",
-            "result": "Pop Out",
+            "result": "In Progress",
             "evo": "64.1",
             "la": "49",
             "dist": "177"
