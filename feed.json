@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "78",
-        "batters": "221",
-        "pitches": "2570",
+        "batters": "222",
+        "pitches": "2572",
         "max velomax pitch velocity": "102.0",
         "min velomin pitch velocity": "66.6",
-        "ff%fourseam fastball %": "30.1",
+        "ff%fourseam fastball %": "30.2",
         "si%sinker %": "14.4",
         "fc%cutter %": "7.4",
         "fs%splitter %": "3.1",
         "ch%changeup %": "10.2",
-        "sl%slider %": "25.1",
+        "sl%slider %": "25.0",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "166",
-        "hh%hard hit %": "36.7",
+        "hh%hard hit %": "36.6",
         "brlbarrels": "37",
         "brl%barrel %": "8.2",
-        "ab": "612",
-        "avg": ".222",
-        "h": "136",
-        "1b": "86",
+        "ab": "614",
+        "avg": ".223",
+        "h": "137",
+        "1b": "87",
         "2b": "25",
         "3b": "3",
         "hr": "22",
         "so": "163",
-        "bipballs in play": "452",
+        "bipballs in play": "453",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-13 22:12:45.917467"
+        "updated": "2025-05-13 22:12:55.747387"
     },
     "mil @ cle": [
         {
@@ -2385,7 +2385,7 @@
             "team": "chw",
             "start": "6:40 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9365,6 +9365,21 @@
     ],
     "laa @ sd": [
         {
+            "player": "zach neto",
+            "game": "laa @ sd",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-05-13 22:12:50",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyren paris",
             "game": "laa @ sd",
             "hr/park": "",
@@ -10016,6 +10031,21 @@
     ],
     "ath @ lad": [
         {
+            "player": "tyler soderstrom",
+            "game": "ath @ lad",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-05-13 22:12:50",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jacob wilson",
             "game": "ath @ lad",
             "hr/park": "",
@@ -10025,10 +10055,10 @@
             "team": "ath",
             "start": "10:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "81.7",
+            "la": "-3",
+            "dist": "25"
         }
     ],
     "min @ bal": [],
