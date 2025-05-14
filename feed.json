@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "26",
-        "batters": "120",
-        "pitches": "952",
+        "batters": "122",
+        "pitches": "958",
         "max velomax pitch velocity": "102.0",
         "min velomin pitch velocity": "66.6",
         "ff%fourseam fastball %": "29.3",
         "si%sinker %": "16.8",
-        "fc%cutter %": "8.0",
+        "fc%cutter %": "7.9",
         "fs%splitter %": "3.7",
-        "ch%changeup %": "7.0",
+        "ch%changeup %": "7.1",
         "sl%slider %": "28.8",
         "cu%curve %": "6.4",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "55",
-        "hh%hard hit %": "33.7",
+        "hh%hard hit %": "33.3",
         "brlbarrels": "9",
         "brl%barrel %": "5.5",
-        "ab": "228",
-        "avg": ".219",
+        "ab": "231",
+        "avg": ".216",
         "h": "50",
         "1b": "31",
         "2b": "8",
         "3b": "2",
         "hr": "9",
-        "so": "62",
-        "bipballs in play": "163",
+        "so": "63",
+        "bipballs in play": "165",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-13 20:22:21.058719"
+        "updated": "2025-05-13 20:22:29.011271"
     },
     "mil @ cle": [
         {
@@ -1033,7 +1033,7 @@
             "team": "bos",
             "start": "6:40 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1741,7 +1741,7 @@
             "team": "tb",
             "start": "7:07 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2786,6 +2786,21 @@
     ],
     "wsh @ atl": [
         {
+            "player": "jose tena",
+            "game": "wsh @ atl",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-05-13 20:22:26",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "7:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "eli white",
             "game": "wsh @ atl",
             "hr/park": "",
@@ -3676,6 +3691,36 @@
         }
     ],
     "kc @ hou": [
+        {
+            "player": "christian walker",
+            "game": "kc @ hou",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-05-13 20:22:26",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "82.9",
+            "la": "83",
+            "dist": "54"
+        },
+        {
+            "player": "isaac paredes",
+            "game": "kc @ hou",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-05-13 20:22:26",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "Field Error",
+            "evo": "94.5",
+            "la": "11",
+            "dist": "150"
+        },
         {
             "player": "jose altuve",
             "game": "kc @ hou",
