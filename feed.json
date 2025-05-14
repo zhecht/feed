@@ -1,20 +1,20 @@
 {
     "all": {
-        "pitchers": "30",
-        "batters": "134",
-        "pitches": "1088",
+        "pitchers": "29",
+        "batters": "135",
+        "pitches": "1090",
         "max velomax pitch velocity": "102.0",
         "min velomin pitch velocity": "66.6",
         "ff%fourseam fastball %": "29.7",
-        "si%sinker %": "16.2",
+        "si%sinker %": "16.0",
         "fc%cutter %": "7.7",
         "fs%splitter %": "4.3",
-        "ch%changeup %": "7.4",
-        "sl%slider %": "27.1",
-        "cu%curve %": "7.5",
+        "ch%changeup %": "7.5",
+        "sl%slider %": "27.2",
+        "cu%curve %": "7.6",
         "max evmax exit velocity": "113.9",
-        "hhhard hit": "63",
-        "hh%hard hit %": "33.9",
+        "hhhard hit": "64",
+        "hh%hard hit %": "34.0",
         "brlbarrels": "11",
         "brl%barrel %": "5.9",
         "ab": "258",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "11",
         "so": "70",
-        "bipballs in play": "186",
+        "bipballs in play": "188",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-13 20:31:03.075079"
+        "updated": "2025-05-13 20:31:11.105095"
     },
     "mil @ cle": [
         {
@@ -1024,21 +1024,6 @@
     ],
     "bos @ det": [
         {
-            "player": "spencer torkelson",
-            "game": "bos @ det",
-            "hr/park": "",
-            "pa": "51",
-            "dt": "2025-05-13 20:30:26",
-            "img": "https://www.mlbstatic.com/team-logos/116.svg",
-            "team": "det",
-            "start": "6:40 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jarren duran",
             "game": "bos @ det",
             "hr/park": "",
@@ -1791,6 +1776,21 @@
     ],
     "chw @ cin": [
         {
+            "player": "edgar quero",
+            "game": "chw @ cin",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-05-13 20:30:26",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "6:40 PM",
+            "in": "1",
+            "result": "Flyout",
+            "evo": "96.0",
+            "la": "26",
+            "dist": "324"
+        },
+        {
             "player": "miguel vargas",
             "game": "chw @ cin",
             "hr/park": "",
@@ -1800,7 +1800,7 @@
             "team": "chw",
             "start": "6:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "93.0",
             "la": "60",
             "dist": "210"
@@ -3548,10 +3548,10 @@
             "team": "mia",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "92.7",
+            "la": "-16",
+            "dist": "9"
         },
         {
             "player": "agustin ramirez",
