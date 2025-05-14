@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "57",
-        "batters": "116",
-        "pitches": "1923",
+        "batters": "117",
+        "pitches": "1929",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "74.7",
-        "ff%fourseam fastball %": "31.9",
+        "ff%fourseam fastball %": "32.0",
         "si%sinker %": "17.1",
-        "fc%cutter %": "7.4",
+        "fc%cutter %": "7.5",
         "fs%splitter %": "2.0",
-        "ch%changeup %": "10.6",
+        "ch%changeup %": "10.5",
         "sl%slider %": "24.3",
         "cu%curve %": "6.7",
         "max evmax exit velocity": "117.7",
         "hhhard hit": "144",
-        "hh%hard hit %": "44.9",
+        "hh%hard hit %": "44.6",
         "brlbarrels": "29",
         "brl%barrel %": "9.0",
         "ab": "423",
-        "avg": ".262",
-        "h": "111",
-        "1b": "76",
+        "avg": ".265",
+        "h": "112",
+        "1b": "77",
         "2b": "16",
         "3b": "0",
         "hr": "19",
-        "so": "112",
-        "bipballs in play": "321",
+        "so": "113",
+        "bipballs in play": "323",
         "liveGames": 8,
         "totGames": 17,
-        "updated": "2025-05-14 18:46:21.162155"
+        "updated": "2025-05-14 18:46:30.165620"
     },
     "min @ bal": [
         {
@@ -4851,10 +4851,10 @@
             "team": "sf",
             "start": "3:45 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "89.3",
+            "la": "4",
+            "dist": "97"
         },
         {
             "player": "jung hoo lee",
@@ -6128,7 +6128,7 @@
             "team": "nyy",
             "start": "4:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7171,11 +7171,11 @@
     ],
     "bos @ det": [
         {
-            "player": "rob refsnyder",
+            "player": "kristian campbell",
             "game": "bos @ det",
             "hr/park": "",
-            "pa": "4",
-            "dt": "2025-05-14 18:44:28",
+            "pa": "5",
+            "dt": "2025-05-14 18:46:25",
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
             "team": "bos",
             "start": "6:40 PM",
@@ -7184,6 +7184,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "rob refsnyder",
+            "game": "bos @ det",
+            "hr/park": "0/30",
+            "pa": "4",
+            "dt": "2025-05-14 18:44:28",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "6:40 PM",
+            "in": "1",
+            "result": "Sac Fly",
+            "evo": "88.0",
+            "la": "36",
+            "dist": "313"
         },
         {
             "player": "alex bregman",
