@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "48",
+        "pitchers": "49",
         "batters": "166",
-        "pitches": "1791",
+        "pitches": "1794",
         "max velomax pitch velocity": "102.0",
         "min velomin pitch velocity": "66.6",
         "ff%fourseam fastball %": "28.6",
@@ -10,25 +10,25 @@
         "fc%cutter %": "8.4",
         "fs%splitter %": "3.5",
         "ch%changeup %": "9.6",
-        "sl%slider %": "25.3",
+        "sl%slider %": "25.4",
         "cu%curve %": "8.9",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "115",
-        "hh%hard hit %": "37.5",
+        "hh%hard hit %": "37.6",
         "brlbarrels": "23",
         "brl%barrel %": "7.5",
-        "ab": "425",
+        "ab": "426",
         "avg": ".214",
         "h": "91",
         "1b": "59",
         "2b": "13",
         "3b": "3",
         "hr": "16",
-        "so": "116",
-        "bipballs in play": "307",
+        "so": "117",
+        "bipballs in play": "306",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-13 21:21:05.328151"
+        "updated": "2025-05-13 21:21:14.137120"
     },
     "mil @ cle": [
         {
@@ -1033,7 +1033,7 @@
             "team": "bos",
             "start": "6:40 PM",
             "in": "8",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2076,21 +2076,6 @@
     ],
     "chw @ cin": [
         {
-            "player": "edgar quero",
-            "game": "chw @ cin",
-            "hr/park": "",
-            "pa": "23",
-            "dt": "2025-05-13 21:20:41",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "start": "6:40 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "miguel vargas",
             "game": "chw @ cin",
             "hr/park": "",
@@ -2422,6 +2407,21 @@
         }
     ],
     "tb @ tor": [
+        {
+            "player": "bo bichette",
+            "game": "tb @ tor",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-05-13 21:21:11",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jose caballero",
             "game": "tb @ tor",
@@ -3349,7 +3349,7 @@
             "team": "pit",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5935,10 +5935,10 @@
             "team": "col",
             "start": "8:05 PM",
             "in": "5",
-            "result": "Flyout",
-            "evo": "79.0",
-            "la": "53",
-            "dist": "221"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "adael amador",
@@ -6468,6 +6468,21 @@
     ],
     "kc @ hou": [
         {
+            "player": "brendan rodgers",
+            "game": "kc @ hou",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-05-13 21:21:11",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cam smith",
             "game": "kc @ hou",
             "hr/park": "",
@@ -6477,7 +6492,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
