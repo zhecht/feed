@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "30",
         "batters": "136",
-        "pitches": "1109",
+        "pitches": "1115",
         "max velomax pitch velocity": "102.0",
         "min velomin pitch velocity": "66.6",
-        "ff%fourseam fastball %": "29.9",
-        "si%sinker %": "16.1",
+        "ff%fourseam fastball %": "29.7",
+        "si%sinker %": "16.2",
         "fc%cutter %": "7.6",
         "fs%splitter %": "4.2",
         "ch%changeup %": "7.7",
-        "sl%slider %": "26.8",
-        "cu%curve %": "7.7",
+        "sl%slider %": "26.9",
+        "cu%curve %": "7.6",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "64",
         "hh%hard hit %": "33.9",
         "brlbarrels": "11",
         "brl%barrel %": "5.8",
-        "ab": "264",
-        "avg": ".212",
+        "ab": "263",
+        "avg": ".213",
         "h": "56",
         "1b": "35",
         "2b": "8",
         "3b": "2",
         "hr": "11",
-        "so": "71",
+        "so": "72",
         "bipballs in play": "189",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-13 20:32:39.959349"
+        "updated": "2025-05-13 20:32:47.998289"
     },
     "mil @ cle": [
         {
@@ -1024,6 +1024,21 @@
     ],
     "bos @ det": [
         {
+            "player": "trey sweeney",
+            "game": "bos @ det",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-05-13 20:32:42",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "spencer torkelson",
             "game": "bos @ det",
             "hr/park": "",
@@ -1033,7 +1048,7 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1848,9 +1863,9 @@
             "start": "7:07 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "66.5",
-            "la": "8",
-            "dist": "82"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "tyler heineman",
@@ -3012,21 +3027,6 @@
     ],
     "wsh @ atl": [
         {
-            "player": "alex verdugo",
-            "game": "wsh @ atl",
-            "hr/park": "",
-            "pa": "40",
-            "dt": "2025-05-13 20:31:57",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "7:15 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "nick allen",
             "game": "wsh @ atl",
             "hr/park": "",
@@ -3623,10 +3623,10 @@
             "team": "mia",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "93.1",
+            "la": "77",
+            "dist": "46"
         },
         {
             "player": "kyle stowers",
@@ -4015,7 +4015,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4182,7 +4182,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
