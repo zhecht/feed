@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "57",
         "batters": "167",
-        "pitches": "2036",
+        "pitches": "2046",
         "max velomax pitch velocity": "102.0",
         "min velomin pitch velocity": "66.6",
-        "ff%fourseam fastball %": "30.1",
+        "ff%fourseam fastball %": "30.2",
         "si%sinker %": "15.0",
         "fc%cutter %": "7.8",
         "fs%splitter %": "3.3",
@@ -14,7 +14,7 @@
         "cu%curve %": "9.2",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "132",
-        "hh%hard hit %": "37.8",
+        "hh%hard hit %": "37.7",
         "brlbarrels": "28",
         "brl%barrel %": "8.0",
         "ab": "478",
@@ -24,11 +24,11 @@
         "2b": "16",
         "3b": "3",
         "hr": "19",
-        "so": "128",
-        "bipballs in play": "349",
+        "so": "130",
+        "bipballs in play": "350",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-13 21:37:44.721083"
+        "updated": "2025-05-13 21:38:09.566907"
     },
     "mil @ cle": [
         {
@@ -1033,7 +1033,7 @@
             "team": "bos",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2190,7 +2190,7 @@
             "team": "chw",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2657,7 +2657,7 @@
             "team": "tb",
             "start": "7:07 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3700,6 +3700,21 @@
     ],
     "pit @ nym": [
         {
+            "player": "isiah kiner falefa",
+            "game": "pit @ nym",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-05-13 21:38:03",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "adam frazier",
             "game": "pit @ nym",
             "hr/park": "",
@@ -4731,10 +4746,10 @@
             "team": "wsh",
             "start": "7:15 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "94.3",
+            "la": "-31",
+            "dist": "5"
         },
         {
             "player": "keibert ruiz",
