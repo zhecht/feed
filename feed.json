@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "92",
         "batters": "253",
-        "pitches": "3300",
+        "pitches": "3301",
         "max velomax pitch velocity": "102.0",
         "min velomin pitch velocity": "66.6",
         "ff%fourseam fastball %": "31.8",
@@ -10,7 +10,7 @@
         "fc%cutter %": "6.7",
         "fs%splitter %": "2.8",
         "ch%changeup %": "10.0",
-        "sl%slider %": "25.8",
+        "sl%slider %": "25.7",
         "cu%curve %": "9.0",
         "max evmax exit velocity": "114.9",
         "hhhard hit": "222",
@@ -28,7 +28,7 @@
         "bipballs in play": "574",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-13 23:24:48.659355"
+        "updated": "2025-05-13 23:24:59.222921"
     },
     "mil @ cle": [
         {
@@ -2445,7 +2445,7 @@
             "team": "cin",
             "start": "6:40 PM",
             "in": "10",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10100,21 +10100,6 @@
     ],
     "laa @ sd": [
         {
-            "player": "zach neto",
-            "game": "laa @ sd",
-            "hr/park": "",
-            "pa": "50",
-            "dt": "2025-05-13 23:24:36",
-            "img": "https://www.mlbstatic.com/team-logos/108.svg",
-            "team": "laa",
-            "start": "9:40 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "kyren paris",
             "game": "laa @ sd",
             "hr/park": "13/30",
@@ -12146,16 +12131,31 @@
     ],
     "ath @ lad": [
         {
-            "player": "tyler soderstrom",
+            "player": "brent rooker",
             "game": "ath @ lad",
             "hr/park": "",
+            "pa": "38",
+            "dt": "2025-05-13 23:24:52",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "tyler soderstrom",
+            "game": "ath @ lad",
+            "hr/park": "0/30",
             "pa": "37",
             "dt": "2025-05-13 23:23:38",
             "img": "https://www.mlbstatic.com/team-logos/133.svg",
             "team": "ath",
             "start": "10:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "99.1",
             "la": "37",
             "dist": "358"
