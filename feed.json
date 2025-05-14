@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "68",
+        "pitchers": "69",
         "batters": "185",
-        "pitches": "2382",
+        "pitches": "2388",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "32.7",
         "si%sinker %": "17.4",
-        "fc%cutter %": "7.4",
+        "fc%cutter %": "7.5",
         "fs%splitter %": "2.2",
         "ch%changeup %": "10.4",
         "sl%slider %": "21.6",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "117.7",
         "hhhard hit": "179",
-        "hh%hard hit %": "44.5",
+        "hh%hard hit %": "44.4",
         "brlbarrels": "36",
-        "brl%barrel %": "9.0",
-        "ab": "533",
+        "brl%barrel %": "8.9",
+        "ab": "534",
         "avg": ".266",
         "h": "142",
         "1b": "95",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "24",
         "so": "142",
-        "bipballs in play": "402",
+        "bipballs in play": "403",
         "liveGames": 13,
         "totGames": 17,
-        "updated": "2025-05-14 19:42:53.263335"
+        "updated": "2025-05-14 19:43:02.675150"
     },
     "min @ bal": [
         {
@@ -3457,6 +3457,21 @@
         }
     ],
     "stl-gm2 @ phi-gm2": [
+        {
+            "player": "alec burleson",
+            "game": "stl-gm2 @ phi-gm2",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-05-14 19:42:56",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "6:15 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ivan herrera",
             "game": "stl-gm2 @ phi-gm2",
@@ -8756,17 +8771,17 @@
         {
             "player": "ozzie albies",
             "game": "wsh @ atl",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "14",
             "dt": "2025-05-14 19:41:56",
             "img": "https://www.mlbstatic.com/team-logos/144.svg",
             "team": "atl",
             "start": "7:15 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "93.4",
+            "la": "26",
+            "dist": "351"
         },
         {
             "player": "sean murphy",
@@ -8975,7 +8990,7 @@
             "team": "mia",
             "start": "7:40 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
