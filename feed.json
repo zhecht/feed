@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "35",
         "batters": "105",
-        "pitches": "1402",
+        "pitches": "1404",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "74.7",
-        "ff%fourseam fastball %": "32.7",
+        "ff%fourseam fastball %": "32.8",
         "si%sinker %": "14.6",
         "fc%cutter %": "7.3",
         "fs%splitter %": "1.6",
@@ -13,22 +13,22 @@
         "sl%slider %": "24.4",
         "cu%curve %": "7.1",
         "max evmax exit velocity": "109.3",
-        "hhhard hit": "99",
-        "hh%hard hit %": "43.6",
-        "brlbarrels": "16",
-        "brl%barrel %": "7.0",
-        "ab": "299",
-        "avg": ".264",
-        "h": "79",
+        "hhhard hit": "100",
+        "hh%hard hit %": "43.9",
+        "brlbarrels": "17",
+        "brl%barrel %": "7.5",
+        "ab": "301",
+        "avg": ".266",
+        "h": "80",
         "1b": "54",
         "2b": "12",
         "3b": "0",
-        "hr": "13",
+        "hr": "14",
         "so": "80",
-        "bipballs in play": "227",
+        "bipballs in play": "228",
         "liveGames": 6,
         "totGames": 17,
-        "updated": "2025-05-14 17:10:03.073981"
+        "updated": "2025-05-14 17:10:11.409116"
     },
     "min @ bal": [
         {
@@ -1233,6 +1233,21 @@
         }
     ],
     "min-gm2 @ bal-gm2": [
+        {
+            "player": "willi castro",
+            "game": "min-gm2 @ bal-gm2",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-05-14 17:10:10",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "3:35 PM",
+            "in": "5",
+            "result": "Home Run",
+            "evo": "105.8",
+            "la": "28",
+            "dist": "402"
+        },
         {
             "player": "brooks lee",
             "game": "min-gm2 @ bal-gm2",
@@ -4091,6 +4106,21 @@
     ],
     "ari @ sf": [
         {
+            "player": "heliot ramos",
+            "game": "ari @ sf",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-05-14 17:10:10",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "3:45 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "christian koss",
             "game": "ari @ sf",
             "hr/park": "",
@@ -4100,7 +4130,7 @@
             "team": "sf",
             "start": "3:45 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "92.7",
             "la": "17",
             "dist": "289"
