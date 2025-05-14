@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "63",
         "batters": "144",
-        "pitches": "2135",
+        "pitches": "2138",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "33.1",
         "si%sinker %": "17.3",
-        "fc%cutter %": "7.3",
+        "fc%cutter %": "7.2",
         "fs%splitter %": "2.1",
         "ch%changeup %": "10.5",
-        "sl%slider %": "22.4",
+        "sl%slider %": "22.5",
         "cu%curve %": "7.4",
         "max evmax exit velocity": "117.7",
         "hhhard hit": "160",
         "hh%hard hit %": "44.9",
         "brlbarrels": "33",
         "brl%barrel %": "9.3",
-        "ab": "469",
-        "avg": ".267",
+        "ab": "470",
+        "avg": ".266",
         "h": "125",
         "1b": "85",
         "2b": "19",
@@ -28,7 +28,7 @@
         "bipballs in play": "356",
         "liveGames": 12,
         "totGames": 17,
-        "updated": "2025-05-14 19:19:53.222939"
+        "updated": "2025-05-14 19:20:02.295940"
     },
     "min @ bal": [
         {
@@ -3457,6 +3457,21 @@
         }
     ],
     "stl-gm2 @ phi-gm2": [
+        {
+            "player": "victor scott",
+            "game": "stl-gm2 @ phi-gm2",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-05-14 19:19:10",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "6:15 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "nolan gorman",
             "game": "stl-gm2 @ phi-gm2",
@@ -7531,21 +7546,6 @@
     ],
     "bos @ det": [
         {
-            "player": "akil baddoo",
-            "game": "bos @ det",
-            "hr/park": "",
-            "pa": "20",
-            "dt": "2025-05-14 19:19:26",
-            "img": "https://www.mlbstatic.com/team-logos/116.svg",
-            "team": "det",
-            "start": "6:40 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "rafael devers",
             "game": "bos @ det",
             "hr/park": "",
@@ -7833,16 +7833,31 @@
     ],
     "tb @ tor": [
         {
-            "player": "bo bichette",
+            "player": "vladimir guerrero",
             "game": "tb @ tor",
             "hr/park": "",
+            "pa": "7",
+            "dt": "2025-05-14 19:19:56",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "bo bichette",
+            "game": "tb @ tor",
+            "hr/park": "0/30",
             "pa": "6",
             "dt": "2025-05-14 19:18:55",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "start": "7:07 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "99.4",
             "la": "24",
             "dist": "344"
