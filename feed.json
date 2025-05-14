@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "70",
-        "batters": "196",
-        "pitches": "2500",
+        "batters": "197",
+        "pitches": "2502",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "69.4",
-        "ff%fourseam fastball %": "32.8",
+        "ff%fourseam fastball %": "32.7",
         "si%sinker %": "17.6",
         "fc%cutter %": "7.4",
         "fs%splitter %": "2.1",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.6",
         "cu%curve %": "8.1",
         "max evmax exit velocity": "117.7",
-        "hhhard hit": "184",
-        "hh%hard hit %": "43.8",
-        "brlbarrels": "37",
-        "brl%barrel %": "8.8",
-        "ab": "559",
-        "avg": ".267",
+        "hhhard hit": "186",
+        "hh%hard hit %": "44.0",
+        "brlbarrels": "38",
+        "brl%barrel %": "9.0",
+        "ab": "560",
+        "avg": ".266",
         "h": "149",
         "1b": "100",
         "2b": "24",
         "3b": "0",
         "hr": "25",
         "so": "150",
-        "bipballs in play": "420",
+        "bipballs in play": "423",
         "liveGames": 13,
         "totGames": 17,
-        "updated": "2025-05-14 19:51:36.942190"
+        "updated": "2025-05-14 19:51:46.649944"
     },
     "min @ bal": [
         {
@@ -8337,7 +8337,7 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "3",
-            "result": "Field Error",
+            "result": "In Progress",
             "evo": "58.1",
             "la": "-39",
             "dist": "5"
@@ -8630,19 +8630,34 @@
     ],
     "pit @ nym": [
         {
-            "player": "joey bart",
+            "player": "alexander canario",
             "game": "pit @ nym",
             "hr/park": "",
+            "pa": "11",
+            "dt": "2025-05-14 19:51:41",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "93.9",
+            "la": "-28",
+            "dist": "6"
+        },
+        {
+            "player": "joey bart",
+            "game": "pit @ nym",
+            "hr/park": "0/30",
             "pa": "10",
             "dt": "2025-05-14 19:50:55",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
             "team": "pit",
             "start": "7:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "98.9",
+            "la": "29",
+            "dist": "337"
         },
         {
             "player": "luis torrens",
@@ -9056,17 +9071,17 @@
         {
             "player": "james wood",
             "game": "wsh @ atl",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "18",
             "dt": "2025-05-14 19:49:43",
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
             "team": "wsh",
             "start": "7:15 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "108.6",
+            "la": "12",
+            "dist": "307"
         },
         {
             "player": "amed rosario",
@@ -9335,7 +9350,7 @@
             "team": "chc",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
