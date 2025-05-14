@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "29",
+        "pitchers": "30",
         "batters": "135",
-        "pitches": "1090",
+        "pitches": "1100",
         "max velomax pitch velocity": "102.0",
         "min velomin pitch velocity": "66.6",
         "ff%fourseam fastball %": "29.7",
-        "si%sinker %": "16.0",
-        "fc%cutter %": "7.7",
+        "si%sinker %": "16.3",
+        "fc%cutter %": "7.6",
         "fs%splitter %": "4.3",
         "ch%changeup %": "7.5",
-        "sl%slider %": "27.2",
+        "sl%slider %": "26.9",
         "cu%curve %": "7.6",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "64",
         "hh%hard hit %": "34.0",
         "brlbarrels": "11",
         "brl%barrel %": "5.9",
-        "ab": "258",
-        "avg": ".217",
+        "ab": "260",
+        "avg": ".215",
         "h": "56",
         "1b": "35",
         "2b": "8",
@@ -28,7 +28,7 @@
         "bipballs in play": "188",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-13 20:31:19.383719"
+        "updated": "2025-05-13 20:31:27.536726"
     },
     "mil @ cle": [
         {
@@ -1024,6 +1024,21 @@
     ],
     "bos @ det": [
         {
+            "player": "spencer torkelson",
+            "game": "bos @ det",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-05-13 20:30:26",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jarren duran",
             "game": "bos @ det",
             "hr/park": "",
@@ -1822,6 +1837,21 @@
         }
     ],
     "tb @ tor": [
+        {
+            "player": "nathan lukes",
+            "game": "tb @ tor",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-05-13 20:31:26",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "5",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "tyler heineman",
             "game": "tb @ tor",
@@ -2967,6 +2997,21 @@
     ],
     "wsh @ atl": [
         {
+            "player": "nick allen",
+            "game": "wsh @ atl",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-05-13 20:31:26",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "5",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "eli white",
             "game": "wsh @ atl",
             "hr/park": "",
@@ -2976,7 +3021,7 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3925,7 +3970,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "1",
-            "result": "Wild Pitch",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
