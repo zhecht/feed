@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "61",
         "batters": "138",
-        "pitches": "2118",
-        "max velomax pitch velocity": "100.1",
+        "pitches": "2122",
+        "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "69.4",
-        "ff%fourseam fastball %": "33.1",
-        "si%sinker %": "17.1",
+        "ff%fourseam fastball %": "33.0",
+        "si%sinker %": "17.2",
         "fc%cutter %": "7.3",
         "fs%splitter %": "2.1",
         "ch%changeup %": "10.5",
         "sl%slider %": "22.5",
         "cu%curve %": "7.4",
         "max evmax exit velocity": "117.7",
-        "hhhard hit": "155",
-        "hh%hard hit %": "44.5",
-        "brlbarrels": "32",
-        "brl%barrel %": "9.2",
-        "ab": "461",
-        "avg": ".265",
-        "h": "122",
+        "hhhard hit": "157",
+        "hh%hard hit %": "44.7",
+        "brlbarrels": "33",
+        "brl%barrel %": "9.4",
+        "ab": "463",
+        "avg": ".266",
+        "h": "123",
         "1b": "83",
         "2b": "19",
         "3b": "0",
-        "hr": "20",
+        "hr": "21",
         "so": "126",
-        "bipballs in play": "348",
+        "bipballs in play": "351",
         "liveGames": 12,
         "totGames": 17,
-        "updated": "2025-05-14 19:17:36.577091"
+        "updated": "2025-05-14 19:17:45.726245"
     },
     "min @ bal": [
         {
@@ -3457,6 +3457,21 @@
         }
     ],
     "stl-gm2 @ phi-gm2": [
+        {
+            "player": "alec burleson",
+            "game": "stl-gm2 @ phi-gm2",
+            "hr/park": "29/30",
+            "pa": "28",
+            "dt": "2025-05-14 19:17:41",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "6:15 PM",
+            "in": "3",
+            "result": "Home Run",
+            "evo": "106.7",
+            "la": "22",
+            "dist": "404"
+        },
         {
             "player": "ivan herrera",
             "game": "stl-gm2 @ phi-gm2",
@@ -7501,6 +7516,21 @@
     ],
     "bos @ det": [
         {
+            "player": "rafael devers",
+            "game": "bos @ det",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-05-14 19:17:41",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "94.1",
+            "la": "-29",
+            "dist": "6"
+        },
+        {
             "player": "jarren duran",
             "game": "bos @ det",
             "hr/park": "",
@@ -7860,13 +7890,29 @@
             "team": "chw",
             "start": "7:14 PM",
             "in": "1",
+            "result": "Lineout",
+            "evo": "97.4",
+            "la": "14",
+            "dist": "263"
+        }
+    ],
+    "wsh @ atl": [
+        {
+            "player": "cj abrams",
+            "game": "wsh @ atl",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-14 19:17:41",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "7:15 PM",
+            "in": "1",
             "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
         }
     ],
-    "wsh @ atl": [],
     "mia @ chc": [],
     "col @ tex": [],
     "kc @ hou": [],
