@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "60",
-        "batters": "130",
-        "pitches": "2071",
+        "batters": "132",
+        "pitches": "2075",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "74.7",
         "ff%fourseam fastball %": "33.2",
-        "si%sinker %": "16.8",
+        "si%sinker %": "16.9",
         "fc%cutter %": "7.2",
-        "fs%splitter %": "2.0",
+        "fs%splitter %": "2.1",
         "ch%changeup %": "10.6",
         "sl%slider %": "23.0",
         "cu%curve %": "7.1",
         "max evmax exit velocity": "117.7",
         "hhhard hit": "150",
-        "hh%hard hit %": "44.4",
+        "hh%hard hit %": "44.2",
         "brlbarrels": "32",
-        "brl%barrel %": "9.5",
-        "ab": "448",
-        "avg": ".261",
+        "brl%barrel %": "9.4",
+        "ab": "450",
+        "avg": ".260",
         "h": "117",
         "1b": "79",
         "2b": "18",
         "3b": "0",
         "hr": "20",
         "so": "123",
-        "bipballs in play": "338",
+        "bipballs in play": "339",
         "liveGames": 10,
         "totGames": 17,
-        "updated": "2025-05-14 19:10:23.908479"
+        "updated": "2025-05-14 19:10:33.084053"
     },
     "min @ bal": [
         {
@@ -7441,6 +7441,21 @@
     ],
     "bos @ det": [
         {
+            "player": "trey sweeney",
+            "game": "bos @ det",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-05-14 19:10:27",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "zach mckinstry",
             "game": "bos @ det",
             "hr/park": "",
@@ -7653,6 +7668,21 @@
     ],
     "tb @ tor": [
         {
+            "player": "brandon lowe",
+            "game": "tb @ tor",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-05-14 19:10:27",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:07 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "chandler simpson",
             "game": "tb @ tor",
             "hr/park": "",
@@ -7662,10 +7692,10 @@
             "team": "tb",
             "start": "7:07 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Groundout",
+            "evo": "75.4",
             "la": "",
-            "dist": ""
+            "dist": "42"
         }
     ],
     "pit @ nym": [],
