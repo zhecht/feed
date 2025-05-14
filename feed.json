@@ -1,13 +1,13 @@
 {
     "all": {
         "pitchers": "37",
-        "batters": "160",
-        "pitches": "1510",
+        "batters": "161",
+        "pitches": "1514",
         "max velomax pitch velocity": "102.0",
         "min velomin pitch velocity": "66.6",
-        "ff%fourseam fastball %": "28.8",
+        "ff%fourseam fastball %": "28.9",
         "si%sinker %": "16.1",
-        "fc%cutter %": "8.4",
+        "fc%cutter %": "8.5",
         "fs%splitter %": "4.2",
         "ch%changeup %": "8.5",
         "sl%slider %": "26.0",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "34.2",
         "brlbarrels": "18",
         "brl%barrel %": "7.0",
-        "ab": "352",
-        "avg": ".216",
+        "ab": "354",
+        "avg": ".215",
         "h": "76",
         "1b": "50",
         "2b": "10",
@@ -28,7 +28,7 @@
         "bipballs in play": "257",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-13 21:00:25.345635"
+        "updated": "2025-05-13 21:00:33.870218"
     },
     "mil @ cle": [
         {
@@ -1026,14 +1026,14 @@
         {
             "player": "riley greene",
             "game": "bos @ det",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "62",
             "dt": "2025-05-13 20:58:11",
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
             "team": "det",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "93.4",
             "la": "41",
             "dist": "327"
@@ -1956,6 +1956,21 @@
     ],
     "chw @ cin": [
         {
+            "player": "michael a taylor",
+            "game": "chw @ cin",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-05-13 21:00:28",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh rojas",
             "game": "chw @ cin",
             "hr/park": "",
@@ -2168,6 +2183,21 @@
     ],
     "tb @ tor": [
         {
+            "player": "brandon lowe",
+            "game": "tb @ tor",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-05-13 21:00:28",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:07 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "chandler simpson",
             "game": "tb @ tor",
             "hr/park": "",
@@ -2177,7 +2207,7 @@
             "team": "tb",
             "start": "7:07 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "61.7",
             "la": "4",
             "dist": "56"
