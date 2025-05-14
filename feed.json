@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "18",
         "batters": "99",
-        "pitches": "680",
+        "pitches": "688",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "66.6",
-        "ff%fourseam fastball %": "28.4",
-        "si%sinker %": "18.5",
-        "fc%cutter %": "7.2",
+        "ff%fourseam fastball %": "28.2",
+        "si%sinker %": "18.3",
+        "fc%cutter %": "7.1",
         "fs%splitter %": "3.2",
         "ch%changeup %": "7.4",
-        "sl%slider %": "29.3",
-        "cu%curve %": "6.0",
+        "sl%slider %": "29.4",
+        "cu%curve %": "6.4",
         "max evmax exit velocity": "110.8",
-        "hhhard hit": "37",
-        "hh%hard hit %": "32.2",
+        "hhhard hit": "38",
+        "hh%hard hit %": "32.5",
         "brlbarrels": "6",
-        "brl%barrel %": "5.2",
-        "ab": "160",
-        "avg": ".206",
-        "h": "33",
-        "1b": "18",
+        "brl%barrel %": "5.1",
+        "ab": "163",
+        "avg": ".209",
+        "h": "34",
+        "1b": "19",
         "2b": "8",
         "3b": "1",
         "hr": "6",
         "so": "46",
-        "bipballs in play": "115",
+        "bipballs in play": "117",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-05-13 20:01:20.228568"
+        "updated": "2025-05-13 20:01:27.861996"
     },
     "mil @ cle": [
         {
@@ -843,6 +843,21 @@
         }
     ],
     "bos @ det": [
+        {
+            "player": "rafael devers",
+            "game": "bos @ det",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-05-13 20:00:56",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jarren duran",
             "game": "bos @ det",
@@ -1794,6 +1809,21 @@
     ],
     "pit @ nym": [
         {
+            "player": "joey bart",
+            "game": "pit @ nym",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-05-13 20:01:26",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "pete alonso",
             "game": "pit @ nym",
             "hr/park": "",
@@ -2156,6 +2186,21 @@
     ],
     "wsh @ atl": [
         {
+            "player": "amed rosario",
+            "game": "wsh @ atl",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-05-13 20:01:26",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "7:15 PM",
+            "in": "4",
+            "result": "Single",
+            "evo": "103.1",
+            "la": "-10",
+            "dist": "14"
+        },
+        {
             "player": "keibert ruiz",
             "game": "wsh @ atl",
             "hr/park": "",
@@ -2165,10 +2210,10 @@
             "team": "wsh",
             "start": "7:15 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "81.3",
+            "la": "-11",
+            "dist": "14"
         },
         {
             "player": "nathaniel lowe",
