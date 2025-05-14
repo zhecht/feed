@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "21",
         "batters": "59",
-        "pitches": "847",
+        "pitches": "849",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "74.9",
         "ff%fourseam fastball %": "28.2",
-        "si%sinker %": "16.2",
+        "si%sinker %": "16.3",
         "fc%cutter %": "9.8",
         "fs%splitter %": "2.2",
         "ch%changeup %": "15.0",
-        "sl%slider %": "22.2",
+        "sl%slider %": "22.3",
         "cu%curve %": "6.4",
         "max evmax exit velocity": "107.7",
-        "hhhard hit": "60",
-        "hh%hard hit %": "43.2",
+        "hhhard hit": "61",
+        "hh%hard hit %": "43.6",
         "brlbarrels": "8",
-        "brl%barrel %": "5.8",
+        "brl%barrel %": "5.7",
         "ab": "181",
         "avg": ".221",
         "h": "40",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "6",
         "so": "45",
-        "bipballs in play": "139",
+        "bipballs in play": "140",
         "liveGames": 3,
         "totGames": 17,
-        "updated": "2025-05-14 15:25:32.939475"
+        "updated": "2025-05-14 15:25:40.629847"
     },
     "min @ bal": [
         {
@@ -1244,7 +1244,7 @@
             "team": "stl",
             "start": "1:05 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2177,10 +2177,10 @@
             "team": "mil",
             "start": "1:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "96.7",
+            "la": "3",
+            "dist": "85"
         },
         {
             "player": "caleb durbin",
