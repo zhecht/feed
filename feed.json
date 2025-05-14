@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "36",
-        "batters": "158",
-        "pitches": "1389",
+        "batters": "157",
+        "pitches": "1392",
         "max velomax pitch velocity": "102.0",
         "min velomin pitch velocity": "66.6",
         "ff%fourseam fastball %": "29.4",
-        "si%sinker %": "15.9",
-        "fc%cutter %": "8.1",
+        "si%sinker %": "16.0",
+        "fc%cutter %": "8.0",
         "fs%splitter %": "4.0",
         "ch%changeup %": "8.3",
-        "sl%slider %": "26.6",
-        "cu%curve %": "7.8",
+        "sl%slider %": "26.4",
+        "cu%curve %": "7.9",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "81",
-        "hh%hard hit %": "34.5",
+        "hh%hard hit %": "34.3",
         "brlbarrels": "14",
-        "brl%barrel %": "6.0",
+        "brl%barrel %": "5.9",
         "ab": "328",
         "avg": ".213",
         "h": "70",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "12",
         "so": "88",
-        "bipballs in play": "235",
+        "bipballs in play": "236",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-13 20:52:10.251125"
+        "updated": "2025-05-13 20:52:18.717812"
     },
     "mil @ cle": [
         {
@@ -1024,6 +1024,21 @@
     ],
     "bos @ det": [
         {
+            "player": "kristian campbell",
+            "game": "bos @ det",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-05-13 20:50:40",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alex bregman",
             "game": "bos @ det",
             "hr/park": "",
@@ -1896,21 +1911,6 @@
     ],
     "chw @ cin": [
         {
-            "player": "tyler stephenson",
-            "game": "chw @ cin",
-            "hr/park": "",
-            "pa": "12",
-            "dt": "2025-05-13 20:51:56",
-            "img": "https://www.mlbstatic.com/team-logos/113.svg",
-            "team": "cin",
-            "start": "6:40 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "austin hays",
             "game": "chw @ cin",
             "hr/park": "",
@@ -2077,21 +2077,6 @@
         }
     ],
     "tb @ tor": [
-        {
-            "player": "anthony santander",
-            "game": "tb @ tor",
-            "hr/park": "",
-            "pa": "48",
-            "dt": "2025-05-13 20:51:56",
-            "img": "https://www.mlbstatic.com/team-logos/141.svg",
-            "team": "tor",
-            "start": "7:07 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "danny jansen",
             "game": "tb @ tor",
@@ -4259,6 +4244,21 @@
     ],
     "mia @ chc": [
         {
+            "player": "xavier edwards",
+            "game": "mia @ chc",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-05-13 20:52:13",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "javier sanoja",
             "game": "mia @ chc",
             "hr/park": "",
@@ -4268,10 +4268,10 @@
             "team": "mia",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "78.0",
+            "la": "-10",
+            "dist": "19"
         },
         {
             "player": "derek hill",
