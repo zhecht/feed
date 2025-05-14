@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "81",
         "batters": "231",
-        "pitches": "2684",
+        "pitches": "2690",
         "max velomax pitch velocity": "102.0",
         "min velomin pitch velocity": "66.6",
         "ff%fourseam fastball %": "30.1",
@@ -11,24 +11,24 @@
         "fs%splitter %": "3.0",
         "ch%changeup %": "10.1",
         "sl%slider %": "25.2",
-        "cu%curve %": "9.6",
+        "cu%curve %": "9.7",
         "max evmax exit velocity": "113.9",
-        "hhhard hit": "170",
+        "hhhard hit": "171",
         "hh%hard hit %": "36.2",
-        "brlbarrels": "37",
-        "brl%barrel %": "7.9",
+        "brlbarrels": "38",
+        "brl%barrel %": "8.1",
         "ab": "638",
-        "avg": ".221",
-        "h": "141",
+        "avg": ".223",
+        "h": "142",
         "1b": "90",
         "2b": "25",
         "3b": "3",
-        "hr": "23",
+        "hr": "24",
         "so": "173",
-        "bipballs in play": "470",
+        "bipballs in play": "472",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-13 22:19:42.204537"
+        "updated": "2025-05-13 22:19:51.856088"
     },
     "mil @ cle": [
         {
@@ -1023,6 +1023,21 @@
         }
     ],
     "bos @ det": [
+        {
+            "player": "javier baez",
+            "game": "bos @ det",
+            "hr/park": "26/30",
+            "pa": "95",
+            "dt": "2025-05-13 22:19:51",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "11",
+            "result": "Home Run",
+            "evo": "99.4",
+            "la": "31",
+            "dist": "371"
+        },
         {
             "player": "jace jung",
             "game": "bos @ det",
@@ -2430,7 +2445,7 @@
             "team": "cin",
             "start": "6:40 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7675,10 +7690,10 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "85.4",
+            "la": "8",
+            "dist": "164"
         },
         {
             "player": "joc pederson",
@@ -9584,7 +9599,7 @@
             "team": "sd",
             "start": "9:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
