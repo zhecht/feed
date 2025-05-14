@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "92",
+        "pitchers": "93",
         "batters": "253",
-        "pitches": "3301",
+        "pitches": "3303",
         "max velomax pitch velocity": "102.0",
         "min velomin pitch velocity": "66.6",
-        "ff%fourseam fastball %": "31.8",
+        "ff%fourseam fastball %": "31.9",
         "si%sinker %": "13.8",
         "fc%cutter %": "6.7",
         "fs%splitter %": "2.8",
@@ -24,11 +24,11 @@
         "2b": "34",
         "3b": "3",
         "hr": "31",
-        "so": "208",
+        "so": "209",
         "bipballs in play": "574",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-13 23:24:59.222921"
+        "updated": "2025-05-13 23:25:09.956664"
     },
     "mil @ cle": [
         {
@@ -2445,7 +2445,7 @@
             "team": "cin",
             "start": "6:40 PM",
             "in": "10",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10837,6 +10837,21 @@
     ],
     "nyy @ sea": [
         {
+            "player": "cal raleigh",
+            "game": "nyy @ sea",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-05-13 23:25:06",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "9:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cody bellinger",
             "game": "nyy @ sea",
             "hr/park": "",
@@ -12131,21 +12146,6 @@
     ],
     "ath @ lad": [
         {
-            "player": "brent rooker",
-            "game": "ath @ lad",
-            "hr/park": "",
-            "pa": "38",
-            "dt": "2025-05-13 23:24:52",
-            "img": "https://www.mlbstatic.com/team-logos/133.svg",
-            "team": "ath",
-            "start": "10:10 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "tyler soderstrom",
             "game": "ath @ lad",
             "hr/park": "0/30",
@@ -12155,7 +12155,7 @@
             "team": "ath",
             "start": "10:10 PM",
             "in": "5",
-            "result": "Flyout",
+            "result": "In Progress",
             "evo": "99.1",
             "la": "37",
             "dist": "358"
