@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "74",
-        "batters": "223",
-        "pitches": "2766",
+        "pitchers": "76",
+        "batters": "225",
+        "pitches": "2772",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "32.3",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.6",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "117.7",
-        "hhhard hit": "210",
-        "hh%hard hit %": "44.4",
+        "hhhard hit": "211",
+        "hh%hard hit %": "44.5",
         "brlbarrels": "46",
         "brl%barrel %": "9.7",
-        "ab": "625",
-        "avg": ".264",
+        "ab": "629",
+        "avg": ".262",
         "h": "165",
         "1b": "110",
         "2b": "26",
         "3b": "1",
         "hr": "28",
         "so": "166",
-        "bipballs in play": "473",
+        "bipballs in play": "474",
         "liveGames": 15,
         "totGames": 17,
-        "updated": "2025-05-14 20:13:35.402234"
+        "updated": "2025-05-14 20:13:45.351006"
     },
     "min @ bal": [
         {
@@ -8628,16 +8628,31 @@
     ],
     "tb @ tor": [
         {
-            "player": "george springer",
+            "player": "daulton varsho",
             "game": "tb @ tor",
             "hr/park": "",
+            "pa": "32",
+            "dt": "2025-05-14 20:13:42",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "george springer",
+            "game": "tb @ tor",
+            "hr/park": "0/30",
             "pa": "31",
             "dt": "2025-05-14 20:13:11",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "start": "7:07 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "96.3",
             "la": "26",
             "dist": "351"
@@ -10196,6 +10211,21 @@
     ],
     "mia @ chc": [
         {
+            "player": "xavier edwards",
+            "game": "mia @ chc",
+            "hr/park": "0/30",
+            "pa": "17",
+            "dt": "2025-05-14 20:13:42",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "Lineout",
+            "evo": "96.7",
+            "la": "19",
+            "dist": "311"
+        },
+        {
             "player": "nick fortes",
             "game": "mia @ chc",
             "hr/park": "",
@@ -10438,6 +10468,21 @@
     ],
     "col @ tex": [
         {
+            "player": "josh smith",
+            "game": "col @ tex",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-05-14 20:13:42",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jordan beck",
             "game": "col @ tex",
             "hr/park": "",
@@ -10483,7 +10528,23 @@
             "dist": "215"
         }
     ],
-    "kc @ hou": [],
+    "kc @ hou": [
+        {
+            "player": "jonathan india",
+            "game": "kc @ hou",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-14 20:13:42",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "laa @ sd": [],
     "ath @ lad": []
 }
