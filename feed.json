@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "79",
         "batters": "244",
-        "pitches": "3057",
+        "pitches": "3060",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "69.4",
-        "ff%fourseam fastball %": "31.9",
+        "ff%fourseam fastball %": "31.8",
         "si%sinker %": "18.0",
         "fc%cutter %": "7.9",
         "fs%splitter %": "2.1",
@@ -13,22 +13,22 @@
         "sl%slider %": "22.0",
         "cu%curve %": "7.7",
         "max evmax exit velocity": "117.7",
-        "hhhard hit": "245",
+        "hhhard hit": "246",
         "hh%hard hit %": "45.8",
-        "brlbarrels": "52",
-        "brl%barrel %": "9.7",
-        "ab": "704",
-        "avg": ".268",
-        "h": "189",
-        "1b": "129",
+        "brlbarrels": "53",
+        "brl%barrel %": "9.9",
+        "ab": "705",
+        "avg": ".271",
+        "h": "191",
+        "1b": "130",
         "2b": "27",
         "3b": "2",
-        "hr": "31",
-        "so": "179",
-        "bipballs in play": "535",
+        "hr": "32",
+        "so": "178",
+        "bipballs in play": "537",
         "liveGames": 15,
         "totGames": 17,
-        "updated": "2025-05-14 20:31:45.592162"
+        "updated": "2025-05-14 20:31:56.530140"
     },
     "min @ bal": [
         {
@@ -8862,10 +8862,10 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "84.9",
+            "la": "-8",
+            "dist": "14"
         },
         {
             "player": "jonatan clase",
@@ -9470,6 +9470,21 @@
     ],
     "pit @ nym": [
         {
+            "player": "matt gorski",
+            "game": "pit @ nym",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-05-14 20:31:56",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "isiah kiner falefa",
             "game": "pit @ nym",
             "hr/park": "",
@@ -9479,7 +9494,7 @@
             "team": "pit",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "95.4",
             "la": "6",
             "dist": "130"
@@ -11437,7 +11452,7 @@
             "team": "col",
             "start": "8:05 PM",
             "in": "2",
-            "result": "Strikeout",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11627,17 +11642,17 @@
         {
             "player": "maikel garcia",
             "game": "kc @ hou",
-            "hr/park": "",
+            "hr/park": "30/30",
             "pa": "8",
             "dt": "2025-05-14 20:30:56",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "105.2",
+            "la": "29",
+            "dist": "405"
         },
         {
             "player": "isaac paredes",
