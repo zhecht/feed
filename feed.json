@@ -2,25 +2,25 @@
     "all": {
         "pitchers": "77",
         "batters": "231",
-        "pitches": "2823",
+        "pitches": "2828",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "32.2",
-        "si%sinker %": "17.7",
-        "fc%cutter %": "7.7",
+        "si%sinker %": "17.8",
+        "fc%cutter %": "7.8",
         "fs%splitter %": "2.1",
         "ch%changeup %": "10.6",
         "sl%slider %": "21.7",
         "cu%curve %": "7.9",
         "max evmax exit velocity": "117.7",
-        "hhhard hit": "220",
-        "hh%hard hit %": "45.1",
+        "hhhard hit": "221",
+        "hh%hard hit %": "45.3",
         "brlbarrels": "48",
         "brl%barrel %": "9.8",
-        "ab": "645",
-        "avg": ".264",
-        "h": "170",
-        "1b": "113",
+        "ab": "646",
+        "avg": ".266",
+        "h": "172",
+        "1b": "115",
         "2b": "27",
         "3b": "1",
         "hr": "29",
@@ -28,7 +28,7 @@
         "bipballs in play": "488",
         "liveGames": 15,
         "totGames": 17,
-        "updated": "2025-05-14 20:17:08.175311"
+        "updated": "2025-05-14 20:17:18.251959"
     },
     "min @ bal": [
         {
@@ -3458,6 +3458,21 @@
     ],
     "stl-gm2 @ phi-gm2": [
         {
+            "player": "nolan arenado",
+            "game": "stl-gm2 @ phi-gm2",
+            "hr/park": "0/30",
+            "pa": "56",
+            "dt": "2025-05-14 20:17:11",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "6:15 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "101.4",
+            "la": "19",
+            "dist": "343"
+        },
+        {
             "player": "brendan donovan",
             "game": "stl-gm2 @ phi-gm2",
             "hr/park": "",
@@ -3467,7 +3482,7 @@
             "team": "stl",
             "start": "6:15 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "82.8",
             "la": "12",
             "dist": "168"
@@ -7921,6 +7936,21 @@
     ],
     "bos @ det": [
         {
+            "player": "carlos narvaez",
+            "game": "bos @ det",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-05-14 20:17:11",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nick sogard",
             "game": "bos @ det",
             "hr/park": "",
@@ -8687,21 +8717,6 @@
         }
     ],
     "tb @ tor": [
-        {
-            "player": "chandler simpson",
-            "game": "tb @ tor",
-            "hr/park": "",
-            "pa": "33",
-            "dt": "2025-05-14 20:16:56",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "7:07 PM",
-            "in": "5",
-            "result": "Groundout",
-            "evo": "94.4",
-            "la": "-5",
-            "dist": "24"
-        },
         {
             "player": "daulton varsho",
             "game": "tb @ tor",
@@ -10385,7 +10400,7 @@
             "team": "chc",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "86.1",
             "la": "16",
             "dist": "247"
