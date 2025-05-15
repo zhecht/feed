@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "93",
         "batters": "261",
-        "pitches": "3680",
+        "pitches": "3690",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "69.4",
-        "ff%fourseam fastball %": "30.5",
+        "ff%fourseam fastball %": "30.6",
         "si%sinker %": "18.3",
-        "fc%cutter %": "8.7",
+        "fc%cutter %": "8.6",
         "fs%splitter %": "2.2",
         "ch%changeup %": "10.2",
         "sl%slider %": "22.0",
         "cu%curve %": "8.1",
         "max evmax exit velocity": "117.7",
         "hhhard hit": "301",
-        "hh%hard hit %": "46.8",
+        "hh%hard hit %": "46.7",
         "brlbarrels": "62",
         "brl%barrel %": "9.6",
         "ab": "843",
@@ -24,11 +24,11 @@
         "2b": "33",
         "3b": "2",
         "hr": "39",
-        "so": "210",
-        "bipballs in play": "643",
+        "so": "212",
+        "bipballs in play": "644",
         "liveGames": 15,
         "totGames": 17,
-        "updated": "2025-05-14 21:10:47.220944"
+        "updated": "2025-05-14 21:10:59.490613"
     },
     "min @ bal": [
         {
@@ -3467,7 +3467,7 @@
             "team": "phi",
             "start": "6:15 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8275,7 +8275,7 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9363,21 +9363,6 @@
     ],
     "tb @ tor": [
         {
-            "player": "bo bichette",
-            "game": "tb @ tor",
-            "hr/park": "",
-            "pa": "58",
-            "dt": "2025-05-14 21:10:41",
-            "img": "https://www.mlbstatic.com/team-logos/141.svg",
-            "team": "tor",
-            "start": "7:07 PM",
-            "in": "7",
-            "result": "Flyout",
-            "evo": "88.3",
-            "la": "30",
-            "dist": "318"
-        },
-        {
             "player": "jonatan clase",
             "game": "tb @ tor",
             "hr/park": "",
@@ -9387,7 +9372,7 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "7",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12455,7 +12440,7 @@
             "team": "chc",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -13147,7 +13132,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -13635,6 +13620,21 @@
     ],
     "kc @ hou": [
         {
+            "player": "bobby witt",
+            "game": "kc @ hou",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-05-14 21:10:57",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jonathan india",
             "game": "kc @ hou",
             "hr/park": "",
@@ -13644,10 +13644,10 @@
             "team": "kc",
             "start": "8:10 PM",
             "in": "4",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "76.2",
+            "la": "35",
+            "dist": "274"
         },
         {
             "player": "drew waters",
