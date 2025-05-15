@@ -1,15 +1,15 @@
 {
     "all": {
-        "pitchers": "122",
+        "pitchers": "123",
         "batters": "279",
-        "pitches": "4317",
+        "pitches": "4323",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "30.7",
         "si%sinker %": "18.5",
         "fc%cutter %": "8.2",
         "fs%splitter %": "2.3",
-        "ch%changeup %": "10.2",
+        "ch%changeup %": "10.3",
         "sl%slider %": "21.8",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "117.7",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "45.7",
         "brlbarrels": "73",
         "brl%barrel %": "9.6",
-        "ab": "987",
+        "ab": "988",
         "avg": ".263",
         "h": "260",
         "1b": "171",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "42",
         "so": "248",
-        "bipballs in play": "761",
+        "bipballs in play": "762",
         "liveGames": 16,
         "totGames": 17,
-        "updated": "2025-05-14 21:59:48.778743"
+        "updated": "2025-05-14 22:00:01.690527"
     },
     "min @ bal": [
         {
@@ -12693,7 +12693,7 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -14713,6 +14713,21 @@
     ],
     "col @ tex": [
         {
+            "player": "adolis garcia",
+            "game": "col @ tex",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-05-14 21:59:57",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "joc pederson",
             "game": "col @ tex",
             "hr/park": "",
@@ -15535,9 +15550,9 @@
             "start": "8:10 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "67.4",
+            "la": "-31",
+            "dist": "6"
         },
         {
             "player": "bobby witt",
