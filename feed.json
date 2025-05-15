@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "71",
         "batters": "213",
-        "pitches": "2661",
+        "pitches": "2668",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "32.3",
-        "si%sinker %": "17.7",
-        "fc%cutter %": "7.4",
+        "si%sinker %": "17.6",
+        "fc%cutter %": "7.5",
         "fs%splitter %": "2.1",
         "ch%changeup %": "10.7",
         "sl%slider %": "21.8",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "117.7",
-        "hhhard hit": "201",
-        "hh%hard hit %": "44.6",
+        "hhhard hit": "202",
+        "hh%hard hit %": "44.5",
         "brlbarrels": "46",
-        "brl%barrel %": "10.2",
-        "ab": "599",
-        "avg": ".269",
-        "h": "161",
-        "1b": "107",
+        "brl%barrel %": "10.1",
+        "ab": "600",
+        "avg": ".272",
+        "h": "163",
+        "1b": "109",
         "2b": "25",
         "3b": "1",
         "hr": "28",
         "so": "159",
-        "bipballs in play": "451",
+        "bipballs in play": "454",
         "liveGames": 14,
         "totGames": 17,
-        "updated": "2025-05-14 20:05:45.891181"
+        "updated": "2025-05-14 20:05:55.939478"
     },
     "min @ bal": [
         {
@@ -3467,10 +3467,10 @@
             "team": "phi",
             "start": "6:15 PM",
             "in": "5",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "65.8",
+            "la": "-9",
+            "dist": "7"
         },
         {
             "player": "kyle schwarber",
@@ -7861,6 +7861,21 @@
     ],
     "bos @ det": [
         {
+            "player": "dillon dingler",
+            "game": "bos @ det",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-05-14 20:05:55",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "Single",
+            "evo": "87.2",
+            "la": "7",
+            "dist": "103"
+        },
+        {
             "player": "riley greene",
             "game": "bos @ det",
             "hr/park": "30/30",
@@ -9543,10 +9558,10 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "97.8",
+            "la": "13",
+            "dist": "220"
         },
         {
             "player": "eli white",
