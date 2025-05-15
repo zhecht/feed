@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "129",
-        "batters": "293",
-        "pitches": "4449",
+        "batters": "294",
+        "pitches": "4454",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "30.9",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.2",
         "max evmax exit velocity": "117.7",
         "hhhard hit": "361",
-        "hh%hard hit %": "46.0",
-        "brlbarrels": "76",
-        "brl%barrel %": "9.7",
-        "ab": "1022",
+        "hh%hard hit %": "45.9",
+        "brlbarrels": "77",
+        "brl%barrel %": "9.8",
+        "ab": "1024",
         "avg": ".260",
         "h": "266",
-        "1b": "174",
-        "2b": "45",
+        "1b": "173",
+        "2b": "46",
         "3b": "3",
         "hr": "44",
-        "so": "257",
-        "bipballs in play": "785",
+        "so": "258",
+        "bipballs in play": "786",
         "liveGames": 17,
         "totGames": 17,
-        "updated": "2025-05-14 22:13:29.223905"
+        "updated": "2025-05-14 22:13:42.615259"
     },
     "min @ bal": [
         {
@@ -10604,10 +10604,10 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "9",
-            "result": "Single",
-            "evo": "97.8",
-            "la": "15",
-            "dist": "229"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "adam frazier",
@@ -12774,6 +12774,21 @@
     ],
     "wsh @ atl": [
         {
+            "player": "marcell ozuna",
+            "game": "wsh @ atl",
+            "hr/park": "",
+            "pa": "76",
+            "dt": "2025-05-14 22:13:42",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "austin riley",
             "game": "wsh @ atl",
             "hr/park": "",
@@ -12783,7 +12798,7 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -15819,7 +15834,7 @@
             "team": "kc",
             "start": "8:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -16667,19 +16682,34 @@
     ],
     "laa @ sd": [
         {
+            "player": "tim anderson",
+            "game": "laa @ sd",
+            "hr/park": "0/30",
+            "pa": "18",
+            "dt": "2025-05-14 22:13:42",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:40 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "93.3",
+            "la": "31",
+            "dist": "326"
+        },
+        {
             "player": "matthew lugo",
             "game": "laa @ sd",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "17",
             "dt": "2025-05-14 22:12:56",
             "img": "https://www.mlbstatic.com/team-logos/108.svg",
             "team": "laa",
             "start": "9:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "107.9",
+            "la": "17",
+            "dist": "371"
         },
         {
             "player": "martin maldonado",
