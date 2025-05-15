@@ -2,13 +2,13 @@
     "all": {
         "pitchers": "87",
         "batters": "257",
-        "pitches": "3394",
+        "pitches": "3400",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "31.2",
         "si%sinker %": "18.1",
-        "fc%cutter %": "8.1",
-        "fs%splitter %": "2.3",
+        "fc%cutter %": "8.2",
+        "fs%splitter %": "2.2",
         "ch%changeup %": "10.5",
         "sl%slider %": "22.1",
         "cu%curve %": "7.7",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "46.0",
         "brlbarrels": "57",
         "brl%barrel %": "9.6",
-        "ab": "775",
+        "ab": "776",
         "avg": ".267",
         "h": "207",
         "1b": "140",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "35",
         "so": "194",
-        "bipballs in play": "593",
+        "bipballs in play": "594",
         "liveGames": 15,
         "totGames": 17,
-        "updated": "2025-05-14 20:53:09.443970"
+        "updated": "2025-05-14 20:53:20.707678"
     },
     "min @ bal": [
         {
@@ -3457,21 +3457,6 @@
         }
     ],
     "stl-gm2 @ phi-gm2": [
-        {
-            "player": "masyn winn",
-            "game": "stl-gm2 @ phi-gm2",
-            "hr/park": "",
-            "pa": "71",
-            "dt": "2025-05-14 20:52:55",
-            "img": "https://www.mlbstatic.com/team-logos/138.svg",
-            "team": "stl",
-            "start": "6:15 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "lars nootbaar",
             "game": "stl-gm2 @ phi-gm2",
@@ -8170,7 +8155,7 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10387,6 +10372,36 @@
     ],
     "chw @ cin": [
         {
+            "player": "austin hays",
+            "game": "chw @ cin",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-05-14 20:53:13",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:14 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "elly de la cruz",
+            "game": "chw @ cin",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-05-14 20:53:13",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:14 PM",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "93.6",
+            "la": "-2",
+            "dist": "32"
+        },
+        {
             "player": "santiago espinal",
             "game": "chw @ cin",
             "hr/park": "",
@@ -12277,7 +12292,7 @@
             "team": "col",
             "start": "8:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Mound Visit",
             "evo": "",
             "la": "",
             "dist": ""
