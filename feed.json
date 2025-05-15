@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "110",
         "batters": "267",
-        "pitches": "4039",
+        "pitches": "4046",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "69.4",
-        "ff%fourseam fastball %": "30.9",
+        "ff%fourseam fastball %": "31.0",
         "si%sinker %": "18.2",
         "fc%cutter %": "8.4",
         "fs%splitter %": "2.2",
@@ -13,7 +13,7 @@
         "sl%slider %": "22.0",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "117.7",
-        "hhhard hit": "328",
+        "hhhard hit": "329",
         "hh%hard hit %": "46.3",
         "brlbarrels": "67",
         "brl%barrel %": "9.4",
@@ -24,11 +24,11 @@
         "2b": "39",
         "3b": "2",
         "hr": "40",
-        "so": "233",
-        "bipballs in play": "709",
+        "so": "234",
+        "bipballs in play": "710",
         "liveGames": 15,
         "totGames": 17,
-        "updated": "2025-05-14 21:36:05.057035"
+        "updated": "2025-05-14 21:36:17.276092"
     },
     "min @ bal": [
         {
@@ -3467,7 +3467,7 @@
             "team": "phi",
             "start": "6:15 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9560,7 +9560,7 @@
         {
             "player": "taylor walls",
             "game": "tb @ tor",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "68",
             "dt": "2025-05-14 21:35:56",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
@@ -14152,7 +14152,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -14805,6 +14805,21 @@
     ],
     "kc @ hou": [
         {
+            "player": "victor caratini",
+            "game": "kc @ hou",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-05-14 21:36:12",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "yainer diaz",
             "game": "kc @ hou",
             "hr/park": "",
@@ -14814,10 +14829,10 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "101.3",
+            "la": "-10",
+            "dist": "12"
         },
         {
             "player": "michael massey",
