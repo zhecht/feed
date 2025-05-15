@@ -1,17 +1,17 @@
 {
     "all": {
         "pitchers": "1",
-        "batters": "2",
-        "pitches": "5",
+        "batters": "3",
+        "pitches": "7",
         "max velomax pitch velocity": "98.0",
-        "min velomin pitch velocity": "85.9",
-        "ff%fourseam fastball %": "80.0",
+        "min velomin pitch velocity": "76.5",
+        "ff%fourseam fastball %": "57.1",
         "si%sinker %": "0.0",
         "fc%cutter %": "0.0",
-        "fs%splitter %": "20.0",
+        "fs%splitter %": "28.6",
         "ch%changeup %": "0.0",
         "sl%slider %": "0.0",
-        "cu%curve %": "0.0",
+        "cu%curve %": "14.3",
         "max evmax exit velocity": "",
         "hhhard hit": "",
         "hh%hard hit %": "",
@@ -25,12 +25,27 @@
         "3b": "0",
         "hr": "0",
         "so": "1",
-        "bipballs in play": "0",
+        "bipballs in play": "1",
         "liveGames": 1,
         "totGames": 6,
-        "updated": "2025-05-15 12:18:07.676783"
+        "updated": "2025-05-15 12:18:14.536385"
     },
     "wsh @ atl": [
+        {
+            "player": "james wood",
+            "game": "wsh @ atl",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-05-15 12:18:10",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "12:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "amed rosario",
             "game": "wsh @ atl",
@@ -41,7 +56,7 @@
             "team": "wsh",
             "start": "12:15 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
