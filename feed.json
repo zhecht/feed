@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "88",
         "batters": "258",
-        "pitches": "3520",
+        "pitches": "3526",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "30.9",
@@ -13,11 +13,11 @@
         "sl%slider %": "22.0",
         "cu%curve %": "7.9",
         "max evmax exit velocity": "117.7",
-        "hhhard hit": "289",
-        "hh%hard hit %": "46.8",
+        "hhhard hit": "291",
+        "hh%hard hit %": "46.9",
         "brlbarrels": "61",
-        "brl%barrel %": "9.9",
-        "ab": "810",
+        "brl%barrel %": "9.8",
+        "ab": "811",
         "avg": ".270",
         "h": "219",
         "1b": "148",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "38",
         "so": "201",
-        "bipballs in play": "618",
+        "bipballs in play": "620",
         "liveGames": 15,
         "totGames": 17,
-        "updated": "2025-05-14 21:01:09.401856"
+        "updated": "2025-05-14 21:01:20.625601"
     },
     "min @ bal": [
         {
@@ -8208,17 +8208,17 @@
         {
             "player": "jarren duran",
             "game": "bos @ det",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "69",
             "dt": "2025-05-14 21:00:27",
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
             "team": "bos",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "100.5",
+            "la": "21",
+            "dist": "340"
         },
         {
             "player": "ceddanne rafaela",
@@ -9252,7 +9252,7 @@
             "team": "tb",
             "start": "7:07 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12718,11 +12718,11 @@
     ],
     "col @ tex": [
         {
-            "player": "josh jung",
+            "player": "evan carter",
             "game": "col @ tex",
             "hr/park": "",
-            "pa": "28",
-            "dt": "2025-05-14 21:00:11",
+            "pa": "29",
+            "dt": "2025-05-14 21:01:12",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
             "start": "8:05 PM",
@@ -12731,6 +12731,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "josh jung",
+            "game": "col @ tex",
+            "hr/park": "0/30",
+            "pa": "28",
+            "dt": "2025-05-14 21:00:11",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:05 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "96.9",
+            "la": "37",
+            "dist": "360"
         },
         {
             "player": "marcus semien",
