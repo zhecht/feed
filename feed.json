@@ -2,13 +2,13 @@
     "all": {
         "pitchers": "96",
         "batters": "261",
-        "pitches": "3747",
+        "pitches": "3752",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "30.7",
-        "si%sinker %": "18.1",
+        "si%sinker %": "18.2",
         "fc%cutter %": "8.6",
-        "fs%splitter %": "2.2",
+        "fs%splitter %": "2.3",
         "ch%changeup %": "10.1",
         "sl%slider %": "21.9",
         "cu%curve %": "8.3",
@@ -18,17 +18,17 @@
         "brlbarrels": "65",
         "brl%barrel %": "9.8",
         "ab": "860",
-        "avg": ".269",
-        "h": "231",
-        "1b": "156",
+        "avg": ".267",
+        "h": "230",
+        "1b": "155",
         "2b": "33",
         "3b": "2",
         "hr": "40",
-        "so": "212",
+        "so": "213",
         "bipballs in play": "661",
         "liveGames": 15,
         "totGames": 17,
-        "updated": "2025-05-14 21:15:27.165949"
+        "updated": "2025-05-14 21:15:38.633305"
     },
     "min @ bal": [
         {
@@ -9402,7 +9402,7 @@
             "team": "tb",
             "start": "7:07 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10280,6 +10280,21 @@
     ],
     "pit @ nym": [
         {
+            "player": "isiah kiner falefa",
+            "game": "pit @ nym",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-05-14 21:15:30",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alexander canario",
             "game": "pit @ nym",
             "hr/park": "",
@@ -10289,7 +10304,7 @@
             "team": "pit",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -13288,21 +13303,6 @@
     ],
     "col @ tex": [
         {
-            "player": "wyatt langford",
-            "game": "col @ tex",
-            "hr/park": "",
-            "pa": "36",
-            "dt": "2025-05-14 21:15:11",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "8:05 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "josh smith",
             "game": "col @ tex",
             "hr/park": "",
@@ -13312,7 +13312,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "4",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "78.8",
             "la": "24",
             "dist": "251"
