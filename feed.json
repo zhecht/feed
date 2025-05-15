@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "79",
-        "batters": "241",
-        "pitches": "2995",
+        "batters": "242",
+        "pitches": "3004",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "32.1",
-        "si%sinker %": "17.7",
+        "si%sinker %": "17.8",
         "fc%cutter %": "7.7",
         "fs%splitter %": "2.2",
         "ch%changeup %": "10.6",
@@ -14,10 +14,10 @@
         "cu%curve %": "7.8",
         "max evmax exit velocity": "117.7",
         "hhhard hit": "242",
-        "hh%hard hit %": "46.2",
+        "hh%hard hit %": "46.0",
         "brlbarrels": "52",
         "brl%barrel %": "9.9",
-        "ab": "689",
+        "ab": "690",
         "avg": ".270",
         "h": "186",
         "1b": "127",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "31",
         "so": "175",
-        "bipballs in play": "524",
+        "bipballs in play": "526",
         "liveGames": 15,
         "totGames": 17,
-        "updated": "2025-05-14 20:28:21.239661"
+        "updated": "2025-05-14 20:28:31.838451"
     },
     "min @ bal": [
         {
@@ -3458,6 +3458,21 @@
     ],
     "stl-gm2 @ phi-gm2": [
         {
+            "player": "trea turner",
+            "game": "stl-gm2 @ phi-gm2",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-05-14 20:27:56",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:15 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bryson stott",
             "game": "stl-gm2 @ phi-gm2",
             "hr/park": "",
@@ -3467,7 +3482,7 @@
             "team": "phi",
             "start": "6:15 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9419,10 +9434,10 @@
             "team": "pit",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "73.0",
+            "la": "-51",
+            "dist": "3"
         },
         {
             "player": "pete alonso",
@@ -10850,10 +10865,10 @@
             "team": "mia",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "72.3",
+            "la": "60",
+            "dist": "142"
         },
         {
             "player": "kyle stowers",
@@ -11415,6 +11430,21 @@
     ],
     "kc @ hou": [
         {
+            "player": "isaac paredes",
+            "game": "kc @ hou",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-05-14 20:28:26",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose altuve",
             "game": "kc @ hou",
             "hr/park": "",
@@ -11424,7 +11454,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout Double Play",
             "evo": "",
             "la": "",
             "dist": ""
