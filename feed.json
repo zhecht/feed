@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "119",
         "batters": "274",
-        "pitches": "4210",
+        "pitches": "4217",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "31.1",
@@ -13,22 +13,22 @@
         "sl%slider %": "22.1",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "117.7",
-        "hhhard hit": "339",
-        "hh%hard hit %": "46.0",
+        "hhhard hit": "341",
+        "hh%hard hit %": "46.1",
         "brlbarrels": "72",
-        "brl%barrel %": "9.8",
-        "ab": "963",
-        "avg": ".263",
+        "brl%barrel %": "9.7",
+        "ab": "965",
+        "avg": ".262",
         "h": "253",
         "1b": "167",
         "2b": "42",
         "3b": "3",
         "hr": "41",
-        "so": "244",
-        "bipballs in play": "737",
+        "so": "245",
+        "bipballs in play": "740",
         "liveGames": 16,
         "totGames": 17,
-        "updated": "2025-05-14 21:50:15.443981"
+        "updated": "2025-05-14 21:50:28.162871"
     },
     "min @ bal": [
         {
@@ -11506,10 +11506,10 @@
             "team": "chw",
             "start": "7:14 PM",
             "in": "9",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "76.8",
+            "la": "-23",
+            "dist": "6"
         },
         {
             "player": "miguel vargas",
@@ -13526,6 +13526,21 @@
     ],
     "mia @ chc": [
         {
+            "player": "pete crow armstrong",
+            "game": "mia @ chc",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-05-14 21:50:28",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:40 PM",
+            "in": "9",
+            "result": "Flyout",
+            "evo": "106.0",
+            "la": "56",
+            "dist": "249"
+        },
+        {
             "player": "carson kelly",
             "game": "mia @ chc",
             "hr/park": "",
@@ -13535,7 +13550,7 @@
             "team": "chc",
             "start": "7:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -14512,10 +14527,10 @@
             "team": "col",
             "start": "8:05 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "103.9",
+            "la": "-3",
+            "dist": "33"
         },
         {
             "player": "hunter goodman",
@@ -15270,6 +15285,21 @@
     ],
     "kc @ hou": [
         {
+            "player": "mauricio dubon",
+            "game": "kc @ hou",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-05-14 21:50:28",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "zach dezenzo",
             "game": "kc @ hou",
             "hr/park": "",
@@ -15279,7 +15309,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "83.6",
             "la": "38",
             "dist": "295"
