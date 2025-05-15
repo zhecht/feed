@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "6",
-        "batters": "50",
-        "pitches": "265",
+        "batters": "52",
+        "pitches": "269",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "74.7",
-        "ff%fourseam fastball %": "37.0",
-        "si%sinker %": "10.9",
-        "fc%cutter %": "10.6",
-        "fs%splitter %": "12.8",
-        "ch%changeup %": "9.4",
-        "sl%slider %": "12.8",
-        "cu%curve %": "6.4",
+        "ff%fourseam fastball %": "37.5",
+        "si%sinker %": "11.2",
+        "fc%cutter %": "10.4",
+        "fs%splitter %": "12.6",
+        "ch%changeup %": "9.3",
+        "sl%slider %": "12.6",
+        "cu%curve %": "6.3",
         "max evmax exit velocity": "109.4",
         "hhhard hit": "19",
-        "hh%hard hit %": "34.5",
+        "hh%hard hit %": "33.9",
         "brlbarrels": "3",
-        "brl%barrel %": "5.5",
-        "ab": "65",
-        "avg": ".169",
+        "brl%barrel %": "5.4",
+        "ab": "67",
+        "avg": ".164",
         "h": "11",
         "1b": "8",
         "2b": "1",
         "3b": "0",
         "hr": "2",
         "so": "12",
-        "bipballs in play": "55",
+        "bipballs in play": "56",
         "liveGames": 3,
         "totGames": 6,
-        "updated": "2025-05-15 13:17:18.408748"
+        "updated": "2025-05-15 13:17:25.484654"
     },
     "wsh @ atl": [
         {
@@ -529,6 +529,21 @@
     ],
     "min @ bal": [
         {
+            "player": "cedric mullins",
+            "game": "min @ bal",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-05-15 13:17:25",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "12:35 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan jeffers",
             "game": "min @ bal",
             "hr/park": "0/30",
@@ -801,6 +816,21 @@
     ],
     "chw @ cin": [
         {
+            "player": "jacob amaya",
+            "game": "chw @ cin",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-05-15 13:17:25",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "12:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brooks baldwin",
             "game": "chw @ cin",
             "hr/park": "",
@@ -810,10 +840,10 @@
             "team": "chw",
             "start": "12:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "91.2",
+            "la": "-28",
+            "dist": "6"
         },
         {
             "player": "joshua palacios",
