@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "77",
         "batters": "235",
-        "pitches": "2877",
+        "pitches": "2880",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "69.4",
-        "ff%fourseam fastball %": "32.1",
-        "si%sinker %": "17.8",
+        "ff%fourseam fastball %": "32.2",
+        "si%sinker %": "17.7",
         "fc%cutter %": "7.8",
         "fs%splitter %": "2.1",
         "ch%changeup %": "10.6",
-        "sl%slider %": "21.9",
+        "sl%slider %": "21.8",
         "cu%curve %": "7.8",
         "max evmax exit velocity": "117.7",
         "hhhard hit": "227",
-        "hh%hard hit %": "45.7",
+        "hh%hard hit %": "45.5",
         "brlbarrels": "50",
-        "brl%barrel %": "10.1",
-        "ab": "658",
-        "avg": ".267",
-        "h": "176",
-        "1b": "119",
+        "brl%barrel %": "10.0",
+        "ab": "659",
+        "avg": ".269",
+        "h": "177",
+        "1b": "120",
         "2b": "26",
         "3b": "2",
         "hr": "29",
-        "so": "172",
-        "bipballs in play": "497",
+        "so": "173",
+        "bipballs in play": "499",
         "liveGames": 15,
         "totGames": 17,
-        "updated": "2025-05-14 20:20:23.829329"
+        "updated": "2025-05-14 20:20:34.371535"
     },
     "min @ bal": [
         {
@@ -7960,7 +7960,7 @@
             "team": "bos",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8733,6 +8733,21 @@
     ],
     "tb @ tor": [
         {
+            "player": "jonathan aranda",
+            "game": "tb @ tor",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-05-14 20:20:27",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:07 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "junior caminero",
             "game": "tb @ tor",
             "hr/park": "",
@@ -8742,7 +8757,7 @@
             "team": "tb",
             "start": "7:07 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10059,6 +10074,21 @@
     ],
     "wsh @ atl": [
         {
+            "player": "sean murphy",
+            "game": "wsh @ atl",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-05-14 20:20:27",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "4",
+            "result": "Forceout",
+            "evo": "93.1",
+            "la": "-33",
+            "dist": "5"
+        },
+        {
             "player": "matt olson",
             "game": "wsh @ atl",
             "hr/park": "",
@@ -10807,10 +10837,10 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "89.3",
+            "la": "17",
+            "dist": "244"
         },
         {
             "player": "adolis garcia",
