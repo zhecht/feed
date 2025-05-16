@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "18",
-        "batters": "42",
-        "pitches": "543",
+        "pitchers": "19",
+        "batters": "44",
+        "pitches": "547",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "73.9",
-        "ff%fourseam fastball %": "34.1",
+        "ff%fourseam fastball %": "34.2",
         "si%sinker %": "19.0",
         "fc%cutter %": "10.1",
         "fs%splitter %": "0.7",
-        "ch%changeup %": "7.6",
+        "ch%changeup %": "7.5",
         "sl%slider %": "21.9",
         "cu%curve %": "6.6",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "44",
-        "hh%hard hit %": "37.9",
+        "hh%hard hit %": "37.6",
         "brlbarrels": "8",
-        "brl%barrel %": "6.9",
-        "ab": "134",
-        "avg": ".306",
+        "brl%barrel %": "6.8",
+        "ab": "135",
+        "avg": ".304",
         "h": "41",
         "1b": "26",
         "2b": "8",
         "3b": "1",
         "hr": "6",
         "so": "22",
-        "bipballs in play": "116",
+        "bipballs in play": "117",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-05-16 19:13:19.275309"
+        "updated": "2025-05-16 19:13:26.873571"
     },
     "chw @ chc": [
         {
@@ -2162,7 +2162,7 @@
             "team": "nym",
             "start": "7:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2194,10 +2194,10 @@
             "team": "det",
             "start": "7:07 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "70.6",
+            "la": "8",
+            "dist": "100"
         },
         {
             "player": "kerry carpenter",
@@ -2215,8 +2215,39 @@
             "dist": ""
         }
     ],
-    "atl @ bos": [],
+    "atl @ bos": [
+        {
+            "player": "eli white",
+            "game": "atl @ bos",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-16 19:13:21",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "tb @ mia": [
+        {
+            "player": "josh lowe",
+            "game": "tb @ mia",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-05-16 19:13:21",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "yandy diaz",
             "game": "tb @ mia",
