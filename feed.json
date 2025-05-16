@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "12",
-        "batters": "34",
-        "pitches": "361",
+        "batters": "35",
+        "pitches": "363",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "75.9",
-        "ff%fourseam fastball %": "39.1",
-        "si%sinker %": "17.2",
+        "ff%fourseam fastball %": "38.8",
+        "si%sinker %": "17.6",
         "fc%cutter %": "6.1",
         "fs%splitter %": "0.6",
         "ch%changeup %": "8.3",
-        "sl%slider %": "19.7",
+        "sl%slider %": "19.6",
         "cu%curve %": "9.1",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "29",
         "hh%hard hit %": "35.4",
         "brlbarrels": "6",
         "brl%barrel %": "7.3",
-        "ab": "93",
-        "avg": ".344",
+        "ab": "94",
+        "avg": ".340",
         "h": "32",
         "1b": "21",
         "2b": "6",
@@ -28,7 +28,7 @@
         "bipballs in play": "82",
         "liveGames": 1,
         "totGames": 15,
-        "updated": "2025-05-16 17:48:17.690416"
+        "updated": "2025-05-16 17:48:25.100601"
     },
     "chw @ chc": [
         {
@@ -1249,6 +1249,21 @@
     ],
     "cle @ cin": [
         {
+            "player": "gabriel arias",
+            "game": "cle @ cin",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-05-16 17:48:21",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "elly de la cruz",
             "game": "cle @ cin",
             "hr/park": "",
@@ -1258,10 +1273,10 @@
             "team": "cin",
             "start": "",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "85.0",
+            "la": "46",
+            "dist": "261"
         },
         {
             "player": "santiago espinal",
