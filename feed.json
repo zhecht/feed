@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "27",
-        "batters": "110",
-        "pitches": "842",
+        "batters": "112",
+        "pitches": "846",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "38.4",
-        "si%sinker %": "13.9",
-        "fc%cutter %": "9.4",
-        "fs%splitter %": "2.3",
-        "ch%changeup %": "6.5",
-        "sl%slider %": "21.6",
+        "ff%fourseam fastball %": "38.3",
+        "si%sinker %": "13.8",
+        "fc%cutter %": "9.3",
+        "fs%splitter %": "2.2",
+        "ch%changeup %": "6.7",
+        "sl%slider %": "21.5",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "66",
-        "hh%hard hit %": "40.2",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "14",
         "brl%barrel %": "8.5",
-        "ab": "206",
-        "avg": ".272",
-        "h": "56",
+        "ab": "208",
+        "avg": ".274",
+        "h": "57",
         "1b": "35",
         "2b": "10",
         "3b": "1",
-        "hr": "10",
+        "hr": "11",
         "so": "49",
-        "bipballs in play": "164",
+        "bipballs in play": "165",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-05-16 19:41:45.657117"
+        "updated": "2025-05-16 19:41:53.427725"
     },
     "chw @ chc": [
         {
@@ -2302,16 +2302,31 @@
     "pit @ phi": [],
     "wsh @ bal": [
         {
-            "player": "nathaniel lowe",
+            "player": "dylan crews",
             "game": "wsh @ bal",
             "hr/park": "",
+            "pa": "12",
+            "dt": "2025-05-16 19:41:50",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "7:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "nathaniel lowe",
+            "game": "wsh @ bal",
+            "hr/park": "29/30",
             "pa": "11",
             "dt": "2025-05-16 19:40:21",
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
             "team": "wsh",
             "start": "7:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Home Run",
             "evo": "102.6",
             "la": "27",
             "dist": "404"
@@ -2468,21 +2483,6 @@
         }
     ],
     "nym @ nyy": [
-        {
-            "player": "austin wells",
-            "game": "nym @ nyy",
-            "hr/park": "",
-            "pa": "14",
-            "dt": "2025-05-16 19:41:36",
-            "img": "https://www.mlbstatic.com/team-logos/147.svg",
-            "team": "nyy",
-            "start": "7:05 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "anthony volpe",
             "game": "nym @ nyy",
@@ -2690,10 +2690,10 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double Play",
+            "evo": "93.5",
+            "la": "22",
+            "dist": "340"
         },
         {
             "player": "addison barger",
@@ -2922,6 +2922,21 @@
         }
     ],
     "atl @ bos": [
+        {
+            "player": "nick allen",
+            "game": "atl @ bos",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-05-16 19:41:50",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "carlos narvaez",
             "game": "atl @ bos",
@@ -3164,6 +3179,21 @@
         }
     ],
     "tb @ mia": [
+        {
+            "player": "ben rortvedt",
+            "game": "tb @ mia",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-05-16 19:41:50",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jose caballero",
             "game": "tb @ mia",
