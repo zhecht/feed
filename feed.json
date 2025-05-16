@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "27",
-        "batters": "76",
-        "pitches": "700",
+        "batters": "78",
+        "pitches": "703",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "38.3",
+        "ff%fourseam fastball %": "38.5",
         "si%sinker %": "16.1",
         "fc%cutter %": "9.0",
         "fs%splitter %": "1.6",
-        "ch%changeup %": "6.6",
-        "sl%slider %": "21.4",
+        "ch%changeup %": "6.5",
+        "sl%slider %": "21.3",
         "cu%curve %": "7.0",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "54",
         "hh%hard hit %": "38.6",
         "brlbarrels": "11",
         "brl%barrel %": "7.9",
-        "ab": "170",
-        "avg": ".282",
+        "ab": "172",
+        "avg": ".279",
         "h": "48",
         "1b": "28",
         "2b": "10",
@@ -28,7 +28,7 @@
         "bipballs in play": "140",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-05-16 19:27:35.901837"
+        "updated": "2025-05-16 19:27:43.835084"
     },
     "chw @ chc": [
         {
@@ -1258,7 +1258,7 @@
             "team": "cle",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2351,14 +2351,14 @@
         {
             "player": "paul goldschmidt",
             "game": "nym @ nyy",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "8",
             "dt": "2025-05-16 19:26:20",
             "img": "https://www.mlbstatic.com/team-logos/147.svg",
             "team": "nyy",
             "start": "7:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "92.5",
             "la": "32",
             "dist": "346"
@@ -2470,6 +2470,21 @@
         }
     ],
     "det @ tor": [
+        {
+            "player": "zach mckinstry",
+            "game": "det @ tor",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-05-16 19:27:38",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:07 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "spencer torkelson",
             "game": "det @ tor",
@@ -2607,6 +2622,21 @@
         }
     ],
     "atl @ bos": [
+        {
+            "player": "sean murphy",
+            "game": "atl @ bos",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-05-16 19:27:38",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "matt olson",
             "game": "atl @ bos",
