@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "85",
+        "pitchers": "86",
         "batters": "240",
-        "pitches": "3095",
+        "pitches": "3102",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
         "ff%fourseam fastball %": "33.5",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.1",
         "max evmax exit velocity": "114.8",
         "hhhard hit": "219",
-        "hh%hard hit %": "39.3",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "49",
         "brl%barrel %": "8.8",
-        "ab": "709",
+        "ab": "712",
         "avg": ".257",
-        "h": "182",
-        "1b": "127",
+        "h": "183",
+        "1b": "128",
         "2b": "32",
         "3b": "3",
         "hr": "20",
-        "so": "169",
-        "bipballs in play": "557",
+        "so": "170",
+        "bipballs in play": "559",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-16 22:13:43.927228"
+        "updated": "2025-05-16 22:13:54.258486"
     },
     "chw @ chc": [
         {
@@ -8772,10 +8772,10 @@
             "team": "stl",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "72.4",
+            "la": "-10",
+            "dist": "12"
         },
         {
             "player": "jordan walker",
@@ -9725,6 +9725,21 @@
     ],
     "hou @ tex": [
         {
+            "player": "jeremy pena",
+            "game": "hou @ tex",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-05-16 22:13:47",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cam smith",
             "game": "hou @ tex",
             "hr/park": "3/30",
@@ -10506,6 +10521,36 @@
         }
     ],
     "min @ mil": [
+        {
+            "player": "caleb durbin",
+            "game": "min @ mil",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-05-16 22:13:47",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jake bauers",
+            "game": "min @ mil",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-05-16 22:13:47",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "7",
+            "result": "Single",
+            "evo": "77.4",
+            "la": "17",
+            "dist": "188"
+        },
         {
             "player": "jackson chourio",
             "game": "min @ mil",
@@ -11540,7 +11585,7 @@
             "team": "sea",
             "start": "9:40 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
