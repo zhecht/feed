@@ -1,26 +1,26 @@
 {
     "all": {
         "pitchers": "33",
-        "batters": "160",
-        "pitches": "1408",
+        "batters": "159",
+        "pitches": "1412",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "38.1",
-        "si%sinker %": "11.4",
+        "ff%fourseam fastball %": "38.2",
+        "si%sinker %": "11.3",
         "fc%cutter %": "9.3",
-        "fs%splitter %": "3.1",
-        "ch%changeup %": "6.5",
+        "fs%splitter %": "3.0",
+        "ch%changeup %": "6.4",
         "sl%slider %": "22.9",
         "cu%curve %": "8.9",
         "max evmax exit velocity": "114.8",
-        "hhhard hit": "98",
-        "hh%hard hit %": "39.0",
-        "brlbarrels": "20",
-        "brl%barrel %": "8.0",
-        "ab": "331",
-        "avg": ".266",
-        "h": "88",
-        "1b": "57",
+        "hhhard hit": "99",
+        "hh%hard hit %": "39.4",
+        "brlbarrels": "21",
+        "brl%barrel %": "8.4",
+        "ab": "333",
+        "avg": ".267",
+        "h": "89",
+        "1b": "58",
         "2b": "17",
         "3b": "2",
         "hr": "12",
@@ -28,7 +28,7 @@
         "bipballs in play": "251",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-16 20:28:57.056418"
+        "updated": "2025-05-16 20:29:05.382000"
     },
     "chw @ chc": [
         {
@@ -2302,6 +2302,21 @@
     "pit @ phi": [],
     "wsh @ bal": [
         {
+            "player": "adley rutschman",
+            "game": "wsh @ bal",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-05-16 20:28:59",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan mountcastle",
             "game": "wsh @ bal",
             "hr/park": "",
@@ -2311,10 +2326,10 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "103.1",
+            "la": "30",
+            "dist": "396"
         },
         {
             "player": "gunnar henderson",
@@ -3325,6 +3340,21 @@
         }
     ],
     "det @ tor": [
+        {
+            "player": "dillon dingler",
+            "game": "det @ tor",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-05-16 20:28:59",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:07 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "zach mckinstry",
             "game": "det @ tor",
@@ -4485,6 +4515,21 @@
     ],
     "tb @ mia": [
         {
+            "player": "jose caballero",
+            "game": "tb @ mia",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-05-16 20:28:59",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kameron misner",
             "game": "tb @ mia",
             "hr/park": "",
@@ -4494,7 +4539,7 @@
             "team": "tb",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "93.7",
             "la": "8",
             "dist": "191"
@@ -5042,21 +5087,6 @@
     ],
     "stl @ kc": [
         {
-            "player": "victor scott",
-            "game": "stl @ kc",
-            "hr/park": "",
-            "pa": "17",
-            "dt": "2025-05-16 20:28:44",
-            "img": "https://www.mlbstatic.com/team-logos/138.svg",
-            "team": "stl",
-            "start": "7:40 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jordan walker",
             "game": "stl @ kc",
             "hr/park": "",
@@ -5066,10 +5096,10 @@
             "team": "stl",
             "start": "7:40 PM",
             "in": "3",
-            "result": "Groundout",
-            "evo": "73.9",
-            "la": "-16",
-            "dist": "8"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "drew waters",
