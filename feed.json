@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "72",
         "batters": "215",
-        "pitches": "2755",
+        "pitches": "2759",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "35.2",
+        "ff%fourseam fastball %": "35.1",
         "si%sinker %": "13.5",
         "fc%cutter %": "8.5",
-        "fs%splitter %": "3.3",
+        "fs%splitter %": "3.4",
         "ch%changeup %": "8.2",
         "sl%slider %": "22.7",
         "cu%curve %": "8.4",
         "max evmax exit velocity": "114.8",
-        "hhhard hit": "192",
+        "hhhard hit": "193",
         "hh%hard hit %": "39.8",
         "brlbarrels": "41",
         "brl%barrel %": "8.5",
-        "ab": "625",
-        "avg": ".256",
+        "ab": "627",
+        "avg": ".255",
         "h": "160",
         "1b": "111",
         "2b": "28",
         "3b": "3",
         "hr": "18",
         "so": "156",
-        "bipballs in play": "483",
+        "bipballs in play": "485",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-16 21:51:07.820875"
+        "updated": "2025-05-16 21:51:17.746936"
     },
     "chw @ chc": [
         {
@@ -2310,10 +2310,10 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Fielders Choice Out",
+            "evo": "109.5",
+            "la": "-28",
+            "dist": "4"
         },
         {
             "player": "johan rojas",
@@ -3807,7 +3807,7 @@
         {
             "player": "cody bellinger",
             "game": "nym @ nyy",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "71",
             "dt": "2025-05-16 21:49:45",
             "img": "https://www.mlbstatic.com/team-logos/147.svg",
@@ -4871,6 +4871,21 @@
         }
     ],
     "det @ tor": [
+        {
+            "player": "riley greene",
+            "game": "det @ tor",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-05-16 21:50:14",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:07 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "justyn henry malloy",
             "game": "det @ tor",
@@ -9637,6 +9652,21 @@
     ],
     "min @ mil": [
         {
+            "player": "christian vazquez",
+            "game": "min @ mil",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-05-16 21:51:14",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "Pop Out",
+            "evo": "77.7",
+            "la": "63",
+            "dist": "155"
+        },
+        {
             "player": "dashawn keirsey",
             "game": "min @ mil",
             "hr/park": "",
@@ -9646,7 +9676,7 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "70.2",
             "la": "-45",
             "dist": "2"
