@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "97",
-        "batters": "271",
-        "pitches": "3480",
+        "batters": "272",
+        "pitches": "3485",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
         "ff%fourseam fastball %": "31.8",
@@ -11,24 +11,24 @@
         "fs%splitter %": "3.1",
         "ch%changeup %": "8.6",
         "sl%slider %": "24.1",
-        "cu%curve %": "7.8",
+        "cu%curve %": "7.7",
         "max evmax exit velocity": "114.8",
-        "hhhard hit": "245",
-        "hh%hard hit %": "39.1",
+        "hhhard hit": "247",
+        "hh%hard hit %": "39.3",
         "brlbarrels": "54",
         "brl%barrel %": "8.6",
-        "ab": "793",
+        "ab": "795",
         "avg": ".260",
-        "h": "206",
-        "1b": "145",
+        "h": "207",
+        "1b": "146",
         "2b": "34",
         "3b": "4",
         "hr": "23",
         "so": "187",
-        "bipballs in play": "626",
+        "bipballs in play": "629",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-16 22:37:49.477064"
+        "updated": "2025-05-16 22:38:00.874357"
     },
     "chw @ chc": [
         {
@@ -9003,19 +9003,34 @@
     ],
     "stl @ kc": [
         {
-            "player": "cavan biggio",
+            "player": "drew waters",
             "game": "stl @ kc",
             "hr/park": "",
+            "pa": "76",
+            "dt": "2025-05-16 22:38:00",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "9",
+            "result": "Flyout",
+            "evo": "72.5",
+            "la": "46",
+            "dist": "224"
+        },
+        {
+            "player": "cavan biggio",
+            "game": "stl @ kc",
+            "hr/park": "0/30",
             "pa": "75",
             "dt": "2025-05-16 22:37:31",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "start": "7:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "97.8",
+            "la": "19",
+            "dist": "342"
         },
         {
             "player": "willson contreras",
@@ -12078,10 +12093,10 @@
             "team": "col",
             "start": "9:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "105.6",
+            "la": "6",
+            "dist": "148"
         },
         {
             "player": "josh naylor",
@@ -13079,6 +13094,21 @@
         }
     ],
     "ath @ sf": [
+        {
+            "player": "david villar",
+            "game": "ath @ sf",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-05-16 22:38:00",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "10:15 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "mike yastrzemski",
             "game": "ath @ sf",
