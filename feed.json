@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "54",
         "batters": "202",
-        "pitches": "2328",
+        "pitches": "2333",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "35.9",
-        "si%sinker %": "12.8",
+        "ff%fourseam fastball %": "35.8",
+        "si%sinker %": "12.9",
         "fc%cutter %": "8.5",
         "fs%splitter %": "3.3",
         "ch%changeup %": "7.4",
         "sl%slider %": "23.1",
         "cu%curve %": "8.8",
         "max evmax exit velocity": "114.8",
-        "hhhard hit": "164",
-        "hh%hard hit %": "41.3",
+        "hhhard hit": "165",
+        "hh%hard hit %": "41.4",
         "brlbarrels": "32",
-        "brl%barrel %": "8.1",
-        "ab": "522",
+        "brl%barrel %": "8.0",
+        "ab": "523",
         "avg": ".268",
         "h": "140",
         "1b": "97",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "15",
         "so": "136",
-        "bipballs in play": "397",
+        "bipballs in play": "399",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-16 21:25:53.746766"
+        "updated": "2025-05-16 21:26:02.777522"
     },
     "chw @ chc": [
         {
@@ -2678,11 +2678,11 @@
     ],
     "wsh @ bal": [
         {
-            "player": "adley rutschman",
+            "player": "ramon laureano",
             "game": "wsh @ bal",
             "hr/park": "",
-            "pa": "53",
-            "dt": "2025-05-16 21:24:44",
+            "pa": "54",
+            "dt": "2025-05-16 21:25:59",
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
             "team": "bal",
             "start": "7:05 PM",
@@ -2691,6 +2691,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "adley rutschman",
+            "game": "wsh @ bal",
+            "hr/park": "0/30",
+            "pa": "53",
+            "dt": "2025-05-16 21:24:44",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "95.6",
+            "la": "45",
+            "dist": "320"
         },
         {
             "player": "ryan mountcastle",
@@ -4371,7 +4386,7 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "7",
-            "result": "Stolen Base 2B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6205,10 +6220,10 @@
             "team": "tb",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "88.1",
+            "la": "16",
+            "dist": "202"
         },
         {
             "player": "jesus sanchez",
@@ -6235,7 +6250,7 @@
             "team": "mia",
             "start": "7:10 PM",
             "in": "6",
-            "result": "Single",
+            "result": "Fielders Choice",
             "evo": "85.6",
             "la": "-5",
             "dist": "23"
