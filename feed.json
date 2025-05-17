@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "78",
         "batters": "226",
-        "pitches": "2929",
+        "pitches": "2933",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
         "ff%fourseam fastball %": "34.4",
@@ -14,9 +14,9 @@
         "cu%curve %": "8.0",
         "max evmax exit velocity": "114.8",
         "hhhard hit": "207",
-        "hh%hard hit %": "40.0",
+        "hh%hard hit %": "39.8",
         "brlbarrels": "46",
-        "brl%barrel %": "8.9",
+        "brl%barrel %": "8.8",
         "ab": "663",
         "avg": ".250",
         "h": "166",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "19",
         "so": "162",
-        "bipballs in play": "517",
+        "bipballs in play": "520",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-16 22:01:37.770641"
+        "updated": "2025-05-16 22:01:48.340842"
     },
     "chw @ chc": [
         {
@@ -2301,6 +2301,21 @@
     ],
     "pit @ phi": [
         {
+            "player": "andrew mccutchen",
+            "game": "pit @ phi",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-05-16 22:01:44",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:45 PM",
+            "in": "6",
+            "result": "Single",
+            "evo": "87.1",
+            "la": "14",
+            "dist": "227"
+        },
+        {
             "player": "isiah kiner falefa",
             "game": "pit @ phi",
             "hr/park": "",
@@ -2917,6 +2932,21 @@
         }
     ],
     "wsh @ bal": [
+        {
+            "player": "keibert ruiz",
+            "game": "wsh @ bal",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-05-16 22:01:44",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "7:05 PM",
+            "in": "8",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "james wood",
             "game": "wsh @ bal",
@@ -3949,7 +3979,7 @@
             "team": "nym",
             "start": "7:05 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5076,7 +5106,7 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "9",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "95.7",
             "la": "18",
             "dist": "292"
@@ -8487,7 +8517,7 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "",
             "la": "",
             "dist": ""
