@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "71",
         "batters": "212",
-        "pitches": "2714",
+        "pitches": "2725",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "35.3",
-        "si%sinker %": "13.3",
+        "ff%fourseam fastball %": "35.2",
+        "si%sinker %": "13.4",
         "fc%cutter %": "8.4",
-        "fs%splitter %": "3.4",
+        "fs%splitter %": "3.3",
         "ch%changeup %": "8.3",
         "sl%slider %": "22.8",
         "cu%curve %": "8.4",
         "max evmax exit velocity": "114.8",
-        "hhhard hit": "188",
-        "hh%hard hit %": "39.8",
+        "hhhard hit": "190",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "41",
-        "brl%barrel %": "8.7",
-        "ab": "614",
+        "brl%barrel %": "8.6",
+        "ab": "618",
         "avg": ".256",
-        "h": "157",
-        "1b": "108",
+        "h": "158",
+        "1b": "109",
         "2b": "28",
         "3b": "3",
         "hr": "18",
         "so": "155",
-        "bipballs in play": "472",
+        "bipballs in play": "475",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-16 21:49:09.362151"
+        "updated": "2025-05-16 21:49:19.157008"
     },
     "chw @ chc": [
         {
@@ -2301,6 +2301,21 @@
     ],
     "pit @ phi": [
         {
+            "player": "trea turner",
+            "game": "pit @ phi",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-05-16 21:49:15",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "johan rojas",
             "game": "pit @ phi",
             "hr/park": "",
@@ -2310,10 +2325,10 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "95.8",
+            "la": "-5",
+            "dist": "30"
         },
         {
             "player": "weston wilson",
@@ -3789,6 +3804,21 @@
         }
     ],
     "nym @ nyy": [
+        {
+            "player": "aaron judge",
+            "game": "nym @ nyy",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-05-16 21:48:15",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "110.2",
+            "la": "6",
+            "dist": "119"
+        },
         {
             "player": "trent grisham",
             "game": "nym @ nyy",
@@ -9532,6 +9562,36 @@
     ],
     "min @ mil": [
         {
+            "player": "dashawn keirsey",
+            "game": "min @ mil",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-05-16 21:49:15",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "royce lewis",
+            "game": "min @ mil",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-05-16 21:48:30",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "79.9",
+            "la": "48",
+            "dist": "239"
+        },
+        {
             "player": "kody clemens",
             "game": "min @ mil",
             "hr/park": "",
@@ -9541,7 +9601,7 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "105.6",
             "la": "13",
             "dist": "284"
