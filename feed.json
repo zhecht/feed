@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "79",
         "batters": "231",
-        "pitches": "2980",
+        "pitches": "2984",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "34.2",
+        "ff%fourseam fastball %": "34.1",
         "si%sinker %": "14.4",
-        "fc%cutter %": "8.5",
+        "fc%cutter %": "8.4",
         "fs%splitter %": "3.3",
-        "ch%changeup %": "8.7",
+        "ch%changeup %": "8.6",
         "sl%slider %": "22.8",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "114.8",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "39.8",
         "brlbarrels": "47",
         "brl%barrel %": "8.8",
-        "ab": "679",
+        "ab": "681",
         "avg": ".250",
         "h": "170",
         "1b": "118",
@@ -28,7 +28,7 @@
         "bipballs in play": "533",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-16 22:05:20.593268"
+        "updated": "2025-05-16 22:05:30.586828"
     },
     "chw @ chc": [
         {
@@ -2300,6 +2300,21 @@
         }
     ],
     "pit @ phi": [
+        {
+            "player": "nick solak",
+            "game": "pit @ phi",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-05-16 22:05:30",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:45 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "alexander canario",
             "game": "pit @ phi",
@@ -5181,7 +5196,7 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "76.9",
             "la": "2",
             "dist": "54"
@@ -9500,6 +9515,21 @@
     ],
     "hou @ tex": [
         {
+            "player": "yainer diaz",
+            "game": "hou @ tex",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-05-16 22:04:45",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "evan carter",
             "game": "hou @ tex",
             "hr/park": "0/30",
@@ -10231,7 +10261,7 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
