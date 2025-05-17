@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "33",
         "batters": "157",
-        "pitches": "1363",
+        "pitches": "1370",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "37.9",
+        "ff%fourseam fastball %": "38.0",
         "si%sinker %": "11.5",
-        "fc%cutter %": "9.3",
-        "fs%splitter %": "3.2",
+        "fc%cutter %": "9.4",
+        "fs%splitter %": "3.1",
         "ch%changeup %": "6.3",
-        "sl%slider %": "22.7",
+        "sl%slider %": "22.8",
         "cu%curve %": "9.0",
         "max evmax exit velocity": "114.8",
         "hhhard hit": "97",
-        "hh%hard hit %": "39.8",
+        "hh%hard hit %": "39.4",
         "brlbarrels": "20",
-        "brl%barrel %": "8.2",
-        "ab": "323",
+        "brl%barrel %": "8.1",
+        "ab": "324",
         "avg": ".272",
         "h": "88",
         "1b": "57",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "12",
         "so": "85",
-        "bipballs in play": "244",
+        "bipballs in play": "246",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-16 20:25:53.383764"
+        "updated": "2025-05-16 20:26:01.818255"
     },
     "chw @ chc": [
         {
@@ -3281,6 +3281,21 @@
     ],
     "det @ tor": [
         {
+            "player": "zach mckinstry",
+            "game": "det @ tor",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-05-16 20:25:31",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:07 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "spencer torkelson",
             "game": "det @ tor",
             "hr/park": "",
@@ -3838,6 +3853,21 @@
     ],
     "atl @ bos": [
         {
+            "player": "eli white",
+            "game": "atl @ bos",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-05-16 20:25:59",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "90.4",
+            "la": "-19",
+            "dist": "6"
+        },
+        {
             "player": "nick allen",
             "game": "atl @ bos",
             "hr/park": "",
@@ -3847,10 +3877,10 @@
             "team": "atl",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "90.6",
+            "la": "-12",
+            "dist": "7"
         },
         {
             "player": "ceddanne rafaela",
@@ -5173,7 +5203,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
