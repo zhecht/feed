@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "34",
         "batters": "161",
-        "pitches": "1427",
+        "pitches": "1430",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "38.2",
+        "ff%fourseam fastball %": "38.3",
         "si%sinker %": "11.2",
         "fc%cutter %": "9.2",
         "fs%splitter %": "3.1",
@@ -13,22 +13,22 @@
         "sl%slider %": "23.1",
         "cu%curve %": "8.8",
         "max evmax exit velocity": "114.8",
-        "hhhard hit": "99",
-        "hh%hard hit %": "39.0",
+        "hhhard hit": "101",
+        "hh%hard hit %": "39.5",
         "brlbarrels": "21",
-        "brl%barrel %": "8.3",
+        "brl%barrel %": "8.2",
         "ab": "336",
-        "avg": ".265",
-        "h": "89",
+        "avg": ".268",
+        "h": "90",
         "1b": "58",
-        "2b": "17",
+        "2b": "18",
         "3b": "2",
         "hr": "12",
         "so": "88",
-        "bipballs in play": "254",
+        "bipballs in play": "256",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-16 20:30:12.799645"
+        "updated": "2025-05-16 20:30:21.168609"
     },
     "chw @ chc": [
         {
@@ -2312,9 +2312,9 @@
             "start": "7:05 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "96.8",
+            "la": "-20",
+            "dist": "7"
         },
         {
             "player": "ryan mountcastle",
@@ -2838,7 +2838,7 @@
             "team": "nym",
             "start": "7:05 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3943,21 +3943,6 @@
     ],
     "atl @ bos": [
         {
-            "player": "jarren duran",
-            "game": "atl @ bos",
-            "hr/park": "",
-            "pa": "40",
-            "dt": "2025-05-16 20:29:44",
-            "img": "https://www.mlbstatic.com/team-logos/111.svg",
-            "team": "bos",
-            "start": "7:10 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "austin riley",
             "game": "atl @ bos",
             "hr/park": "",
@@ -4545,6 +4530,21 @@
     ],
     "tb @ mia": [
         {
+            "player": "ben rortvedt",
+            "game": "tb @ mia",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-05-16 20:30:15",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose caballero",
             "game": "tb @ mia",
             "hr/park": "",
@@ -4554,10 +4554,10 @@
             "team": "tb",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "106.2",
+            "la": "9",
+            "dist": "184"
         },
         {
             "player": "kameron misner",
