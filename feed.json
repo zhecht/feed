@@ -1,14 +1,14 @@
 {
     "all": {
-        "pitchers": "65",
-        "batters": "203",
-        "pitches": "2595",
+        "pitchers": "66",
+        "batters": "204",
+        "pitches": "2600",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "35.4",
+        "ff%fourseam fastball %": "35.3",
         "si%sinker %": "13.2",
-        "fc%cutter %": "8.4",
-        "fs%splitter %": "3.4",
+        "fc%cutter %": "8.5",
+        "fs%splitter %": "3.3",
         "ch%changeup %": "8.2",
         "sl%slider %": "22.7",
         "cu%curve %": "8.5",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "40.1",
         "brlbarrels": "39",
         "brl%barrel %": "8.7",
-        "ab": "583",
+        "ab": "584",
         "avg": ".252",
         "h": "147",
         "1b": "101",
@@ -28,7 +28,7 @@
         "bipballs in play": "446",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-16 21:42:59.111277"
+        "updated": "2025-05-16 21:43:08.669249"
     },
     "chw @ chc": [
         {
@@ -6768,17 +6768,17 @@
         {
             "player": "brandon lowe",
             "game": "tb @ mia",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "70",
             "dt": "2025-05-16 21:39:44",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "88.0",
+            "la": "25",
+            "dist": "313"
         },
         {
             "player": "kyle stowers",
@@ -8579,10 +8579,10 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "5",
-            "result": "Pop Out",
-            "evo": "82.5",
-            "la": "68",
-            "dist": "124"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "joc pederson",
@@ -9772,7 +9772,23 @@
             "dist": ""
         }
     ],
-    "col @ ari": [],
+    "col @ ari": [
+        {
+            "player": "jordan beck",
+            "game": "col @ ari",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-16 21:43:02",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "sea @ sd": [],
     "laa @ lad": [],
     "ath @ sf": []
