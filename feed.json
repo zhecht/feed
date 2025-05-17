@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "53",
         "batters": "202",
-        "pitches": "2299",
+        "pitches": "2302",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "36.0",
-        "si%sinker %": "12.7",
+        "ff%fourseam fastball %": "35.9",
+        "si%sinker %": "12.8",
         "fc%cutter %": "8.5",
         "fs%splitter %": "3.3",
-        "ch%changeup %": "7.4",
-        "sl%slider %": "23.1",
+        "ch%changeup %": "7.3",
+        "sl%slider %": "23.2",
         "cu%curve %": "8.8",
         "max evmax exit velocity": "114.8",
-        "hhhard hit": "161",
+        "hhhard hit": "162",
         "hh%hard hit %": "41.1",
-        "brlbarrels": "31",
-        "brl%barrel %": "7.9",
-        "ab": "516",
+        "brlbarrels": "32",
+        "brl%barrel %": "8.1",
+        "ab": "517",
         "avg": ".269",
         "h": "139",
         "1b": "96",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "15",
         "so": "134",
-        "bipballs in play": "392",
+        "bipballs in play": "394",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-16 21:23:35.740912"
+        "updated": "2025-05-16 21:23:44.718259"
     },
     "chw @ chc": [
         {
@@ -2301,6 +2301,21 @@
     ],
     "pit @ phi": [
         {
+            "player": "kyle schwarber",
+            "game": "pit @ phi",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-05-16 21:23:44",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:45 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "104.7",
+            "la": "29",
+            "dist": "405"
+        },
+        {
             "player": "bryce harper",
             "game": "pit @ phi",
             "hr/park": "",
@@ -2310,7 +2325,7 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "103.4",
             "la": "-7",
             "dist": "18"
@@ -2657,10 +2672,10 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "6",
-            "result": "Game Advisory",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Field Error",
+            "evo": "78.3",
+            "la": "-11",
+            "dist": "16"
         },
         {
             "player": "keibert ruiz",
