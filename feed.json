@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "112",
         "batters": "288",
-        "pitches": "4128",
+        "pitches": "4131",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
         "ff%fourseam fastball %": "30.0",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "39.9",
         "brlbarrels": "60",
         "brl%barrel %": "8.2",
-        "ab": "931",
+        "ab": "932",
         "avg": ".258",
         "h": "240",
         "1b": "167",
         "2b": "41",
         "3b": "6",
         "hr": "26",
-        "so": "225",
-        "bipballs in play": "731",
+        "so": "224",
+        "bipballs in play": "732",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-16 23:44:19.726538"
+        "updated": "2025-05-16 23:44:32.003927"
     },
     "chw @ chc": [
         {
@@ -13505,7 +13505,7 @@
             "team": "sea",
             "start": "9:40 PM",
             "in": "8",
-            "result": "Strikeout",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -15060,6 +15060,21 @@
     ],
     "ath @ sf": [
         {
+            "player": "mike yastrzemski",
+            "game": "ath @ sf",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-05-16 23:44:29",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "10:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "willy adames",
             "game": "ath @ sf",
             "hr/park": "",
@@ -15069,10 +15084,10 @@
             "team": "sf",
             "start": "10:15 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "87.3",
+            "la": "34",
+            "dist": "282"
         },
         {
             "player": "matt chapman",
