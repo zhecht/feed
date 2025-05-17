@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "126",
         "batters": "292",
-        "pitches": "4476",
+        "pitches": "4482",
         "max velomax pitch velocity": "102.3",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "29.4",
+        "ff%fourseam fastball %": "29.5",
         "si%sinker %": "17.2",
-        "fc%cutter %": "8.6",
+        "fc%cutter %": "8.5",
         "fs%splitter %": "3.0",
         "ch%changeup %": "9.2",
-        "sl%slider %": "25.2",
+        "sl%slider %": "25.3",
         "cu%curve %": "7.2",
         "max evmax exit velocity": "114.9",
-        "hhhard hit": "315",
+        "hhhard hit": "317",
         "hh%hard hit %": "40.4",
         "brlbarrels": "63",
-        "brl%barrel %": "8.1",
-        "ab": "1003",
-        "avg": ".255",
-        "h": "256",
+        "brl%barrel %": "8.0",
+        "ab": "1006",
+        "avg": ".256",
+        "h": "258",
         "1b": "175",
-        "2b": "46",
+        "2b": "48",
         "3b": "6",
         "hr": "29",
         "so": "250",
-        "bipballs in play": "780",
+        "bipballs in play": "785",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-05-17 00:39:56.003279"
+        "updated": "2025-05-17 00:40:32.787345"
     },
     "chw @ chc": [
         {
@@ -9644,8 +9644,8 @@
             "in": "7",
             "result": "Groundout",
             "evo": "",
-            "la": "",
-            "dist": ""
+            "la": "-59",
+            "dist": "2"
         },
         {
             "player": "nolan arenado",
@@ -14893,6 +14893,21 @@
     ],
     "laa @ lad": [
         {
+            "player": "nolan schanuel",
+            "game": "laa @ lad",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-05-17 00:40:24",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "103.9",
+            "la": "10",
+            "dist": "217"
+        },
+        {
             "player": "zach neto",
             "game": "laa @ lad",
             "hr/park": "",
@@ -14902,10 +14917,10 @@
             "team": "laa",
             "start": "",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "100.9",
+            "la": "15",
+            "dist": "229"
         },
         {
             "player": "tim anderson",
@@ -15900,11 +15915,11 @@
     ],
     "ath @ sf": [
         {
-            "player": "jung hoo lee",
+            "player": "willy adames",
             "game": "ath @ sf",
             "hr/park": "",
-            "pa": "69",
-            "dt": "2025-05-17 00:38:32",
+            "pa": "71",
+            "dt": "2025-05-17 00:40:24",
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
             "team": "sf",
             "start": "",
@@ -15913,6 +15928,36 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "matt chapman",
+            "game": "ath @ sf",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-05-17 00:40:02",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "",
+            "in": "8",
+            "result": "Double",
+            "evo": "83.0",
+            "la": "5",
+            "dist": "73"
+        },
+        {
+            "player": "jung hoo lee",
+            "game": "ath @ sf",
+            "hr/park": "0/30",
+            "pa": "69",
+            "dt": "2025-05-17 00:38:32",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "",
+            "in": "8",
+            "result": "Flyout",
+            "evo": "93.5",
+            "la": "35",
+            "dist": "346"
         },
         {
             "player": "wilmer flores",
