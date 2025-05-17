@@ -1,13 +1,13 @@
 {
     "all": {
-        "pitchers": "54",
+        "pitchers": "55",
         "batters": "202",
-        "pitches": "2350",
+        "pitches": "2355",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
         "ff%fourseam fastball %": "35.8",
-        "si%sinker %": "13.0",
-        "fc%cutter %": "8.5",
+        "si%sinker %": "12.9",
+        "fc%cutter %": "8.6",
         "fs%splitter %": "3.3",
         "ch%changeup %": "7.4",
         "sl%slider %": "23.1",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "41.3",
         "brlbarrels": "32",
         "brl%barrel %": "8.0",
-        "ab": "527",
+        "ab": "530",
         "avg": ".266",
-        "h": "140",
-        "1b": "97",
+        "h": "141",
+        "1b": "98",
         "2b": "25",
         "3b": "3",
         "hr": "15",
@@ -28,7 +28,7 @@
         "bipballs in play": "402",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-16 21:27:08.288052"
+        "updated": "2025-05-16 21:27:17.576991"
     },
     "chw @ chc": [
         {
@@ -2301,6 +2301,21 @@
     ],
     "pit @ phi": [
         {
+            "player": "alexander canario",
+            "game": "pit @ phi",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-05-16 21:27:15",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:45 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kebryan hayes",
             "game": "pit @ phi",
             "hr/park": "",
@@ -4377,21 +4392,6 @@
     ],
     "det @ tor": [
         {
-            "player": "jonatan clase",
-            "game": "det @ tor",
-            "hr/park": "",
-            "pa": "60",
-            "dt": "2025-05-16 21:27:02",
-            "img": "https://www.mlbstatic.com/team-logos/141.svg",
-            "team": "tor",
-            "start": "7:07 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "77.8",
-            "la": "-49",
-            "dist": "3"
-        },
-        {
             "player": "michael stefanic",
             "game": "det @ tor",
             "hr/park": "",
@@ -6241,6 +6241,21 @@
     ],
     "tb @ mia": [
         {
+            "player": "chandler simpson",
+            "game": "tb @ mia",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-05-16 21:27:15",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ben rortvedt",
             "game": "tb @ mia",
             "hr/park": "",
@@ -7188,6 +7203,36 @@
     ],
     "stl @ kc": [
         {
+            "player": "nolan arenado",
+            "game": "stl @ kc",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-05-16 21:27:15",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "brendan donovan",
+            "game": "stl @ kc",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-05-16 21:26:44",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "Single",
+            "evo": "94.0",
+            "la": "15",
+            "dist": "231"
+        },
+        {
             "player": "masyn winn",
             "game": "stl @ kc",
             "hr/park": "",
@@ -7814,7 +7859,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
