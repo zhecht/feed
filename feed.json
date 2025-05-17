@@ -1,15 +1,15 @@
 {
     "all": {
-        "pitchers": "60",
+        "pitchers": "62",
         "batters": "202",
-        "pitches": "2540",
+        "pitches": "2545",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
         "ff%fourseam fastball %": "35.3",
         "si%sinker %": "13.4",
         "fc%cutter %": "8.6",
         "fs%splitter %": "3.4",
-        "ch%changeup %": "7.6",
+        "ch%changeup %": "7.7",
         "sl%slider %": "23.0",
         "cu%curve %": "8.5",
         "max evmax exit velocity": "114.8",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "40.5",
         "brlbarrels": "39",
         "brl%barrel %": "8.9",
-        "ab": "568",
-        "avg": ".259",
+        "ab": "571",
+        "avg": ".257",
         "h": "147",
         "1b": "101",
         "2b": "26",
         "3b": "3",
         "hr": "17",
         "so": "145",
-        "bipballs in play": "439",
+        "bipballs in play": "440",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-16 21:39:38.701718"
+        "updated": "2025-05-16 21:39:48.108453"
     },
     "chw @ chc": [
         {
@@ -2300,6 +2300,21 @@
         }
     ],
     "pit @ phi": [
+        {
+            "player": "jared triolo",
+            "game": "pit @ phi",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-05-16 21:39:44",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "matt gorski",
             "game": "pit @ phi",
@@ -6676,6 +6691,21 @@
     ],
     "tb @ mia": [
         {
+            "player": "brandon lowe",
+            "game": "tb @ mia",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-05-16 21:39:44",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle stowers",
             "game": "tb @ mia",
             "hr/park": "4/30",
@@ -7713,6 +7743,21 @@
     ],
     "stl @ kc": [
         {
+            "player": "jordan walker",
+            "game": "stl @ kc",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-05-16 21:39:44",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "86.9",
+            "la": "80",
+            "dist": "17"
+        },
+        {
             "player": "pedro pages",
             "game": "stl @ kc",
             "hr/park": "",
@@ -7752,7 +7797,7 @@
             "team": "stl",
             "start": "7:40 PM",
             "in": "6",
-            "result": "Field Error",
+            "result": "Fielders Choice",
             "evo": "108.3",
             "la": "-20",
             "dist": "8"
