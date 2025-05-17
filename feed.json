@@ -1,26 +1,26 @@
 {
     "all": {
         "pitchers": "67",
-        "batters": "206",
-        "pitches": "2624",
+        "batters": "207",
+        "pitches": "2629",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "35.2",
+        "ff%fourseam fastball %": "35.3",
         "si%sinker %": "13.4",
         "fc%cutter %": "8.4",
         "fs%splitter %": "3.3",
         "ch%changeup %": "8.3",
         "sl%slider %": "22.7",
-        "cu%curve %": "8.5",
+        "cu%curve %": "8.4",
         "max evmax exit velocity": "114.8",
         "hhhard hit": "181",
         "hh%hard hit %": "39.9",
         "brlbarrels": "40",
         "brl%barrel %": "8.8",
-        "ab": "591",
-        "avg": ".250",
-        "h": "148",
-        "1b": "101",
+        "ab": "594",
+        "avg": ".251",
+        "h": "149",
+        "1b": "102",
         "2b": "26",
         "3b": "3",
         "hr": "18",
@@ -28,7 +28,7 @@
         "bipballs in play": "454",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-16 21:44:25.916122"
+        "updated": "2025-05-16 21:44:35.442255"
     },
     "chw @ chc": [
         {
@@ -5759,6 +5759,21 @@
     ],
     "atl @ bos": [
         {
+            "player": "kristian campbell",
+            "game": "atl @ bos",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-05-16 21:44:30",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "rob refsnyder",
             "game": "atl @ bos",
             "hr/park": "",
@@ -9262,6 +9277,21 @@
     ],
     "min @ mil": [
         {
+            "player": "joey ortiz",
+            "game": "min @ mil",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-05-16 21:44:30",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "Pop Out",
+            "evo": "65.1",
+            "la": "55",
+            "dist": "159"
+        },
+        {
             "player": "caleb durbin",
             "game": "min @ mil",
             "hr/park": "0/30",
@@ -9873,13 +9903,28 @@
             "team": "col",
             "start": "9:40 PM",
             "in": "1",
-            "result": "Pop Out",
-            "evo": "72.9",
-            "la": "85",
-            "dist": "50"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         }
     ],
     "sea @ sd": [
+        {
+            "player": "julio rodriguez",
+            "game": "sea @ sd",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-05-16 21:44:00",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jorge polanco",
             "game": "sea @ sd",
@@ -9890,7 +9935,7 @@
             "team": "sea",
             "start": "9:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "104.8",
             "la": "8",
             "dist": "181"
