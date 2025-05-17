@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "54",
         "batters": "202",
-        "pitches": "2320",
+        "pitches": "2328",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
         "ff%fourseam fastball %": "35.9",
-        "si%sinker %": "12.7",
+        "si%sinker %": "12.8",
         "fc%cutter %": "8.5",
         "fs%splitter %": "3.3",
-        "ch%changeup %": "7.3",
+        "ch%changeup %": "7.4",
         "sl%slider %": "23.1",
         "cu%curve %": "8.8",
         "max evmax exit velocity": "114.8",
         "hhhard hit": "164",
-        "hh%hard hit %": "41.4",
+        "hh%hard hit %": "41.3",
         "brlbarrels": "32",
         "brl%barrel %": "8.1",
-        "ab": "520",
-        "avg": ".267",
-        "h": "139",
-        "1b": "96",
+        "ab": "522",
+        "avg": ".268",
+        "h": "140",
+        "1b": "97",
         "2b": "25",
         "3b": "3",
         "hr": "15",
-        "so": "134",
-        "bipballs in play": "396",
+        "so": "136",
+        "bipballs in play": "397",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-16 21:25:35.400408"
+        "updated": "2025-05-16 21:25:44.548056"
     },
     "chw @ chc": [
         {
@@ -2300,6 +2300,21 @@
         }
     ],
     "pit @ phi": [
+        {
+            "player": "kebryan hayes",
+            "game": "pit @ phi",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-05-16 21:25:44",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:45 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kyle schwarber",
             "game": "pit @ phi",
@@ -7730,6 +7745,21 @@
     ],
     "hou @ tex": [
         {
+            "player": "jake burger",
+            "game": "hou @ tex",
+            "hr/park": "0/30",
+            "pa": "33",
+            "dt": "2025-05-16 21:25:44",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:05 PM",
+            "in": "4",
+            "result": "Single",
+            "evo": "91.4",
+            "la": "20",
+            "dist": "305"
+        },
+        {
             "player": "evan carter",
             "game": "hou @ tex",
             "hr/park": "",
@@ -7739,7 +7769,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8221,7 +8251,7 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
