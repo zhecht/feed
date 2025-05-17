@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "48",
         "batters": "201",
-        "pitches": "2148",
+        "pitches": "2152",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "36.5",
+        "ff%fourseam fastball %": "36.4",
         "si%sinker %": "12.2",
         "fc%cutter %": "8.6",
         "fs%splitter %": "2.7",
-        "ch%changeup %": "7.4",
+        "ch%changeup %": "7.5",
         "sl%slider %": "23.5",
         "cu%curve %": "8.8",
         "max evmax exit velocity": "114.8",
@@ -18,9 +18,9 @@
         "brlbarrels": "29",
         "brl%barrel %": "8.0",
         "ab": "482",
-        "avg": ".268",
-        "h": "129",
-        "1b": "88",
+        "avg": ".266",
+        "h": "128",
+        "1b": "87",
         "2b": "23",
         "3b": "3",
         "hr": "15",
@@ -28,7 +28,7 @@
         "bipballs in play": "363",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-16 21:13:05.204360"
+        "updated": "2025-05-16 21:13:14.209516"
     },
     "chw @ chc": [
         {
@@ -2310,7 +2310,7 @@
             "team": "pit",
             "start": "6:45 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3325,6 +3325,21 @@
     ],
     "nym @ nyy": [
         {
+            "player": "cody bellinger",
+            "game": "nym @ nyy",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-05-16 21:13:14",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "aaron judge",
             "game": "nym @ nyy",
             "hr/park": "",
@@ -3334,10 +3349,10 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "72.2",
+            "la": "-3",
+            "dist": "19"
         },
         {
             "player": "trent grisham",
@@ -4136,6 +4151,21 @@
         }
     ],
     "det @ tor": [
+        {
+            "player": "zach mckinstry",
+            "game": "det @ tor",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-05-16 21:13:14",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:07 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "99.5",
+            "la": "-26",
+            "dist": "6"
+        },
         {
             "player": "spencer torkelson",
             "game": "det @ tor",
@@ -4958,7 +4988,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6662,21 +6692,6 @@
         }
     ],
     "stl @ kc": [
-        {
-            "player": "bobby witt",
-            "game": "stl @ kc",
-            "hr/park": "",
-            "pa": "39",
-            "dt": "2025-05-16 21:11:14",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "start": "7:40 PM",
-            "in": "5",
-            "result": "Single",
-            "evo": "112.1",
-            "la": "-5",
-            "dist": "19"
-        },
         {
             "player": "jonathan india",
             "game": "stl @ kc",
