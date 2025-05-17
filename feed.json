@@ -2,16 +2,16 @@
     "all": {
         "pitchers": "32",
         "batters": "149",
-        "pitches": "1281",
+        "pitches": "1282",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "38.0",
-        "si%sinker %": "11.6",
+        "ff%fourseam fastball %": "37.9",
+        "si%sinker %": "11.5",
         "fc%cutter %": "9.7",
         "fs%splitter %": "3.0",
         "ch%changeup %": "6.2",
-        "sl%slider %": "22.3",
-        "cu%curve %": "9.1",
+        "sl%slider %": "22.4",
+        "cu%curve %": "9.2",
         "max evmax exit velocity": "114.8",
         "hhhard hit": "90",
         "hh%hard hit %": "38.5",
@@ -28,7 +28,7 @@
         "bipballs in play": "234",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-16 20:20:38.849106"
+        "updated": "2025-05-16 20:20:46.949398"
     },
     "chw @ chc": [
         {
@@ -2302,21 +2302,6 @@
     "pit @ phi": [],
     "wsh @ bal": [
         {
-            "player": "keibert ruiz",
-            "game": "wsh @ bal",
-            "hr/park": "",
-            "pa": "31",
-            "dt": "2025-05-16 20:20:29",
-            "img": "https://www.mlbstatic.com/team-logos/120.svg",
-            "team": "wsh",
-            "start": "7:05 PM",
-            "in": "4",
-            "result": "Groundout",
-            "evo": "78.8",
-            "la": "-49",
-            "dist": "3"
-        },
-        {
             "player": "james wood",
             "game": "wsh @ bal",
             "hr/park": "",
@@ -3221,6 +3206,21 @@
     ],
     "det @ tor": [
         {
+            "player": "colt keith",
+            "game": "det @ tor",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-05-16 20:20:44",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:07 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gleyber torres",
             "game": "det @ tor",
             "hr/park": "",
@@ -3230,7 +3230,7 @@
             "team": "det",
             "start": "7:07 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "83.6",
             "la": "73",
             "dist": "109"
@@ -4781,10 +4781,10 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "75.8",
+            "la": "-36",
+            "dist": "5"
         },
         {
             "player": "pedro pages",
@@ -5040,7 +5040,7 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "1",
-            "result": "Game Advisory",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
