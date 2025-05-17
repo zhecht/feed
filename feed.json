@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "91",
-        "batters": "256",
-        "pitches": "3278",
+        "batters": "257",
+        "pitches": "3287",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
         "ff%fourseam fastball %": "32.5",
@@ -14,21 +14,21 @@
         "cu%curve %": "7.9",
         "max evmax exit velocity": "114.8",
         "hhhard hit": "230",
-        "hh%hard hit %": "39.2",
+        "hh%hard hit %": "39.0",
         "brlbarrels": "52",
-        "brl%barrel %": "8.9",
-        "ab": "747",
-        "avg": ".257",
+        "brl%barrel %": "8.8",
+        "ab": "749",
+        "avg": ".256",
         "h": "192",
         "1b": "133",
         "2b": "33",
         "3b": "4",
         "hr": "22",
-        "so": "176",
-        "bipballs in play": "587",
+        "so": "177",
+        "bipballs in play": "589",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-16 22:24:59.114997"
+        "updated": "2025-05-16 22:25:09.891822"
     },
     "chw @ chc": [
         {
@@ -11673,7 +11673,7 @@
             "team": "col",
             "start": "9:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11965,6 +11965,21 @@
         }
     ],
     "sea @ sd": [
+        {
+            "player": "jackson merrill",
+            "game": "sea @ sd",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-05-16 22:25:02",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "manny machado",
             "game": "sea @ sd",
@@ -12405,6 +12420,21 @@
     ],
     "ath @ sf": [
         {
+            "player": "jung hoo lee",
+            "game": "ath @ sf",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-05-16 22:25:02",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "10:15 PM",
+            "in": "1",
+            "result": "Flyout",
+            "evo": "90.1",
+            "la": "46",
+            "dist": "265"
+        },
+        {
             "player": "wilmer flores",
             "game": "ath @ sf",
             "hr/park": "",
@@ -12414,10 +12444,10 @@
             "team": "sf",
             "start": "10:15 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "86.6",
+            "la": "-17",
+            "dist": "8"
         },
         {
             "player": "heliot ramos",
