@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "46",
+        "pitchers": "47",
         "batters": "199",
-        "pitches": "2046",
+        "pitches": "2050",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "36.8",
+        "ff%fourseam fastball %": "36.7",
         "si%sinker %": "11.8",
         "fc%cutter %": "8.8",
         "fs%splitter %": "2.7",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.7",
         "max evmax exit velocity": "114.8",
         "hhhard hit": "141",
-        "hh%hard hit %": "40.5",
+        "hh%hard hit %": "40.4",
         "brlbarrels": "27",
-        "brl%barrel %": "7.8",
-        "ab": "466",
+        "brl%barrel %": "7.7",
+        "ab": "467",
         "avg": ".270",
         "h": "126",
         "1b": "86",
         "2b": "23",
         "3b": "2",
         "hr": "15",
-        "so": "124",
-        "bipballs in play": "348",
+        "so": "125",
+        "bipballs in play": "349",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-16 21:07:21.473795"
+        "updated": "2025-05-16 21:07:30.380164"
     },
     "chw @ chc": [
         {
@@ -2310,10 +2310,10 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "83.1",
+            "la": "10",
+            "dist": "171"
         },
         {
             "player": "weston wilson",
@@ -2557,6 +2557,21 @@
         }
     ],
     "wsh @ bal": [
+        {
+            "player": "nasim nunez",
+            "game": "wsh @ bal",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-05-16 21:06:59",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "gunnar henderson",
             "game": "wsh @ bal",
@@ -4829,6 +4844,21 @@
     ],
     "atl @ bos": [
         {
+            "player": "carlos narvaez",
+            "game": "atl @ bos",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-05-16 21:07:30",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "austin riley",
             "game": "atl @ bos",
             "hr/park": "",
@@ -5670,21 +5700,6 @@
         }
     ],
     "tb @ mia": [
-        {
-            "player": "kyle stowers",
-            "game": "tb @ mia",
-            "hr/park": "",
-            "pa": "55",
-            "dt": "2025-05-16 21:07:15",
-            "img": "https://www.mlbstatic.com/team-logos/146.svg",
-            "team": "mia",
-            "start": "7:10 PM",
-            "in": "6",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "connor norby",
             "game": "tb @ mia",
@@ -7034,7 +7049,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
