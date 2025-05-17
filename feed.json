@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "57",
         "batters": "202",
-        "pitches": "2461",
+        "pitches": "2473",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "35.4",
-        "si%sinker %": "13.2",
+        "ff%fourseam fastball %": "35.3",
+        "si%sinker %": "13.1",
         "fc%cutter %": "8.5",
         "fs%splitter %": "3.5",
         "ch%changeup %": "7.5",
         "sl%slider %": "23.1",
         "cu%curve %": "8.7",
         "max evmax exit velocity": "114.8",
-        "hhhard hit": "172",
-        "hh%hard hit %": "41.0",
-        "brlbarrels": "34",
-        "brl%barrel %": "8.1",
-        "ab": "550",
-        "avg": ".260",
-        "h": "143",
+        "hhhard hit": "174",
+        "hh%hard hit %": "41.1",
+        "brlbarrels": "36",
+        "brl%barrel %": "8.5",
+        "ab": "551",
+        "avg": ".263",
+        "h": "145",
         "1b": "100",
-        "2b": "25",
+        "2b": "26",
         "3b": "3",
-        "hr": "15",
-        "so": "140",
-        "bipballs in play": "420",
+        "hr": "16",
+        "so": "141",
+        "bipballs in play": "423",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-16 21:34:27.321989"
+        "updated": "2025-05-16 21:34:36.709394"
     },
     "chw @ chc": [
         {
@@ -4542,11 +4542,11 @@
     ],
     "det @ tor": [
         {
-            "player": "javier baez",
+            "player": "kerry carpenter",
             "game": "det @ tor",
             "hr/park": "",
-            "pa": "63",
-            "dt": "2025-05-16 21:33:00",
+            "pa": "64",
+            "dt": "2025-05-16 21:34:30",
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
             "team": "det",
             "start": "7:07 PM",
@@ -4555,6 +4555,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "javier baez",
+            "game": "det @ tor",
+            "hr/park": "30/30",
+            "pa": "63",
+            "dt": "2025-05-16 21:33:00",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:07 PM",
+            "in": "8",
+            "result": "Home Run",
+            "evo": "107.5",
+            "la": "33",
+            "dist": "408"
         },
         {
             "player": "trey sweeney",
@@ -5498,7 +5513,7 @@
             "team": "atl",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7497,10 +7512,10 @@
             "team": "stl",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "110.2",
+            "la": "20",
+            "dist": "382"
         },
         {
             "player": "willson contreras",
@@ -8165,6 +8180,21 @@
     ],
     "hou @ tex": [
         {
+            "player": "cam smith",
+            "game": "hou @ tex",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-05-16 21:34:30",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "zach dezenzo",
             "game": "hou @ tex",
             "hr/park": "",
@@ -8174,10 +8204,10 @@
             "team": "hou",
             "start": "8:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "70.7",
+            "la": "1",
+            "dist": "37"
         },
         {
             "player": "josh smith",
@@ -8716,7 +8746,7 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
