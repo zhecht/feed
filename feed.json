@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "114",
         "batters": "289",
-        "pitches": "4181",
+        "pitches": "4186",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "30.2",
+        "ff%fourseam fastball %": "30.1",
         "si%sinker %": "16.8",
         "fc%cutter %": "8.8",
         "fs%splitter %": "2.9",
@@ -14,10 +14,10 @@
         "cu%curve %": "7.5",
         "max evmax exit velocity": "114.8",
         "hhhard hit": "293",
-        "hh%hard hit %": "39.8",
+        "hh%hard hit %": "39.7",
         "brlbarrels": "60",
-        "brl%barrel %": "8.2",
-        "ab": "941",
+        "brl%barrel %": "8.1",
+        "ab": "942",
         "avg": ".255",
         "h": "240",
         "1b": "167",
@@ -25,10 +25,10 @@
         "3b": "6",
         "hr": "26",
         "so": "230",
-        "bipballs in play": "736",
+        "bipballs in play": "738",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-16 23:52:06.203796"
+        "updated": "2025-05-16 23:52:18.574481"
     },
     "chw @ chc": [
         {
@@ -15210,19 +15210,34 @@
     ],
     "ath @ sf": [
         {
-            "player": "tyler soderstrom",
+            "player": "brent rooker",
             "game": "ath @ sf",
             "hr/park": "",
+            "pa": "46",
+            "dt": "2025-05-16 23:52:16",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:15 PM",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "88.8",
+            "la": "-1",
+            "dist": "46"
+        },
+        {
+            "player": "tyler soderstrom",
+            "game": "ath @ sf",
+            "hr/park": "0/30",
             "pa": "45",
             "dt": "2025-05-16 23:51:45",
             "img": "https://www.mlbstatic.com/team-logos/133.svg",
             "team": "ath",
             "start": "10:15 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "92.6",
+            "la": "34",
+            "dist": "309"
         },
         {
             "player": "lamonte wade",
