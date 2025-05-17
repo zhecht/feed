@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "49",
         "batters": "201",
-        "pitches": "2183",
+        "pitches": "2187",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "36.6",
-        "si%sinker %": "12.2",
+        "ff%fourseam fastball %": "36.5",
+        "si%sinker %": "12.3",
         "fc%cutter %": "8.5",
         "fs%splitter %": "2.8",
         "ch%changeup %": "7.5",
         "sl%slider %": "23.4",
-        "cu%curve %": "8.7",
+        "cu%curve %": "8.8",
         "max evmax exit velocity": "114.8",
-        "hhhard hit": "150",
+        "hhhard hit": "151",
         "hh%hard hit %": "40.7",
         "brlbarrels": "29",
-        "brl%barrel %": "7.9",
+        "brl%barrel %": "7.8",
         "ab": "493",
         "avg": ".264",
         "h": "130",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "15",
         "so": "131",
-        "bipballs in play": "369",
+        "bipballs in play": "371",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-16 21:15:20.998071"
+        "updated": "2025-05-16 21:15:30.199565"
     },
     "chw @ chc": [
         {
@@ -2310,7 +2310,7 @@
             "team": "pit",
             "start": "6:45 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2618,6 +2618,21 @@
     ],
     "wsh @ bal": [
         {
+            "player": "james wood",
+            "game": "wsh @ bal",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-05-16 21:15:30",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "100.8",
+            "la": "10",
+            "dist": "196"
+        },
+        {
             "player": "alex call",
             "game": "wsh @ bal",
             "hr/park": "",
@@ -2627,10 +2642,10 @@
             "team": "wsh",
             "start": "7:05 PM",
             "in": "6",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "91.1",
+            "la": "-8",
+            "dist": "12"
         },
         {
             "player": "cj abrams",
@@ -4191,7 +4206,7 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "7",
-            "result": "Injury",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7399,21 +7414,6 @@
         }
     ],
     "hou @ tex": [
-        {
-            "player": "christian walker",
-            "game": "hou @ tex",
-            "hr/park": "",
-            "pa": "28",
-            "dt": "2025-05-16 21:15:14",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "8:05 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "josh jung",
             "game": "hou @ tex",
