@@ -1,23 +1,23 @@
 {
     "all": {
         "pitchers": "45",
-        "batters": "197",
-        "pitches": "2006",
+        "batters": "198",
+        "pitches": "2015",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "36.9",
+        "ff%fourseam fastball %": "37.0",
         "si%sinker %": "11.6",
         "fc%cutter %": "8.7",
         "fs%splitter %": "2.8",
         "ch%changeup %": "7.4",
         "sl%slider %": "23.6",
-        "cu%curve %": "8.8",
+        "cu%curve %": "8.7",
         "max evmax exit velocity": "114.8",
-        "hhhard hit": "138",
-        "hh%hard hit %": "40.2",
+        "hhhard hit": "140",
+        "hh%hard hit %": "40.6",
         "brlbarrels": "27",
-        "brl%barrel %": "7.9",
-        "ab": "461",
+        "brl%barrel %": "7.8",
+        "ab": "462",
         "avg": ".273",
         "h": "126",
         "1b": "86",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "15",
         "so": "121",
-        "bipballs in play": "343",
+        "bipballs in play": "345",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-16 21:04:39.585199"
+        "updated": "2025-05-16 21:04:48.474113"
     },
     "chw @ chc": [
         {
@@ -5650,7 +5650,7 @@
             "team": "mia",
             "start": "7:10 PM",
             "in": "6",
-            "result": "Mound Visit",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6447,10 +6447,10 @@
             "team": "stl",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "96.3",
+            "la": "43",
+            "dist": "313"
         },
         {
             "player": "victor scott",
@@ -7327,6 +7327,21 @@
     ],
     "min @ mil": [
         {
+            "player": "ryan fitzgerald",
+            "game": "min @ mil",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-05-16 21:04:43",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ty france",
             "game": "min @ mil",
             "hr/park": "",
@@ -7336,10 +7351,10 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "105.5",
+            "la": "-9",
+            "dist": "15"
         },
         {
             "player": "caleb durbin",
