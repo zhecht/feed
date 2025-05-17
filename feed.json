@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "79",
         "batters": "227",
-        "pitches": "2949",
+        "pitches": "2953",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "34.4",
-        "si%sinker %": "14.3",
+        "ff%fourseam fastball %": "34.3",
+        "si%sinker %": "14.4",
         "fc%cutter %": "8.4",
         "fs%splitter %": "3.4",
         "ch%changeup %": "8.4",
@@ -14,7 +14,7 @@
         "cu%curve %": "8.1",
         "max evmax exit velocity": "114.8",
         "hhhard hit": "208",
-        "hh%hard hit %": "39.8",
+        "hh%hard hit %": "39.7",
         "brlbarrels": "46",
         "brl%barrel %": "8.8",
         "ab": "671",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "19",
         "so": "163",
-        "bipballs in play": "523",
+        "bipballs in play": "524",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-16 22:03:09.126909"
+        "updated": "2025-05-16 22:03:19.447318"
     },
     "chw @ chc": [
         {
@@ -2310,7 +2310,7 @@
             "team": "pit",
             "start": "6:45 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "109.7",
             "la": "-35",
             "dist": "3"
@@ -4014,6 +4014,21 @@
         }
     ],
     "nym @ nyy": [
+        {
+            "player": "francisco lindor",
+            "game": "nym @ nyy",
+            "hr/park": "",
+            "pa": "76",
+            "dt": "2025-05-16 22:03:15",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:05 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jeff mcneil",
             "game": "nym @ nyy",
@@ -8577,10 +8592,10 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "77.7",
+            "la": "64",
+            "dist": "154"
         },
         {
             "player": "drew waters",
@@ -8607,7 +8622,7 @@
             "team": "stl",
             "start": "7:40 PM",
             "in": "7",
-            "result": "Groundout",
+            "result": "Lineout",
             "evo": "96.0",
             "la": "15",
             "dist": "297"
@@ -9439,21 +9454,6 @@
         }
     ],
     "hou @ tex": [
-        {
-            "player": "evan carter",
-            "game": "hou @ tex",
-            "hr/park": "0/30",
-            "pa": "48",
-            "dt": "2025-05-16 22:03:02",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "8:05 PM",
-            "in": "6",
-            "result": "Flyout",
-            "evo": "90.8",
-            "la": "36",
-            "dist": "319"
-        },
         {
             "player": "josh jung",
             "game": "hou @ tex",
@@ -10923,10 +10923,10 @@
             "team": "col",
             "start": "9:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "91.2",
+            "la": "52",
+            "dist": "252"
         },
         {
             "player": "eugenio suarez",
