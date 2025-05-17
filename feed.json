@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "78",
-        "batters": "224",
-        "pitches": "2891",
+        "batters": "225",
+        "pitches": "2896",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "34.6",
-        "si%sinker %": "14.3",
+        "ff%fourseam fastball %": "34.5",
+        "si%sinker %": "14.2",
         "fc%cutter %": "8.3",
         "fs%splitter %": "3.4",
         "ch%changeup %": "8.3",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.1",
         "max evmax exit velocity": "114.8",
         "hhhard hit": "204",
-        "hh%hard hit %": "40.0",
+        "hh%hard hit %": "39.9",
         "brlbarrels": "45",
         "brl%barrel %": "8.8",
-        "ab": "657",
-        "avg": ".250",
+        "ab": "658",
+        "avg": ".249",
         "h": "164",
         "1b": "114",
         "2b": "29",
         "3b": "3",
         "hr": "18",
         "so": "160",
-        "bipballs in play": "510",
+        "bipballs in play": "511",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-16 21:59:23.818083"
+        "updated": "2025-05-16 21:59:34.199827"
     },
     "chw @ chc": [
         {
@@ -9299,7 +9299,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "6",
-            "result": "Flyout",
+            "result": "In Progress",
             "evo": "80.6",
             "la": "48",
             "dist": "273"
@@ -10841,6 +10841,21 @@
     ],
     "sea @ sd": [
         {
+            "player": "leody taveras",
+            "game": "sea @ sd",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-05-16 21:59:30",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "9:40 PM",
+            "in": "2",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "rowdy tellez",
             "game": "sea @ sd",
             "hr/park": "",
@@ -10850,10 +10865,10 @@
             "team": "sea",
             "start": "9:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "82.0",
+            "la": "7",
+            "dist": "111"
         },
         {
             "player": "jackson merrill",
