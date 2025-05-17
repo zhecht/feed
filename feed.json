@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "78",
-        "batters": "223",
-        "pitches": "2880",
+        "batters": "224",
+        "pitches": "2888",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
         "ff%fourseam fastball %": "34.5",
@@ -10,25 +10,25 @@
         "fc%cutter %": "8.3",
         "fs%splitter %": "3.4",
         "ch%changeup %": "8.3",
-        "sl%slider %": "22.8",
-        "cu%curve %": "8.2",
+        "sl%slider %": "22.9",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "114.8",
-        "hhhard hit": "203",
+        "hhhard hit": "204",
         "hh%hard hit %": "40.0",
         "brlbarrels": "45",
-        "brl%barrel %": "8.9",
-        "ab": "652",
-        "avg": ".253",
-        "h": "165",
+        "brl%barrel %": "8.8",
+        "ab": "656",
+        "avg": ".250",
+        "h": "164",
         "1b": "114",
-        "2b": "30",
+        "2b": "29",
         "3b": "3",
         "hr": "18",
         "so": "160",
-        "bipballs in play": "508",
+        "bipballs in play": "510",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-16 21:58:53.532767"
+        "updated": "2025-05-16 21:59:03.525331"
     },
     "chw @ chc": [
         {
@@ -3910,6 +3910,21 @@
     ],
     "nym @ nyy": [
         {
+            "player": "jeff mcneil",
+            "game": "nym @ nyy",
+            "hr/park": "",
+            "pa": "75",
+            "dt": "2025-05-16 21:59:00",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:05 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brett baty",
             "game": "nym @ nyy",
             "hr/park": "",
@@ -5022,9 +5037,24 @@
     ],
     "det @ tor": [
         {
-            "player": "alejandro kirk",
+            "player": "addison barger",
             "game": "det @ tor",
             "hr/park": "",
+            "pa": "74",
+            "dt": "2025-05-16 21:59:00",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "60.8",
+            "la": "-71",
+            "dist": "3"
+        },
+        {
+            "player": "alejandro kirk",
+            "game": "det @ tor",
+            "hr/park": "0/30",
             "pa": "73",
             "dt": "2025-05-16 21:56:17",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
@@ -8412,7 +8442,7 @@
             "team": "stl",
             "start": "7:40 PM",
             "in": "7",
-            "result": "Double",
+            "result": "Groundout",
             "evo": "96.0",
             "la": "15",
             "dist": "297"
@@ -9936,6 +9966,36 @@
         }
     ],
     "min @ mil": [
+        {
+            "player": "rhys hoskins",
+            "game": "min @ mil",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-05-16 21:58:16",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "christian yelich",
+            "game": "min @ mil",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-05-16 21:58:16",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "103.7",
+            "la": "4",
+            "dist": "92"
+        },
         {
             "player": "william contreras",
             "game": "min @ mil",
