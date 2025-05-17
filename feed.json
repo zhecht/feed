@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "104",
+        "pitchers": "105",
         "batters": "284",
-        "pitches": "3828",
+        "pitches": "3834",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "30.7",
-        "si%sinker %": "16.5",
+        "ff%fourseam fastball %": "30.6",
+        "si%sinker %": "16.6",
         "fc%cutter %": "8.9",
         "fs%splitter %": "3.0",
         "ch%changeup %": "8.7",
@@ -14,7 +14,7 @@
         "cu%curve %": "7.6",
         "max evmax exit velocity": "114.8",
         "hhhard hit": "279",
-        "hh%hard hit %": "40.4",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "58",
         "brl%barrel %": "8.4",
         "ab": "873",
@@ -25,10 +25,10 @@
         "3b": "6",
         "hr": "26",
         "so": "204",
-        "bipballs in play": "691",
+        "bipballs in play": "693",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-16 23:09:26.510488"
+        "updated": "2025-05-16 23:09:38.077479"
     },
     "chw @ chc": [
         {
@@ -2300,6 +2300,21 @@
         }
     ],
     "pit @ phi": [
+        {
+            "player": "alexander canario",
+            "game": "pit @ phi",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-05-16 23:09:30",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:45 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jt realmuto",
             "game": "pit @ phi",
@@ -10394,10 +10409,10 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "9",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "81.5",
+            "la": "61",
+            "dist": "183"
         },
         {
             "player": "sam haggerty",
@@ -12594,6 +12609,21 @@
     ],
     "col @ ari": [
         {
+            "player": "ezequiel tovar",
+            "game": "col @ ari",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-05-16 23:09:30",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "9:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jordan beck",
             "game": "col @ ari",
             "hr/park": "",
@@ -12603,7 +12633,7 @@
             "team": "col",
             "start": "9:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -13867,7 +13897,7 @@
             "team": "laa",
             "start": "10:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -14304,7 +14334,7 @@
             "team": "sf",
             "start": "10:15 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
