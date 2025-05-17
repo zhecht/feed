@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "55",
         "batters": "202",
-        "pitches": "2355",
+        "pitches": "2360",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
-        "ff%fourseam fastball %": "35.8",
-        "si%sinker %": "12.9",
+        "ff%fourseam fastball %": "35.7",
+        "si%sinker %": "13.0",
         "fc%cutter %": "8.6",
         "fs%splitter %": "3.3",
-        "ch%changeup %": "7.4",
+        "ch%changeup %": "7.3",
         "sl%slider %": "23.1",
         "cu%curve %": "8.7",
         "max evmax exit velocity": "114.8",
         "hhhard hit": "166",
-        "hh%hard hit %": "41.3",
+        "hh%hard hit %": "41.0",
         "brlbarrels": "32",
-        "brl%barrel %": "8.0",
-        "ab": "530",
-        "avg": ".266",
-        "h": "141",
-        "1b": "98",
+        "brl%barrel %": "7.9",
+        "ab": "529",
+        "avg": ".268",
+        "h": "142",
+        "1b": "99",
         "2b": "25",
         "3b": "3",
         "hr": "15",
         "so": "137",
-        "bipballs in play": "402",
+        "bipballs in play": "405",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-16 21:27:54.473956"
+        "updated": "2025-05-16 21:28:03.786293"
     },
     "chw @ chc": [
         {
@@ -2301,21 +2301,6 @@
     ],
     "pit @ phi": [
         {
-            "player": "alexander canario",
-            "game": "pit @ phi",
-            "hr/park": "",
-            "pa": "26",
-            "dt": "2025-05-16 21:27:15",
-            "img": "https://www.mlbstatic.com/team-logos/134.svg",
-            "team": "pit",
-            "start": "6:45 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "kebryan hayes",
             "game": "pit @ phi",
             "hr/park": "",
@@ -2702,7 +2687,7 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4391,6 +4376,21 @@
         }
     ],
     "det @ tor": [
+        {
+            "player": "jonatan clase",
+            "game": "det @ tor",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-05-16 21:27:02",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "77.8",
+            "la": "-49",
+            "dist": "3"
+        },
         {
             "player": "michael stefanic",
             "game": "det @ tor",
@@ -6250,10 +6250,10 @@
             "team": "tb",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "83.5",
+            "la": "16",
+            "dist": "233"
         },
         {
             "player": "ben rortvedt",
@@ -7859,7 +7859,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
