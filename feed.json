@@ -1,13 +1,13 @@
 {
     "all": {
-        "pitchers": "35",
-        "batters": "164",
-        "pitches": "1484",
+        "pitchers": "36",
+        "batters": "167",
+        "pitches": "1490",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.7",
         "ff%fourseam fastball %": "38.1",
         "si%sinker %": "11.0",
-        "fc%cutter %": "9.0",
+        "fc%cutter %": "9.1",
         "fs%splitter %": "3.2",
         "ch%changeup %": "6.5",
         "sl%slider %": "23.5",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "39.5",
         "brlbarrels": "21",
         "brl%barrel %": "8.0",
-        "ab": "346",
-        "avg": ".272",
+        "ab": "349",
+        "avg": ".269",
         "h": "94",
         "1b": "62",
         "2b": "18",
         "3b": "2",
         "hr": "12",
-        "so": "90",
+        "so": "91",
         "bipballs in play": "263",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-16 20:33:51.173062"
+        "updated": "2025-05-16 20:33:59.713012"
     },
     "chw @ chc": [
         {
@@ -2299,7 +2299,23 @@
             "dist": "379"
         }
     ],
-    "pit @ phi": [],
+    "pit @ phi": [
+        {
+            "player": "isiah kiner falefa",
+            "game": "pit @ phi",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-16 20:33:59",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:45 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "wsh @ bal": [
         {
             "player": "ryan ohearn",
@@ -5222,6 +5238,21 @@
     ],
     "stl @ kc": [
         {
+            "player": "kyle isbel",
+            "game": "stl @ kc",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-05-16 20:33:59",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "lars nootbaar",
             "game": "stl @ kc",
             "hr/park": "",
@@ -5494,6 +5525,21 @@
     ],
     "hou @ tex": [
         {
+            "player": "jake meyers",
+            "game": "hou @ tex",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-05-16 20:33:59",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "yainer diaz",
             "game": "hou @ tex",
             "hr/park": "",
@@ -5503,7 +5549,7 @@
             "team": "hou",
             "start": "8:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5655,7 +5701,7 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
