@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "73",
-        "batters": "234",
-        "pitches": "2675",
+        "batters": "235",
+        "pitches": "2678",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "67.3",
         "ff%fourseam fastball %": "32.5",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.9",
         "fs%splitter %": "2.7",
         "ch%changeup %": "9.9",
-        "sl%slider %": "21.1",
-        "cu%curve %": "11.3",
+        "sl%slider %": "21.2",
+        "cu%curve %": "11.2",
         "max evmax exit velocity": "115.2",
-        "hhhard hit": "207",
-        "hh%hard hit %": "41.7",
+        "hhhard hit": "208",
+        "hh%hard hit %": "41.8",
         "brlbarrels": "38",
-        "brl%barrel %": "7.7",
+        "brl%barrel %": "7.6",
         "ab": "630",
-        "avg": ".235",
-        "h": "148",
+        "avg": ".233",
+        "h": "147",
         "1b": "92",
         "2b": "33",
         "3b": "2",
-        "hr": "21",
+        "hr": "20",
         "so": "141",
-        "bipballs in play": "496",
+        "bipballs in play": "498",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-17 20:45:00.975322"
+        "updated": "2025-05-17 20:45:11.201428"
     },
     "nym @ nyy": [
         {
@@ -5571,7 +5571,7 @@
             "team": "pit",
             "start": "6:05 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6584,6 +6584,21 @@
     ],
     "cle @ cin": [
         {
+            "player": "spencer steer",
+            "game": "cle @ cin",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-05-17 20:45:04",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "austin hays",
             "game": "cle @ cin",
             "hr/park": "",
@@ -7501,21 +7516,6 @@
     ],
     "hou @ tex": [
         {
-            "player": "jake burger",
-            "game": "hou @ tex",
-            "hr/park": "",
-            "pa": "49",
-            "dt": "2025-05-17 20:44:49",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "7:05 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "joc pederson",
             "game": "hou @ tex",
             "hr/park": "29/30",
@@ -7525,7 +7525,7 @@
             "team": "tex",
             "start": "7:05 PM",
             "in": "6",
-            "result": "Home Run",
+            "result": "In Progress",
             "evo": "106.3",
             "la": "38",
             "dist": "409"
@@ -8870,6 +8870,21 @@
     ],
     "atl @ bos": [
         {
+            "player": "ceddanne rafaela",
+            "game": "atl @ bos",
+            "hr/park": "0/30",
+            "pa": "43",
+            "dt": "2025-05-17 20:45:04",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:15 PM",
+            "in": "5",
+            "result": "Lineout",
+            "evo": "89.5",
+            "la": "23",
+            "dist": "320"
+        },
+        {
             "player": "michael harris",
             "game": "atl @ bos",
             "hr/park": "",
@@ -9502,21 +9517,6 @@
     ],
     "min @ mil": [
         {
-            "player": "christian vazquez",
-            "game": "min @ mil",
-            "hr/park": "",
-            "pa": "42",
-            "dt": "2025-05-17 20:44:49",
-            "img": "https://www.mlbstatic.com/team-logos/142.svg",
-            "team": "min",
-            "start": "7:15 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "dashawn keirsey",
             "game": "min @ mil",
             "hr/park": "0/30",
@@ -10134,21 +10134,6 @@
     ],
     "col @ ari": [
         {
-            "player": "corbin carroll",
-            "game": "col @ ari",
-            "hr/park": "",
-            "pa": "20",
-            "dt": "2025-05-17 20:44:49",
-            "img": "https://www.mlbstatic.com/team-logos/109.svg",
-            "team": "ari",
-            "start": "8:10 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "geraldo perdomo",
             "game": "col @ ari",
             "hr/park": "0/30",
@@ -10436,11 +10421,11 @@
     ],
     "sea @ sd": [
         {
-            "player": "jorge polanco",
+            "player": "julio rodriguez",
             "game": "sea @ sd",
             "hr/park": "",
-            "pa": "2",
-            "dt": "2025-05-17 20:43:49",
+            "pa": "3",
+            "dt": "2025-05-17 20:45:04",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "start": "8:40 PM",
@@ -10449,6 +10434,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "jorge polanco",
+            "game": "sea @ sd",
+            "hr/park": "0/30",
+            "pa": "2",
+            "dt": "2025-05-17 20:43:49",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "8:40 PM",
+            "in": "1",
+            "result": "Flyout",
+            "evo": "95.7",
+            "la": "26",
+            "dist": "341"
         },
         {
             "player": "jp crawford",
