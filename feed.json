@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "67",
-        "batters": "224",
-        "pitches": "2446",
+        "batters": "225",
+        "pitches": "2448",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "67.3",
         "ff%fourseam fastball %": "33.2",
@@ -10,15 +10,15 @@
         "fc%cutter %": "7.6",
         "fs%splitter %": "2.8",
         "ch%changeup %": "10.2",
-        "sl%slider %": "20.2",
+        "sl%slider %": "20.1",
         "cu%curve %": "11.3",
         "max evmax exit velocity": "115.2",
         "hhhard hit": "193",
         "hh%hard hit %": "42.3",
         "brlbarrels": "33",
         "brl%barrel %": "7.2",
-        "ab": "577",
-        "avg": ".243",
+        "ab": "579",
+        "avg": ".242",
         "h": "140",
         "1b": "88",
         "2b": "32",
@@ -28,7 +28,7 @@
         "bipballs in play": "456",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-05-17 20:28:31.511072"
+        "updated": "2025-05-17 20:28:41.320613"
     },
     "nym @ nyy": [
         {
@@ -8360,9 +8360,24 @@
     ],
     "atl @ bos": [
         {
-            "player": "wilyer abreu",
+            "player": "trevor story",
             "game": "atl @ bos",
             "hr/park": "",
+            "pa": "37",
+            "dt": "2025-05-17 20:27:50",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:15 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "wilyer abreu",
+            "game": "atl @ bos",
+            "hr/park": "0/30",
             "pa": "36",
             "dt": "2025-05-17 20:27:50",
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
@@ -9399,6 +9414,21 @@
     ],
     "col @ ari": [
         {
+            "player": "eugenio suarez",
+            "game": "col @ ari",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-05-17 20:28:34",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "pavin smith",
             "game": "col @ ari",
             "hr/park": "",
@@ -9408,7 +9438,7 @@
             "team": "ari",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "100.1",
             "la": "-6",
             "dist": "18"
