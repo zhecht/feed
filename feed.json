@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "128",
         "batters": "297",
-        "pitches": "4211",
+        "pitches": "4217",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "67.3",
         "ff%fourseam fastball %": "32.8",
@@ -10,14 +10,14 @@
         "fc%cutter %": "8.4",
         "fs%splitter %": "2.5",
         "ch%changeup %": "11.0",
-        "sl%slider %": "20.1",
+        "sl%slider %": "20.2",
         "cu%curve %": "10.9",
         "max evmax exit velocity": "115.2",
-        "hhhard hit": "312",
+        "hhhard hit": "313",
         "hh%hard hit %": "40.4",
         "brlbarrels": "58",
         "brl%barrel %": "7.5",
-        "ab": "978",
+        "ab": "980",
         "avg": ".240",
         "h": "235",
         "1b": "145",
@@ -25,10 +25,10 @@
         "3b": "5",
         "hr": "35",
         "so": "222",
-        "bipballs in play": "772",
+        "bipballs in play": "774",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-17 23:15:10.377749"
+        "updated": "2025-05-17 23:15:22.631018"
     },
     "nym @ nyy": [
         {
@@ -12024,6 +12024,21 @@
     ],
     "col @ ari": [
         {
+            "player": "geraldo perdomo",
+            "game": "col @ ari",
+            "hr/park": "",
+            "pa": "89",
+            "dt": "2025-05-17 23:15:16",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "8:10 PM",
+            "in": "8",
+            "result": "Lineout",
+            "evo": "94.8",
+            "la": "11",
+            "dist": "160"
+        },
+        {
             "player": "josh naylor",
             "game": "col @ ari",
             "hr/park": "",
@@ -13355,7 +13370,7 @@
             "team": "sea",
             "start": "8:40 PM",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -14377,10 +14392,10 @@
             "team": "ath",
             "start": "9:05 PM",
             "in": "10",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "109.1",
+            "la": "1",
+            "dist": "59"
         },
         {
             "player": "jj bleday",
@@ -15405,6 +15420,21 @@
     ],
     "laa @ lad": [
         {
+            "player": "mookie betts",
+            "game": "laa @ lad",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-05-17 23:15:16",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "9:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "shohei ohtani",
             "game": "laa @ lad",
             "hr/park": "",
@@ -15414,7 +15444,7 @@
             "team": "lad",
             "start": "9:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "99.4",
             "la": "",
             "dist": "53"
