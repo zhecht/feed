@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "13",
-        "batters": "86",
-        "pitches": "488",
+        "batters": "87",
+        "pitches": "493",
         "max velomax pitch velocity": "98.0",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "30.7",
-        "si%sinker %": "10.9",
+        "ff%fourseam fastball %": "30.6",
+        "si%sinker %": "10.8",
         "fc%cutter %": "4.5",
         "fs%splitter %": "3.9",
-        "ch%changeup %": "13.3",
-        "sl%slider %": "21.1",
+        "ch%changeup %": "13.4",
+        "sl%slider %": "21.3",
         "cu%curve %": "15.6",
         "max evmax exit velocity": "112.8",
-        "hhhard hit": "36",
-        "hh%hard hit %": "40.9",
+        "hhhard hit": "37",
+        "hh%hard hit %": "41.1",
         "brlbarrels": "11",
-        "brl%barrel %": "12.5",
+        "brl%barrel %": "12.2",
         "ab": "127",
-        "avg": ".244",
-        "h": "31",
-        "1b": "15",
+        "avg": ".252",
+        "h": "32",
+        "1b": "16",
         "2b": "11",
         "3b": "1",
         "hr": "4",
         "so": "31",
-        "bipballs in play": "88",
+        "bipballs in play": "90",
         "liveGames": 8,
         "totGames": 12,
-        "updated": "2025-05-19 19:47:54.774650"
+        "updated": "2025-05-19 19:48:02.248561"
     },
     "hou @ tb": [
         {
@@ -403,7 +403,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1926,10 +1926,10 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "101.7",
+            "la": "-3",
+            "dist": "25"
         },
         {
             "player": "chase meidroth",
@@ -2040,6 +2040,21 @@
         }
     ],
     "det @ stl": [
+        {
+            "player": "gleyber torres",
+            "game": "det @ stl",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-05-19 19:47:59",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:45 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kerry carpenter",
             "game": "det @ stl",
