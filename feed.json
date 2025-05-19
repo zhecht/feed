@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "8",
         "batters": "67",
-        "pitches": "326",
+        "pitches": "328",
         "max velomax pitch velocity": "98.0",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "30.1",
-        "si%sinker %": "11.3",
+        "ff%fourseam fastball %": "29.9",
+        "si%sinker %": "11.6",
         "fc%cutter %": "3.7",
         "fs%splitter %": "4.6",
-        "ch%changeup %": "13.2",
-        "sl%slider %": "19.3",
-        "cu%curve %": "17.8",
+        "ch%changeup %": "13.1",
+        "sl%slider %": "19.5",
+        "cu%curve %": "17.7",
         "max evmax exit velocity": "112.8",
-        "hhhard hit": "20",
-        "hh%hard hit %": "35.7",
+        "hhhard hit": "21",
+        "hh%hard hit %": "36.8",
         "brlbarrels": "8",
-        "brl%barrel %": "14.3",
+        "brl%barrel %": "14.0",
         "ab": "78",
         "avg": ".282",
         "h": "22",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "3",
         "so": "19",
-        "bipballs in play": "56",
+        "bipballs in play": "57",
         "liveGames": 4,
         "totGames": 12,
-        "updated": "2025-05-19 19:31:12.433897"
+        "updated": "2025-05-19 19:31:19.971862"
     },
     "hou @ tb": [
         {
@@ -253,7 +253,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -630,10 +630,10 @@
             "team": "chc",
             "start": "6:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "95.0",
+            "la": "1",
+            "dist": "51"
         },
         {
             "player": "michael busch",
