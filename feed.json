@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "8",
         "batters": "57",
-        "pitches": "220",
+        "pitches": "225",
         "max velomax pitch velocity": "98.0",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "30.5",
-        "si%sinker %": "13.2",
-        "fc%cutter %": "3.6",
+        "ff%fourseam fastball %": "29.8",
+        "si%sinker %": "12.9",
+        "fc%cutter %": "4.4",
         "fs%splitter %": "3.6",
-        "ch%changeup %": "10.0",
-        "sl%slider %": "19.5",
-        "cu%curve %": "19.5",
+        "ch%changeup %": "10.2",
+        "sl%slider %": "20.0",
+        "cu%curve %": "19.1",
         "max evmax exit velocity": "112.1",
         "hhhard hit": "13",
-        "hh%hard hit %": "34.2",
+        "hh%hard hit %": "32.5",
         "brlbarrels": "6",
-        "brl%barrel %": "15.8",
-        "ab": "55",
-        "avg": ".255",
+        "brl%barrel %": "15.0",
+        "ab": "57",
+        "avg": ".246",
         "h": "14",
         "1b": "9",
         "2b": "3",
         "3b": "0",
         "hr": "2",
         "so": "15",
-        "bipballs in play": "38",
+        "bipballs in play": "40",
         "liveGames": 4,
         "totGames": 12,
-        "updated": "2025-05-19 19:17:57.774755"
+        "updated": "2025-05-19 19:18:04.978730"
     },
     "hou @ tb": [
         {
@@ -148,10 +148,10 @@
             "team": "cin",
             "start": "6:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Groundout",
+            "evo": "80.0",
             "la": "",
-            "dist": ""
+            "dist": "44"
         },
         {
             "player": "jared triolo",
@@ -410,6 +410,21 @@
         }
     ],
     "chc @ mia": [
+        {
+            "player": "seiya suzuki",
+            "game": "chc @ mia",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-05-19 19:18:00",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kyle tucker",
             "game": "chc @ mia",
@@ -698,6 +713,21 @@
     ],
     "nym @ bos": [
         {
+            "player": "jarren duran",
+            "game": "nym @ bos",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-05-19 19:18:00",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "6:45 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ceddanne rafaela",
             "game": "nym @ bos",
             "hr/park": "",
@@ -707,10 +737,10 @@
             "team": "bos",
             "start": "6:45 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "77.1",
+            "la": "72",
+            "dist": "97"
         },
         {
             "player": "carlos narvaez",
