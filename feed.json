@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "17",
         "batters": "124",
-        "pitches": "692",
+        "pitches": "696",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "69.9",
-        "ff%fourseam fastball %": "35.3",
+        "ff%fourseam fastball %": "35.1",
         "si%sinker %": "15.2",
-        "fc%cutter %": "4.5",
+        "fc%cutter %": "4.7",
         "fs%splitter %": "3.0",
-        "ch%changeup %": "11.3",
+        "ch%changeup %": "11.2",
         "sl%slider %": "21.7",
         "cu%curve %": "9.1",
         "max evmax exit velocity": "110.8",
-        "hhhard hit": "47",
-        "hh%hard hit %": "39.2",
-        "brlbarrels": "10",
-        "brl%barrel %": "8.3",
+        "hhhard hit": "48",
+        "hh%hard hit %": "39.7",
+        "brlbarrels": "11",
+        "brl%barrel %": "9.1",
         "ab": "162",
         "avg": ".198",
         "h": "32",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "6",
         "so": "39",
-        "bipballs in play": "120",
+        "bipballs in play": "121",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-05-20 19:47:47.280289"
+        "updated": "2025-05-20 19:47:54.995562"
     },
     "hou @ tb": [
         {
@@ -1283,6 +1283,21 @@
     ],
     "nym @ bos": [
         {
+            "player": "jarren duran",
+            "game": "nym @ bos",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-05-20 19:47:49",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "6:45 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brandon nimmo",
             "game": "nym @ bos",
             "hr/park": "0/30",
@@ -2091,7 +2106,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2661,7 +2676,7 @@
         {
             "player": "kerry carpenter",
             "game": "det @ stl",
-            "hr/park": "",
+            "hr/park": "30/30",
             "pa": "1",
             "dt": "2025-05-20 19:47:34",
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
@@ -2669,9 +2684,9 @@
             "start": "7:45 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "108.9",
+            "la": "30",
+            "dist": "412"
         }
     ],
     "phi @ col": [],
