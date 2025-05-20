@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "14",
         "batters": "104",
-        "pitches": "503",
+        "pitches": "506",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "69.9",
         "ff%fourseam fastball %": "35.8",
-        "si%sinker %": "16.3",
-        "fc%cutter %": "4.2",
-        "fs%splitter %": "3.2",
+        "si%sinker %": "16.2",
+        "fc%cutter %": "4.3",
+        "fs%splitter %": "3.4",
         "ch%changeup %": "9.5",
-        "sl%slider %": "21.7",
+        "sl%slider %": "21.5",
         "cu%curve %": "9.3",
         "max evmax exit velocity": "110.8",
         "hhhard hit": "33",
-        "hh%hard hit %": "38.4",
+        "hh%hard hit %": "37.9",
         "brlbarrels": "8",
-        "brl%barrel %": "9.3",
+        "brl%barrel %": "9.2",
         "ab": "116",
         "avg": ".233",
         "h": "27",
@@ -24,11 +24,11 @@
         "2b": "9",
         "3b": "1",
         "hr": "5",
-        "so": "29",
-        "bipballs in play": "86",
+        "so": "30",
+        "bipballs in play": "87",
         "liveGames": 8,
         "totGames": 16,
-        "updated": "2025-05-20 19:32:47.140487"
+        "updated": "2025-05-20 19:32:54.697157"
     },
     "hou @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "hou",
             "start": "7:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -214,6 +214,21 @@
     ],
     "cin @ pit": [
         {
+            "player": "austin hays",
+            "game": "cin @ pit",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-05-20 19:32:49",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "elly de la cruz",
             "game": "cin @ pit",
             "hr/park": "",
@@ -223,7 +238,7 @@
             "team": "cin",
             "start": "6:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "80.8",
             "la": "44",
             "dist": "259"
@@ -982,21 +997,6 @@
         }
     ],
     "nym @ bos": [
-        {
-            "player": "juan soto",
-            "game": "nym @ bos",
-            "hr/park": "",
-            "pa": "20",
-            "dt": "2025-05-20 19:32:19",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "6:45 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "francisco lindor",
             "game": "nym @ bos",
@@ -1823,10 +1823,10 @@
             "team": "sd",
             "start": "7:07 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "93.5",
+            "la": "3",
+            "dist": "78"
         },
         {
             "player": "xander bogaerts",
