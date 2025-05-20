@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "19",
-        "batters": "136",
-        "pitches": "853",
+        "pitchers": "20",
+        "batters": "137",
+        "pitches": "860",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "60.7",
-        "ff%fourseam fastball %": "32.9",
-        "si%sinker %": "15.8",
+        "ff%fourseam fastball %": "33.0",
+        "si%sinker %": "15.9",
         "fc%cutter %": "5.0",
-        "fs%splitter %": "2.9",
-        "ch%changeup %": "12.0",
-        "sl%slider %": "23.1",
-        "cu%curve %": "8.2",
+        "fs%splitter %": "3.0",
+        "ch%changeup %": "11.9",
+        "sl%slider %": "23.0",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "58",
-        "hh%hard hit %": "38.2",
+        "hhhard hit": "60",
+        "hh%hard hit %": "38.7",
         "brlbarrels": "14",
-        "brl%barrel %": "9.2",
-        "ab": "197",
-        "avg": ".208",
-        "h": "41",
-        "1b": "21",
+        "brl%barrel %": "9.0",
+        "ab": "198",
+        "avg": ".217",
+        "h": "43",
+        "1b": "23",
         "2b": "11",
         "3b": "1",
         "hr": "8",
         "so": "45",
-        "bipballs in play": "152",
+        "bipballs in play": "155",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-05-20 19:57:29.860050"
+        "updated": "2025-05-20 19:57:38.083112"
     },
     "hou @ tb": [
         {
@@ -41,10 +41,10 @@
             "team": "hou",
             "start": "7:05 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "100.5",
+            "la": "-11",
+            "dist": "11"
         },
         {
             "player": "christian walker",
@@ -358,10 +358,10 @@
             "team": "cin",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "109.1",
+            "la": "13",
+            "dist": "282"
         },
         {
             "player": "adam frazier",
@@ -2744,6 +2744,21 @@
     ],
     "sd @ tor": [
         {
+            "player": "manny machado",
+            "game": "sd @ tor",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-05-20 19:57:32",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "7:07 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bo bichette",
             "game": "sd @ tor",
             "hr/park": "",
@@ -3071,7 +3086,7 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3153,6 +3168,21 @@
         }
     ],
     "det @ stl": [
+        {
+            "player": "lars nootbaar",
+            "game": "det @ stl",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-05-20 19:57:32",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "72.8",
+            "la": "-25",
+            "dist": "6"
+        },
         {
             "player": "trey sweeney",
             "game": "det @ stl",
