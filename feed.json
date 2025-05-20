@@ -1,17 +1,17 @@
 {
     "all": {
-        "pitchers": "15",
+        "pitchers": "16",
         "batters": "119",
-        "pitches": "640",
+        "pitches": "642",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "69.9",
-        "ff%fourseam fastball %": "34.8",
-        "si%sinker %": "14.4",
+        "ff%fourseam fastball %": "34.9",
+        "si%sinker %": "14.2",
         "fc%cutter %": "4.8",
         "fs%splitter %": "2.8",
-        "ch%changeup %": "11.3",
-        "sl%slider %": "22.8",
-        "cu%curve %": "9.1",
+        "ch%changeup %": "11.5",
+        "sl%slider %": "22.7",
+        "cu%curve %": "9.0",
         "max evmax exit velocity": "110.8",
         "hhhard hit": "43",
         "hh%hard hit %": "38.7",
@@ -28,7 +28,7 @@
         "bipballs in play": "111",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-20 19:43:59.617847"
+        "updated": "2025-05-20 19:44:07.412055"
     },
     "hou @ tb": [
         {
@@ -2234,21 +2234,6 @@
     ],
     "sd @ tor": [
         {
-            "player": "jason heyward",
-            "game": "sd @ tor",
-            "hr/park": "",
-            "pa": "15",
-            "dt": "2025-05-20 19:43:47",
-            "img": "https://www.mlbstatic.com/team-logos/135.svg",
-            "team": "sd",
-            "start": "7:07 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "addison barger",
             "game": "sd @ tor",
             "hr/park": "",
@@ -2460,7 +2445,23 @@
         }
     ],
     "sea @ chw": [],
-    "bal @ mil": [],
+    "bal @ mil": [
+        {
+            "player": "jackson holliday",
+            "game": "bal @ mil",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-20 19:44:03",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "det @ stl": [],
     "phi @ col": [],
     "kc @ sf": [],
