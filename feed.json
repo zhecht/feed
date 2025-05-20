@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "64",
-        "batters": "196",
-        "pitches": "2226",
+        "batters": "197",
+        "pitches": "2230",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "72.8",
         "ff%fourseam fastball %": "29.6",
@@ -11,24 +11,24 @@
         "fs%splitter %": "2.3",
         "ch%changeup %": "10.1",
         "sl%slider %": "22.1",
-        "cu%curve %": "10.1",
+        "cu%curve %": "10.0",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "158",
-        "hh%hard hit %": "37.5",
+        "hh%hard hit %": "37.4",
         "brlbarrels": "33",
         "brl%barrel %": "7.8",
-        "ab": "552",
-        "avg": ".255",
-        "h": "141",
+        "ab": "553",
+        "avg": ".257",
+        "h": "142",
         "1b": "87",
-        "2b": "39",
+        "2b": "40",
         "3b": "4",
         "hr": "11",
         "so": "128",
-        "bipballs in play": "421",
+        "bipballs in play": "422",
         "liveGames": 12,
         "totGames": 12,
-        "updated": "2025-05-19 22:16:50.659925"
+        "updated": "2025-05-19 22:16:59.971454"
     },
     "hou @ tb": [
         {
@@ -7090,7 +7090,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7932,10 +7932,10 @@
             "team": "phi",
             "start": "8:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "64.4",
+            "la": "-18",
+            "dist": "10"
         },
         {
             "player": "edmundo sosa",
@@ -8904,6 +8904,21 @@
     ],
     "ari @ lad": [
         {
+            "player": "josh naylor",
+            "game": "ari @ lad",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-05-19 22:17:00",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "10:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "eugenio suarez",
             "game": "ari @ lad",
             "hr/park": "",
@@ -8913,7 +8928,7 @@
             "team": "ari",
             "start": "10:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "96.3",
             "la": "46",
             "dist": "293"
