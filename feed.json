@@ -1,15 +1,15 @@
 {
     "all": {
         "pitchers": "58",
-        "batters": "180",
-        "pitches": "2122",
+        "batters": "181",
+        "pitches": "2125",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "29.5",
+        "ff%fourseam fastball %": "29.6",
         "si%sinker %": "18.2",
         "fc%cutter %": "7.7",
         "fs%splitter %": "2.4",
-        "ch%changeup %": "10.1",
+        "ch%changeup %": "10.2",
         "sl%slider %": "21.9",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "113.0",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "38.3",
         "brlbarrels": "32",
         "brl%barrel %": "8.0",
-        "ab": "526",
-        "avg": ".255",
-        "h": "134",
-        "1b": "80",
+        "ab": "527",
+        "avg": ".256",
+        "h": "135",
+        "1b": "81",
         "2b": "40",
         "3b": "4",
         "hr": "10",
-        "so": "122",
-        "bipballs in play": "399",
+        "so": "123",
+        "bipballs in play": "400",
         "liveGames": 10,
         "totGames": 12,
-        "updated": "2025-05-19 22:04:28.282392"
+        "updated": "2025-05-19 22:04:37.170484"
     },
     "hou @ tb": [
         {
@@ -4911,7 +4911,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "85.7",
             "la": "22",
             "dist": "278"
@@ -7812,10 +7812,10 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "90.0",
+            "la": "-11",
+            "dist": "8"
         },
         {
             "player": "nick castellanos",
@@ -8390,6 +8390,21 @@
     ],
     "kc @ sf": [
         {
+            "player": "mark canha",
+            "game": "kc @ sf",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-05-19 22:04:31",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "9:45 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "maikel garcia",
             "game": "kc @ sf",
             "hr/park": "",
@@ -8399,7 +8414,7 @@
             "team": "kc",
             "start": "9:45 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
