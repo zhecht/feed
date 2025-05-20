@@ -1,36 +1,51 @@
 {
     "all": {
         "pitchers": "14",
-        "batters": "91",
-        "pitches": "398",
+        "batters": "93",
+        "pitches": "403",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "71.9",
-        "ff%fourseam fastball %": "35.2",
+        "ff%fourseam fastball %": "35.0",
         "si%sinker %": "15.6",
-        "fc%cutter %": "6.8",
+        "fc%cutter %": "6.7",
         "fs%splitter %": "2.5",
-        "ch%changeup %": "10.6",
-        "sl%slider %": "20.1",
-        "cu%curve %": "9.3",
+        "ch%changeup %": "10.4",
+        "sl%slider %": "20.6",
+        "cu%curve %": "9.2",
         "max evmax exit velocity": "108.7",
         "hhhard hit": "27",
-        "hh%hard hit %": "38.0",
+        "hh%hard hit %": "37.5",
         "brlbarrels": "6",
-        "brl%barrel %": "8.5",
-        "ab": "95",
-        "avg": ".221",
+        "brl%barrel %": "8.3",
+        "ab": "98",
+        "avg": ".214",
         "h": "21",
         "1b": "9",
         "2b": "6",
         "3b": "1",
         "hr": "5",
-        "so": "22",
-        "bipballs in play": "71",
+        "so": "23",
+        "bipballs in play": "72",
         "liveGames": 8,
         "totGames": 16,
-        "updated": "2025-05-20 19:25:00.201346"
+        "updated": "2025-05-20 19:25:08.137048"
     },
     "hou @ tb": [
+        {
+            "player": "victor caratini",
+            "game": "hou @ tb",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-05-20 19:25:03",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "7:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jonathan aranda",
             "game": "hou @ tb",
@@ -828,9 +843,9 @@
             "start": "6:45 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "30.8",
+            "la": "-88",
+            "dist": "2"
         },
         {
             "player": "trevor story",
@@ -1059,6 +1074,21 @@
         }
     ],
     "atl @ wsh": [
+        {
+            "player": "cj abrams",
+            "game": "atl @ wsh",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-05-20 19:25:03",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "dylan crews",
             "game": "atl @ wsh",
@@ -1362,6 +1392,21 @@
     ],
     "tex @ nyy": [
         {
+            "player": "adolis garcia",
+            "game": "tex @ nyy",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-05-20 19:25:03",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "7:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "aaron judge",
             "game": "tex @ nyy",
             "hr/park": "",
@@ -1463,7 +1508,7 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
