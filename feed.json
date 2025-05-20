@@ -1,51 +1,36 @@
 {
     "all": {
-        "pitchers": "12",
+        "pitchers": "11",
         "batters": "74",
-        "pitches": "297",
+        "pitches": "298",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "71.9",
-        "ff%fourseam fastball %": "33.3",
-        "si%sinker %": "17.2",
+        "ff%fourseam fastball %": "33.6",
+        "si%sinker %": "17.4",
         "fc%cutter %": "7.4",
         "fs%splitter %": "3.4",
-        "ch%changeup %": "10.8",
-        "sl%slider %": "17.5",
+        "ch%changeup %": "10.7",
+        "sl%slider %": "17.1",
         "cu%curve %": "10.4",
         "max evmax exit velocity": "108.0",
         "hhhard hit": "20",
-        "hh%hard hit %": "38.5",
+        "hh%hard hit %": "37.7",
         "brlbarrels": "4",
-        "brl%barrel %": "7.7",
-        "ab": "74",
-        "avg": ".243",
+        "brl%barrel %": "7.5",
+        "ab": "73",
+        "avg": ".247",
         "h": "18",
         "1b": "8",
         "2b": "6",
         "3b": "1",
         "hr": "3",
         "so": "17",
-        "bipballs in play": "52",
+        "bipballs in play": "53",
         "liveGames": 8,
         "totGames": 16,
-        "updated": "2025-05-20 19:17:30.683773"
+        "updated": "2025-05-20 19:17:38.287243"
     },
     "hou @ tb": [
-        {
-            "player": "yandy diaz",
-            "game": "hou @ tb",
-            "hr/park": "",
-            "pa": "5",
-            "dt": "2025-05-20 19:17:18",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "7:05 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "christian walker",
             "game": "hou @ tb",
@@ -108,6 +93,21 @@
         }
     ],
     "cin @ pit": [
+        {
+            "player": "connor joe",
+            "game": "cin @ pit",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-05-20 19:17:33",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "94.0",
+            "la": "38",
+            "dist": "337"
+        },
         {
             "player": "matt mclain",
             "game": "cin @ pit",
@@ -335,21 +335,6 @@
         }
     ],
     "chc @ mia": [
-        {
-            "player": "jesus sanchez",
-            "game": "chc @ mia",
-            "hr/park": "",
-            "pa": "22",
-            "dt": "2025-05-20 19:17:18",
-            "img": "https://www.mlbstatic.com/team-logos/146.svg",
-            "team": "mia",
-            "start": "6:40 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "javier sanoja",
             "game": "chc @ mia",
@@ -677,7 +662,7 @@
             "team": "nym",
             "start": "6:45 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
