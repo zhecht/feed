@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "18",
         "batters": "132",
-        "pitches": "788",
+        "pitches": "794",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "60.7",
-        "ff%fourseam fastball %": "33.4",
-        "si%sinker %": "16.1",
+        "ff%fourseam fastball %": "33.2",
+        "si%sinker %": "15.9",
         "fc%cutter %": "4.9",
         "fs%splitter %": "3.0",
-        "ch%changeup %": "11.5",
-        "sl%slider %": "22.5",
-        "cu%curve %": "8.5",
+        "ch%changeup %": "11.7",
+        "sl%slider %": "22.7",
+        "cu%curve %": "8.6",
         "max evmax exit velocity": "113.2",
         "hhhard hit": "56",
-        "hh%hard hit %": "40.6",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "13",
         "brl%barrel %": "9.4",
-        "ab": "182",
-        "avg": ".214",
+        "ab": "184",
+        "avg": ".212",
         "h": "39",
         "1b": "19",
         "2b": "11",
         "3b": "1",
         "hr": "8",
         "so": "42",
-        "bipballs in play": "138",
+        "bipballs in play": "139",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-05-20 19:52:55.790769"
+        "updated": "2025-05-20 19:53:03.728306"
     },
     "hou @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "hou",
             "start": "7:05 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -333,6 +333,21 @@
         }
     ],
     "cin @ pit": [
+        {
+            "player": "kebryan hayes",
+            "game": "cin @ pit",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-05-20 19:53:02",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "alexander canario",
             "game": "cin @ pit",
@@ -815,6 +830,21 @@
         }
     ],
     "chc @ mia": [
+        {
+            "player": "jesus sanchez",
+            "game": "chc @ mia",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-05-20 19:53:02",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "90.0",
+            "la": "42",
+            "dist": "295"
+        },
         {
             "player": "javier sanoja",
             "game": "chc @ mia",
@@ -1774,7 +1804,7 @@
             "team": "wsh",
             "start": "6:45 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
