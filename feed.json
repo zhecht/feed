@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "18",
-        "batters": "134",
-        "pitches": "812",
+        "batters": "135",
+        "pitches": "814",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "60.7",
-        "ff%fourseam fastball %": "33.1",
+        "ff%fourseam fastball %": "32.9",
         "si%sinker %": "15.8",
         "fc%cutter %": "5.0",
-        "fs%splitter %": "3.0",
+        "fs%splitter %": "2.9",
         "ch%changeup %": "11.9",
-        "sl%slider %": "22.8",
+        "sl%slider %": "23.0",
         "cu%curve %": "8.4",
         "max evmax exit velocity": "113.2",
         "hhhard hit": "57",
         "hh%hard hit %": "39.3",
         "brlbarrels": "13",
         "brl%barrel %": "9.0",
-        "ab": "186",
-        "avg": ".220",
+        "ab": "188",
+        "avg": ".218",
         "h": "41",
         "1b": "21",
         "2b": "11",
         "3b": "1",
         "hr": "8",
-        "so": "43",
+        "so": "44",
         "bipballs in play": "145",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-05-20 19:54:15.550909"
+        "updated": "2025-05-20 19:54:23.758714"
     },
     "hou @ tb": [
         {
@@ -333,6 +333,21 @@
         }
     ],
     "cin @ pit": [
+        {
+            "player": "adam frazier",
+            "game": "cin @ pit",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-05-20 19:54:18",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "Lineout",
+            "evo": "94.1",
+            "la": "22",
+            "dist": "337"
+        },
         {
             "player": "kebryan hayes",
             "game": "cin @ pit",
@@ -1795,21 +1810,6 @@
     ],
     "atl @ wsh": [
         {
-            "player": "josh bell",
-            "game": "atl @ wsh",
-            "hr/park": "",
-            "pa": "34",
-            "dt": "2025-05-20 19:53:47",
-            "img": "https://www.mlbstatic.com/team-logos/120.svg",
-            "team": "wsh",
-            "start": "6:45 PM",
-            "in": "4",
-            "result": "Hit By Pitch",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "luis garcia",
             "game": "atl @ wsh",
             "hr/park": "",
@@ -3004,6 +3004,21 @@
     ],
     "det @ stl": [
         {
+            "player": "trey sweeney",
+            "game": "det @ stl",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-05-20 19:54:18",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:45 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "spencer torkelson",
             "game": "det @ stl",
             "hr/park": "",
@@ -3013,7 +3028,7 @@
             "team": "det",
             "start": "7:45 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
