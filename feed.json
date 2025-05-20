@@ -1,16 +1,16 @@
 {
     "all": {
-        "pitchers": "74",
+        "pitchers": "73",
         "batters": "234",
-        "pitches": "2667",
+        "pitches": "2669",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "43.0",
-        "ff%fourseam fastball %": "29.7",
+        "ff%fourseam fastball %": "29.6",
         "si%sinker %": "18.5",
         "fc%cutter %": "6.4",
         "fs%splitter %": "2.2",
         "ch%changeup %": "10.2",
-        "sl%slider %": "23.2",
+        "sl%slider %": "23.3",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "203",
@@ -18,17 +18,17 @@
         "brlbarrels": "42",
         "brl%barrel %": "8.1",
         "ab": "655",
-        "avg": ".267",
-        "h": "175",
-        "1b": "106",
+        "avg": ".269",
+        "h": "176",
+        "1b": "107",
         "2b": "49",
         "3b": "4",
         "hr": "16",
         "so": "142",
-        "bipballs in play": "516",
+        "bipballs in play": "517",
         "liveGames": 12,
         "totGames": 12,
-        "updated": "2025-05-19 23:05:22.527411"
+        "updated": "2025-05-19 23:05:32.960481"
     },
     "hou @ tb": [
         {
@@ -8313,21 +8313,6 @@
     ],
     "phi @ col": [
         {
-            "player": "ezequiel tovar",
-            "game": "phi @ col",
-            "hr/park": "",
-            "pa": "67",
-            "dt": "2025-05-19 23:04:58",
-            "img": "https://www.mlbstatic.com/team-logos/115.svg",
-            "team": "col",
-            "start": "8:40 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "bryce harper",
             "game": "phi @ col",
             "hr/park": "",
@@ -9922,6 +9907,21 @@
     ],
     "laa @ ath": [
         {
+            "player": "tyler soderstrom",
+            "game": "laa @ ath",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-05-19 23:05:29",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jacob wilson",
             "game": "laa @ ath",
             "hr/park": "",
@@ -9931,10 +9931,10 @@
             "team": "ath",
             "start": "10:05 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "86.0",
+            "la": "5",
+            "dist": "83"
         },
         {
             "player": "lawrence butler",
@@ -10338,7 +10338,7 @@
             "team": "lad",
             "start": "10:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
