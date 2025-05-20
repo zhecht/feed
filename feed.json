@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "36",
         "batters": "156",
-        "pitches": "1438",
+        "pitches": "1446",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "28.9",
+        "ff%fourseam fastball %": "29.0",
         "si%sinker %": "17.0",
         "fc%cutter %": "7.6",
         "fs%splitter %": "3.3",
@@ -14,21 +14,21 @@
         "cu%curve %": "11.8",
         "max evmax exit velocity": "112.8",
         "hhhard hit": "114",
-        "hh%hard hit %": "41.0",
+        "hh%hard hit %": "40.7",
         "brlbarrels": "26",
-        "brl%barrel %": "9.4",
-        "ab": "370",
-        "avg": ".257",
-        "h": "95",
-        "1b": "59",
+        "brl%barrel %": "9.3",
+        "ab": "372",
+        "avg": ".258",
+        "h": "96",
+        "1b": "60",
         "2b": "26",
         "3b": "2",
         "hr": "8",
-        "so": "85",
-        "bipballs in play": "278",
+        "so": "87",
+        "bipballs in play": "280",
         "liveGames": 9,
         "totGames": 12,
-        "updated": "2025-05-19 20:59:22.991838"
+        "updated": "2025-05-19 20:59:31.299818"
     },
     "hou @ tb": [
         {
@@ -913,7 +913,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1836,6 +1836,21 @@
     ],
     "chc @ mia": [
         {
+            "player": "matt shaw",
+            "game": "chc @ mia",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-05-19 20:59:29",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "Single",
+            "evo": "88.1",
+            "la": "10",
+            "dist": "149"
+        },
+        {
             "player": "miguel amaya",
             "game": "chc @ mia",
             "hr/park": "",
@@ -1845,7 +1860,7 @@
             "team": "chc",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2797,6 +2812,21 @@
         }
     ],
     "nym @ bos": [
+        {
+            "player": "wilyer abreu",
+            "game": "nym @ bos",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-05-19 20:59:29",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "6:45 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "alex bregman",
             "game": "nym @ bos",
@@ -3936,10 +3966,10 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "77.8",
+            "la": "55",
+            "dist": "196"
         },
         {
             "player": "chase meidroth",
