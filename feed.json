@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "23",
         "batters": "143",
-        "pitches": "1058",
+        "pitches": "1062",
         "max velomax pitch velocity": "98.0",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "28.7",
-        "si%sinker %": "14.3",
+        "ff%fourseam fastball %": "28.8",
+        "si%sinker %": "14.2",
         "fc%cutter %": "7.2",
         "fs%splitter %": "3.2",
         "ch%changeup %": "12.1",
@@ -14,21 +14,21 @@
         "cu%curve %": "12.2",
         "max evmax exit velocity": "112.8",
         "hhhard hit": "86",
-        "hh%hard hit %": "44.3",
+        "hh%hard hit %": "44.1",
         "brlbarrels": "19",
-        "brl%barrel %": "9.8",
-        "ab": "265",
-        "avg": ".279",
+        "brl%barrel %": "9.7",
+        "ab": "266",
+        "avg": ".278",
         "h": "74",
         "1b": "45",
         "2b": "20",
         "3b": "3",
         "hr": "6",
-        "so": "64",
-        "bipballs in play": "194",
+        "so": "65",
+        "bipballs in play": "195",
         "liveGames": 8,
         "totGames": 12,
-        "updated": "2025-05-19 20:28:59.542898"
+        "updated": "2025-05-19 20:29:07.479827"
     },
     "hou @ tb": [
         {
@@ -1470,7 +1470,7 @@
             "team": "chc",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2212,6 +2212,21 @@
         }
     ],
     "nym @ bos": [
+        {
+            "player": "pete alonso",
+            "game": "nym @ bos",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-05-19 20:29:02",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "6:45 PM",
+            "in": "6",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "juan soto",
             "game": "nym @ bos",
@@ -3142,9 +3157,9 @@
             "start": "7:40 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "66.6",
+            "la": "80",
+            "dist": "49"
         },
         {
             "player": "randy arozarena",
