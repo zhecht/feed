@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "16",
         "batters": "123",
-        "pitches": "679",
+        "pitches": "682",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "69.9",
-        "ff%fourseam fastball %": "35.1",
+        "ff%fourseam fastball %": "35.2",
         "si%sinker %": "15.0",
-        "fc%cutter %": "4.6",
+        "fc%cutter %": "4.5",
         "fs%splitter %": "2.9",
         "ch%changeup %": "11.3",
-        "sl%slider %": "21.9",
-        "cu%curve %": "9.1",
+        "sl%slider %": "21.8",
+        "cu%curve %": "9.2",
         "max evmax exit velocity": "110.8",
         "hhhard hit": "47",
         "hh%hard hit %": "39.2",
         "brlbarrels": "10",
         "brl%barrel %": "8.3",
-        "ab": "159",
-        "avg": ".201",
+        "ab": "160",
+        "avg": ".200",
         "h": "32",
         "1b": "15",
         "2b": "10",
@@ -28,7 +28,7 @@
         "bipballs in play": "120",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-05-20 19:46:59.901815"
+        "updated": "2025-05-20 19:47:07.810032"
     },
     "hou @ tb": [
         {
@@ -303,6 +303,21 @@
         }
     ],
     "cin @ pit": [
+        {
+            "player": "matt mclain",
+            "game": "cin @ pit",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-05-20 19:46:32",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jose trevino",
             "game": "cin @ pit",
@@ -1600,6 +1615,21 @@
     ],
     "atl @ wsh": [
         {
+            "player": "eli white",
+            "game": "atl @ wsh",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-05-20 19:47:02",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "6:45 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ozzie albies",
             "game": "atl @ wsh",
             "hr/park": "",
@@ -2324,21 +2354,6 @@
     ],
     "sd @ tor": [
         {
-            "player": "luis arraez",
-            "game": "sd @ tor",
-            "hr/park": "",
-            "pa": "18",
-            "dt": "2025-05-20 19:46:48",
-            "img": "https://www.mlbstatic.com/team-logos/135.svg",
-            "team": "sd",
-            "start": "7:07 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "fernando tatis",
             "game": "sd @ tor",
             "hr/park": "",
@@ -2606,7 +2621,7 @@
             "team": "bal",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
