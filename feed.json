@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "14",
-        "batters": "104",
-        "pitches": "507",
+        "batters": "105",
+        "pitches": "512",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "69.9",
-        "ff%fourseam fastball %": "35.7",
-        "si%sinker %": "16.2",
-        "fc%cutter %": "3.9",
-        "fs%splitter %": "3.4",
-        "ch%changeup %": "9.5",
-        "sl%slider %": "22.1",
-        "cu%curve %": "9.3",
+        "ff%fourseam fastball %": "35.5",
+        "si%sinker %": "16.4",
+        "fc%cutter %": "4.1",
+        "fs%splitter %": "3.3",
+        "ch%changeup %": "9.4",
+        "sl%slider %": "21.9",
+        "cu%curve %": "9.4",
         "max evmax exit velocity": "110.8",
         "hhhard hit": "33",
-        "hh%hard hit %": "37.5",
+        "hh%hard hit %": "37.1",
         "brlbarrels": "8",
-        "brl%barrel %": "9.1",
-        "ab": "116",
-        "avg": ".233",
+        "brl%barrel %": "9.0",
+        "ab": "118",
+        "avg": ".229",
         "h": "27",
         "1b": "12",
         "2b": "9",
         "3b": "1",
         "hr": "5",
         "so": "30",
-        "bipballs in play": "88",
+        "bipballs in play": "89",
         "liveGames": 8,
         "totGames": 16,
-        "updated": "2025-05-20 19:33:09.962926"
+        "updated": "2025-05-20 19:33:17.497986"
     },
     "hou @ tb": [
         {
@@ -213,6 +213,21 @@
         }
     ],
     "cin @ pit": [
+        {
+            "player": "austin hays",
+            "game": "cin @ pit",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-05-20 19:32:49",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "elly de la cruz",
             "game": "cin @ pit",
@@ -1294,10 +1309,10 @@
             "team": "atl",
             "start": "6:45 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "87.9",
+            "la": "-9",
+            "dist": "16"
         },
         {
             "player": "marcell ozuna",
@@ -1814,6 +1829,21 @@
     ],
     "sd @ tor": [
         {
+            "player": "jake cronenworth",
+            "game": "sd @ tor",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-05-20 19:33:17",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "7:07 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gavin sheets",
             "game": "sd @ tor",
             "hr/park": "",
@@ -1823,7 +1853,7 @@
             "team": "sd",
             "start": "7:07 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "93.5",
             "la": "3",
             "dist": "78"
