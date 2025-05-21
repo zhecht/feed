@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "72",
-        "batters": "210",
-        "pitches": "2519",
+        "batters": "211",
+        "pitches": "2524",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "54.7",
         "ff%fourseam fastball %": "28.5",
         "si%sinker %": "18.1",
-        "fc%cutter %": "6.2",
+        "fc%cutter %": "6.1",
         "fs%splitter %": "3.3",
         "ch%changeup %": "12.9",
         "sl%slider %": "22.6",
         "cu%curve %": "7.4",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "183",
-        "hh%hard hit %": "38.4",
+        "hhhard hit": "184",
+        "hh%hard hit %": "38.5",
         "brlbarrels": "40",
         "brl%barrel %": "8.4",
         "ab": "590",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "17",
         "so": "126",
-        "bipballs in play": "477",
+        "bipballs in play": "478",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-20 21:50:00.060207"
+        "updated": "2025-05-20 21:50:10.802044"
     },
     "hou @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "hou",
             "start": "7:05 PM",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5331,7 +5331,7 @@
             "team": "tex",
             "start": "7:05 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7497,7 +7497,7 @@
             "team": "bal",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "83.2",
             "la": "33",
             "dist": "299"
@@ -8347,17 +8347,17 @@
         {
             "player": "pedro pages",
             "game": "det @ stl",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "64",
             "dt": "2025-05-20 21:49:18",
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
             "team": "stl",
             "start": "7:45 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "107.0",
+            "la": "13",
+            "dist": "313"
         },
         {
             "player": "alec burleson",
@@ -9818,6 +9818,21 @@
         }
     ],
     "kc @ sf": [
+        {
+            "player": "vinnie pasquantino",
+            "game": "kc @ sf",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-05-20 21:50:03",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "9:45 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "bobby witt",
             "game": "kc @ sf",
