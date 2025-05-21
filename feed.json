@@ -2,18 +2,18 @@
     "all": {
         "pitchers": "39",
         "batters": "171",
-        "pitches": "1728",
+        "pitches": "1730",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "60.7",
         "ff%fourseam fastball %": "27.7",
         "si%sinker %": "18.2",
-        "fc%cutter %": "7.2",
+        "fc%cutter %": "7.3",
         "fs%splitter %": "3.3",
         "ch%changeup %": "12.6",
-        "sl%slider %": "23.1",
+        "sl%slider %": "23.0",
         "cu%curve %": "7.9",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "126",
+        "hhhard hit": "127",
         "hh%hard hit %": "38.7",
         "brlbarrels": "32",
         "brl%barrel %": "9.8",
@@ -24,11 +24,11 @@
         "2b": "19",
         "3b": "1",
         "hr": "16",
-        "so": "88",
-        "bipballs in play": "326",
+        "so": "89",
+        "bipballs in play": "328",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-05-20 20:53:01.314495"
+        "updated": "2025-05-20 20:53:10.079001"
     },
     "hou @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "hou",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1566,6 +1566,21 @@
     ],
     "chc @ mia": [
         {
+            "player": "agustin ramirez",
+            "game": "chc @ mia",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-05-20 20:53:04",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "Groundout",
+            "evo": "101.1",
+            "la": "-16",
+            "dist": "8"
+        },
+        {
             "player": "jesus sanchez",
             "game": "chc @ mia",
             "hr/park": "",
@@ -1575,7 +1590,7 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "66.6",
             "la": "-24",
             "dist": "4"
@@ -5687,21 +5702,6 @@
     "sea @ chw": [],
     "bal @ mil": [
         {
-            "player": "joey ortiz",
-            "game": "bal @ mil",
-            "hr/park": "",
-            "pa": "32",
-            "dt": "2025-05-20 20:52:19",
-            "img": "https://www.mlbstatic.com/team-logos/158.svg",
-            "team": "mil",
-            "start": "7:40 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "caleb durbin",
             "game": "bal @ mil",
             "hr/park": "1/30",
@@ -6178,7 +6178,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6721,9 +6721,9 @@
             "start": "8:40 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "59.7",
+            "la": "-54",
+            "dist": "2"
         },
         {
             "player": "nick castellanos",
