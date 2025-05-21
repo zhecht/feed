@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "25",
         "batters": "159",
-        "pitches": "1218",
+        "pitches": "1227",
         "max velomax pitch velocity": "99.8",
         "min velomin pitch velocity": "60.7",
-        "ff%fourseam fastball %": "29.8",
-        "si%sinker %": "15.7",
-        "fc%cutter %": "5.6",
+        "ff%fourseam fastball %": "29.7",
+        "si%sinker %": "15.6",
+        "fc%cutter %": "5.5",
         "fs%splitter %": "4.2",
-        "ch%changeup %": "13.0",
-        "sl%slider %": "23.9",
+        "ch%changeup %": "13.1",
+        "sl%slider %": "24.0",
         "cu%curve %": "7.9",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "90",
-        "hh%hard hit %": "40.0",
+        "hhhard hit": "92",
+        "hh%hard hit %": "40.5",
         "brlbarrels": "21",
         "brl%barrel %": "9.3",
-        "ab": "285",
-        "avg": ".228",
+        "ab": "286",
+        "avg": ".227",
         "h": "65",
         "1b": "40",
         "2b": "15",
         "3b": "1",
         "hr": "9",
         "so": "62",
-        "bipballs in play": "225",
+        "bipballs in play": "227",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-05-20 20:20:58.914963"
+        "updated": "2025-05-20 20:21:07.203879"
     },
     "hou @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -523,7 +523,7 @@
             "team": "cin",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "98.0",
             "la": "-9",
             "dist": "19"
@@ -1943,6 +1943,21 @@
     ],
     "nym @ bos": [
         {
+            "player": "pete alonso",
+            "game": "nym @ bos",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-05-20 20:21:03",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "6:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "juan soto",
             "game": "nym @ bos",
             "hr/park": "",
@@ -2509,10 +2524,10 @@
             "team": "atl",
             "start": "6:45 PM",
             "in": "6",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "96.9",
+            "la": "42",
+            "dist": "324"
         },
         {
             "player": "matt olson",
@@ -3191,6 +3206,21 @@
         }
     ],
     "tex @ nyy": [
+        {
+            "player": "sam haggerty",
+            "game": "tex @ nyy",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-05-20 20:21:03",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jonah heim",
             "game": "tex @ nyy",
@@ -4196,10 +4226,10 @@
             "team": "bal",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "106.0",
+            "la": "9",
+            "dist": "163"
         },
         {
             "player": "heston kjerstad",
