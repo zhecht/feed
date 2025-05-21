@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "19",
         "batters": "114",
-        "pitches": "931",
+        "pitches": "937",
         "max velomax pitch velocity": "98.6",
         "min velomin pitch velocity": "73.6",
         "ff%fourseam fastball %": "34.6",
-        "si%sinker %": "18.5",
+        "si%sinker %": "18.4",
         "fc%cutter %": "7.8",
         "fs%splitter %": "4.1",
-        "ch%changeup %": "8.8",
-        "sl%slider %": "20.8",
-        "cu%curve %": "4.4",
+        "ch%changeup %": "9.0",
+        "sl%slider %": "20.7",
+        "cu%curve %": "4.6",
         "max evmax exit velocity": "114.3",
         "hhhard hit": "50",
-        "hh%hard hit %": "32.9",
+        "hh%hard hit %": "32.7",
         "brlbarrels": "13",
-        "brl%barrel %": "8.6",
+        "brl%barrel %": "8.5",
         "ab": "195",
-        "avg": ".215",
-        "h": "42",
-        "1b": "31",
+        "avg": ".221",
+        "h": "43",
+        "1b": "32",
         "2b": "5",
         "3b": "1",
         "hr": "5",
-        "so": "45",
-        "bipballs in play": "152",
+        "so": "46",
+        "bipballs in play": "153",
         "liveGames": 7,
         "totGames": 16,
-        "updated": "2025-05-21 14:23:36.836525"
+        "updated": "2025-05-21 14:23:44.885913"
     },
     "hou @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "hou",
             "start": "1:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -598,10 +598,10 @@
             "team": "pit",
             "start": "12:35 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "78.1",
+            "la": "22",
+            "dist": "240"
         },
         {
             "player": "adam frazier",
@@ -1340,6 +1340,21 @@
         }
     ],
     "cle @ min": [
+        {
+            "player": "royce lewis",
+            "game": "cle @ min",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-05-21 14:23:42",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "1:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brooks lee",
             "game": "cle @ min",
@@ -2177,7 +2192,7 @@
             "team": "mia",
             "start": "1:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
