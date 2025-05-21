@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "72",
         "batters": "213",
-        "pitches": "2537",
+        "pitches": "2542",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "54.7",
         "ff%fourseam fastball %": "28.5",
@@ -10,25 +10,25 @@
         "fc%cutter %": "6.1",
         "fs%splitter %": "3.3",
         "ch%changeup %": "12.9",
-        "sl%slider %": "22.7",
+        "sl%slider %": "22.8",
         "cu%curve %": "7.3",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "186",
-        "hh%hard hit %": "38.8",
+        "hhhard hit": "187",
+        "hh%hard hit %": "38.7",
         "brlbarrels": "40",
         "brl%barrel %": "8.3",
-        "ab": "595",
-        "avg": ".230",
-        "h": "137",
-        "1b": "94",
+        "ab": "598",
+        "avg": ".231",
+        "h": "138",
+        "1b": "95",
         "2b": "24",
         "3b": "2",
         "hr": "17",
         "so": "127",
-        "bipballs in play": "480",
+        "bipballs in play": "483",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-20 21:51:10.499281"
+        "updated": "2025-05-20 21:51:20.557306"
     },
     "hou @ tb": [
         {
@@ -41,10 +41,10 @@
             "team": "hou",
             "start": "7:05 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "92.9",
+            "la": "46",
+            "dist": "296"
         },
         {
             "player": "jeremy pena",
@@ -5322,11 +5322,11 @@
     ],
     "tex @ nyy": [
         {
-            "player": "jake burger",
+            "player": "jonah heim",
             "game": "tex @ nyy",
             "hr/park": "",
-            "pa": "69",
-            "dt": "2025-05-20 21:50:48",
+            "pa": "70",
+            "dt": "2025-05-20 21:51:19",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
             "start": "7:05 PM",
@@ -5335,6 +5335,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "jake burger",
+            "game": "tex @ nyy",
+            "hr/park": "0/30",
+            "pa": "69",
+            "dt": "2025-05-20 21:50:48",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "7:05 PM",
+            "in": "9",
+            "result": "Lineout",
+            "evo": "87.7",
+            "la": "21",
+            "dist": "303"
         },
         {
             "player": "joc pederson",
@@ -8374,6 +8389,36 @@
         }
     ],
     "det @ stl": [
+        {
+            "player": "riley greene",
+            "game": "det @ stl",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-05-20 21:51:19",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:45 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "zach mckinstry",
+            "game": "det @ stl",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-05-20 21:51:19",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:45 PM",
+            "in": "9",
+            "result": "Single",
+            "evo": "101.8",
+            "la": "17",
+            "dist": "255"
+        },
         {
             "player": "pedro pages",
             "game": "det @ stl",
