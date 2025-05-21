@@ -1,26 +1,26 @@
 {
     "all": {
         "pitchers": "14",
-        "batters": "71",
-        "pitches": "326",
+        "batters": "72",
+        "pitches": "327",
         "max velomax pitch velocity": "97.7",
         "min velomin pitch velocity": "73.6",
-        "ff%fourseam fastball %": "34.4",
-        "si%sinker %": "21.2",
+        "ff%fourseam fastball %": "34.6",
+        "si%sinker %": "21.1",
         "fc%cutter %": "6.7",
         "fs%splitter %": "3.1",
         "ch%changeup %": "8.9",
-        "sl%slider %": "21.5",
+        "sl%slider %": "21.4",
         "cu%curve %": "2.1",
         "max evmax exit velocity": "108.8",
         "hhhard hit": "17",
         "hh%hard hit %": "31.5",
         "brlbarrels": "2",
         "brl%barrel %": "3.7",
-        "ab": "64",
-        "avg": ".281",
-        "h": "18",
-        "1b": "13",
+        "ab": "65",
+        "avg": ".292",
+        "h": "19",
+        "1b": "14",
         "2b": "1",
         "3b": "1",
         "hr": "3",
@@ -28,7 +28,7 @@
         "bipballs in play": "54",
         "liveGames": 6,
         "totGames": 16,
-        "updated": "2025-05-21 13:32:36.141726"
+        "updated": "2025-05-21 13:32:43.719102"
     },
     "hou @ tb": [
         {
@@ -1157,7 +1157,7 @@
             "team": "mia",
             "start": "1:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "80.1",
             "la": "9",
             "dist": "106"
@@ -1482,6 +1482,21 @@
     ],
     "det @ stl": [
         {
+            "player": "spencer torkelson",
+            "game": "det @ stl",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-05-21 13:32:42",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:15 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "riley greene",
             "game": "det @ stl",
             "hr/park": "",
@@ -1491,7 +1506,7 @@
             "team": "det",
             "start": "1:15 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "69.7",
             "la": "10",
             "dist": "101"
