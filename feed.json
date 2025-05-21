@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "68",
         "batters": "159",
-        "pitches": "2211",
+        "pitches": "2213",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "31.6",
         "si%sinker %": "17.1",
-        "fc%cutter %": "7.2",
+        "fc%cutter %": "7.3",
         "fs%splitter %": "3.2",
-        "ch%changeup %": "11.4",
+        "ch%changeup %": "11.3",
         "sl%slider %": "23.5",
         "cu%curve %": "5.7",
         "max evmax exit velocity": "114.3",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "37.3",
         "brlbarrels": "26",
         "brl%barrel %": "6.8",
-        "ab": "485",
-        "avg": ".241",
-        "h": "117",
-        "1b": "77",
+        "ab": "487",
+        "avg": ".242",
+        "h": "118",
+        "1b": "78",
         "2b": "23",
         "3b": "1",
         "hr": "16",
@@ -28,7 +28,7 @@
         "bipballs in play": "383",
         "liveGames": 9,
         "totGames": 16,
-        "updated": "2025-05-21 16:26:37.951994"
+        "updated": "2025-05-21 16:26:47.075199"
     },
     "hou @ tb": [
         {
@@ -4435,6 +4435,21 @@
     ],
     "bal @ mil": [
         {
+            "player": "adley rutschman",
+            "game": "bal @ mil",
+            "hr/park": "",
+            "pa": "86",
+            "dt": "2025-05-21 16:26:42",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:10 PM",
+            "in": "11",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jackson holliday",
             "game": "bal @ mil",
             "hr/park": "",
@@ -4444,7 +4459,7 @@
             "team": "bal",
             "start": "1:10 PM",
             "in": "11",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "92.2",
             "la": "11",
             "dist": "142"
@@ -6809,9 +6824,24 @@
     ],
     "sea @ chw": [
         {
-            "player": "leody taveras",
+            "player": "dylan moore",
             "game": "sea @ chw",
             "hr/park": "",
+            "pa": "65",
+            "dt": "2025-05-21 16:26:42",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "leody taveras",
+            "game": "sea @ chw",
+            "hr/park": "20/30",
             "pa": "64",
             "dt": "2025-05-21 16:26:13",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
@@ -8104,7 +8134,7 @@
             "team": "cle",
             "start": "3:00 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
