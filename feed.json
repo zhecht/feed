@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "24",
         "batters": "157",
-        "pitches": "1159",
+        "pitches": "1168",
         "max velomax pitch velocity": "99.8",
         "min velomin pitch velocity": "60.7",
-        "ff%fourseam fastball %": "30.5",
-        "si%sinker %": "15.6",
-        "fc%cutter %": "5.7",
-        "fs%splitter %": "4.1",
-        "ch%changeup %": "12.9",
-        "sl%slider %": "23.2",
-        "cu%curve %": "7.9",
+        "ff%fourseam fastball %": "30.3",
+        "si%sinker %": "15.7",
+        "fc%cutter %": "5.6",
+        "fs%splitter %": "4.3",
+        "ch%changeup %": "12.8",
+        "sl%slider %": "23.4",
+        "cu%curve %": "8.0",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "85",
-        "hh%hard hit %": "39.5",
+        "hhhard hit": "86",
+        "hh%hard hit %": "39.6",
         "brlbarrels": "21",
-        "brl%barrel %": "9.8",
-        "ab": "269",
-        "avg": ".223",
-        "h": "60",
-        "1b": "36",
+        "brl%barrel %": "9.7",
+        "ab": "271",
+        "avg": ".229",
+        "h": "62",
+        "1b": "38",
         "2b": "14",
         "3b": "1",
         "hr": "9",
-        "so": "57",
-        "bipballs in play": "215",
+        "so": "58",
+        "bipballs in play": "217",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-05-20 20:17:10.565848"
+        "updated": "2025-05-20 20:17:19.013208"
     },
     "hou @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "hou",
             "start": "7:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1131,6 +1131,21 @@
     ],
     "chc @ mia": [
         {
+            "player": "carson kelly",
+            "game": "chc @ mia",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-05-20 20:17:17",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle tucker",
             "game": "chc @ mia",
             "hr/park": "",
@@ -1140,10 +1155,10 @@
             "team": "chc",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "97.6",
+            "la": "12",
+            "dist": "165"
         },
         {
             "player": "seiya suzuki",
@@ -1868,6 +1883,21 @@
     ],
     "nym @ bos": [
         {
+            "player": "juan soto",
+            "game": "nym @ bos",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-05-20 20:17:17",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "6:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "francisco lindor",
             "game": "nym @ bos",
             "hr/park": "0/30",
@@ -1877,7 +1907,7 @@
             "team": "nym",
             "start": "6:45 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "107.0",
             "la": "15",
             "dist": "312"
@@ -3081,10 +3111,10 @@
             "team": "tex",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "33.3",
+            "la": "31",
+            "dist": "56"
         },
         {
             "player": "dj lemahieu",
@@ -3538,6 +3568,21 @@
         }
     ],
     "sd @ tor": [
+        {
+            "player": "fernando tatis",
+            "game": "sd @ tor",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-05-20 20:16:33",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "7:07 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "martin maldonado",
             "game": "sd @ tor",
@@ -4233,21 +4278,6 @@
         }
     ],
     "det @ stl": [
-        {
-            "player": "kerry carpenter",
-            "game": "det @ stl",
-            "hr/park": "",
-            "pa": "17",
-            "dt": "2025-05-20 20:16:48",
-            "img": "https://www.mlbstatic.com/team-logos/116.svg",
-            "team": "det",
-            "start": "7:45 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "jordan walker",
             "game": "det @ stl",
