@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "15",
         "batters": "108",
-        "pitches": "587",
+        "pitches": "591",
         "max velomax pitch velocity": "97.7",
         "min velomin pitch velocity": "73.6",
-        "ff%fourseam fastball %": "31.7",
+        "ff%fourseam fastball %": "31.8",
         "si%sinker %": "22.0",
-        "fc%cutter %": "7.2",
+        "fc%cutter %": "7.1",
         "fs%splitter %": "4.6",
-        "ch%changeup %": "7.0",
-        "sl%slider %": "23.2",
+        "ch%changeup %": "7.1",
+        "sl%slider %": "23.0",
         "cu%curve %": "2.9",
         "max evmax exit velocity": "114.3",
         "hhhard hit": "33",
-        "hh%hard hit %": "33.3",
+        "hh%hard hit %": "33.0",
         "brlbarrels": "6",
-        "brl%barrel %": "6.1",
-        "ab": "126",
-        "avg": ".238",
+        "brl%barrel %": "6.0",
+        "ab": "127",
+        "avg": ".236",
         "h": "30",
         "1b": "23",
         "2b": "3",
         "3b": "1",
         "hr": "3",
-        "so": "27",
-        "bipballs in play": "99",
+        "so": "28",
+        "bipballs in play": "100",
         "liveGames": 6,
         "totGames": 16,
-        "updated": "2025-05-21 13:56:49.286316"
+        "updated": "2025-05-21 13:56:57.125713"
     },
     "hou @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "1:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -393,6 +393,21 @@
         }
     ],
     "cin @ pit": [
+        {
+            "player": "rece hinds",
+            "game": "cin @ pit",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-05-21 13:56:57",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "12:35 PM",
+            "in": "5",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "isiah kiner falefa",
             "game": "cin @ pit",
@@ -2331,10 +2346,10 @@
             "team": "stl",
             "start": "1:15 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "83.4",
+            "la": "1",
+            "dist": "51"
         },
         {
             "player": "kerry carpenter",
