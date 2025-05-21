@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "83",
-        "batters": "251",
-        "pitches": "2948",
+        "pitchers": "84",
+        "batters": "253",
+        "pitches": "2949",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "54.7",
         "ff%fourseam fastball %": "28.5",
-        "si%sinker %": "18.0",
+        "si%sinker %": "18.1",
         "fc%cutter %": "6.3",
         "fs%splitter %": "3.2",
         "ch%changeup %": "13.6",
@@ -14,21 +14,21 @@
         "cu%curve %": "7.7",
         "max evmax exit velocity": "113.2",
         "hhhard hit": "215",
-        "hh%hard hit %": "38.3",
+        "hh%hard hit %": "38.5",
         "brlbarrels": "47",
         "brl%barrel %": "8.4",
-        "ab": "692",
-        "avg": ".236",
+        "ab": "695",
+        "avg": ".235",
         "h": "163",
         "1b": "111",
         "2b": "29",
         "3b": "3",
         "hr": "20",
-        "so": "147",
-        "bipballs in play": "561",
+        "so": "148",
+        "bipballs in play": "559",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-05-20 22:30:37.291690"
+        "updated": "2025-05-20 22:30:48.082525"
     },
     "hou @ tb": [
         {
@@ -7375,10 +7375,10 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "5",
-            "result": "Groundout",
-            "evo": "80.8",
-            "la": "-13",
-            "dist": "9"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "ben williamson",
@@ -7922,6 +7922,21 @@
         }
     ],
     "bal @ mil": [
+        {
+            "player": "cedric mullins",
+            "game": "bal @ mil",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-05-20 22:30:48",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jackson chourio",
             "game": "bal @ mil",
@@ -10923,10 +10938,10 @@
             "team": "kc",
             "start": "9:45 PM",
             "in": "3",
-            "result": "Flyout",
-            "evo": "82.0",
-            "la": "32",
-            "dist": "303"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "drew waters",
@@ -11171,6 +11186,21 @@
     ],
     "laa @ ath": [
         {
+            "player": "luis urias",
+            "game": "laa @ ath",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-05-20 22:30:04",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "2",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nick kurtz",
             "game": "laa @ ath",
             "hr/park": "",
@@ -11383,6 +11413,21 @@
     ],
     "ari @ lad": [
         {
+            "player": "pavin smith",
+            "game": "ari @ lad",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-05-20 22:30:48",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "10:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gabriel moreno",
             "game": "ari @ lad",
             "hr/park": "",
@@ -11392,7 +11437,7 @@
             "team": "ari",
             "start": "10:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
