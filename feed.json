@@ -1,36 +1,51 @@
 {
     "all": {
         "pitchers": "14",
-        "batters": "56",
-        "pitches": "240",
+        "batters": "60",
+        "pitches": "248",
         "max velomax pitch velocity": "97.7",
         "min velomin pitch velocity": "73.6",
-        "ff%fourseam fastball %": "36.3",
-        "si%sinker %": "18.3",
-        "fc%cutter %": "7.1",
-        "fs%splitter %": "4.2",
-        "ch%changeup %": "8.3",
-        "sl%slider %": "20.8",
-        "cu%curve %": "2.1",
+        "ff%fourseam fastball %": "35.5",
+        "si%sinker %": "20.2",
+        "fc%cutter %": "7.7",
+        "fs%splitter %": "4.0",
+        "ch%changeup %": "7.7",
+        "sl%slider %": "20.2",
+        "cu%curve %": "2.0",
         "max evmax exit velocity": "108.8",
-        "hhhard hit": "14",
-        "hh%hard hit %": "35.0",
+        "hhhard hit": "15",
+        "hh%hard hit %": "36.6",
         "brlbarrels": "2",
-        "brl%barrel %": "5.0",
-        "ab": "52",
-        "avg": ".269",
+        "brl%barrel %": "4.9",
+        "ab": "56",
+        "avg": ".250",
         "h": "14",
         "1b": "9",
         "2b": "1",
         "3b": "1",
         "hr": "3",
-        "so": "9",
-        "bipballs in play": "40",
+        "so": "10",
+        "bipballs in play": "41",
         "liveGames": 6,
         "totGames": 16,
-        "updated": "2025-05-21 13:25:56.236564"
+        "updated": "2025-05-21 13:26:03.703884"
     },
     "hou @ tb": [
+        {
+            "player": "jonathan aranda",
+            "game": "hou @ tb",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-05-21 13:25:58",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "1:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brandon lowe",
             "game": "hou @ tb",
@@ -163,7 +178,7 @@
             "team": "cin",
             "start": "12:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Mound Visit",
             "evo": "",
             "la": "",
             "dist": ""
@@ -500,6 +515,21 @@
         }
     ],
     "cle @ min": [
+        {
+            "player": "willi castro",
+            "game": "cle @ min",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-05-21 13:25:58",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "1:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "harrison bader",
             "game": "cle @ min",
@@ -1120,6 +1150,21 @@
     ],
     "bal @ mil": [
         {
+            "player": "cedric mullins",
+            "game": "bal @ mil",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-05-21 13:25:58",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan ohearn",
             "game": "bal @ mil",
             "hr/park": "",
@@ -1129,10 +1174,10 @@
             "team": "bal",
             "start": "1:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "95.2",
+            "la": "73",
+            "dist": "80"
         },
         {
             "player": "christian yelich",
@@ -1242,6 +1287,21 @@
     ],
     "det @ stl": [
         {
+            "player": "brendan donovan",
+            "game": "det @ stl",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-05-21 13:25:58",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "1:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "masyn winn",
             "game": "det @ stl",
             "hr/park": "",
@@ -1251,7 +1311,7 @@
             "team": "stl",
             "start": "1:15 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
