@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "28",
         "batters": "127",
-        "pitches": "1335",
+        "pitches": "1340",
         "max velomax pitch velocity": "98.6",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "33.0",
-        "si%sinker %": "17.3",
-        "fc%cutter %": "8.2",
+        "ff%fourseam fastball %": "32.9",
+        "si%sinker %": "17.5",
+        "fc%cutter %": "8.1",
         "fs%splitter %": "3.6",
-        "ch%changeup %": "11.2",
-        "sl%slider %": "21.1",
+        "ch%changeup %": "11.1",
+        "sl%slider %": "21.2",
         "cu%curve %": "5.1",
         "max evmax exit velocity": "114.3",
-        "hhhard hit": "77",
-        "hh%hard hit %": "33.5",
+        "hhhard hit": "79",
+        "hh%hard hit %": "34.1",
         "brlbarrels": "15",
         "brl%barrel %": "6.5",
-        "ab": "290",
-        "avg": ".231",
+        "ab": "291",
+        "avg": ".230",
         "h": "67",
         "1b": "48",
         "2b": "11",
         "3b": "1",
         "hr": "7",
-        "so": "67",
-        "bipballs in play": "230",
+        "so": "68",
+        "bipballs in play": "232",
         "liveGames": 7,
         "totGames": 16,
-        "updated": "2025-05-21 14:49:41.939053"
+        "updated": "2025-05-21 14:49:50.307965"
     },
     "hou @ tb": [
         {
@@ -814,6 +814,21 @@
     ],
     "cin @ pit": [
         {
+            "player": "spencer horwitz",
+            "game": "cin @ pit",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-05-21 14:49:44",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "12:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bryan reynolds",
             "game": "cin @ pit",
             "hr/park": "",
@@ -823,7 +838,7 @@
             "team": "pit",
             "start": "12:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4049,17 +4064,17 @@
         {
             "player": "brendan donovan",
             "game": "det @ stl",
-            "hr/park": "",
+            "hr/park": "13/30",
             "pa": "45",
             "dt": "2025-05-21 14:49:12",
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
             "team": "stl",
             "start": "1:15 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "97.0",
+            "la": "27",
+            "dist": "364"
         },
         {
             "player": "masyn winn",
@@ -4734,9 +4749,9 @@
             "start": "2:10 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
+            "evo": "110.0",
             "la": "",
-            "dist": ""
+            "dist": "44"
         },
         {
             "player": "joshua palacios",
