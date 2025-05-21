@@ -1,16 +1,16 @@
 {
     "all": {
         "pitchers": "14",
-        "batters": "79",
-        "pitches": "357",
+        "batters": "80",
+        "pitches": "363",
         "max velomax pitch velocity": "97.7",
         "min velomin pitch velocity": "73.6",
-        "ff%fourseam fastball %": "33.9",
-        "si%sinker %": "21.6",
-        "fc%cutter %": "6.7",
+        "ff%fourseam fastball %": "33.3",
+        "si%sinker %": "22.3",
+        "fc%cutter %": "6.6",
         "fs%splitter %": "3.6",
-        "ch%changeup %": "8.1",
-        "sl%slider %": "22.1",
+        "ch%changeup %": "8.0",
+        "sl%slider %": "22.3",
         "cu%curve %": "1.4",
         "max evmax exit velocity": "108.8",
         "hhhard hit": "18",
@@ -28,7 +28,7 @@
         "bipballs in play": "59",
         "liveGames": 6,
         "totGames": 16,
-        "updated": "2025-05-21 13:36:11.445686"
+        "updated": "2025-05-21 13:36:19.113502"
     },
     "hou @ tb": [
         {
@@ -1602,16 +1602,31 @@
     ],
     "det @ stl": [
         {
-            "player": "colt keith",
+            "player": "dillon dingler",
             "game": "det @ stl",
             "hr/park": "",
+            "pa": "10",
+            "dt": "2025-05-21 13:36:14",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:15 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "colt keith",
+            "game": "det @ stl",
+            "hr/park": "0/30",
             "pa": "9",
             "dt": "2025-05-21 13:34:12",
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
             "team": "det",
             "start": "1:15 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Sac Fly Double Play",
             "evo": "93.8",
             "la": "33",
             "dist": "307"
