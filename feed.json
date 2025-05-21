@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "89",
         "batters": "268",
-        "pitches": "3262",
+        "pitches": "3268",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "54.7",
         "ff%fourseam fastball %": "28.5",
         "si%sinker %": "17.7",
-        "fc%cutter %": "6.3",
+        "fc%cutter %": "6.2",
         "fs%splitter %": "3.1",
         "ch%changeup %": "14.0",
         "sl%slider %": "21.3",
-        "cu%curve %": "8.3",
+        "cu%curve %": "8.4",
         "max evmax exit velocity": "113.2",
         "hhhard hit": "244",
         "hh%hard hit %": "39.2",
         "brlbarrels": "53",
         "brl%barrel %": "8.5",
-        "ab": "769",
+        "ab": "771",
         "avg": ".231",
         "h": "178",
         "1b": "120",
         "2b": "33",
         "3b": "4",
         "hr": "21",
-        "so": "164",
+        "so": "165",
         "bipballs in play": "622",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-05-20 23:02:41.135136"
+        "updated": "2025-05-20 23:02:52.205565"
     },
     "hou @ tb": [
         {
@@ -7375,7 +7375,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "101.1",
             "la": "-13",
             "dist": "13"
@@ -10366,7 +10366,7 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11966,6 +11966,21 @@
     ],
     "laa @ ath": [
         {
+            "player": "shea langeliers",
+            "game": "laa @ ath",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-05-20 23:02:48",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jo adell",
             "game": "laa @ ath",
             "hr/park": "",
@@ -12403,6 +12418,21 @@
     ],
     "ari @ lad": [
         {
+            "player": "mookie betts",
+            "game": "ari @ lad",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-05-20 23:02:48",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "10:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "shohei ohtani",
             "game": "ari @ lad",
             "hr/park": "",
@@ -12412,7 +12442,7 @@
             "team": "lad",
             "start": "10:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "95.5",
             "la": "5",
             "dist": "106"
