@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "21",
-        "batters": "152",
-        "pitches": "1096",
+        "pitchers": "23",
+        "batters": "154",
+        "pitches": "1104",
         "max velomax pitch velocity": "99.8",
         "min velomin pitch velocity": "60.7",
-        "ff%fourseam fastball %": "30.7",
-        "si%sinker %": "16.0",
+        "ff%fourseam fastball %": "31.0",
+        "si%sinker %": "15.9",
         "fc%cutter %": "5.7",
-        "fs%splitter %": "3.6",
+        "fs%splitter %": "3.7",
         "ch%changeup %": "12.6",
-        "sl%slider %": "23.4",
+        "sl%slider %": "23.1",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "77",
-        "hh%hard hit %": "38.5",
+        "hhhard hit": "78",
+        "hh%hard hit %": "38.8",
         "brlbarrels": "19",
         "brl%barrel %": "9.5",
-        "ab": "250",
+        "ab": "254",
         "avg": ".224",
-        "h": "56",
-        "1b": "33",
+        "h": "57",
+        "1b": "34",
         "2b": "14",
         "3b": "1",
         "hr": "8",
         "so": "54",
-        "bipballs in play": "200",
+        "bipballs in play": "201",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-05-20 20:13:15.347123"
+        "updated": "2025-05-20 20:13:23.667849"
     },
     "hou @ tb": [
         {
@@ -41,10 +41,10 @@
             "team": "hou",
             "start": "7:05 PM",
             "in": "4",
-            "result": "Groundout",
-            "evo": "61.0",
-            "la": "-41",
-            "dist": "6"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "zach dezenzo",
@@ -463,10 +463,10 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "106.0",
+            "la": "1",
+            "dist": "54"
         },
         {
             "player": "andrew mccutchen",
@@ -2290,6 +2290,21 @@
     ],
     "atl @ wsh": [
         {
+            "player": "james wood",
+            "game": "atl @ wsh",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-05-20 20:13:18",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cj abrams",
             "game": "atl @ wsh",
             "hr/park": "0/30",
@@ -3359,6 +3374,21 @@
     ],
     "sd @ tor": [
         {
+            "player": "jake cronenworth",
+            "game": "sd @ tor",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-05-20 20:13:18",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "7:07 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "george springer",
             "game": "sd @ tor",
             "hr/park": "",
@@ -3781,6 +3811,36 @@
     ],
     "sea @ chw": [],
     "bal @ mil": [
+        {
+            "player": "isaac collins",
+            "game": "bal @ mil",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-05-20 20:13:18",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "rhys hoskins",
+            "game": "bal @ mil",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-05-20 20:13:18",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "Pop Out",
+            "evo": "92.4",
+            "la": "71",
+            "dist": "116"
+        },
         {
             "player": "cedric mullins",
             "game": "bal @ mil",
