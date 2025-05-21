@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "58",
+        "pitchers": "59",
         "batters": "192",
-        "pitches": "2214",
+        "pitches": "2222",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "54.7",
-        "ff%fourseam fastball %": "28.0",
+        "ff%fourseam fastball %": "27.9",
         "si%sinker %": "18.2",
-        "fc%cutter %": "6.5",
+        "fc%cutter %": "6.6",
         "fs%splitter %": "3.7",
         "ch%changeup %": "12.3",
-        "sl%slider %": "22.3",
+        "sl%slider %": "22.4",
         "cu%curve %": "7.8",
         "max evmax exit velocity": "113.2",
         "hhhard hit": "158",
-        "hh%hard hit %": "37.6",
+        "hh%hard hit %": "37.4",
         "brlbarrels": "36",
-        "brl%barrel %": "8.6",
-        "ab": "520",
-        "avg": ".227",
+        "brl%barrel %": "8.5",
+        "ab": "523",
+        "avg": ".226",
         "h": "118",
         "1b": "79",
         "2b": "22",
         "3b": "1",
         "hr": "16",
         "so": "109",
-        "bipballs in play": "420",
+        "bipballs in play": "422",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-05-20 21:23:00.408391"
+        "updated": "2025-05-20 21:23:09.767776"
     },
     "hou @ tb": [
+        {
+            "player": "christian walker",
+            "game": "hou @ tb",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-05-20 21:23:03",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "7:05 PM",
+            "in": "8",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "taylor walls",
             "game": "hou @ tb",
@@ -5978,10 +5993,10 @@
             "team": "sd",
             "start": "7:07 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "67.2",
+            "la": "7",
+            "dist": "73"
         },
         {
             "player": "bo bichette",
@@ -6887,6 +6902,21 @@
         }
     ],
     "bal @ mil": [
+        {
+            "player": "ryan ohearn",
+            "game": "bal @ mil",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-05-20 21:22:35",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "dylan carlson",
             "game": "bal @ mil",
@@ -8347,6 +8377,21 @@
     ],
     "phi @ col": [
         {
+            "player": "nick castellanos",
+            "game": "phi @ col",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-05-20 21:23:03",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "8:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle schwarber",
             "game": "phi @ col",
             "hr/park": "",
@@ -8356,10 +8401,10 @@
             "team": "phi",
             "start": "8:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "66.1",
+            "la": "-41",
+            "dist": "4"
         },
         {
             "player": "bryce harper",
