@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "86",
         "batters": "266",
-        "pitches": "3119",
+        "pitches": "3123",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "54.7",
         "ff%fourseam fastball %": "28.3",
@@ -11,16 +11,16 @@
         "fs%splitter %": "3.1",
         "ch%changeup %": "13.8",
         "sl%slider %": "21.6",
-        "cu%curve %": "8.1",
+        "cu%curve %": "8.2",
         "max evmax exit velocity": "113.2",
         "hhhard hit": "233",
         "hh%hard hit %": "39.0",
         "brlbarrels": "50",
         "brl%barrel %": "8.4",
-        "ab": "736",
+        "ab": "738",
         "avg": ".234",
-        "h": "172",
-        "1b": "117",
+        "h": "173",
+        "1b": "118",
         "2b": "32",
         "3b": "3",
         "hr": "20",
@@ -28,7 +28,7 @@
         "bipballs in play": "597",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-05-20 22:47:52.245027"
+        "updated": "2025-05-20 22:48:02.976465"
     },
     "hou @ tb": [
         {
@@ -7375,7 +7375,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "98.6",
             "la": "21",
             "dist": "330"
@@ -10252,6 +10252,21 @@
     ],
     "phi @ col": [
         {
+            "player": "jordan beck",
+            "game": "phi @ col",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-05-20 22:48:03",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan mcmahon",
             "game": "phi @ col",
             "hr/park": "",
@@ -10261,7 +10276,7 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "106.9",
             "la": "13",
             "dist": "260"
@@ -11606,6 +11621,21 @@
     ],
     "laa @ ath": [
         {
+            "player": "brent rooker",
+            "game": "laa @ ath",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-05-20 22:48:03",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyler soderstrom",
             "game": "laa @ ath",
             "hr/park": "",
@@ -11615,7 +11645,7 @@
             "team": "ath",
             "start": "10:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "107.0",
             "la": "-1",
             "dist": "46"
