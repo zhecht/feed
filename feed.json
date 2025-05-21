@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "39",
+        "pitchers": "40",
         "batters": "171",
-        "pitches": "1730",
+        "pitches": "1740",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "60.7",
         "ff%fourseam fastball %": "27.7",
         "si%sinker %": "18.2",
         "fc%cutter %": "7.3",
         "fs%splitter %": "3.3",
-        "ch%changeup %": "12.6",
-        "sl%slider %": "23.0",
-        "cu%curve %": "7.9",
+        "ch%changeup %": "12.5",
+        "sl%slider %": "23.3",
+        "cu%curve %": "7.8",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "127",
-        "hh%hard hit %": "38.7",
+        "hhhard hit": "128",
+        "hh%hard hit %": "38.9",
         "brlbarrels": "32",
-        "brl%barrel %": "9.8",
-        "ab": "409",
-        "avg": ".230",
-        "h": "94",
-        "1b": "58",
+        "brl%barrel %": "9.7",
+        "ab": "411",
+        "avg": ".231",
+        "h": "95",
+        "1b": "59",
         "2b": "19",
         "3b": "1",
         "hr": "16",
         "so": "89",
-        "bipballs in play": "328",
+        "bipballs in play": "329",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-05-20 20:53:10.079001"
+        "updated": "2025-05-20 20:53:18.980544"
     },
     "hou @ tb": [
         {
@@ -703,7 +703,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "102.6",
             "la": "-1",
             "dist": "39"
@@ -1565,6 +1565,21 @@
         }
     ],
     "chc @ mia": [
+        {
+            "player": "matt mervis",
+            "game": "chc @ mia",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-05-20 20:53:17",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "agustin ramirez",
             "game": "chc @ mia",
@@ -2603,6 +2618,21 @@
     ],
     "nym @ bos": [
         {
+            "player": "francisco lindor",
+            "game": "nym @ bos",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-05-20 20:53:17",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "6:45 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyrone taylor",
             "game": "nym @ bos",
             "hr/park": "",
@@ -3394,10 +3424,10 @@
             "team": "atl",
             "start": "6:45 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "96.0",
+            "la": "-12",
+            "dist": "14"
         },
         {
             "player": "stuart fairchild",
@@ -5702,6 +5732,21 @@
     "sea @ chw": [],
     "bal @ mil": [
         {
+            "player": "joey ortiz",
+            "game": "bal @ mil",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-05-20 20:52:19",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "caleb durbin",
             "game": "bal @ mil",
             "hr/park": "1/30",
@@ -6178,7 +6223,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6720,7 +6765,7 @@
             "team": "phi",
             "start": "8:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "59.7",
             "la": "-54",
             "dist": "2"
@@ -6735,7 +6780,7 @@
             "team": "phi",
             "start": "8:40 PM",
             "in": "1",
-            "result": "Flyout",
+            "result": "Sac Fly",
             "evo": "90.0",
             "la": "34",
             "dist": "345"
