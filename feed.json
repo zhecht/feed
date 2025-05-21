@@ -1,13 +1,13 @@
 {
     "all": {
-        "pitchers": "34",
+        "pitchers": "35",
         "batters": "166",
-        "pitches": "1632",
+        "pitches": "1636",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "60.7",
         "ff%fourseam fastball %": "28.2",
         "si%sinker %": "18.2",
-        "fc%cutter %": "7.2",
+        "fc%cutter %": "7.3",
         "fs%splitter %": "3.4",
         "ch%changeup %": "12.0",
         "sl%slider %": "23.3",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "38.2",
         "brlbarrels": "28",
         "brl%barrel %": "9.2",
-        "ab": "383",
-        "avg": ".227",
+        "ab": "385",
+        "avg": ".226",
         "h": "87",
         "1b": "53",
         "2b": "19",
         "3b": "1",
         "hr": "14",
-        "so": "84",
+        "so": "85",
         "bipballs in play": "306",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-05-20 20:47:31.806629"
+        "updated": "2025-05-20 20:47:40.542997"
     },
     "hou @ tb": [
         {
@@ -648,6 +648,21 @@
         }
     ],
     "cin @ pit": [
+        {
+            "player": "andrew mccutchen",
+            "game": "cin @ pit",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-05-20 20:47:34",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "connor joe",
             "game": "cin @ pit",
@@ -5854,6 +5869,21 @@
     ],
     "det @ stl": [
         {
+            "player": "gleyber torres",
+            "game": "det @ stl",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-05-20 20:47:34",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kerry carpenter",
             "game": "det @ stl",
             "hr/park": "",
@@ -5863,7 +5893,7 @@
             "team": "det",
             "start": "7:45 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
