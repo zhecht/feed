@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "56",
         "batters": "136",
-        "pitches": "1869",
+        "pitches": "1871",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "31.1",
+        "ff%fourseam fastball %": "31.2",
         "si%sinker %": "17.3",
         "fc%cutter %": "7.8",
         "fs%splitter %": "3.3",
@@ -13,11 +13,11 @@
         "sl%slider %": "23.6",
         "cu%curve %": "6.0",
         "max evmax exit velocity": "114.3",
-        "hhhard hit": "122",
-        "hh%hard hit %": "37.3",
+        "hhhard hit": "123",
+        "hh%hard hit %": "37.5",
         "brlbarrels": "24",
         "brl%barrel %": "7.3",
-        "ab": "411",
+        "ab": "412",
         "avg": ".238",
         "h": "98",
         "1b": "62",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "15",
         "so": "100",
-        "bipballs in play": "327",
+        "bipballs in play": "328",
         "liveGames": 8,
         "totGames": 16,
-        "updated": "2025-05-21 15:44:06.760972"
+        "updated": "2025-05-21 15:44:15.256627"
     },
     "hou @ tb": [
         {
@@ -5382,6 +5382,21 @@
     ],
     "det @ stl": [
         {
+            "player": "brendan donovan",
+            "game": "det @ stl",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-05-21 15:44:12",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "1:15 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "masyn winn",
             "game": "det @ stl",
             "hr/park": "",
@@ -5391,10 +5406,10 @@
             "team": "stl",
             "start": "1:15 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "99.8",
+            "la": "-5",
+            "dist": "30"
         },
         {
             "player": "gleyber torres",
