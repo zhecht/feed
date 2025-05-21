@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "61",
-        "batters": "195",
-        "pitches": "2268",
+        "batters": "196",
+        "pitches": "2275",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "54.7",
-        "ff%fourseam fastball %": "28.3",
+        "ff%fourseam fastball %": "28.4",
         "si%sinker %": "18.2",
         "fc%cutter %": "6.4",
         "fs%splitter %": "3.7",
         "ch%changeup %": "12.4",
         "sl%slider %": "22.1",
-        "cu%curve %": "7.8",
+        "cu%curve %": "7.7",
         "max evmax exit velocity": "113.2",
         "hhhard hit": "161",
-        "hh%hard hit %": "37.7",
+        "hh%hard hit %": "37.6",
         "brlbarrels": "36",
         "brl%barrel %": "8.4",
         "ab": "533",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "16",
         "so": "113",
-        "bipballs in play": "427",
+        "bipballs in play": "428",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-05-20 21:27:15.769498"
+        "updated": "2025-05-20 21:27:25.127400"
     },
     "hou @ tb": [
         {
@@ -6931,6 +6931,21 @@
     ],
     "sea @ chw": [
         {
+            "player": "josh rojas",
+            "game": "sea @ chw",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-05-20 21:27:18",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "chase meidroth",
             "game": "sea @ chw",
             "hr/park": "",
@@ -7017,7 +7032,7 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8521,10 +8536,10 @@
             "team": "phi",
             "start": "8:40 PM",
             "in": "3",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "93.7",
+            "la": "-27",
+            "dist": "5"
         },
         {
             "player": "nick castellanos",
