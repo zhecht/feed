@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "48",
         "batters": "135",
-        "pitches": "1784",
+        "pitches": "1790",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "31.4",
@@ -10,11 +10,11 @@
         "fc%cutter %": "8.1",
         "fs%splitter %": "3.5",
         "ch%changeup %": "10.3",
-        "sl%slider %": "23.3",
-        "cu%curve %": "5.8",
+        "sl%slider %": "23.4",
+        "cu%curve %": "5.9",
         "max evmax exit velocity": "114.3",
-        "hhhard hit": "113",
-        "hh%hard hit %": "36.5",
+        "hhhard hit": "114",
+        "hh%hard hit %": "36.7",
         "brlbarrels": "22",
         "brl%barrel %": "7.1",
         "ab": "393",
@@ -24,11 +24,11 @@
         "2b": "19",
         "3b": "1",
         "hr": "14",
-        "so": "97",
-        "bipballs in play": "310",
+        "so": "98",
+        "bipballs in play": "311",
         "liveGames": 8,
         "totGames": 16,
-        "updated": "2025-05-21 15:33:23.108275"
+        "updated": "2025-05-21 15:33:31.734043"
     },
     "hou @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "1:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3295,7 +3295,7 @@
         {
             "player": "otto lopez",
             "game": "chc @ mia",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "63",
             "dt": "2025-05-21 15:32:42",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
@@ -5211,10 +5211,10 @@
             "team": "det",
             "start": "1:15 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "106.1",
+            "la": "-4",
+            "dist": "18"
         },
         {
             "player": "colt keith",
@@ -6119,6 +6119,21 @@
     ],
     "sea @ chw": [
         {
+            "player": "miguel vargas",
+            "game": "sea @ chw",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-05-21 15:33:28",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "chase meidroth",
             "game": "sea @ chw",
             "hr/park": "",
@@ -6128,7 +6143,7 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
