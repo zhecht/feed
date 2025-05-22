@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "31",
+        "pitchers": "32",
         "batters": "82",
-        "pitches": "1113",
+        "pitches": "1115",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "72.2",
-        "ff%fourseam fastball %": "32.0",
-        "si%sinker %": "11.9",
+        "ff%fourseam fastball %": "31.9",
+        "si%sinker %": "11.8",
         "fc%cutter %": "10.4",
         "fs%splitter %": "6.7",
         "ch%changeup %": "10.0",
-        "sl%slider %": "18.1",
-        "cu%curve %": "11.0",
+        "sl%slider %": "18.2",
+        "cu%curve %": "10.9",
         "max evmax exit velocity": "112.2",
         "hhhard hit": "71",
         "hh%hard hit %": "35.9",
         "brlbarrels": "11",
         "brl%barrel %": "5.6",
-        "ab": "254",
-        "avg": ".217",
+        "ab": "255",
+        "avg": ".216",
         "h": "55",
         "1b": "39",
         "2b": "10",
@@ -28,7 +28,7 @@
         "bipballs in play": "198",
         "liveGames": 4,
         "totGames": 9,
-        "updated": "2025-05-22 17:33:18.182344"
+        "updated": "2025-05-22 17:33:25.905403"
     },
     "tex @ nyy": [
         {
@@ -3458,6 +3458,21 @@
     ],
     "laa @ ath": [
         {
+            "player": "kevin newman",
+            "game": "laa @ ath",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-05-22 17:33:23",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "3:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "miguel andujar",
             "game": "laa @ ath",
             "hr/park": "",
@@ -3467,7 +3482,7 @@
             "team": "ath",
             "start": "3:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "97.1",
             "la": "-5",
             "dist": "19"
