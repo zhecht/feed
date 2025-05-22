@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "44",
         "batters": "138",
-        "pitches": "1656",
+        "pitches": "1663",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "72.2",
-        "ff%fourseam fastball %": "33.3",
-        "si%sinker %": "11.0",
-        "fc%cutter %": "10.0",
-        "fs%splitter %": "6.5",
-        "ch%changeup %": "9.7",
-        "sl%slider %": "18.2",
+        "ff%fourseam fastball %": "33.4",
+        "si%sinker %": "10.9",
+        "fc%cutter %": "9.9",
+        "fs%splitter %": "6.4",
+        "ch%changeup %": "9.6",
+        "sl%slider %": "18.3",
         "cu%curve %": "11.4",
         "max evmax exit velocity": "112.2",
         "hhhard hit": "109",
-        "hh%hard hit %": "37.8",
+        "hh%hard hit %": "37.7",
         "brlbarrels": "19",
         "brl%barrel %": "6.6",
         "ab": "369",
@@ -24,11 +24,11 @@
         "2b": "14",
         "3b": "3",
         "hr": "12",
-        "so": "86",
-        "bipballs in play": "288",
+        "so": "87",
+        "bipballs in play": "289",
         "liveGames": 8,
         "totGames": 9,
-        "updated": "2025-05-22 19:51:06.789787"
+        "updated": "2025-05-22 19:51:15.322984"
     },
     "tex @ nyy": [
         {
@@ -4789,7 +4789,7 @@
             "team": "cle",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5286,10 +5286,10 @@
             "team": "mil",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "94.2",
+            "la": "5",
+            "dist": "177"
         },
         {
             "player": "isiah kiner falefa",
@@ -5829,7 +5829,7 @@
             "team": "atl",
             "start": "6:45 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
