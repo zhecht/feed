@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "23",
         "batters": "79",
-        "pitches": "845",
+        "pitches": "846",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "72.2",
         "ff%fourseam fastball %": "33.7",
         "si%sinker %": "11.2",
         "fc%cutter %": "9.0",
         "fs%splitter %": "8.6",
-        "ch%changeup %": "10.7",
+        "ch%changeup %": "10.8",
         "sl%slider %": "15.7",
         "cu%curve %": "11.0",
         "max evmax exit velocity": "110.2",
@@ -28,7 +28,7 @@
         "bipballs in play": "149",
         "liveGames": 4,
         "totGames": 9,
-        "updated": "2025-05-22 16:23:31.920927"
+        "updated": "2025-05-22 16:23:39.695627"
     },
     "tex @ nyy": [
         {
@@ -2948,16 +2948,31 @@
     ],
     "laa @ ath": [
         {
-            "player": "nick kurtz",
+            "player": "gio urshela",
             "game": "laa @ ath",
             "hr/park": "",
+            "pa": "25",
+            "dt": "2025-05-22 16:23:38",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "3:35 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "nick kurtz",
+            "game": "laa @ ath",
+            "hr/park": "0/30",
             "pa": "24",
             "dt": "2025-05-22 16:23:08",
             "img": "https://www.mlbstatic.com/team-logos/133.svg",
             "team": "ath",
             "start": "3:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Sac Fly",
             "evo": "97.1",
             "la": "27",
             "dist": "380"
