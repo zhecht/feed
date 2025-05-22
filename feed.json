@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "44",
         "batters": "138",
-        "pitches": "1632",
+        "pitches": "1633",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "72.2",
         "ff%fourseam fastball %": "33.5",
-        "si%sinker %": "11.0",
-        "fc%cutter %": "10.0",
+        "si%sinker %": "10.9",
+        "fc%cutter %": "10.1",
         "fs%splitter %": "6.6",
         "ch%changeup %": "9.6",
         "sl%slider %": "17.8",
         "cu%curve %": "11.5",
         "max evmax exit velocity": "112.2",
         "hhhard hit": "106",
-        "hh%hard hit %": "37.7",
+        "hh%hard hit %": "37.6",
         "brlbarrels": "19",
-        "brl%barrel %": "6.8",
+        "brl%barrel %": "6.7",
         "ab": "363",
         "avg": ".237",
         "h": "86",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "11",
         "so": "86",
-        "bipballs in play": "281",
+        "bipballs in play": "282",
         "liveGames": 8,
         "totGames": 9,
-        "updated": "2025-05-22 19:45:50.696601"
+        "updated": "2025-05-22 19:45:59.207357"
     },
     "tex @ nyy": [
         {
@@ -4780,21 +4780,6 @@
     ],
     "cle @ det": [
         {
-            "player": "colt keith",
-            "game": "cle @ det",
-            "hr/park": "",
-            "pa": "31",
-            "dt": "2025-05-22 19:45:38",
-            "img": "https://www.mlbstatic.com/team-logos/116.svg",
-            "team": "det",
-            "start": "6:40 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "spencer torkelson",
             "game": "cle @ det",
             "hr/park": "",
@@ -5247,6 +5232,21 @@
     ],
     "mil @ pit": [
         {
+            "player": "tommy pham",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-05-22 19:45:53",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "adam frazier",
             "game": "mil @ pit",
             "hr/park": "",
@@ -5256,10 +5256,10 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "87.9",
+            "la": "84",
+            "dist": "61"
         },
         {
             "player": "kebryan hayes",
