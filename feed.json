@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "121",
         "batters": "280",
-        "pitches": "4011",
+        "pitches": "4013",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "42.7",
         "ff%fourseam fastball %": "30.4",
-        "si%sinker %": "17.0",
+        "si%sinker %": "16.9",
         "fc%cutter %": "9.2",
         "fs%splitter %": "3.6",
         "ch%changeup %": "10.9",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "39.9",
         "brlbarrels": "61",
         "brl%barrel %": "8.3",
-        "ab": "913",
+        "ab": "914",
         "avg": ".245",
         "h": "224",
         "1b": "147",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "36",
         "so": "217",
-        "bipballs in play": "734",
+        "bipballs in play": "735",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-05-21 22:48:31.968092"
+        "updated": "2025-05-21 22:48:43.895152"
     },
     "cin @ pit": [
         {
@@ -13871,6 +13871,21 @@
     ],
     "phi @ col": [
         {
+            "player": "ezequiel tovar",
+            "game": "phi @ col",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-05-21 22:48:35",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "LIVE",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jordan beck",
             "game": "phi @ col",
             "hr/park": "",
@@ -13880,10 +13895,10 @@
             "team": "col",
             "start": "LIVE",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "92.3",
+            "la": "-4",
+            "dist": "19"
         },
         {
             "player": "adael amador",
