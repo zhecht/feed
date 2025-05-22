@@ -2,15 +2,15 @@
     "all": {
         "pitchers": "23",
         "batters": "79",
-        "pitches": "812",
+        "pitches": "814",
         "max velomax pitch velocity": "98.5",
         "min velomin pitch velocity": "72.2",
-        "ff%fourseam fastball %": "33.6",
+        "ff%fourseam fastball %": "33.5",
         "si%sinker %": "11.2",
         "fc%cutter %": "9.0",
         "fs%splitter %": "9.0",
-        "ch%changeup %": "10.5",
-        "sl%slider %": "16.4",
+        "ch%changeup %": "10.7",
+        "sl%slider %": "16.3",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "110.2",
         "hhhard hit": "51",
@@ -28,7 +28,7 @@
         "bipballs in play": "143",
         "liveGames": 4,
         "totGames": 9,
-        "updated": "2025-05-22 16:18:52.979478"
+        "updated": "2025-05-22 16:19:00.554495"
     },
     "tex @ nyy": [
         {
@@ -2288,7 +2288,7 @@
         {
             "player": "hunter goodman",
             "game": "phi @ col",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "38",
             "dt": "2025-05-22 16:17:23",
             "img": "https://www.mlbstatic.com/team-logos/115.svg",
@@ -2858,6 +2858,21 @@
     ],
     "laa @ ath": [
         {
+            "player": "brent rooker",
+            "game": "laa @ ath",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-05-22 16:18:55",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "3:35 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyler soderstrom",
             "game": "laa @ ath",
             "hr/park": "",
@@ -2867,7 +2882,7 @@
             "team": "ath",
             "start": "3:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
