@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "21",
-        "batters": "66",
-        "pitches": "571",
+        "batters": "67",
+        "pitches": "572",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "29.8",
+        "ff%fourseam fastball %": "29.9",
         "si%sinker %": "17.7",
         "fc%cutter %": "4.2",
         "fs%splitter %": "0.9",
@@ -13,22 +13,22 @@
         "sl%slider %": "18.2",
         "cu%curve %": "8.6",
         "max evmax exit velocity": "108.9",
-        "hhhard hit": "49",
-        "hh%hard hit %": "48.0",
-        "brlbarrels": "9",
-        "brl%barrel %": "8.8",
-        "ab": "129",
-        "avg": ".341",
+        "hhhard hit": "50",
+        "hh%hard hit %": "48.5",
+        "brlbarrels": "10",
+        "brl%barrel %": "9.7",
+        "ab": "130",
+        "avg": ".338",
         "h": "44",
         "1b": "28",
         "2b": "13",
         "3b": "0",
         "hr": "3",
         "so": "27",
-        "bipballs in play": "102",
+        "bipballs in play": "103",
         "liveGames": 8,
         "totGames": 16,
-        "updated": "2025-05-23 19:12:59.598350"
+        "updated": "2025-05-23 19:13:07.246957"
     },
     "bal @ bos": [
         {
@@ -1672,6 +1672,21 @@
     ],
     "mil @ pit": [
         {
+            "player": "kebryan hayes",
+            "game": "mil @ pit",
+            "hr/park": "0/30",
+            "pa": "14",
+            "dt": "2025-05-23 19:13:04",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "99.8",
+            "la": "26",
+            "dist": "360"
+        },
+        {
             "player": "alexander canario",
             "game": "mil @ pit",
             "hr/park": "",
@@ -1681,7 +1696,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2090,7 +2105,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "1",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
