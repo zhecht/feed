@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "24",
-        "batters": "91",
-        "pitches": "706",
+        "batters": "94",
+        "pitches": "715",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "33.9",
-        "si%sinker %": "15.2",
-        "fc%cutter %": "3.7",
+        "ff%fourseam fastball %": "34.0",
+        "si%sinker %": "15.4",
+        "fc%cutter %": "3.8",
         "fs%splitter %": "0.8",
-        "ch%changeup %": "10.3",
+        "ch%changeup %": "10.2",
         "sl%slider %": "17.8",
-        "cu%curve %": "9.9",
+        "cu%curve %": "9.8",
         "max evmax exit velocity": "109.9",
-        "hhhard hit": "56",
+        "hhhard hit": "57",
         "hh%hard hit %": "46.3",
         "brlbarrels": "12",
-        "brl%barrel %": "9.9",
-        "ab": "157",
-        "avg": ".318",
-        "h": "50",
-        "1b": "32",
+        "brl%barrel %": "9.8",
+        "ab": "159",
+        "avg": ".321",
+        "h": "51",
+        "1b": "33",
         "2b": "14",
         "3b": "1",
         "hr": "3",
         "so": "36",
-        "bipballs in play": "121",
+        "bipballs in play": "123",
         "liveGames": 9,
         "totGames": 16,
-        "updated": "2025-05-23 19:23:46.066754"
+        "updated": "2025-05-23 19:23:53.690071"
     },
     "bal @ bos": [
         {
@@ -1756,7 +1756,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "60.7",
             "la": "-6",
             "dist": "46"
@@ -2276,6 +2276,21 @@
     ],
     "tor @ tb": [
         {
+            "player": "alejandro kirk",
+            "game": "tor @ tb",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-05-23 19:23:49",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:05 PM",
+            "in": "2",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "george springer",
             "game": "tor @ tb",
             "hr/park": "",
@@ -2285,10 +2300,10 @@
             "team": "tor",
             "start": "7:05 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "93.8",
+            "la": "-10",
+            "dist": "10"
         },
         {
             "player": "christopher morel",
@@ -2407,10 +2422,10 @@
             "team": "det",
             "start": "7:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "101.2",
+            "la": "4",
+            "dist": "90"
         },
         {
             "player": "daniel schneemann",
@@ -2505,6 +2520,21 @@
     ],
     "lad @ nym": [
         {
+            "player": "starling marte",
+            "game": "lad @ nym",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-05-23 19:23:49",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "francisco lindor",
             "game": "lad @ nym",
             "hr/park": "",
@@ -2514,7 +2544,7 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2582,6 +2612,21 @@
     ],
     "sd @ atl": [
         {
+            "player": "jackson merrill",
+            "game": "sd @ atl",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-05-23 19:23:49",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "7:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "manny machado",
             "game": "sd @ atl",
             "hr/park": "",
@@ -2591,7 +2636,7 @@
             "team": "sd",
             "start": "7:15 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "109.9",
             "la": "6",
             "dist": "152"
