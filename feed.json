@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "26",
-        "batters": "139",
-        "pitches": "1035",
+        "batters": "142",
+        "pitches": "1040",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "35.6",
-        "si%sinker %": "12.5",
+        "ff%fourseam fastball %": "35.5",
+        "si%sinker %": "12.4",
         "fc%cutter %": "3.7",
-        "fs%splitter %": "1.7",
+        "fs%splitter %": "1.6",
         "ch%changeup %": "11.1",
-        "sl%slider %": "19.0",
-        "cu%curve %": "10.7",
+        "sl%slider %": "19.3",
+        "cu%curve %": "10.8",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "82",
         "hh%hard hit %": "45.6",
         "brlbarrels": "20",
         "brl%barrel %": "11.1",
-        "ab": "231",
-        "avg": ".281",
+        "ab": "235",
+        "avg": ".277",
         "h": "65",
         "1b": "39",
         "2b": "18",
@@ -28,7 +28,7 @@
         "bipballs in play": "180",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-23 19:47:16.893194"
+        "updated": "2025-05-23 19:47:25.030779"
     },
     "bal @ bos": [
         {
@@ -1906,10 +1906,10 @@
             "team": "mil",
             "start": "6:40 PM",
             "in": "4",
-            "result": "Groundout",
-            "evo": "91.7",
-            "la": "-11",
-            "dist": "9"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "rhys hoskins",
@@ -2328,7 +2328,7 @@
             "team": "sf",
             "start": "6:45 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2785,6 +2785,21 @@
         }
     ],
     "tor @ tb": [
+        {
+            "player": "junior caminero",
+            "game": "tor @ tb",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-05-23 19:47:19",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "yandy diaz",
             "game": "tor @ tb",
@@ -3390,6 +3405,21 @@
     ],
     "lad @ nym": [
         {
+            "player": "michael conforto",
+            "game": "lad @ nym",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-05-23 19:47:19",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyrone taylor",
             "game": "lad @ nym",
             "hr/park": "",
@@ -3601,6 +3631,21 @@
         }
     ],
     "sd @ atl": [
+        {
+            "player": "nick allen",
+            "game": "sd @ atl",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-05-23 19:47:19",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "2",
+            "result": "Lineout",
+            "evo": "82.9",
+            "la": "21",
+            "dist": "261"
+        },
         {
             "player": "michael harris",
             "game": "sd @ atl",
@@ -3843,6 +3888,21 @@
         }
     ],
     "tex @ chw": [
+        {
+            "player": "josh jung",
+            "game": "tex @ chw",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-05-23 19:47:19",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "wyatt langford",
             "game": "tex @ chw",
