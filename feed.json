@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "53",
-        "batters": "151",
-        "pitches": "1905",
+        "batters": "152",
+        "pitches": "1908",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "72.2",
-        "ff%fourseam fastball %": "33.9",
-        "si%sinker %": "11.0",
+        "ff%fourseam fastball %": "34.0",
+        "si%sinker %": "11.1",
         "fc%cutter %": "9.7",
         "fs%splitter %": "6.0",
         "ch%changeup %": "9.5",
         "sl%slider %": "18.6",
         "cu%curve %": "11.2",
         "max evmax exit velocity": "112.2",
-        "hhhard hit": "124",
-        "hh%hard hit %": "38.2",
+        "hhhard hit": "125",
+        "hh%hard hit %": "38.3",
         "brlbarrels": "22",
-        "brl%barrel %": "6.8",
-        "ab": "419",
-        "avg": ".234",
+        "brl%barrel %": "6.7",
+        "ab": "421",
+        "avg": ".233",
         "h": "98",
         "1b": "65",
         "2b": "16",
         "3b": "3",
         "hr": "14",
         "so": "102",
-        "bipballs in play": "325",
+        "bipballs in play": "326",
         "liveGames": 9,
         "totGames": 9,
-        "updated": "2025-05-22 20:31:29.371655"
+        "updated": "2025-05-22 20:31:38.057369"
     },
     "tex @ nyy": [
         {
@@ -4789,7 +4789,7 @@
             "team": "cle",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "71.0",
             "la": "88",
             "dist": "54"
@@ -6315,6 +6315,21 @@
     "bal @ bos": [],
     "atl @ wsh": [
         {
+            "player": "jose tena",
+            "game": "atl @ wsh",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-05-22 20:31:38",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alex call",
             "game": "atl @ wsh",
             "hr/park": "",
@@ -7067,6 +7082,21 @@
     ],
     "sea @ hou": [
         {
+            "player": "ben williamson",
+            "game": "sea @ hou",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-05-22 20:31:38",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "miles mastrobuoni",
             "game": "sea @ hou",
             "hr/park": "",
@@ -7076,10 +7106,10 @@
             "team": "sea",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "102.4",
+            "la": "1",
+            "dist": "55"
         },
         {
             "player": "dylan moore",
