@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "66",
         "batters": "162",
-        "pitches": "2238",
+        "pitches": "2240",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "72.2",
         "ff%fourseam fastball %": "32.1",
-        "si%sinker %": "12.7",
+        "si%sinker %": "12.8",
         "fc%cutter %": "9.3",
         "fs%splitter %": "5.9",
         "ch%changeup %": "9.4",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "37.6",
         "brlbarrels": "26",
         "brl%barrel %": "6.6",
-        "ab": "499",
-        "avg": ".234",
-        "h": "117",
-        "1b": "81",
+        "ab": "500",
+        "avg": ".238",
+        "h": "119",
+        "1b": "83",
         "2b": "18",
         "3b": "4",
         "hr": "14",
@@ -28,7 +28,7 @@
         "bipballs in play": "391",
         "liveGames": 9,
         "totGames": 9,
-        "updated": "2025-05-22 21:43:06.768739"
+        "updated": "2025-05-22 21:43:16.154428"
     },
     "tex @ nyy": [
         {
@@ -6675,6 +6675,21 @@
     "bal @ bos": [],
     "atl @ wsh": [
         {
+            "player": "eli white",
+            "game": "atl @ wsh",
+            "hr/park": "",
+            "pa": "86",
+            "dt": "2025-05-22 21:43:09",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "6:45 PM",
+            "in": "10",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ozzie albies",
             "game": "atl @ wsh",
             "hr/park": "",
@@ -6684,7 +6699,7 @@
             "team": "atl",
             "start": "6:45 PM",
             "in": "10",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "66.3",
             "la": "-44",
             "dist": "1"
@@ -7961,7 +7976,7 @@
             "team": "sea",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "103.2",
             "la": "5",
             "dist": "131"
