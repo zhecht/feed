@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "26",
         "batters": "138",
-        "pitches": "1002",
+        "pitches": "1010",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
         "ff%fourseam fastball %": "35.4",
-        "si%sinker %": "12.9",
+        "si%sinker %": "12.8",
         "fc%cutter %": "3.8",
-        "fs%splitter %": "1.6",
-        "ch%changeup %": "11.0",
+        "fs%splitter %": "1.7",
+        "ch%changeup %": "11.1",
         "sl%slider %": "19.1",
-        "cu%curve %": "10.4",
+        "cu%curve %": "10.3",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "81",
-        "hh%hard hit %": "46.3",
+        "hh%hard hit %": "46.0",
         "brlbarrels": "20",
         "brl%barrel %": "11.4",
-        "ab": "225",
-        "avg": ".284",
+        "ab": "227",
+        "avg": ".282",
         "h": "64",
         "1b": "38",
         "2b": "18",
         "3b": "2",
         "hr": "6",
-        "so": "49",
-        "bipballs in play": "175",
+        "so": "50",
+        "bipballs in play": "176",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-23 19:45:13.877294"
+        "updated": "2025-05-23 19:45:21.884010"
     },
     "bal @ bos": [
         {
@@ -1485,9 +1485,9 @@
             "start": "6:40 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "84.8",
+            "la": "3",
+            "dist": "78"
         },
         {
             "player": "jose trevino",
@@ -1881,6 +1881,21 @@
         }
     ],
     "mil @ pit": [
+        {
+            "player": "sal frelick",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-05-23 19:45:20",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "rhys hoskins",
             "game": "mil @ pit",
@@ -3028,6 +3043,21 @@
     ],
     "cle @ det": [
         {
+            "player": "kyle manzardo",
+            "game": "cle @ det",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-05-23 19:45:20",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose ramirez",
             "game": "cle @ det",
             "hr/park": "",
@@ -3536,7 +3566,7 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
