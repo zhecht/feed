@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "18",
-        "batters": "54",
-        "pitches": "520",
+        "batters": "56",
+        "pitches": "521",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "28.5",
-        "si%sinker %": "18.3",
-        "fc%cutter %": "4.0",
+        "ff%fourseam fastball %": "28.6",
+        "si%sinker %": "18.2",
+        "fc%cutter %": "3.8",
         "fs%splitter %": "1.0",
-        "ch%changeup %": "9.8",
-        "sl%slider %": "18.8",
+        "ch%changeup %": "9.6",
+        "sl%slider %": "19.2",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "108.9",
         "hhhard hit": "46",
         "hh%hard hit %": "48.9",
         "brlbarrels": "8",
         "brl%barrel %": "8.5",
-        "ab": "117",
-        "avg": ".359",
+        "ab": "119",
+        "avg": ".353",
         "h": "42",
         "1b": "28",
         "2b": "11",
@@ -28,7 +28,7 @@
         "bipballs in play": "94",
         "liveGames": 5,
         "totGames": 16,
-        "updated": "2025-05-23 19:07:17.209581"
+        "updated": "2025-05-23 19:07:24.945142"
     },
     "bal @ bos": [
         {
@@ -1642,6 +1642,21 @@
     ],
     "mil @ pit": [
         {
+            "player": "jake bauers",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-05-23 19:07:20",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "6:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "caleb durbin",
             "game": "mil @ pit",
             "hr/park": "",
@@ -1976,16 +1991,31 @@
     ],
     "tor @ tb": [
         {
-            "player": "vladimir guerrero",
+            "player": "daulton varsho",
             "game": "tor @ tb",
             "hr/park": "",
+            "pa": "3",
+            "dt": "2025-05-23 19:07:20",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "vladimir guerrero",
+            "game": "tor @ tb",
+            "hr/park": "0/30",
             "pa": "2",
             "dt": "2025-05-23 19:06:50",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "start": "7:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "98.9",
             "la": "24",
             "dist": "342"
