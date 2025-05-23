@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "21",
-        "batters": "70",
-        "pitches": "580",
+        "batters": "73",
+        "pitches": "588",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "30.5",
-        "si%sinker %": "17.4",
+        "ff%fourseam fastball %": "31.1",
+        "si%sinker %": "17.2",
         "fc%cutter %": "4.1",
         "fs%splitter %": "0.9",
         "ch%changeup %": "10.2",
-        "sl%slider %": "18.1",
-        "cu%curve %": "8.6",
+        "sl%slider %": "18.0",
+        "cu%curve %": "8.5",
         "max evmax exit velocity": "108.9",
-        "hhhard hit": "50",
+        "hhhard hit": "51",
         "hh%hard hit %": "48.1",
         "brlbarrels": "10",
-        "brl%barrel %": "9.6",
-        "ab": "133",
-        "avg": ".331",
+        "brl%barrel %": "9.4",
+        "ab": "136",
+        "avg": ".324",
         "h": "44",
         "1b": "28",
         "2b": "13",
         "3b": "0",
         "hr": "3",
         "so": "28",
-        "bipballs in play": "104",
+        "bipballs in play": "106",
         "liveGames": 8,
         "totGames": 16,
-        "updated": "2025-05-23 19:14:00.732542"
+        "updated": "2025-05-23 19:14:08.339128"
     },
     "bal @ bos": [
         {
@@ -1687,6 +1687,21 @@
     ],
     "mil @ pit": [
         {
+            "player": "adam frazier",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-05-23 19:14:05",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kebryan hayes",
             "game": "mil @ pit",
             "hr/park": "0/30",
@@ -1898,6 +1913,21 @@
         }
     ],
     "sf @ wsh": [
+        {
+            "player": "patrick bailey",
+            "game": "sf @ wsh",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-05-23 19:14:05",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "6:45 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "robert hassell",
             "game": "sf @ wsh",
@@ -2121,9 +2151,9 @@
             "start": "7:05 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "96.5",
+            "la": "5",
+            "dist": "101"
         },
         {
             "player": "yandy diaz",
@@ -2188,6 +2218,21 @@
     ],
     "cle @ det": [
         {
+            "player": "jose ramirez",
+            "game": "cle @ det",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-05-23 19:14:05",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "angel martinez",
             "game": "cle @ det",
             "hr/park": "",
@@ -2197,10 +2242,10 @@
             "team": "cle",
             "start": "7:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "85.9",
+            "la": "58",
+            "dist": "214"
         },
         {
             "player": "steven kwan",
