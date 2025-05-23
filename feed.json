@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "25",
-        "batters": "116",
-        "pitches": "843",
+        "batters": "118",
+        "pitches": "848",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "34.9",
-        "si%sinker %": "14.0",
-        "fc%cutter %": "4.2",
+        "ff%fourseam fastball %": "34.8",
+        "si%sinker %": "13.9",
+        "fc%cutter %": "4.1",
         "fs%splitter %": "1.1",
-        "ch%changeup %": "10.1",
-        "sl%slider %": "19.1",
+        "ch%changeup %": "10.3",
+        "sl%slider %": "19.2",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "72",
+        "hhhard hit": "73",
         "hh%hard hit %": "48.3",
         "brlbarrels": "17",
-        "brl%barrel %": "11.4",
-        "ab": "189",
-        "avg": ".312",
+        "brl%barrel %": "11.3",
+        "ab": "192",
+        "avg": ".307",
         "h": "59",
         "1b": "36",
         "2b": "17",
         "3b": "1",
         "hr": "5",
         "so": "42",
-        "bipballs in play": "149",
+        "bipballs in play": "151",
         "liveGames": 9,
         "totGames": 16,
-        "updated": "2025-05-23 19:34:12.784915"
+        "updated": "2025-05-23 19:34:20.652868"
     },
     "bal @ bos": [
         {
@@ -1807,6 +1807,21 @@
     ],
     "mil @ pit": [
         {
+            "player": "andrew mccutchen",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-05-23 19:34:20",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "87.1",
+            "la": "-13",
+            "dist": "11"
+        },
+        {
             "player": "oneil cruz",
             "game": "mil @ pit",
             "hr/park": "30/30",
@@ -2133,7 +2148,7 @@
             "team": "sf",
             "start": "6:45 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout Double Play",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2485,6 +2500,21 @@
         }
     ],
     "tor @ tb": [
+        {
+            "player": "curtis mead",
+            "game": "tor @ tb",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-05-23 19:34:20",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "96.4",
+            "la": "35",
+            "dist": "367"
+        },
         {
             "player": "jose caballero",
             "game": "tor @ tb",
@@ -2880,6 +2910,21 @@
     ],
     "lad @ nym": [
         {
+            "player": "teoscar hernandez",
+            "game": "lad @ nym",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-05-23 19:34:20",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "7:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "will smith",
             "game": "lad @ nym",
             "hr/park": "4/30",
@@ -3011,7 +3056,7 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
