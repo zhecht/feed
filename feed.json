@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "27",
         "batters": "148",
-        "pitches": "1145",
+        "pitches": "1155",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "36.2",
-        "si%sinker %": "11.5",
+        "ff%fourseam fastball %": "36.3",
+        "si%sinker %": "11.6",
         "fc%cutter %": "3.7",
         "fs%splitter %": "1.7",
-        "ch%changeup %": "11.2",
-        "sl%slider %": "19.8",
-        "cu%curve %": "10.7",
+        "ch%changeup %": "11.1",
+        "sl%slider %": "19.9",
+        "cu%curve %": "10.6",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "93",
+        "hhhard hit": "94",
         "hh%hard hit %": "45.4",
         "brlbarrels": "22",
-        "brl%barrel %": "10.7",
-        "ab": "258",
+        "brl%barrel %": "10.6",
+        "ab": "262",
         "avg": ".279",
-        "h": "72",
-        "1b": "41",
+        "h": "73",
+        "1b": "42",
         "2b": "21",
         "3b": "2",
         "hr": "8",
         "so": "54",
-        "bipballs in play": "205",
+        "bipballs in play": "207",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-23 19:55:03.376796"
+        "updated": "2025-05-23 19:55:11.662104"
     },
     "bal @ bos": [
         {
@@ -1475,6 +1475,21 @@
     "bal-gm2 @ bos-gm2": [],
     "chc @ cin": [
         {
+            "player": "michael busch",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-05-23 19:55:06",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "carson kelly",
             "game": "chc @ cin",
             "hr/park": "",
@@ -1484,10 +1499,10 @@
             "team": "chc",
             "start": "6:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "73.5",
+            "la": "5",
+            "dist": "69"
         },
         {
             "player": "pete crow armstrong",
@@ -1956,6 +1971,21 @@
         }
     ],
     "mil @ pit": [
+        {
+            "player": "caleb durbin",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-05-23 19:55:06",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "adam frazier",
             "game": "mil @ pit",
@@ -2950,6 +2980,21 @@
         }
     ],
     "tor @ tb": [
+        {
+            "player": "josh lowe",
+            "game": "tor @ tb",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-05-23 19:55:06",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "96.3",
+            "la": "43",
+            "dist": "292"
+        },
         {
             "player": "danny jansen",
             "game": "tor @ tb",
@@ -3947,6 +3992,21 @@
     ],
     "sd @ atl": [
         {
+            "player": "austin riley",
+            "game": "sd @ atl",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-05-23 19:54:20",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ronald acuna",
             "game": "sd @ atl",
             "hr/park": "",
@@ -3956,7 +4016,7 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "3",
-            "result": "Groundout",
+            "result": "Single",
             "evo": "108.4",
             "la": "-11",
             "dist": "10"
