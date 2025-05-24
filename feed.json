@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "34",
-        "batters": "172",
-        "pitches": "1542",
+        "pitchers": "35",
+        "batters": "174",
+        "pitches": "1546",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
         "ff%fourseam fastball %": "36.8",
@@ -10,25 +10,25 @@
         "fc%cutter %": "4.0",
         "fs%splitter %": "1.9",
         "ch%changeup %": "10.2",
-        "sl%slider %": "20.7",
+        "sl%slider %": "20.8",
         "cu%curve %": "11.4",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "111",
-        "hh%hard hit %": "41.4",
+        "hhhard hit": "112",
+        "hh%hard hit %": "41.6",
         "brlbarrels": "25",
         "brl%barrel %": "9.3",
-        "ab": "341",
-        "avg": ".249",
+        "ab": "343",
+        "avg": ".248",
         "h": "85",
         "1b": "52",
         "2b": "22",
         "3b": "2",
         "hr": "9",
         "so": "74",
-        "bipballs in play": "268",
+        "bipballs in play": "269",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-05-23 20:21:49.724637"
+        "updated": "2025-05-23 20:21:58.322892"
     },
     "bal @ bos": [
         {
@@ -4012,10 +4012,10 @@
             "team": "cle",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "98.0",
+            "la": "-19",
+            "dist": "6"
         },
         {
             "player": "akil baddoo",
@@ -5361,7 +5361,7 @@
         {
             "player": "josh smith",
             "game": "tex @ chw",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "18",
             "dt": "2025-05-23 20:20:51",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
@@ -5631,16 +5631,31 @@
     ],
     "sea @ hou": [
         {
-            "player": "isaac paredes",
+            "player": "jose altuve",
             "game": "sea @ hou",
             "hr/park": "",
+            "pa": "6",
+            "dt": "2025-05-23 20:21:52",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "isaac paredes",
+            "game": "sea @ hou",
+            "hr/park": "0/30",
             "pa": "5",
             "dt": "2025-05-23 20:21:35",
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
             "team": "hou",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "93.5",
             "la": "37",
             "dist": "319"
@@ -5799,6 +5814,21 @@
         }
     ],
     "ari @ stl": [
+        {
+            "player": "lars nootbaar",
+            "game": "ari @ stl",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-05-23 20:21:52",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "lourdes gurriel",
             "game": "ari @ stl",
