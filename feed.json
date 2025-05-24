@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "27",
-        "batters": "68",
-        "pitches": "756",
+        "pitchers": "28",
+        "batters": "69",
+        "pitches": "766",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "73.8",
-        "ff%fourseam fastball %": "31.5",
+        "ff%fourseam fastball %": "31.6",
         "si%sinker %": "10.3",
-        "fc%cutter %": "15.9",
+        "fc%cutter %": "15.7",
         "fs%splitter %": "0.3",
-        "ch%changeup %": "12.6",
-        "sl%slider %": "21.4",
-        "cu%curve %": "8.1",
+        "ch%changeup %": "12.7",
+        "sl%slider %": "21.5",
+        "cu%curve %": "8.0",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "52",
-        "hh%hard hit %": "34.9",
+        "hh%hard hit %": "34.4",
         "brlbarrels": "10",
-        "brl%barrel %": "6.7",
-        "ab": "187",
-        "avg": ".251",
+        "brl%barrel %": "6.6",
+        "ab": "188",
+        "avg": ".250",
         "h": "47",
         "1b": "32",
         "2b": "9",
         "3b": "0",
         "hr": "6",
-        "so": "40",
-        "bipballs in play": "149",
+        "so": "41",
+        "bipballs in play": "151",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-24 16:12:47.896486"
+        "updated": "2025-05-24 16:12:55.830905"
     },
     "bal @ bos": [
         {
@@ -2913,7 +2913,7 @@
             "team": "wsh",
             "start": "4:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3011,7 +3011,23 @@
             "dist": "53"
         }
     ],
-    "chc @ cin": [],
+    "chc @ cin": [
+        {
+            "player": "ian happ",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-24 16:12:50",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "sea @ hou": [],
     "sd @ atl": [
         {
@@ -3024,10 +3040,10 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "83.7",
+            "la": "28",
+            "dist": "280"
         },
         {
             "player": "fernando tatis",
@@ -3056,7 +3072,7 @@
             "team": "tex",
             "start": "4:10 PM",
             "in": "1",
-            "result": "Stolen Base 2B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3088,10 +3104,10 @@
             "team": "nyy",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "88.6",
+            "la": "-17",
+            "dist": "7"
         },
         {
             "player": "paul goldschmidt",
