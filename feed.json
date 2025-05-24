@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "52",
         "batters": "185",
-        "pitches": "2080",
+        "pitches": "2087",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "73.2",
         "ff%fourseam fastball %": "31.3",
@@ -14,21 +14,21 @@
         "cu%curve %": "11.1",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "160",
-        "hh%hard hit %": "39.4",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "30",
         "brl%barrel %": "7.4",
-        "ab": "511",
-        "avg": ".276",
+        "ab": "513",
+        "avg": ".275",
         "h": "141",
         "1b": "101",
         "2b": "25",
         "3b": "3",
         "hr": "12",
         "so": "117",
-        "bipballs in play": "406",
+        "bipballs in play": "408",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-24 17:42:46.464979"
+        "updated": "2025-05-24 17:42:55.943605"
     },
     "bal @ bos": [
         {
@@ -3579,21 +3579,6 @@
     ],
     "sf @ wsh": [
         {
-            "player": "mike yastrzemski",
-            "game": "sf @ wsh",
-            "hr/park": "",
-            "pa": "56",
-            "dt": "2025-05-24 17:42:36",
-            "img": "https://www.mlbstatic.com/team-logos/137.svg",
-            "team": "sf",
-            "start": "4:05 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "tyler fitzgerald",
             "game": "sf @ wsh",
             "hr/park": "",
@@ -4421,6 +4406,21 @@
     ],
     "mil @ pit": [
         {
+            "player": "caleb durbin",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-05-24 17:42:52",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "4:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "sal frelick",
             "game": "mil @ pit",
             "hr/park": "",
@@ -5158,6 +5158,21 @@
     ],
     "chc @ cin": [
         {
+            "player": "gavin lux",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-05-24 17:42:52",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "austin hays",
             "game": "chc @ cin",
             "hr/park": "",
@@ -5775,6 +5790,21 @@
     ],
     "sea @ hou": [
         {
+            "player": "victor caratini",
+            "game": "sea @ hou",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-05-24 17:42:52",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "christian walker",
             "game": "sea @ hou",
             "hr/park": "",
@@ -5784,10 +5814,10 @@
             "team": "hou",
             "start": "4:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "81.8",
+            "la": "3",
+            "dist": "66"
         },
         {
             "player": "julio rodriguez",
