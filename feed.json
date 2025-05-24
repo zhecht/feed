@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "78",
         "batters": "243",
-        "pitches": "2976",
+        "pitches": "2983",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "36.1",
+        "ff%fourseam fastball %": "36.2",
         "si%sinker %": "10.3",
-        "fc%cutter %": "7.0",
+        "fc%cutter %": "6.9",
         "fs%splitter %": "1.8",
         "ch%changeup %": "10.7",
         "sl%slider %": "22.7",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "196",
-        "hh%hard hit %": "38.3",
+        "hh%hard hit %": "38.1",
         "brlbarrels": "42",
         "brl%barrel %": "8.2",
-        "ab": "672",
+        "ab": "673",
         "avg": ".247",
         "h": "166",
         "1b": "106",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "18",
         "so": "159",
-        "bipballs in play": "512",
+        "bipballs in play": "514",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-05-23 21:38:56.006245"
+        "updated": "2025-05-23 21:39:06.597769"
     },
     "bal @ bos": [
         {
@@ -1484,7 +1484,7 @@
             "team": "chc",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8263,10 +8263,10 @@
             "team": "tex",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "91.8",
+            "la": "37",
+            "dist": "299"
         },
         {
             "player": "jonah heim",
@@ -9051,16 +9051,31 @@
     ],
     "sea @ hou": [
         {
-            "player": "jeremy pena",
+            "player": "isaac paredes",
             "game": "sea @ hou",
             "hr/park": "",
+            "pa": "41",
+            "dt": "2025-05-23 21:39:06",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jeremy pena",
+            "game": "sea @ hou",
+            "hr/park": "0/30",
             "pa": "40",
             "dt": "2025-05-23 21:37:51",
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
             "team": "hou",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "91.3",
             "la": "39",
             "dist": "311"
@@ -9662,10 +9677,10 @@
             "team": "kc",
             "start": "8:10 PM",
             "in": "6",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "77.6",
+            "la": "82",
+            "dist": "17"
         },
         {
             "player": "michael massey",
@@ -10946,6 +10961,21 @@
         }
     ],
     "nyy @ col": [
+        {
+            "player": "anthony volpe",
+            "game": "nyy @ col",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-05-23 21:39:06",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "8:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jasson dominguez",
             "game": "nyy @ col",
