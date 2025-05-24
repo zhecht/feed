@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "39",
-        "batters": "111",
-        "pitches": "978",
+        "pitchers": "40",
+        "batters": "113",
+        "pitches": "988",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "73.8",
-        "ff%fourseam fastball %": "31.6",
-        "si%sinker %": "13.8",
-        "fc%cutter %": "12.8",
-        "fs%splitter %": "0.7",
-        "ch%changeup %": "11.8",
+        "ff%fourseam fastball %": "31.4",
+        "si%sinker %": "14.1",
+        "fc%cutter %": "12.7",
+        "fs%splitter %": "0.9",
+        "ch%changeup %": "11.7",
         "sl%slider %": "21.1",
-        "cu%curve %": "8.3",
+        "cu%curve %": "8.2",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "74",
-        "hh%hard hit %": "38.1",
-        "brlbarrels": "14",
-        "brl%barrel %": "7.2",
-        "ab": "242",
-        "avg": ".269",
-        "h": "65",
-        "1b": "41",
+        "hhhard hit": "76",
+        "hh%hard hit %": "38.6",
+        "brlbarrels": "15",
+        "brl%barrel %": "7.6",
+        "ab": "246",
+        "avg": ".272",
+        "h": "67",
+        "1b": "43",
         "2b": "15",
         "3b": "1",
         "hr": "8",
         "so": "54",
-        "bipballs in play": "194",
+        "bipballs in play": "197",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-24 16:24:46.231336"
+        "updated": "2025-05-24 16:24:54.392725"
     },
     "bal @ bos": [
         {
@@ -1145,6 +1145,21 @@
     "bal-gm2 @ bos-gm2": [],
     "kc @ min": [
         {
+            "player": "royce lewis",
+            "game": "kc @ min",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-05-24 16:24:51",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "101.6",
+            "la": "27",
+            "dist": "393"
+        },
+        {
             "player": "brooks lee",
             "game": "kc @ min",
             "hr/park": "",
@@ -1154,10 +1169,10 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "103.6",
+            "la": "6",
+            "dist": "107"
         },
         {
             "player": "jonathan india",
@@ -2151,6 +2166,21 @@
         }
     ],
     "ari @ stl": [
+        {
+            "player": "brendan donovan",
+            "game": "ari @ stl",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-05-24 16:24:21",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "2:15 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "tim tawa",
             "game": "ari @ stl",
@@ -3281,6 +3311,21 @@
     ],
     "mil @ pit": [
         {
+            "player": "rhys hoskins",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-05-24 16:24:51",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "christian yelich",
             "game": "mil @ pit",
             "hr/park": "",
@@ -3290,7 +3335,7 @@
             "team": "mil",
             "start": "4:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "71.9",
             "la": "-8",
             "dist": "18"
@@ -3495,9 +3540,24 @@
     ],
     "sea @ hou": [
         {
-            "player": "isaac paredes",
+            "player": "jose altuve",
             "game": "sea @ hou",
             "hr/park": "",
+            "pa": "6",
+            "dt": "2025-05-24 16:24:51",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "55.8",
+            "la": "-45",
+            "dist": "5"
+        },
+        {
+            "player": "isaac paredes",
+            "game": "sea @ hou",
+            "hr/park": "0/30",
             "pa": "5",
             "dt": "2025-05-24 16:22:36",
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
