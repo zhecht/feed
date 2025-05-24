@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "89",
         "batters": "255",
-        "pitches": "3259",
+        "pitches": "3263",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "70.6",
         "ff%fourseam fastball %": "32.6",
         "si%sinker %": "16.2",
-        "fc%cutter %": "7.5",
+        "fc%cutter %": "7.4",
         "fs%splitter %": "2.7",
-        "ch%changeup %": "9.9",
+        "ch%changeup %": "10.0",
         "sl%slider %": "21.5",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "114.3",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "38.1",
         "brlbarrels": "48",
         "brl%barrel %": "7.7",
-        "ab": "788",
-        "avg": ".263",
+        "ab": "789",
+        "avg": ".262",
         "h": "207",
         "1b": "144",
         "2b": "39",
         "3b": "6",
         "hr": "18",
         "so": "186",
-        "bipballs in play": "624",
+        "bipballs in play": "625",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-24 19:57:56.788938"
+        "updated": "2025-05-24 19:58:07.851273"
     },
     "bal @ bos": [
         {
@@ -1219,9 +1219,24 @@
     ],
     "bal-gm2 @ bos-gm2": [
         {
-            "player": "connor wong",
+            "player": "ceddanne rafaela",
             "game": "bal-gm2 @ bos-gm2",
             "hr/park": "",
+            "pa": "40",
+            "dt": "2025-05-24 19:58:07",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "6:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "connor wong",
+            "game": "bal-gm2 @ bos-gm2",
+            "hr/park": "0/30",
             "pa": "39",
             "dt": "2025-05-24 19:57:38",
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
@@ -12114,6 +12129,21 @@
     ],
     "tor @ tb": [
         {
+            "player": "anthony santander",
+            "game": "tor @ tb",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-05-24 19:58:07",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alejandro kirk",
             "game": "tor @ tb",
             "hr/park": "",
@@ -12515,7 +12545,7 @@
             "team": "cle",
             "start": "7:15 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12832,10 +12862,10 @@
             "team": "lad",
             "start": "7:15 PM",
             "in": "3",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "79.7",
+            "la": "29",
+            "dist": "290"
         },
         {
             "player": "francisco lindor",
