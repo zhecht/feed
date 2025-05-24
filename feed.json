@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "106",
-        "batters": "279",
-        "pitches": "3661",
+        "pitchers": "107",
+        "batters": "280",
+        "pitches": "3665",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
         "ff%fourseam fastball %": "35.7",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.1",
         "fs%splitter %": "1.7",
         "ch%changeup %": "10.5",
-        "sl%slider %": "22.4",
+        "sl%slider %": "22.5",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "242",
         "hh%hard hit %": "38.1",
         "brlbarrels": "58",
         "brl%barrel %": "9.1",
-        "ab": "823",
-        "avg": ".249",
+        "ab": "825",
+        "avg": ".248",
         "h": "205",
         "1b": "132",
         "2b": "42",
         "3b": "5",
         "hr": "26",
-        "so": "191",
+        "so": "192",
         "bipballs in play": "636",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-05-23 22:20:25.271153"
+        "updated": "2025-05-23 22:20:37.755129"
     },
     "bal @ bos": [
         {
@@ -2836,7 +2836,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "10",
-            "result": "Wild Pitch",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10041,6 +10041,21 @@
     ],
     "sea @ hou": [
         {
+            "player": "isaac paredes",
+            "game": "sea @ hou",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-05-23 22:20:35",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "randy arozarena",
             "game": "sea @ hou",
             "hr/park": "0/30",
@@ -10068,7 +10083,7 @@
             "result": "Home Run",
             "evo": "111.8",
             "la": "41",
-            "dist": "370"
+            "dist": "369"
         },
         {
             "player": "julio rodriguez",
@@ -13816,6 +13831,21 @@
     ],
     "phi @ ath": [
         {
+            "player": "tyler soderstrom",
+            "game": "phi @ ath",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-05-23 22:20:35",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jacob wilson",
             "game": "phi @ ath",
             "hr/park": "",
@@ -13825,7 +13855,7 @@
             "team": "ath",
             "start": "10:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
