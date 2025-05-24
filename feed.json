@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "89",
-        "batters": "227",
-        "pitches": "3066",
+        "batters": "228",
+        "pitches": "3069",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "70.6",
-        "ff%fourseam fastball %": "31.6",
-        "si%sinker %": "17.1",
+        "ff%fourseam fastball %": "32.1",
+        "si%sinker %": "16.6",
         "fc%cutter %": "7.8",
         "fs%splitter %": "2.4",
         "ch%changeup %": "9.8",
         "sl%slider %": "21.6",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "114.3",
-        "hhhard hit": "223",
-        "hh%hard hit %": "38.3",
+        "hhhard hit": "224",
+        "hh%hard hit %": "38.4",
         "brlbarrels": "45",
         "brl%barrel %": "7.7",
         "ab": "740",
@@ -25,10 +25,10 @@
         "3b": "6",
         "hr": "17",
         "so": "176",
-        "bipballs in play": "583",
+        "bipballs in play": "584",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-24 19:31:34.626755"
+        "updated": "2025-05-24 19:31:45.213903"
     },
     "bal @ bos": [
         {
@@ -1228,10 +1228,10 @@
             "team": "bos",
             "start": "6:35 PM",
             "in": "4",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "In Progress",
+            "evo": "106.2",
+            "la": "-6",
+            "dist": "20"
         },
         {
             "player": "heston kjerstad",
@@ -11934,6 +11934,21 @@
     ],
     "tor @ tb": [
         {
+            "player": "anthony santander",
+            "game": "tor @ tb",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-05-24 19:31:38",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alejandro kirk",
             "game": "tor @ tb",
             "hr/park": "",
@@ -11943,7 +11958,7 @@
             "team": "tor",
             "start": "7:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
