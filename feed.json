@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "58",
         "batters": "230",
-        "pitches": "2492",
+        "pitches": "2497",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "36.4",
+        "ff%fourseam fastball %": "36.5",
         "si%sinker %": "10.3",
         "fc%cutter %": "6.1",
         "fs%splitter %": "2.0",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "40.4",
         "brlbarrels": "37",
         "brl%barrel %": "8.6",
-        "ab": "555",
-        "avg": ".252",
+        "ab": "558",
+        "avg": ".251",
         "h": "140",
         "1b": "88",
         "2b": "34",
@@ -28,7 +28,7 @@
         "bipballs in play": "428",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-23 21:11:47.662796"
+        "updated": "2025-05-23 21:11:57.492849"
     },
     "bal @ bos": [
         {
@@ -3423,7 +3423,7 @@
             "team": "sf",
             "start": "6:45 PM",
             "in": "9",
-            "result": "Pickoff Caught Stealing 2B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4435,6 +4435,21 @@
         }
     ],
     "tor @ tb": [
+        {
+            "player": "brandon lowe",
+            "game": "tor @ tb",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-05-23 21:11:50",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "junior caminero",
             "game": "tor @ tb",
@@ -7911,6 +7926,21 @@
     ],
     "sea @ hou": [
         {
+            "player": "leody taveras",
+            "game": "sea @ hou",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-05-23 21:11:50",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "rowdy tellez",
             "game": "sea @ hou",
             "hr/park": "",
@@ -8333,16 +8363,31 @@
     ],
     "kc @ min": [
         {
-            "player": "carlos correa",
+            "player": "ty france",
             "game": "kc @ min",
             "hr/park": "",
+            "pa": "33",
+            "dt": "2025-05-23 21:11:50",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "carlos correa",
+            "game": "kc @ min",
+            "hr/park": "2/30",
             "pa": "32",
             "dt": "2025-05-23 21:10:50",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "99.9",
             "la": "34",
             "dist": "360"
@@ -8824,7 +8869,7 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
