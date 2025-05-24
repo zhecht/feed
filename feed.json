@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "79",
         "batters": "247",
-        "pitches": "3058",
+        "pitches": "3062",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "36.4",
+        "ff%fourseam fastball %": "36.3",
         "si%sinker %": "10.4",
         "fc%cutter %": "6.8",
         "fs%splitter %": "1.7",
-        "ch%changeup %": "10.7",
+        "ch%changeup %": "10.8",
         "sl%slider %": "22.5",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "205",
-        "hh%hard hit %": "38.8",
+        "hhhard hit": "206",
+        "hh%hard hit %": "38.9",
         "brlbarrels": "44",
         "brl%barrel %": "8.3",
-        "ab": "688",
-        "avg": ".251",
-        "h": "173",
-        "1b": "112",
+        "ab": "690",
+        "avg": ".252",
+        "h": "174",
+        "1b": "113",
         "2b": "38",
         "3b": "4",
         "hr": "19",
         "so": "161",
-        "bipballs in play": "528",
+        "bipballs in play": "530",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-05-23 21:43:27.932551"
+        "updated": "2025-05-23 21:43:38.496324"
     },
     "bal @ bos": [
         {
@@ -2641,7 +2641,7 @@
             "team": "mil",
             "start": "6:40 PM",
             "in": "9",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7361,10 +7361,10 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "96.4",
+            "la": "15",
+            "dist": "251"
         },
         {
             "player": "sean murphy",
@@ -9833,6 +9833,21 @@
     ],
     "kc @ min": [
         {
+            "player": "carlos correa",
+            "game": "kc @ min",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-05-23 21:43:36",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trevor larnach",
             "game": "kc @ min",
             "hr/park": "",
@@ -10564,7 +10579,7 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11187,6 +11202,21 @@
     ],
     "nyy @ col": [
         {
+            "player": "dj lemahieu",
+            "game": "nyy @ col",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-05-23 21:43:36",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "8:40 PM",
+            "in": "4",
+            "result": "Groundout",
+            "evo": "94.5",
+            "la": "-21",
+            "dist": "8"
+        },
+        {
             "player": "austin wells",
             "game": "nyy @ col",
             "hr/park": "",
@@ -11196,7 +11226,7 @@
             "team": "nyy",
             "start": "8:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "101.0",
             "la": "6",
             "dist": "121"
