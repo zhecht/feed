@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "41",
-        "batters": "132",
-        "pitches": "1090",
+        "batters": "134",
+        "pitches": "1095",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "73.8",
         "ff%fourseam fastball %": "32.1",
         "si%sinker %": "14.9",
         "fc%cutter %": "11.7",
-        "fs%splitter %": "1.1",
+        "fs%splitter %": "1.2",
         "ch%changeup %": "11.1",
         "sl%slider %": "20.8",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "82",
-        "hh%hard hit %": "38.3",
+        "hh%hard hit %": "38.1",
         "brlbarrels": "16",
-        "brl%barrel %": "7.5",
-        "ab": "269",
-        "avg": ".279",
+        "brl%barrel %": "7.4",
+        "ab": "271",
+        "avg": ".277",
         "h": "75",
         "1b": "48",
         "2b": "17",
         "3b": "1",
         "hr": "9",
         "so": "61",
-        "bipballs in play": "214",
+        "bipballs in play": "215",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-24 16:30:35.246126"
+        "updated": "2025-05-24 16:30:43.632244"
     },
     "bal @ bos": [
         {
@@ -41,7 +41,7 @@
             "team": "bal",
             "start": "1:05 PM",
             "in": "10",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3750,6 +3750,21 @@
     ],
     "sea @ hou": [
         {
+            "player": "cam smith",
+            "game": "sea @ hou",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-05-24 16:30:38",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "90.2",
+            "la": "-5",
+            "dist": "24"
+        },
+        {
             "player": "jake meyers",
             "game": "sea @ hou",
             "hr/park": "",
@@ -4083,6 +4098,21 @@
         }
     ],
     "tex @ chw": [
+        {
+            "player": "jonah heim",
+            "game": "tex @ chw",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-05-24 16:30:38",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "andrew benintendi",
             "game": "tex @ chw",
