@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "13",
         "batters": "55",
-        "pitches": "581",
+        "pitches": "585",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "73.8",
-        "ff%fourseam fastball %": "29.1",
-        "si%sinker %": "9.5",
-        "fc%cutter %": "16.4",
+        "ff%fourseam fastball %": "29.2",
+        "si%sinker %": "9.6",
+        "fc%cutter %": "16.2",
         "fs%splitter %": "0.3",
-        "ch%changeup %": "13.1",
+        "ch%changeup %": "13.0",
         "sl%slider %": "23.2",
         "cu%curve %": "8.4",
         "max evmax exit velocity": "110.7",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "34.8",
         "brlbarrels": "9",
         "brl%barrel %": "7.8",
-        "ab": "143",
-        "avg": ".252",
+        "ab": "145",
+        "avg": ".248",
         "h": "36",
         "1b": "24",
         "2b": "7",
@@ -28,9 +28,24 @@
         "bipballs in play": "115",
         "liveGames": 3,
         "totGames": 16,
-        "updated": "2025-05-24 15:45:16.080789"
+        "updated": "2025-05-24 15:45:23.782974"
     },
     "bal @ bos": [
+        {
+            "player": "ceddanne rafaela",
+            "game": "bal @ bos",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-05-24 15:45:21",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kristian campbell",
             "game": "bal @ bos",
@@ -890,6 +905,21 @@
     "bal-gm2 @ bos-gm2": [],
     "kc @ min": [
         {
+            "player": "jonathan india",
+            "game": "kc @ min",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-05-24 15:45:21",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "freddy fermin",
             "game": "kc @ min",
             "hr/park": "",
@@ -1636,7 +1666,7 @@
             "team": "ari",
             "start": "2:15 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Bunt Groundout",
             "evo": "57.1",
             "la": "-72",
             "dist": "3"
