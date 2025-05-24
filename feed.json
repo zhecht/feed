@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "50",
         "batters": "185",
-        "pitches": "2036",
+        "pitches": "2044",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "73.7",
-        "ff%fourseam fastball %": "31.4",
+        "ff%fourseam fastball %": "31.3",
         "si%sinker %": "16.0",
         "fc%cutter %": "9.0",
         "fs%splitter %": "1.4",
         "ch%changeup %": "10.3",
-        "sl%slider %": "20.9",
+        "sl%slider %": "21.0",
         "cu%curve %": "11.0",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "157",
-        "hh%hard hit %": "39.6",
+        "hh%hard hit %": "39.5",
         "brlbarrels": "30",
         "brl%barrel %": "7.6",
-        "ab": "498",
-        "avg": ".277",
+        "ab": "500",
+        "avg": ".276",
         "h": "138",
         "1b": "99",
         "2b": "24",
         "3b": "3",
         "hr": "12",
-        "so": "114",
-        "bipballs in play": "396",
+        "so": "115",
+        "bipballs in play": "397",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-24 17:38:19.685492"
+        "updated": "2025-05-24 17:38:29.171312"
     },
     "bal @ bos": [
         {
@@ -3588,10 +3588,10 @@
             "team": "wsh",
             "start": "4:05 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "65.4",
+            "la": "-43",
+            "dist": "3"
         },
         {
             "player": "robert hassell",
@@ -4375,6 +4375,36 @@
         }
     ],
     "mil @ pit": [
+        {
+            "player": "kebryan hayes",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-05-24 17:38:22",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "4:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "alexander canario",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-05-24 17:37:20",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "4:05 PM",
+            "in": "6",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "spencer horwitz",
             "game": "mil @ pit",
@@ -5694,7 +5724,7 @@
             "team": "sea",
             "start": "4:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
