@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "52",
+        "pitchers": "53",
         "batters": "224",
-        "pitches": "2187",
+        "pitches": "2197",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
         "ff%fourseam fastball %": "36.9",
-        "si%sinker %": "10.3",
+        "si%sinker %": "10.2",
         "fc%cutter %": "5.6",
         "fs%splitter %": "2.1",
         "ch%changeup %": "10.2",
@@ -14,21 +14,21 @@
         "cu%curve %": "10.6",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "154",
-        "hh%hard hit %": "41.1",
+        "hh%hard hit %": "41.0",
         "brlbarrels": "34",
-        "brl%barrel %": "9.1",
-        "ab": "491",
-        "avg": ".242",
-        "h": "119",
+        "brl%barrel %": "9.0",
+        "ab": "493",
+        "avg": ".243",
+        "h": "120",
         "1b": "73",
-        "2b": "30",
+        "2b": "31",
         "3b": "3",
         "hr": "13",
         "so": "117",
-        "bipballs in play": "375",
+        "bipballs in play": "376",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-23 20:56:18.868838"
+        "updated": "2025-05-23 20:56:28.340770"
     },
     "bal @ bos": [
         {
@@ -4136,6 +4136,21 @@
     ],
     "tor @ tb": [
         {
+            "player": "addison barger",
+            "game": "tor @ tb",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-05-23 20:55:49",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alejandro kirk",
             "game": "tor @ tb",
             "hr/park": "",
@@ -4145,7 +4160,7 @@
             "team": "tor",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4872,6 +4887,21 @@
         }
     ],
     "cle @ det": [
+        {
+            "player": "akil baddoo",
+            "game": "cle @ det",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-05-23 20:56:21",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "angel martinez",
             "game": "cle @ det",
@@ -7223,7 +7253,7 @@
         {
             "player": "isaac paredes",
             "game": "sea @ hou",
-            "hr/park": "2/30",
+            "hr/park": "",
             "pa": "22",
             "dt": "2025-05-23 20:54:37",
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
@@ -7553,9 +7583,24 @@
     ],
     "kc @ min": [
         {
-            "player": "willi castro",
+            "player": "ryan jeffers",
             "game": "kc @ min",
             "hr/park": "",
+            "pa": "25",
+            "dt": "2025-05-23 20:56:21",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "Double",
+            "evo": "88.1",
+            "la": "21",
+            "dist": "261"
+        },
+        {
+            "player": "willi castro",
+            "game": "kc @ min",
+            "hr/park": "0/30",
             "pa": "24",
             "dt": "2025-05-23 20:54:20",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
@@ -7924,7 +7969,7 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
