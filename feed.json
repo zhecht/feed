@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "106",
         "batters": "279",
-        "pitches": "3650",
+        "pitches": "3657",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "35.6",
+        "ff%fourseam fastball %": "35.7",
         "si%sinker %": "11.3",
-        "fc%cutter %": "7.2",
+        "fc%cutter %": "7.1",
         "fs%splitter %": "1.7",
         "ch%changeup %": "10.5",
-        "sl%slider %": "22.4",
+        "sl%slider %": "22.5",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "242",
-        "hh%hard hit %": "38.2",
+        "hh%hard hit %": "38.1",
         "brlbarrels": "58",
         "brl%barrel %": "9.1",
-        "ab": "820",
-        "avg": ".250",
+        "ab": "823",
+        "avg": ".249",
         "h": "205",
         "1b": "132",
         "2b": "42",
         "3b": "5",
         "hr": "26",
         "so": "190",
-        "bipballs in play": "634",
+        "bipballs in play": "636",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-05-23 22:19:49.969785"
+        "updated": "2025-05-23 22:20:01.695599"
     },
     "bal @ bos": [
         {
@@ -2836,7 +2836,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "10",
-            "result": "In Progress",
+            "result": "Wild Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7425,6 +7425,21 @@
     ],
     "lad @ nym": [
         {
+            "player": "teoscar hernandez",
+            "game": "lad @ nym",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-05-23 22:19:53",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "Mound Visit",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "will smith",
             "game": "lad @ nym",
             "hr/park": "",
@@ -7434,7 +7449,7 @@
             "team": "lad",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11905,6 +11920,21 @@
     ],
     "ari @ stl": [
         {
+            "player": "eugenio suarez",
+            "game": "ari @ stl",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-05-23 22:19:07",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "8:15 PM",
+            "in": "8",
+            "result": "Lineout",
+            "evo": "94.4",
+            "la": "21",
+            "dist": "290"
+        },
+        {
             "player": "josh naylor",
             "game": "ari @ stl",
             "hr/park": "0/30",
@@ -12791,6 +12821,36 @@
         }
     ],
     "nyy @ col": [
+        {
+            "player": "anthony volpe",
+            "game": "nyy @ col",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-05-23 22:19:53",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "8:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jasson dominguez",
+            "game": "nyy @ col",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-05-23 22:19:53",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "8:40 PM",
+            "in": "6",
+            "result": "Pop Out",
+            "evo": "89.9",
+            "la": "69",
+            "dist": "128"
+        },
         {
             "player": "paul goldschmidt",
             "game": "nyy @ col",
