@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "72",
+        "pitchers": "73",
         "batters": "239",
-        "pitches": "2877",
+        "pitches": "2887",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "35.9",
+        "ff%fourseam fastball %": "35.8",
         "si%sinker %": "10.4",
         "fc%cutter %": "6.7",
         "fs%splitter %": "1.8",
@@ -13,22 +13,22 @@
         "sl%slider %": "22.9",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "193",
-        "hh%hard hit %": "39.1",
+        "hhhard hit": "194",
+        "hh%hard hit %": "39.0",
         "brlbarrels": "41",
-        "brl%barrel %": "8.3",
-        "ab": "647",
-        "avg": ".246",
+        "brl%barrel %": "8.2",
+        "ab": "650",
+        "avg": ".245",
         "h": "159",
         "1b": "101",
         "2b": "37",
         "3b": "4",
         "hr": "17",
-        "so": "152",
-        "bipballs in play": "494",
+        "so": "153",
+        "bipballs in play": "497",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-23 21:33:57.680054"
+        "updated": "2025-05-23 21:34:08.121919"
     },
     "bal @ bos": [
         {
@@ -1474,6 +1474,21 @@
     ],
     "bal-gm2 @ bos-gm2": [],
     "chc @ cin": [
+        {
+            "player": "nico hoerner",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-05-23 21:34:06",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "89.6",
+            "la": "1",
+            "dist": "53"
+        },
         {
             "player": "matt mclain",
             "game": "chc @ cin",
@@ -8053,7 +8068,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8795,6 +8810,21 @@
         }
     ],
     "sea @ hou": [
+        {
+            "player": "jorge polanco",
+            "game": "sea @ hou",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-05-23 21:34:06",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "Pop Out",
+            "evo": "81.5",
+            "la": "60",
+            "dist": "174"
+        },
         {
             "player": "jp crawford",
             "game": "sea @ hou",
@@ -10030,6 +10060,21 @@
     ],
     "ari @ stl": [
         {
+            "player": "lourdes gurriel",
+            "game": "ari @ stl",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-05-23 21:33:36",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "8:15 PM",
+            "in": "6",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ketel marte",
             "game": "ari @ stl",
             "hr/park": "",
@@ -10039,10 +10084,10 @@
             "team": "ari",
             "start": "8:15 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "95.8",
+            "la": "-7",
+            "dist": "18"
         },
         {
             "player": "corbin carroll",
