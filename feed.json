@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "47",
         "batters": "185",
-        "pitches": "1695",
+        "pitches": "1697",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "73.7",
-        "ff%fourseam fastball %": "32.3",
-        "si%sinker %": "14.9",
+        "ff%fourseam fastball %": "32.2",
+        "si%sinker %": "15.0",
         "fc%cutter %": "9.6",
         "fs%splitter %": "1.5",
         "ch%changeup %": "10.3",
@@ -14,7 +14,7 @@
         "cu%curve %": "10.4",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "123",
-        "hh%hard hit %": "38.3",
+        "hh%hard hit %": "38.2",
         "brlbarrels": "24",
         "brl%barrel %": "7.5",
         "ab": "410",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "11",
         "so": "98",
-        "bipballs in play": "321",
+        "bipballs in play": "322",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-24 17:09:18.373209"
+        "updated": "2025-05-24 17:09:27.239076"
     },
     "bal @ bos": [
         {
@@ -4627,7 +4627,7 @@
             "team": "chc",
             "start": "4:10 PM",
             "in": "4",
-            "result": "Flyout",
+            "result": "In Progress",
             "evo": "107.1",
             "la": "29",
             "dist": "395"
@@ -5025,16 +5025,31 @@
     ],
     "sea @ hou": [
         {
-            "player": "victor caratini",
+            "player": "jake meyers",
             "game": "sea @ hou",
             "hr/park": "",
+            "pa": "28",
+            "dt": "2025-05-24 17:09:21",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "4:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "victor caratini",
+            "game": "sea @ hou",
+            "hr/park": "0/30",
             "pa": "27",
             "dt": "2025-05-24 17:07:20",
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
             "team": "hou",
             "start": "4:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "98.2",
             "la": "26",
             "dist": "369"
@@ -5938,7 +5953,7 @@
             "team": "tex",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
