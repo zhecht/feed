@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "63",
         "batters": "233",
-        "pitches": "2594",
+        "pitches": "2595",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
         "ff%fourseam fastball %": "36.4",
         "si%sinker %": "10.3",
-        "fc%cutter %": "6.4",
+        "fc%cutter %": "6.3",
         "fs%splitter %": "2.0",
         "ch%changeup %": "10.1",
         "sl%slider %": "22.7",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "178",
-        "hh%hard hit %": "40.4",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "37",
         "brl%barrel %": "8.4",
         "ab": "579",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "15",
         "so": "138",
-        "bipballs in play": "441",
+        "bipballs in play": "442",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-23 21:17:12.675345"
+        "updated": "2025-05-23 21:17:22.963189"
     },
     "bal @ bos": [
         {
@@ -2446,7 +2446,7 @@
             "team": "mil",
             "start": "6:40 PM",
             "in": "8",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3461,17 +3461,17 @@
         {
             "player": "keibert ruiz",
             "game": "sf @ wsh",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "70",
             "dt": "2025-05-23 21:15:36",
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
             "team": "wsh",
             "start": "6:45 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "93.5",
+            "la": "26",
+            "dist": "354"
         },
         {
             "player": "nathaniel lowe",
@@ -4511,6 +4511,21 @@
     ],
     "tor @ tb": [
         {
+            "player": "daulton varsho",
+            "game": "tor @ tb",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-05-23 21:17:21",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "vladimir guerrero",
             "game": "tor @ tb",
             "hr/park": "",
@@ -4520,7 +4535,7 @@
             "team": "tor",
             "start": "7:05 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7488,21 +7503,6 @@
         }
     ],
     "tex @ chw": [
-        {
-            "player": "josh jung",
-            "game": "tex @ chw",
-            "hr/park": "",
-            "pa": "44",
-            "dt": "2025-05-23 21:17:07",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "7:40 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "wyatt langford",
             "game": "tex @ chw",
