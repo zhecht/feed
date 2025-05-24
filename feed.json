@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "50",
         "batters": "185",
-        "pitches": "2044",
+        "pitches": "2049",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "73.7",
         "ff%fourseam fastball %": "31.3",
@@ -10,13 +10,13 @@
         "fc%cutter %": "9.0",
         "fs%splitter %": "1.4",
         "ch%changeup %": "10.3",
-        "sl%slider %": "21.0",
+        "sl%slider %": "21.1",
         "cu%curve %": "11.0",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "157",
-        "hh%hard hit %": "39.5",
+        "hhhard hit": "158",
+        "hh%hard hit %": "39.6",
         "brlbarrels": "30",
-        "brl%barrel %": "7.6",
+        "brl%barrel %": "7.5",
         "ab": "500",
         "avg": ".276",
         "h": "138",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "12",
         "so": "115",
-        "bipballs in play": "397",
+        "bipballs in play": "399",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-24 17:38:47.866313"
+        "updated": "2025-05-24 17:38:57.364435"
     },
     "bal @ bos": [
         {
@@ -4385,10 +4385,10 @@
             "team": "pit",
             "start": "4:05 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "108.0",
+            "la": "1",
+            "dist": "64"
         },
         {
             "player": "alexander canario",
@@ -5107,7 +5107,7 @@
             "team": "cin",
             "start": "4:10 PM",
             "in": "5",
-            "result": "Stolen Base 2B",
+            "result": "Game Advisory",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6341,7 +6341,7 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7034,9 +7034,9 @@
             "start": "4:10 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "81.6",
+            "la": "-19",
+            "dist": "9"
         },
         {
             "player": "wyatt langford",
@@ -7670,6 +7670,21 @@
         }
     ],
     "nyy @ col": [
+        {
+            "player": "tyler freeman",
+            "game": "nyy @ col",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-05-24 17:38:52",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "aaron judge",
             "game": "nyy @ col",
