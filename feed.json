@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "76",
         "batters": "241",
-        "pitches": "2937",
+        "pitches": "2938",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
         "ff%fourseam fastball %": "35.9",
@@ -11,24 +11,24 @@
         "fs%splitter %": "1.8",
         "ch%changeup %": "10.7",
         "sl%slider %": "22.7",
-        "cu%curve %": "9.7",
+        "cu%curve %": "9.6",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "195",
-        "hh%hard hit %": "38.8",
+        "hh%hard hit %": "38.7",
         "brlbarrels": "41",
-        "brl%barrel %": "8.2",
-        "ab": "660",
+        "brl%barrel %": "8.1",
+        "ab": "661",
         "avg": ".247",
         "h": "163",
         "1b": "104",
         "2b": "38",
         "3b": "4",
         "hr": "17",
-        "so": "158",
-        "bipballs in play": "503",
+        "so": "159",
+        "bipballs in play": "504",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-23 21:36:57.581652"
+        "updated": "2025-05-23 21:37:08.495863"
     },
     "bal @ bos": [
         {
@@ -1484,10 +1484,10 @@
             "team": "chc",
             "start": "6:40 PM",
             "in": "8",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "88.1",
+            "la": "26",
+            "dist": "275"
         },
         {
             "player": "nico hoerner",
@@ -8164,6 +8164,21 @@
     ],
     "tex @ chw": [
         {
+            "player": "jonah heim",
+            "game": "tex @ chw",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-05-23 21:37:06",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kevin pillar",
             "game": "tex @ chw",
             "hr/park": "",
@@ -8173,7 +8188,7 @@
             "team": "tex",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
