@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "106",
-        "batters": "278",
-        "pitches": "3639",
+        "batters": "279",
+        "pitches": "3645",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
         "ff%fourseam fastball %": "35.7",
-        "si%sinker %": "11.2",
+        "si%sinker %": "11.3",
         "fc%cutter %": "7.1",
         "fs%splitter %": "1.7",
         "ch%changeup %": "10.5",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "38.0",
         "brlbarrels": "58",
         "brl%barrel %": "9.2",
-        "ab": "817",
-        "avg": ".250",
+        "ab": "820",
+        "avg": ".249",
         "h": "204",
         "1b": "131",
         "2b": "42",
         "3b": "5",
         "hr": "26",
         "so": "190",
-        "bipballs in play": "631",
+        "bipballs in play": "632",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-05-23 22:19:02.303653"
+        "updated": "2025-05-23 22:19:13.603182"
     },
     "bal @ bos": [
         {
@@ -11905,16 +11905,31 @@
     ],
     "ari @ stl": [
         {
-            "player": "josh naylor",
+            "player": "eugenio suarez",
             "game": "ari @ stl",
             "hr/park": "",
+            "pa": "60",
+            "dt": "2025-05-23 22:19:07",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "8:15 PM",
+            "in": "8",
+            "result": "Lineout",
+            "evo": "94.4",
+            "la": "21",
+            "dist": "290"
+        },
+        {
+            "player": "josh naylor",
+            "game": "ari @ stl",
+            "hr/park": "0/30",
             "pa": "59",
             "dt": "2025-05-23 22:18:37",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "start": "8:15 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "96.1",
             "la": "24",
             "dist": "343"
@@ -12791,6 +12806,21 @@
         }
     ],
     "nyy @ col": [
+        {
+            "player": "paul goldschmidt",
+            "game": "nyy @ col",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-05-23 22:19:07",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "8:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brenton doyle",
             "game": "nyy @ col",
@@ -13725,6 +13755,21 @@
         }
     ],
     "phi @ ath": [
+        {
+            "player": "jacob wilson",
+            "game": "phi @ ath",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-05-23 22:18:21",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "lawrence butler",
             "game": "phi @ ath",
