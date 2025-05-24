@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "64",
         "batters": "236",
-        "pitches": "2667",
+        "pitches": "2673",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "36.1",
+        "ff%fourseam fastball %": "36.3",
         "si%sinker %": "10.3",
         "fc%cutter %": "6.5",
         "fs%splitter %": "1.9",
         "ch%changeup %": "10.2",
-        "sl%slider %": "22.8",
-        "cu%curve %": "10.0",
+        "sl%slider %": "22.7",
+        "cu%curve %": "9.9",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "183",
         "hh%hard hit %": "40.3",
         "brlbarrels": "39",
         "brl%barrel %": "8.6",
-        "ab": "594",
+        "ab": "593",
         "avg": ".246",
         "h": "146",
         "1b": "92",
         "2b": "36",
         "3b": "3",
         "hr": "15",
-        "so": "142",
+        "so": "141",
         "bipballs in play": "454",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-23 21:20:58.685858"
+        "updated": "2025-05-23 21:21:09.125559"
     },
     "bal @ bos": [
         {
@@ -1474,6 +1474,21 @@
     ],
     "bal-gm2 @ bos-gm2": [],
     "chc @ cin": [
+        {
+            "player": "dansby swanson",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-05-23 21:21:05",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "Wild Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "michael busch",
             "game": "chc @ cin",
@@ -4565,7 +4580,7 @@
             "team": "tor",
             "start": "7:05 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9355,21 +9370,6 @@
     ],
     "ari @ stl": [
         {
-            "player": "jose herrera",
-            "game": "ari @ stl",
-            "hr/park": "",
-            "pa": "32",
-            "dt": "2025-05-23 21:20:51",
-            "img": "https://www.mlbstatic.com/team-logos/109.svg",
-            "team": "ari",
-            "start": "8:15 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "alek thomas",
             "game": "ari @ stl",
             "hr/park": "",
@@ -9379,7 +9379,7 @@
             "team": "ari",
             "start": "8:15 PM",
             "in": "5",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
