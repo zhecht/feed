@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "32",
-        "batters": "163",
-        "pitches": "1458",
+        "pitchers": "33",
+        "batters": "165",
+        "pitches": "1464",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
         "ff%fourseam fastball %": "37.2",
@@ -10,25 +10,25 @@
         "fc%cutter %": "4.1",
         "fs%splitter %": "1.8",
         "ch%changeup %": "10.5",
-        "sl%slider %": "20.2",
+        "sl%slider %": "20.3",
         "cu%curve %": "11.3",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "105",
-        "hh%hard hit %": "41.3",
-        "brlbarrels": "24",
-        "brl%barrel %": "9.4",
-        "ab": "323",
-        "avg": ".260",
+        "hhhard hit": "106",
+        "hh%hard hit %": "41.6",
+        "brlbarrels": "25",
+        "brl%barrel %": "9.8",
+        "ab": "326",
+        "avg": ".258",
         "h": "84",
         "1b": "52",
         "2b": "21",
         "3b": "2",
         "hr": "9",
         "so": "68",
-        "bipballs in play": "254",
+        "bipballs in play": "255",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-05-23 20:17:19.062761"
+        "updated": "2025-05-23 20:17:27.694181"
     },
     "bal @ bos": [
         {
@@ -1474,6 +1474,21 @@
     ],
     "bal-gm2 @ bos-gm2": [],
     "chc @ cin": [
+        {
+            "player": "ian happ",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-05-23 20:17:21",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "matt shaw",
             "game": "chc @ cin",
@@ -5528,7 +5543,38 @@
             "dist": ""
         }
     ],
-    "ari @ stl": [],
+    "ari @ stl": [
+        {
+            "player": "ketel marte",
+            "game": "ari @ stl",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-05-23 20:17:21",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "8:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "corbin carroll",
+            "game": "ari @ stl",
+            "hr/park": "0/30",
+            "pa": "1",
+            "dt": "2025-05-23 20:17:21",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "8:15 PM",
+            "in": "1",
+            "result": "Flyout",
+            "evo": "107.4",
+            "la": "37",
+            "dist": "381"
+        }
+    ],
     "nyy @ col": [],
     "mia @ laa": [],
     "phi @ ath": []
