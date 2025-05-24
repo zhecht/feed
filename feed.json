@@ -1,20 +1,20 @@
 {
     "all": {
-        "pitchers": "58",
+        "pitchers": "57",
         "batters": "229",
-        "pitches": "2401",
+        "pitches": "2402",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "36.5",
+        "ff%fourseam fastball %": "36.4",
         "si%sinker %": "10.4",
         "fc%cutter %": "6.1",
         "fs%splitter %": "2.1",
-        "ch%changeup %": "9.9",
+        "ch%changeup %": "10.0",
         "sl%slider %": "22.4",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "167",
-        "hh%hard hit %": "40.4",
+        "hhhard hit": "166",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "36",
         "brl%barrel %": "8.7",
         "ab": "539",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "14",
         "so": "128",
-        "bipballs in play": "413",
+        "bipballs in play": "412",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-23 21:07:17.092396"
+        "updated": "2025-05-23 21:07:26.986855"
     },
     "bal @ bos": [
         {
@@ -1474,6 +1474,21 @@
     ],
     "bal-gm2 @ bos-gm2": [],
     "chc @ cin": [
+        {
+            "player": "seiya suzuki",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-05-23 21:07:21",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kyle tucker",
             "game": "chc @ cin",
@@ -4361,21 +4376,6 @@
     ],
     "tor @ tb": [
         {
-            "player": "chandler simpson",
-            "game": "tor @ tb",
-            "hr/park": "",
-            "pa": "54",
-            "dt": "2025-05-23 21:06:35",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "7:05 PM",
-            "in": "7",
-            "result": "Groundout",
-            "evo": "97.6",
-            "la": "-48",
-            "dist": "3"
-        },
-        {
             "player": "nathan lukes",
             "game": "tor @ tb",
             "hr/park": "0/30",
@@ -5182,7 +5182,7 @@
             "team": "cle",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
