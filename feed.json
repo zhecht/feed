@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "7",
         "batters": "54",
-        "pitches": "371",
+        "pitches": "374",
         "max velomax pitch velocity": "98.5",
         "min velomin pitch velocity": "73.8",
-        "ff%fourseam fastball %": "29.9",
+        "ff%fourseam fastball %": "30.2",
         "si%sinker %": "7.5",
-        "fc%cutter %": "17.5",
+        "fc%cutter %": "17.4",
         "fs%splitter %": "0.5",
-        "ch%changeup %": "10.0",
-        "sl%slider %": "27.0",
-        "cu%curve %": "7.5",
+        "ch%changeup %": "9.9",
+        "sl%slider %": "26.7",
+        "cu%curve %": "7.8",
         "max evmax exit velocity": "106.9",
         "hhhard hit": "26",
-        "hh%hard hit %": "37.7",
+        "hh%hard hit %": "37.1",
         "brlbarrels": "6",
-        "brl%barrel %": "8.7",
+        "brl%barrel %": "8.6",
         "ab": "91",
         "avg": ".253",
         "h": "23",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "3",
         "so": "22",
-        "bipballs in play": "69",
+        "bipballs in play": "70",
         "liveGames": 3,
         "totGames": 16,
-        "updated": "2025-05-24 15:06:04.994624"
+        "updated": "2025-05-24 15:06:12.459007"
     },
     "bal @ bos": [
         {
@@ -674,7 +674,7 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1111,10 +1111,10 @@
             "team": "ari",
             "start": "2:15 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "91.3",
+            "la": "44",
+            "dist": "281"
         },
         {
             "player": "josh naylor",
