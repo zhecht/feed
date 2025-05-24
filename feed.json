@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "54",
+        "pitchers": "53",
         "batters": "224",
-        "pitches": "2224",
+        "pitches": "2229",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
         "ff%fourseam fastball %": "36.9",
         "si%sinker %": "10.2",
-        "fc%cutter %": "5.8",
+        "fc%cutter %": "5.7",
         "fs%splitter %": "2.1",
         "ch%changeup %": "10.2",
         "sl%slider %": "21.6",
         "cu%curve %": "10.5",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "156",
-        "hh%hard hit %": "41.2",
+        "hh%hard hit %": "40.9",
         "brlbarrels": "34",
-        "brl%barrel %": "9.0",
-        "ab": "498",
-        "avg": ".243",
-        "h": "121",
-        "1b": "73",
+        "brl%barrel %": "8.9",
+        "ab": "496",
+        "avg": ".246",
+        "h": "122",
+        "1b": "74",
         "2b": "32",
         "3b": "3",
         "hr": "13",
         "so": "118",
-        "bipballs in play": "379",
+        "bipballs in play": "381",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-23 20:57:45.585308"
+        "updated": "2025-05-23 20:57:55.186742"
     },
     "bal @ bos": [
         {
@@ -1474,21 +1474,6 @@
     ],
     "bal-gm2 @ bos-gm2": [],
     "chc @ cin": [
-        {
-            "player": "dansby swanson",
-            "game": "chc @ cin",
-            "hr/park": "",
-            "pa": "57",
-            "dt": "2025-05-23 20:57:35",
-            "img": "https://www.mlbstatic.com/team-logos/112.svg",
-            "team": "chc",
-            "start": "6:40 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "austin hays",
             "game": "chc @ cin",
@@ -4205,7 +4190,7 @@
             "team": "tor",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4947,21 +4932,6 @@
         }
     ],
     "cle @ det": [
-        {
-            "player": "javier baez",
-            "game": "cle @ det",
-            "hr/park": "",
-            "pa": "56",
-            "dt": "2025-05-23 20:57:35",
-            "img": "https://www.mlbstatic.com/team-logos/116.svg",
-            "team": "det",
-            "start": "7:10 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "akil baddoo",
             "game": "cle @ det",
@@ -6076,21 +6046,6 @@
         }
     ],
     "sd @ atl": [
-        {
-            "player": "gavin sheets",
-            "game": "sd @ atl",
-            "hr/park": "",
-            "pa": "50",
-            "dt": "2025-05-23 20:57:35",
-            "img": "https://www.mlbstatic.com/team-logos/135.svg",
-            "team": "sd",
-            "start": "7:15 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "xander bogaerts",
             "game": "sd @ atl",
@@ -7341,6 +7296,36 @@
     ],
     "sea @ hou": [
         {
+            "player": "yainer diaz",
+            "game": "sea @ hou",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-05-23 20:57:50",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jose altuve",
+            "game": "sea @ hou",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-05-23 20:57:50",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "Single",
+            "evo": "67.2",
+            "la": "40",
+            "dist": "222"
+        },
+        {
             "player": "isaac paredes",
             "game": "sea @ hou",
             "hr/park": "2/30",
@@ -8391,10 +8376,10 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "93.8",
+            "la": "64",
+            "dist": "153"
         },
         {
             "player": "ezequiel tovar",
