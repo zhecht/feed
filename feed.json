@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "43",
-        "batters": "151",
-        "pitches": "1179",
+        "pitchers": "44",
+        "batters": "154",
+        "pitches": "1189",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "73.8",
-        "ff%fourseam fastball %": "32.5",
+        "ff%fourseam fastball %": "32.6",
         "si%sinker %": "15.2",
         "fc%cutter %": "11.6",
         "fs%splitter %": "1.3",
-        "ch%changeup %": "10.6",
-        "sl%slider %": "20.6",
+        "ch%changeup %": "10.5",
+        "sl%slider %": "20.5",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "87",
-        "hh%hard hit %": "38.3",
+        "hh%hard hit %": "37.8",
         "brlbarrels": "16",
         "brl%barrel %": "7.0",
-        "ab": "291",
+        "ab": "295",
         "avg": ".268",
-        "h": "78",
-        "1b": "50",
+        "h": "79",
+        "1b": "51",
         "2b": "17",
         "3b": "2",
         "hr": "9",
         "so": "69",
-        "bipballs in play": "227",
+        "bipballs in play": "230",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-24 16:36:04.455754"
+        "updated": "2025-05-24 16:36:12.930274"
     },
     "bal @ bos": [
+        {
+            "player": "jarren duran",
+            "game": "bal @ bos",
+            "hr/park": "",
+            "pa": "79",
+            "dt": "2025-05-24 16:36:07",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:05 PM",
+            "in": "10",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jorge mateo",
             "game": "bal @ bos",
@@ -3354,6 +3369,21 @@
     ],
     "sf @ wsh": [
         {
+            "player": "patrick bailey",
+            "game": "sf @ wsh",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-05-24 16:36:07",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "robert hassell",
             "game": "sf @ wsh",
             "hr/park": "",
@@ -3596,6 +3626,21 @@
     ],
     "mil @ pit": [
         {
+            "player": "isiah kiner falefa",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-05-24 16:36:07",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "adam frazier",
             "game": "mil @ pit",
             "hr/park": "",
@@ -3605,10 +3650,10 @@
             "team": "pit",
             "start": "4:05 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "74.6",
+            "la": "40",
+            "dist": "228"
         },
         {
             "player": "kebryan hayes",
@@ -3985,9 +4030,9 @@
             "start": "4:10 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "87.0",
+            "la": "-13",
+            "dist": "12"
         },
         {
             "player": "randy arozarena",
@@ -4166,7 +4211,7 @@
             "team": "atl",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "65.2",
             "la": "-22",
             "dist": "6"
@@ -4596,6 +4641,21 @@
     ],
     "nyy @ col": [
         {
+            "player": "brenton doyle",
+            "game": "nyy @ col",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-05-24 16:36:07",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael toglia",
             "game": "nyy @ col",
             "hr/park": "",
@@ -4605,10 +4665,10 @@
             "team": "col",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "40.9",
+            "la": "-2",
+            "dist": "23"
         },
         {
             "player": "oswald peraza",
