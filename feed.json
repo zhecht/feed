@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "83",
-        "batters": "199",
-        "pitches": "2900",
+        "batters": "200",
+        "pitches": "2903",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "70.6",
         "ff%fourseam fastball %": "31.4",
@@ -10,25 +10,25 @@
         "fc%cutter %": "8.2",
         "fs%splitter %": "2.3",
         "ch%changeup %": "9.5",
-        "sl%slider %": "21.4",
-        "cu%curve %": "9.9",
+        "sl%slider %": "21.5",
+        "cu%curve %": "10.0",
         "max evmax exit velocity": "114.3",
         "hhhard hit": "212",
-        "hh%hard hit %": "38.1",
+        "hh%hard hit %": "38.0",
         "brlbarrels": "40",
         "brl%barrel %": "7.2",
-        "ab": "702",
-        "avg": ".274",
+        "ab": "703",
+        "avg": ".273",
         "h": "192",
         "1b": "134",
         "2b": "36",
         "3b": "6",
         "hr": "16",
         "so": "167",
-        "bipballs in play": "557",
+        "bipballs in play": "558",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-05-24 19:09:30.796365"
+        "updated": "2025-05-24 19:09:41.309862"
     },
     "bal @ bos": [
         {
@@ -1218,6 +1218,21 @@
         }
     ],
     "bal-gm2 @ bos-gm2": [
+        {
+            "player": "dylan carlson",
+            "game": "bal-gm2 @ bos-gm2",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-05-24 19:09:37",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:35 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "nick sogard",
             "game": "bal-gm2 @ bos-gm2",
@@ -11696,17 +11711,17 @@
         {
             "player": "bo bichette",
             "game": "tor @ tb",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "1",
             "dt": "2025-05-24 19:07:39",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "start": "7:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "84.8",
+            "la": "27",
+            "dist": "303"
         }
     ],
     "cle @ det": [],
