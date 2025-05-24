@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "90",
         "batters": "256",
-        "pitches": "3283",
+        "pitches": "3287",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "36.6",
-        "si%sinker %": "10.5",
+        "ff%fourseam fastball %": "36.5",
+        "si%sinker %": "10.6",
         "fc%cutter %": "7.0",
         "fs%splitter %": "1.7",
         "ch%changeup %": "10.5",
         "sl%slider %": "22.0",
-        "cu%curve %": "10.0",
+        "cu%curve %": "9.9",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "219",
-        "hh%hard hit %": "38.9",
+        "hhhard hit": "220",
+        "hh%hard hit %": "39.0",
         "brlbarrels": "49",
         "brl%barrel %": "8.7",
         "ab": "733",
@@ -24,11 +24,11 @@
         "2b": "38",
         "3b": "5",
         "hr": "21",
-        "so": "171",
-        "bipballs in play": "563",
+        "so": "170",
+        "bipballs in play": "564",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-05-23 21:56:50.028382"
+        "updated": "2025-05-23 21:57:01.252531"
     },
     "bal @ bos": [
         {
@@ -1475,6 +1475,21 @@
     "bal-gm2 @ bos-gm2": [],
     "chc @ cin": [
         {
+            "player": "dansby swanson",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "84",
+            "dt": "2025-05-23 21:56:53",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael busch",
             "game": "chc @ cin",
             "hr/park": "",
@@ -1484,10 +1499,10 @@
             "team": "chc",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "95.6",
+            "la": "21",
+            "dist": "285"
         },
         {
             "player": "carson kelly",
@@ -7185,21 +7200,6 @@
     ],
     "lad @ nym": [
         {
-            "player": "tommy edman",
-            "game": "lad @ nym",
-            "hr/park": "",
-            "pa": "29",
-            "dt": "2025-05-23 21:56:21",
-            "img": "https://www.mlbstatic.com/team-logos/119.svg",
-            "team": "lad",
-            "start": "7:10 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "michael conforto",
             "game": "lad @ nym",
             "hr/park": "",
@@ -7209,7 +7209,7 @@
             "team": "lad",
             "start": "7:10 PM",
             "in": "4",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
