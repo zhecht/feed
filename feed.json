@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "133",
         "batters": "296",
-        "pitches": "4410",
+        "pitches": "4414",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "35.1",
+        "ff%fourseam fastball %": "35.0",
         "si%sinker %": "12.2",
-        "fc%cutter %": "7.1",
+        "fc%cutter %": "7.2",
         "fs%splitter %": "1.9",
         "ch%changeup %": "9.7",
         "sl%slider %": "23.2",
         "cu%curve %": "9.5",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "286",
-        "hh%hard hit %": "37.0",
+        "hhhard hit": "287",
+        "hh%hard hit %": "37.1",
         "brlbarrels": "64",
         "brl%barrel %": "8.3",
-        "ab": "999",
+        "ab": "1001",
         "avg": ".245",
         "h": "245",
         "1b": "163",
@@ -25,10 +25,10 @@
         "3b": "6",
         "hr": "29",
         "so": "241",
-        "bipballs in play": "772",
+        "bipballs in play": "773",
         "liveGames": 0,
         "totGames": 16,
-        "updated": "2025-05-24 00:11:19.572278"
+        "updated": "2025-05-24 00:11:32.126726"
     },
     "bal @ bos": [
         {
@@ -7423,6 +7423,21 @@
         }
     ],
     "lad @ nym": [
+        {
+            "player": "pete alonso",
+            "game": "lad @ nym",
+            "hr/park": "",
+            "pa": "83",
+            "dt": "2025-05-24 00:11:23",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "",
+            "in": "10",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "juan soto",
             "game": "lad @ nym",
@@ -14953,6 +14968,21 @@
     ],
     "mia @ laa": [
         {
+            "player": "jorge soler",
+            "game": "mia @ laa",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-05-24 00:11:23",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "connor norby",
             "game": "mia @ laa",
             "hr/park": "",
@@ -16029,10 +16059,10 @@
             "team": "ath",
             "start": "",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "96.4",
+            "la": "-6",
+            "dist": "19"
         },
         {
             "player": "lawrence butler",
