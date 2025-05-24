@@ -1,13 +1,13 @@
 {
     "all": {
-        "pitchers": "86",
-        "batters": "206",
-        "pitches": "2952",
+        "pitchers": "87",
+        "batters": "208",
+        "pitches": "2958",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "70.6",
         "ff%fourseam fastball %": "31.4",
-        "si%sinker %": "17.0",
-        "fc%cutter %": "8.1",
+        "si%sinker %": "17.1",
+        "fc%cutter %": "8.0",
         "fs%splitter %": "2.3",
         "ch%changeup %": "9.9",
         "sl%slider %": "21.6",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "37.7",
         "brlbarrels": "40",
         "brl%barrel %": "7.1",
-        "ab": "713",
-        "avg": ".271",
+        "ab": "715",
+        "avg": ".270",
         "h": "193",
         "1b": "135",
         "2b": "36",
@@ -28,7 +28,7 @@
         "bipballs in play": "563",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-24 19:17:26.316053"
+        "updated": "2025-05-24 19:17:36.596755"
     },
     "bal @ bos": [
         {
@@ -11799,6 +11799,21 @@
     ],
     "tor @ tb": [
         {
+            "player": "brandon lowe",
+            "game": "tor @ tb",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-05-24 19:17:36",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh lowe",
             "game": "tor @ tb",
             "hr/park": "",
@@ -11891,7 +11906,23 @@
             "dist": ""
         }
     ],
-    "lad @ nym": [],
+    "lad @ nym": [
+        {
+            "player": "shohei ohtani",
+            "game": "lad @ nym",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-24 19:17:36",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "7:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "phi @ ath": [],
     "mia @ laa": []
 }
