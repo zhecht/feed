@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "53",
         "batters": "224",
-        "pitches": "2210",
+        "pitches": "2222",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
         "ff%fourseam fastball %": "36.9",
@@ -10,13 +10,13 @@
         "fc%cutter %": "5.8",
         "fs%splitter %": "2.1",
         "ch%changeup %": "10.2",
-        "sl%slider %": "21.5",
+        "sl%slider %": "21.6",
         "cu%curve %": "10.5",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "156",
-        "hh%hard hit %": "41.2",
+        "hh%hard hit %": "41.1",
         "brlbarrels": "34",
-        "brl%barrel %": "9.0",
+        "brl%barrel %": "8.9",
         "ab": "495",
         "avg": ".244",
         "h": "121",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "13",
         "so": "117",
-        "bipballs in play": "379",
+        "bipballs in play": "380",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-23 20:57:15.858228"
+        "updated": "2025-05-23 20:57:25.766333"
     },
     "bal @ bos": [
         {
@@ -2316,6 +2316,21 @@
         }
     ],
     "mil @ pit": [
+        {
+            "player": "bryan reynolds",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-05-23 20:57:20",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "andrew mccutchen",
             "game": "mil @ pit",
@@ -4927,7 +4942,7 @@
             "team": "det",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "80.1",
             "la": "30",
             "dist": "279"
@@ -6041,7 +6056,7 @@
             "team": "sd",
             "start": "7:15 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7615,7 +7630,7 @@
         {
             "player": "royce lewis",
             "game": "kc @ min",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "26",
             "dt": "2025-05-23 20:56:50",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
@@ -8331,10 +8346,10 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "93.8",
+            "la": "64",
+            "dist": "153"
         },
         {
             "player": "ezequiel tovar",
