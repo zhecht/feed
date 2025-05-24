@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "74",
+        "pitchers": "75",
         "batters": "239",
-        "pitches": "2901",
+        "pitches": "2906",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "35.8",
+        "ff%fourseam fastball %": "35.9",
         "si%sinker %": "10.4",
-        "fc%cutter %": "6.7",
+        "fc%cutter %": "6.8",
         "fs%splitter %": "1.8",
         "ch%changeup %": "10.6",
-        "sl%slider %": "22.9",
-        "cu%curve %": "9.8",
+        "sl%slider %": "22.8",
+        "cu%curve %": "9.7",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "195",
-        "hh%hard hit %": "39.2",
+        "hhhard hit": "194",
+        "hh%hard hit %": "39.0",
         "brlbarrels": "41",
         "brl%barrel %": "8.2",
-        "ab": "652",
-        "avg": ".245",
-        "h": "160",
-        "1b": "101",
+        "ab": "654",
+        "avg": ".246",
+        "h": "161",
+        "1b": "102",
         "2b": "38",
         "3b": "4",
         "hr": "17",
-        "so": "156",
+        "so": "157",
         "bipballs in play": "498",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-23 21:35:01.130407"
+        "updated": "2025-05-23 21:35:11.503254"
     },
     "bal @ bos": [
         {
@@ -1475,6 +1475,21 @@
     "bal-gm2 @ bos-gm2": [],
     "chc @ cin": [
         {
+            "player": "matt shaw",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-05-23 21:35:06",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nico hoerner",
             "game": "chc @ cin",
             "hr/park": "",
@@ -2556,6 +2571,21 @@
         }
     ],
     "mil @ pit": [
+        {
+            "player": "william contreras",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "75",
+            "dt": "2025-05-23 21:35:06",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jackson chourio",
             "game": "mil @ pit",
@@ -6834,7 +6864,7 @@
             "team": "lad",
             "start": "7:10 PM",
             "in": "3",
-            "result": "Game Advisory",
+            "result": "Pitching Substitution",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8826,21 +8856,6 @@
     ],
     "sea @ hou": [
         {
-            "player": "julio rodriguez",
-            "game": "sea @ hou",
-            "hr/park": "",
-            "pa": "39",
-            "dt": "2025-05-23 21:34:50",
-            "img": "https://www.mlbstatic.com/team-logos/136.svg",
-            "team": "sea",
-            "start": "8:10 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "96.4",
-            "la": "39",
-            "dist": "310"
-        },
-        {
             "player": "jorge polanco",
             "game": "sea @ hou",
             "hr/park": "",
@@ -8850,7 +8865,7 @@
             "team": "sea",
             "start": "8:10 PM",
             "in": "5",
-            "result": "Pop Out",
+            "result": "In Progress",
             "evo": "81.5",
             "la": "60",
             "dist": "174"
@@ -9422,10 +9437,10 @@
             "team": "kc",
             "start": "8:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "74.5",
+            "la": "18",
+            "dist": "214"
         },
         {
             "player": "freddy fermin",
@@ -10662,6 +10677,21 @@
     ],
     "nyy @ col": [
         {
+            "player": "ryan mcmahon",
+            "game": "nyy @ col",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-05-23 21:35:06",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "hunter goodman",
             "game": "nyy @ col",
             "hr/park": "",
@@ -10671,7 +10701,7 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
