@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "84",
-        "batters": "249",
-        "pitches": "3122",
+        "batters": "250",
+        "pitches": "3131",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
         "ff%fourseam fastball %": "36.5",
         "si%sinker %": "10.3",
-        "fc%cutter %": "6.8",
+        "fc%cutter %": "6.9",
         "fs%splitter %": "1.7",
         "ch%changeup %": "10.8",
         "sl%slider %": "22.2",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "207",
-        "hh%hard hit %": "38.3",
+        "hhhard hit": "208",
+        "hh%hard hit %": "38.4",
         "brlbarrels": "44",
         "brl%barrel %": "8.1",
         "ab": "698",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "19",
         "so": "161",
-        "bipballs in play": "540",
+        "bipballs in play": "541",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-05-23 21:47:15.414308"
+        "updated": "2025-05-23 21:47:26.596765"
     },
     "bal @ bos": [
         {
@@ -7065,6 +7065,21 @@
     ],
     "lad @ nym": [
         {
+            "player": "brett baty",
+            "game": "lad @ nym",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-05-23 21:46:20",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "francisco alvarez",
             "game": "lad @ nym",
             "hr/park": "",
@@ -7074,10 +7089,10 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "103.2",
+            "la": "-9",
+            "dist": "15"
         },
         {
             "player": "max muncy",
@@ -11391,7 +11406,7 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
