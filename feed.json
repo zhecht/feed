@@ -1,15 +1,15 @@
 {
     "all": {
         "pitchers": "89",
-        "batters": "218",
-        "pitches": "3018",
+        "batters": "219",
+        "pitches": "3020",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "70.6",
         "ff%fourseam fastball %": "31.6",
-        "si%sinker %": "17.1",
+        "si%sinker %": "17.2",
         "fc%cutter %": "7.9",
         "fs%splitter %": "2.3",
-        "ch%changeup %": "9.8",
+        "ch%changeup %": "9.9",
         "sl%slider %": "21.6",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "114.3",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "38.2",
         "brlbarrels": "44",
         "brl%barrel %": "7.7",
-        "ab": "729",
-        "avg": ".269",
+        "ab": "730",
+        "avg": ".268",
         "h": "196",
         "1b": "135",
         "2b": "38",
@@ -28,7 +28,7 @@
         "bipballs in play": "574",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-24 19:25:16.462870"
+        "updated": "2025-05-24 19:25:26.874483"
     },
     "bal @ bos": [
         {
@@ -1236,7 +1236,7 @@
         {
             "player": "adley rutschman",
             "game": "bal-gm2 @ bos-gm2",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "22",
             "dt": "2025-05-24 19:23:54",
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
@@ -11874,6 +11874,21 @@
     ],
     "tor @ tb": [
         {
+            "player": "jose caballero",
+            "game": "tor @ tb",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-05-24 19:25:21",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jonathan aranda",
             "game": "tor @ tb",
             "hr/park": "",
@@ -11883,7 +11898,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "93.2",
             "la": "-8",
             "dist": "19"
@@ -12067,7 +12082,7 @@
             "team": "nym",
             "start": "7:15 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
