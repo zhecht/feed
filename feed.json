@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "42",
         "batters": "201",
-        "pitches": "1856",
+        "pitches": "1864",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "37.7",
+        "ff%fourseam fastball %": "37.8",
         "si%sinker %": "10.4",
         "fc%cutter %": "4.4",
         "fs%splitter %": "2.4",
@@ -14,21 +14,21 @@
         "cu%curve %": "10.7",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "135",
-        "hh%hard hit %": "41.9",
+        "hh%hard hit %": "41.7",
         "brlbarrels": "29",
         "brl%barrel %": "9.0",
-        "ab": "411",
-        "avg": ".246",
+        "ab": "412",
+        "avg": ".245",
         "h": "101",
         "1b": "62",
         "2b": "27",
         "3b": "2",
         "hr": "10",
-        "so": "92",
-        "bipballs in play": "322",
+        "so": "93",
+        "bipballs in play": "324",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-05-23 20:39:12.194407"
+        "updated": "2025-05-23 20:39:21.418290"
     },
     "bal @ bos": [
         {
@@ -2206,7 +2206,7 @@
             "team": "mil",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2993,6 +2993,21 @@
         }
     ],
     "sf @ wsh": [
+        {
+            "player": "heliot ramos",
+            "game": "sf @ wsh",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-05-23 20:39:21",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "6:45 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "71.6",
+            "la": "63",
+            "dist": "145"
+        },
         {
             "player": "jose tena",
             "game": "sf @ wsh",
@@ -5417,6 +5432,21 @@
     ],
     "sd @ atl": [
         {
+            "player": "luis arraez",
+            "game": "sd @ atl",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-05-23 20:39:21",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "7:15 PM",
+            "in": "6",
+            "result": "Sac Bunt",
+            "evo": "46.3",
+            "la": "-19",
+            "dist": "9"
+        },
+        {
             "player": "fernando tatis",
             "game": "sd @ atl",
             "hr/park": "",
@@ -6043,7 +6073,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
