@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "50",
-        "batters": "220",
-        "pitches": "2142",
+        "batters": "221",
+        "pitches": "2153",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "36.9",
+        "ff%fourseam fastball %": "36.8",
         "si%sinker %": "10.3",
-        "fc%cutter %": "5.3",
+        "fc%cutter %": "5.4",
         "fs%splitter %": "2.2",
-        "ch%changeup %": "10.2",
+        "ch%changeup %": "10.3",
         "sl%slider %": "21.7",
         "cu%curve %": "10.6",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "150",
-        "hh%hard hit %": "41.0",
+        "hh%hard hit %": "40.8",
         "brlbarrels": "33",
         "brl%barrel %": "9.0",
         "ab": "481",
@@ -24,11 +24,11 @@
         "2b": "29",
         "3b": "3",
         "hr": "12",
-        "so": "115",
-        "bipballs in play": "366",
+        "so": "116",
+        "bipballs in play": "368",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-23 20:53:47.400089"
+        "updated": "2025-05-23 20:53:57.093604"
     },
     "bal @ bos": [
         {
@@ -4838,9 +4838,9 @@
             "start": "7:10 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "94.6",
+            "la": "35",
+            "dist": "360"
         },
         {
             "player": "steven kwan",
@@ -7140,7 +7140,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7447,6 +7447,21 @@
         }
     ],
     "kc @ min": [
+        {
+            "player": "harrison bader",
+            "game": "kc @ min",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-05-23 20:52:50",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "drew waters",
             "game": "kc @ min",
@@ -7789,7 +7804,7 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "3",
-            "result": "Stolen Base 2B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
