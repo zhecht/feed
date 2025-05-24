@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "25",
-        "batters": "66",
-        "pitches": "743",
+        "pitchers": "26",
+        "batters": "68",
+        "pitches": "752",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "73.8",
-        "ff%fourseam fastball %": "31.5",
-        "si%sinker %": "10.0",
-        "fc%cutter %": "15.7",
+        "ff%fourseam fastball %": "31.6",
+        "si%sinker %": "10.1",
+        "fc%cutter %": "15.8",
         "fs%splitter %": "0.3",
-        "ch%changeup %": "12.7",
-        "sl%slider %": "21.7",
-        "cu%curve %": "8.2",
+        "ch%changeup %": "12.5",
+        "sl%slider %": "21.5",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "51",
+        "hhhard hit": "52",
         "hh%hard hit %": "34.9",
         "brlbarrels": "10",
-        "brl%barrel %": "6.8",
-        "ab": "182",
-        "avg": ".258",
+        "brl%barrel %": "6.7",
+        "ab": "186",
+        "avg": ".253",
         "h": "47",
         "1b": "32",
         "2b": "9",
         "3b": "0",
         "hr": "6",
         "so": "39",
-        "bipballs in play": "146",
+        "bipballs in play": "149",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-24 16:12:00.514429"
+        "updated": "2025-05-24 16:12:08.356682"
     },
     "bal @ bos": [
         {
@@ -1054,6 +1054,36 @@
     ],
     "bal-gm2 @ bos-gm2": [],
     "kc @ min": [
+        {
+            "player": "trevor larnach",
+            "game": "kc @ min",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-05-24 16:12:05",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "christian vazquez",
+            "game": "kc @ min",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-05-24 16:12:05",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "65.2",
+            "la": "-25",
+            "dist": "6"
+        },
         {
             "player": "drew waters",
             "game": "kc @ min",
@@ -2930,10 +2960,10 @@
             "team": "mil",
             "start": "4:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "97.0",
+            "la": "6",
+            "dist": "131"
         },
         {
             "player": "jackson chourio",
@@ -2970,6 +3000,21 @@
     "sea @ hou": [],
     "sd @ atl": [
         {
+            "player": "luis arraez",
+            "game": "sd @ atl",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-05-24 16:12:05",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "fernando tatis",
             "game": "sd @ atl",
             "hr/park": "",
@@ -2979,13 +3024,28 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "74.2",
+            "la": "-14",
+            "dist": "7"
         }
     ],
     "tex @ chw": [
+        {
+            "player": "josh smith",
+            "game": "tex @ chw",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-05-24 16:12:05",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "sam haggerty",
             "game": "tex @ chw",
