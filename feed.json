@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "113",
         "batters": "291",
-        "pitches": "3866",
+        "pitches": "3874",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
         "ff%fourseam fastball %": "35.3",
-        "si%sinker %": "11.8",
+        "si%sinker %": "11.9",
         "fc%cutter %": "6.9",
         "fs%splitter %": "1.6",
         "ch%changeup %": "10.1",
         "sl%slider %": "23.0",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "250",
-        "hh%hard hit %": "37.5",
-        "brlbarrels": "59",
-        "brl%barrel %": "8.9",
-        "ab": "866",
-        "avg": ".249",
-        "h": "216",
-        "1b": "142",
+        "hhhard hit": "252",
+        "hh%hard hit %": "37.6",
+        "brlbarrels": "60",
+        "brl%barrel %": "9.0",
+        "ab": "868",
+        "avg": ".251",
+        "h": "218",
+        "1b": "143",
         "2b": "42",
         "3b": "5",
-        "hr": "27",
+        "hr": "28",
         "so": "205",
-        "bipballs in play": "666",
+        "bipballs in play": "670",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-05-23 22:37:48.250356"
+        "updated": "2025-05-23 22:38:15.996363"
     },
     "bal @ bos": [
         {
@@ -1472,7 +1472,6 @@
             "dist": ""
         }
     ],
-    "bal-gm2 @ bos-gm2": [],
     "chc @ cin": [
         {
             "player": "will benson",
@@ -7230,7 +7229,7 @@
         {
             "player": "nolan jones",
             "game": "cle @ det",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "13",
             "dt": "2025-05-23 19:31:35",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
@@ -11153,6 +11152,21 @@
     ],
     "kc @ min": [
         {
+            "player": "ty france",
+            "game": "kc @ min",
+            "hr/park": "27/30",
+            "pa": "68",
+            "dt": "2025-05-23 22:38:10",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "9",
+            "result": "Home Run",
+            "evo": "107.1",
+            "la": "26",
+            "dist": "403"
+        },
+        {
             "player": "carlos correa",
             "game": "kc @ min",
             "hr/park": "",
@@ -12159,6 +12173,21 @@
         }
     ],
     "ari @ stl": [
+        {
+            "player": "corbin carroll",
+            "game": "ari @ stl",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-05-23 22:37:51",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "8:15 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "93.5",
+            "la": "70",
+            "dist": "135"
+        },
         {
             "player": "gabriel moreno",
             "game": "ari @ stl",
@@ -13176,10 +13205,10 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "84.3",
+            "la": "13",
+            "dist": "165"
         },
         {
             "player": "adael amador",
@@ -14388,17 +14417,17 @@
         {
             "player": "nick kurtz",
             "game": "phi @ ath",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "17",
             "dt": "2025-05-23 22:37:36",
             "img": "https://www.mlbstatic.com/team-logos/133.svg",
             "team": "ath",
             "start": "10:05 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "100.5",
+            "la": "19",
+            "dist": "309"
         },
         {
             "player": "miguel andujar",
@@ -14640,5 +14669,6 @@
             "la": "32",
             "dist": "426"
         }
-    ]
+    ],
+    "bal-gm2 @ bos-gm2": []
 }
