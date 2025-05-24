@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "45",
         "batters": "178",
-        "pitches": "1401",
+        "pitches": "1404",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "73.7",
         "ff%fourseam fastball %": "32.8",
         "si%sinker %": "14.9",
         "fc%cutter %": "10.5",
         "fs%splitter %": "1.4",
-        "ch%changeup %": "10.3",
+        "ch%changeup %": "10.4",
         "sl%slider %": "20.9",
         "cu%curve %": "9.1",
         "max evmax exit velocity": "113.5",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "37.2",
         "brlbarrels": "17",
         "brl%barrel %": "6.4",
-        "ab": "336",
-        "avg": ".262",
+        "ab": "338",
+        "avg": ".260",
         "h": "88",
         "1b": "60",
         "2b": "17",
@@ -28,7 +28,7 @@
         "bipballs in play": "266",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-24 16:48:34.361209"
+        "updated": "2025-05-24 16:48:42.919678"
     },
     "bal @ bos": [
         {
@@ -2392,6 +2392,21 @@
     ],
     "ari @ stl": [
         {
+            "player": "eugenio suarez",
+            "game": "ari @ stl",
+            "hr/park": "",
+            "pa": "75",
+            "dt": "2025-05-24 16:48:37",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "2:15 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "lourdes gurriel",
             "game": "ari @ stl",
             "hr/park": "",
@@ -3866,6 +3881,21 @@
     ],
     "mil @ pit": [
         {
+            "player": "jackson chourio",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-05-24 16:48:37",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brice turang",
             "game": "mil @ pit",
             "hr/park": "",
@@ -4192,10 +4222,10 @@
             "team": "cin",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "78.0",
+            "la": "78",
+            "dist": "93"
         },
         {
             "player": "matt mclain",
@@ -4450,9 +4480,9 @@
             "start": "4:10 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "66.3",
-            "la": "-17",
-            "dist": "9"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "zach dezenzo",
