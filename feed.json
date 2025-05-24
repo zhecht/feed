@@ -1,13 +1,13 @@
 {
     "all": {
-        "pitchers": "85",
-        "batters": "205",
-        "pitches": "2945",
+        "pitchers": "86",
+        "batters": "206",
+        "pitches": "2950",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "70.6",
         "ff%fourseam fastball %": "31.4",
         "si%sinker %": "17.0",
-        "fc%cutter %": "8.0",
+        "fc%cutter %": "8.1",
         "fs%splitter %": "2.3",
         "ch%changeup %": "9.9",
         "sl%slider %": "21.6",
@@ -28,7 +28,7 @@
         "bipballs in play": "563",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-24 19:16:12.193638"
+        "updated": "2025-05-24 19:16:22.722074"
     },
     "bal @ bos": [
         {
@@ -1228,7 +1228,7 @@
             "team": "bal",
             "start": "6:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Caught Stealing 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11808,7 +11808,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11874,7 +11874,23 @@
             "dist": "303"
         }
     ],
-    "cle @ det": [],
+    "cle @ det": [
+        {
+            "player": "steven kwan",
+            "game": "cle @ det",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-24 19:16:22",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "lad @ nym": [],
     "phi @ ath": [],
     "mia @ laa": []
