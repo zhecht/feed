@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "94",
+        "pitchers": "96",
         "batters": "262",
-        "pitches": "3381",
+        "pitches": "3389",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "36.0",
+        "ff%fourseam fastball %": "35.9",
         "si%sinker %": "11.2",
         "fc%cutter %": "6.9",
         "fs%splitter %": "1.7",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.9",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "226",
-        "hh%hard hit %": "38.8",
+        "hh%hard hit %": "38.7",
         "brlbarrels": "51",
         "brl%barrel %": "8.7",
-        "ab": "756",
-        "avg": ".249",
-        "h": "188",
-        "1b": "122",
-        "2b": "38",
+        "ab": "760",
+        "avg": ".250",
+        "h": "190",
+        "1b": "123",
+        "2b": "39",
         "3b": "5",
         "hr": "23",
-        "so": "178",
-        "bipballs in play": "583",
+        "so": "179",
+        "bipballs in play": "584",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-05-23 22:03:34.179766"
+        "updated": "2025-05-23 22:03:45.420005"
     },
     "bal @ bos": [
         {
@@ -1475,6 +1475,21 @@
     "bal-gm2 @ bos-gm2": [],
     "chc @ cin": [
         {
+            "player": "spencer steer",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "87",
+            "dt": "2025-05-23 22:03:37",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "matt shaw",
             "game": "chc @ cin",
             "hr/park": "",
@@ -2766,6 +2781,21 @@
         }
     ],
     "mil @ pit": [
+        {
+            "player": "jake bauers",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "85",
+            "dt": "2025-05-23 22:03:37",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "6:40 PM",
+            "in": "10",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "spencer horwitz",
             "game": "mil @ pit",
@@ -7260,6 +7290,21 @@
     ],
     "lad @ nym": [
         {
+            "player": "starling marte",
+            "game": "lad @ nym",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-05-23 22:03:37",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "Single",
+            "evo": "25.6",
+            "la": "25",
+            "dist": "41"
+        },
+        {
             "player": "shohei ohtani",
             "game": "lad @ nym",
             "hr/park": "",
@@ -9705,7 +9750,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Caught Stealing 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11335,16 +11380,31 @@
     ],
     "ari @ stl": [
         {
-            "player": "tim tawa",
+            "player": "jose herrera",
             "game": "ari @ stl",
             "hr/park": "",
+            "pa": "52",
+            "dt": "2025-05-23 22:03:37",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "8:15 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "tim tawa",
+            "game": "ari @ stl",
+            "hr/park": "2/30",
             "pa": "51",
             "dt": "2025-05-23 22:01:52",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "start": "8:15 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "103.4",
             "la": "22",
             "dist": "368"
@@ -12698,7 +12758,7 @@
             "team": "mia",
             "start": "9:38 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
