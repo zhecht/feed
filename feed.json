@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "52",
         "batters": "186",
-        "pitches": "2133",
+        "pitches": "2139",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "31.5",
+        "ff%fourseam fastball %": "31.6",
         "si%sinker %": "16.1",
-        "fc%cutter %": "8.9",
-        "fs%splitter %": "1.5",
+        "fc%cutter %": "8.8",
+        "fs%splitter %": "1.4",
         "ch%changeup %": "10.1",
         "sl%slider %": "20.8",
         "cu%curve %": "11.1",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "161",
-        "hh%hard hit %": "38.7",
+        "hh%hard hit %": "38.6",
         "brlbarrels": "30",
         "brl%barrel %": "7.2",
-        "ab": "522",
-        "avg": ".276",
+        "ab": "523",
+        "avg": ".275",
         "h": "144",
         "1b": "104",
         "2b": "25",
         "3b": "3",
         "hr": "12",
-        "so": "121",
-        "bipballs in play": "416",
+        "so": "122",
+        "bipballs in play": "417",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-24 17:46:16.987673"
+        "updated": "2025-05-24 17:46:26.493731"
     },
     "bal @ bos": [
         {
@@ -3588,7 +3588,7 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4436,6 +4436,21 @@
     ],
     "mil @ pit": [
         {
+            "player": "joey ortiz",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-05-24 17:46:21",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "4:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jake bauers",
             "game": "mil @ pit",
             "hr/park": "",
@@ -4445,10 +4460,10 @@
             "team": "mil",
             "start": "4:05 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "66.5",
+            "la": "-5",
+            "dist": "22"
         },
         {
             "player": "caleb durbin",
@@ -5874,7 +5889,7 @@
             "team": "hou",
             "start": "4:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "67.9",
             "la": "2",
             "dist": "44"
@@ -7995,7 +8010,7 @@
             "team": "col",
             "start": "4:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "89.3",
             "la": "1",
             "dist": "50"
