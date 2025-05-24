@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "38",
-        "batters": "189",
-        "pitches": "1689",
+        "batters": "190",
+        "pitches": "1692",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "37.7",
+        "ff%fourseam fastball %": "37.8",
         "si%sinker %": "10.8",
         "fc%cutter %": "4.1",
         "fs%splitter %": "2.2",
@@ -14,21 +14,21 @@
         "cu%curve %": "10.8",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "126",
-        "hh%hard hit %": "42.1",
+        "hh%hard hit %": "42.0",
         "brlbarrels": "26",
         "brl%barrel %": "8.7",
-        "ab": "383",
-        "avg": ".253",
+        "ab": "382",
+        "avg": ".254",
         "h": "97",
         "1b": "60",
         "2b": "26",
         "3b": "2",
         "hr": "9",
         "so": "81",
-        "bipballs in play": "299",
+        "bipballs in play": "300",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-05-23 20:30:12.270670"
+        "updated": "2025-05-23 20:30:21.538331"
     },
     "bal @ bos": [
         {
@@ -1484,7 +1484,7 @@
             "team": "cin",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4258,21 +4258,6 @@
     ],
     "cle @ det": [
         {
-            "player": "colt keith",
-            "game": "cle @ det",
-            "hr/park": "",
-            "pa": "43",
-            "dt": "2025-05-23 20:30:06",
-            "img": "https://www.mlbstatic.com/team-logos/116.svg",
-            "team": "det",
-            "start": "7:10 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "gleyber torres",
             "game": "cle @ det",
             "hr/park": "",
@@ -4282,7 +4267,7 @@
             "team": "det",
             "start": "7:10 PM",
             "in": "5",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "79.8",
             "la": "-13",
             "dist": "12"
@@ -6111,6 +6096,21 @@
     ],
     "sea @ hou": [
         {
+            "player": "rowdy tellez",
+            "game": "sea @ hou",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-05-23 20:30:19",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "randy arozarena",
             "game": "sea @ hou",
             "hr/park": "0/30",
@@ -6424,10 +6424,10 @@
             "team": "ari",
             "start": "8:15 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "54.4",
+            "la": "-19",
+            "dist": "10"
         },
         {
             "player": "ivan herrera",
