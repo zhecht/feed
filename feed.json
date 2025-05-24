@@ -1,26 +1,26 @@
 {
     "all": {
-        "pitchers": "24",
-        "batters": "64",
-        "pitches": "735",
+        "pitchers": "25",
+        "batters": "66",
+        "pitches": "739",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "73.8",
         "ff%fourseam fastball %": "31.7",
         "si%sinker %": "9.7",
-        "fc%cutter %": "15.5",
+        "fc%cutter %": "15.7",
         "fs%splitter %": "0.3",
-        "ch%changeup %": "12.7",
-        "sl%slider %": "21.9",
+        "ch%changeup %": "12.6",
+        "sl%slider %": "21.8",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "51",
         "hh%hard hit %": "35.2",
         "brlbarrels": "10",
         "brl%barrel %": "6.9",
-        "ab": "180",
-        "avg": ".250",
-        "h": "45",
-        "1b": "30",
+        "ab": "182",
+        "avg": ".253",
+        "h": "46",
+        "1b": "31",
         "2b": "9",
         "3b": "0",
         "hr": "6",
@@ -28,7 +28,7 @@
         "bipballs in play": "145",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-24 16:11:29.112001"
+        "updated": "2025-05-24 16:11:36.821208"
     },
     "bal @ bos": [
         {
@@ -2968,7 +2968,23 @@
     ],
     "chc @ cin": [],
     "sea @ hou": [],
-    "sd @ atl": [],
+    "sd @ atl": [
+        {
+            "player": "fernando tatis",
+            "game": "sd @ atl",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-24 16:11:35",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "tex @ chw": [
         {
             "player": "sam haggerty",
@@ -2988,6 +3004,21 @@
     ],
     "nyy @ col": [
         {
+            "player": "trent grisham",
+            "game": "nyy @ col",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-05-24 16:11:35",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "paul goldschmidt",
             "game": "nyy @ col",
             "hr/park": "",
@@ -2997,7 +3028,7 @@
             "team": "nyy",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "76.9",
             "la": "15",
             "dist": "175"
