@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "63",
-        "batters": "234",
-        "pitches": "2622",
+        "batters": "235",
+        "pitches": "2628",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
         "ff%fourseam fastball %": "36.3",
         "si%sinker %": "10.2",
-        "fc%cutter %": "6.4",
+        "fc%cutter %": "6.5",
         "fs%splitter %": "1.9",
         "ch%changeup %": "10.1",
         "sl%slider %": "22.8",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "180",
-        "hh%hard hit %": "40.4",
+        "hhhard hit": "181",
+        "hh%hard hit %": "40.5",
         "brlbarrels": "38",
         "brl%barrel %": "8.5",
-        "ab": "583",
-        "avg": ".249",
-        "h": "145",
-        "1b": "92",
+        "ab": "585",
+        "avg": ".246",
+        "h": "144",
+        "1b": "91",
         "2b": "35",
         "3b": "3",
         "hr": "15",
-        "so": "138",
-        "bipballs in play": "446",
+        "so": "139",
+        "bipballs in play": "447",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-23 21:18:25.014695"
+        "updated": "2025-05-23 21:18:35.224630"
     },
     "bal @ bos": [
         {
@@ -3459,6 +3459,21 @@
     ],
     "sf @ wsh": [
         {
+            "player": "luis garcia",
+            "game": "sf @ wsh",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-05-23 21:17:36",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "9",
+            "result": "Lineout",
+            "evo": "95.1",
+            "la": "19",
+            "dist": "281"
+        },
+        {
             "player": "keibert ruiz",
             "game": "sf @ wsh",
             "hr/park": "0/30",
@@ -5413,6 +5428,21 @@
     ],
     "cle @ det": [
         {
+            "player": "riley greene",
+            "game": "cle @ det",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-05-23 21:18:35",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "colt keith",
             "game": "cle @ det",
             "hr/park": "",
@@ -6671,7 +6701,7 @@
             "team": "sd",
             "start": "7:15 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8181,21 +8211,6 @@
     ],
     "sea @ hou": [
         {
-            "player": "cam smith",
-            "game": "sea @ hou",
-            "hr/park": "",
-            "pa": "33",
-            "dt": "2025-05-23 21:18:21",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "8:10 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jake meyers",
             "game": "sea @ hou",
             "hr/park": "",
@@ -8205,7 +8220,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "4",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "99.6",
             "la": "11",
             "dist": "202"
@@ -9220,6 +9235,21 @@
     ],
     "ari @ stl": [
         {
+            "player": "alek thomas",
+            "game": "ari @ stl",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-05-23 21:18:35",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "8:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "geraldo perdomo",
             "game": "ari @ stl",
             "hr/park": "",
@@ -9229,7 +9259,7 @@
             "team": "ari",
             "start": "8:15 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "84.8",
             "la": "-18",
             "dist": "8"
