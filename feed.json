@@ -2,12 +2,12 @@
     "all": {
         "pitchers": "64",
         "batters": "188",
-        "pitches": "2427",
+        "pitches": "2432",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "70.6",
-        "ff%fourseam fastball %": "31.1",
-        "si%sinker %": "17.3",
-        "fc%cutter %": "8.8",
+        "ff%fourseam fastball %": "31.0",
+        "si%sinker %": "17.4",
+        "fc%cutter %": "8.9",
         "fs%splitter %": "1.4",
         "ch%changeup %": "9.9",
         "sl%slider %": "20.6",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "38.7",
         "brlbarrels": "33",
         "brl%barrel %": "6.9",
-        "ab": "597",
-        "avg": ".275",
+        "ab": "598",
+        "avg": ".274",
         "h": "164",
         "1b": "120",
         "2b": "26",
@@ -28,7 +28,7 @@
         "bipballs in play": "476",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-24 18:12:46.066631"
+        "updated": "2025-05-24 18:12:55.847259"
     },
     "bal @ bos": [
         {
@@ -8119,6 +8119,21 @@
     ],
     "tex @ chw": [
         {
+            "player": "mike tauchman",
+            "game": "tex @ chw",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-05-24 18:12:50",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "4:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "chase meidroth",
             "game": "tex @ chw",
             "hr/park": "",
@@ -8128,7 +8143,7 @@
             "team": "chw",
             "start": "4:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Field Error",
             "evo": "93.3",
             "la": "-9",
             "dist": "12"
@@ -9000,7 +9015,7 @@
             "team": "col",
             "start": "4:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "80.8",
             "la": "5",
             "dist": "93"
