@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "79",
         "batters": "244",
-        "pitches": "3017",
+        "pitches": "3020",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
         "ff%fourseam fastball %": "36.3",
@@ -10,15 +10,15 @@
         "fc%cutter %": "6.9",
         "fs%splitter %": "1.8",
         "ch%changeup %": "10.6",
-        "sl%slider %": "22.6",
+        "sl%slider %": "22.5",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "200",
         "hh%hard hit %": "38.4",
         "brlbarrels": "43",
         "brl%barrel %": "8.3",
-        "ab": "678",
-        "avg": ".251",
+        "ab": "680",
+        "avg": ".250",
         "h": "170",
         "1b": "110",
         "2b": "38",
@@ -28,7 +28,7 @@
         "bipballs in play": "521",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-05-23 21:41:16.637995"
+        "updated": "2025-05-23 21:41:27.609862"
     },
     "bal @ bos": [
         {
@@ -1475,6 +1475,21 @@
     "bal-gm2 @ bos-gm2": [],
     "chc @ cin": [
         {
+            "player": "seiya suzuki",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "76",
+            "dt": "2025-05-23 21:41:22",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle tucker",
             "game": "chc @ cin",
             "hr/park": "",
@@ -1484,7 +1499,7 @@
             "team": "chc",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "78.7",
             "la": "41",
             "dist": "246"
@@ -4811,6 +4826,21 @@
     ],
     "tor @ tb": [
         {
+            "player": "nathan lukes",
+            "game": "tor @ tb",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-05-23 21:40:36",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:05 PM",
+            "in": "9",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "anthony santander",
             "game": "tor @ tb",
             "hr/park": "",
@@ -7291,21 +7321,6 @@
         }
     ],
     "sd @ atl": [
-        {
-            "player": "ozzie albies",
-            "game": "sd @ atl",
-            "hr/park": "",
-            "pa": "68",
-            "dt": "2025-05-23 21:40:51",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "7:15 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "sean murphy",
             "game": "sd @ atl",
@@ -10435,6 +10450,21 @@
     ],
     "ari @ stl": [
         {
+            "player": "lars nootbaar",
+            "game": "ari @ stl",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-05-23 21:41:22",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:15 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "victor scott",
             "game": "ari @ stl",
             "hr/park": "",
@@ -11483,7 +11513,7 @@
             "team": "mia",
             "start": "9:38 PM",
             "in": "1",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
