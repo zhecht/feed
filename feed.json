@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "76",
+        "pitchers": "77",
         "batters": "188",
-        "pitches": "2658",
+        "pitches": "2661",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "70.6",
         "ff%fourseam fastball %": "31.9",
-        "si%sinker %": "16.4",
+        "si%sinker %": "16.5",
         "fc%cutter %": "8.7",
         "fs%splitter %": "2.0",
         "ch%changeup %": "9.6",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "38.0",
         "brlbarrels": "33",
         "brl%barrel %": "6.5",
-        "ab": "642",
-        "avg": ".274",
-        "h": "176",
-        "1b": "125",
+        "ab": "644",
+        "avg": ".275",
+        "h": "177",
+        "1b": "126",
         "2b": "32",
         "3b": "6",
         "hr": "13",
@@ -28,7 +28,7 @@
         "bipballs in play": "511",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-05-24 18:36:34.160096"
+        "updated": "2025-05-24 18:36:44.291778"
     },
     "bal @ bos": [
         {
@@ -1217,7 +1217,23 @@
             "dist": ""
         }
     ],
-    "bal-gm2 @ bos-gm2": [],
+    "bal-gm2 @ bos-gm2": [
+        {
+            "player": "gunnar henderson",
+            "game": "bal-gm2 @ bos-gm2",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-24 18:36:37",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "kc @ min": [
         {
             "player": "brooks lee",
@@ -9666,6 +9682,21 @@
     ],
     "nyy @ col": [
         {
+            "player": "jordan beck",
+            "game": "nyy @ col",
+            "hr/park": "",
+            "pa": "74",
+            "dt": "2025-05-24 18:35:36",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jacob stallings",
             "game": "nyy @ col",
             "hr/park": "",
@@ -9675,7 +9706,7 @@
             "team": "col",
             "start": "4:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "83.0",
             "la": "4",
             "dist": "94"
