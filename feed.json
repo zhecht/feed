@@ -2,12 +2,12 @@
     "all": {
         "pitchers": "84",
         "batters": "250",
-        "pitches": "3131",
+        "pitches": "3136",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
         "ff%fourseam fastball %": "36.5",
         "si%sinker %": "10.3",
-        "fc%cutter %": "6.9",
+        "fc%cutter %": "7.0",
         "fs%splitter %": "1.7",
         "ch%changeup %": "10.8",
         "sl%slider %": "22.2",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "38.4",
         "brlbarrels": "44",
         "brl%barrel %": "8.1",
-        "ab": "698",
+        "ab": "700",
         "avg": ".249",
         "h": "174",
         "1b": "113",
         "2b": "38",
         "3b": "4",
         "hr": "19",
-        "so": "161",
+        "so": "162",
         "bipballs in play": "541",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-05-23 21:47:48.356690"
+        "updated": "2025-05-23 21:47:59.463537"
     },
     "bal @ bos": [
         {
@@ -2671,7 +2671,7 @@
             "team": "mil",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7074,7 +7074,7 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9323,7 +9323,7 @@
         {
             "player": "christian walker",
             "game": "sea @ hou",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "44",
             "dt": "2025-05-23 21:46:06",
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
@@ -10735,6 +10735,21 @@
     ],
     "ari @ stl": [
         {
+            "player": "ivan herrera",
+            "game": "ari @ stl",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-05-23 21:47:51",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:15 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brendan donovan",
             "game": "ari @ stl",
             "hr/park": "",
@@ -11396,6 +11411,21 @@
         }
     ],
     "nyy @ col": [
+        {
+            "player": "brenton doyle",
+            "game": "nyy @ col",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-05-23 21:47:51",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ryan mcmahon",
             "game": "nyy @ col",
