@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "121",
         "batters": "293",
-        "pitches": "4082",
+        "pitches": "4085",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "34.3",
         "ff%fourseam fastball %": "35.2",
@@ -13,22 +13,22 @@
         "sl%slider %": "22.9",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "265",
-        "hh%hard hit %": "37.0",
+        "hhhard hit": "266",
+        "hh%hard hit %": "37.1",
         "brlbarrels": "61",
         "brl%barrel %": "8.5",
-        "ab": "928",
-        "avg": ".245",
+        "ab": "929",
+        "avg": ".244",
         "h": "227",
         "1b": "150",
         "2b": "44",
         "3b": "5",
         "hr": "28",
         "so": "219",
-        "bipballs in play": "716",
+        "bipballs in play": "717",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-05-23 23:04:31.021607"
+        "updated": "2025-05-23 23:04:43.093266"
     },
     "bal @ bos": [
         {
@@ -14587,7 +14587,7 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -15180,6 +15180,21 @@
     ],
     "phi @ ath": [
         {
+            "player": "shea langeliers",
+            "game": "phi @ ath",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-05-23 23:04:38",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brent rooker",
             "game": "phi @ ath",
             "hr/park": "",
@@ -15189,10 +15204,10 @@
             "team": "ath",
             "start": "10:05 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "100.4",
+            "la": "2",
+            "dist": "59"
         },
         {
             "player": "tyler soderstrom",
