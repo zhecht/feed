@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "76",
         "batters": "241",
-        "pitches": "2930",
+        "pitches": "2931",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
         "ff%fourseam fastball %": "35.8",
         "si%sinker %": "10.4",
-        "fc%cutter %": "6.8",
+        "fc%cutter %": "6.9",
         "fs%splitter %": "1.8",
         "ch%changeup %": "10.7",
         "sl%slider %": "22.8",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "195",
-        "hh%hard hit %": "38.9",
+        "hh%hard hit %": "38.8",
         "brlbarrels": "41",
         "brl%barrel %": "8.2",
         "ab": "659",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "17",
         "so": "158",
-        "bipballs in play": "501",
+        "bipballs in play": "502",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-23 21:36:25.604710"
+        "updated": "2025-05-23 21:36:36.312527"
     },
     "bal @ bos": [
         {
@@ -1484,7 +1484,7 @@
             "team": "chc",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5782,10 +5782,10 @@
             "team": "det",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "87.5",
+            "la": "76",
+            "dist": "70"
         },
         {
             "player": "trey sweeney",
@@ -6870,6 +6870,21 @@
     ],
     "lad @ nym": [
         {
+            "player": "will smith",
+            "game": "lad @ nym",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-05-23 21:36:36",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "freddie freeman",
             "game": "lad @ nym",
             "hr/park": "",
@@ -6879,7 +6894,7 @@
             "team": "lad",
             "start": "7:10 PM",
             "in": "3",
-            "result": "Pitching Substitution",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
