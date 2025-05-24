@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "50",
         "batters": "185",
-        "pitches": "2009",
+        "pitches": "2015",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "73.7",
         "ff%fourseam fastball %": "31.5",
@@ -11,24 +11,24 @@
         "fs%splitter %": "1.4",
         "ch%changeup %": "10.3",
         "sl%slider %": "20.9",
-        "cu%curve %": "11.0",
+        "cu%curve %": "10.9",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "155",
-        "hh%hard hit %": "39.5",
-        "brlbarrels": "29",
-        "brl%barrel %": "7.4",
-        "ab": "492",
-        "avg": ".274",
-        "h": "135",
-        "1b": "97",
-        "2b": "23",
+        "hhhard hit": "157",
+        "hh%hard hit %": "39.8",
+        "brlbarrels": "30",
+        "brl%barrel %": "7.6",
+        "ab": "494",
+        "avg": ".277",
+        "h": "137",
+        "1b": "98",
+        "2b": "24",
         "3b": "3",
         "hr": "12",
         "so": "112",
-        "bipballs in play": "392",
+        "bipballs in play": "394",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-24 17:36:16.129270"
+        "updated": "2025-05-24 17:36:25.527881"
     },
     "bal @ bos": [
         {
@@ -5053,6 +5053,21 @@
     ],
     "chc @ cin": [
         {
+            "player": "austin hays",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-05-24 17:36:20",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "elly de la cruz",
             "game": "chc @ cin",
             "hr/park": "",
@@ -6943,10 +6958,10 @@
             "team": "tex",
             "start": "4:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "102.5",
+            "la": "9",
+            "dist": "155"
         },
         {
             "player": "miguel vargas",
@@ -7566,11 +7581,11 @@
     ],
     "nyy @ col": [
         {
-            "player": "trent grisham",
+            "player": "aaron judge",
             "game": "nyy @ col",
             "hr/park": "",
-            "pa": "44",
-            "dt": "2025-05-24 17:34:51",
+            "pa": "45",
+            "dt": "2025-05-24 17:36:20",
             "img": "https://www.mlbstatic.com/team-logos/147.svg",
             "team": "nyy",
             "start": "4:10 PM",
@@ -7579,6 +7594,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "trent grisham",
+            "game": "nyy @ col",
+            "hr/park": "12/30",
+            "pa": "44",
+            "dt": "2025-05-24 17:34:51",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "Double",
+            "evo": "106.5",
+            "la": "19",
+            "dist": "394"
         },
         {
             "player": "paul goldschmidt",
