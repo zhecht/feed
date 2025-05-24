@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "42",
-        "batters": "145",
-        "pitches": "1156",
+        "batters": "146",
+        "pitches": "1164",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "73.8",
-        "ff%fourseam fastball %": "32.4",
-        "si%sinker %": "15.1",
-        "fc%cutter %": "11.7",
+        "ff%fourseam fastball %": "32.6",
+        "si%sinker %": "15.0",
+        "fc%cutter %": "11.6",
         "fs%splitter %": "1.3",
-        "ch%changeup %": "10.6",
+        "ch%changeup %": "10.7",
         "sl%slider %": "20.8",
         "cu%curve %": "8.1",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "83",
-        "hh%hard hit %": "37.6",
+        "hhhard hit": "85",
+        "hh%hard hit %": "37.9",
         "brlbarrels": "16",
-        "brl%barrel %": "7.2",
+        "brl%barrel %": "7.1",
         "ab": "285",
         "avg": ".267",
         "h": "76",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "9",
         "so": "69",
-        "bipballs in play": "221",
+        "bipballs in play": "224",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-24 16:34:14.158480"
+        "updated": "2025-05-24 16:34:22.648532"
     },
     "bal @ bos": [
         {
@@ -3773,9 +3773,9 @@
             "start": "4:10 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "100.3",
+            "la": "22",
+            "dist": "339"
         },
         {
             "player": "spencer steer",
@@ -3925,9 +3925,9 @@
             "start": "4:10 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "99.7",
+            "la": "24",
+            "dist": "399"
         },
         {
             "player": "cam smith",
@@ -4082,6 +4082,21 @@
     ],
     "sd @ atl": [
         {
+            "player": "ozzie albies",
+            "game": "sd @ atl",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-05-24 16:34:21",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alex verdugo",
             "game": "sd @ atl",
             "hr/park": "",
@@ -4091,7 +4106,7 @@
             "team": "atl",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
