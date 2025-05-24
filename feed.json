@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "67",
         "batters": "236",
-        "pitches": "2746",
+        "pitches": "2759",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
         "ff%fourseam fastball %": "36.2",
-        "si%sinker %": "10.2",
-        "fc%cutter %": "6.6",
+        "si%sinker %": "10.1",
+        "fc%cutter %": "6.5",
         "fs%splitter %": "1.9",
         "ch%changeup %": "10.2",
         "sl%slider %": "23.1",
         "cu%curve %": "9.8",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "186",
-        "hh%hard hit %": "39.9",
+        "hhhard hit": "187",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "40",
-        "brl%barrel %": "8.6",
-        "ab": "612",
-        "avg": ".245",
-        "h": "150",
+        "brl%barrel %": "8.5",
+        "ab": "614",
+        "avg": ".246",
+        "h": "151",
         "1b": "94",
         "2b": "37",
-        "3b": "3",
+        "3b": "4",
         "hr": "16",
-        "so": "147",
-        "bipballs in play": "466",
+        "so": "148",
+        "bipballs in play": "468",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-23 21:26:17.111580"
+        "updated": "2025-05-23 21:26:27.485899"
     },
     "bal @ bos": [
         {
@@ -1474,6 +1474,21 @@
     ],
     "bal-gm2 @ bos-gm2": [],
     "chc @ cin": [
+        {
+            "player": "tyler stephenson",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-05-23 21:26:20",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "spencer steer",
             "game": "chc @ cin",
@@ -5565,17 +5580,17 @@
         {
             "player": "bo naylor",
             "game": "cle @ det",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "67",
             "dt": "2025-05-23 21:24:50",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
             "team": "cle",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Triple",
+            "evo": "102.6",
+            "la": "18",
+            "dist": "309"
         },
         {
             "player": "spencer torkelson",
@@ -8460,7 +8475,7 @@
             "team": "sea",
             "start": "8:10 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8992,6 +9007,21 @@
         }
     ],
     "kc @ min": [
+        {
+            "player": "harrison bader",
+            "game": "kc @ min",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-05-23 21:26:20",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "57.6",
+            "la": "-45",
+            "dist": "4"
+        },
         {
             "player": "jonah bride",
             "game": "kc @ min",
@@ -9589,7 +9619,7 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
