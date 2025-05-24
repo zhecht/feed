@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "47",
         "batters": "185",
-        "pitches": "1687",
+        "pitches": "1695",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "73.7",
         "ff%fourseam fastball %": "32.3",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.0",
         "cu%curve %": "10.4",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "121",
-        "hh%hard hit %": "38.1",
-        "brlbarrels": "23",
-        "brl%barrel %": "7.2",
-        "ab": "408",
-        "avg": ".262",
-        "h": "107",
-        "1b": "76",
+        "hhhard hit": "123",
+        "hh%hard hit %": "38.3",
+        "brlbarrels": "24",
+        "brl%barrel %": "7.5",
+        "ab": "410",
+        "avg": ".263",
+        "h": "108",
+        "1b": "77",
         "2b": "18",
         "3b": "2",
         "hr": "11",
         "so": "98",
-        "bipballs in play": "318",
+        "bipballs in play": "321",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-24 17:09:00.105005"
+        "updated": "2025-05-24 17:09:09.016270"
     },
     "bal @ bos": [
         {
@@ -3588,10 +3588,10 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "71.6",
+            "la": "-43",
+            "dist": "2"
         },
         {
             "player": "patrick bailey",
@@ -4106,6 +4106,36 @@
     ],
     "mil @ pit": [
         {
+            "player": "caleb durbin",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-05-24 17:09:05",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "4:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "sal frelick",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-05-24 17:09:05",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "4:05 PM",
+            "in": "5",
+            "result": "Groundout",
+            "evo": "99.1",
+            "la": "4",
+            "dist": "81"
+        },
+        {
             "player": "isiah kiner falefa",
             "game": "mil @ pit",
             "hr/park": "",
@@ -4588,6 +4618,21 @@
     ],
     "chc @ cin": [
         {
+            "player": "pete crow armstrong",
+            "game": "chc @ cin",
+            "hr/park": "2/30",
+            "pa": "27",
+            "dt": "2025-05-24 17:09:05",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "4:10 PM",
+            "in": "4",
+            "result": "Flyout",
+            "evo": "107.1",
+            "la": "29",
+            "dist": "395"
+        },
+        {
             "player": "dansby swanson",
             "game": "chc @ cin",
             "hr/park": "",
@@ -4597,7 +4642,7 @@
             "team": "chc",
             "start": "4:10 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
