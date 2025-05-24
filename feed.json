@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "113",
         "batters": "291",
-        "pitches": "3878",
+        "pitches": "3880",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
         "ff%fourseam fastball %": "35.3",
@@ -13,14 +13,14 @@
         "sl%slider %": "23.0",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "253",
-        "hh%hard hit %": "37.7",
+        "hhhard hit": "252",
+        "hh%hard hit %": "37.6",
         "brlbarrels": "60",
         "brl%barrel %": "8.9",
-        "ab": "869",
+        "ab": "871",
         "avg": ".251",
-        "h": "218",
-        "1b": "143",
+        "h": "219",
+        "1b": "144",
         "2b": "42",
         "3b": "5",
         "hr": "28",
@@ -28,7 +28,7 @@
         "bipballs in play": "671",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-05-23 22:38:50.906833"
+        "updated": "2025-05-23 22:39:02.148297"
     },
     "bal @ bos": [
         {
@@ -7426,17 +7426,17 @@
         {
             "player": "luisangel acuna",
             "game": "lad @ nym",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "45",
             "dt": "2025-05-23 22:38:23",
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
             "team": "nym",
             "start": "7:10 PM",
             "in": "5",
-            "result": "Lineout",
-            "evo": "104.1",
-            "la": "18",
-            "dist": "373"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "brett baty",
@@ -13211,6 +13211,21 @@
     ],
     "nyy @ col": [
         {
+            "player": "ezequiel tovar",
+            "game": "nyy @ col",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-05-23 22:38:54",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "7",
+            "result": "Wild Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jordan beck",
             "game": "nyy @ col",
             "hr/park": "",
@@ -14053,6 +14068,21 @@
     ],
     "mia @ laa": [
         {
+            "player": "derek hill",
+            "game": "mia @ laa",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-05-23 22:38:54",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "9:38 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nick fortes",
             "game": "mia @ laa",
             "hr/park": "",
@@ -14062,10 +14092,10 @@
             "team": "mia",
             "start": "9:38 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "72.6",
+            "la": "37",
+            "dist": "242"
         },
         {
             "player": "kyle stowers",
