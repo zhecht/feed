@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "43",
-        "batters": "201",
-        "pitches": "1865",
+        "batters": "203",
+        "pitches": "1870",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "37.7",
-        "si%sinker %": "10.3",
-        "fc%cutter %": "4.5",
+        "ff%fourseam fastball %": "37.8",
+        "si%sinker %": "10.4",
+        "fc%cutter %": "4.4",
         "fs%splitter %": "2.4",
         "ch%changeup %": "9.9",
-        "sl%slider %": "21.4",
+        "sl%slider %": "21.3",
         "cu%curve %": "10.7",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "135",
-        "hh%hard hit %": "41.7",
-        "brlbarrels": "29",
-        "brl%barrel %": "9.0",
-        "ab": "413",
+        "hhhard hit": "136",
+        "hh%hard hit %": "41.8",
+        "brlbarrels": "30",
+        "brl%barrel %": "9.2",
+        "ab": "416",
         "avg": ".245",
-        "h": "101",
+        "h": "102",
         "1b": "62",
         "2b": "27",
         "3b": "2",
-        "hr": "10",
+        "hr": "11",
         "so": "93",
-        "bipballs in play": "324",
+        "bipballs in play": "325",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-05-23 20:39:48.527582"
+        "updated": "2025-05-23 20:39:57.680433"
     },
     "bal @ bos": [
         {
@@ -2221,7 +2221,7 @@
             "team": "mil",
             "start": "6:40 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5447,6 +5447,21 @@
     ],
     "sd @ atl": [
         {
+            "player": "manny machado",
+            "game": "sd @ atl",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-05-23 20:39:51",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "7:15 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis arraez",
             "game": "sd @ atl",
             "hr/park": "",
@@ -6471,6 +6486,21 @@
     ],
     "sea @ hou": [
         {
+            "player": "leody taveras",
+            "game": "sea @ hou",
+            "hr/park": "30/30",
+            "pa": "14",
+            "dt": "2025-05-23 20:39:51",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "Home Run",
+            "evo": "108.7",
+            "la": "25",
+            "dist": "398"
+        },
+        {
             "player": "jake meyers",
             "game": "sea @ hou",
             "hr/park": "",
@@ -6668,6 +6698,21 @@
     ],
     "kc @ min": [
         {
+            "player": "brooks lee",
+            "game": "kc @ min",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-05-23 20:39:51",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ty france",
             "game": "kc @ min",
             "hr/park": "",
@@ -6677,7 +6722,7 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "100.1",
             "la": "-12",
             "dist": "13"
