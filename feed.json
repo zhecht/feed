@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "95",
+        "pitchers": "96",
         "batters": "262",
-        "pitches": "3394",
+        "pitches": "3402",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
         "ff%fourseam fastball %": "35.9",
         "si%sinker %": "11.2",
         "fc%cutter %": "7.0",
-        "fs%splitter %": "1.6",
+        "fs%splitter %": "1.7",
         "ch%changeup %": "10.6",
         "sl%slider %": "22.0",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "226",
-        "hh%hard hit %": "38.7",
+        "hh%hard hit %": "38.6",
         "brlbarrels": "51",
         "brl%barrel %": "8.7",
         "ab": "762",
-        "avg": ".249",
-        "h": "190",
-        "1b": "123",
+        "avg": ".251",
+        "h": "191",
+        "1b": "124",
         "2b": "39",
         "3b": "5",
         "hr": "23",
         "so": "179",
-        "bipballs in play": "584",
+        "bipballs in play": "586",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-05-23 22:04:19.766425"
+        "updated": "2025-05-23 22:04:31.160087"
     },
     "bal @ bos": [
         {
@@ -1474,6 +1474,21 @@
     ],
     "bal-gm2 @ bos-gm2": [],
     "chc @ cin": [
+        {
+            "player": "spencer steer",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "87",
+            "dt": "2025-05-23 22:03:37",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "matt shaw",
             "game": "chc @ cin",
@@ -7275,21 +7290,6 @@
     ],
     "lad @ nym": [
         {
-            "player": "juan soto",
-            "game": "lad @ nym",
-            "hr/park": "",
-            "pa": "32",
-            "dt": "2025-05-23 22:04:06",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "7:10 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "starling marte",
             "game": "lad @ nym",
             "hr/park": "",
@@ -9750,10 +9750,10 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "6",
-            "result": "Caught Stealing 2B",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "85.3",
+            "la": "6",
+            "dist": "102"
         },
         {
             "player": "jake meyers",
@@ -11404,7 +11404,7 @@
             "team": "ari",
             "start": "8:15 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12186,10 +12186,10 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "63.1",
+            "la": "70",
+            "dist": "110"
         },
         {
             "player": "ben rice",
