@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "55",
         "batters": "226",
-        "pitches": "2346",
+        "pitches": "2355",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "36.7",
-        "si%sinker %": "10.3",
+        "ff%fourseam fastball %": "36.6",
+        "si%sinker %": "10.2",
         "fc%cutter %": "6.1",
         "fs%splitter %": "2.0",
-        "ch%changeup %": "9.9",
-        "sl%slider %": "22.2",
-        "cu%curve %": "10.3",
+        "ch%changeup %": "10.0",
+        "sl%slider %": "22.3",
+        "cu%curve %": "10.2",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "162",
-        "hh%hard hit %": "40.2",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "36",
         "brl%barrel %": "8.9",
-        "ab": "521",
-        "avg": ".244",
-        "h": "127",
-        "1b": "77",
+        "ab": "526",
+        "avg": ".245",
+        "h": "129",
+        "1b": "79",
         "2b": "33",
         "3b": "3",
         "hr": "14",
         "so": "124",
-        "bipballs in play": "403",
+        "bipballs in play": "405",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-23 21:04:18.767971"
+        "updated": "2025-05-23 21:04:28.487843"
     },
     "bal @ bos": [
         {
@@ -1474,6 +1474,21 @@
     ],
     "bal-gm2 @ bos-gm2": [],
     "chc @ cin": [
+        {
+            "player": "ian happ",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-05-23 21:02:36",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "Single",
+            "evo": "69.0",
+            "la": "52",
+            "dist": "189"
+        },
         {
             "player": "matt shaw",
             "game": "chc @ cin",
@@ -4295,7 +4310,7 @@
             "team": "tor",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "89.4",
             "la": "34",
             "dist": "318"
@@ -5082,6 +5097,36 @@
         }
     ],
     "cle @ det": [
+        {
+            "player": "kyle manzardo",
+            "game": "cle @ det",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-05-23 21:04:22",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jose ramirez",
+            "game": "cle @ det",
+            "hr/park": "0/30",
+            "pa": "59",
+            "dt": "2025-05-23 21:03:35",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "Flyout",
+            "evo": "94.5",
+            "la": "34",
+            "dist": "345"
+        },
         {
             "player": "gleyber torres",
             "game": "cle @ det",
@@ -7009,6 +7054,21 @@
     ],
     "tex @ chw": [
         {
+            "player": "mike tauchman",
+            "game": "tex @ chw",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-05-23 21:04:22",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "chase meidroth",
             "game": "tex @ chw",
             "hr/park": "",
@@ -7943,6 +8003,21 @@
     ],
     "kc @ min": [
         {
+            "player": "kyle isbel",
+            "game": "kc @ min",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-05-23 21:03:52",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael massey",
             "game": "kc @ min",
             "hr/park": "",
@@ -7952,7 +8027,7 @@
             "team": "kc",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "81.9",
             "la": "48",
             "dist": "217"
