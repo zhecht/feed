@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "38",
+        "pitchers": "39",
         "batters": "194",
-        "pitches": "1771",
+        "pitches": "1778",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "37.8",
+        "ff%fourseam fastball %": "37.7",
         "si%sinker %": "10.7",
         "fc%cutter %": "4.2",
-        "fs%splitter %": "2.3",
+        "fs%splitter %": "2.2",
         "ch%changeup %": "9.8",
         "sl%slider %": "21.0",
-        "cu%curve %": "11.0",
+        "cu%curve %": "10.9",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "128",
-        "hh%hard hit %": "42.0",
+        "hh%hard hit %": "41.7",
         "brlbarrels": "26",
         "brl%barrel %": "8.5",
-        "ab": "391",
-        "avg": ".248",
+        "ab": "394",
+        "avg": ".246",
         "h": "97",
         "1b": "60",
         "2b": "26",
         "3b": "2",
         "hr": "9",
-        "so": "85",
-        "bipballs in play": "305",
+        "so": "86",
+        "bipballs in play": "307",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-05-23 20:34:31.564265"
+        "updated": "2025-05-23 20:34:40.650403"
     },
     "bal @ bos": [
         {
@@ -2197,6 +2197,21 @@
     ],
     "mil @ pit": [
         {
+            "player": "henry davis",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-05-23 20:34:36",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "81.8",
+            "la": "40",
+            "dist": "257"
+        },
+        {
             "player": "isiah kiner falefa",
             "game": "mil @ pit",
             "hr/park": "",
@@ -2948,6 +2963,21 @@
         }
     ],
     "sf @ wsh": [
+        {
+            "player": "robert hassell",
+            "game": "sf @ wsh",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-05-23 20:34:36",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "josh bell",
             "game": "sf @ wsh",
@@ -5267,6 +5297,21 @@
     ],
     "sd @ atl": [
         {
+            "player": "marcell ozuna",
+            "game": "sd @ atl",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-05-23 20:34:36",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "matt olson",
             "game": "sd @ atl",
             "hr/park": "",
@@ -6392,7 +6437,7 @@
             "team": "kc",
             "start": "8:10 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6582,17 +6627,17 @@
         {
             "player": "pavin smith",
             "game": "ari @ stl",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "10",
             "dt": "2025-05-23 20:31:36",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "start": "8:15 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "85.9",
+            "la": "29",
+            "dist": "304"
         },
         {
             "player": "eugenio suarez",
