@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "27",
         "batters": "153",
-        "pitches": "1334",
+        "pitches": "1339",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
         "ff%fourseam fastball %": "36.7",
         "si%sinker %": "11.0",
         "fc%cutter %": "4.0",
         "fs%splitter %": "1.6",
-        "ch%changeup %": "10.8",
+        "ch%changeup %": "11.0",
         "sl%slider %": "20.0",
         "cu%curve %": "11.4",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "98",
-        "hh%hard hit %": "42.8",
+        "hh%hard hit %": "42.6",
         "brlbarrels": "23",
         "brl%barrel %": "10.0",
         "ab": "296",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "8",
         "so": "62",
-        "bipballs in play": "229",
+        "bipballs in play": "230",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-23 20:08:16.476805"
+        "updated": "2025-05-23 20:08:25.129516"
     },
     "bal @ bos": [
         {
@@ -1475,6 +1475,21 @@
     "bal-gm2 @ bos-gm2": [],
     "chc @ cin": [
         {
+            "player": "tj friedl",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-05-23 20:08:21",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nico hoerner",
             "game": "chc @ cin",
             "hr/park": "",
@@ -2011,7 +2026,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2042,9 +2057,9 @@
             "start": "6:40 PM",
             "in": "5",
             "result": "Catcher Interference",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "83.4",
+            "la": "27",
+            "dist": "286"
         },
         {
             "player": "isiah kiner falefa",
