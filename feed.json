@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "54",
         "batters": "186",
-        "pitches": "2163",
+        "pitches": "2166",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "70.9",
-        "ff%fourseam fastball %": "31.5",
+        "ff%fourseam fastball %": "31.6",
         "si%sinker %": "16.3",
         "fc%cutter %": "8.7",
         "fs%splitter %": "1.5",
@@ -13,22 +13,22 @@
         "sl%slider %": "20.8",
         "cu%curve %": "11.0",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "165",
-        "hh%hard hit %": "38.8",
+        "hhhard hit": "166",
+        "hh%hard hit %": "39.0",
         "brlbarrels": "30",
-        "brl%barrel %": "7.1",
-        "ab": "530",
-        "avg": ".272",
-        "h": "144",
-        "1b": "104",
+        "brl%barrel %": "7.0",
+        "ab": "532",
+        "avg": ".274",
+        "h": "146",
+        "1b": "106",
         "2b": "25",
         "3b": "3",
         "hr": "12",
         "so": "123",
-        "bipballs in play": "425",
+        "bipballs in play": "426",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-24 17:49:19.156348"
+        "updated": "2025-05-24 17:49:28.822364"
     },
     "bal @ bos": [
         {
@@ -4475,7 +4475,7 @@
             "team": "mil",
             "start": "4:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "80.8",
             "la": "1",
             "dist": "47"
@@ -6617,6 +6617,21 @@
     ],
     "sd @ atl": [
         {
+            "player": "nick allen",
+            "game": "sd @ atl",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-05-24 17:49:22",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "4:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael harris",
             "game": "sd @ atl",
             "hr/park": "",
@@ -8091,6 +8106,21 @@
     ],
     "nyy @ col": [
         {
+            "player": "jasson dominguez",
+            "game": "nyy @ col",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-05-24 17:49:22",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "4:10 PM",
+            "in": "6",
+            "result": "Single",
+            "evo": "108.6",
+            "la": "6",
+            "dist": "140"
+        },
+        {
             "player": "anthony volpe",
             "game": "nyy @ col",
             "hr/park": "",
@@ -8100,7 +8130,7 @@
             "team": "nyy",
             "start": "4:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "102.3",
             "la": "7",
             "dist": "174"
