@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "48",
-        "batters": "219",
-        "pitches": "2099",
+        "batters": "218",
+        "pitches": "2107",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "36.9",
+        "ff%fourseam fastball %": "36.8",
         "si%sinker %": "10.3",
         "fc%cutter %": "5.1",
         "fs%splitter %": "2.2",
         "ch%changeup %": "10.3",
-        "sl%slider %": "21.8",
+        "sl%slider %": "21.9",
         "cu%curve %": "10.6",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "147",
-        "hh%hard hit %": "40.7",
+        "hhhard hit": "148",
+        "hh%hard hit %": "40.9",
         "brlbarrels": "33",
         "brl%barrel %": "9.1",
-        "ab": "472",
-        "avg": ".246",
-        "h": "116",
-        "1b": "72",
+        "ab": "473",
+        "avg": ".247",
+        "h": "117",
+        "1b": "73",
         "2b": "29",
         "3b": "3",
         "hr": "12",
-        "so": "110",
-        "bipballs in play": "361",
+        "so": "111",
+        "bipballs in play": "362",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-23 20:52:03.270559"
+        "updated": "2025-05-23 20:52:12.650160"
     },
     "bal @ bos": [
         {
@@ -1475,6 +1475,21 @@
     "bal-gm2 @ bos-gm2": [],
     "chc @ cin": [
         {
+            "player": "santiago espinal",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-05-23 20:51:20",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "90.5",
+            "la": "26",
+            "dist": "291"
+        },
+        {
             "player": "michael busch",
             "game": "chc @ cin",
             "hr/park": "",
@@ -2272,6 +2287,21 @@
     ],
     "mil @ pit": [
         {
+            "player": "christian yelich",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-05-23 20:52:06",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "william contreras",
             "game": "mil @ pit",
             "hr/park": "",
@@ -2281,7 +2311,7 @@
             "team": "mil",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7041,21 +7071,6 @@
     ],
     "sea @ hou": [
         {
-            "player": "mauricio dubon",
-            "game": "sea @ hou",
-            "hr/park": "",
-            "pa": "20",
-            "dt": "2025-05-23 20:51:50",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "8:10 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "cam smith",
             "game": "sea @ hou",
             "hr/park": "",
@@ -7065,10 +7080,10 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "3",
-            "result": "Groundout",
-            "evo": "91.4",
-            "la": "-1",
-            "dist": "39"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "jorge polanco",
@@ -7684,10 +7699,10 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "102.0",
+            "la": "2",
+            "dist": "65"
         },
         {
             "player": "pedro pages",
