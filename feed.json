@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "38",
         "batters": "193",
-        "pitches": "1754",
+        "pitches": "1760",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
         "ff%fourseam fastball %": "37.6",
@@ -10,11 +10,11 @@
         "fc%cutter %": "4.2",
         "fs%splitter %": "2.2",
         "ch%changeup %": "9.9",
-        "sl%slider %": "20.9",
-        "cu%curve %": "11.1",
+        "sl%slider %": "21.1",
+        "cu%curve %": "11.0",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "126",
-        "hh%hard hit %": "41.7",
+        "hhhard hit": "127",
+        "hh%hard hit %": "41.8",
         "brlbarrels": "26",
         "brl%barrel %": "8.6",
         "ab": "389",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "9",
         "so": "84",
-        "bipballs in play": "302",
+        "bipballs in play": "304",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-05-23 20:33:02.211921"
+        "updated": "2025-05-23 20:33:11.181007"
     },
     "bal @ bos": [
         {
@@ -1477,17 +1477,17 @@
         {
             "player": "matt mclain",
             "game": "chc @ cin",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "47",
             "dt": "2025-05-23 20:31:21",
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
             "team": "cin",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "99.2",
+            "la": "36",
+            "dist": "358"
         },
         {
             "player": "will benson",
@@ -2182,6 +2182,21 @@
     ],
     "mil @ pit": [
         {
+            "player": "isiah kiner falefa",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-05-23 20:33:05",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "adam frazier",
             "game": "mil @ pit",
             "hr/park": "",
@@ -2191,7 +2206,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6529,10 +6544,10 @@
             "team": "ari",
             "start": "8:15 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "85.9",
+            "la": "29",
+            "dist": "304"
         },
         {
             "player": "eugenio suarez",
