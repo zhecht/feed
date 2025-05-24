@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "98",
-        "batters": "267",
-        "pitches": "3474",
+        "pitchers": "99",
+        "batters": "268",
+        "pitches": "3481",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
         "ff%fourseam fastball %": "35.7",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.2",
         "fs%splitter %": "1.7",
         "ch%changeup %": "10.6",
-        "sl%slider %": "22.1",
+        "sl%slider %": "22.2",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "227",
-        "hh%hard hit %": "37.8",
-        "brlbarrels": "52",
-        "brl%barrel %": "8.7",
-        "ab": "779",
-        "avg": ".250",
-        "h": "195",
+        "hhhard hit": "229",
+        "hh%hard hit %": "38.0",
+        "brlbarrels": "53",
+        "brl%barrel %": "8.8",
+        "ab": "781",
+        "avg": ".251",
+        "h": "196",
         "1b": "126",
         "2b": "40",
         "3b": "5",
-        "hr": "24",
+        "hr": "25",
         "so": "183",
-        "bipballs in play": "600",
+        "bipballs in play": "603",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-05-23 22:08:43.629525"
+        "updated": "2025-05-23 22:08:55.083796"
     },
     "bal @ bos": [
         {
@@ -9861,6 +9861,21 @@
     ],
     "sea @ hou": [
         {
+            "player": "ben williamson",
+            "game": "sea @ hou",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-05-23 22:08:51",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "8:10 PM",
+            "in": "7",
+            "result": "Flyout",
+            "evo": "95.7",
+            "la": "48",
+            "dist": "273"
+        },
+        {
             "player": "jeremy pena",
             "game": "sea @ hou",
             "hr/park": "",
@@ -10682,7 +10697,7 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -13201,11 +13216,11 @@
     ],
     "phi @ ath": [
         {
-            "player": "trea turner",
+            "player": "bryce harper",
             "game": "phi @ ath",
             "hr/park": "",
-            "pa": "1",
-            "dt": "2025-05-23 22:07:05",
+            "pa": "2",
+            "dt": "2025-05-23 22:08:51",
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "start": "10:05 PM",
@@ -13214,6 +13229,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "trea turner",
+            "game": "phi @ ath",
+            "hr/park": "30/30",
+            "pa": "1",
+            "dt": "2025-05-23 22:07:05",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "10:05 PM",
+            "in": "1",
+            "result": "Home Run",
+            "evo": "104.4",
+            "la": "32",
+            "dist": "426"
         }
     ]
 }
