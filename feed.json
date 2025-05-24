@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "27",
         "batters": "153",
-        "pitches": "1323",
+        "pitches": "1327",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "34.3",
-        "ff%fourseam fastball %": "36.6",
+        "ff%fourseam fastball %": "36.5",
         "si%sinker %": "11.1",
         "fc%cutter %": "4.0",
         "fs%splitter %": "1.7",
-        "ch%changeup %": "10.8",
+        "ch%changeup %": "10.9",
         "sl%slider %": "20.0",
         "cu%curve %": "11.4",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "98",
-        "hh%hard hit %": "43.0",
+        "hh%hard hit %": "42.6",
         "brlbarrels": "23",
-        "brl%barrel %": "10.1",
-        "ab": "294",
-        "avg": ".262",
+        "brl%barrel %": "10.0",
+        "ab": "293",
+        "avg": ".263",
         "h": "77",
         "1b": "46",
         "2b": "21",
         "3b": "2",
         "hr": "8",
         "so": "62",
-        "bipballs in play": "228",
+        "bipballs in play": "230",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-23 20:07:42.709094"
+        "updated": "2025-05-23 20:07:51.115255"
     },
     "bal @ bos": [
         {
@@ -2011,7 +2011,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2042,9 +2042,9 @@
             "start": "6:40 PM",
             "in": "5",
             "result": "Catcher Interference",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "83.4",
+            "la": "27",
+            "dist": "286"
         },
         {
             "player": "isiah kiner falefa",
@@ -2573,21 +2573,6 @@
         }
     ],
     "sf @ wsh": [
-        {
-            "player": "jung hoo lee",
-            "game": "sf @ wsh",
-            "hr/park": "",
-            "pa": "43",
-            "dt": "2025-05-23 20:07:05",
-            "img": "https://www.mlbstatic.com/team-logos/137.svg",
-            "team": "sf",
-            "start": "6:45 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "keibert ruiz",
             "game": "sf @ wsh",
@@ -4427,6 +4412,21 @@
     ],
     "sd @ atl": [
         {
+            "player": "xander bogaerts",
+            "game": "sd @ atl",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-05-23 20:07:51",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "7:15 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jackson merrill",
             "game": "sd @ atl",
             "hr/park": "",
@@ -4436,10 +4436,10 @@
             "team": "sd",
             "start": "7:15 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "36.3",
+            "la": "-43",
+            "dist": "4"
         },
         {
             "player": "manny machado",
