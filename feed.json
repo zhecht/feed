@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "41",
-        "batters": "131",
-        "pitches": "1089",
+        "batters": "132",
+        "pitches": "1090",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "73.8",
-        "ff%fourseam fastball %": "32.0",
-        "si%sinker %": "14.8",
+        "ff%fourseam fastball %": "32.1",
+        "si%sinker %": "14.9",
         "fc%cutter %": "11.7",
-        "fs%splitter %": "1.2",
+        "fs%splitter %": "1.1",
         "ch%changeup %": "11.1",
-        "sl%slider %": "20.9",
-        "cu%curve %": "8.4",
+        "sl%slider %": "20.8",
+        "cu%curve %": "8.3",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "82",
-        "hh%hard hit %": "38.5",
+        "hh%hard hit %": "38.3",
         "brlbarrels": "16",
         "brl%barrel %": "7.5",
         "ab": "269",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "9",
         "so": "61",
-        "bipballs in play": "213",
+        "bipballs in play": "214",
         "liveGames": 10,
         "totGames": 16,
-        "updated": "2025-05-24 16:30:18.363186"
+        "updated": "2025-05-24 16:30:26.705783"
     },
     "bal @ bos": [
         {
@@ -1184,7 +1184,7 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3431,6 +3431,21 @@
     ],
     "mil @ pit": [
         {
+            "player": "jake bauers",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-05-24 16:30:26",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "caleb durbin",
             "game": "mil @ pit",
             "hr/park": "",
@@ -3881,7 +3896,7 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
