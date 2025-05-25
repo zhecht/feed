@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "22",
         "batters": "181",
-        "pitches": "1301",
+        "pitches": "1307",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
-        "ff%fourseam fastball %": "36.6",
-        "si%sinker %": "15.9",
-        "fc%cutter %": "6.7",
+        "ff%fourseam fastball %": "36.9",
+        "si%sinker %": "15.8",
+        "fc%cutter %": "6.6",
         "fs%splitter %": "2.5",
         "ch%changeup %": "12.3",
         "sl%slider %": "17.9",
-        "cu%curve %": "8.1",
+        "cu%curve %": "8.0",
         "max evmax exit velocity": "122.9",
         "hhhard hit": "94",
-        "hh%hard hit %": "38.5",
+        "hh%hard hit %": "38.1",
         "brlbarrels": "17",
-        "brl%barrel %": "7.0",
-        "ab": "308",
-        "avg": ".234",
+        "brl%barrel %": "6.9",
+        "ab": "309",
+        "avg": ".233",
         "h": "72",
         "1b": "51",
         "2b": "13",
         "3b": "1",
         "hr": "7",
         "so": "66",
-        "bipballs in play": "244",
+        "bipballs in play": "247",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-25 14:55:46.561113"
+        "updated": "2025-05-25 14:55:54.835735"
     },
     "cle @ det": [
         {
@@ -1054,6 +1054,21 @@
     ],
     "bal @ bos": [
         {
+            "player": "jorge mateo",
+            "game": "bal @ bos",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-05-25 14:55:49",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "Lineout",
+            "evo": "90.8",
+            "la": "16",
+            "dist": "258"
+        },
+        {
             "player": "dylan carlson",
             "game": "bal @ bos",
             "hr/park": "30/30",
@@ -1581,6 +1596,21 @@
     ],
     "sf @ wsh": [
         {
+            "player": "willy adames",
+            "game": "sf @ wsh",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-05-25 14:55:49",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "65.7",
+            "la": "15",
+            "dist": "124"
+        },
+        {
             "player": "matt chapman",
             "game": "sf @ wsh",
             "hr/park": "",
@@ -1590,7 +1620,7 @@
             "team": "sf",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2192,10 +2222,10 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "93.8",
+            "la": "47",
+            "dist": "276"
         },
         {
             "player": "isiah kiner falefa",
