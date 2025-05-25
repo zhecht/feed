@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "89",
         "batters": "269",
-        "pitches": "3150",
+        "pitches": "3157",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "59.2",
         "ff%fourseam fastball %": "34.5",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.6",
         "cu%curve %": "7.2",
         "max evmax exit velocity": "122.9",
-        "hhhard hit": "229",
+        "hhhard hit": "230",
         "hh%hard hit %": "38.6",
         "brlbarrels": "36",
-        "brl%barrel %": "6.1",
-        "ab": "761",
-        "avg": ".250",
-        "h": "190",
+        "brl%barrel %": "6.0",
+        "ab": "762",
+        "avg": ".251",
+        "h": "191",
         "1b": "120",
-        "2b": "51",
+        "2b": "52",
         "3b": "4",
         "hr": "15",
-        "so": "180",
-        "bipballs in play": "594",
+        "so": "181",
+        "bipballs in play": "596",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-25 16:44:38.234327"
+        "updated": "2025-05-25 16:44:49.259171"
     },
     "cle @ det": [
         {
@@ -11649,11 +11649,11 @@
     ],
     "phi @ ath": [
         {
-            "player": "brandon marsh",
+            "player": "bryson stott",
             "game": "phi @ ath",
             "hr/park": "",
-            "pa": "21",
-            "dt": "2025-05-25 16:43:17",
+            "pa": "22",
+            "dt": "2025-05-25 16:44:47",
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "start": "4:05 PM",
@@ -11662,6 +11662,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "brandon marsh",
+            "game": "phi @ ath",
+            "hr/park": "0/30",
+            "pa": "21",
+            "dt": "2025-05-25 16:43:17",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "Double",
+            "evo": "104.9",
+            "la": "19",
+            "dist": "380"
         },
         {
             "player": "tyler soderstrom",
@@ -11968,17 +11983,17 @@
         {
             "player": "javier sanoja",
             "game": "mia @ laa",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "17",
             "dt": "2025-05-25 16:44:20",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
             "team": "mia",
             "start": "4:07 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Sac Fly",
+            "evo": "88.1",
+            "la": "22",
+            "dist": "327"
         },
         {
             "player": "derek hill",
@@ -12223,6 +12238,21 @@
     ],
     "sd @ atl": [
         {
+            "player": "fernando tatis",
+            "game": "sd @ atl",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-05-25 16:44:47",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "4:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "martin maldonado",
             "game": "sd @ atl",
             "hr/park": "",
@@ -12232,7 +12262,7 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
