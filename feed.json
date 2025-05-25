@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "63",
+        "pitchers": "64",
         "batters": "218",
-        "pitches": "2551",
+        "pitches": "2557",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
-        "ff%fourseam fastball %": "34.7",
+        "ff%fourseam fastball %": "34.6",
         "si%sinker %": "15.8",
         "fc%cutter %": "7.3",
         "fs%splitter %": "1.9",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.0",
         "cu%curve %": "7.4",
         "max evmax exit velocity": "122.9",
-        "hhhard hit": "190",
-        "hh%hard hit %": "38.2",
-        "brlbarrels": "29",
-        "brl%barrel %": "5.8",
-        "ab": "623",
-        "avg": ".239",
-        "h": "149",
-        "1b": "95",
+        "hhhard hit": "192",
+        "hh%hard hit %": "38.4",
+        "brlbarrels": "30",
+        "brl%barrel %": "6.0",
+        "ab": "625",
+        "avg": ".242",
+        "h": "151",
+        "1b": "96",
         "2b": "37",
         "3b": "4",
-        "hr": "13",
+        "hr": "14",
         "so": "138",
-        "bipballs in play": "497",
+        "bipballs in play": "500",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-25 16:11:58.351722"
+        "updated": "2025-05-25 16:12:08.508926"
     },
     "cle @ det": [
         {
@@ -3167,10 +3167,10 @@
             "team": "mil",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "97.1",
+            "la": "24",
+            "dist": "363"
         },
         {
             "player": "sal frelick",
@@ -4189,10 +4189,10 @@
             "team": "chc",
             "start": "1:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "101.1",
+            "la": "24",
+            "dist": "351"
         },
         {
             "player": "jose trevino",
@@ -6239,6 +6239,21 @@
     ],
     "sea @ hou": [
         {
+            "player": "randy arozarena",
+            "game": "sea @ hou",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-05-25 16:12:03",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "julio rodriguez",
             "game": "sea @ hou",
             "hr/park": "",
@@ -6248,7 +6263,7 @@
             "team": "sea",
             "start": "2:10 PM",
             "in": "7",
-            "result": "Double",
+            "result": "Single",
             "evo": "83.3",
             "la": "19",
             "dist": "237"
@@ -9667,6 +9682,21 @@
     ],
     "nyy @ col": [
         {
+            "player": "ryan mcmahon",
+            "game": "nyy @ col",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-05-25 16:12:03",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "3:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "dj lemahieu",
             "game": "nyy @ col",
             "hr/park": "",
@@ -10176,9 +10206,9 @@
             "start": "4:07 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "65.4",
+            "la": "-1",
+            "dist": "39"
         },
         {
             "player": "jesus sanchez",
