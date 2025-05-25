@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "76",
         "batters": "238",
-        "pitches": "2735",
+        "pitches": "2742",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "59.2",
         "ff%fourseam fastball %": "34.7",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.4",
         "fs%splitter %": "2.0",
         "ch%changeup %": "12.0",
-        "sl%slider %": "21.0",
+        "sl%slider %": "21.1",
         "cu%curve %": "7.0",
         "max evmax exit velocity": "122.9",
-        "hhhard hit": "204",
-        "hh%hard hit %": "38.5",
+        "hhhard hit": "205",
+        "hh%hard hit %": "38.6",
         "brlbarrels": "31",
         "brl%barrel %": "5.8",
-        "ab": "670",
-        "avg": ".245",
+        "ab": "672",
+        "avg": ".244",
         "h": "164",
         "1b": "104",
         "2b": "41",
         "3b": "4",
         "hr": "15",
-        "so": "150",
-        "bipballs in play": "530",
+        "so": "151",
+        "bipballs in play": "531",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-25 16:21:14.309884"
+        "updated": "2025-05-25 16:21:24.411162"
     },
     "cle @ det": [
         {
@@ -5337,6 +5337,21 @@
     ],
     "tor @ tb": [
         {
+            "player": "anthony santander",
+            "game": "tor @ tb",
+            "hr/park": "",
+            "pa": "75",
+            "dt": "2025-05-25 16:21:17",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nathan lukes",
             "game": "tor @ tb",
             "hr/park": "",
@@ -5346,10 +5361,10 @@
             "team": "tor",
             "start": "1:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "97.1",
+            "la": "-2",
+            "dist": "43"
         },
         {
             "player": "michael stefanic",
@@ -8268,6 +8283,21 @@
     ],
     "tex @ chw": [
         {
+            "player": "andrew benintendi",
+            "game": "tex @ chw",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-05-25 16:21:17",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "miguel vargas",
             "game": "tex @ chw",
             "hr/park": "",
@@ -8277,7 +8307,7 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
