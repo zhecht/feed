@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "22",
-        "batters": "165",
-        "pitches": "1068",
+        "batters": "167",
+        "pitches": "1073",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.8",
-        "ff%fourseam fastball %": "38.5",
-        "si%sinker %": "15.9",
+        "ff%fourseam fastball %": "38.4",
+        "si%sinker %": "15.8",
         "fc%cutter %": "6.2",
         "fs%splitter %": "2.2",
         "ch%changeup %": "12.1",
-        "sl%slider %": "17.8",
+        "sl%slider %": "18.0",
         "cu%curve %": "7.3",
         "max evmax exit velocity": "122.9",
         "hhhard hit": "74",
-        "hh%hard hit %": "38.1",
+        "hh%hard hit %": "37.9",
         "brlbarrels": "15",
         "brl%barrel %": "7.7",
-        "ab": "245",
-        "avg": ".237",
-        "h": "58",
-        "1b": "40",
+        "ab": "247",
+        "avg": ".239",
+        "h": "59",
+        "1b": "41",
         "2b": "11",
         "3b": "1",
         "hr": "6",
-        "so": "52",
-        "bipballs in play": "194",
+        "so": "53",
+        "bipballs in play": "195",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-25 14:40:59.236238"
+        "updated": "2025-05-25 14:41:07.520172"
     },
     "cle @ det": [
         {
@@ -1063,7 +1063,7 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "4",
-            "result": "Stolen Base 2B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3269,6 +3269,21 @@
     ],
     "sea @ hou": [
         {
+            "player": "leo rivas",
+            "game": "sea @ hou",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-05-25 14:41:03",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ben williamson",
             "game": "sea @ hou",
             "hr/park": "",
@@ -3278,10 +3293,10 @@
             "team": "sea",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "93.0",
+            "la": "5",
+            "dist": "101"
         },
         {
             "player": "leody taveras",
@@ -3466,6 +3481,21 @@
     ],
     "kc @ min": [
         {
+            "player": "willi castro",
+            "game": "kc @ min",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-05-25 14:41:03",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "carson mccusker",
             "game": "kc @ min",
             "hr/park": "",
@@ -3475,7 +3505,7 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
