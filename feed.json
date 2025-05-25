@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "14",
-        "batters": "83",
-        "pitches": "518",
+        "batters": "85",
+        "pitches": "521",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "70.4",
-        "ff%fourseam fastball %": "37.3",
-        "si%sinker %": "17.0",
+        "ff%fourseam fastball %": "37.4",
+        "si%sinker %": "17.1",
         "fc%cutter %": "5.8",
         "fs%splitter %": "1.9",
-        "ch%changeup %": "12.4",
-        "sl%slider %": "20.1",
+        "ch%changeup %": "12.3",
+        "sl%slider %": "20.0",
         "cu%curve %": "5.6",
         "max evmax exit velocity": "111.9",
         "hhhard hit": "35",
-        "hh%hard hit %": "39.8",
+        "hh%hard hit %": "38.9",
         "brlbarrels": "6",
-        "brl%barrel %": "6.8",
-        "ab": "117",
-        "avg": ".222",
+        "brl%barrel %": "6.7",
+        "ab": "119",
+        "avg": ".218",
         "h": "26",
         "1b": "19",
         "2b": "5",
         "3b": "0",
         "hr": "2",
-        "so": "30",
-        "bipballs in play": "88",
+        "so": "31",
+        "bipballs in play": "90",
         "liveGames": 6,
         "totGames": 15,
-        "updated": "2025-05-25 14:05:55.057090"
+        "updated": "2025-05-25 14:06:02.739819"
     },
     "cle @ det": [
         {
@@ -1054,6 +1054,21 @@
     ],
     "bal @ bos": [
         {
+            "player": "abraham toro",
+            "game": "bal @ bos",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-05-25 14:06:02",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "marcelo mayer",
             "game": "bal @ bos",
             "hr/park": "",
@@ -1266,6 +1281,21 @@
     ],
     "sf @ wsh": [
         {
+            "player": "riley adams",
+            "game": "sf @ wsh",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-05-25 14:06:02",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "1:35 PM",
+            "in": "2",
+            "result": "Groundout",
+            "evo": "89.8",
+            "la": "-16",
+            "dist": "8"
+        },
+        {
             "player": "daylen lile",
             "game": "sf @ wsh",
             "hr/park": "",
@@ -1275,7 +1305,7 @@
             "team": "wsh",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1487,10 +1517,10 @@
             "team": "mil",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "94.9",
+            "la": "17",
+            "dist": "297"
         },
         {
             "player": "brice turang",
