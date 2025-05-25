@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "14",
-        "batters": "87",
-        "pitches": "534",
+        "batters": "88",
+        "pitches": "537",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "70.4",
-        "ff%fourseam fastball %": "37.6",
-        "si%sinker %": "17.0",
+        "ff%fourseam fastball %": "38.0",
+        "si%sinker %": "16.9",
         "fc%cutter %": "5.6",
         "fs%splitter %": "1.9",
-        "ch%changeup %": "12.0",
-        "sl%slider %": "19.7",
-        "cu%curve %": "6.2",
+        "ch%changeup %": "11.9",
+        "sl%slider %": "19.6",
+        "cu%curve %": "6.1",
         "max evmax exit velocity": "111.9",
         "hhhard hit": "35",
-        "hh%hard hit %": "37.6",
+        "hh%hard hit %": "37.2",
         "brlbarrels": "6",
-        "brl%barrel %": "6.5",
-        "ab": "122",
-        "avg": ".221",
+        "brl%barrel %": "6.4",
+        "ab": "123",
+        "avg": ".220",
         "h": "27",
         "1b": "20",
         "2b": "5",
         "3b": "0",
         "hr": "2",
         "so": "31",
-        "bipballs in play": "93",
+        "bipballs in play": "94",
         "liveGames": 6,
         "totGames": 15,
-        "updated": "2025-05-25 14:07:27.763522"
+        "updated": "2025-05-25 14:07:35.383688"
     },
     "cle @ det": [
         {
@@ -1517,10 +1517,10 @@
             "team": "mil",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "87.8",
+            "la": "-13",
+            "dist": "15"
         },
         {
             "player": "joey ortiz",
@@ -1917,6 +1917,21 @@
     ],
     "tor @ tb": [
         {
+            "player": "jonatan clase",
+            "game": "tor @ tb",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-05-25 14:07:31",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ernie clement",
             "game": "tor @ tb",
             "hr/park": "",
@@ -1926,7 +1941,7 @@
             "team": "tor",
             "start": "1:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "90.5",
             "la": "-1",
             "dist": "44"
