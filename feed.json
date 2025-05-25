@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "54",
-        "batters": "209",
-        "pitches": "2400",
+        "batters": "210",
+        "pitches": "2404",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "35.0",
         "si%sinker %": "15.8",
         "fc%cutter %": "7.7",
-        "fs%splitter %": "1.8",
+        "fs%splitter %": "1.9",
         "ch%changeup %": "12.2",
         "sl%slider %": "20.0",
-        "cu%curve %": "7.5",
+        "cu%curve %": "7.4",
         "max evmax exit velocity": "122.9",
         "hhhard hit": "179",
         "hh%hard hit %": "37.9",
         "brlbarrels": "28",
         "brl%barrel %": "5.9",
-        "ab": "585",
-        "avg": ".239",
+        "ab": "589",
+        "avg": ".238",
         "h": "140",
         "1b": "90",
         "2b": "34",
@@ -28,7 +28,7 @@
         "bipballs in play": "472",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-25 16:03:15.495243"
+        "updated": "2025-05-25 16:03:25.403682"
     },
     "cle @ det": [
         {
@@ -3098,9 +3098,24 @@
     ],
     "mil @ pit": [
         {
-            "player": "christian yelich",
+            "player": "rhys hoskins",
             "game": "mil @ pit",
             "hr/park": "",
+            "pa": "65",
+            "dt": "2025-05-25 16:03:18",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "christian yelich",
+            "game": "mil @ pit",
+            "hr/park": "0/30",
             "pa": "64",
             "dt": "2025-05-25 16:02:18",
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
@@ -5999,6 +6014,21 @@
     ],
     "sea @ hou": [
         {
+            "player": "leo rivas",
+            "game": "sea @ hou",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-05-25 16:03:18",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mauricio dubon",
             "game": "sea @ hou",
             "hr/park": "",
@@ -6795,6 +6825,21 @@
         }
     ],
     "kc @ min": [
+        {
+            "player": "trevor larnach",
+            "game": "kc @ min",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-05-25 16:03:18",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brooks lee",
             "game": "kc @ min",
@@ -7647,7 +7692,7 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8435,6 +8480,21 @@
     ],
     "ari @ stl": [
         {
+            "player": "lourdes gurriel",
+            "game": "ari @ stl",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-05-25 16:03:18",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "2:15 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ketel marte",
             "game": "ari @ stl",
             "hr/park": "",
@@ -8444,7 +8504,7 @@
             "team": "ari",
             "start": "2:15 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "79.8",
             "la": "",
             "dist": "44"
