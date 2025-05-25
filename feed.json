@@ -1,16 +1,16 @@
 {
     "all": {
         "pitchers": "14",
-        "batters": "60",
-        "pitches": "432",
+        "batters": "61",
+        "pitches": "434",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "74.4",
-        "ff%fourseam fastball %": "35.2",
-        "si%sinker %": "19.0",
+        "ff%fourseam fastball %": "35.5",
+        "si%sinker %": "18.9",
         "fc%cutter %": "5.8",
         "fs%splitter %": "1.6",
         "ch%changeup %": "13.4",
-        "sl%slider %": "21.3",
+        "sl%slider %": "21.2",
         "cu%curve %": "3.7",
         "max evmax exit velocity": "111.9",
         "hhhard hit": "26",
@@ -24,11 +24,11 @@
         "2b": "4",
         "3b": "0",
         "hr": "1",
-        "so": "25",
+        "so": "26",
         "bipballs in play": "72",
         "liveGames": 6,
         "totGames": 15,
-        "updated": "2025-05-25 13:56:39.096890"
+        "updated": "2025-05-25 13:56:46.670529"
     },
     "cle @ det": [
         {
@@ -1215,7 +1215,7 @@
             "team": "sf",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "31.2",
             "la": "-62",
             "dist": "1"
@@ -1352,7 +1352,7 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1465,6 +1465,21 @@
     ],
     "chc @ cin": [
         {
+            "player": "santiago espinal",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-05-25 13:56:46",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "1:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tj friedl",
             "game": "chc @ cin",
             "hr/park": "",
@@ -1474,7 +1489,7 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1581,7 +1596,7 @@
             "team": "tb",
             "start": "1:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
