@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "49",
         "batters": "207",
-        "pitches": "2288",
+        "pitches": "2295",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "35.3",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.6",
         "fs%splitter %": "1.9",
         "ch%changeup %": "12.4",
-        "sl%slider %": "19.6",
+        "sl%slider %": "19.7",
         "cu%curve %": "7.4",
         "max evmax exit velocity": "122.9",
-        "hhhard hit": "173",
+        "hhhard hit": "174",
         "hh%hard hit %": "38.8",
         "brlbarrels": "28",
         "brl%barrel %": "6.3",
-        "ab": "558",
-        "avg": ".242",
-        "h": "135",
-        "1b": "89",
+        "ab": "560",
+        "avg": ".243",
+        "h": "136",
+        "1b": "90",
         "2b": "31",
         "3b": "4",
         "hr": "11",
         "so": "119",
-        "bipballs in play": "446",
+        "bipballs in play": "448",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-25 15:55:22.477080"
+        "updated": "2025-05-25 15:55:32.178760"
     },
     "cle @ det": [
         {
@@ -3940,6 +3940,21 @@
     ],
     "chc @ cin": [
         {
+            "player": "matt shaw",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-05-25 15:55:32",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael busch",
             "game": "chc @ cin",
             "hr/park": "",
@@ -3949,10 +3964,10 @@
             "team": "chc",
             "start": "1:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "69.3",
+            "la": "27",
+            "dist": "212"
         },
         {
             "player": "nico hoerner",
@@ -5789,11 +5804,11 @@
     ],
     "sea @ hou": [
         {
-            "player": "yainer diaz",
+            "player": "cam smith",
             "game": "sea @ hou",
             "hr/park": "",
-            "pa": "51",
-            "dt": "2025-05-25 15:53:32",
+            "pa": "52",
+            "dt": "2025-05-25 15:55:32",
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
             "team": "hou",
             "start": "2:10 PM",
@@ -5802,6 +5817,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "yainer diaz",
+            "game": "sea @ hou",
+            "hr/park": "0/30",
+            "pa": "51",
+            "dt": "2025-05-25 15:53:32",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "95.7",
+            "la": "42",
+            "dist": "309"
         },
         {
             "player": "jake meyers",
