@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "22",
         "batters": "182",
-        "pitches": "1456",
+        "pitches": "1460",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
-        "ff%fourseam fastball %": "36.2",
+        "ff%fourseam fastball %": "36.3",
         "si%sinker %": "15.5",
         "fc%cutter %": "6.6",
         "fs%splitter %": "2.7",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.0",
         "max evmax exit velocity": "122.9",
         "hhhard hit": "107",
-        "hh%hard hit %": "38.4",
+        "hh%hard hit %": "38.2",
         "brlbarrels": "19",
         "brl%barrel %": "6.8",
-        "ab": "351",
-        "avg": ".234",
-        "h": "82",
-        "1b": "58",
+        "ab": "352",
+        "avg": ".236",
+        "h": "83",
+        "1b": "59",
         "2b": "15",
         "3b": "1",
         "hr": "8",
         "so": "74",
-        "bipballs in play": "279",
+        "bipballs in play": "280",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-25 15:05:11.326825"
+        "updated": "2025-05-25 15:05:20.257899"
     },
     "cle @ det": [
         {
@@ -1063,7 +1063,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3536,6 +3536,21 @@
         }
     ],
     "tor @ tb": [
+        {
+            "player": "brandon lowe",
+            "game": "tor @ tb",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-05-25 15:05:17",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "1:40 PM",
+            "in": "5",
+            "result": "Single",
+            "evo": "90.9",
+            "la": "18",
+            "dist": "287"
+        },
         {
             "player": "josh lowe",
             "game": "tor @ tb",
