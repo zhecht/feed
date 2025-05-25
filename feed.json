@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "17",
         "batters": "109",
-        "pitches": "645",
+        "pitches": "648",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "70.3",
         "ff%fourseam fastball %": "38.4",
-        "si%sinker %": "16.3",
+        "si%sinker %": "16.4",
         "fc%cutter %": "5.6",
         "fs%splitter %": "1.9",
-        "ch%changeup %": "12.1",
+        "ch%changeup %": "12.2",
         "sl%slider %": "18.1",
         "cu%curve %": "7.6",
         "max evmax exit velocity": "111.9",
-        "hhhard hit": "43",
-        "hh%hard hit %": "36.4",
+        "hhhard hit": "45",
+        "hh%hard hit %": "37.5",
         "brlbarrels": "9",
-        "brl%barrel %": "7.6",
+        "brl%barrel %": "7.5",
         "ab": "151",
-        "avg": ".232",
-        "h": "35",
-        "1b": "25",
+        "avg": ".238",
+        "h": "36",
+        "1b": "26",
         "2b": "6",
         "3b": "1",
         "hr": "3",
         "so": "33",
-        "bipballs in play": "118",
+        "bipballs in play": "120",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-25 14:15:45.951679"
+        "updated": "2025-05-25 14:15:53.882786"
     },
     "cle @ det": [
         {
@@ -1063,10 +1063,10 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "96.5",
+            "la": "-11",
+            "dist": "9"
         },
         {
             "player": "jackson holliday",
@@ -2157,6 +2157,21 @@
     ],
     "tor @ tb": [
         {
+            "player": "kameron misner",
+            "game": "tor @ tb",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-05-25 14:15:48",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "1:40 PM",
+            "in": "2",
+            "result": "Single",
+            "evo": "105.5",
+            "la": "14",
+            "dist": "223"
+        },
+        {
             "player": "taylor walls",
             "game": "tor @ tb",
             "hr/park": "",
@@ -2431,21 +2446,6 @@
     ],
     "kc @ min": [
         {
-            "player": "salvador perez",
-            "game": "kc @ min",
-            "hr/park": "",
-            "pa": "4",
-            "dt": "2025-05-25 14:15:32",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "start": "2:10 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "vinnie pasquantino",
             "game": "kc @ min",
             "hr/park": "",
@@ -2502,7 +2502,7 @@
             "team": "tex",
             "start": "2:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "94.5",
             "la": "7",
             "dist": "134"
