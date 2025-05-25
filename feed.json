@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "26",
-        "batters": "183",
-        "pitches": "1604",
+        "batters": "184",
+        "pitches": "1608",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "36.3",
-        "si%sinker %": "15.5",
+        "si%sinker %": "15.4",
         "fc%cutter %": "6.7",
         "fs%splitter %": "2.5",
         "ch%changeup %": "13.1",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.2",
         "max evmax exit velocity": "122.9",
         "hhhard hit": "117",
-        "hh%hard hit %": "38.0",
+        "hh%hard hit %": "37.9",
         "brlbarrels": "21",
         "brl%barrel %": "6.8",
-        "ab": "388",
-        "avg": ".247",
-        "h": "96",
-        "1b": "68",
+        "ab": "390",
+        "avg": ".249",
+        "h": "97",
+        "1b": "69",
         "2b": "17",
         "3b": "1",
         "hr": "10",
         "so": "85",
-        "bipballs in play": "308",
+        "bipballs in play": "309",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-25 15:14:13.200812"
+        "updated": "2025-05-25 15:14:22.073979"
     },
     "cle @ det": [
         {
@@ -1725,7 +1725,7 @@
             "team": "sf",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Field Error",
             "evo": "89.3",
             "la": "7",
             "dist": "121"
@@ -3099,6 +3099,21 @@
         }
     ],
     "chc @ cin": [
+        {
+            "player": "austin hays",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-05-25 15:14:17",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "1:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "elly de la cruz",
             "game": "chc @ cin",
@@ -6337,6 +6352,21 @@
     ],
     "nyy @ col": [
         {
+            "player": "ben rice",
+            "game": "nyy @ col",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-05-25 15:14:17",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "3:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "paul goldschmidt",
             "game": "nyy @ col",
             "hr/park": "",
@@ -6346,7 +6376,7 @@
             "team": "nyy",
             "start": "3:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "",
             "la": "",
             "dist": ""
