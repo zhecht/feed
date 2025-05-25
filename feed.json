@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "77",
-        "batters": "242",
-        "pitches": "2835",
+        "batters": "244",
+        "pitches": "2838",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "59.2",
         "ff%fourseam fastball %": "34.5",
@@ -14,21 +14,21 @@
         "cu%curve %": "6.8",
         "max evmax exit velocity": "122.9",
         "hhhard hit": "210",
-        "hh%hard hit %": "38.9",
+        "hh%hard hit %": "39.0",
         "brlbarrels": "31",
-        "brl%barrel %": "5.7",
-        "ab": "684",
-        "avg": ".246",
+        "brl%barrel %": "5.8",
+        "ab": "686",
+        "avg": ".245",
         "h": "168",
         "1b": "107",
         "2b": "42",
         "3b": "4",
         "hr": "15",
-        "so": "157",
-        "bipballs in play": "540",
+        "so": "158",
+        "bipballs in play": "539",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-25 16:25:47.118856"
+        "updated": "2025-05-25 16:25:57.531791"
     },
     "cle @ det": [
         {
@@ -3182,7 +3182,7 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "8",
-            "result": "Pickoff 2B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5406,7 +5406,7 @@
             "team": "tor",
             "start": "1:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9344,10 +9344,10 @@
             "team": "ari",
             "start": "2:15 PM",
             "in": "8",
-            "result": "Groundout",
-            "evo": "74.1",
-            "la": "-7",
-            "dist": "18"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "randal grichuk",
@@ -10839,6 +10839,21 @@
     ],
     "phi @ ath": [
         {
+            "player": "max kepler",
+            "game": "phi @ ath",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-05-25 16:25:50",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nick castellanos",
             "game": "phi @ ath",
             "hr/park": "",
@@ -11021,6 +11036,21 @@
     ],
     "mia @ laa": [
         {
+            "player": "kyle stowers",
+            "game": "mia @ laa",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-05-25 16:25:03",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "4:07 PM",
+            "in": "2",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "taylor ward",
             "game": "mia @ laa",
             "hr/park": "",
@@ -11137,7 +11167,7 @@
             "team": "atl",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "77.5",
             "la": "-13",
             "dist": "10"
