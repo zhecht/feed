@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "40",
         "batters": "201",
-        "pitches": "2085",
+        "pitches": "2093",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
-        "ff%fourseam fastball %": "36.0",
-        "si%sinker %": "15.6",
+        "ff%fourseam fastball %": "35.9",
+        "si%sinker %": "15.7",
         "fc%cutter %": "6.9",
         "fs%splitter %": "2.1",
         "ch%changeup %": "12.5",
         "sl%slider %": "19.4",
         "cu%curve %": "7.5",
         "max evmax exit velocity": "122.9",
-        "hhhard hit": "158",
-        "hh%hard hit %": "39.3",
+        "hhhard hit": "159",
+        "hh%hard hit %": "39.5",
         "brlbarrels": "27",
         "brl%barrel %": "6.7",
-        "ab": "509",
-        "avg": ".246",
-        "h": "125",
+        "ab": "511",
+        "avg": ".243",
+        "h": "124",
         "1b": "84",
-        "2b": "26",
+        "2b": "25",
         "3b": "4",
         "hr": "11",
-        "so": "113",
-        "bipballs in play": "402",
+        "so": "114",
+        "bipballs in play": "403",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-25 15:42:30.605254"
+        "updated": "2025-05-25 15:42:40.294043"
     },
     "cle @ det": [
         {
@@ -3694,10 +3694,10 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "6",
-            "result": "Stolen Base 2B",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "84.2",
+            "la": "62",
+            "dist": "160"
         },
         {
             "player": "matt mclain",
@@ -6040,10 +6040,10 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "7",
-            "result": "Double",
-            "evo": "88.8",
-            "la": "8",
-            "dist": "164"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "michael massey",
@@ -6753,6 +6753,21 @@
     ],
     "tex @ chw": [
         {
+            "player": "miguel vargas",
+            "game": "tex @ chw",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-05-25 15:42:33",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "101.9",
+            "la": "5",
+            "dist": "105"
+        },
+        {
             "player": "austin slater",
             "game": "tex @ chw",
             "hr/park": "29/30",
@@ -7414,6 +7429,21 @@
         }
     ],
     "ari @ stl": [
+        {
+            "player": "geraldo perdomo",
+            "game": "ari @ stl",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-05-25 15:42:33",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "2:15 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "alek thomas",
             "game": "ari @ stl",
@@ -8101,7 +8131,7 @@
             "team": "nyy",
             "start": "3:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
