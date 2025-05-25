@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "88",
+        "pitchers": "89",
         "batters": "265",
-        "pitches": "3100",
+        "pitches": "3103",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "59.2",
         "ff%fourseam fastball %": "34.5",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.3",
         "fs%splitter %": "1.9",
         "ch%changeup %": "11.9",
-        "sl%slider %": "21.7",
-        "cu%curve %": "7.1",
+        "sl%slider %": "21.6",
+        "cu%curve %": "7.2",
         "max evmax exit velocity": "122.9",
-        "hhhard hit": "227",
-        "hh%hard hit %": "38.6",
+        "hhhard hit": "226",
+        "hh%hard hit %": "38.5",
         "brlbarrels": "35",
         "brl%barrel %": "6.0",
-        "ab": "750",
+        "ab": "752",
         "avg": ".247",
-        "h": "185",
-        "1b": "118",
+        "h": "186",
+        "1b": "119",
         "2b": "48",
         "3b": "4",
         "hr": "15",
-        "so": "178",
-        "bipballs in play": "588",
+        "so": "179",
+        "bipballs in play": "587",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-25 16:41:53.500245"
+        "updated": "2025-05-25 16:42:04.658122"
     },
     "cle @ det": [
         {
@@ -3182,7 +3182,7 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "66.6",
             "la": "-50",
             "dist": "2"
@@ -4359,6 +4359,21 @@
         }
     ],
     "chc @ cin": [
+        {
+            "player": "elly de la cruz",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "84",
+            "dt": "2025-05-25 16:42:02",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "1:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "reese mcguire",
             "game": "chc @ cin",
@@ -6729,9 +6744,9 @@
             "start": "2:10 PM",
             "in": "8",
             "result": "In Progress",
-            "evo": "96.7",
-            "la": "-15",
-            "dist": "6"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "leo rivas",
@@ -9860,6 +9875,21 @@
     ],
     "ari @ stl": [
         {
+            "player": "ketel marte",
+            "game": "ari @ stl",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-05-25 16:42:02",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "2:15 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "corbin carroll",
             "game": "ari @ stl",
             "hr/park": "",
@@ -9869,7 +9899,7 @@
             "team": "ari",
             "start": "2:15 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
