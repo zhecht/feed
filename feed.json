@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "22",
-        "batters": "147",
-        "pitches": "879",
+        "batters": "148",
+        "pitches": "885",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.8",
         "ff%fourseam fastball %": "38.1",
-        "si%sinker %": "17.0",
-        "fc%cutter %": "5.9",
+        "si%sinker %": "16.9",
+        "fc%cutter %": "6.0",
         "fs%splitter %": "2.4",
-        "ch%changeup %": "12.2",
-        "sl%slider %": "16.6",
+        "ch%changeup %": "12.1",
+        "sl%slider %": "16.7",
         "cu%curve %": "7.8",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "60",
-        "hh%hard hit %": "37.0",
+        "hh%hard hit %": "36.1",
         "brlbarrels": "12",
-        "brl%barrel %": "7.4",
-        "ab": "204",
-        "avg": ".250",
+        "brl%barrel %": "7.2",
+        "ab": "206",
+        "avg": ".248",
         "h": "51",
         "1b": "36",
         "2b": "9",
         "3b": "1",
         "hr": "5",
         "so": "41",
-        "bipballs in play": "162",
+        "bipballs in play": "166",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-25 14:30:24.901803"
+        "updated": "2025-05-25 14:30:33.280072"
     },
     "cle @ det": [
         {
@@ -1440,10 +1440,10 @@
             "team": "sf",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "92.0",
+            "la": "4",
+            "dist": "83"
         },
         {
             "player": "willy adames",
@@ -1847,10 +1847,10 @@
             "team": "mil",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "89.8",
+            "la": "5",
+            "dist": "87"
         },
         {
             "player": "william contreras",
@@ -2517,6 +2517,21 @@
     ],
     "tor @ tb": [
         {
+            "player": "jonathan aranda",
+            "game": "tor @ tb",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-05-25 14:30:31",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "1:40 PM",
+            "in": "3",
+            "result": "Pop Out",
+            "evo": "81.8",
+            "la": "81",
+            "dist": "41"
+        },
+        {
             "player": "junior caminero",
             "game": "tor @ tb",
             "hr/park": "",
@@ -3015,6 +3030,21 @@
         }
     ],
     "kc @ min": [
+        {
+            "player": "mark canha",
+            "game": "kc @ min",
+            "hr/park": "0/30",
+            "pa": "11",
+            "dt": "2025-05-25 14:30:31",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "93.6",
+            "la": "32",
+            "dist": "323"
+        },
         {
             "player": "harrison bader",
             "game": "kc @ min",
