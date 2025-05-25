@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "22",
-        "batters": "151",
-        "pitches": "922",
+        "batters": "152",
+        "pitches": "926",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.8",
-        "ff%fourseam fastball %": "37.7",
-        "si%sinker %": "16.8",
+        "ff%fourseam fastball %": "37.9",
+        "si%sinker %": "16.7",
         "fc%cutter %": "5.9",
         "fs%splitter %": "2.5",
         "ch%changeup %": "12.1",
@@ -14,21 +14,21 @@
         "cu%curve %": "7.7",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "62",
-        "hh%hard hit %": "36.9",
+        "hh%hard hit %": "36.7",
         "brlbarrels": "13",
         "brl%barrel %": "7.7",
-        "ab": "213",
-        "avg": ".239",
+        "ab": "215",
+        "avg": ".237",
         "h": "51",
         "1b": "36",
         "2b": "9",
         "3b": "1",
         "hr": "5",
         "so": "44",
-        "bipballs in play": "168",
+        "bipballs in play": "169",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-25 14:32:28.972505"
+        "updated": "2025-05-25 14:32:37.110050"
     },
     "cle @ det": [
         {
@@ -1868,6 +1868,21 @@
     ],
     "mil @ pit": [
         {
+            "player": "isaac collins",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-05-25 14:32:31",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "1:35 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "rhys hoskins",
             "game": "mil @ pit",
             "hr/park": "",
@@ -1877,10 +1892,10 @@
             "team": "mil",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "80.6",
+            "la": "65",
+            "dist": "154"
         },
         {
             "player": "christian yelich",
@@ -3091,6 +3106,21 @@
     ],
     "kc @ min": [
         {
+            "player": "nick loftin",
+            "game": "kc @ min",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-05-25 14:32:31",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "drew waters",
             "game": "kc @ min",
             "hr/park": "",
@@ -3282,7 +3312,7 @@
             "team": "tex",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3290,7 +3320,7 @@
         {
             "player": "kyle higashioka",
             "game": "tex @ chw",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "10",
             "dt": "2025-05-25 14:30:03",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
@@ -3449,7 +3479,7 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
