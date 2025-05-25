@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "66",
         "batters": "222",
-        "pitches": "2591",
+        "pitches": "2597",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "34.7",
         "si%sinker %": "15.7",
         "fc%cutter %": "7.2",
-        "fs%splitter %": "1.9",
+        "fs%splitter %": "2.0",
         "ch%changeup %": "11.9",
         "sl%slider %": "21.2",
         "cu%curve %": "7.3",
         "max evmax exit velocity": "122.9",
-        "hhhard hit": "194",
+        "hhhard hit": "195",
         "hh%hard hit %": "38.6",
         "brlbarrels": "30",
-        "brl%barrel %": "6.0",
-        "ab": "634",
-        "avg": ".240",
+        "brl%barrel %": "5.9",
+        "ab": "635",
+        "avg": ".239",
         "h": "152",
         "1b": "97",
         "2b": "37",
         "3b": "4",
         "hr": "14",
         "so": "140",
-        "bipballs in play": "503",
+        "bipballs in play": "505",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-25 16:13:40.510353"
+        "updated": "2025-05-25 16:13:51.198721"
     },
     "cle @ det": [
         {
@@ -1063,7 +1063,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8052,10 +8052,10 @@
             "team": "tex",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "98.1",
+            "la": "-16",
+            "dist": "11"
         },
         {
             "player": "mike tauchman",
@@ -9757,6 +9757,21 @@
     ],
     "nyy @ col": [
         {
+            "player": "brenton doyle",
+            "game": "nyy @ col",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-05-25 16:13:47",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "3:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan mcmahon",
             "game": "nyy @ col",
             "hr/park": "",
@@ -10218,7 +10233,7 @@
             "team": "ath",
             "start": "4:05 PM",
             "in": "1",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10310,10 +10325,10 @@
             "team": "mia",
             "start": "4:07 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "66.7",
+            "la": "6",
+            "dist": "67"
         },
         {
             "player": "agustin ramirez",
