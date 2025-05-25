@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "36",
-        "batters": "196",
-        "pitches": "1940",
+        "batters": "197",
+        "pitches": "1949",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "35.9",
-        "si%sinker %": "15.5",
-        "fc%cutter %": "6.8",
+        "si%sinker %": "15.6",
+        "fc%cutter %": "6.9",
         "fs%splitter %": "2.2",
-        "ch%changeup %": "12.6",
-        "sl%slider %": "19.4",
+        "ch%changeup %": "12.7",
+        "sl%slider %": "19.3",
         "cu%curve %": "7.5",
         "max evmax exit velocity": "122.9",
-        "hhhard hit": "142",
-        "hh%hard hit %": "37.9",
+        "hhhard hit": "145",
+        "hh%hard hit %": "38.4",
         "brlbarrels": "25",
-        "brl%barrel %": "6.7",
-        "ab": "472",
-        "avg": ".244",
-        "h": "115",
-        "1b": "80",
+        "brl%barrel %": "6.6",
+        "ab": "474",
+        "avg": ".245",
+        "h": "116",
+        "1b": "81",
         "2b": "22",
         "3b": "3",
         "hr": "10",
-        "so": "101",
-        "bipballs in play": "375",
+        "so": "102",
+        "bipballs in play": "378",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-25 15:34:10.760845"
+        "updated": "2025-05-25 15:34:20.013429"
     },
     "cle @ det": [
         {
@@ -3529,7 +3529,7 @@
             "team": "chc",
             "start": "1:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5710,7 +5710,7 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6363,6 +6363,21 @@
     ],
     "tex @ chw": [
         {
+            "player": "josh jung",
+            "game": "tex @ chw",
+            "hr/park": "0/30",
+            "pa": "41",
+            "dt": "2025-05-25 15:34:18",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "103.2",
+            "la": "16",
+            "dist": "327"
+        },
+        {
             "player": "wyatt langford",
             "game": "tex @ chw",
             "hr/park": "",
@@ -6372,10 +6387,10 @@
             "team": "tex",
             "start": "2:10 PM",
             "in": "6",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "97.7",
+            "la": "-42",
+            "dist": "4"
         },
         {
             "player": "josh smith",
@@ -7566,6 +7581,21 @@
         }
     ],
     "nyy @ col": [
+        {
+            "player": "michael toglia",
+            "game": "nyy @ col",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-05-25 15:34:18",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "3:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "103.9",
+            "la": "",
+            "dist": "49"
+        },
         {
             "player": "brenton doyle",
             "game": "nyy @ col",
