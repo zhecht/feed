@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "65",
         "batters": "221",
-        "pitches": "2570",
+        "pitches": "2574",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "34.7",
@@ -10,14 +10,14 @@
         "fc%cutter %": "7.2",
         "fs%splitter %": "1.9",
         "ch%changeup %": "12.0",
-        "sl%slider %": "21.1",
-        "cu%curve %": "7.4",
+        "sl%slider %": "21.2",
+        "cu%curve %": "7.3",
         "max evmax exit velocity": "122.9",
-        "hhhard hit": "193",
-        "hh%hard hit %": "38.4",
+        "hhhard hit": "194",
+        "hh%hard hit %": "38.6",
         "brlbarrels": "30",
         "brl%barrel %": "6.0",
-        "ab": "630",
+        "ab": "631",
         "avg": ".241",
         "h": "152",
         "1b": "97",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "14",
         "so": "138",
-        "bipballs in play": "502",
+        "bipballs in play": "503",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-25 16:12:39.612774"
+        "updated": "2025-05-25 16:12:49.661989"
     },
     "cle @ det": [
         {
@@ -3157,6 +3157,21 @@
         }
     ],
     "mil @ pit": [
+        {
+            "player": "brice turang",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-05-25 16:12:48",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "caleb durbin",
             "game": "mil @ pit",
@@ -9721,7 +9736,7 @@
             "team": "col",
             "start": "3:10 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10312,10 +10327,10 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "108.7",
+            "la": "-3",
+            "dist": "23"
         }
     ],
     "lad @ nym": []
