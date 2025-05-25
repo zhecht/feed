@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "22",
         "batters": "179",
-        "pitches": "1249",
+        "pitches": "1256",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
-        "ff%fourseam fastball %": "36.4",
-        "si%sinker %": "15.8",
+        "ff%fourseam fastball %": "36.5",
+        "si%sinker %": "15.9",
         "fc%cutter %": "6.6",
         "fs%splitter %": "2.6",
-        "ch%changeup %": "12.5",
-        "sl%slider %": "18.0",
-        "cu%curve %": "8.1",
+        "ch%changeup %": "12.4",
+        "sl%slider %": "17.9",
+        "cu%curve %": "8.0",
         "max evmax exit velocity": "122.9",
-        "hhhard hit": "86",
-        "hh%hard hit %": "37.9",
+        "hhhard hit": "87",
+        "hh%hard hit %": "38.0",
         "brlbarrels": "15",
         "brl%barrel %": "6.6",
-        "ab": "291",
-        "avg": ".227",
-        "h": "66",
-        "1b": "46",
+        "ab": "292",
+        "avg": ".229",
+        "h": "67",
+        "1b": "47",
         "2b": "13",
         "3b": "1",
         "hr": "6",
-        "so": "64",
-        "bipballs in play": "227",
+        "so": "65",
+        "bipballs in play": "229",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-25 14:52:30.385223"
+        "updated": "2025-05-25 14:52:39.222266"
     },
     "cle @ det": [
         {
@@ -1063,10 +1063,10 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "83.6",
+            "la": "-10",
+            "dist": "16"
         },
         {
             "player": "david hamilton",
@@ -1565,6 +1565,21 @@
         }
     ],
     "sf @ wsh": [
+        {
+            "player": "jung hoo lee",
+            "game": "sf @ wsh",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-05-25 14:52:33",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "Single",
+            "evo": "99.8",
+            "la": "6",
+            "dist": "116"
+        },
         {
             "player": "nasim nunez",
             "game": "sf @ wsh",
@@ -2614,7 +2629,7 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4559,7 +4574,7 @@
             "team": "ari",
             "start": "2:15 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
