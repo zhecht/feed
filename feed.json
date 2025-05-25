@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "21",
-        "batters": "133",
-        "pitches": "762",
+        "batters": "134",
+        "pitches": "767",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.8",
-        "ff%fourseam fastball %": "38.3",
-        "si%sinker %": "16.7",
+        "ff%fourseam fastball %": "38.2",
+        "si%sinker %": "16.6",
         "fc%cutter %": "5.5",
-        "fs%splitter %": "2.1",
+        "fs%splitter %": "2.3",
         "ch%changeup %": "12.1",
-        "sl%slider %": "17.3",
-        "cu%curve %": "8.0",
+        "sl%slider %": "17.2",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "111.9",
         "hhhard hit": "54",
-        "hh%hard hit %": "37.5",
+        "hh%hard hit %": "37.2",
         "brlbarrels": "11",
         "brl%barrel %": "7.6",
-        "ab": "181",
-        "avg": ".254",
-        "h": "46",
-        "1b": "32",
+        "ab": "182",
+        "avg": ".258",
+        "h": "47",
+        "1b": "33",
         "2b": "9",
         "3b": "1",
         "hr": "4",
-        "so": "38",
-        "bipballs in play": "144",
+        "so": "39",
+        "bipballs in play": "145",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-25 14:23:09.214910"
+        "updated": "2025-05-25 14:23:17.421051"
     },
     "cle @ det": [
         {
@@ -1063,7 +1063,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1396,9 +1396,9 @@
             "start": "1:35 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "92.4",
+            "la": "28",
+            "dist": "333"
         },
         {
             "player": "robert hassell",
@@ -2945,6 +2945,21 @@
     ],
     "ari @ stl": [
         {
+            "player": "pavin smith",
+            "game": "ari @ stl",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-05-25 14:23:17",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "2:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "eugenio suarez",
             "game": "ari @ stl",
             "hr/park": "",
@@ -2954,7 +2969,7 @@
             "team": "ari",
             "start": "2:15 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "70.3",
             "la": "37",
             "dist": "213"
