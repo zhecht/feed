@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "35",
-        "batters": "193",
-        "pitches": "1898",
+        "pitchers": "36",
+        "batters": "195",
+        "pitches": "1908",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "36.0",
-        "si%sinker %": "15.3",
+        "si%sinker %": "15.4",
         "fc%cutter %": "6.8",
         "fs%splitter %": "2.3",
         "ch%changeup %": "12.7",
         "sl%slider %": "19.3",
-        "cu%curve %": "7.6",
+        "cu%curve %": "7.5",
         "max evmax exit velocity": "122.9",
-        "hhhard hit": "139",
-        "hh%hard hit %": "37.8",
+        "hhhard hit": "138",
+        "hh%hard hit %": "37.5",
         "brlbarrels": "25",
         "brl%barrel %": "6.8",
-        "ab": "463",
-        "avg": ".246",
+        "ab": "466",
+        "avg": ".245",
         "h": "114",
         "1b": "79",
         "2b": "22",
@@ -28,7 +28,7 @@
         "bipballs in play": "368",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-25 15:32:10.133752"
+        "updated": "2025-05-25 15:32:19.656284"
     },
     "cle @ det": [
         {
@@ -1851,6 +1851,21 @@
     ],
     "sf @ wsh": [
         {
+            "player": "luis garcia",
+            "game": "sf @ wsh",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-05-25 15:32:18",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "matt chapman",
             "game": "sf @ wsh",
             "hr/park": "",
@@ -2692,6 +2707,21 @@
         }
     ],
     "mil @ pit": [
+        {
+            "player": "tommy pham",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-05-25 15:31:33",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "isiah kiner falefa",
             "game": "mil @ pit",
@@ -4988,10 +5018,10 @@
             "team": "sea",
             "start": "2:10 PM",
             "in": "5",
-            "result": "Groundout",
-            "evo": "107.3",
-            "la": "5",
-            "dist": "121"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "cal raleigh",
@@ -5581,6 +5611,21 @@
     ],
     "kc @ min": [
         {
+            "player": "ty france",
+            "game": "kc @ min",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-05-25 15:32:18",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "86.2",
+            "la": "-12",
+            "dist": "10"
+        },
+        {
             "player": "ryan jeffers",
             "game": "kc @ min",
             "hr/park": "",
@@ -5590,7 +5635,7 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7417,6 +7462,21 @@
     ],
     "nyy @ col": [
         {
+            "player": "brenton doyle",
+            "game": "nyy @ col",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-05-25 15:32:18",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "3:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan mcmahon",
             "game": "nyy @ col",
             "hr/park": "",
@@ -7426,7 +7486,7 @@
             "team": "col",
             "start": "3:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "104.7",
             "la": "-13",
             "dist": "6"
