@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "64",
-        "batters": "218",
-        "pitches": "2557",
+        "pitchers": "63",
+        "batters": "219",
+        "pitches": "2562",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "34.6",
-        "si%sinker %": "15.8",
+        "si%sinker %": "15.7",
         "fc%cutter %": "7.3",
-        "fs%splitter %": "1.9",
+        "fs%splitter %": "2.0",
         "ch%changeup %": "12.0",
-        "sl%slider %": "21.0",
-        "cu%curve %": "7.4",
+        "sl%slider %": "21.1",
+        "cu%curve %": "7.3",
         "max evmax exit velocity": "122.9",
-        "hhhard hit": "192",
+        "hhhard hit": "193",
         "hh%hard hit %": "38.4",
         "brlbarrels": "30",
         "brl%barrel %": "6.0",
-        "ab": "625",
-        "avg": ".242",
-        "h": "151",
-        "1b": "96",
+        "ab": "626",
+        "avg": ".243",
+        "h": "152",
+        "1b": "97",
         "2b": "37",
         "3b": "4",
         "hr": "14",
         "so": "138",
-        "bipballs in play": "500",
+        "bipballs in play": "502",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-25 16:12:08.508926"
+        "updated": "2025-05-25 16:12:18.778026"
     },
     "cle @ det": [
         {
@@ -1063,10 +1063,10 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "72.8",
+            "la": "-29",
+            "dist": "3"
         },
         {
             "player": "nick sogard",
@@ -3160,7 +3160,7 @@
         {
             "player": "caleb durbin",
             "game": "mil @ pit",
-            "hr/park": "",
+            "hr/park": "7/30",
             "pa": "68",
             "dt": "2025-05-25 16:09:48",
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
@@ -4180,9 +4180,24 @@
     ],
     "chc @ cin": [
         {
-            "player": "reese mcguire",
+            "player": "ian happ",
             "game": "chc @ cin",
             "hr/park": "",
+            "pa": "70",
+            "dt": "2025-05-25 16:12:18",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "1:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "reese mcguire",
+            "game": "chc @ cin",
+            "hr/park": "11/30",
             "pa": "69",
             "dt": "2025-05-25 16:10:17",
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
@@ -6238,21 +6253,6 @@
         }
     ],
     "sea @ hou": [
-        {
-            "player": "randy arozarena",
-            "game": "sea @ hou",
-            "hr/park": "",
-            "pa": "58",
-            "dt": "2025-05-25 16:12:03",
-            "img": "https://www.mlbstatic.com/team-logos/136.svg",
-            "team": "sea",
-            "start": "2:10 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "julio rodriguez",
             "game": "sea @ hou",
@@ -10133,6 +10133,21 @@
         }
     ],
     "phi @ ath": [
+        {
+            "player": "brent rooker",
+            "game": "phi @ ath",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-05-25 16:12:18",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "Single",
+            "evo": "103.2",
+            "la": "11",
+            "dist": "185"
+        },
         {
             "player": "jacob wilson",
             "game": "phi @ ath",
