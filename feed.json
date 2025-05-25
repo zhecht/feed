@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "17",
-        "batters": "113",
-        "pitches": "661",
+        "pitchers": "18",
+        "batters": "115",
+        "pitches": "666",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.8",
-        "ff%fourseam fastball %": "38.3",
-        "si%sinker %": "16.5",
+        "ff%fourseam fastball %": "38.4",
+        "si%sinker %": "16.4",
         "fc%cutter %": "5.6",
         "fs%splitter %": "1.8",
         "ch%changeup %": "12.0",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "37.4",
         "brlbarrels": "10",
         "brl%barrel %": "8.1",
-        "ab": "155",
-        "avg": ".239",
-        "h": "37",
+        "ab": "158",
+        "avg": ".241",
+        "h": "38",
         "1b": "27",
         "2b": "6",
         "3b": "1",
-        "hr": "3",
+        "hr": "4",
         "so": "33",
         "bipballs in play": "123",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-25 14:16:56.933421"
+        "updated": "2025-05-25 14:17:04.659281"
     },
     "cle @ det": [
         {
@@ -1673,6 +1673,21 @@
     ],
     "mil @ pit": [
         {
+            "player": "isiah kiner falefa",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-05-25 14:17:02",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "1:35 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "adam frazier",
             "game": "mil @ pit",
             "hr/park": "",
@@ -1915,6 +1930,21 @@
     ],
     "chc @ cin": [
         {
+            "player": "ian happ",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-05-25 14:17:02",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "1:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "reese mcguire",
             "game": "chc @ cin",
             "hr/park": "3/30",
@@ -1924,7 +1954,7 @@
             "team": "chc",
             "start": "1:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Home Run",
             "evo": "100.2",
             "la": "30",
             "dist": "367"
@@ -2598,7 +2628,23 @@
             "dist": "308"
         }
     ],
-    "ari @ stl": [],
+    "ari @ stl": [
+        {
+            "player": "corbin carroll",
+            "game": "ari @ stl",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-25 14:17:02",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "2:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "nyy @ col": [],
     "phi @ ath": [],
     "mia @ laa": [],
