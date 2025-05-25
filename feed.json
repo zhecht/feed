@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "22",
         "batters": "144",
-        "pitches": "849",
+        "pitches": "854",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.8",
         "ff%fourseam fastball %": "37.9",
-        "si%sinker %": "16.4",
+        "si%sinker %": "16.3",
         "fc%cutter %": "6.0",
         "fs%splitter %": "2.5",
-        "ch%changeup %": "12.4",
+        "ch%changeup %": "12.5",
         "sl%slider %": "16.7",
         "cu%curve %": "8.1",
         "max evmax exit velocity": "114.7",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "36.9",
         "brlbarrels": "12",
         "brl%barrel %": "7.6",
-        "ab": "198",
-        "avg": ".253",
+        "ab": "199",
+        "avg": ".251",
         "h": "50",
         "1b": "35",
         "2b": "9",
@@ -28,7 +28,7 @@
         "bipballs in play": "157",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-25 14:28:38.526192"
+        "updated": "2025-05-25 14:28:46.745887"
     },
     "cle @ det": [
         {
@@ -1063,10 +1063,10 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "3",
-            "result": "Groundout",
-            "evo": "63.2",
-            "la": "-27",
-            "dist": "5"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "carlos narvaez",
@@ -1431,6 +1431,21 @@
     ],
     "sf @ wsh": [
         {
+            "player": "lamonte wade",
+            "game": "sf @ wsh",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-05-25 14:28:46",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "willy adames",
             "game": "sf @ wsh",
             "hr/park": "",
@@ -1440,10 +1455,10 @@
             "team": "sf",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "67.0",
+            "la": "-12",
+            "dist": "11"
         },
         {
             "player": "amed rosario",
