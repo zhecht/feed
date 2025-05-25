@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "22",
         "batters": "182",
-        "pitches": "1448",
+        "pitches": "1453",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "36.3",
-        "si%sinker %": "15.4",
-        "fc%cutter %": "6.6",
+        "si%sinker %": "15.5",
+        "fc%cutter %": "6.5",
         "fs%splitter %": "2.7",
         "ch%changeup %": "12.9",
-        "sl%slider %": "18.2",
-        "cu%curve %": "8.0",
+        "sl%slider %": "18.1",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "122.9",
-        "hhhard hit": "105",
-        "hh%hard hit %": "37.9",
+        "hhhard hit": "107",
+        "hh%hard hit %": "38.4",
         "brlbarrels": "19",
-        "brl%barrel %": "6.9",
-        "ab": "349",
-        "avg": ".232",
-        "h": "81",
-        "1b": "57",
+        "brl%barrel %": "6.8",
+        "ab": "350",
+        "avg": ".234",
+        "h": "82",
+        "1b": "58",
         "2b": "15",
         "3b": "1",
         "hr": "8",
-        "so": "73",
-        "bipballs in play": "277",
+        "so": "74",
+        "bipballs in play": "279",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-25 15:04:27.198559"
+        "updated": "2025-05-25 15:04:35.921157"
     },
     "cle @ det": [
         {
@@ -1054,6 +1054,21 @@
     ],
     "bal @ bos": [
         {
+            "player": "wilyer abreu",
+            "game": "bal @ bos",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-05-25 15:04:33",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "rafael devers",
             "game": "bal @ bos",
             "hr/park": "",
@@ -1063,7 +1078,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "78.9",
             "la": "-5",
             "dist": "22"
@@ -3531,10 +3546,10 @@
             "team": "tb",
             "start": "1:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "98.4",
+            "la": "-26",
+            "dist": "6"
         },
         {
             "player": "myles straw",
@@ -4094,6 +4109,21 @@
     ],
     "sea @ hou": [
         {
+            "player": "leody taveras",
+            "game": "sea @ hou",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-05-25 15:03:32",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "Forceout",
+            "evo": "95.3",
+            "la": "4",
+            "dist": "86"
+        },
+        {
             "player": "donovan solano",
             "game": "sea @ hou",
             "hr/park": "",
@@ -4455,21 +4485,6 @@
         }
     ],
     "kc @ min": [
-        {
-            "player": "harrison bader",
-            "game": "kc @ min",
-            "hr/park": "",
-            "pa": "31",
-            "dt": "2025-05-25 15:04:16",
-            "img": "https://www.mlbstatic.com/team-logos/142.svg",
-            "team": "min",
-            "start": "2:10 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "jonah bride",
             "game": "kc @ min",
@@ -5339,7 +5354,7 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
