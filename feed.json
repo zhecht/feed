@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "91",
         "batters": "255",
-        "pitches": "3471",
+        "pitches": "3477",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "70.6",
         "ff%fourseam fastball %": "32.4",
@@ -13,8 +13,8 @@
         "sl%slider %": "21.7",
         "cu%curve %": "9.4",
         "max evmax exit velocity": "114.3",
-        "hhhard hit": "253",
-        "hh%hard hit %": "38.3",
+        "hhhard hit": "254",
+        "hh%hard hit %": "38.4",
         "brlbarrels": "49",
         "brl%barrel %": "7.4",
         "ab": "833",
@@ -25,10 +25,10 @@
         "3b": "6",
         "hr": "18",
         "so": "195",
-        "bipballs in play": "660",
+        "bipballs in play": "662",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-05-24 20:27:11.310709"
+        "updated": "2025-05-24 20:27:22.604798"
     },
     "bal @ bos": [
         {
@@ -1228,7 +1228,7 @@
             "team": "bal",
             "start": "6:35 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12881,6 +12881,21 @@
     ],
     "cle @ det": [
         {
+            "player": "jake rogers",
+            "game": "cle @ det",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-05-24 20:27:22",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:15 PM",
+            "in": "4",
+            "result": "Groundout",
+            "evo": "87.6",
+            "la": "-10",
+            "dist": "13"
+        },
+        {
             "player": "trey sweeney",
             "game": "cle @ det",
             "hr/park": "",
@@ -12890,10 +12905,10 @@
             "team": "det",
             "start": "7:15 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "100.7",
+            "la": "-19",
+            "dist": "9"
         },
         {
             "player": "bo naylor",
