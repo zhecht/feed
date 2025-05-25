@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "27",
+        "pitchers": "28",
         "batters": "187",
-        "pitches": "1690",
+        "pitches": "1695",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "36.0",
-        "si%sinker %": "15.6",
+        "si%sinker %": "15.5",
         "fc%cutter %": "6.8",
         "fs%splitter %": "2.5",
         "ch%changeup %": "12.8",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.0",
         "max evmax exit velocity": "122.9",
         "hhhard hit": "125",
-        "hh%hard hit %": "38.5",
+        "hh%hard hit %": "38.2",
         "brlbarrels": "21",
-        "brl%barrel %": "6.5",
-        "ab": "412",
-        "avg": ".250",
-        "h": "103",
-        "1b": "73",
+        "brl%barrel %": "6.4",
+        "ab": "414",
+        "avg": ".251",
+        "h": "104",
+        "1b": "74",
         "2b": "18",
         "3b": "2",
         "hr": "10",
         "so": "91",
-        "bipballs in play": "325",
+        "bipballs in play": "327",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-25 15:19:26.978011"
+        "updated": "2025-05-25 15:19:35.929021"
     },
     "cle @ det": [
         {
@@ -1760,6 +1760,21 @@
         }
     ],
     "sf @ wsh": [
+        {
+            "player": "nathaniel lowe",
+            "game": "sf @ wsh",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-05-25 15:19:32",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "Flyout",
+            "evo": "84.5",
+            "la": "36",
+            "dist": "273"
+        },
         {
             "player": "heliot ramos",
             "game": "sf @ wsh",
@@ -5071,6 +5086,21 @@
     ],
     "kc @ min": [
         {
+            "player": "willi castro",
+            "game": "kc @ min",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-05-25 15:19:32",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "carson mccusker",
             "game": "kc @ min",
             "hr/park": "",
@@ -5622,10 +5652,10 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "69.1",
+            "la": "26",
+            "dist": "204"
         },
         {
             "player": "edgar quero",
