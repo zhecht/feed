@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "39",
+        "pitchers": "40",
         "batters": "199",
-        "pitches": "1987",
+        "pitches": "1990",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "35.6",
@@ -11,24 +11,24 @@
         "fs%splitter %": "2.2",
         "ch%changeup %": "12.7",
         "sl%slider %": "19.4",
-        "cu%curve %": "7.5",
+        "cu%curve %": "7.6",
         "max evmax exit velocity": "122.9",
-        "hhhard hit": "145",
+        "hhhard hit": "146",
         "hh%hard hit %": "38.0",
         "brlbarrels": "25",
         "brl%barrel %": "6.5",
-        "ab": "485",
+        "ab": "486",
         "avg": ".239",
         "h": "116",
         "1b": "81",
         "2b": "22",
         "3b": "3",
         "hr": "10",
-        "so": "106",
-        "bipballs in play": "382",
+        "so": "107",
+        "bipballs in play": "384",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-25 15:37:44.664795"
+        "updated": "2025-05-25 15:37:53.979613"
     },
     "cle @ det": [
         {
@@ -1881,6 +1881,21 @@
     ],
     "sf @ wsh": [
         {
+            "player": "willy adames",
+            "game": "sf @ wsh",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-05-25 15:37:47",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "109.8",
+            "la": "-17",
+            "dist": "7"
+        },
+        {
             "player": "robert hassell",
             "game": "sf @ wsh",
             "hr/park": "",
@@ -2777,7 +2792,7 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3574,7 +3589,7 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4386,10 +4401,10 @@
             "team": "tb",
             "start": "1:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Groundout",
+            "evo": "84.7",
             "la": "",
-            "dist": ""
+            "dist": "48"
         },
         {
             "player": "anthony santander",
