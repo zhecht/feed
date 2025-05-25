@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "22",
-        "batters": "148",
-        "pitches": "892",
+        "batters": "149",
+        "pitches": "902",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.8",
-        "ff%fourseam fastball %": "38.0",
-        "si%sinker %": "16.8",
+        "ff%fourseam fastball %": "37.8",
+        "si%sinker %": "16.7",
         "fc%cutter %": "5.9",
-        "fs%splitter %": "2.5",
-        "ch%changeup %": "12.1",
-        "sl%slider %": "16.9",
-        "cu%curve %": "7.7",
+        "fs%splitter %": "2.4",
+        "ch%changeup %": "12.2",
+        "sl%slider %": "17.2",
+        "cu%curve %": "7.8",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "60",
         "hh%hard hit %": "36.1",
         "brlbarrels": "12",
         "brl%barrel %": "7.2",
-        "ab": "208",
-        "avg": ".245",
+        "ab": "210",
+        "avg": ".243",
         "h": "51",
         "1b": "36",
         "2b": "9",
@@ -28,7 +28,7 @@
         "bipballs in play": "166",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-25 14:31:14.697830"
+        "updated": "2025-05-25 14:31:22.833554"
     },
     "cle @ det": [
         {
@@ -1053,6 +1053,21 @@
         }
     ],
     "bal @ bos": [
+        {
+            "player": "gunnar henderson",
+            "game": "bal @ bos",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-05-25 14:30:47",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kristian campbell",
             "game": "bal @ bos",
@@ -3061,6 +3076,21 @@
     ],
     "kc @ min": [
         {
+            "player": "drew waters",
+            "game": "kc @ min",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-05-25 14:30:47",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mark canha",
             "game": "kc @ min",
             "hr/park": "0/30",
@@ -3237,7 +3267,7 @@
             "team": "tex",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
