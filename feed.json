@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "22",
         "batters": "150",
-        "pitches": "913",
+        "pitches": "916",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.8",
         "ff%fourseam fastball %": "37.8",
-        "si%sinker %": "16.8",
-        "fc%cutter %": "5.9",
+        "si%sinker %": "16.7",
+        "fc%cutter %": "5.8",
         "fs%splitter %": "2.5",
         "ch%changeup %": "12.2",
         "sl%slider %": "17.2",
-        "cu%curve %": "7.7",
+        "cu%curve %": "7.8",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "62",
         "hh%hard hit %": "36.9",
         "brlbarrels": "13",
         "brl%barrel %": "7.7",
-        "ab": "211",
-        "avg": ".242",
+        "ab": "212",
+        "avg": ".241",
         "h": "51",
         "1b": "36",
         "2b": "9",
         "3b": "1",
         "hr": "5",
-        "so": "42",
+        "so": "44",
         "bipballs in play": "168",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-25 14:31:55.949229"
+        "updated": "2025-05-25 14:32:04.230614"
     },
     "cle @ det": [
         {
@@ -1448,7 +1448,7 @@
         {
             "player": "tyler fitzgerald",
             "game": "sf @ wsh",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "28",
             "dt": "2025-05-25 14:31:02",
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
@@ -2200,6 +2200,21 @@
     ],
     "chc @ cin": [
         {
+            "player": "pete crow armstrong",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-05-25 14:32:02",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "1:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "dansby swanson",
             "game": "chc @ cin",
             "hr/park": "",
@@ -2209,7 +2224,7 @@
             "team": "chc",
             "start": "1:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3258,21 +3273,6 @@
     ],
     "tex @ chw": [
         {
-            "player": "adolis garcia",
-            "game": "tex @ chw",
-            "hr/park": "",
-            "pa": "11",
-            "dt": "2025-05-25 14:31:47",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "2:10 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "kyle higashioka",
             "game": "tex @ chw",
             "hr/park": "",
@@ -3425,6 +3425,21 @@
     ],
     "ari @ stl": [
         {
+            "player": "brendan donovan",
+            "game": "ari @ stl",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-05-25 14:32:02",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "2:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "masyn winn",
             "game": "ari @ stl",
             "hr/park": "",
@@ -3434,7 +3449,7 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
