@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "35",
         "batters": "193",
-        "pitches": "1894",
+        "pitches": "1898",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "36.0",
@@ -13,8 +13,8 @@
         "sl%slider %": "19.3",
         "cu%curve %": "7.6",
         "max evmax exit velocity": "122.9",
-        "hhhard hit": "137",
-        "hh%hard hit %": "37.4",
+        "hhhard hit": "139",
+        "hh%hard hit %": "37.8",
         "brlbarrels": "25",
         "brl%barrel %": "6.8",
         "ab": "463",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "10",
         "so": "100",
-        "bipballs in play": "366",
+        "bipballs in play": "368",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-25 15:32:01.224666"
+        "updated": "2025-05-25 15:32:10.133752"
     },
     "cle @ det": [
         {
@@ -2693,21 +2693,6 @@
     ],
     "mil @ pit": [
         {
-            "player": "tommy pham",
-            "game": "mil @ pit",
-            "hr/park": "",
-            "pa": "51",
-            "dt": "2025-05-25 15:31:33",
-            "img": "https://www.mlbstatic.com/team-logos/134.svg",
-            "team": "pit",
-            "start": "1:35 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "isiah kiner falefa",
             "game": "mil @ pit",
             "hr/park": "",
@@ -3459,6 +3444,21 @@
         }
     ],
     "chc @ cin": [
+        {
+            "player": "reese mcguire",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-05-25 15:32:04",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "1:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "matt shaw",
             "game": "chc @ cin",
@@ -6817,17 +6817,17 @@
         {
             "player": "lars nootbaar",
             "game": "ari @ stl",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "40",
             "dt": "2025-05-25 15:30:48",
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
             "team": "stl",
             "start": "2:15 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "95.9",
+            "la": "22",
+            "dist": "337"
         },
         {
             "player": "victor scott",
@@ -7427,9 +7427,9 @@
             "start": "3:10 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "104.7",
+            "la": "-13",
+            "dist": "6"
         },
         {
             "player": "hunter goodman",
