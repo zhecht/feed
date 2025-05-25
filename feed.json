@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "40",
         "batters": "201",
-        "pitches": "2074",
+        "pitches": "2085",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "36.0",
-        "si%sinker %": "15.7",
-        "fc%cutter %": "6.8",
+        "si%sinker %": "15.6",
+        "fc%cutter %": "6.9",
         "fs%splitter %": "2.1",
         "ch%changeup %": "12.5",
         "sl%slider %": "19.4",
-        "cu%curve %": "7.6",
+        "cu%curve %": "7.5",
         "max evmax exit velocity": "122.9",
-        "hhhard hit": "157",
+        "hhhard hit": "158",
         "hh%hard hit %": "39.3",
         "brlbarrels": "27",
-        "brl%barrel %": "6.8",
-        "ab": "506",
-        "avg": ".245",
-        "h": "124",
+        "brl%barrel %": "6.7",
+        "ab": "509",
+        "avg": ".246",
+        "h": "125",
         "1b": "84",
-        "2b": "25",
+        "2b": "26",
         "3b": "4",
         "hr": "11",
-        "so": "114",
-        "bipballs in play": "400",
+        "so": "113",
+        "bipballs in play": "402",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-25 15:42:11.380197"
+        "updated": "2025-05-25 15:42:20.866983"
     },
     "cle @ det": [
         {
@@ -1053,6 +1053,21 @@
         }
     ],
     "bal @ bos": [
+        {
+            "player": "rafael devers",
+            "game": "bal @ bos",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-05-25 15:42:17",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jarren duran",
             "game": "bal @ bos",
@@ -3679,7 +3694,7 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4512,6 +4527,21 @@
     ],
     "tor @ tb": [
         {
+            "player": "george springer",
+            "game": "tor @ tb",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-05-25 15:42:17",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "chandler simpson",
             "game": "tor @ tb",
             "hr/park": "",
@@ -5324,6 +5354,21 @@
     ],
     "sea @ hou": [
         {
+            "player": "christian walker",
+            "game": "sea @ hou",
+            "hr/park": "0/30",
+            "pa": "45",
+            "dt": "2025-05-25 15:42:17",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "96.1",
+            "la": "34",
+            "dist": "344"
+        },
+        {
             "player": "jose altuve",
             "game": "sea @ hou",
             "hr/park": "",
@@ -5995,10 +6040,10 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "88.8",
+            "la": "8",
+            "dist": "164"
         },
         {
             "player": "michael massey",
@@ -8056,7 +8101,7 @@
             "team": "nyy",
             "start": "3:10 PM",
             "in": "2",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
