@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "41",
-        "batters": "203",
-        "pitches": "2129",
+        "pitchers": "43",
+        "batters": "204",
+        "pitches": "2132",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
-        "ff%fourseam fastball %": "36.0",
+        "ff%fourseam fastball %": "36.1",
         "si%sinker %": "15.8",
         "fc%cutter %": "6.8",
         "fs%splitter %": "2.0",
         "ch%changeup %": "12.4",
         "sl%slider %": "19.4",
-        "cu%curve %": "7.5",
+        "cu%curve %": "7.6",
         "max evmax exit velocity": "122.9",
         "hhhard hit": "161",
         "hh%hard hit %": "39.3",
         "brlbarrels": "27",
         "brl%barrel %": "6.6",
-        "ab": "517",
-        "avg": ".246",
+        "ab": "520",
+        "avg": ".244",
         "h": "127",
         "1b": "84",
         "2b": "28",
@@ -28,7 +28,7 @@
         "bipballs in play": "410",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-25 15:45:14.104880"
+        "updated": "2025-05-25 15:45:23.532893"
     },
     "cle @ det": [
         {
@@ -1926,6 +1926,21 @@
     ],
     "sf @ wsh": [
         {
+            "player": "james wood",
+            "game": "sf @ wsh",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-05-25 15:44:48",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "Wild Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh bell",
             "game": "sf @ wsh",
             "hr/park": "0/30",
@@ -3739,10 +3754,10 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "91.7",
+            "la": "42",
+            "dist": "281"
         },
         {
             "player": "tj friedl",
@@ -5429,6 +5444,21 @@
     ],
     "sea @ hou": [
         {
+            "player": "rowdy tellez",
+            "game": "sea @ hou",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-05-25 15:45:17",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "christian walker",
             "game": "sea @ hou",
             "hr/park": "0/30",
@@ -6105,6 +6135,21 @@
         }
     ],
     "kc @ min": [
+        {
+            "player": "maikel garcia",
+            "game": "kc @ min",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-05-25 15:45:17",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "freddy fermin",
             "game": "kc @ min",
@@ -8221,10 +8266,10 @@
             "team": "nyy",
             "start": "3:10 PM",
             "in": "2",
-            "result": "Groundout",
-            "evo": "56.0",
-            "la": "-57",
-            "dist": "3"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "dj lemahieu",
