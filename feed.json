@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "85",
         "batters": "262",
-        "pitches": "3073",
+        "pitches": "3077",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "59.2",
         "ff%fourseam fastball %": "34.6",
@@ -11,24 +11,24 @@
         "fs%splitter %": "1.9",
         "ch%changeup %": "12.0",
         "sl%slider %": "21.5",
-        "cu%curve %": "6.9",
+        "cu%curve %": "7.0",
         "max evmax exit velocity": "122.9",
-        "hhhard hit": "225",
-        "hh%hard hit %": "38.7",
-        "brlbarrels": "34",
-        "brl%barrel %": "5.8",
-        "ab": "741",
-        "avg": ".247",
-        "h": "183",
-        "1b": "118",
+        "hhhard hit": "226",
+        "hh%hard hit %": "38.8",
+        "brlbarrels": "35",
+        "brl%barrel %": "6.0",
+        "ab": "742",
+        "avg": ".245",
+        "h": "182",
+        "1b": "117",
         "2b": "46",
         "3b": "4",
         "hr": "15",
-        "so": "175",
-        "bipballs in play": "582",
+        "so": "176",
+        "bipballs in play": "583",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-25 16:39:42.102324"
+        "updated": "2025-05-25 16:39:53.093681"
     },
     "cle @ det": [
         {
@@ -3173,6 +3173,21 @@
     ],
     "mil @ pit": [
         {
+            "player": "joey bart",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "79",
+            "dt": "2025-05-25 16:39:47",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "spencer horwitz",
             "game": "mil @ pit",
             "hr/park": "",
@@ -3182,7 +3197,7 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4339,7 +4354,7 @@
             "team": "chc",
             "start": "1:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "92.6",
             "la": "58",
             "dist": "216"
@@ -11705,7 +11720,7 @@
             "team": "laa",
             "start": "4:07 PM",
             "in": "2",
-            "result": "Single",
+            "result": "Groundout",
             "evo": "81.0",
             "la": "-31",
             "dist": "4"
@@ -11918,9 +11933,9 @@
             "start": "4:10 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "103.5",
+            "la": "28",
+            "dist": "389"
         },
         {
             "player": "alex verdugo",
