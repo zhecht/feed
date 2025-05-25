@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "77",
         "batters": "244",
-        "pitches": "2838",
+        "pitches": "2843",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "59.2",
         "ff%fourseam fastball %": "34.5",
@@ -14,10 +14,10 @@
         "cu%curve %": "6.8",
         "max evmax exit velocity": "122.9",
         "hhhard hit": "210",
-        "hh%hard hit %": "39.0",
+        "hh%hard hit %": "38.9",
         "brlbarrels": "31",
-        "brl%barrel %": "5.8",
-        "ab": "686",
+        "brl%barrel %": "5.7",
+        "ab": "687",
         "avg": ".245",
         "h": "168",
         "1b": "107",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "15",
         "so": "158",
-        "bipballs in play": "539",
+        "bipballs in play": "540",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-05-25 16:25:57.531791"
+        "updated": "2025-05-25 16:26:08.086914"
     },
     "cle @ det": [
         {
@@ -6509,6 +6509,21 @@
     ],
     "sea @ hou": [
         {
+            "player": "victor caratini",
+            "game": "sea @ hou",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-05-25 16:26:02",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "christian walker",
             "game": "sea @ hou",
             "hr/park": "",
@@ -9344,10 +9359,10 @@
             "team": "ari",
             "start": "2:15 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "74.1",
+            "la": "-7",
+            "dist": "18"
         },
         {
             "player": "randal grichuk",
@@ -11167,7 +11182,7 @@
             "team": "atl",
             "start": "4:10 PM",
             "in": "1",
-            "result": "Forceout",
+            "result": "GIDP",
             "evo": "77.5",
             "la": "-13",
             "dist": "10"
