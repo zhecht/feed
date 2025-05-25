@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "22",
         "batters": "182",
-        "pitches": "1351",
+        "pitches": "1358",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
-        "ff%fourseam fastball %": "36.8",
-        "si%sinker %": "15.6",
+        "ff%fourseam fastball %": "36.9",
+        "si%sinker %": "15.5",
         "fc%cutter %": "6.7",
         "fs%splitter %": "2.4",
         "ch%changeup %": "12.4",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.0",
         "max evmax exit velocity": "122.9",
         "hhhard hit": "98",
-        "hh%hard hit %": "38.0",
+        "hh%hard hit %": "37.8",
         "brlbarrels": "17",
         "brl%barrel %": "6.6",
-        "ab": "325",
-        "avg": ".231",
+        "ab": "326",
+        "avg": ".230",
         "h": "75",
         "1b": "54",
         "2b": "13",
         "3b": "1",
         "hr": "7",
         "so": "69",
-        "bipballs in play": "258",
+        "bipballs in play": "259",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-25 14:58:55.129547"
+        "updated": "2025-05-25 14:59:03.800950"
     },
     "cle @ det": [
         {
@@ -1635,10 +1635,10 @@
             "team": "wsh",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "92.8",
+            "la": "32",
+            "dist": "348"
         },
         {
             "player": "willy adames",
@@ -2267,7 +2267,7 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "80.8",
             "la": "79",
             "dist": "57"
@@ -4653,9 +4653,24 @@
     ],
     "tex @ chw": [
         {
-            "player": "jake burger",
+            "player": "alejandro osuna",
             "game": "tex @ chw",
             "hr/park": "",
+            "pa": "25",
+            "dt": "2025-05-25 14:59:02",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "2:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jake burger",
+            "game": "tex @ chw",
+            "hr/park": "0/30",
             "pa": "24",
             "dt": "2025-05-25 14:58:03",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
