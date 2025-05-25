@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "26",
-        "batters": "184",
-        "pitches": "1656",
+        "pitchers": "27",
+        "batters": "186",
+        "pitches": "1659",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
-        "ff%fourseam fastball %": "36.0",
+        "ff%fourseam fastball %": "36.1",
         "si%sinker %": "15.7",
         "fc%cutter %": "6.8",
         "fs%splitter %": "2.5",
         "ch%changeup %": "12.9",
         "sl%slider %": "18.0",
-        "cu%curve %": "8.2",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "122.9",
         "hhhard hit": "124",
-        "hh%hard hit %": "38.8",
+        "hh%hard hit %": "38.6",
         "brlbarrels": "21",
-        "brl%barrel %": "6.6",
-        "ab": "403",
-        "avg": ".248",
-        "h": "100",
-        "1b": "70",
+        "brl%barrel %": "6.5",
+        "ab": "405",
+        "avg": ".249",
+        "h": "101",
+        "1b": "71",
         "2b": "18",
         "3b": "2",
         "hr": "10",
-        "so": "88",
-        "bipballs in play": "320",
+        "so": "89",
+        "bipballs in play": "321",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-25 15:17:57.033120"
+        "updated": "2025-05-25 15:18:05.947895"
     },
     "cle @ det": [
         {
@@ -2522,7 +2522,7 @@
             "team": "mil",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3189,6 +3189,21 @@
         }
     ],
     "chc @ cin": [
+        {
+            "player": "spencer steer",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-05-25 15:18:02",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "1:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "austin hays",
             "game": "chc @ cin",
@@ -4523,7 +4538,7 @@
             "team": "sea",
             "start": "2:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "74.4",
             "la": "-24",
             "dist": "6"
@@ -6547,6 +6562,21 @@
     ],
     "nyy @ col": [
         {
+            "player": "aaron judge",
+            "game": "nyy @ col",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-05-25 15:18:02",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "3:10 PM",
+            "in": "1",
+            "result": "Single",
+            "evo": "69.7",
+            "la": "37",
+            "dist": "231"
+        },
+        {
             "player": "ben rice",
             "game": "nyy @ col",
             "hr/park": "",
@@ -6556,7 +6586,7 @@
             "team": "nyy",
             "start": "3:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "108.3",
             "la": "13",
             "dist": "287"
