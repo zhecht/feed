@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "26",
         "batters": "183",
-        "pitches": "1599",
+        "pitches": "1604",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "36.3",
-        "si%sinker %": "15.4",
+        "si%sinker %": "15.5",
         "fc%cutter %": "6.7",
         "fs%splitter %": "2.5",
         "ch%changeup %": "13.1",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.2",
         "max evmax exit velocity": "122.9",
         "hhhard hit": "117",
-        "hh%hard hit %": "38.2",
+        "hh%hard hit %": "38.0",
         "brlbarrels": "21",
-        "brl%barrel %": "6.9",
-        "ab": "387",
-        "avg": ".248",
+        "brl%barrel %": "6.8",
+        "ab": "388",
+        "avg": ".247",
         "h": "96",
         "1b": "68",
         "2b": "17",
         "3b": "1",
         "hr": "10",
         "so": "85",
-        "bipballs in play": "306",
+        "bipballs in play": "308",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-25 15:13:55.040465"
+        "updated": "2025-05-25 15:14:04.266162"
     },
     "cle @ det": [
         {
@@ -5373,6 +5373,21 @@
     ],
     "tex @ chw": [
         {
+            "player": "sam haggerty",
+            "game": "tex @ chw",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-05-25 15:14:02",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "marcus semien",
             "game": "tex @ chw",
             "hr/park": "",
@@ -5864,10 +5879,10 @@
             "team": "ari",
             "start": "2:15 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "58.2",
+            "la": "-39",
+            "dist": "4"
         },
         {
             "player": "alek thomas",
