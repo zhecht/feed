@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "21",
-        "batters": "137",
-        "pitches": "800",
+        "batters": "138",
+        "pitches": "805",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.8",
         "ff%fourseam fastball %": "38.6",
         "si%sinker %": "16.3",
-        "fc%cutter %": "5.5",
+        "fc%cutter %": "5.7",
         "fs%splitter %": "2.4",
-        "ch%changeup %": "12.0",
-        "sl%slider %": "17.0",
-        "cu%curve %": "8.3",
+        "ch%changeup %": "11.9",
+        "sl%slider %": "16.9",
+        "cu%curve %": "8.2",
         "max evmax exit velocity": "111.9",
         "hhhard hit": "55",
-        "hh%hard hit %": "37.2",
+        "hh%hard hit %": "36.7",
         "brlbarrels": "11",
-        "brl%barrel %": "7.4",
-        "ab": "189",
-        "avg": ".249",
+        "brl%barrel %": "7.3",
+        "ab": "188",
+        "avg": ".250",
         "h": "47",
         "1b": "33",
         "2b": "9",
         "3b": "1",
         "hr": "4",
         "so": "40",
-        "bipballs in play": "148",
+        "bipballs in play": "150",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-25 14:25:25.917173"
+        "updated": "2025-05-25 14:25:33.858665"
     },
     "cle @ det": [
         {
@@ -1425,7 +1425,7 @@
             "team": "wsh",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "97.4",
             "la": "-8",
             "dist": "22"
@@ -2089,10 +2089,10 @@
             "team": "chc",
             "start": "1:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "90.1",
+            "la": "35",
+            "dist": "281"
         },
         {
             "player": "santiago espinal",
@@ -2412,6 +2412,21 @@
     ],
     "tor @ tb": [
         {
+            "player": "myles straw",
+            "game": "tor @ tb",
+            "hr/park": "0/30",
+            "pa": "21",
+            "dt": "2025-05-25 14:25:32",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "94.9",
+            "la": "35",
+            "dist": "361"
+        },
+        {
             "player": "ali sanchez",
             "game": "tor @ tb",
             "hr/park": "",
@@ -2708,7 +2723,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2830,7 +2845,7 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2952,7 +2967,7 @@
             "team": "tex",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
