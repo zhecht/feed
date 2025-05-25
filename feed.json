@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "20",
-        "batters": "128",
-        "pitches": "738",
+        "batters": "129",
+        "pitches": "747",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.8",
-        "ff%fourseam fastball %": "37.9",
-        "si%sinker %": "16.8",
-        "fc%cutter %": "5.7",
-        "fs%splitter %": "2.2",
+        "ff%fourseam fastball %": "38.3",
+        "si%sinker %": "16.6",
+        "fc%cutter %": "5.6",
+        "fs%splitter %": "2.1",
         "ch%changeup %": "11.9",
-        "sl%slider %": "17.2",
-        "cu%curve %": "8.3",
+        "sl%slider %": "17.3",
+        "cu%curve %": "8.2",
         "max evmax exit velocity": "111.9",
-        "hhhard hit": "52",
-        "hh%hard hit %": "38.0",
+        "hhhard hit": "54",
+        "hh%hard hit %": "38.6",
         "brlbarrels": "11",
-        "brl%barrel %": "8.0",
-        "ab": "175",
-        "avg": ".246",
-        "h": "43",
+        "brl%barrel %": "7.9",
+        "ab": "176",
+        "avg": ".250",
+        "h": "44",
         "1b": "30",
-        "2b": "8",
+        "2b": "9",
         "3b": "1",
         "hr": "4",
         "so": "37",
-        "bipballs in play": "137",
+        "bipballs in play": "140",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-25 14:21:57.814111"
+        "updated": "2025-05-25 14:22:05.676802"
     },
     "cle @ det": [
         {
@@ -1757,7 +1757,7 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2019,6 +2019,21 @@
         }
     ],
     "chc @ cin": [
+        {
+            "player": "tj friedl",
+            "game": "chc @ cin",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-05-25 14:22:01",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "1:40 PM",
+            "in": "2",
+            "result": "Groundout",
+            "evo": "99.2",
+            "la": "-4",
+            "dist": "29"
+        },
         {
             "player": "matt mclain",
             "game": "chc @ cin",
@@ -2681,9 +2696,9 @@
             "start": "2:10 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "82.7",
+            "la": "14",
+            "dist": "210"
         },
         {
             "player": "ryan jeffers",
@@ -2765,7 +2780,7 @@
         {
             "player": "miguel vargas",
             "game": "tex @ chw",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "6",
             "dt": "2025-05-25 14:20:33",
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
@@ -2855,6 +2870,21 @@
     ],
     "ari @ stl": [
         {
+            "player": "eugenio suarez",
+            "game": "ari @ stl",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-05-25 14:22:01",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "2:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh naylor",
             "game": "ari @ stl",
             "hr/park": "",
@@ -2864,10 +2894,10 @@
             "team": "ari",
             "start": "2:15 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "95.8",
+            "la": "6",
+            "dist": "107"
         },
         {
             "player": "lourdes gurriel",
