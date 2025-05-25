@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "25",
         "batters": "182",
-        "pitches": "1543",
+        "pitches": "1546",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "36.0",
         "si%sinker %": "15.7",
         "fc%cutter %": "6.4",
         "fs%splitter %": "2.6",
-        "ch%changeup %": "13.2",
+        "ch%changeup %": "13.1",
         "sl%slider %": "18.1",
-        "cu%curve %": "8.0",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "122.9",
-        "hhhard hit": "112",
-        "hh%hard hit %": "38.1",
+        "hhhard hit": "113",
+        "hh%hard hit %": "38.3",
         "brlbarrels": "20",
         "brl%barrel %": "6.8",
         "ab": "375",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "9",
         "so": "81",
-        "bipballs in play": "294",
+        "bipballs in play": "295",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-25 15:10:39.472523"
+        "updated": "2025-05-25 15:10:48.487754"
     },
     "cle @ det": [
         {
@@ -2393,6 +2393,21 @@
     ],
     "mil @ pit": [
         {
+            "player": "joey bart",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-05-25 15:10:48",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "spencer horwitz",
             "game": "mil @ pit",
             "hr/park": "",
@@ -3034,7 +3049,7 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4298,10 +4313,10 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Sac Fly",
+            "evo": "101.2",
+            "la": "22",
+            "dist": "346"
         },
         {
             "player": "christian walker",
@@ -5699,7 +5714,7 @@
             "team": "ari",
             "start": "2:15 PM",
             "in": "4",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
