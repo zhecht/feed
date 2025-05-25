@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "22",
         "batters": "182",
-        "pitches": "1377",
+        "pitches": "1378",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "36.8",
         "si%sinker %": "15.5",
         "fc%cutter %": "6.6",
-        "fs%splitter %": "2.4",
+        "fs%splitter %": "2.5",
         "ch%changeup %": "12.6",
         "sl%slider %": "18.1",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "122.9",
-        "hhhard hit": "99",
-        "hh%hard hit %": "37.6",
+        "hhhard hit": "100",
+        "hh%hard hit %": "37.9",
         "brlbarrels": "17",
-        "brl%barrel %": "6.5",
+        "brl%barrel %": "6.4",
         "ab": "331",
         "avg": ".233",
         "h": "77",
@@ -24,11 +24,11 @@
         "2b": "14",
         "3b": "1",
         "hr": "7",
-        "so": "70",
-        "bipballs in play": "263",
+        "so": "69",
+        "bipballs in play": "264",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-25 15:00:13.546830"
+        "updated": "2025-05-25 15:00:22.281079"
     },
     "cle @ det": [
         {
@@ -2273,6 +2273,21 @@
     ],
     "mil @ pit": [
         {
+            "player": "jackson chourio",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-05-25 15:00:18",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "Lineout",
+            "evo": "100.9",
+            "la": "16",
+            "dist": "313"
+        },
+        {
             "player": "jared triolo",
             "game": "mil @ pit",
             "hr/park": "",
@@ -3944,21 +3959,6 @@
     ],
     "sea @ hou": [
         {
-            "player": "mitch garver",
-            "game": "sea @ hou",
-            "hr/park": "",
-            "pa": "23",
-            "dt": "2025-05-25 15:00:01",
-            "img": "https://www.mlbstatic.com/team-logos/136.svg",
-            "team": "sea",
-            "start": "2:10 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "randy arozarena",
             "game": "sea @ hou",
             "hr/park": "",
@@ -3968,7 +3968,7 @@
             "team": "sea",
             "start": "2:10 PM",
             "in": "3",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
