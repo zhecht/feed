@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "22",
-        "batters": "173",
-        "pitches": "1174",
+        "batters": "174",
+        "pitches": "1187",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
-        "ff%fourseam fastball %": "37.7",
+        "ff%fourseam fastball %": "37.4",
         "si%sinker %": "15.7",
         "fc%cutter %": "6.4",
-        "fs%splitter %": "2.5",
+        "fs%splitter %": "2.6",
         "ch%changeup %": "12.3",
-        "sl%slider %": "17.9",
-        "cu%curve %": "7.6",
+        "sl%slider %": "17.8",
+        "cu%curve %": "7.8",
         "max evmax exit velocity": "122.9",
-        "hhhard hit": "80",
-        "hh%hard hit %": "37.4",
+        "hhhard hit": "81",
+        "hh%hard hit %": "37.3",
         "brlbarrels": "15",
-        "brl%barrel %": "7.0",
-        "ab": "271",
+        "brl%barrel %": "6.9",
+        "ab": "275",
         "avg": ".236",
-        "h": "64",
-        "1b": "45",
+        "h": "65",
+        "1b": "46",
         "2b": "12",
         "3b": "1",
         "hr": "6",
-        "so": "59",
-        "bipballs in play": "214",
+        "so": "61",
+        "bipballs in play": "217",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-25 14:48:01.272324"
+        "updated": "2025-05-25 14:48:09.739423"
     },
     "cle @ det": [
         {
@@ -1054,6 +1054,21 @@
     ],
     "bal @ bos": [
         {
+            "player": "abraham toro",
+            "game": "bal @ bos",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-05-25 14:48:04",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "81.1",
+            "la": "51",
+            "dist": "233"
+        },
+        {
             "player": "marcelo mayer",
             "game": "bal @ bos",
             "hr/park": "",
@@ -1521,6 +1536,21 @@
     ],
     "sf @ wsh": [
         {
+            "player": "nasim nunez",
+            "game": "sf @ wsh",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-05-25 14:48:04",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "riley adams",
             "game": "sf @ wsh",
             "hr/park": "",
@@ -1530,7 +1560,7 @@
             "team": "wsh",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2524,7 +2554,7 @@
             "team": "chc",
             "start": "1:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3006,10 +3036,10 @@
             "team": "tb",
             "start": "1:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "73.8",
+            "la": "-20",
+            "dist": "7"
         },
         {
             "player": "taylor walls",
@@ -3706,6 +3736,21 @@
     ],
     "kc @ min": [
         {
+            "player": "salvador perez",
+            "game": "kc @ min",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-05-25 14:48:04",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "vinnie pasquantino",
             "game": "kc @ min",
             "hr/park": "",
@@ -4295,6 +4340,21 @@
     ],
     "ari @ stl": [
         {
+            "player": "pedro pages",
+            "game": "ari @ stl",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-05-25 14:47:17",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "2:15 PM",
+            "in": "2",
+            "result": "Groundout",
+            "evo": "104.1",
+            "la": "-29",
+            "dist": "4"
+        },
+        {
             "player": "jordan walker",
             "game": "ari @ stl",
             "hr/park": "",
@@ -4304,7 +4364,7 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "111.3",
             "la": "5",
             "dist": "161"
