@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "54",
+        "pitchers": "55",
         "batters": "210",
-        "pitches": "2435",
+        "pitches": "2443",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
-        "ff%fourseam fastball %": "35.2",
+        "ff%fourseam fastball %": "35.1",
         "si%sinker %": "15.8",
-        "fc%cutter %": "7.6",
-        "fs%splitter %": "1.8",
+        "fc%cutter %": "7.5",
+        "fs%splitter %": "1.9",
         "ch%changeup %": "12.2",
-        "sl%slider %": "20.0",
+        "sl%slider %": "20.1",
         "cu%curve %": "7.4",
         "max evmax exit velocity": "122.9",
         "hhhard hit": "180",
-        "hh%hard hit %": "38.0",
+        "hh%hard hit %": "37.9",
         "brlbarrels": "28",
         "brl%barrel %": "5.9",
-        "ab": "594",
-        "avg": ".236",
+        "ab": "595",
+        "avg": ".235",
         "h": "140",
         "1b": "90",
         "2b": "34",
         "3b": "4",
         "hr": "12",
         "so": "131",
-        "bipballs in play": "474",
-        "liveGames": 11,
+        "bipballs in play": "475",
+        "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-05-25 16:04:56.396762"
+        "updated": "2025-05-25 16:05:06.314701"
     },
     "cle @ det": [
         {
@@ -1053,6 +1053,21 @@
         }
     ],
     "bal @ bos": [
+        {
+            "player": "marcelo mayer",
+            "game": "bal @ bos",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-05-25 16:05:03",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jackson holliday",
             "game": "bal @ bos",
@@ -3098,6 +3113,21 @@
     ],
     "mil @ pit": [
         {
+            "player": "isaac collins",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-05-25 16:05:03",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "rhys hoskins",
             "game": "mil @ pit",
             "hr/park": "",
@@ -3107,7 +3137,7 @@
             "team": "mil",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5076,7 +5106,7 @@
             "team": "tb",
             "start": "1:40 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7737,10 +7767,10 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "51.6",
+            "la": "-31",
+            "dist": "5"
         },
         {
             "player": "michael a taylor",
@@ -8549,7 +8579,7 @@
             "team": "ari",
             "start": "2:15 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "95.7",
             "la": "6",
             "dist": "112"
