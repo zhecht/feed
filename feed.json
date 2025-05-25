@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "40",
-        "batters": "200",
-        "pitches": "2044",
+        "batters": "201",
+        "pitches": "2047",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "35.9",
@@ -13,22 +13,22 @@
         "sl%slider %": "19.2",
         "cu%curve %": "7.6",
         "max evmax exit velocity": "122.9",
-        "hhhard hit": "154",
-        "hh%hard hit %": "38.9",
+        "hhhard hit": "155",
+        "hh%hard hit %": "39.0",
         "brlbarrels": "26",
-        "brl%barrel %": "6.6",
-        "ab": "500",
-        "avg": ".242",
-        "h": "121",
+        "brl%barrel %": "6.5",
+        "ab": "501",
+        "avg": ".244",
+        "h": "122",
         "1b": "83",
-        "2b": "24",
+        "2b": "25",
         "3b": "4",
         "hr": "10",
         "so": "110",
-        "bipballs in play": "396",
+        "bipballs in play": "397",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-25 15:40:45.818347"
+        "updated": "2025-05-25 15:40:55.293139"
     },
     "cle @ det": [
         {
@@ -1898,7 +1898,7 @@
         {
             "player": "tyler fitzgerald",
             "game": "sf @ wsh",
-            "hr/park": "",
+            "hr/park": "1/30",
             "pa": "62",
             "dt": "2025-05-25 15:40:19",
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
@@ -3649,10 +3649,10 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "104.2",
+            "la": "-6",
+            "dist": "18"
         },
         {
             "player": "connor joe",
@@ -7972,6 +7972,21 @@
     ],
     "nyy @ col": [
         {
+            "player": "dj lemahieu",
+            "game": "nyy @ col",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-05-25 15:40:49",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "3:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jc escarra",
             "game": "nyy @ col",
             "hr/park": "",
@@ -7981,7 +7996,7 @@
             "team": "nyy",
             "start": "3:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "99.1",
             "la": "3",
             "dist": "92"
