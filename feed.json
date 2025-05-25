@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "40",
         "batters": "200",
-        "pitches": "2012",
+        "pitches": "2024",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
-        "ff%fourseam fastball %": "35.7",
-        "si%sinker %": "15.7",
+        "ff%fourseam fastball %": "35.8",
+        "si%sinker %": "15.6",
         "fc%cutter %": "6.9",
         "fs%splitter %": "2.1",
         "ch%changeup %": "12.7",
         "sl%slider %": "19.3",
         "cu%curve %": "7.6",
         "max evmax exit velocity": "122.9",
-        "hhhard hit": "149",
-        "hh%hard hit %": "38.3",
+        "hhhard hit": "152",
+        "hh%hard hit %": "38.8",
         "brlbarrels": "26",
-        "brl%barrel %": "6.7",
-        "ab": "492",
-        "avg": ".244",
+        "brl%barrel %": "6.6",
+        "ab": "494",
+        "avg": ".243",
         "h": "120",
         "1b": "82",
         "2b": "24",
         "3b": "4",
         "hr": "10",
-        "so": "107",
-        "bipballs in play": "389",
+        "so": "108",
+        "bipballs in play": "392",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-25 15:39:09.868607"
+        "updated": "2025-05-25 15:39:19.403502"
     },
     "cle @ det": [
         {
@@ -1063,7 +1063,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4446,7 +4446,7 @@
             "team": "tb",
             "start": "1:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5881,6 +5881,21 @@
     ],
     "kc @ min": [
         {
+            "player": "nick loftin",
+            "game": "kc @ min",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-05-25 15:39:17",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "99.7",
+            "la": "",
+            "dist": "66"
+        },
+        {
             "player": "drew waters",
             "game": "kc @ min",
             "hr/park": "",
@@ -6567,10 +6582,10 @@
             "team": "tex",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "104.3",
+            "la": "-1",
+            "dist": "38"
         },
         {
             "player": "jake burger",
@@ -7204,6 +7219,21 @@
         }
     ],
     "ari @ stl": [
+        {
+            "player": "gabriel moreno",
+            "game": "ari @ stl",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-05-25 15:39:17",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "2:15 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "97.0",
+            "la": "6",
+            "dist": "136"
+        },
         {
             "player": "pavin smith",
             "game": "ari @ stl",
