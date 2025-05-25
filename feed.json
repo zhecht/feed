@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "22",
         "batters": "182",
-        "pitches": "1378",
+        "pitches": "1381",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "36.8",
-        "si%sinker %": "15.5",
+        "si%sinker %": "15.4",
         "fc%cutter %": "6.6",
         "fs%splitter %": "2.5",
-        "ch%changeup %": "12.6",
+        "ch%changeup %": "12.7",
         "sl%slider %": "18.1",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "122.9",
         "hhhard hit": "100",
-        "hh%hard hit %": "37.9",
+        "hh%hard hit %": "37.7",
         "brlbarrels": "17",
         "brl%barrel %": "6.4",
-        "ab": "331",
-        "avg": ".233",
+        "ab": "332",
+        "avg": ".232",
         "h": "77",
         "1b": "55",
         "2b": "14",
         "3b": "1",
         "hr": "7",
-        "so": "69",
-        "bipballs in play": "264",
+        "so": "70",
+        "bipballs in play": "265",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-25 15:00:31.027436"
+        "updated": "2025-05-25 15:00:39.873656"
     },
     "cle @ det": [
         {
@@ -2282,7 +2282,7 @@
             "team": "mil",
             "start": "1:35 PM",
             "in": "5",
-            "result": "Lineout",
+            "result": "In Progress",
             "evo": "100.9",
             "la": "16",
             "dist": "313"
@@ -3404,7 +3404,7 @@
         {
             "player": "myles straw",
             "game": "tor @ tb",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "38",
             "dt": "2025-05-25 15:00:01",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
@@ -3959,6 +3959,21 @@
     ],
     "sea @ hou": [
         {
+            "player": "mitch garver",
+            "game": "sea @ hou",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-05-25 15:00:01",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "randy arozarena",
             "game": "sea @ hou",
             "hr/park": "",
@@ -3968,7 +3983,7 @@
             "team": "sea",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4722,10 +4737,10 @@
             "team": "tex",
             "start": "2:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "84.3",
+            "la": "44",
+            "dist": "240"
         },
         {
             "player": "jake burger",
