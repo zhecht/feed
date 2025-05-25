@@ -2,16 +2,16 @@
     "all": {
         "pitchers": "22",
         "batters": "157",
-        "pitches": "994",
+        "pitches": "995",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.8",
         "ff%fourseam fastball %": "39.0",
-        "si%sinker %": "16.2",
+        "si%sinker %": "16.4",
         "fc%cutter %": "5.8",
         "fs%splitter %": "2.3",
         "ch%changeup %": "11.7",
         "sl%slider %": "17.4",
-        "cu%curve %": "7.5",
+        "cu%curve %": "7.4",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "67",
         "hh%hard hit %": "37.2",
@@ -28,7 +28,7 @@
         "bipballs in play": "180",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-25 14:36:59.777452"
+        "updated": "2025-05-25 14:37:08.019077"
     },
     "cle @ det": [
         {
@@ -2329,7 +2329,7 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3104,21 +3104,6 @@
     ],
     "sea @ hou": [
         {
-            "player": "leody taveras",
-            "game": "sea @ hou",
-            "hr/park": "",
-            "pa": "12",
-            "dt": "2025-05-25 14:36:47",
-            "img": "https://www.mlbstatic.com/team-logos/136.svg",
-            "team": "sea",
-            "start": "2:10 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "victor caratini",
             "game": "sea @ hou",
             "hr/park": "",
@@ -3285,6 +3270,21 @@
         }
     ],
     "kc @ min": [
+        {
+            "player": "brooks lee",
+            "game": "kc @ min",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-05-25 14:36:32",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "michael massey",
             "game": "kc @ min",
@@ -3674,7 +3674,7 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "1",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
