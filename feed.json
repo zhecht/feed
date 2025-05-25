@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "22",
         "batters": "165",
-        "pitches": "1064",
+        "pitches": "1068",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.8",
         "ff%fourseam fastball %": "38.5",
         "si%sinker %": "15.9",
         "fc%cutter %": "6.2",
-        "fs%splitter %": "2.3",
-        "ch%changeup %": "11.9",
-        "sl%slider %": "17.9",
+        "fs%splitter %": "2.2",
+        "ch%changeup %": "12.1",
+        "sl%slider %": "17.8",
         "cu%curve %": "7.3",
         "max evmax exit velocity": "122.9",
-        "hhhard hit": "73",
-        "hh%hard hit %": "37.8",
+        "hhhard hit": "74",
+        "hh%hard hit %": "38.1",
         "brlbarrels": "15",
-        "brl%barrel %": "7.8",
-        "ab": "243",
-        "avg": ".243",
-        "h": "59",
-        "1b": "41",
+        "brl%barrel %": "7.7",
+        "ab": "245",
+        "avg": ".237",
+        "h": "58",
+        "1b": "40",
         "2b": "11",
         "3b": "1",
         "hr": "6",
         "so": "52",
-        "bipballs in play": "193",
+        "bipballs in play": "194",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-05-25 14:40:42.708601"
+        "updated": "2025-05-25 14:40:50.970437"
     },
     "cle @ det": [
         {
@@ -1054,6 +1054,21 @@
     ],
     "bal @ bos": [
         {
+            "player": "cedric mullins",
+            "game": "bal @ bos",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-05-25 14:40:46",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "emmanuel rivera",
             "game": "bal @ bos",
             "hr/park": "",
@@ -1493,7 +1508,7 @@
         {
             "player": "mike yastrzemski",
             "game": "sf @ wsh",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "33",
             "dt": "2025-05-25 14:40:04",
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
@@ -1988,6 +2003,21 @@
     ],
     "mil @ pit": [
         {
+            "player": "joey bart",
+            "game": "mil @ pit",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-05-25 14:40:46",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "1:35 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "spencer horwitz",
             "game": "mil @ pit",
             "hr/park": "",
@@ -1997,10 +2027,10 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "3",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "95.7",
+            "la": "10",
+            "dist": "174"
         },
         {
             "player": "andrew mccutchen",
@@ -3248,10 +3278,10 @@
             "team": "sea",
             "start": "2:10 PM",
             "in": "2",
-            "result": "Single",
-            "evo": "93.0",
-            "la": "5",
-            "dist": "101"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "leody taveras",
@@ -3687,10 +3717,10 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "78.3",
+            "la": "6",
+            "dist": "88"
         },
         {
             "player": "luis robert",
