@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "47",
         "batters": "207",
-        "pitches": "2262",
+        "pitches": "2268",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "35.6",
@@ -14,21 +14,21 @@
         "cu%curve %": "7.4",
         "max evmax exit velocity": "122.9",
         "hhhard hit": "172",
-        "hh%hard hit %": "39.0",
+        "hh%hard hit %": "38.9",
         "brlbarrels": "28",
         "brl%barrel %": "6.3",
-        "ab": "551",
-        "avg": ".243",
-        "h": "134",
+        "ab": "552",
+        "avg": ".245",
+        "h": "135",
         "1b": "89",
-        "2b": "30",
+        "2b": "31",
         "3b": "4",
         "hr": "11",
         "so": "119",
-        "bipballs in play": "441",
+        "bipballs in play": "442",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-25 15:53:25.516563"
+        "updated": "2025-05-25 15:53:35.343020"
     },
     "cle @ det": [
         {
@@ -3912,14 +3912,14 @@
         {
             "player": "nico hoerner",
             "game": "chc @ cin",
-            "hr/park": "",
+            "hr/park": "2/30",
             "pa": "62",
             "dt": "2025-05-25 15:52:47",
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
             "team": "chc",
             "start": "1:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "101.9",
             "la": "21",
             "dist": "386"
@@ -5714,6 +5714,21 @@
     ],
     "sea @ hou": [
         {
+            "player": "yainer diaz",
+            "game": "sea @ hou",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-05-25 15:53:32",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jake meyers",
             "game": "sea @ hou",
             "hr/park": "",
@@ -5723,7 +5738,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "44.0",
             "la": "-8",
             "dist": "14"
@@ -8761,10 +8776,10 @@
             "team": "col",
             "start": "3:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "58.2",
+            "la": "46",
+            "dist": "166"
         },
         {
             "player": "nick martini",
