@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "28",
-        "batters": "98",
-        "pitches": "952",
+        "pitchers": "27",
+        "batters": "100",
+        "pitches": "955",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "32.1",
-        "si%sinker %": "15.9",
+        "ff%fourseam fastball %": "32.0",
+        "si%sinker %": "15.8",
         "fc%cutter %": "14.5",
         "fs%splitter %": "0.2",
-        "ch%changeup %": "9.3",
-        "sl%slider %": "18.7",
-        "cu%curve %": "9.2",
+        "ch%changeup %": "9.4",
+        "sl%slider %": "19.0",
+        "cu%curve %": "9.1",
         "max evmax exit velocity": "117.7",
         "hhhard hit": "61",
         "hh%hard hit %": "36.3",
-        "brlbarrels": "13",
-        "brl%barrel %": "7.7",
-        "ab": "218",
-        "avg": ".197",
+        "brlbarrels": "12",
+        "brl%barrel %": "7.1",
+        "ab": "220",
+        "avg": ".195",
         "h": "43",
         "1b": "32",
         "2b": "6",
@@ -28,7 +28,7 @@
         "bipballs in play": "168",
         "liveGames": 7,
         "totGames": 12,
-        "updated": "2025-05-26 16:24:22.207541"
+        "updated": "2025-05-26 16:24:30.314388"
     },
     "sf @ det": [
         {
@@ -1926,21 +1926,6 @@
     ],
     "col @ chc": [
         {
-            "player": "nick martini",
-            "game": "col @ chc",
-            "hr/park": "",
-            "pa": "56",
-            "dt": "2025-05-26 16:24:09",
-            "img": "https://www.mlbstatic.com/team-logos/115.svg",
-            "team": "col",
-            "start": "2:20 PM",
-            "in": "8",
-            "result": "Flyout",
-            "evo": "101.1",
-            "la": "23",
-            "dist": "359"
-        },
-        {
             "player": "seiya suzuki",
             "game": "col @ chc",
             "hr/park": "",
@@ -2768,6 +2753,21 @@
     ],
     "stl @ bal": [
         {
+            "player": "ryan mountcastle",
+            "game": "stl @ bal",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-05-26 16:24:25",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "3:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gunnar henderson",
             "game": "stl @ bal",
             "hr/park": "",
@@ -3399,6 +3399,36 @@
         }
     ],
     "tor @ tex": [
+        {
+            "player": "ernie clement",
+            "game": "tor @ tex",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-05-26 16:24:25",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "addison barger",
+            "game": "tor @ tex",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-05-26 16:23:54",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "Groundout",
+            "evo": "98.8",
+            "la": "-12",
+            "dist": "12"
+        },
         {
             "player": "anthony santander",
             "game": "tor @ tex",
