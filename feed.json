@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "35",
         "batters": "133",
-        "pitches": "1283",
+        "pitches": "1288",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "30.9",
+        "ff%fourseam fastball %": "30.8",
         "si%sinker %": "18.2",
-        "fc%cutter %": "12.1",
-        "fs%splitter %": "1.1",
-        "ch%changeup %": "9.0",
+        "fc%cutter %": "12.0",
+        "fs%splitter %": "1.3",
+        "ch%changeup %": "8.9",
         "sl%slider %": "19.2",
         "cu%curve %": "9.5",
         "max evmax exit velocity": "117.7",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "35.2",
         "brlbarrels": "14",
         "brl%barrel %": "5.7",
-        "ab": "304",
-        "avg": ".204",
+        "ab": "305",
+        "avg": ".203",
         "h": "62",
         "1b": "47",
         "2b": "9",
         "3b": "0",
         "hr": "6",
-        "so": "67",
+        "so": "68",
         "bipballs in play": "244",
         "liveGames": 7,
         "totGames": 12,
-        "updated": "2025-05-26 16:57:33.912844"
+        "updated": "2025-05-26 16:57:42.023521"
     },
     "sf @ det": [
         {
@@ -3128,6 +3128,21 @@
     ],
     "stl @ bal": [
         {
+            "player": "gunnar henderson",
+            "game": "stl @ bal",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-05-26 16:57:39",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "3:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ramon urias",
             "game": "stl @ bal",
             "hr/park": "",
@@ -3985,6 +4000,21 @@
     ],
     "tor @ tex": [
         {
+            "player": "jake burger",
+            "game": "tor @ tex",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-05-26 16:57:39",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "4:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh jung",
             "game": "tor @ tex",
             "hr/park": "",
@@ -3994,7 +4024,7 @@
             "team": "tex",
             "start": "4:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4838,7 +4868,7 @@
             "team": "chw",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
