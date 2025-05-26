@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "35",
         "batters": "133",
-        "pitches": "1273",
+        "pitches": "1279",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "31.2",
+        "ff%fourseam fastball %": "31.0",
         "si%sinker %": "18.1",
-        "fc%cutter %": "12.2",
-        "fs%splitter %": "0.9",
+        "fc%cutter %": "12.1",
+        "fs%splitter %": "1.1",
         "ch%changeup %": "8.8",
         "sl%slider %": "19.2",
-        "cu%curve %": "9.6",
+        "cu%curve %": "9.5",
         "max evmax exit velocity": "117.7",
         "hhhard hit": "85",
-        "hh%hard hit %": "35.1",
+        "hh%hard hit %": "35.0",
         "brlbarrels": "14",
         "brl%barrel %": "5.8",
-        "ab": "303",
+        "ab": "304",
         "avg": ".201",
         "h": "61",
         "1b": "46",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "6",
         "so": "67",
-        "bipballs in play": "242",
+        "bipballs in play": "243",
         "liveGames": 7,
         "totGames": 12,
-        "updated": "2025-05-26 16:56:52.179785"
+        "updated": "2025-05-26 16:57:00.457415"
     },
     "sf @ det": [
         {
@@ -3128,6 +3128,21 @@
     ],
     "stl @ bal": [
         {
+            "player": "ramon urias",
+            "game": "stl @ bal",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-05-26 16:56:55",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "3:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jackson holliday",
             "game": "stl @ bal",
             "hr/park": "",
@@ -3137,10 +3152,10 @@
             "team": "bal",
             "start": "3:05 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "79.6",
+            "la": "-29",
+            "dist": "4"
         },
         {
             "player": "victor scott",
