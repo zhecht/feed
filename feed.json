@@ -1,22 +1,22 @@
 {
     "all": {
-        "pitchers": "19",
-        "batters": "76",
-        "pitches": "806",
+        "pitchers": "20",
+        "batters": "77",
+        "pitches": "811",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "32.3",
+        "ff%fourseam fastball %": "32.7",
         "si%sinker %": "14.1",
-        "fc%cutter %": "16.0",
+        "fc%cutter %": "15.9",
         "fs%splitter %": "0.1",
         "ch%changeup %": "8.9",
-        "sl%slider %": "19.1",
+        "sl%slider %": "19.0",
         "cu%curve %": "9.4",
         "max evmax exit velocity": "117.7",
-        "hhhard hit": "50",
-        "hh%hard hit %": "36.0",
+        "hhhard hit": "51",
+        "hh%hard hit %": "36.4",
         "brlbarrels": "10",
-        "brl%barrel %": "7.2",
+        "brl%barrel %": "7.1",
         "ab": "189",
         "avg": ".196",
         "h": "37",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "3",
         "so": "50",
-        "bipballs in play": "139",
+        "bipballs in play": "140",
         "liveGames": 5,
         "totGames": 12,
-        "updated": "2025-05-26 16:09:34.784221"
+        "updated": "2025-05-26 16:09:42.521415"
     },
     "sf @ det": [
         {
@@ -1048,7 +1048,7 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2627,7 +2627,7 @@
             "team": "stl",
             "start": "3:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3158,7 +3158,23 @@
             "dist": ""
         }
     ],
-    "tor @ tex": [],
+    "tor @ tex": [
+        {
+            "player": "bo bichette",
+            "game": "tor @ tex",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-26 16:09:38",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "Lineout",
+            "evo": "103.3",
+            "la": "15",
+            "dist": "311"
+        }
+    ],
     "cin @ kc": [],
     "chw @ nym": [],
     "lad @ cle": [],
