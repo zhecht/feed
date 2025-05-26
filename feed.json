@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "29",
         "batters": "118",
-        "pitches": "1059",
+        "pitches": "1065",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "30.9",
-        "si%sinker %": "17.5",
+        "ff%fourseam fastball %": "30.8",
+        "si%sinker %": "17.6",
         "fc%cutter %": "13.2",
         "fs%splitter %": "0.2",
         "ch%changeup %": "9.4",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.2",
         "max evmax exit velocity": "117.7",
         "hhhard hit": "70",
-        "hh%hard hit %": "35.4",
+        "hh%hard hit %": "35.2",
         "brlbarrels": "13",
-        "brl%barrel %": "6.6",
-        "ab": "251",
-        "avg": ".195",
+        "brl%barrel %": "6.5",
+        "ab": "252",
+        "avg": ".194",
         "h": "49",
         "1b": "36",
         "2b": "8",
         "3b": "0",
         "hr": "5",
         "so": "57",
-        "bipballs in play": "198",
+        "bipballs in play": "199",
         "liveGames": 7,
         "totGames": 12,
-        "updated": "2025-05-26 16:35:07.119430"
+        "updated": "2025-05-26 16:35:15.238388"
     },
     "sf @ det": [
         {
@@ -1048,7 +1048,7 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2025,7 +2025,7 @@
             "team": "col",
             "start": "2:20 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2917,6 +2917,21 @@
         }
     ],
     "stl @ bal": [
+        {
+            "player": "jordan walker",
+            "game": "stl @ bal",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-05-26 16:35:09",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "3:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ivan herrera",
             "game": "stl @ bal",
@@ -3892,9 +3907,9 @@
             "start": "4:10 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "67.8",
+            "la": "-66",
+            "dist": "3"
         },
         {
             "player": "salvador perez",
@@ -3999,7 +4014,7 @@
             "result": "Flyout",
             "evo": "99.6",
             "la": "33",
-            "dist": "367"
+            "dist": "354"
         },
         {
             "player": "bobby witt",
