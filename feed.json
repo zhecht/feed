@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "50",
+        "pitchers": "51",
         "batters": "145",
-        "pitches": "1838",
+        "pitches": "1843",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "28.6",
-        "si%sinker %": "19.5",
+        "ff%fourseam fastball %": "28.5",
+        "si%sinker %": "19.6",
         "fc%cutter %": "11.2",
         "fs%splitter %": "3.2",
         "ch%changeup %": "9.8",
         "sl%slider %": "19.3",
         "cu%curve %": "8.4",
         "max evmax exit velocity": "117.7",
-        "hhhard hit": "125",
-        "hh%hard hit %": "35.9",
+        "hhhard hit": "126",
+        "hh%hard hit %": "36.1",
         "brlbarrels": "20",
         "brl%barrel %": "5.7",
-        "ab": "432",
+        "ab": "433",
         "avg": ".208",
         "h": "90",
         "1b": "66",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "9",
         "so": "94",
-        "bipballs in play": "348",
+        "bipballs in play": "349",
         "liveGames": 8,
         "totGames": 12,
-        "updated": "2025-05-26 18:28:06.498714"
+        "updated": "2025-05-26 18:28:15.283645"
     },
     "sf @ det": [
         {
@@ -4182,17 +4182,17 @@
         {
             "player": "jake burger",
             "game": "tor @ tex",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "71",
             "dt": "2025-05-26 18:26:39",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
             "start": "4:05 PM",
             "in": "9",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "99.4",
+            "la": "41",
+            "dist": "334"
         },
         {
             "player": "josh jung",
@@ -5246,6 +5246,21 @@
         }
     ],
     "cin @ kc": [
+        {
+            "player": "will benson",
+            "game": "cin @ kc",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-05-26 18:28:09",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "4:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "bobby witt",
             "game": "cin @ kc",
@@ -6314,6 +6329,21 @@
     ],
     "chw @ nym": [
         {
+            "player": "luis robert",
+            "game": "chw @ nym",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-05-26 18:28:09",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "4:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andrew benintendi",
             "game": "chw @ nym",
             "hr/park": "",
@@ -6323,7 +6353,7 @@
             "team": "chw",
             "start": "4:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
