@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "24",
-        "batters": "89",
-        "pitches": "893",
+        "batters": "90",
+        "pitches": "897",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "33.1",
         "si%sinker %": "14.8",
-        "fc%cutter %": "14.8",
-        "fs%splitter %": "0.1",
+        "fc%cutter %": "14.7",
+        "fs%splitter %": "0.2",
         "ch%changeup %": "9.0",
-        "sl%slider %": "18.6",
+        "sl%slider %": "18.5",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "117.7",
-        "hhhard hit": "56",
-        "hh%hard hit %": "36.6",
+        "hhhard hit": "57",
+        "hh%hard hit %": "36.5",
         "brlbarrels": "12",
-        "brl%barrel %": "7.8",
-        "ab": "204",
-        "avg": ".206",
+        "brl%barrel %": "7.7",
+        "ab": "206",
+        "avg": ".204",
         "h": "42",
         "1b": "31",
         "2b": "6",
         "3b": "0",
         "hr": "5",
-        "so": "52",
-        "bipballs in play": "153",
+        "so": "53",
+        "bipballs in play": "156",
         "liveGames": 7,
         "totGames": 12,
-        "updated": "2025-05-26 16:18:31.338149"
+        "updated": "2025-05-26 16:18:39.255427"
     },
     "sf @ det": [
         {
@@ -2708,6 +2708,21 @@
     ],
     "stl @ bal": [
         {
+            "player": "masyn winn",
+            "game": "stl @ bal",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-05-26 16:18:39",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "3:05 PM",
+            "in": "5",
+            "result": "Groundout",
+            "evo": "87.7",
+            "la": "-21",
+            "dist": "7"
+        },
+        {
             "player": "lars nootbaar",
             "game": "stl @ bal",
             "hr/park": "",
@@ -2717,7 +2732,7 @@
             "team": "stl",
             "start": "3:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3295,6 +3310,21 @@
     ],
     "tor @ tex": [
         {
+            "player": "wyatt langford",
+            "game": "tor @ tex",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-05-26 16:18:39",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "Flyout",
+            "evo": "98.8",
+            "la": "56",
+            "dist": "247"
+        },
+        {
             "player": "josh smith",
             "game": "tor @ tex",
             "hr/park": "",
@@ -3304,10 +3334,10 @@
             "team": "tex",
             "start": "4:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "94.1",
+            "la": "-3",
+            "dist": "29"
         },
         {
             "player": "sam haggerty",
