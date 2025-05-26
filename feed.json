@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "29",
-        "batters": "117",
-        "pitches": "1058",
+        "batters": "118",
+        "pitches": "1059",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "30.9",
-        "si%sinker %": "17.4",
+        "si%sinker %": "17.5",
         "fc%cutter %": "13.2",
         "fs%splitter %": "0.2",
-        "ch%changeup %": "9.5",
-        "sl%slider %": "19.7",
+        "ch%changeup %": "9.4",
+        "sl%slider %": "19.6",
         "cu%curve %": "9.2",
         "max evmax exit velocity": "117.7",
         "hhhard hit": "70",
         "hh%hard hit %": "35.4",
         "brlbarrels": "13",
         "brl%barrel %": "6.6",
-        "ab": "250",
-        "avg": ".196",
+        "ab": "251",
+        "avg": ".195",
         "h": "49",
         "1b": "36",
         "2b": "8",
@@ -28,7 +28,7 @@
         "bipballs in play": "198",
         "liveGames": 7,
         "totGames": 12,
-        "updated": "2025-05-26 16:34:50.641381"
+        "updated": "2025-05-26 16:34:58.713828"
     },
     "sf @ det": [
         {
@@ -2025,7 +2025,7 @@
             "team": "col",
             "start": "2:20 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3649,7 +3649,7 @@
             "team": "tor",
             "start": "4:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "105.2",
             "la": "3",
             "dist": "104"
@@ -3882,6 +3882,21 @@
     ],
     "cin @ kc": [
         {
+            "player": "maikel garcia",
+            "game": "cin @ kc",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-05-26 16:34:53",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "salvador perez",
             "game": "cin @ kc",
             "hr/park": "",
@@ -3891,7 +3906,7 @@
             "team": "kc",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "72.7",
             "la": "4",
             "dist": "65"
