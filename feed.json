@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "29",
-        "batters": "122",
-        "pitches": "1091",
+        "batters": "121",
+        "pitches": "1092",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "30.3",
-        "si%sinker %": "17.9",
+        "ff%fourseam fastball %": "30.4",
+        "si%sinker %": "17.8",
         "fc%cutter %": "13.0",
-        "fs%splitter %": "0.4",
+        "fs%splitter %": "0.5",
         "ch%changeup %": "9.6",
-        "sl%slider %": "19.3",
-        "cu%curve %": "9.4",
+        "sl%slider %": "19.4",
+        "cu%curve %": "9.3",
         "max evmax exit velocity": "117.7",
         "hhhard hit": "70",
-        "hh%hard hit %": "34.7",
+        "hh%hard hit %": "34.5",
         "brlbarrels": "13",
         "brl%barrel %": "6.4",
         "ab": "256",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "5",
         "so": "59",
-        "bipballs in play": "202",
+        "bipballs in play": "203",
         "liveGames": 7,
         "totGames": 12,
-        "updated": "2025-05-26 16:37:50.151232"
+        "updated": "2025-05-26 16:37:58.244448"
     },
     "sf @ det": [
         {
@@ -1038,6 +1038,21 @@
         }
     ],
     "bos @ mil": [
+        {
+            "player": "joey ortiz",
+            "game": "bos @ mil",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-05-26 16:37:54",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "77.7",
+            "la": "24",
+            "dist": "235"
+        },
         {
             "player": "eric haase",
             "game": "bos @ mil",
@@ -4169,21 +4184,6 @@
     ],
     "chw @ nym": [
         {
-            "player": "brett baty",
-            "game": "chw @ nym",
-            "hr/park": "",
-            "pa": "13",
-            "dt": "2025-05-26 16:37:39",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "4:10 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jared young",
             "game": "chw @ nym",
             "hr/park": "",
@@ -4193,10 +4193,10 @@
             "team": "nym",
             "start": "4:10 PM",
             "in": "2",
-            "result": "Pop Out",
-            "evo": "72.5",
-            "la": "82",
-            "dist": "58"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "edgar quero",
