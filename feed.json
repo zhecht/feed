@@ -1,15 +1,15 @@
 {
     "all": {
         "pitchers": "12",
-        "batters": "59",
-        "pitches": "464",
+        "batters": "60",
+        "pitches": "466",
         "max velomax pitch velocity": "98.1",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "35.1",
-        "si%sinker %": "11.6",
-        "fc%cutter %": "16.8",
+        "ff%fourseam fastball %": "35.2",
+        "si%sinker %": "11.8",
+        "fc%cutter %": "16.7",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "8.0",
+        "ch%changeup %": "7.9",
         "sl%slider %": "17.2",
         "cu%curve %": "11.2",
         "max evmax exit velocity": "107.5",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "36.0",
         "brlbarrels": "5",
         "brl%barrel %": "6.7",
-        "ab": "105",
-        "avg": ".162",
+        "ab": "106",
+        "avg": ".160",
         "h": "17",
         "1b": "14",
         "2b": "2",
@@ -28,7 +28,7 @@
         "bipballs in play": "75",
         "liveGames": 4,
         "totGames": 12,
-        "updated": "2025-05-26 15:12:35.695822"
+        "updated": "2025-05-26 15:12:43.265684"
     },
     "sf @ det": [
         {
@@ -1748,6 +1748,21 @@
     ],
     "stl @ bal": [
         {
+            "player": "willson contreras",
+            "game": "stl @ bal",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-05-26 15:12:38",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "3:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brendan donovan",
             "game": "stl @ bal",
             "hr/park": "",
@@ -1757,7 +1772,7 @@
             "team": "stl",
             "start": "3:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "90.1",
             "la": "-5",
             "dist": "20"
