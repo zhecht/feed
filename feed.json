@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "29",
-        "batters": "119",
-        "pitches": "1076",
+        "batters": "121",
+        "pitches": "1084",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "30.6",
-        "si%sinker %": "17.8",
+        "ff%fourseam fastball %": "30.4",
+        "si%sinker %": "17.9",
         "fc%cutter %": "13.1",
         "fs%splitter %": "0.2",
-        "ch%changeup %": "9.4",
+        "ch%changeup %": "9.5",
         "sl%slider %": "19.5",
-        "cu%curve %": "9.5",
+        "cu%curve %": "9.4",
         "max evmax exit velocity": "117.7",
         "hhhard hit": "70",
         "hh%hard hit %": "35.0",
         "brlbarrels": "13",
         "brl%barrel %": "6.5",
-        "ab": "253",
-        "avg": ".194",
+        "ab": "255",
+        "avg": ".192",
         "h": "49",
         "1b": "36",
         "2b": "8",
@@ -28,7 +28,7 @@
         "bipballs in play": "200",
         "liveGames": 7,
         "totGames": 12,
-        "updated": "2025-05-26 16:36:36.579825"
+        "updated": "2025-05-26 16:36:44.657947"
     },
     "sf @ det": [
         {
@@ -2033,14 +2033,14 @@
         {
             "player": "ryan mcmahon",
             "game": "col @ chc",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "60",
             "dt": "2025-05-26 16:33:53",
             "img": "https://www.mlbstatic.com/team-logos/115.svg",
             "team": "col",
             "start": "2:20 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "91.5",
             "la": "26",
             "dist": "305"
@@ -2942,7 +2942,7 @@
             "team": "stl",
             "start": "3:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3670,6 +3670,21 @@
     ],
     "tor @ tex": [
         {
+            "player": "alejandro osuna",
+            "game": "tor @ tex",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-05-26 16:36:39",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bo bichette",
             "game": "tor @ tex",
             "hr/park": "",
@@ -3911,6 +3926,21 @@
         }
     ],
     "cin @ kc": [
+        {
+            "player": "john rave",
+            "game": "cin @ kc",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-05-26 16:36:39",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "maikel garcia",
             "game": "cin @ kc",
