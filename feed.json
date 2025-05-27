@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "15",
         "batters": "118",
-        "pitches": "777",
+        "pitches": "780",
         "max velomax pitch velocity": "98.0",
         "min velomin pitch velocity": "73.6",
         "ff%fourseam fastball %": "30.0",
-        "si%sinker %": "18.0",
+        "si%sinker %": "18.1",
         "fc%cutter %": "13.5",
-        "fs%splitter %": "3.9",
-        "ch%changeup %": "8.4",
+        "fs%splitter %": "3.8",
+        "ch%changeup %": "8.3",
         "sl%slider %": "20.6",
-        "cu%curve %": "5.7",
+        "cu%curve %": "5.6",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "60",
-        "hh%hard hit %": "48.4",
+        "hh%hard hit %": "48.0",
         "brlbarrels": "15",
-        "brl%barrel %": "12.1",
-        "ab": "180",
-        "avg": ".256",
+        "brl%barrel %": "12.0",
+        "ab": "181",
+        "avg": ".254",
         "h": "46",
         "1b": "30",
         "2b": "7",
         "3b": "1",
         "hr": "8",
         "so": "57",
-        "bipballs in play": "124",
+        "bipballs in play": "125",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-05-27 19:50:59.472724"
+        "updated": "2025-05-27 19:51:07.793618"
     },
     "lad @ cle": [
         {
@@ -1235,6 +1235,21 @@
         }
     ],
     "sf @ det": [
+        {
+            "player": "casey schmitt",
+            "game": "sf @ det",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-05-27 19:51:03",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kerry carpenter",
             "game": "sf @ det",
@@ -2888,10 +2903,10 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "94.2",
+            "la": "37",
+            "dist": "317"
         },
         {
             "player": "bobby witt",
