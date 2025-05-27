@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "17",
         "batters": "126",
-        "pitches": "895",
+        "pitches": "897",
         "max velomax pitch velocity": "98.0",
         "min velomin pitch velocity": "73.6",
-        "ff%fourseam fastball %": "29.9",
-        "si%sinker %": "17.0",
-        "fc%cutter %": "12.3",
+        "ff%fourseam fastball %": "30.1",
+        "si%sinker %": "16.7",
+        "fc%cutter %": "12.4",
         "fs%splitter %": "3.8",
-        "ch%changeup %": "9.2",
-        "sl%slider %": "21.2",
+        "ch%changeup %": "9.1",
+        "sl%slider %": "21.3",
         "cu%curve %": "6.6",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "67",
-        "hh%hard hit %": "47.2",
+        "hh%hard hit %": "46.5",
         "brlbarrels": "17",
-        "brl%barrel %": "12.0",
-        "ab": "206",
-        "avg": ".238",
-        "h": "49",
-        "1b": "31",
+        "brl%barrel %": "11.8",
+        "ab": "207",
+        "avg": ".242",
+        "h": "50",
+        "1b": "32",
         "2b": "7",
         "3b": "1",
         "hr": "10",
         "so": "64",
-        "bipballs in play": "142",
+        "bipballs in play": "144",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-05-27 19:58:44.154834"
+        "updated": "2025-05-27 19:58:52.388296"
     },
     "lad @ cle": [
         {
@@ -723,6 +723,21 @@
         }
     ],
     "stl @ bal": [
+        {
+            "player": "ramon urias",
+            "game": "stl @ bal",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-05-27 19:58:48",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "63.4",
+            "la": "-55",
+            "dist": "2"
+        },
         {
             "player": "jackson holliday",
             "game": "stl @ bal",
@@ -3164,21 +3179,6 @@
     ],
     "cin @ kc": [
         {
-            "player": "spencer steer",
-            "game": "cin @ kc",
-            "hr/park": "",
-            "pa": "10",
-            "dt": "2025-05-27 19:58:19",
-            "img": "https://www.mlbstatic.com/team-logos/113.svg",
-            "team": "cin",
-            "start": "7:40 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "tyler stephenson",
             "game": "cin @ kc",
             "hr/park": "25/30",
@@ -3316,6 +3316,21 @@
     ],
     "bos @ mil": [
         {
+            "player": "wilyer abreu",
+            "game": "bos @ mil",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-05-27 19:58:48",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kristian campbell",
             "game": "bos @ mil",
             "hr/park": "",
@@ -3325,10 +3340,10 @@
             "team": "bos",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "70.1",
+            "la": "18",
+            "dist": "171"
         },
         {
             "player": "william contreras",
