@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "11",
-        "batters": "78",
-        "pitches": "378",
+        "batters": "77",
+        "pitches": "383",
         "max velomax pitch velocity": "97.1",
         "min velomin pitch velocity": "73.6",
         "ff%fourseam fastball %": "27.2",
-        "si%sinker %": "19.6",
-        "fc%cutter %": "14.0",
-        "fs%splitter %": "4.5",
-        "ch%changeup %": "9.5",
-        "sl%slider %": "20.4",
-        "cu%curve %": "4.8",
+        "si%sinker %": "19.3",
+        "fc%cutter %": "13.8",
+        "fs%splitter %": "4.4",
+        "ch%changeup %": "9.9",
+        "sl%slider %": "20.6",
+        "cu%curve %": "4.7",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "27",
-        "hh%hard hit %": "50.0",
+        "hh%hard hit %": "49.1",
         "brlbarrels": "4",
-        "brl%barrel %": "7.4",
+        "brl%barrel %": "7.3",
         "ab": "81",
         "avg": ".309",
         "h": "25",
@@ -24,13 +24,28 @@
         "2b": "4",
         "3b": "0",
         "hr": "3",
-        "so": "26",
-        "bipballs in play": "54",
+        "so": "27",
+        "bipballs in play": "55",
         "liveGames": 6,
         "totGames": 15,
-        "updated": "2025-05-27 19:18:14.820864"
+        "updated": "2025-05-27 19:18:22.376575"
     },
     "lad @ cle": [
+        {
+            "player": "dalton rushing",
+            "game": "lad @ cle",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-05-27 19:18:18",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "6:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "michael conforto",
             "game": "lad @ cle",
@@ -41,7 +56,7 @@
             "team": "lad",
             "start": "6:10 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -720,7 +735,7 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Catcher Interference",
             "evo": "",
             "la": "",
             "dist": ""
@@ -983,21 +998,6 @@
     ],
     "atl @ phi": [
         {
-            "player": "jt realmuto",
-            "game": "atl @ phi",
-            "hr/park": "",
-            "pa": "16",
-            "dt": "2025-05-27 19:18:03",
-            "img": "https://www.mlbstatic.com/team-logos/143.svg",
-            "team": "phi",
-            "start": "6:45 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "max kepler",
             "game": "atl @ phi",
             "hr/park": "",
@@ -1235,9 +1235,9 @@
             "start": "7:05 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "93.2",
+            "la": "60",
+            "dist": "225"
         },
         {
             "player": "josh lowe",
@@ -1349,7 +1349,7 @@
         {
             "player": "miguel vargas",
             "game": "chw @ nym",
-            "hr/park": "",
+            "hr/park": "5/30",
             "pa": "3",
             "dt": "2025-05-27 19:17:03",
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
