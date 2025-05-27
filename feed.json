@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "8",
-        "batters": "38",
-        "pitches": "191",
+        "batters": "40",
+        "pitches": "197",
         "max velomax pitch velocity": "97.1",
         "min velomin pitch velocity": "73.6",
-        "ff%fourseam fastball %": "24.1",
-        "si%sinker %": "19.9",
-        "fc%cutter %": "16.8",
-        "fs%splitter %": "3.1",
-        "ch%changeup %": "10.5",
-        "sl%slider %": "19.4",
-        "cu%curve %": "6.3",
+        "ff%fourseam fastball %": "24.9",
+        "si%sinker %": "19.8",
+        "fc%cutter %": "16.2",
+        "fs%splitter %": "3.0",
+        "ch%changeup %": "10.2",
+        "sl%slider %": "19.8",
+        "cu%curve %": "6.1",
         "max evmax exit velocity": "109.4",
         "hhhard hit": "10",
-        "hh%hard hit %": "41.7",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "1",
-        "brl%barrel %": "4.2",
-        "ab": "37",
-        "avg": ".351",
+        "brl%barrel %": "4.0",
+        "ab": "39",
+        "avg": ".333",
         "h": "13",
         "1b": "13",
         "2b": "0",
         "3b": "0",
         "hr": "0",
         "so": "12",
-        "bipballs in play": "24",
+        "bipballs in play": "25",
         "liveGames": 4,
         "totGames": 15,
-        "updated": "2025-05-27 18:58:12.523746"
+        "updated": "2025-05-27 18:58:19.640600"
     },
     "lad @ cle": [
         {
@@ -289,6 +289,21 @@
     ],
     "stl @ bal": [
         {
+            "player": "jordan walker",
+            "game": "stl @ bal",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-05-27 18:58:18",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "6:35 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gunnar henderson",
             "game": "stl @ bal",
             "hr/park": "",
@@ -441,6 +456,21 @@
     ],
     "sf @ det": [
         {
+            "player": "colt keith",
+            "game": "sf @ det",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-05-27 18:58:18",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gleyber torres",
             "game": "sf @ det",
             "hr/park": "",
@@ -557,10 +587,10 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "93.8",
+            "la": "22",
+            "dist": "333"
         },
         {
             "player": "bryson stott",
