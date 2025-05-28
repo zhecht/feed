@@ -2,12 +2,12 @@
     "all": {
         "pitchers": "100",
         "batters": "284",
-        "pitches": "3475",
+        "pitches": "3478",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "73.0",
-        "ff%fourseam fastball %": "32.2",
+        "ff%fourseam fastball %": "32.1",
         "si%sinker %": "14.6",
-        "fc%cutter %": "9.0",
+        "fc%cutter %": "9.1",
         "fs%splitter %": "3.5",
         "ch%changeup %": "8.5",
         "sl%slider %": "23.4",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "42.2",
         "brlbarrels": "50",
         "brl%barrel %": "8.1",
-        "ab": "818",
-        "avg": ".241",
+        "ab": "820",
+        "avg": ".240",
         "h": "197",
         "1b": "136",
         "2b": "32",
@@ -28,7 +28,7 @@
         "bipballs in play": "619",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-27 22:34:39.799389"
+        "updated": "2025-05-27 22:34:51.026295"
     },
     "lad @ cle": [
         {
@@ -8943,6 +8943,21 @@
     ],
     "col @ chc": [
         {
+            "player": "jordan beck",
+            "game": "col @ chc",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-05-27 22:34:43",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:05 PM",
+            "in": "10",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "adael amador",
             "game": "col @ chc",
             "hr/park": "",
@@ -8952,7 +8967,7 @@
             "team": "col",
             "start": "8:05 PM",
             "in": "10",
-            "result": "In Progress",
+            "result": "Bunt Groundout",
             "evo": "45.9",
             "la": "-63",
             "dist": "3"
@@ -12281,6 +12296,21 @@
     ],
     "pit @ ari": [
         {
+            "player": "alexander canario",
+            "game": "pit @ ari",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-05-27 22:34:43",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "9:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "eugenio suarez",
             "game": "pit @ ari",
             "hr/park": "",
@@ -13112,7 +13142,7 @@
         {
             "player": "victor mesa",
             "game": "mia @ sd",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "28",
             "dt": "2025-05-27 22:34:10",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
