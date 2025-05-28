@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "124",
         "batters": "291",
-        "pitches": "4371",
+        "pitches": "4373",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "72.5",
         "ff%fourseam fastball %": "32.4",
@@ -10,14 +10,14 @@
         "fc%cutter %": "9.7",
         "fs%splitter %": "3.5",
         "ch%changeup %": "8.8",
-        "sl%slider %": "23.2",
+        "sl%slider %": "23.3",
         "cu%curve %": "8.7",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "337",
         "hh%hard hit %": "43.1",
         "brlbarrels": "71",
         "brl%barrel %": "9.1",
-        "ab": "1029",
+        "ab": "1030",
         "avg": ".242",
         "h": "249",
         "1b": "171",
@@ -28,7 +28,7 @@
         "bipballs in play": "782",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-05-28 00:38:06.585339"
+        "updated": "2025-05-28 00:38:20.811666"
     },
     "lad @ cle": [
         {
@@ -15795,16 +15795,31 @@
     ],
     "mia @ sd": [
         {
-            "player": "eric wagaman",
+            "player": "kyle stowers",
             "game": "mia @ sd",
             "hr/park": "",
+            "pa": "83",
+            "dt": "2025-05-28 00:38:13",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "",
+            "in": "9",
+            "result": "Defensive Indiff",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "eric wagaman",
+            "game": "mia @ sd",
+            "hr/park": "0/30",
             "pa": "82",
             "dt": "2025-05-28 00:36:57",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
             "team": "mia",
             "start": "",
             "in": "9",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "93.5",
             "la": "34",
             "dist": "311"
