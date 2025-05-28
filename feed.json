@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "39",
-        "batters": "113",
-        "pitches": "1459",
+        "batters": "114",
+        "pitches": "1461",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "70.9",
         "ff%fourseam fastball %": "32.8",
@@ -10,25 +10,25 @@
         "fc%cutter %": "6.3",
         "fs%splitter %": "1.7",
         "ch%changeup %": "14.0",
-        "sl%slider %": "20.6",
+        "sl%slider %": "20.7",
         "cu%curve %": "8.8",
         "max evmax exit velocity": "112.1",
         "hhhard hit": "97",
-        "hh%hard hit %": "38.2",
+        "hh%hard hit %": "38.0",
         "brlbarrels": "18",
         "brl%barrel %": "7.1",
-        "ab": "323",
-        "avg": ".251",
-        "h": "81",
-        "1b": "53",
+        "ab": "325",
+        "avg": ".252",
+        "h": "82",
+        "1b": "54",
         "2b": "18",
         "3b": "1",
         "hr": "9",
         "so": "83",
-        "bipballs in play": "254",
+        "bipballs in play": "255",
         "liveGames": 6,
         "totGames": 15,
-        "updated": "2025-05-28 15:32:25.821635"
+        "updated": "2025-05-28 15:32:34.528537"
     },
     "lad @ cle": [
         {
@@ -1083,6 +1083,21 @@
         }
     ],
     "sf @ det": [
+        {
+            "player": "javier baez",
+            "game": "sf @ det",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-05-28 15:32:34",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "wenceel perez",
             "game": "sf @ det",
@@ -3113,6 +3128,21 @@
     ],
     "chw @ nym": [
         {
+            "player": "josh rojas",
+            "game": "chw @ nym",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-05-28 15:32:34",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "1:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "82.8",
+            "la": "17",
+            "dist": "207"
+        },
+        {
             "player": "korey lee",
             "game": "chw @ nym",
             "hr/park": "",
@@ -3122,7 +3152,7 @@
             "team": "chw",
             "start": "1:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "96.2",
             "la": "8",
             "dist": "163"
