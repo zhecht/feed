@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "42",
         "batters": "195",
-        "pitches": "1807",
+        "pitches": "1818",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "73.5",
         "ff%fourseam fastball %": "31.3",
-        "si%sinker %": "16.4",
+        "si%sinker %": "16.5",
         "fc%cutter %": "9.8",
-        "fs%splitter %": "4.3",
+        "fs%splitter %": "4.2",
         "ch%changeup %": "7.5",
-        "sl%slider %": "21.8",
+        "sl%slider %": "21.7",
         "cu%curve %": "8.9",
         "max evmax exit velocity": "114.5",
-        "hhhard hit": "138",
-        "hh%hard hit %": "45.7",
+        "hhhard hit": "140",
+        "hh%hard hit %": "46.1",
         "brlbarrels": "27",
         "brl%barrel %": "8.9",
-        "ab": "420",
-        "avg": ".231",
-        "h": "97",
-        "1b": "68",
+        "ab": "422",
+        "avg": ".232",
+        "h": "98",
+        "1b": "69",
         "2b": "16",
         "3b": "1",
         "hr": "12",
-        "so": "122",
-        "bipballs in play": "302",
+        "so": "123",
+        "bipballs in play": "304",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-27 20:47:14.859490"
+        "updated": "2025-05-27 20:47:24.001121"
     },
     "lad @ cle": [
         {
@@ -1063,7 +1063,7 @@
             "team": "stl",
             "start": "6:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1925,6 +1925,21 @@
         }
     ],
     "sf @ det": [
+        {
+            "player": "wilmer flores",
+            "game": "sf @ det",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-05-27 20:46:18",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "heliot ramos",
             "game": "sf @ det",
@@ -2853,9 +2868,9 @@
             "start": "6:45 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "102.5",
+            "la": "-10",
+            "dist": "12"
         },
         {
             "player": "nick allen",
@@ -5131,17 +5146,17 @@
         {
             "player": "jose trevino",
             "game": "cin @ kc",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "35",
             "dt": "2025-05-27 20:44:49",
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
             "team": "cin",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "106.7",
+            "la": "13",
+            "dist": "323"
         },
         {
             "player": "gavin lux",
@@ -5656,6 +5671,21 @@
     ],
     "bos @ mil": [
         {
+            "player": "abraham toro",
+            "game": "bos @ mil",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-05-27 20:47:19",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trevor story",
             "game": "bos @ mil",
             "hr/park": "",
@@ -5665,7 +5695,7 @@
             "team": "bos",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Double Play",
             "evo": "85.2",
             "la": "52",
             "dist": "243"
@@ -6147,7 +6177,7 @@
             "team": "chc",
             "start": "8:05 PM",
             "in": "3",
-            "result": "Stolen Base 2B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6494,7 +6524,7 @@
             "team": "tor",
             "start": "8:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "89.0",
             "la": "50",
             "dist": "271"
