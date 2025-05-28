@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "54",
         "batters": "201",
-        "pitches": "2194",
+        "pitches": "2203",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "73.0",
         "ff%fourseam fastball %": "32.0",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.3",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "166",
-        "hh%hard hit %": "45.2",
+        "hh%hard hit %": "45.0",
         "brlbarrels": "32",
         "brl%barrel %": "8.7",
-        "ab": "510",
-        "avg": ".235",
+        "ab": "513",
+        "avg": ".234",
         "h": "120",
         "1b": "78",
         "2b": "22",
         "3b": "3",
         "hr": "17",
-        "so": "148",
-        "bipballs in play": "367",
+        "so": "149",
+        "bipballs in play": "369",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-27 21:08:44.087087"
+        "updated": "2025-05-27 21:08:53.643130"
     },
     "lad @ cle": [
         {
@@ -3197,10 +3197,10 @@
             "team": "atl",
             "start": "6:45 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "81.6",
+            "la": "1",
+            "dist": "48"
         },
         {
             "player": "sean murphy",
@@ -5924,6 +5924,21 @@
     ],
     "cin @ kc": [
         {
+            "player": "salvador perez",
+            "game": "cin @ kc",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-05-27 21:08:48",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "73.1",
+            "la": "-36",
+            "dist": "3"
+        },
+        {
             "player": "spencer steer",
             "game": "cin @ kc",
             "hr/park": "0/30",
@@ -6600,6 +6615,21 @@
         }
     ],
     "bos @ mil": [
+        {
+            "player": "carlos narvaez",
+            "game": "bos @ mil",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-05-27 21:08:48",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "Wild Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "rafael devers",
             "game": "bos @ mil",
@@ -7685,6 +7715,21 @@
     ],
     "tor @ tex": [
         {
+            "player": "jake burger",
+            "game": "tor @ tex",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-05-27 21:08:48",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh jung",
             "game": "tor @ tex",
             "hr/park": "",
@@ -7694,7 +7739,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
