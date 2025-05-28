@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "71",
-        "batters": "208",
-        "pitches": "2666",
+        "batters": "209",
+        "pitches": "2672",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "73.0",
-        "ff%fourseam fastball %": "32.2",
+        "ff%fourseam fastball %": "32.3",
         "si%sinker %": "15.9",
-        "fc%cutter %": "8.3",
+        "fc%cutter %": "8.2",
         "fs%splitter %": "3.6",
-        "ch%changeup %": "8.3",
-        "sl%slider %": "23.6",
-        "cu%curve %": "8.1",
+        "ch%changeup %": "8.2",
+        "sl%slider %": "23.5",
+        "cu%curve %": "8.2",
         "max evmax exit velocity": "114.5",
-        "hhhard hit": "200",
-        "hh%hard hit %": "44.8",
+        "hhhard hit": "199",
+        "hh%hard hit %": "44.6",
         "brlbarrels": "39",
         "brl%barrel %": "8.7",
-        "ab": "619",
-        "avg": ".236",
+        "ab": "620",
+        "avg": ".235",
         "h": "146",
         "1b": "97",
         "2b": "26",
@@ -28,7 +28,7 @@
         "bipballs in play": "446",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-27 21:42:09.376091"
+        "updated": "2025-05-27 21:42:19.471387"
     },
     "lad @ cle": [
         {
@@ -7480,10 +7480,10 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "87.6",
+            "la": "-21",
+            "dist": "9"
         },
         {
             "player": "sal frelick",
@@ -10209,6 +10209,21 @@
     ],
     "nyy @ laa": [
         {
+            "player": "trent grisham",
+            "game": "nyy @ laa",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-05-27 21:41:48",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "paul goldschmidt",
             "game": "nyy @ laa",
             "hr/park": "0/30",
@@ -10241,7 +10256,23 @@
             "dist": "10"
         }
     ],
-    "wsh @ sea": [],
+    "wsh @ sea": [
+        {
+            "player": "cj abrams",
+            "game": "wsh @ sea",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-27 21:42:19",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "mia @ sd": [
         {
             "player": "jesus sanchez",
@@ -10253,7 +10284,7 @@
             "team": "mia",
             "start": "9:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
