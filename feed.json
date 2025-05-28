@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "62",
         "batters": "202",
-        "pitches": "2449",
+        "pitches": "2453",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "73.0",
         "ff%fourseam fastball %": "32.0",
-        "si%sinker %": "16.2",
+        "si%sinker %": "16.1",
         "fc%cutter %": "8.1",
         "fs%splitter %": "3.6",
         "ch%changeup %": "8.4",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.2",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "182",
-        "hh%hard hit %": "44.7",
+        "hh%hard hit %": "44.6",
         "brlbarrels": "35",
         "brl%barrel %": "8.6",
-        "ab": "565",
+        "ab": "566",
         "avg": ".235",
         "h": "133",
         "1b": "86",
         "2b": "26",
         "3b": "3",
         "hr": "18",
-        "so": "167",
-        "bipballs in play": "407",
+        "so": "168",
+        "bipballs in play": "408",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-27 21:24:25.248094"
+        "updated": "2025-05-27 21:24:34.917902"
     },
     "lad @ cle": [
         {
@@ -1174,6 +1174,21 @@
     ],
     "stl @ bal": [
         {
+            "player": "alec burleson",
+            "game": "stl @ bal",
+            "hr/park": "",
+            "pa": "76",
+            "dt": "2025-05-27 21:24:34",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "6:35 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "willson contreras",
             "game": "stl @ bal",
             "hr/park": "",
@@ -1183,10 +1198,10 @@
             "team": "stl",
             "start": "6:35 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "59.0",
+            "la": "17",
+            "dist": "131"
         },
         {
             "player": "heston kjerstad",
@@ -3287,7 +3302,7 @@
             "team": "atl",
             "start": "6:45 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8926,7 +8941,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
