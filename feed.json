@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "23",
-        "batters": "153",
-        "pitches": "1167",
+        "batters": "156",
+        "pitches": "1174",
         "max velomax pitch velocity": "98.1",
         "min velomin pitch velocity": "73.6",
         "ff%fourseam fastball %": "30.6",
@@ -10,25 +10,25 @@
         "fc%cutter %": "11.4",
         "fs%splitter %": "3.8",
         "ch%changeup %": "8.3",
-        "sl%slider %": "21.2",
+        "sl%slider %": "21.1",
         "cu%curve %": "7.8",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "94",
-        "hh%hard hit %": "47.5",
+        "hh%hard hit %": "47.0",
         "brlbarrels": "21",
-        "brl%barrel %": "10.6",
-        "ab": "270",
-        "avg": ".252",
+        "brl%barrel %": "10.5",
+        "ab": "273",
+        "avg": ".249",
         "h": "68",
         "1b": "44",
         "2b": "12",
         "3b": "1",
         "hr": "11",
-        "so": "73",
-        "bipballs in play": "198",
+        "so": "74",
+        "bipballs in play": "200",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-27 20:14:47.812530"
+        "updated": "2025-05-27 20:14:56.096061"
     },
     "lad @ cle": [
         {
@@ -838,7 +838,7 @@
             "team": "stl",
             "start": "6:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "86.8",
             "la": "29",
             "dist": "295"
@@ -2839,7 +2839,7 @@
             "team": "min",
             "start": "7:05 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3839,6 +3839,21 @@
     ],
     "cin @ kc": [
         {
+            "player": "will benson",
+            "game": "cin @ kc",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-05-27 20:14:50",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose trevino",
             "game": "cin @ kc",
             "hr/park": "",
@@ -4455,9 +4470,9 @@
             "start": "8:05 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "83.6",
+            "la": "3",
+            "dist": "57"
         },
         {
             "player": "daulton varsho",
@@ -4506,6 +4521,36 @@
         }
     ],
     "ath @ hou": [
+        {
+            "player": "brent rooker",
+            "game": "ath @ hou",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-05-27 20:14:50",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jacob wilson",
+            "game": "ath @ hou",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-05-27 20:14:50",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "GIDP",
+            "evo": "90.4",
+            "la": "4",
+            "dist": "82"
+        },
         {
             "player": "lawrence butler",
             "game": "ath @ hou",
