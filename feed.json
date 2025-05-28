@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "43",
         "batters": "195",
-        "pitches": "1852",
+        "pitches": "1863",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "73.5",
-        "ff%fourseam fastball %": "31.4",
-        "si%sinker %": "16.4",
+        "ff%fourseam fastball %": "31.5",
+        "si%sinker %": "16.3",
         "fc%cutter %": "9.7",
-        "fs%splitter %": "4.2",
+        "fs%splitter %": "4.1",
         "ch%changeup %": "7.5",
-        "sl%slider %": "21.9",
+        "sl%slider %": "22.0",
         "cu%curve %": "8.9",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "144",
-        "hh%hard hit %": "46.3",
+        "hh%hard hit %": "45.9",
         "brlbarrels": "27",
-        "brl%barrel %": "8.7",
-        "ab": "430",
-        "avg": ".233",
-        "h": "100",
+        "brl%barrel %": "8.6",
+        "ab": "432",
+        "avg": ".234",
+        "h": "101",
         "1b": "70",
         "2b": "17",
         "3b": "1",
-        "hr": "12",
-        "so": "124",
-        "bipballs in play": "311",
+        "hr": "13",
+        "so": "125",
+        "bipballs in play": "314",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-27 20:49:32.344711"
+        "updated": "2025-05-27 20:49:41.313410"
     },
     "lad @ cle": [
         {
@@ -1951,9 +1951,9 @@
             "start": "6:40 PM",
             "in": "9",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "70.1",
+            "la": "35",
+            "dist": "227"
         },
         {
             "player": "wilmer flores",
@@ -2897,7 +2897,7 @@
             "team": "atl",
             "start": "6:45 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6635,6 +6635,21 @@
     ],
     "tor @ tex": [
         {
+            "player": "daulton varsho",
+            "game": "tor @ tex",
+            "hr/park": "0/30",
+            "pa": "19",
+            "dt": "2025-05-27 20:49:35",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "8:05 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "88.7",
+            "la": "35",
+            "dist": "328"
+        },
+        {
             "player": "vladimir guerrero",
             "game": "tor @ tex",
             "hr/park": "",
@@ -6907,11 +6922,11 @@
     ],
     "ath @ hou": [
         {
-            "player": "jeremy pena",
+            "player": "isaac paredes",
             "game": "ath @ hou",
             "hr/park": "",
-            "pa": "16",
-            "dt": "2025-05-27 20:48:34",
+            "pa": "17",
+            "dt": "2025-05-27 20:49:35",
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
             "team": "hou",
             "start": "8:10 PM",
@@ -6920,6 +6935,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "jeremy pena",
+            "game": "ath @ hou",
+            "hr/park": "2/30",
+            "pa": "16",
+            "dt": "2025-05-27 20:48:34",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "Home Run",
+            "evo": "90.6",
+            "la": "35",
+            "dist": "330"
         },
         {
             "player": "mauricio dubon",
