@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "54",
         "batters": "201",
-        "pitches": "2158",
+        "pitches": "2160",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "73.0",
         "ff%fourseam fastball %": "31.9",
         "si%sinker %": "16.7",
-        "fc%cutter %": "8.9",
+        "fc%cutter %": "8.8",
         "fs%splitter %": "3.8",
-        "ch%changeup %": "7.6",
+        "ch%changeup %": "7.7",
         "sl%slider %": "22.7",
         "cu%curve %": "8.4",
         "max evmax exit velocity": "114.5",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "45.1",
         "brlbarrels": "32",
         "brl%barrel %": "8.8",
-        "ab": "502",
-        "avg": ".235",
-        "h": "118",
+        "ab": "503",
+        "avg": ".237",
+        "h": "119",
         "1b": "77",
-        "2b": "21",
+        "2b": "22",
         "3b": "3",
         "hr": "17",
         "so": "145",
         "bipballs in play": "364",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-27 21:06:29.334609"
+        "updated": "2025-05-27 21:06:38.895114"
     },
     "lad @ cle": [
         {
@@ -1183,7 +1183,7 @@
             "team": "stl",
             "start": "6:35 PM",
             "in": "8",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4114,7 +4114,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5851,7 +5851,7 @@
         {
             "player": "spencer steer",
             "game": "cin @ kc",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "45",
             "dt": "2025-05-27 21:06:05",
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
@@ -7972,6 +7972,21 @@
     ],
     "ath @ hou": [
         {
+            "player": "yainer diaz",
+            "game": "ath @ hou",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-05-27 21:05:37",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jake meyers",
             "game": "ath @ hou",
             "hr/park": "",
@@ -7981,7 +7996,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "98.6",
             "la": "20",
             "dist": "293"
