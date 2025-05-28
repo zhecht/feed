@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "10",
         "batters": "90",
-        "pitches": "586",
+        "pitches": "589",
         "max velomax pitch velocity": "97.1",
         "min velomin pitch velocity": "70.9",
         "ff%fourseam fastball %": "36.3",
         "si%sinker %": "14.3",
         "fc%cutter %": "5.8",
         "fs%splitter %": "0.3",
-        "ch%changeup %": "16.7",
-        "sl%slider %": "13.0",
-        "cu%curve %": "13.5",
+        "ch%changeup %": "16.8",
+        "sl%slider %": "13.1",
+        "cu%curve %": "13.4",
         "max evmax exit velocity": "111.5",
         "hhhard hit": "40",
-        "hh%hard hit %": "40.8",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "11",
-        "brl%barrel %": "11.2",
-        "ab": "128",
-        "avg": ".250",
+        "brl%barrel %": "11.0",
+        "ab": "129",
+        "avg": ".248",
         "h": "32",
         "1b": "18",
         "2b": "10",
         "3b": "0",
         "hr": "4",
         "so": "34",
-        "bipballs in play": "98",
+        "bipballs in play": "100",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-05-28 14:09:29.978562"
+        "updated": "2025-05-28 14:09:37.877885"
     },
     "lad @ cle": [
         {
@@ -41,10 +41,10 @@
             "team": "cle",
             "start": "1:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Groundout",
+            "evo": "94.0",
             "la": "",
-            "dist": ""
+            "dist": "51"
         },
         {
             "player": "will wilson",
@@ -1478,6 +1478,21 @@
     ],
     "chw @ nym": [
         {
+            "player": "josh rojas",
+            "game": "chw @ nym",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-05-28 14:09:34",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "1:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "korey lee",
             "game": "chw @ nym",
             "hr/park": "",
@@ -1879,10 +1894,10 @@
             "team": "mil",
             "start": "1:10 PM",
             "in": "3",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "76.9",
+            "la": "51",
+            "dist": "211"
         },
         {
             "player": "brice turang",
