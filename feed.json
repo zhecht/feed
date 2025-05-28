@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "10",
-        "batters": "82",
-        "pitches": "401",
+        "batters": "84",
+        "pitches": "406",
         "max velomax pitch velocity": "97.1",
         "min velomin pitch velocity": "70.9",
         "ff%fourseam fastball %": "39.2",
-        "si%sinker %": "12.2",
-        "fc%cutter %": "5.5",
-        "fs%splitter %": "0.0",
-        "ch%changeup %": "17.2",
-        "sl%slider %": "12.2",
-        "cu%curve %": "13.7",
+        "si%sinker %": "12.1",
+        "fc%cutter %": "5.4",
+        "fs%splitter %": "0.2",
+        "ch%changeup %": "17.0",
+        "sl%slider %": "12.1",
+        "cu%curve %": "14.0",
         "max evmax exit velocity": "111.5",
         "hhhard hit": "26",
-        "hh%hard hit %": "41.3",
+        "hh%hard hit %": "40.6",
         "brlbarrels": "6",
-        "brl%barrel %": "9.5",
-        "ab": "87",
-        "avg": ".207",
+        "brl%barrel %": "9.4",
+        "ab": "90",
+        "avg": ".200",
         "h": "18",
         "1b": "11",
         "2b": "6",
         "3b": "0",
         "hr": "1",
-        "so": "25",
-        "bipballs in play": "63",
+        "so": "26",
+        "bipballs in play": "64",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-05-28 13:51:00.074178"
+        "updated": "2025-05-28 13:51:07.642134"
     },
     "lad @ cle": [
         {
@@ -41,7 +41,7 @@
             "team": "cle",
             "start": "1:10 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -348,6 +348,21 @@
         }
     ],
     "sf @ det": [
+        {
+            "player": "kerry carpenter",
+            "game": "sf @ det",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-05-28 13:51:03",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jake rogers",
             "game": "sf @ det",
@@ -680,6 +695,36 @@
         }
     ],
     "min @ tb": [
+        {
+            "player": "danny jansen",
+            "game": "min @ tb",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-05-28 13:51:03",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "1:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "kameron misner",
+            "game": "min @ tb",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-05-28 13:51:03",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "1:10 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "47.1",
+            "la": "-14",
+            "dist": "13"
+        },
         {
             "player": "taylor walls",
             "game": "min @ tb",
