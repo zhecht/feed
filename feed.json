@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "41",
         "batters": "116",
-        "pitches": "1569",
+        "pitches": "1579",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "70.9",
-        "ff%fourseam fastball %": "32.2",
-        "si%sinker %": "15.6",
+        "ff%fourseam fastball %": "32.0",
+        "si%sinker %": "15.5",
         "fc%cutter %": "6.1",
         "fs%splitter %": "1.6",
-        "ch%changeup %": "13.9",
+        "ch%changeup %": "14.0",
         "sl%slider %": "21.8",
-        "cu%curve %": "8.8",
+        "cu%curve %": "8.9",
         "max evmax exit velocity": "112.1",
         "hhhard hit": "101",
-        "hh%hard hit %": "37.8",
+        "hh%hard hit %": "37.5",
         "brlbarrels": "18",
         "brl%barrel %": "6.7",
-        "ab": "350",
-        "avg": ".243",
+        "ab": "353",
+        "avg": ".241",
         "h": "85",
         "1b": "54",
         "2b": "21",
         "3b": "1",
         "hr": "9",
         "so": "95",
-        "bipballs in play": "267",
+        "bipballs in play": "269",
         "liveGames": 7,
         "totGames": 15,
-        "updated": "2025-05-28 15:42:56.847336"
+        "updated": "2025-05-28 15:43:05.971548"
     },
     "lad @ cle": [
         {
@@ -41,7 +41,7 @@
             "team": "lad",
             "start": "1:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1159,19 +1159,34 @@
     ],
     "sf @ det": [
         {
-            "player": "wilmer flores",
+            "player": "jung hoo lee",
             "game": "sf @ det",
             "hr/park": "",
+            "pa": "76",
+            "dt": "2025-05-28 15:43:04",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "1:10 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "92.1",
+            "la": "-25",
+            "dist": "5"
+        },
+        {
+            "player": "wilmer flores",
+            "game": "sf @ det",
+            "hr/park": "0/30",
             "pa": "75",
             "dt": "2025-05-28 15:41:05",
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
             "team": "sf",
             "start": "1:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "93.2",
+            "la": "26",
+            "dist": "324"
         },
         {
             "player": "heliot ramos",
@@ -3308,6 +3323,21 @@
     ],
     "chw @ nym": [
         {
+            "player": "brandon nimmo",
+            "game": "chw @ nym",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-05-28 15:43:04",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "1:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mike tauchman",
             "game": "chw @ nym",
             "hr/park": "",
@@ -4299,6 +4329,21 @@
         }
     ],
     "bos @ mil": [
+        {
+            "player": "joey ortiz",
+            "game": "bos @ mil",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-05-28 15:43:04",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "1:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "caleb durbin",
             "game": "bos @ mil",
