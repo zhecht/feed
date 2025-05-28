@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "106",
         "batters": "287",
-        "pitches": "3897",
+        "pitches": "3899",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "73.0",
         "ff%fourseam fastball %": "32.3",
@@ -11,7 +11,7 @@
         "fs%splitter %": "3.2",
         "ch%changeup %": "8.7",
         "sl%slider %": "23.6",
-        "cu%curve %": "8.9",
+        "cu%curve %": "8.8",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "301",
         "hh%hard hit %": "42.8",
@@ -24,11 +24,11 @@
         "2b": "33",
         "3b": "4",
         "hr": "29",
-        "so": "239",
-        "bipballs in play": "703",
+        "so": "240",
+        "bipballs in play": "704",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-27 23:19:03.294844"
+        "updated": "2025-05-27 23:19:16.237285"
     },
     "lad @ cle": [
         {
@@ -12363,7 +12363,7 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -13045,21 +13045,6 @@
         }
     ],
     "pit @ ari": [
-        {
-            "player": "bryan reynolds",
-            "game": "pit @ ari",
-            "hr/park": "",
-            "pa": "47",
-            "dt": "2025-05-27 23:18:56",
-            "img": "https://www.mlbstatic.com/team-logos/134.svg",
-            "team": "pit",
-            "start": "9:40 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "jordan lawlar",
             "game": "pit @ ari",
@@ -13752,6 +13737,21 @@
         }
     ],
     "wsh @ sea": [
+        {
+            "player": "nathaniel lowe",
+            "game": "wsh @ sea",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-05-27 23:19:11",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "9:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "james wood",
             "game": "wsh @ sea",
@@ -14514,10 +14514,10 @@
             "team": "sd",
             "start": "9:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "80.5",
+            "la": "35",
+            "dist": "262"
         },
         {
             "player": "elias diaz",
