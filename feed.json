@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "33",
         "batters": "186",
-        "pitches": "1563",
+        "pitches": "1566",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "73.5",
         "ff%fourseam fastball %": "30.6",
         "si%sinker %": "17.0",
         "fc%cutter %": "10.3",
-        "fs%splitter %": "4.5",
+        "fs%splitter %": "4.6",
         "ch%changeup %": "7.7",
         "sl%slider %": "21.2",
-        "cu%curve %": "8.5",
+        "cu%curve %": "8.6",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "122",
-        "hh%hard hit %": "47.1",
+        "hh%hard hit %": "46.7",
         "brlbarrels": "25",
-        "brl%barrel %": "9.7",
+        "brl%barrel %": "9.6",
         "ab": "365",
         "avg": ".230",
         "h": "84",
@@ -24,11 +24,11 @@
         "2b": "13",
         "3b": "1",
         "hr": "12",
-        "so": "105",
-        "bipballs in play": "259",
+        "so": "107",
+        "bipballs in play": "261",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-27 20:34:40.382699"
+        "updated": "2025-05-27 20:34:49.171005"
     },
     "lad @ cle": [
         {
@@ -1791,21 +1791,6 @@
     ],
     "sf @ det": [
         {
-            "player": "tyler fitzgerald",
-            "game": "sf @ det",
-            "hr/park": "",
-            "pa": "56",
-            "dt": "2025-05-27 20:34:03",
-            "img": "https://www.mlbstatic.com/team-logos/137.svg",
-            "team": "sf",
-            "start": "6:40 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "patrick bailey",
             "game": "sf @ det",
             "hr/park": "",
@@ -3340,6 +3325,21 @@
     ],
     "min @ tb": [
         {
+            "player": "kody clemens",
+            "game": "min @ tb",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-05-27 20:34:49",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ty france",
             "game": "min @ tb",
             "hr/park": "",
@@ -3349,7 +3349,7 @@
             "team": "min",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4011,10 +4011,10 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "93.4",
+            "la": "53",
+            "dist": "242"
         },
         {
             "player": "chase meidroth",
@@ -5080,7 +5080,7 @@
             "team": "bos",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5700,9 +5700,9 @@
             "start": "8:05 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "89.8",
+            "la": "77",
+            "dist": "77"
         },
         {
             "player": "ernie clement",
