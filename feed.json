@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "41",
+        "pitchers": "42",
         "batters": "195",
-        "pitches": "1786",
+        "pitches": "1794",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "73.5",
-        "ff%fourseam fastball %": "31.2",
+        "ff%fourseam fastball %": "31.3",
         "si%sinker %": "16.5",
         "fc%cutter %": "9.8",
         "fs%splitter %": "4.3",
-        "ch%changeup %": "7.6",
-        "sl%slider %": "21.7",
+        "ch%changeup %": "7.5",
+        "sl%slider %": "21.8",
         "cu%curve %": "8.8",
         "max evmax exit velocity": "114.5",
-        "hhhard hit": "137",
-        "hh%hard hit %": "46.0",
+        "hhhard hit": "138",
+        "hh%hard hit %": "45.8",
         "brlbarrels": "27",
-        "brl%barrel %": "9.1",
-        "ab": "416",
-        "avg": ".231",
-        "h": "96",
-        "1b": "67",
+        "brl%barrel %": "9.0",
+        "ab": "418",
+        "avg": ".232",
+        "h": "97",
+        "1b": "68",
         "2b": "16",
         "3b": "1",
         "hr": "12",
         "so": "122",
-        "bipballs in play": "298",
+        "bipballs in play": "301",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-27 20:46:11.079760"
+        "updated": "2025-05-27 20:46:19.926115"
     },
     "lad @ cle": [
         {
@@ -41,10 +41,10 @@
             "team": "lad",
             "start": "6:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "50.7",
+            "la": "26",
+            "dist": "124"
         },
         {
             "player": "mookie betts",
@@ -1048,7 +1048,7 @@
             "team": "stl",
             "start": "6:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1911,6 +1911,21 @@
     ],
     "sf @ det": [
         {
+            "player": "wilmer flores",
+            "game": "sf @ det",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-05-27 20:46:18",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "heliot ramos",
             "game": "sf @ det",
             "hr/park": "",
@@ -1920,10 +1935,10 @@
             "team": "sf",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "95.5",
+            "la": "-1",
+            "dist": "44"
         },
         {
             "player": "spencer torkelson",
@@ -6117,7 +6132,7 @@
             "team": "chc",
             "start": "8:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "95.0",
             "la": "-8",
             "dist": "20"
@@ -6439,6 +6454,21 @@
         }
     ],
     "tor @ tex": [
+        {
+            "player": "bo bichette",
+            "game": "tor @ tex",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-05-27 20:46:18",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "8:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "89.0",
+            "la": "50",
+            "dist": "271"
+        },
         {
             "player": "jonah heim",
             "game": "tor @ tex",
