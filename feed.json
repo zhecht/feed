@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "28",
-        "batters": "164",
-        "pitches": "1258",
+        "batters": "165",
+        "pitches": "1263",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "73.6",
-        "ff%fourseam fastball %": "30.8",
-        "si%sinker %": "16.6",
+        "ff%fourseam fastball %": "31.0",
+        "si%sinker %": "16.5",
         "fc%cutter %": "11.1",
         "fs%splitter %": "3.9",
         "ch%changeup %": "8.3",
         "sl%slider %": "21.2",
         "cu%curve %": "7.9",
         "max evmax exit velocity": "114.5",
-        "hhhard hit": "101",
-        "hh%hard hit %": "47.2",
+        "hhhard hit": "102",
+        "hh%hard hit %": "47.7",
         "brlbarrels": "21",
         "brl%barrel %": "9.8",
         "ab": "295",
@@ -28,7 +28,7 @@
         "bipballs in play": "214",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-27 20:20:01.191504"
+        "updated": "2025-05-27 20:20:09.667260"
     },
     "lad @ cle": [
         {
@@ -868,7 +868,7 @@
             "team": "stl",
             "start": "6:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2327,7 +2327,7 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4608,6 +4608,21 @@
     ],
     "col @ chc": [
         {
+            "player": "brenton doyle",
+            "game": "col @ chc",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-05-27 20:20:04",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan mcmahon",
             "game": "col @ chc",
             "hr/park": "",
@@ -4617,10 +4632,10 @@
             "team": "col",
             "start": "8:05 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "105.7",
+            "la": "2",
+            "dist": "84"
         },
         {
             "player": "pete crow armstrong",
@@ -4862,9 +4877,9 @@
             "start": "8:10 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "86.6",
-            "la": "-34",
-            "dist": "4"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "brent rooker",
