@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "35",
-        "batters": "192",
-        "pitches": "1667",
+        "pitchers": "36",
+        "batters": "191",
+        "pitches": "1672",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "73.5",
-        "ff%fourseam fastball %": "30.8",
+        "ff%fourseam fastball %": "30.7",
         "si%sinker %": "16.7",
         "fc%cutter %": "10.3",
-        "fs%splitter %": "4.6",
+        "fs%splitter %": "4.5",
         "ch%changeup %": "7.6",
         "sl%slider %": "21.5",
-        "cu%curve %": "8.5",
+        "cu%curve %": "8.6",
         "max evmax exit velocity": "114.5",
-        "hhhard hit": "127",
+        "hhhard hit": "128",
         "hh%hard hit %": "45.7",
         "brlbarrels": "25",
-        "brl%barrel %": "9.0",
-        "ab": "389",
-        "avg": ".224",
-        "h": "87",
-        "1b": "61",
+        "brl%barrel %": "8.9",
+        "ab": "390",
+        "avg": ".226",
+        "h": "88",
+        "1b": "62",
         "2b": "13",
         "3b": "1",
         "hr": "12",
-        "so": "112",
-        "bipballs in play": "278",
+        "so": "113",
+        "bipballs in play": "280",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-27 20:39:59.517689"
+        "updated": "2025-05-27 20:40:08.606654"
     },
     "lad @ cle": [
+        {
+            "player": "shohei ohtani",
+            "game": "lad @ cle",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-05-27 20:40:04",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "6:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "bo naylor",
             "game": "lad @ cle",
@@ -994,6 +1009,21 @@
     ],
     "stl @ bal": [
         {
+            "player": "masyn winn",
+            "game": "stl @ bal",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-05-27 20:40:04",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "6:35 PM",
+            "in": "7",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "lars nootbaar",
             "game": "stl @ bal",
             "hr/park": "",
@@ -1003,7 +1033,7 @@
             "team": "stl",
             "start": "6:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "104.5",
             "la": "15",
             "dist": "297"
@@ -1845,10 +1875,10 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "92.0",
+            "la": "11",
+            "dist": "166"
         },
         {
             "player": "mike yastrzemski",
@@ -4831,17 +4861,17 @@
         {
             "player": "michael massey",
             "game": "cin @ kc",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "32",
             "dt": "2025-05-27 20:39:35",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "98.4",
+            "la": "40",
+            "dist": "333"
         },
         {
             "player": "john rave",
@@ -5320,7 +5350,7 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6019,21 +6049,6 @@
         }
     ],
     "tor @ tex": [
-        {
-            "player": "adolis garcia",
-            "game": "tor @ tex",
-            "hr/park": "",
-            "pa": "15",
-            "dt": "2025-05-27 20:39:35",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "8:05 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "alejandro osuna",
             "game": "tor @ tex",
