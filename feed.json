@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "45",
+        "pitchers": "46",
         "batters": "132",
-        "pitches": "1741",
+        "pitches": "1744",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "70.9",
-        "ff%fourseam fastball %": "31.1",
+        "ff%fourseam fastball %": "31.2",
         "si%sinker %": "15.8",
         "fc%cutter %": "6.2",
-        "fs%splitter %": "2.0",
-        "ch%changeup %": "13.4",
+        "fs%splitter %": "1.9",
+        "ch%changeup %": "13.5",
         "sl%slider %": "22.7",
         "cu%curve %": "8.7",
         "max evmax exit velocity": "112.1",
         "hhhard hit": "118",
-        "hh%hard hit %": "39.2",
+        "hh%hard hit %": "39.1",
         "brlbarrels": "19",
         "brl%barrel %": "6.3",
-        "ab": "392",
-        "avg": ".242",
+        "ab": "394",
+        "avg": ".241",
         "h": "95",
         "1b": "61",
         "2b": "23",
         "3b": "1",
         "hr": "10",
-        "so": "106",
-        "bipballs in play": "301",
+        "so": "107",
+        "bipballs in play": "302",
         "liveGames": 7,
         "totGames": 15,
-        "updated": "2025-05-28 16:06:11.797778"
+        "updated": "2025-05-28 16:06:20.459921"
     },
     "lad @ cle": [
         {
@@ -3323,6 +3323,21 @@
     ],
     "chw @ nym": [
         {
+            "player": "korey lee",
+            "game": "chw @ nym",
+            "hr/park": "",
+            "pa": "79",
+            "dt": "2025-05-28 16:06:20",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "1:10 PM",
+            "in": "9",
+            "result": "Flyout",
+            "evo": "94.2",
+            "la": "40",
+            "dist": "302"
+        },
+        {
             "player": "jared young",
             "game": "chw @ nym",
             "hr/park": "",
@@ -4497,7 +4512,7 @@
         {
             "player": "william contreras",
             "game": "bos @ mil",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "81",
             "dt": "2025-05-28 16:04:50",
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
@@ -5682,6 +5697,21 @@
     ],
     "ath @ hou": [
         {
+            "player": "lawrence butler",
+            "game": "ath @ hou",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-05-28 16:06:20",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "denzel clarke",
             "game": "ath @ hou",
             "hr/park": "",
@@ -5691,7 +5721,7 @@
             "team": "ath",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
