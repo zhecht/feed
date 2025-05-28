@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "33",
         "batters": "186",
-        "pitches": "1566",
+        "pitches": "1575",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "73.5",
         "ff%fourseam fastball %": "30.6",
@@ -10,13 +10,13 @@
         "fc%cutter %": "10.3",
         "fs%splitter %": "4.6",
         "ch%changeup %": "7.7",
-        "sl%slider %": "21.2",
-        "cu%curve %": "8.6",
+        "sl%slider %": "21.4",
+        "cu%curve %": "8.5",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "122",
-        "hh%hard hit %": "46.7",
+        "hh%hard hit %": "46.6",
         "brlbarrels": "25",
-        "brl%barrel %": "9.6",
+        "brl%barrel %": "9.5",
         "ab": "365",
         "avg": ".230",
         "h": "84",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "12",
         "so": "107",
-        "bipballs in play": "261",
+        "bipballs in play": "262",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-27 20:34:58.137823"
+        "updated": "2025-05-27 20:35:06.953454"
     },
     "lad @ cle": [
         {
@@ -41,7 +41,7 @@
             "team": "cle",
             "start": "6:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1791,6 +1791,21 @@
     ],
     "sf @ det": [
         {
+            "player": "tyler fitzgerald",
+            "game": "sf @ det",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-05-27 20:34:03",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "patrick bailey",
             "game": "sf @ det",
             "hr/park": "",
@@ -3325,21 +3340,6 @@
     ],
     "min @ tb": [
         {
-            "player": "kody clemens",
-            "game": "min @ tb",
-            "hr/park": "",
-            "pa": "45",
-            "dt": "2025-05-27 20:34:49",
-            "img": "https://www.mlbstatic.com/team-logos/142.svg",
-            "team": "min",
-            "start": "7:05 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "ty france",
             "game": "min @ tb",
             "hr/park": "",
@@ -3349,7 +3349,7 @@
             "team": "min",
             "start": "7:05 PM",
             "in": "6",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5457,10 +5457,10 @@
             "team": "col",
             "start": "8:05 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "73.7",
+            "la": "1",
+            "dist": "46"
         },
         {
             "player": "nick martini",
