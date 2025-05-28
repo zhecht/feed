@@ -2,35 +2,50 @@
     "all": {
         "pitchers": "42",
         "batters": "195",
-        "pitches": "1803",
+        "pitches": "1807",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "73.5",
-        "ff%fourseam fastball %": "31.2",
-        "si%sinker %": "16.5",
+        "ff%fourseam fastball %": "31.3",
+        "si%sinker %": "16.4",
         "fc%cutter %": "9.8",
         "fs%splitter %": "4.3",
         "ch%changeup %": "7.5",
-        "sl%slider %": "21.9",
+        "sl%slider %": "21.8",
         "cu%curve %": "8.9",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "138",
-        "hh%hard hit %": "45.8",
+        "hh%hard hit %": "45.7",
         "brlbarrels": "27",
-        "brl%barrel %": "9.0",
-        "ab": "419",
-        "avg": ".232",
+        "brl%barrel %": "8.9",
+        "ab": "420",
+        "avg": ".231",
         "h": "97",
         "1b": "68",
         "2b": "16",
         "3b": "1",
         "hr": "12",
         "so": "122",
-        "bipballs in play": "301",
+        "bipballs in play": "302",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-27 20:46:56.708417"
+        "updated": "2025-05-27 20:47:05.889653"
     },
     "lad @ cle": [
+        {
+            "player": "teoscar hernandez",
+            "game": "lad @ cle",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-05-27 20:47:04",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "6:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "freddie freeman",
             "game": "lad @ cle",
@@ -1910,21 +1925,6 @@
         }
     ],
     "sf @ det": [
-        {
-            "player": "wilmer flores",
-            "game": "sf @ det",
-            "hr/park": "",
-            "pa": "62",
-            "dt": "2025-05-27 20:46:18",
-            "img": "https://www.mlbstatic.com/team-logos/137.svg",
-            "team": "sf",
-            "start": "6:40 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "heliot ramos",
             "game": "sf @ det",
@@ -6138,6 +6138,21 @@
     ],
     "col @ chc": [
         {
+            "player": "dansby swanson",
+            "game": "col @ chc",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-05-27 20:47:04",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "8:05 PM",
+            "in": "3",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "pete crow armstrong",
             "game": "col @ chc",
             "hr/park": "",
@@ -6480,9 +6495,9 @@
             "start": "8:05 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "89.0",
+            "la": "50",
+            "dist": "271"
         },
         {
             "player": "jonah heim",
