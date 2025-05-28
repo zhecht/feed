@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "18",
         "batters": "130",
-        "pitches": "966",
+        "pitches": "970",
         "max velomax pitch velocity": "98.0",
         "min velomin pitch velocity": "73.6",
-        "ff%fourseam fastball %": "30.1",
-        "si%sinker %": "17.3",
+        "ff%fourseam fastball %": "30.0",
+        "si%sinker %": "17.5",
         "fc%cutter %": "12.3",
         "fs%splitter %": "3.7",
-        "ch%changeup %": "9.1",
+        "ch%changeup %": "9.0",
         "sl%slider %": "21.2",
-        "cu%curve %": "6.2",
+        "cu%curve %": "6.3",
         "max evmax exit velocity": "114.5",
-        "hhhard hit": "73",
-        "hh%hard hit %": "47.4",
+        "hhhard hit": "72",
+        "hh%hard hit %": "46.8",
         "brlbarrels": "17",
         "brl%barrel %": "11.0",
-        "ab": "219",
-        "avg": ".256",
-        "h": "56",
+        "ab": "220",
+        "avg": ".250",
+        "h": "55",
         "1b": "36",
-        "2b": "9",
+        "2b": "8",
         "3b": "1",
         "hr": "10",
         "so": "64",
         "bipballs in play": "154",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-05-27 20:03:13.588721"
+        "updated": "2025-05-27 20:03:21.754981"
     },
     "lad @ cle": [
         {
@@ -769,6 +769,21 @@
     ],
     "stl @ bal": [
         {
+            "player": "ryan mountcastle",
+            "game": "stl @ bal",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-05-27 20:02:19",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gunnar henderson",
             "game": "stl @ bal",
             "hr/park": "",
@@ -1416,6 +1431,21 @@
     ],
     "sf @ det": [
         {
+            "player": "riley greene",
+            "game": "sf @ det",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-05-27 20:03:19",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "colt keith",
             "game": "sf @ det",
             "hr/park": "",
@@ -1425,10 +1455,10 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "80.0",
+            "la": "-6",
+            "dist": "16"
         },
         {
             "player": "gleyber torres",
@@ -2982,21 +3012,6 @@
     ],
     "chw @ nym": [
         {
-            "player": "jared young",
-            "game": "chw @ nym",
-            "hr/park": "0/30",
-            "pa": "27",
-            "dt": "2025-05-27 20:03:04",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "7:10 PM",
-            "in": "3",
-            "result": "Double",
-            "evo": "98.2",
-            "la": "19",
-            "dist": "336"
-        },
-        {
             "player": "brett baty",
             "game": "chw @ nym",
             "hr/park": "",
@@ -3565,7 +3580,7 @@
             "team": "bos",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
