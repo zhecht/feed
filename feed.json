@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "100",
+        "pitchers": "101",
         "batters": "284",
-        "pitches": "3517",
+        "pitches": "3524",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "73.0",
-        "ff%fourseam fastball %": "32.1",
+        "ff%fourseam fastball %": "32.2",
         "si%sinker %": "14.5",
-        "fc%cutter %": "9.2",
+        "fc%cutter %": "9.1",
         "fs%splitter %": "3.4",
         "ch%changeup %": "8.5",
         "sl%slider %": "23.6",
-        "cu%curve %": "8.7",
+        "cu%curve %": "8.8",
         "max evmax exit velocity": "114.5",
-        "hhhard hit": "263",
+        "hhhard hit": "264",
         "hh%hard hit %": "42.0",
         "brlbarrels": "50",
         "brl%barrel %": "8.0",
-        "ab": "828",
+        "ab": "831",
         "avg": ".239",
-        "h": "198",
-        "1b": "137",
+        "h": "199",
+        "1b": "138",
         "2b": "32",
         "3b": "3",
         "hr": "26",
         "so": "218",
-        "bipballs in play": "626",
+        "bipballs in play": "628",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-27 22:37:45.452354"
+        "updated": "2025-05-27 22:37:57.048397"
     },
     "lad @ cle": [
         {
@@ -7831,6 +7831,21 @@
     ],
     "bos @ mil": [
         {
+            "player": "brice turang",
+            "game": "bos @ mil",
+            "hr/park": "",
+            "pa": "75",
+            "dt": "2025-05-27 22:37:25",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "10",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "rafael devers",
             "game": "bos @ mil",
             "hr/park": "0/30",
@@ -8952,10 +8967,10 @@
             "team": "col",
             "start": "8:05 PM",
             "in": "10",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "88.5",
+            "la": "-5",
+            "dist": "19"
         },
         {
             "player": "jordan beck",
@@ -11017,6 +11032,21 @@
     ],
     "ath @ hou": [
         {
+            "player": "jeremy pena",
+            "game": "ath @ hou",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-05-27 22:37:57",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mauricio dubon",
             "game": "ath @ hou",
             "hr/park": "",
@@ -11964,21 +11994,6 @@
     ],
     "nyy @ laa": [
         {
-            "player": "anthony volpe",
-            "game": "nyy @ laa",
-            "hr/park": "",
-            "pa": "27",
-            "dt": "2025-05-27 22:37:41",
-            "img": "https://www.mlbstatic.com/team-logos/147.svg",
-            "team": "nyy",
-            "start": "9:38 PM",
-            "in": "4",
-            "result": "Groundout",
-            "evo": "90.8",
-            "la": "-10",
-            "dist": "17"
-        },
-        {
             "player": "cody bellinger",
             "game": "nyy @ laa",
             "hr/park": "",
@@ -12371,6 +12386,21 @@
     ],
     "pit @ ari": [
         {
+            "player": "tommy pham",
+            "game": "pit @ ari",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-05-27 22:37:57",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "9:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "adam frazier",
             "game": "pit @ ari",
             "hr/park": "",
@@ -12380,10 +12410,10 @@
             "team": "pit",
             "start": "9:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "78.1",
+            "la": "-10",
+            "dist": "10"
         },
         {
             "player": "alexander canario",
@@ -12808,6 +12838,21 @@
     ],
     "wsh @ sea": [
         {
+            "player": "leody taveras",
+            "game": "wsh @ sea",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-05-27 22:37:57",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "9:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "donovan solano",
             "game": "wsh @ sea",
             "hr/park": "",
@@ -12817,10 +12862,10 @@
             "team": "sea",
             "start": "9:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "103.8",
+            "la": "13",
+            "dist": "239"
         },
         {
             "player": "keibert ruiz",
