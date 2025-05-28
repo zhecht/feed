@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "36",
         "batters": "193",
-        "pitches": "1698",
+        "pitches": "1705",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "73.5",
         "ff%fourseam fastball %": "31.1",
         "si%sinker %": "16.7",
         "fc%cutter %": "10.1",
         "fs%splitter %": "4.5",
-        "ch%changeup %": "7.5",
-        "sl%slider %": "21.4",
+        "ch%changeup %": "7.6",
+        "sl%slider %": "21.3",
         "cu%curve %": "8.7",
         "max evmax exit velocity": "114.5",
-        "hhhard hit": "129",
-        "hh%hard hit %": "45.7",
+        "hhhard hit": "131",
+        "hh%hard hit %": "46.0",
         "brlbarrels": "26",
-        "brl%barrel %": "9.2",
-        "ab": "394",
-        "avg": ".223",
-        "h": "88",
-        "1b": "62",
+        "brl%barrel %": "9.1",
+        "ab": "398",
+        "avg": ".226",
+        "h": "90",
+        "1b": "64",
         "2b": "13",
         "3b": "1",
         "hr": "12",
-        "so": "116",
-        "bipballs in play": "282",
+        "so": "115",
+        "bipballs in play": "285",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-27 20:41:29.318220"
+        "updated": "2025-05-27 20:41:38.216012"
     },
     "lad @ cle": [
         {
@@ -1890,7 +1890,7 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "8",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4242,6 +4242,36 @@
     ],
     "chw @ nym": [
         {
+            "player": "miguel vargas",
+            "game": "chw @ nym",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-05-27 20:41:33",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "mike tauchman",
+            "game": "chw @ nym",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-05-27 20:41:33",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "Single",
+            "evo": "89.3",
+            "la": "-1",
+            "dist": "35"
+        },
+        {
             "player": "jared young",
             "game": "chw @ nym",
             "hr/park": "",
@@ -5386,6 +5416,21 @@
     ],
     "bos @ mil": [
         {
+            "player": "sal frelick",
+            "game": "bos @ mil",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-05-27 20:41:33",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "isaac collins",
             "game": "bos @ mil",
             "hr/park": "",
@@ -5823,6 +5868,21 @@
     ],
     "col @ chc": [
         {
+            "player": "kyle tucker",
+            "game": "col @ chc",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-05-27 20:41:33",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "8:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ian happ",
             "game": "col @ chc",
             "hr/park": "",
@@ -5832,10 +5892,10 @@
             "team": "chc",
             "start": "8:05 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "101.0",
+            "la": "4",
+            "dist": "97"
         },
         {
             "player": "reese mcguire",
@@ -6110,6 +6170,21 @@
     ],
     "tor @ tex": [
         {
+            "player": "jonah heim",
+            "game": "tor @ tex",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-05-27 20:41:33",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "adolis garcia",
             "game": "tor @ tex",
             "hr/park": "",
@@ -6119,10 +6194,10 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "106.7",
+            "la": "-8",
+            "dist": "18"
         },
         {
             "player": "alejandro osuna",
@@ -6336,21 +6411,6 @@
         }
     ],
     "ath @ hou": [
-        {
-            "player": "chas mccormick",
-            "game": "ath @ hou",
-            "hr/park": "",
-            "pa": "14",
-            "dt": "2025-05-27 20:41:18",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "8:10 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "cam smith",
             "game": "ath @ hou",
