@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "50",
+        "pitchers": "51",
         "batters": "201",
-        "pitches": "2074",
+        "pitches": "2083",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "73.0",
-        "ff%fourseam fastball %": "31.3",
+        "ff%fourseam fastball %": "31.4",
         "si%sinker %": "17.1",
-        "fc%cutter %": "9.1",
+        "fc%cutter %": "9.0",
         "fs%splitter %": "4.0",
-        "ch%changeup %": "7.3",
-        "sl%slider %": "22.6",
-        "cu%curve %": "8.6",
+        "ch%changeup %": "7.4",
+        "sl%slider %": "22.5",
+        "cu%curve %": "8.5",
         "max evmax exit velocity": "114.5",
-        "hhhard hit": "156",
-        "hh%hard hit %": "44.3",
+        "hhhard hit": "159",
+        "hh%hard hit %": "44.8",
         "brlbarrels": "30",
         "brl%barrel %": "8.5",
-        "ab": "480",
-        "avg": ".231",
-        "h": "111",
-        "1b": "75",
-        "2b": "19",
+        "ab": "484",
+        "avg": ".233",
+        "h": "113",
+        "1b": "76",
+        "2b": "20",
         "3b": "1",
         "hr": "16",
         "so": "136",
-        "bipballs in play": "352",
+        "bipballs in play": "355",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-27 21:01:40.799375"
+        "updated": "2025-05-27 21:01:50.297442"
     },
     "lad @ cle": [
         {
@@ -1158,6 +1158,21 @@
         }
     ],
     "stl @ bal": [
+        {
+            "player": "nolan gorman",
+            "game": "stl @ bal",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-05-27 21:01:50",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "6:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "nolan arenado",
             "game": "stl @ bal",
@@ -3113,6 +3128,21 @@
     ],
     "atl @ phi": [
         {
+            "player": "matt olson",
+            "game": "atl @ phi",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-05-27 21:01:50",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "6:45 PM",
+            "in": "8",
+            "result": "Lineout",
+            "evo": "106.6",
+            "la": "14",
+            "dist": "281"
+        },
+        {
             "player": "trea turner",
             "game": "atl @ phi",
             "hr/park": "",
@@ -4000,6 +4030,21 @@
     ],
     "min @ tb": [
         {
+            "player": "kody clemens",
+            "game": "min @ tb",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-05-27 21:01:50",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ty france",
             "game": "min @ tb",
             "hr/park": "",
@@ -4009,10 +4054,10 @@
             "team": "min",
             "start": "7:05 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "104.3",
+            "la": "-21",
+            "dist": "5"
         },
         {
             "player": "brooks lee",
@@ -4901,6 +4946,21 @@
         }
     ],
     "chw @ nym": [
+        {
+            "player": "francisco lindor",
+            "game": "chw @ nym",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-05-27 21:01:50",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "Double",
+            "evo": "103.6",
+            "la": "-5",
+            "dist": "22"
+        },
         {
             "player": "francisco alvarez",
             "game": "chw @ nym",
@@ -7280,6 +7340,21 @@
     ],
     "tor @ tex": [
         {
+            "player": "anthony santander",
+            "game": "tor @ tex",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-05-27 21:01:50",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "8:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "george springer",
             "game": "tor @ tex",
             "hr/park": "",
@@ -7289,7 +7364,7 @@
             "team": "tor",
             "start": "8:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
