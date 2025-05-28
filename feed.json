@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "14",
         "batters": "100",
-        "pitches": "767",
+        "pitches": "772",
         "max velomax pitch velocity": "97.1",
         "min velomin pitch velocity": "70.9",
-        "ff%fourseam fastball %": "35.9",
+        "ff%fourseam fastball %": "35.8",
         "si%sinker %": "14.1",
         "fc%cutter %": "4.8",
-        "fs%splitter %": "1.2",
-        "ch%changeup %": "16.9",
-        "sl%slider %": "14.9",
+        "fs%splitter %": "1.4",
+        "ch%changeup %": "16.8",
+        "sl%slider %": "14.8",
         "cu%curve %": "12.3",
         "max evmax exit velocity": "112.1",
         "hhhard hit": "54",
-        "hh%hard hit %": "42.2",
+        "hh%hard hit %": "41.5",
         "brlbarrels": "12",
-        "brl%barrel %": "9.4",
+        "brl%barrel %": "9.2",
         "ab": "167",
         "avg": ".240",
         "h": "40",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "5",
         "so": "43",
-        "bipballs in play": "128",
+        "bipballs in play": "130",
         "liveGames": 6,
         "totGames": 15,
-        "updated": "2025-05-28 14:26:11.772846"
+        "updated": "2025-05-28 14:26:19.864560"
     },
     "lad @ cle": [
         {
@@ -41,7 +41,7 @@
             "team": "lad",
             "start": "1:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -649,21 +649,6 @@
     ],
     "sf @ det": [
         {
-            "player": "kerry carpenter",
-            "game": "sf @ det",
-            "hr/park": "",
-            "pa": "43",
-            "dt": "2025-05-28 14:26:06",
-            "img": "https://www.mlbstatic.com/team-logos/116.svg",
-            "team": "det",
-            "start": "1:10 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jake rogers",
             "game": "sf @ det",
             "hr/park": "",
@@ -673,7 +658,7 @@
             "team": "det",
             "start": "1:10 PM",
             "in": "5",
-            "result": "Field Error",
+            "result": "In Progress",
             "evo": "63.3",
             "la": "-45",
             "dist": "5"
@@ -1823,6 +1808,21 @@
     ],
     "chw @ nym": [
         {
+            "player": "brett baty",
+            "game": "chw @ nym",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-05-28 14:26:19",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "1:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "pete alonso",
             "game": "chw @ nym",
             "hr/park": "",
@@ -2304,6 +2304,21 @@
         }
     ],
     "bos @ mil": [
+        {
+            "player": "william contreras",
+            "game": "bos @ mil",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-05-28 14:26:19",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "1:10 PM",
+            "in": "4",
+            "result": "Groundout",
+            "evo": "75.8",
+            "la": "-1",
+            "dist": "33"
+        },
         {
             "player": "wilyer abreu",
             "game": "bos @ mil",
@@ -2811,10 +2826,10 @@
             "team": "ath",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "73.3",
+            "la": "-60",
+            "dist": "2"
         },
         {
             "player": "miguel andujar",
