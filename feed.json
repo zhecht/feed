@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "61",
         "batters": "202",
-        "pitches": "2413",
+        "pitches": "2417",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "73.0",
-        "ff%fourseam fastball %": "32.1",
-        "si%sinker %": "16.0",
+        "ff%fourseam fastball %": "32.0",
+        "si%sinker %": "16.1",
         "fc%cutter %": "8.2",
         "fs%splitter %": "3.6",
         "ch%changeup %": "8.5",
         "sl%slider %": "23.3",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "114.5",
-        "hhhard hit": "178",
-        "hh%hard hit %": "44.9",
-        "brlbarrels": "34",
-        "brl%barrel %": "8.6",
+        "hhhard hit": "179",
+        "hh%hard hit %": "45.0",
+        "brlbarrels": "35",
+        "brl%barrel %": "8.8",
         "ab": "556",
         "avg": ".236",
         "h": "131",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "18",
         "so": "166",
-        "bipballs in play": "396",
+        "bipballs in play": "398",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-27 21:21:48.117084"
+        "updated": "2025-05-27 21:21:57.822636"
     },
     "lad @ cle": [
         {
@@ -1173,6 +1173,21 @@
         }
     ],
     "stl @ bal": [
+        {
+            "player": "heston kjerstad",
+            "game": "stl @ bal",
+            "hr/park": "0/30",
+            "pa": "74",
+            "dt": "2025-05-27 21:21:51",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:35 PM",
+            "in": "8",
+            "result": "Flyout",
+            "evo": "99.4",
+            "la": "28",
+            "dist": "362"
+        },
         {
             "player": "jorge mateo",
             "game": "stl @ bal",
@@ -5346,7 +5361,7 @@
             "team": "chw",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
