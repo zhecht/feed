@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "83",
+        "pitchers": "84",
         "batters": "250",
-        "pitches": "2986",
+        "pitches": "2992",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "73.0",
         "ff%fourseam fastball %": "32.0",
-        "si%sinker %": "15.3",
+        "si%sinker %": "15.4",
         "fc%cutter %": "8.9",
         "fs%splitter %": "3.5",
         "ch%changeup %": "8.4",
-        "sl%slider %": "23.2",
+        "sl%slider %": "23.3",
         "cu%curve %": "8.7",
         "max evmax exit velocity": "114.5",
-        "hhhard hit": "221",
-        "hh%hard hit %": "43.4",
+        "hhhard hit": "223",
+        "hh%hard hit %": "43.6",
         "brlbarrels": "41",
-        "brl%barrel %": "8.1",
-        "ab": "693",
-        "avg": ".245",
-        "h": "170",
-        "1b": "117",
+        "brl%barrel %": "8.0",
+        "ab": "694",
+        "avg": ".246",
+        "h": "171",
+        "1b": "118",
         "2b": "27",
         "3b": "3",
         "hr": "23",
         "so": "196",
-        "bipballs in play": "509",
+        "bipballs in play": "512",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-27 22:00:14.335493"
+        "updated": "2025-05-27 22:00:24.906845"
     },
     "lad @ cle": [
         {
@@ -5532,21 +5532,6 @@
     ],
     "chw @ nym": [
         {
-            "player": "andrew benintendi",
-            "game": "chw @ nym",
-            "hr/park": "",
-            "pa": "78",
-            "dt": "2025-05-27 21:59:51",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "start": "7:10 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "miguel vargas",
             "game": "chw @ nym",
             "hr/park": "",
@@ -6713,10 +6698,10 @@
             "team": "cin",
             "start": "7:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "84.1",
+            "la": "31",
+            "dist": "318"
         },
         {
             "player": "elly de la cruz",
@@ -7771,6 +7756,21 @@
     ],
     "bos @ mil": [
         {
+            "player": "kristian campbell",
+            "game": "bos @ mil",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-05-27 22:00:19",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "william contreras",
             "game": "bos @ mil",
             "hr/park": "",
@@ -8672,6 +8672,21 @@
         }
     ],
     "col @ chc": [
+        {
+            "player": "kyle tucker",
+            "game": "col @ chc",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-05-27 22:00:19",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "8:05 PM",
+            "in": "7",
+            "result": "Single",
+            "evo": "102.5",
+            "la": "6",
+            "dist": "165"
+        },
         {
             "player": "ian happ",
             "game": "col @ chc",
@@ -11357,17 +11372,17 @@
         {
             "player": "jesus sanchez",
             "game": "mia @ sd",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "10",
             "dt": "2025-05-27 21:59:34",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
             "team": "mia",
             "start": "9:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "105.4",
+            "la": "43",
+            "dist": "349"
         },
         {
             "player": "javier sanoja",
