@@ -1,13 +1,13 @@
 {
     "all": {
         "pitchers": "78",
-        "batters": "202",
-        "pitches": "2632",
+        "batters": "203",
+        "pitches": "2635",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "70.9",
         "ff%fourseam fastball %": "31.2",
         "si%sinker %": "15.1",
-        "fc%cutter %": "5.3",
+        "fc%cutter %": "5.4",
         "fs%splitter %": "2.8",
         "ch%changeup %": "13.4",
         "sl%slider %": "23.3",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "39.4",
         "brlbarrels": "33",
         "brl%barrel %": "7.0",
-        "ab": "606",
+        "ab": "607",
         "avg": ".252",
         "h": "153",
         "1b": "99",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "17",
         "so": "159",
-        "bipballs in play": "469",
+        "bipballs in play": "470",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-28 20:14:41.672535"
+        "updated": "2025-05-28 20:14:51.465935"
     },
     "lad @ cle": [
         {
@@ -9921,6 +9921,21 @@
     "atl @ phi": [],
     "cin @ kc": [
         {
+            "player": "garrett hampson",
+            "game": "cin @ kc",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-05-28 20:14:49",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "42.1",
+            "la": "-58",
+            "dist": "4"
+        },
+        {
             "player": "matt mclain",
             "game": "cin @ kc",
             "hr/park": "0/30",
@@ -9930,7 +9945,7 @@
             "team": "cin",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "96.2",
             "la": "21",
             "dist": "341"
@@ -10187,7 +10202,7 @@
             "team": "chc",
             "start": "8:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "64.3",
             "la": "-19",
             "dist": "8"
