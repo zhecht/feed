@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "91",
-        "batters": "235",
-        "pitches": "3268",
+        "batters": "236",
+        "pitches": "3274",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "70.9",
-        "ff%fourseam fastball %": "31.5",
+        "ff%fourseam fastball %": "31.6",
         "si%sinker %": "14.2",
         "fc%cutter %": "5.9",
         "fs%splitter %": "3.5",
         "ch%changeup %": "13.0",
         "sl%slider %": "22.9",
-        "cu%curve %": "9.0",
+        "cu%curve %": "8.9",
         "max evmax exit velocity": "112.1",
         "hhhard hit": "235",
         "hh%hard hit %": "40.2",
         "brlbarrels": "41",
         "brl%barrel %": "7.0",
-        "ab": "751",
-        "avg": ".256",
+        "ab": "752",
+        "avg": ".255",
         "h": "192",
         "1b": "127",
         "2b": "44",
         "3b": "2",
         "hr": "19",
-        "so": "192",
-        "bipballs in play": "584",
+        "so": "193",
+        "bipballs in play": "585",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-28 21:44:00.842838"
+        "updated": "2025-05-28 21:44:11.658632"
     },
     "lad @ cle": [
         {
@@ -12034,7 +12034,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12689,6 +12689,21 @@
     ],
     "wsh @ sea": [
         {
+            "player": "james wood",
+            "game": "wsh @ sea",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-05-28 21:44:05",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cj abrams",
             "game": "wsh @ sea",
             "hr/park": "",
@@ -12698,10 +12713,10 @@
             "team": "wsh",
             "start": "9:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "83.4",
+            "la": "-26",
+            "dist": "5"
         }
     ]
 }
