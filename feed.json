@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "104",
-        "batters": "257",
-        "pitches": "3469",
+        "batters": "259",
+        "pitches": "3476",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "70.9",
         "ff%fourseam fastball %": "31.3",
@@ -10,25 +10,25 @@
         "fc%cutter %": "6.0",
         "fs%splitter %": "3.4",
         "ch%changeup %": "12.5",
-        "sl%slider %": "23.6",
+        "sl%slider %": "23.7",
         "cu%curve %": "9.1",
         "max evmax exit velocity": "112.1",
-        "hhhard hit": "250",
+        "hhhard hit": "251",
         "hh%hard hit %": "40.2",
         "brlbarrels": "45",
         "brl%barrel %": "7.2",
-        "ab": "802",
+        "ab": "805",
         "avg": ".253",
-        "h": "203",
-        "1b": "134",
+        "h": "204",
+        "1b": "135",
         "2b": "46",
         "3b": "2",
         "hr": "21",
         "so": "208",
-        "bipballs in play": "622",
+        "bipballs in play": "624",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-28 22:04:58.257627"
+        "updated": "2025-05-28 22:05:09.654494"
     },
     "lad @ cle": [
         {
@@ -9432,10 +9432,10 @@
             "team": "bal",
             "start": "6:35 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "81.8",
+            "la": "24",
+            "dist": "279"
         },
         {
             "player": "jackson holliday",
@@ -10640,6 +10640,21 @@
     ],
     "atl @ phi": [],
     "cin @ kc": [
+        {
+            "player": "garrett hampson",
+            "game": "cin @ kc",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-05-28 22:05:05",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "matt mclain",
             "game": "cin @ kc",
@@ -13212,6 +13227,36 @@
     ],
     "nyy @ laa": [
         {
+            "player": "oswald peraza",
+            "game": "nyy @ laa",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-05-28 22:05:05",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "9:38 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jc escarra",
+            "game": "nyy @ laa",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-05-28 22:05:05",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "9:38 PM",
+            "in": "2",
+            "result": "Single",
+            "evo": "103.9",
+            "la": "6",
+            "dist": "134"
+        },
+        {
             "player": "taylor ward",
             "game": "nyy @ laa",
             "hr/park": "",
@@ -13373,7 +13418,7 @@
             "team": "sea",
             "start": "9:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
