@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "90",
-        "batters": "233",
-        "pitches": "3254",
+        "pitchers": "91",
+        "batters": "235",
+        "pitches": "3257",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "70.9",
         "ff%fourseam fastball %": "31.5",
@@ -10,14 +10,14 @@
         "fc%cutter %": "5.9",
         "fs%splitter %": "3.5",
         "ch%changeup %": "13.0",
-        "sl%slider %": "22.9",
+        "sl%slider %": "22.8",
         "cu%curve %": "9.0",
         "max evmax exit velocity": "112.1",
         "hhhard hit": "235",
         "hh%hard hit %": "40.3",
         "brlbarrels": "41",
         "brl%barrel %": "7.0",
-        "ab": "748",
+        "ab": "749",
         "avg": ".255",
         "h": "191",
         "1b": "126",
@@ -28,7 +28,7 @@
         "bipballs in play": "583",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-28 21:42:31.163106"
+        "updated": "2025-05-28 21:42:42.193267"
     },
     "lad @ cle": [
         {
@@ -11417,7 +11417,7 @@
             "team": "col",
             "start": "8:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Sac Fly",
             "evo": "101.4",
             "la": "26",
             "dist": "375"
@@ -12627,6 +12627,21 @@
     ],
     "nyy @ laa": [
         {
+            "player": "trent grisham",
+            "game": "nyy @ laa",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-05-28 21:42:34",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "paul goldschmidt",
             "game": "nyy @ laa",
             "hr/park": "",
@@ -12642,5 +12657,21 @@
             "dist": "228"
         }
     ],
-    "wsh @ sea": []
+    "wsh @ sea": [
+        {
+            "player": "cj abrams",
+            "game": "wsh @ sea",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-28 21:42:36",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ]
 }
