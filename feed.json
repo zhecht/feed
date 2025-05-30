@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "29",
-        "batters": "67",
-        "pitches": "1085",
+        "pitchers": "30",
+        "batters": "68",
+        "pitches": "1087",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "38.9",
-        "ff%fourseam fastball %": "34.6",
+        "ff%fourseam fastball %": "34.7",
         "si%sinker %": "16.4",
         "fc%cutter %": "7.0",
         "fs%splitter %": "3.8",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.2",
         "max evmax exit velocity": "117.5",
         "hhhard hit": "78",
-        "hh%hard hit %": "42.4",
+        "hh%hard hit %": "41.9",
         "brlbarrels": "24",
-        "brl%barrel %": "13.0",
-        "ab": "237",
-        "avg": ".274",
+        "brl%barrel %": "12.9",
+        "ab": "239",
+        "avg": ".272",
         "h": "65",
         "1b": "45",
         "2b": "11",
         "3b": "0",
         "hr": "9",
         "so": "57",
-        "bipballs in play": "184",
+        "bipballs in play": "186",
         "liveGames": 5,
         "totGames": 5,
-        "updated": "2025-05-29 21:41:52.937139"
+        "updated": "2025-05-29 21:42:00.984178"
     },
     "atl @ phi": [
         {
@@ -3608,6 +3608,21 @@
     ],
     "tb @ hou": [
         {
+            "player": "chandler simpson",
+            "game": "tb @ hou",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-05-29 21:41:55",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "Lineout",
+            "evo": "82.3",
+            "la": "24",
+            "dist": "277"
+        },
+        {
             "player": "junior caminero",
             "game": "tb @ hou",
             "hr/park": "",
@@ -4148,5 +4163,21 @@
             "dist": ""
         }
     ],
-    "wsh @ sea": []
+    "wsh @ sea": [
+        {
+            "player": "cj abrams",
+            "game": "wsh @ sea",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-29 21:41:55",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "Pop Out",
+            "evo": "88.0",
+            "la": "68",
+            "dist": "106"
+        }
+    ]
 }
