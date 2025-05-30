@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "25",
-        "batters": "110",
-        "pitches": "848",
+        "batters": "112",
+        "pitches": "852",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "69.6",
-        "ff%fourseam fastball %": "31.5",
+        "ff%fourseam fastball %": "31.7",
         "si%sinker %": "16.0",
-        "fc%cutter %": "12.3",
-        "fs%splitter %": "5.1",
-        "ch%changeup %": "9.4",
-        "sl%slider %": "16.6",
-        "cu%curve %": "9.1",
+        "fc%cutter %": "12.2",
+        "fs%splitter %": "5.0",
+        "ch%changeup %": "9.5",
+        "sl%slider %": "16.5",
+        "cu%curve %": "9.0",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "53",
-        "hh%hard hit %": "35.3",
+        "hhhard hit": "54",
+        "hh%hard hit %": "35.8",
         "brlbarrels": "12",
-        "brl%barrel %": "8.0",
-        "ab": "195",
-        "avg": ".241",
+        "brl%barrel %": "7.9",
+        "ab": "197",
+        "avg": ".239",
         "h": "47",
         "1b": "30",
         "2b": "10",
         "3b": "2",
         "hr": "5",
         "so": "47",
-        "bipballs in play": "150",
+        "bipballs in play": "151",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-05-30 19:34:09.001430"
+        "updated": "2025-05-30 19:34:17.169103"
     },
     "cin @ chc": [
         {
@@ -2091,6 +2091,21 @@
     ],
     "mil @ phi": [
         {
+            "player": "edmundo sosa",
+            "game": "mil @ phi",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-05-30 19:34:13",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:45 PM",
+            "in": "3",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brandon marsh",
             "game": "mil @ phi",
             "hr/park": "",
@@ -2422,6 +2437,21 @@
         }
     ],
     "ath @ tor": [
+        {
+            "player": "ernie clement",
+            "game": "ath @ tor",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-05-30 19:34:13",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "99.4",
+            "la": "13",
+            "dist": "255"
+        },
         {
             "player": "logan davidson",
             "game": "ath @ tor",
@@ -2963,7 +2993,7 @@
             "team": "sf",
             "start": "7:10 PM",
             "in": "2",
-            "result": "Double Play",
+            "result": "In Progress",
             "evo": "97.0",
             "la": "20",
             "dist": "312"
