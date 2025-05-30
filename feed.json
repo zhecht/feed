@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "29",
         "batters": "67",
-        "pitches": "1067",
+        "pitches": "1070",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "38.9",
         "ff%fourseam fastball %": "34.9",
-        "si%sinker %": "16.2",
+        "si%sinker %": "16.3",
         "fc%cutter %": "7.0",
         "fs%splitter %": "3.8",
         "ch%changeup %": "5.8",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "42.5",
         "brlbarrels": "24",
         "brl%barrel %": "13.3",
-        "ab": "233",
-        "avg": ".275",
+        "ab": "234",
+        "avg": ".274",
         "h": "64",
         "1b": "44",
         "2b": "11",
         "3b": "0",
         "hr": "9",
-        "so": "56",
+        "so": "57",
         "bipballs in play": "181",
         "liveGames": 4,
         "totGames": 5,
-        "updated": "2025-05-29 21:39:04.336196"
+        "updated": "2025-05-29 21:39:12.383296"
     },
     "atl @ phi": [
         {
@@ -2400,7 +2400,7 @@
             "team": "ath",
             "start": "7:07 PM",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3563,6 +3563,21 @@
     ],
     "tb @ hou": [
         {
+            "player": "junior caminero",
+            "game": "tb @ hou",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-05-29 21:39:09",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jonathan aranda",
             "game": "tb @ hou",
             "hr/park": "",
@@ -3572,7 +3587,7 @@
             "team": "tb",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Fielders Choice Out",
             "evo": "66.5",
             "la": "-18",
             "dist": "9"
