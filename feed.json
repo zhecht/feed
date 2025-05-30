@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "28",
         "batters": "65",
-        "pitches": "970",
+        "pitches": "971",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "72.2",
-        "ff%fourseam fastball %": "36.9",
-        "si%sinker %": "15.4",
-        "fc%cutter %": "6.8",
+        "ff%fourseam fastball %": "36.8",
+        "si%sinker %": "15.3",
+        "fc%cutter %": "6.9",
         "fs%splitter %": "4.2",
-        "ch%changeup %": "5.5",
+        "ch%changeup %": "5.6",
         "sl%slider %": "23.0",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "117.5",
@@ -18,17 +18,17 @@
         "brlbarrels": "22",
         "brl%barrel %": "13.4",
         "ab": "212",
-        "avg": ".264",
-        "h": "56",
+        "avg": ".269",
+        "h": "57",
         "1b": "39",
-        "2b": "8",
+        "2b": "9",
         "3b": "0",
         "hr": "9",
         "so": "51",
         "bipballs in play": "164",
         "liveGames": 4,
         "totGames": 5,
-        "updated": "2025-05-29 21:22:52.951741"
+        "updated": "2025-05-29 21:23:00.688002"
     },
     "atl @ phi": [
         {
@@ -1264,16 +1264,31 @@
     ],
     "atl-gm2 @ phi-gm2": [
         {
-            "player": "nick castellanos",
+            "player": "jt realmuto",
             "game": "atl-gm2 @ phi-gm2",
             "hr/park": "",
+            "pa": "69",
+            "dt": "2025-05-29 21:22:55",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:45 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "nick castellanos",
+            "game": "atl-gm2 @ phi-gm2",
+            "hr/park": "0/30",
             "pa": "68",
             "dt": "2025-05-29 21:22:24",
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "start": "6:45 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "97.8",
             "la": "17",
             "dist": "307"
@@ -3292,21 +3307,6 @@
         }
     ],
     "tb @ hou": [
-        {
-            "player": "jeremy pena",
-            "game": "tb @ hou",
-            "hr/park": "",
-            "pa": "29",
-            "dt": "2025-05-29 21:22:24",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "8:10 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "josh lowe",
             "game": "tb @ hou",
