@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "25",
         "batters": "128",
-        "pitches": "936",
+        "pitches": "942",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "69.6",
-        "ff%fourseam fastball %": "31.5",
-        "si%sinker %": "16.0",
-        "fc%cutter %": "12.0",
+        "ff%fourseam fastball %": "31.3",
+        "si%sinker %": "16.1",
+        "fc%cutter %": "11.9",
         "fs%splitter %": "5.1",
-        "ch%changeup %": "9.1",
-        "sl%slider %": "16.9",
+        "ch%changeup %": "9.0",
+        "sl%slider %": "17.1",
         "cu%curve %": "9.4",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "59",
-        "hh%hard hit %": "36.6",
+        "hhhard hit": "60",
+        "hh%hard hit %": "36.8",
         "brlbarrels": "12",
-        "brl%barrel %": "7.5",
+        "brl%barrel %": "7.4",
         "ab": "216",
         "avg": ".241",
         "h": "52",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "5",
         "so": "54",
-        "bipballs in play": "161",
+        "bipballs in play": "163",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-05-30 19:41:35.251540"
+        "updated": "2025-05-30 19:41:43.519614"
     },
     "cin @ chc": [
         {
@@ -2091,6 +2091,21 @@
     ],
     "mil @ phi": [
         {
+            "player": "caleb durbin",
+            "game": "mil @ phi",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-05-30 19:41:43",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "6:45 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "96.4",
+            "la": "-9",
+            "dist": "12"
+        },
+        {
             "player": "isaac collins",
             "game": "mil @ phi",
             "hr/park": "",
@@ -2492,7 +2507,7 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2961,10 +2976,10 @@
             "team": "col",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "94.0",
+            "la": "26",
+            "dist": "347"
         },
         {
             "player": "francisco alvarez",
