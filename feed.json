@@ -2,13 +2,13 @@
     "all": {
         "pitchers": "27",
         "batters": "146",
-        "pitches": "1201",
+        "pitches": "1206",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "30.6",
         "si%sinker %": "16.0",
         "fc%cutter %": "12.2",
-        "fs%splitter %": "4.7",
+        "fs%splitter %": "4.8",
         "ch%changeup %": "8.7",
         "sl%slider %": "17.9",
         "cu%curve %": "9.8",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "39.4",
         "brlbarrels": "16",
         "brl%barrel %": "7.9",
-        "ab": "269",
-        "avg": ".257",
-        "h": "69",
-        "1b": "44",
+        "ab": "270",
+        "avg": ".259",
+        "h": "70",
+        "1b": "45",
         "2b": "16",
         "3b": "2",
         "hr": "7",
-        "so": "68",
+        "so": "69",
         "bipballs in play": "203",
-        "liveGames": 8,
+        "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-05-30 20:04:56.558847"
+        "updated": "2025-05-30 20:05:04.940573"
     },
     "cin @ chc": [
         {
@@ -2648,21 +2648,6 @@
     ],
     "ath @ tor": [
         {
-            "player": "brent rooker",
-            "game": "ath @ tor",
-            "hr/park": "",
-            "pa": "26",
-            "dt": "2025-05-30 20:04:43",
-            "img": "https://www.mlbstatic.com/team-logos/133.svg",
-            "team": "ath",
-            "start": "7:07 PM",
-            "in": "3",
-            "result": "Groundout",
-            "evo": "80.6",
-            "la": "-15",
-            "dist": "9"
-        },
-        {
             "player": "jacob wilson",
             "game": "ath @ tor",
             "hr/park": "",
@@ -3040,6 +3025,21 @@
     ],
     "laa @ cle": [
         {
+            "player": "logan ohoppe",
+            "game": "laa @ cle",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-05-30 20:04:59",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mike trout",
             "game": "laa @ cle",
             "hr/park": "",
@@ -3049,10 +3049,10 @@
             "team": "laa",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "86.2",
+            "la": "20",
+            "dist": "259"
         },
         {
             "player": "steven kwan",
@@ -3794,6 +3794,21 @@
     ],
     "sf @ mia": [
         {
+            "player": "casey schmitt",
+            "game": "sf @ mia",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-05-30 20:04:59",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "patrick bailey",
             "game": "sf @ mia",
             "hr/park": "",
@@ -3803,7 +3818,7 @@
             "team": "sf",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
