@@ -1,13 +1,13 @@
 {
     "all": {
-        "pitchers": "61",
+        "pitchers": "62",
         "batters": "207",
-        "pitches": "2569",
+        "pitches": "2574",
         "max velomax pitch velocity": "102.2",
         "min velomin pitch velocity": "65.2",
         "ff%fourseam fastball %": "28.4",
-        "si%sinker %": "16.5",
-        "fc%cutter %": "9.3",
+        "si%sinker %": "16.4",
+        "fc%cutter %": "9.2",
         "fs%splitter %": "3.8",
         "ch%changeup %": "12.5",
         "sl%slider %": "20.9",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "37.3",
         "brlbarrels": "49",
         "brl%barrel %": "10.4",
-        "ab": "617",
+        "ab": "618",
         "avg": ".248",
         "h": "153",
         "1b": "95",
@@ -28,7 +28,7 @@
         "bipballs in play": "469",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 18:13:33.634482"
+        "updated": "2025-05-31 18:13:43.755196"
     },
     "cin @ chc": [
         {
@@ -4842,6 +4842,21 @@
     ],
     "laa @ cle": [
         {
+            "player": "yoan moncada",
+            "game": "laa @ cle",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-05-31 18:13:37",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "angel martinez",
             "game": "laa @ cle",
             "hr/park": "",
@@ -5701,14 +5716,14 @@
         {
             "player": "freddy fermin",
             "game": "det @ kc",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "53",
             "dt": "2025-05-31 18:12:20",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "start": "4:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "86.8",
             "la": "43",
             "dist": "308"
@@ -6505,7 +6520,7 @@
             "team": "nym",
             "start": "4:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
