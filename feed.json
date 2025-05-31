@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "33",
         "batters": "200",
-        "pitches": "1633",
+        "pitches": "1638",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "65.2",
-        "ff%fourseam fastball %": "28.6",
+        "ff%fourseam fastball %": "28.8",
         "si%sinker %": "15.8",
         "fc%cutter %": "9.5",
         "fs%splitter %": "3.6",
-        "ch%changeup %": "13.0",
-        "sl%slider %": "19.7",
+        "ch%changeup %": "13.1",
+        "sl%slider %": "19.6",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "112.5",
-        "hhhard hit": "112",
-        "hh%hard hit %": "38.5",
+        "hhhard hit": "113",
+        "hh%hard hit %": "38.6",
         "brlbarrels": "34",
-        "brl%barrel %": "11.7",
-        "ab": "389",
-        "avg": ".252",
-        "h": "98",
-        "1b": "63",
+        "brl%barrel %": "11.6",
+        "ab": "391",
+        "avg": ".253",
+        "h": "99",
+        "1b": "64",
         "2b": "15",
         "3b": "1",
         "hr": "19",
         "so": "97",
-        "bipballs in play": "291",
+        "bipballs in play": "293",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 17:17:44.078592"
+        "updated": "2025-05-31 17:17:53.128256"
     },
     "cin @ chc": [
         {
@@ -988,7 +988,7 @@
             "team": "tor",
             "start": "3:07 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2935,6 +2935,21 @@
     ],
     "mil @ phi": [
         {
+            "player": "joey ortiz",
+            "game": "mil @ phi",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-05-31 17:17:50",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "4:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "caleb durbin",
             "game": "mil @ phi",
             "hr/park": "",
@@ -4375,10 +4390,10 @@
             "team": "nym",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "97.1",
+            "la": "7",
+            "dist": "116"
         },
         {
             "player": "francisco alvarez",
@@ -4847,6 +4862,21 @@
         }
     ],
     "tb @ hou": [
+        {
+            "player": "danny jansen",
+            "game": "tb @ hou",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-05-31 17:17:50",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "zach dezenzo",
             "game": "tb @ hou",
@@ -5904,17 +5934,17 @@
         {
             "player": "nick fortes",
             "game": "sf @ mia",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "32",
             "dt": "2025-05-31 17:16:35",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
             "team": "mia",
             "start": "4:10 PM",
             "in": "4",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "85.4",
+            "la": "30",
+            "dist": "312"
         },
         {
             "player": "dane myers",
