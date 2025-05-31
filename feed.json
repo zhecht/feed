@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "27",
         "batters": "146",
-        "pitches": "1262",
+        "pitches": "1267",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "30.4",
-        "si%sinker %": "16.0",
+        "si%sinker %": "15.9",
         "fc%cutter %": "12.0",
-        "fs%splitter %": "4.8",
+        "fs%splitter %": "4.7",
         "ch%changeup %": "9.0",
-        "sl%slider %": "18.3",
+        "sl%slider %": "18.4",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "86",
-        "hh%hard hit %": "40.6",
+        "hhhard hit": "87",
+        "hh%hard hit %": "40.8",
         "brlbarrels": "16",
         "brl%barrel %": "7.5",
-        "ab": "284",
-        "avg": ".257",
+        "ab": "286",
+        "avg": ".255",
         "h": "73",
         "1b": "47",
         "2b": "16",
         "3b": "2",
         "hr": "8",
-        "so": "73",
-        "bipballs in play": "212",
+        "so": "74",
+        "bipballs in play": "213",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-05-30 20:09:40.769661"
+        "updated": "2025-05-30 20:09:49.380943"
     },
     "cin @ chc": [
         {
@@ -2100,7 +2100,7 @@
             "team": "mil",
             "start": "6:45 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3974,6 +3974,21 @@
     ],
     "sf @ mia": [
         {
+            "player": "mike yastrzemski",
+            "game": "sf @ mia",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-05-30 20:09:43",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyler fitzgerald",
             "game": "sf @ mia",
             "hr/park": "",
@@ -4411,6 +4426,21 @@
     ],
     "bos @ atl": [
         {
+            "player": "austin riley",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-05-30 20:09:43",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "matt olson",
             "game": "bos @ atl",
             "hr/park": "",
@@ -4420,10 +4450,10 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "110.5",
+            "la": "5",
+            "dist": "98"
         },
         {
             "player": "marcell ozuna",
