@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "36",
         "batters": "200",
-        "pitches": "1894",
+        "pitches": "1902",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "65.2",
         "ff%fourseam fastball %": "28.1",
@@ -10,25 +10,25 @@
         "fc%cutter %": "10.0",
         "fs%splitter %": "3.7",
         "ch%changeup %": "13.2",
-        "sl%slider %": "19.3",
-        "cu%curve %": "9.1",
+        "sl%slider %": "19.2",
+        "cu%curve %": "9.2",
         "max evmax exit velocity": "112.5",
-        "hhhard hit": "132",
-        "hh%hard hit %": "38.5",
+        "hhhard hit": "133",
+        "hh%hard hit %": "38.7",
         "brlbarrels": "38",
-        "brl%barrel %": "11.1",
-        "ab": "458",
-        "avg": ".251",
+        "brl%barrel %": "11.0",
+        "ab": "461",
+        "avg": ".249",
         "h": "115",
         "1b": "73",
         "2b": "17",
         "3b": "2",
         "hr": "23",
-        "so": "114",
-        "bipballs in play": "343",
+        "so": "115",
+        "bipballs in play": "344",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 17:32:17.441047"
+        "updated": "2025-05-31 17:32:26.663380"
     },
     "cin @ chc": [
         {
@@ -979,6 +979,21 @@
     ],
     "ath @ tor": [
         {
+            "player": "myles straw",
+            "game": "ath @ tor",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-05-31 17:32:20",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "3:07 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "george springer",
             "game": "ath @ tor",
             "hr/park": "",
@@ -988,10 +1003,10 @@
             "team": "tor",
             "start": "3:07 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "101.6",
+            "la": "3",
+            "dist": "66"
         },
         {
             "player": "max schuemann",
@@ -2572,6 +2587,21 @@
         }
     ],
     "chw @ bal": [
+        {
+            "player": "joshua palacios",
+            "game": "chw @ bal",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-05-31 17:32:20",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "4:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "adley rutschman",
             "game": "chw @ bal",
@@ -4453,6 +4483,21 @@
         }
     ],
     "det @ kc": [
+        {
+            "player": "javier baez",
+            "game": "det @ kc",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-05-31 17:31:35",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "4:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "trey sweeney",
             "game": "det @ kc",
@@ -6856,7 +6901,7 @@
             "team": "sf",
             "start": "4:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
