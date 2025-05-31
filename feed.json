@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "29",
-        "batters": "161",
-        "pitches": "943",
+        "batters": "164",
+        "pitches": "952",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "33.2",
         "si%sinker %": "12.7",
-        "fc%cutter %": "8.5",
-        "fs%splitter %": "2.8",
-        "ch%changeup %": "13.1",
+        "fc%cutter %": "8.6",
+        "fs%splitter %": "2.7",
+        "ch%changeup %": "13.0",
         "sl%slider %": "18.2",
-        "cu%curve %": "11.5",
+        "cu%curve %": "11.4",
         "max evmax exit velocity": "112.5",
-        "hhhard hit": "64",
-        "hh%hard hit %": "40.5",
+        "hhhard hit": "63",
+        "hh%hard hit %": "39.1",
         "brlbarrels": "20",
-        "brl%barrel %": "12.7",
-        "ab": "217",
-        "avg": ".240",
-        "h": "52",
-        "1b": "35",
+        "brl%barrel %": "12.4",
+        "ab": "220",
+        "avg": ".241",
+        "h": "53",
+        "1b": "36",
         "2b": "6",
         "3b": "1",
         "hr": "10",
-        "so": "58",
-        "bipballs in play": "158",
+        "so": "59",
+        "bipballs in play": "161",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 16:39:56.569286"
+        "updated": "2025-05-31 16:40:04.804241"
     },
     "cin @ chc": [
         {
@@ -41,7 +41,7 @@
             "team": "cin",
             "start": "2:20 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -57,9 +57,9 @@
             "start": "2:20 PM",
             "in": "9",
             "result": "Lineout",
-            "evo": "96.0",
-            "la": "15",
-            "dist": "278"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "matt mclain",
@@ -978,6 +978,21 @@
         }
     ],
     "ath @ tor": [
+        {
+            "player": "myles straw",
+            "game": "ath @ tor",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-05-31 16:40:04",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "3:07 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "george springer",
             "game": "ath @ tor",
@@ -2442,6 +2457,21 @@
     ],
     "laa @ cle": [
         {
+            "player": "luis rengifo",
+            "game": "laa @ cle",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-05-31 16:39:34",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "83.2",
+            "la": "30",
+            "dist": "285"
+        },
+        {
             "player": "jo adell",
             "game": "laa @ cle",
             "hr/park": "",
@@ -2785,10 +2815,10 @@
             "team": "col",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "78.0",
+            "la": "-3",
+            "dist": "23"
         },
         {
             "player": "jeff mcneil",
@@ -2973,6 +3003,21 @@
     ],
     "tb @ hou": [
         {
+            "player": "danny jansen",
+            "game": "tb @ hou",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-05-31 16:40:04",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "4:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh lowe",
             "game": "tb @ hou",
             "hr/park": "",
@@ -2982,7 +3027,7 @@
             "team": "tb",
             "start": "4:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "107.8",
             "la": "-3",
             "dist": "31"
