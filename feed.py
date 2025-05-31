@@ -184,5 +184,5 @@ if __name__ == '__main__':
 		commitChanges()
 		exit()
 
-	time.sleep(7400)
+	#time.sleep(7400)
 	writeFeed(date, args.loop)
