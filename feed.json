@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "96",
         "batters": "289",
-        "pitches": "3675",
+        "pitches": "3678",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "49.8",
         "ff%fourseam fastball %": "29.5",
@@ -14,21 +14,21 @@
         "cu%curve %": "10.9",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "299",
-        "hh%hard hit %": "45.2",
+        "hh%hard hit %": "45.1",
         "brlbarrels": "62",
         "brl%barrel %": "9.4",
-        "ab": "862",
-        "avg": ".263",
-        "h": "227",
-        "1b": "148",
-        "2b": "39",
+        "ab": "863",
+        "avg": ".265",
+        "h": "229",
+        "1b": "149",
+        "2b": "40",
         "3b": "5",
         "hr": "35",
         "so": "214",
-        "bipballs in play": "662",
+        "bipballs in play": "663",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-30 23:02:04.125205"
+        "updated": "2025-05-30 23:02:16.099993"
     },
     "cin @ chc": [
         {
@@ -12213,10 +12213,10 @@
             "team": "ari",
             "start": "9:40 PM",
             "in": "4",
-            "result": "Mound Visit",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "86.5",
+            "la": "37",
+            "dist": "321"
         },
         {
             "player": "alek thomas",
@@ -12806,6 +12806,21 @@
     ],
     "pit @ sd": [
         {
+            "player": "manny machado",
+            "game": "pit @ sd",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-05-30 23:02:14",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis arraez",
             "game": "pit @ sd",
             "hr/park": "",
@@ -12815,7 +12830,7 @@
             "team": "sd",
             "start": "9:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "88.0",
             "la": "4",
             "dist": "89"
@@ -13462,7 +13477,7 @@
             "team": "min",
             "start": "10:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "70.0",
             "la": "22",
             "dist": "190"
