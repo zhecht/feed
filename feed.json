@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "19",
-        "batters": "66",
-        "pitches": "455",
+        "batters": "67",
+        "pitches": "459",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "36.7",
-        "si%sinker %": "10.8",
-        "fc%cutter %": "4.2",
-        "fs%splitter %": "1.8",
-        "ch%changeup %": "14.1",
-        "sl%slider %": "16.9",
-        "cu%curve %": "15.6",
+        "ff%fourseam fastball %": "36.6",
+        "si%sinker %": "10.7",
+        "fc%cutter %": "4.6",
+        "fs%splitter %": "1.5",
+        "ch%changeup %": "13.9",
+        "sl%slider %": "17.0",
+        "cu%curve %": "15.7",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "27",
-        "hh%hard hit %": "35.1",
+        "hh%hard hit %": "34.6",
         "brlbarrels": "11",
-        "brl%barrel %": "14.3",
+        "brl%barrel %": "14.1",
         "ab": "106",
         "avg": ".245",
         "h": "26",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "7",
         "so": "25",
-        "bipballs in play": "77",
+        "bipballs in play": "78",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 16:16:31.004337"
+        "updated": "2025-05-31 16:16:38.558272"
     },
     "cin @ chc": [
         {
@@ -41,10 +41,10 @@
             "team": "chc",
             "start": "2:20 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "74.8",
+            "la": "-27",
+            "dist": "4"
         },
         {
             "player": "matt shaw",
@@ -1602,6 +1602,21 @@
     ],
     "laa @ cle": [
         {
+            "player": "yoan moncada",
+            "game": "laa @ cle",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-05-31 16:16:34",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nolan schanuel",
             "game": "laa @ cle",
             "hr/park": "",
@@ -1611,7 +1626,7 @@
             "team": "laa",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
