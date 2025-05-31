@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "42",
+        "pitchers": "43",
         "batters": "202",
-        "pitches": "2160",
+        "pitches": "2163",
         "max velomax pitch velocity": "102.2",
         "min velomin pitch velocity": "65.2",
-        "ff%fourseam fastball %": "28.1",
+        "ff%fourseam fastball %": "28.2",
         "si%sinker %": "16.5",
         "fc%cutter %": "9.6",
         "fs%splitter %": "3.9",
         "ch%changeup %": "13.3",
-        "sl%slider %": "19.4",
+        "sl%slider %": "19.3",
         "cu%curve %": "9.2",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "144",
         "hh%hard hit %": "37.0",
         "brlbarrels": "40",
         "brl%barrel %": "10.3",
-        "ab": "519",
-        "avg": ".249",
-        "h": "129",
+        "ab": "520",
+        "avg": ".246",
+        "h": "128",
         "1b": "80",
         "2b": "22",
         "3b": "2",
-        "hr": "25",
-        "so": "133",
+        "hr": "24",
+        "so": "134",
         "bipballs in play": "389",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 17:46:54.227417"
+        "updated": "2025-05-31 17:47:04.144607"
     },
     "cin @ chc": [
         {
@@ -4289,17 +4289,17 @@
         {
             "player": "jose ramirez",
             "game": "laa @ cle",
-            "hr/park": "3/30",
+            "hr/park": "",
             "pa": "46",
             "dt": "2025-05-31 17:46:05",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
             "team": "cle",
             "start": "4:10 PM",
             "in": "5",
-            "result": "Home Run",
-            "evo": "92.1",
-            "la": "34",
-            "dist": "337"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "travis darnaud",
@@ -7010,6 +7010,21 @@
     ],
     "bos @ atl": [
         {
+            "player": "drake baldwin",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-05-31 17:47:04",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "4:10 PM",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "90.4",
+            "la": "-25",
+            "dist": "6"
+        },
+        {
             "player": "ronald acuna",
             "game": "bos @ atl",
             "hr/park": "",
@@ -7771,7 +7786,7 @@
             "team": "mia",
             "start": "4:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
