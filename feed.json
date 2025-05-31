@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "34",
         "batters": "160",
-        "pitches": "1403",
+        "pitches": "1404",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "69.6",
-        "ff%fourseam fastball %": "30.6",
+        "ff%fourseam fastball %": "30.7",
         "si%sinker %": "16.5",
-        "fc%cutter %": "11.7",
+        "fc%cutter %": "11.6",
         "fs%splitter %": "4.5",
         "ch%changeup %": "8.5",
         "sl%slider %": "18.4",
         "cu%curve %": "9.8",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "107",
-        "hh%hard hit %": "44.0",
+        "hh%hard hit %": "43.9",
         "brlbarrels": "21",
         "brl%barrel %": "8.6",
         "ab": "327",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "12",
         "so": "84",
-        "bipballs in play": "243",
+        "bipballs in play": "244",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-30 20:18:49.327565"
+        "updated": "2025-05-30 20:18:58.578467"
     },
     "cin @ chc": [
         {
@@ -2768,24 +2768,9 @@
     ],
     "ath @ tor": [
         {
-            "player": "george springer",
-            "game": "ath @ tor",
-            "hr/park": "",
-            "pa": "33",
-            "dt": "2025-05-30 20:18:43",
-            "img": "https://www.mlbstatic.com/team-logos/141.svg",
-            "team": "tor",
-            "start": "7:07 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "vladimir guerrero",
             "game": "ath @ tor",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "32",
             "dt": "2025-05-30 20:17:28",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
@@ -3264,6 +3249,21 @@
         }
     ],
     "laa @ cle": [
+        {
+            "player": "gabriel arias",
+            "game": "laa @ cle",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-05-30 20:18:58",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "daniel schneemann",
             "game": "laa @ cle",
@@ -5248,9 +5248,9 @@
             "start": "8:05 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "90.9",
+            "la": "-2",
+            "dist": "35"
         },
         {
             "player": "brendan donovan",
