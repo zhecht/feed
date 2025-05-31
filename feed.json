@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "30",
         "batters": "200",
-        "pitches": "1434",
+        "pitches": "1438",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "65.2",
         "ff%fourseam fastball %": "31.2",
@@ -10,14 +10,14 @@
         "fc%cutter %": "8.2",
         "fs%splitter %": "3.0",
         "ch%changeup %": "13.4",
-        "sl%slider %": "19.4",
+        "sl%slider %": "19.5",
         "cu%curve %": "10.0",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "96",
-        "hh%hard hit %": "39.5",
+        "hh%hard hit %": "39.3",
         "brlbarrels": "28",
         "brl%barrel %": "11.5",
-        "ab": "337",
+        "ab": "338",
         "avg": ".249",
         "h": "84",
         "1b": "54",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "16",
         "so": "92",
-        "bipballs in play": "243",
+        "bipballs in play": "244",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 17:05:46.201647"
+        "updated": "2025-05-31 17:05:54.907998"
     },
     "cin @ chc": [
         {
@@ -1861,9 +1861,9 @@
             "start": "4:05 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "83.5",
+            "la": "-8",
+            "dist": "13"
         },
         {
             "player": "corey seager",
@@ -2739,6 +2739,21 @@
         }
     ],
     "mil @ phi": [
+        {
+            "player": "william contreras",
+            "game": "mil @ phi",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-05-31 17:05:49",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "4:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jackson chourio",
             "game": "mil @ phi",
@@ -5409,7 +5424,7 @@
         {
             "player": "otto lopez",
             "game": "sf @ mia",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "9",
             "dt": "2025-05-31 16:32:06",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
