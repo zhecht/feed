@@ -1,13 +1,13 @@
 {
     "all": {
-        "pitchers": "65",
+        "pitchers": "66",
         "batters": "211",
-        "pitches": "2637",
+        "pitches": "2641",
         "max velomax pitch velocity": "102.2",
         "min velomin pitch velocity": "65.2",
-        "ff%fourseam fastball %": "28.4",
+        "ff%fourseam fastball %": "28.5",
         "si%sinker %": "16.4",
-        "fc%cutter %": "9.3",
+        "fc%cutter %": "9.2",
         "fs%splitter %": "3.7",
         "ch%changeup %": "12.7",
         "sl%slider %": "20.9",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "37.9",
         "brlbarrels": "49",
         "brl%barrel %": "10.1",
-        "ab": "633",
+        "ab": "634",
         "avg": ".246",
         "h": "156",
         "1b": "97",
@@ -28,7 +28,7 @@
         "bipballs in play": "483",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 18:17:49.023060"
+        "updated": "2025-05-31 18:17:59.174382"
     },
     "cin @ chc": [
         {
@@ -2093,17 +2093,17 @@
         {
             "player": "josh smith",
             "game": "stl @ tex",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "59",
             "dt": "2025-05-31 18:15:35",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
             "start": "4:05 PM",
             "in": "8",
-            "result": "Flyout",
-            "evo": "85.3",
-            "la": "34",
-            "dist": "311"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "kyle higashioka",
@@ -2987,7 +2987,7 @@
             "team": "chw",
             "start": "4:05 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3894,6 +3894,21 @@
         }
     ],
     "mil @ phi": [
+        {
+            "player": "max kepler",
+            "game": "mil @ phi",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-05-31 18:17:52",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "4:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "91.0",
+            "la": "34",
+            "dist": "315"
+        },
         {
             "player": "caleb durbin",
             "game": "mil @ phi",
@@ -8465,6 +8480,21 @@
     ],
     "bos @ atl": [
         {
+            "player": "luke williams",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-05-31 18:17:52",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "4:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael harris",
             "game": "bos @ atl",
             "hr/park": "",
@@ -8474,7 +8504,7 @@
             "team": "atl",
             "start": "4:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "100.8",
             "la": "4",
             "dist": "88"
