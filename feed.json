@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "52",
+        "pitchers": "53",
         "batters": "204",
-        "pitches": "2305",
+        "pitches": "2317",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "29.6",
-        "si%sinker %": "16.1",
-        "fc%cutter %": "10.8",
+        "si%sinker %": "16.2",
+        "fc%cutter %": "10.7",
         "fs%splitter %": "4.7",
         "ch%changeup %": "8.9",
         "sl%slider %": "19.4",
-        "cu%curve %": "10.5",
+        "cu%curve %": "10.4",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "177",
-        "hh%hard hit %": "43.7",
+        "hh%hard hit %": "43.6",
         "brlbarrels": "41",
         "brl%barrel %": "10.1",
-        "ab": "535",
+        "ab": "539",
         "avg": ".247",
-        "h": "132",
+        "h": "133",
         "1b": "84",
-        "2b": "25",
+        "2b": "26",
         "3b": "3",
         "hr": "20",
-        "so": "136",
-        "bipballs in play": "405",
+        "so": "137",
+        "bipballs in play": "406",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-30 21:13:24.826275"
+        "updated": "2025-05-30 21:13:34.888881"
     },
     "cin @ chc": [
         {
@@ -2091,6 +2091,21 @@
     ],
     "mil @ phi": [
         {
+            "player": "alec bohm",
+            "game": "mil @ phi",
+            "hr/park": "",
+            "pa": "74",
+            "dt": "2025-05-30 21:13:28",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:45 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle schwarber",
             "game": "mil @ phi",
             "hr/park": "",
@@ -2100,10 +2115,10 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "88.0",
+            "la": "-30",
+            "dist": "6"
         },
         {
             "player": "isaac collins",
@@ -3188,16 +3203,31 @@
     ],
     "ath @ tor": [
         {
-            "player": "nathan lukes",
+            "player": "bo bichette",
             "game": "ath @ tor",
             "hr/park": "",
+            "pa": "63",
+            "dt": "2025-05-30 21:13:28",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "nathan lukes",
+            "game": "ath @ tor",
+            "hr/park": "5/30",
             "pa": "62",
             "dt": "2025-05-30 21:12:58",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "start": "7:07 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "99.6",
             "la": "24",
             "dist": "390"
@@ -5834,6 +5864,21 @@
     ],
     "sf @ mia": [
         {
+            "player": "agustin ramirez",
+            "game": "sf @ mia",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-05-30 21:13:28",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nick fortes",
             "game": "sf @ mia",
             "hr/park": "",
@@ -7458,6 +7503,21 @@
     ],
     "stl @ tex": [
         {
+            "player": "marcus semien",
+            "game": "stl @ tex",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-05-30 21:13:28",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle higashioka",
             "game": "stl @ tex",
             "hr/park": "",
@@ -7467,7 +7527,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
