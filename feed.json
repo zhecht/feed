@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "35",
         "batters": "187",
-        "pitches": "1707",
+        "pitches": "1713",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "69.6",
-        "ff%fourseam fastball %": "30.2",
+        "ff%fourseam fastball %": "30.1",
         "si%sinker %": "16.7",
-        "fc%cutter %": "11.1",
+        "fc%cutter %": "11.0",
         "fs%splitter %": "4.7",
         "ch%changeup %": "8.6",
-        "sl%slider %": "18.9",
-        "cu%curve %": "9.8",
+        "sl%slider %": "19.0",
+        "cu%curve %": "9.7",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "133",
-        "hh%hard hit %": "43.8",
+        "hhhard hit": "135",
+        "hh%hard hit %": "44.1",
         "brlbarrels": "29",
         "brl%barrel %": "9.5",
-        "ab": "397",
-        "avg": ".252",
-        "h": "100",
-        "1b": "65",
+        "ab": "400",
+        "avg": ".255",
+        "h": "102",
+        "1b": "67",
         "2b": "18",
         "3b": "2",
         "hr": "15",
         "so": "98",
-        "bipballs in play": "304",
+        "bipballs in play": "306",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-30 20:36:23.469357"
+        "updated": "2025-05-30 20:36:32.852333"
     },
     "cin @ chc": [
         {
@@ -2903,6 +2903,21 @@
     ],
     "ath @ tor": [
         {
+            "player": "denzel clarke",
+            "game": "ath @ tor",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-05-30 20:36:28",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "7:07 PM",
+            "in": "5",
+            "result": "Single",
+            "evo": "101.4",
+            "la": "14",
+            "dist": "273"
+        },
+        {
             "player": "drew avans",
             "game": "ath @ tor",
             "hr/park": "",
@@ -2912,7 +2927,7 @@
             "team": "ath",
             "start": "7:07 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "93.9",
             "la": "-5",
             "dist": "25"
@@ -4136,6 +4151,21 @@
         }
     ],
     "col @ nym": [
+        {
+            "player": "brenton doyle",
+            "game": "col @ nym",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-05-30 20:36:28",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "Single",
+            "evo": "105.2",
+            "la": "5",
+            "dist": "104"
+        },
         {
             "player": "thairo estrada",
             "game": "col @ nym",
@@ -5410,7 +5440,7 @@
             "team": "bos",
             "start": "7:15 PM",
             "in": "5",
-            "result": "Flyout",
+            "result": "In Progress",
             "evo": "91.7",
             "la": "57",
             "dist": "215"
@@ -6155,6 +6185,21 @@
     ],
     "det @ kc": [
         {
+            "player": "kerry carpenter",
+            "game": "det @ kc",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-05-30 20:35:59",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trey sweeney",
             "game": "det @ kc",
             "hr/park": "",
@@ -6164,7 +6209,7 @@
             "team": "det",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "101.7",
             "la": "",
             "dist": "58"
