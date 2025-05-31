@@ -2,25 +2,25 @@
     "all": {
         "pitchers": "33",
         "batters": "200",
-        "pitches": "1630",
+        "pitches": "1633",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "65.2",
-        "ff%fourseam fastball %": "28.7",
+        "ff%fourseam fastball %": "28.6",
         "si%sinker %": "15.8",
         "fc%cutter %": "9.5",
         "fs%splitter %": "3.6",
-        "ch%changeup %": "13.1",
-        "sl%slider %": "19.6",
+        "ch%changeup %": "13.0",
+        "sl%slider %": "19.7",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "112.5",
-        "hhhard hit": "113",
-        "hh%hard hit %": "38.8",
+        "hhhard hit": "112",
+        "hh%hard hit %": "38.5",
         "brlbarrels": "34",
         "brl%barrel %": "11.7",
-        "ab": "388",
-        "avg": ".255",
-        "h": "99",
-        "1b": "64",
+        "ab": "389",
+        "avg": ".252",
+        "h": "98",
+        "1b": "63",
         "2b": "15",
         "3b": "1",
         "hr": "19",
@@ -28,7 +28,7 @@
         "bipballs in play": "291",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 17:17:21.460627"
+        "updated": "2025-05-31 17:17:34.863737"
     },
     "cin @ chc": [
         {
@@ -988,7 +988,7 @@
             "team": "tor",
             "start": "3:07 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1895,6 +1895,21 @@
         }
     ],
     "stl @ tex": [
+        {
+            "player": "alejandro osuna",
+            "game": "stl @ tex",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-05-31 17:17:34",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "4:05 PM",
+            "in": "5",
+            "result": "Lineout",
+            "evo": "74.7",
+            "la": "16",
+            "dist": "185"
+        },
         {
             "player": "lars nootbaar",
             "game": "stl @ tex",
@@ -4351,21 +4366,6 @@
     ],
     "col @ nym": [
         {
-            "player": "brandon nimmo",
-            "game": "col @ nym",
-            "hr/park": "",
-            "pa": "33",
-            "dt": "2025-05-31 17:17:19",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "4:10 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "francisco lindor",
             "game": "col @ nym",
             "hr/park": "",
@@ -4375,10 +4375,10 @@
             "team": "nym",
             "start": "4:10 PM",
             "in": "4",
-            "result": "Single",
-            "evo": "97.1",
-            "la": "7",
-            "dist": "116"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "francisco alvarez",
@@ -5359,6 +5359,21 @@
         }
     ],
     "bos @ atl": [
+        {
+            "player": "trevor story",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-05-31 17:17:34",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "abraham toro",
             "game": "bos @ atl",
