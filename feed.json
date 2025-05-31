@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "93",
         "batters": "270",
-        "pitches": "3359",
+        "pitches": "3364",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "69.6",
-        "ff%fourseam fastball %": "29.4",
+        "ff%fourseam fastball %": "29.3",
         "si%sinker %": "17.5",
         "fc%cutter %": "10.1",
         "fs%splitter %": "3.5",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "45.6",
         "brlbarrels": "56",
         "brl%barrel %": "9.5",
-        "ab": "775",
+        "ab": "777",
         "avg": ".257",
-        "h": "199",
+        "h": "200",
         "1b": "134",
-        "2b": "32",
+        "2b": "33",
         "3b": "4",
         "hr": "29",
         "so": "195",
         "bipballs in play": "590",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-30 22:30:40.537526"
+        "updated": "2025-05-30 22:30:51.823877"
     },
     "cin @ chc": [
         {
@@ -11829,6 +11829,21 @@
     ],
     "wsh @ ari": [
         {
+            "player": "josh bell",
+            "game": "wsh @ ari",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-05-30 22:30:44",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "9:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis garcia",
             "game": "wsh @ ari",
             "hr/park": "",
@@ -12191,16 +12206,31 @@
     ],
     "pit @ sd": [
         {
-            "player": "manny machado",
+            "player": "jackson merrill",
             "game": "pit @ sd",
             "hr/park": "",
+            "pa": "26",
+            "dt": "2025-05-30 22:30:44",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "manny machado",
+            "game": "pit @ sd",
+            "hr/park": "0/30",
             "pa": "25",
             "dt": "2025-05-30 22:29:44",
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
             "team": "sd",
             "start": "9:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "101.2",
             "la": "17",
             "dist": "300"
