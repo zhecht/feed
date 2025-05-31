@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "29",
-        "batters": "144",
-        "pitches": "839",
+        "batters": "146",
+        "pitches": "848",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "33.3",
+        "ff%fourseam fastball %": "33.4",
         "si%sinker %": "11.8",
-        "fc%cutter %": "8.3",
-        "fs%splitter %": "2.9",
-        "ch%changeup %": "13.7",
-        "sl%slider %": "18.6",
-        "cu%curve %": "11.4",
+        "fc%cutter %": "8.4",
+        "fs%splitter %": "2.8",
+        "ch%changeup %": "13.6",
+        "sl%slider %": "18.5",
+        "cu%curve %": "11.6",
         "max evmax exit velocity": "112.5",
-        "hhhard hit": "54",
-        "hh%hard hit %": "37.5",
+        "hhhard hit": "55",
+        "hh%hard hit %": "38.2",
         "brlbarrels": "16",
         "brl%barrel %": "11.1",
-        "ab": "196",
-        "avg": ".245",
-        "h": "48",
-        "1b": "32",
+        "ab": "198",
+        "avg": ".247",
+        "h": "49",
+        "1b": "33",
         "2b": "6",
         "3b": "1",
         "hr": "9",
-        "so": "50",
+        "so": "51",
         "bipballs in play": "144",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 16:35:18.293670"
+        "updated": "2025-05-31 16:35:26.359255"
     },
     "cin @ chc": [
         {
@@ -41,7 +41,7 @@
             "team": "cin",
             "start": "2:20 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "87.0",
             "la": "43",
             "dist": "242"
@@ -1999,7 +1999,7 @@
             "team": "phi",
             "start": "4:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2560,10 +2560,10 @@
             "team": "nym",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "79.2",
-            "la": "-2",
-            "dist": "42"
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "tyrone taylor",
@@ -2733,6 +2733,21 @@
     ],
     "tb @ hou": [
         {
+            "player": "jake meyers",
+            "game": "tb @ hou",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-05-31 16:35:20",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cam smith",
             "game": "tb @ hou",
             "hr/park": "",
@@ -2742,7 +2757,7 @@
             "team": "hou",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "97.4",
             "la": "2",
             "dist": "61"
@@ -2939,7 +2954,7 @@
             "team": "atl",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3126,6 +3141,21 @@
         }
     ],
     "sf @ mia": [
+        {
+            "player": "tyler fitzgerald",
+            "game": "sf @ mia",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-05-31 16:35:20",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "Single",
+            "evo": "98.0",
+            "la": "12",
+            "dist": "220"
+        },
         {
             "player": "otto lopez",
             "game": "sf @ mia",
