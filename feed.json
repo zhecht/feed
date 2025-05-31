@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "17",
-        "batters": "61",
-        "pitches": "425",
+        "batters": "63",
+        "pitches": "433",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "37.4",
-        "si%sinker %": "10.8",
-        "fc%cutter %": "2.6",
-        "fs%splitter %": "0.9",
-        "ch%changeup %": "14.6",
-        "sl%slider %": "16.9",
-        "cu%curve %": "16.7",
+        "si%sinker %": "10.9",
+        "fc%cutter %": "3.0",
+        "fs%splitter %": "1.4",
+        "ch%changeup %": "14.5",
+        "sl%slider %": "16.4",
+        "cu%curve %": "16.4",
         "max evmax exit velocity": "112.5",
-        "hhhard hit": "25",
-        "hh%hard hit %": "35.2",
+        "hhhard hit": "26",
+        "hh%hard hit %": "35.6",
         "brlbarrels": "10",
-        "brl%barrel %": "14.1",
-        "ab": "99",
-        "avg": ".232",
+        "brl%barrel %": "13.7",
+        "ab": "101",
+        "avg": ".228",
         "h": "23",
         "1b": "15",
         "2b": "2",
         "3b": "0",
         "hr": "6",
         "so": "24",
-        "bipballs in play": "71",
+        "bipballs in play": "73",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 16:14:43.349178"
+        "updated": "2025-05-31 16:14:50.935395"
     },
     "cin @ chc": [
         {
@@ -831,7 +831,7 @@
         {
             "player": "daulton varsho",
             "game": "ath @ tor",
-            "hr/park": "",
+            "hr/park": "11/30",
             "pa": "32",
             "dt": "2025-05-31 16:13:18",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
@@ -1320,10 +1320,10 @@
             "team": "stl",
             "start": "4:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "41.6",
+            "la": "-44",
+            "dist": "4"
         },
         {
             "player": "masyn winn",
@@ -1536,7 +1536,7 @@
             "team": "laa",
             "start": "4:10 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1559,6 +1559,21 @@
     ],
     "det @ kc": [],
     "col @ nym": [
+        {
+            "player": "ezequiel tovar",
+            "game": "col @ nym",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-05-31 16:14:49",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jordan beck",
             "game": "col @ nym",
@@ -1624,6 +1639,21 @@
     ],
     "bos @ atl": [
         {
+            "player": "wilyer abreu",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-05-31 16:14:49",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "rafael devers",
             "game": "bos @ atl",
             "hr/park": "",
@@ -1633,10 +1663,10 @@
             "team": "bos",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "104.2",
+            "la": "-7",
+            "dist": "24"
         },
         {
             "player": "jarren duran",
