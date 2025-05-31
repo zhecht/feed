@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "82",
+        "pitchers": "83",
         "batters": "237",
-        "pitches": "3081",
+        "pitches": "3088",
         "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "69.6",
-        "ff%fourseam fastball %": "29.4",
+        "ff%fourseam fastball %": "29.3",
         "si%sinker %": "16.9",
         "fc%cutter %": "10.0",
         "fs%splitter %": "3.7",
         "ch%changeup %": "8.7",
-        "sl%slider %": "20.3",
+        "sl%slider %": "20.2",
         "cu%curve %": "11.0",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "242",
-        "hh%hard hit %": "45.5",
+        "hhhard hit": "244",
+        "hh%hard hit %": "45.7",
         "brlbarrels": "48",
         "brl%barrel %": "9.0",
-        "ab": "704",
-        "avg": ".253",
-        "h": "178",
-        "1b": "121",
+        "ab": "705",
+        "avg": ".254",
+        "h": "179",
+        "1b": "122",
         "2b": "32",
         "3b": "3",
         "hr": "22",
         "so": "181",
-        "bipballs in play": "532",
+        "bipballs in play": "534",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-30 22:09:10.158838"
+        "updated": "2025-05-30 22:09:20.813313"
     },
     "cin @ chc": [
         {
@@ -3227,7 +3227,7 @@
             "team": "ath",
             "start": "7:07 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "75.3",
             "la": "28",
             "dist": "261"
@@ -4519,7 +4519,7 @@
             "team": "cle",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Defensive Indiff",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7801,6 +7801,21 @@
     ],
     "bos @ atl": [
         {
+            "player": "jarren duran",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-05-30 22:09:13",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:15 PM",
+            "in": "9",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ceddanne rafaela",
             "game": "bos @ atl",
             "hr/park": "",
@@ -10516,10 +10531,10 @@
             "team": "tb",
             "start": "8:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "103.6",
+            "la": "-8",
+            "dist": "12"
         },
         {
             "player": "jose caballero",
@@ -11388,10 +11403,10 @@
             "team": "ari",
             "start": "9:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "99.2",
+            "la": "-15",
+            "dist": "8"
         },
         {
             "player": "eugenio suarez",
