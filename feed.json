@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "22",
-        "batters": "87",
-        "pitches": "563",
+        "pitchers": "24",
+        "batters": "90",
+        "pitches": "575",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "34.8",
+        "ff%fourseam fastball %": "34.4",
         "si%sinker %": "11.0",
         "fc%cutter %": "7.5",
         "fs%splitter %": "2.8",
-        "ch%changeup %": "12.8",
-        "sl%slider %": "17.4",
-        "cu%curve %": "13.7",
+        "ch%changeup %": "13.2",
+        "sl%slider %": "17.6",
+        "cu%curve %": "13.6",
         "max evmax exit velocity": "112.5",
-        "hhhard hit": "36",
-        "hh%hard hit %": "37.1",
-        "brlbarrels": "13",
-        "brl%barrel %": "13.4",
-        "ab": "130",
-        "avg": ".277",
-        "h": "36",
+        "hhhard hit": "37",
+        "hh%hard hit %": "37.0",
+        "brlbarrels": "14",
+        "brl%barrel %": "14.0",
+        "ab": "134",
+        "avg": ".276",
+        "h": "37",
         "1b": "23",
-        "2b": "4",
+        "2b": "5",
         "3b": "0",
         "hr": "9",
         "so": "30",
-        "bipballs in play": "97",
+        "bipballs in play": "100",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 16:22:14.479795"
+        "updated": "2025-05-31 16:22:22.355956"
     },
     "cin @ chc": [
+        {
+            "player": "pete crow armstrong",
+            "game": "cin @ chc",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-05-31 16:21:49",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:20 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "carson kelly",
             "game": "cin @ chc",
@@ -898,10 +913,10 @@
             "team": "ath",
             "start": "3:07 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "85.0",
+            "la": "-14",
+            "dist": "9"
         },
         {
             "player": "jacob wilson",
@@ -1827,6 +1842,21 @@
     ],
     "laa @ cle": [
         {
+            "player": "steven kwan",
+            "game": "laa @ cle",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-05-31 16:22:19",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "taylor ward",
             "game": "laa @ cle",
             "hr/park": "0/30",
@@ -1898,10 +1928,10 @@
             "team": "det",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "79.8",
+            "la": "66",
+            "dist": "140"
         }
     ],
     "col @ nym": [
@@ -2077,17 +2107,17 @@
         {
             "player": "matt olson",
             "game": "bos @ atl",
-            "hr/park": "",
+            "hr/park": "4/30",
             "pa": "7",
             "dt": "2025-05-31 16:21:34",
             "img": "https://www.mlbstatic.com/team-logos/144.svg",
             "team": "atl",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "104.3",
+            "la": "21",
+            "dist": "382"
         },
         {
             "player": "marcell ozuna",
@@ -2181,6 +2211,21 @@
         }
     ],
     "sf @ mia": [
+        {
+            "player": "willy adames",
+            "game": "sf @ mia",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-05-31 16:22:19",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "matt chapman",
             "game": "sf @ mia",
