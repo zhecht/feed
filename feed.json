@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "38",
         "batters": "199",
-        "pitches": "1849",
+        "pitches": "1857",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "69.6",
-        "ff%fourseam fastball %": "29.8",
+        "ff%fourseam fastball %": "30.0",
         "si%sinker %": "16.3",
         "fc%cutter %": "11.1",
         "fs%splitter %": "4.8",
@@ -13,22 +13,22 @@
         "sl%slider %": "19.1",
         "cu%curve %": "10.0",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "145",
+        "hhhard hit": "146",
         "hh%hard hit %": "43.3",
         "brlbarrels": "32",
-        "brl%barrel %": "9.6",
+        "brl%barrel %": "9.5",
         "ab": "439",
-        "avg": ".255",
-        "h": "112",
+        "avg": ".257",
+        "h": "113",
         "1b": "74",
         "2b": "20",
-        "3b": "2",
+        "3b": "3",
         "hr": "16",
         "so": "105",
-        "bipballs in play": "335",
+        "bipballs in play": "337",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-30 20:44:50.344289"
+        "updated": "2025-05-30 20:44:59.786243"
     },
     "cin @ chc": [
         {
@@ -2091,6 +2091,21 @@
     ],
     "mil @ phi": [
         {
+            "player": "caleb durbin",
+            "game": "mil @ phi",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-05-30 20:44:58",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "6:45 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "isaac collins",
             "game": "mil @ phi",
             "hr/park": "",
@@ -3002,7 +3017,7 @@
             "team": "ath",
             "start": "7:07 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5785,10 +5800,10 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "99.9",
+            "la": "-3",
+            "dist": "24"
         },
         {
             "player": "rafael devers",
@@ -6387,7 +6402,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Triple",
             "evo": "77.0",
             "la": "29",
             "dist": "244"
