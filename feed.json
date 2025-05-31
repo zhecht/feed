@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "33",
         "batters": "200",
-        "pitches": "1820",
+        "pitches": "1821",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "65.2",
-        "ff%fourseam fastball %": "28.0",
-        "si%sinker %": "16.5",
-        "fc%cutter %": "10.1",
+        "ff%fourseam fastball %": "27.8",
+        "si%sinker %": "16.6",
+        "fc%cutter %": "10.0",
         "fs%splitter %": "3.7",
         "ch%changeup %": "12.9",
         "sl%slider %": "19.7",
         "cu%curve %": "9.2",
         "max evmax exit velocity": "112.5",
-        "hhhard hit": "124",
-        "hh%hard hit %": "38.2",
+        "hhhard hit": "126",
+        "hh%hard hit %": "38.5",
         "brlbarrels": "37",
-        "brl%barrel %": "11.4",
-        "ab": "437",
+        "brl%barrel %": "11.3",
+        "ab": "436",
         "avg": ".259",
         "h": "113",
         "1b": "72",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "22",
         "so": "110",
-        "bipballs in play": "325",
+        "bipballs in play": "327",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 17:27:27.704688"
+        "updated": "2025-05-31 17:27:37.143598"
     },
     "cin @ chc": [
         {
@@ -4304,6 +4304,21 @@
     ],
     "det @ kc": [
         {
+            "player": "vinnie pasquantino",
+            "game": "det @ kc",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-05-31 17:27:35",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nick loftin",
             "game": "det @ kc",
             "hr/park": "",
@@ -4780,10 +4795,10 @@
             "team": "col",
             "start": "4:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "96.8",
+            "la": "-34",
+            "dist": "4"
         },
         {
             "player": "brenton doyle",
@@ -5342,21 +5357,6 @@
         }
     ],
     "tb @ hou": [
-        {
-            "player": "jeremy pena",
-            "game": "tb @ hou",
-            "hr/park": "",
-            "pa": "40",
-            "dt": "2025-05-31 17:27:21",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "4:10 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "brandon lowe",
             "game": "tb @ hou",
@@ -5939,10 +5939,10 @@
             "team": "atl",
             "start": "4:10 PM",
             "in": "5",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "104.6",
+            "la": "7",
+            "dist": "121"
         },
         {
             "player": "marcell ozuna",
@@ -6547,24 +6547,9 @@
     ],
     "sf @ mia": [
         {
-            "player": "jack winkler",
-            "game": "sf @ mia",
-            "hr/park": "",
-            "pa": "38",
-            "dt": "2025-05-31 17:27:21",
-            "img": "https://www.mlbstatic.com/team-logos/146.svg",
-            "team": "mia",
-            "start": "4:10 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "javier sanoja",
             "game": "sf @ mia",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "37",
             "dt": "2025-05-31 17:25:50",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
