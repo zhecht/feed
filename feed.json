@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "75",
         "batters": "221",
-        "pitches": "2826",
+        "pitches": "2832",
         "max velomax pitch velocity": "102.2",
         "min velomin pitch velocity": "43.2",
         "ff%fourseam fastball %": "28.9",
@@ -10,7 +10,7 @@
         "fc%cutter %": "9.4",
         "fs%splitter %": "3.6",
         "ch%changeup %": "12.1",
-        "sl%slider %": "21.2",
+        "sl%slider %": "21.3",
         "cu%curve %": "8.4",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "196",
@@ -28,7 +28,7 @@
         "bipballs in play": "518",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 18:30:40.392406"
+        "updated": "2025-05-31 18:30:50.797823"
     },
     "cin @ chc": [
         {
@@ -3077,7 +3077,7 @@
             "team": "bal",
             "start": "4:05 PM",
             "in": "8",
-            "result": "Mound Visit",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4047,17 +4047,17 @@
         {
             "player": "bryson stott",
             "game": "mil @ phi",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "75",
             "dt": "2025-05-31 18:29:50",
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "start": "4:05 PM",
             "in": "8",
-            "result": "Lineout",
-            "evo": "92.0",
-            "la": "18",
-            "dist": "305"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "edmundo sosa",
@@ -5171,6 +5171,21 @@
         }
     ],
     "laa @ cle": [
+        {
+            "player": "bo naylor",
+            "game": "laa @ cle",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-05-31 18:30:50",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "daniel schneemann",
             "game": "laa @ cle",
@@ -7016,9 +7031,9 @@
             "start": "4:10 PM",
             "in": "8",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "69.2",
+            "la": "-25",
+            "dist": "4"
         },
         {
             "player": "francisco lindor",
