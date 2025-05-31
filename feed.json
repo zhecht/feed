@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "30",
         "batters": "200",
-        "pitches": "1515",
+        "pitches": "1517",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "65.2",
         "ff%fourseam fastball %": "28.8",
-        "si%sinker %": "15.3",
-        "fc%cutter %": "9.9",
-        "fs%splitter %": "3.2",
-        "ch%changeup %": "13.5",
+        "si%sinker %": "15.2",
+        "fc%cutter %": "10.0",
+        "fs%splitter %": "3.3",
+        "ch%changeup %": "13.4",
         "sl%slider %": "19.5",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "102",
-        "hh%hard hit %": "38.9",
+        "hh%hard hit %": "38.8",
         "brlbarrels": "31",
         "brl%barrel %": "11.8",
-        "ab": "353",
-        "avg": ".252",
+        "ab": "356",
+        "avg": ".250",
         "h": "89",
         "1b": "57",
         "2b": "14",
         "3b": "1",
         "hr": "17",
         "so": "93",
-        "bipballs in play": "262",
+        "bipballs in play": "263",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 17:10:46.590849"
+        "updated": "2025-05-31 17:10:55.137810"
     },
     "cin @ chc": [
         {
@@ -2303,6 +2303,21 @@
     ],
     "chw @ bal": [
         {
+            "player": "vinny capra",
+            "game": "chw @ bal",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-05-31 17:10:49",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "4:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "coby mayo",
             "game": "chw @ bal",
             "hr/park": "",
@@ -4075,10 +4090,10 @@
             "team": "col",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "86.9",
+            "la": "44",
+            "dist": "248"
         },
         {
             "player": "ezequiel tovar",
@@ -4970,6 +4985,21 @@
     ],
     "bos @ atl": [
         {
+            "player": "michael harris",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-05-31 17:10:49",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "4:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alex verdugo",
             "game": "bos @ atl",
             "hr/park": "",
@@ -5422,6 +5452,21 @@
     ],
     "sf @ mia": [
         {
+            "player": "tyler fitzgerald",
+            "game": "sf @ mia",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-05-31 17:10:19",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mike yastrzemski",
             "game": "sf @ mia",
             "hr/park": "",
@@ -5431,7 +5476,7 @@
             "team": "sf",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Field Error",
             "evo": "76.8",
             "la": "-14",
             "dist": "9"
