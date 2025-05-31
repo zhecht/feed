@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "92",
+        "pitchers": "93",
         "batters": "268",
-        "pitches": "3331",
+        "pitches": "3337",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "29.3",
@@ -10,14 +10,14 @@
         "fc%cutter %": "10.1",
         "fs%splitter %": "3.6",
         "ch%changeup %": "8.5",
-        "sl%slider %": "20.1",
+        "sl%slider %": "20.2",
         "cu%curve %": "10.9",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "264",
-        "hh%hard hit %": "45.2",
+        "hhhard hit": "265",
+        "hh%hard hit %": "45.3",
         "brlbarrels": "56",
         "brl%barrel %": "9.6",
-        "ab": "766",
+        "ab": "768",
         "avg": ".257",
         "h": "197",
         "1b": "132",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "29",
         "so": "193",
-        "bipballs in play": "584",
+        "bipballs in play": "585",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-30 22:28:36.796737"
+        "updated": "2025-05-30 22:28:47.835502"
     },
     "cin @ chc": [
         {
@@ -9920,6 +9920,21 @@
     ],
     "det @ kc": [
         {
+            "player": "drew waters",
+            "game": "det @ kc",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-05-30 22:27:44",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "maikel garcia",
             "game": "det @ kc",
             "hr/park": "",
@@ -12116,6 +12131,21 @@
     ],
     "pit @ sd": [
         {
+            "player": "luis arraez",
+            "game": "pit @ sd",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-05-30 22:28:43",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "97.5",
+            "la": "9",
+            "dist": "148"
+        },
+        {
             "player": "fernando tatis",
             "game": "pit @ sd",
             "hr/park": "",
@@ -12125,7 +12155,7 @@
             "team": "sd",
             "start": "9:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "87.8",
             "la": "-18",
             "dist": "8"
