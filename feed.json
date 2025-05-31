@@ -2,12 +2,12 @@
     "all": {
         "pitchers": "33",
         "batters": "200",
-        "pitches": "1706",
+        "pitches": "1713",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "65.2",
-        "ff%fourseam fastball %": "28.2",
-        "si%sinker %": "16.1",
-        "fc%cutter %": "9.8",
+        "ff%fourseam fastball %": "28.1",
+        "si%sinker %": "16.2",
+        "fc%cutter %": "9.9",
         "fs%splitter %": "3.6",
         "ch%changeup %": "12.8",
         "sl%slider %": "19.6",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "38.2",
         "brlbarrels": "36",
         "brl%barrel %": "11.8",
-        "ab": "410",
-        "avg": ".254",
-        "h": "104",
-        "1b": "66",
+        "ab": "411",
+        "avg": ".255",
+        "h": "105",
+        "1b": "67",
         "2b": "16",
         "3b": "1",
         "hr": "21",
-        "so": "104",
+        "so": "105",
         "bipballs in play": "306",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 17:21:41.671070"
+        "updated": "2025-05-31 17:21:50.847908"
     },
     "cin @ chc": [
         {
@@ -2462,7 +2462,7 @@
             "team": "chw",
             "start": "4:05 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5058,6 +5058,21 @@
     ],
     "tb @ hou": [
         {
+            "player": "jose caballero",
+            "game": "tb @ hou",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-05-31 17:21:49",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "christopher morel",
             "game": "tb @ hou",
             "hr/park": "",
@@ -5609,7 +5624,7 @@
             "team": "bos",
             "start": "4:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "68.0",
             "la": "20",
             "dist": "171"
