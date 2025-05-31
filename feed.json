@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "31",
         "batters": "200",
-        "pitches": "1533",
+        "pitches": "1541",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "65.2",
         "ff%fourseam fastball %": "28.7",
         "si%sinker %": "15.3",
-        "fc%cutter %": "9.9",
+        "fc%cutter %": "10.0",
         "fs%splitter %": "3.3",
-        "ch%changeup %": "13.3",
+        "ch%changeup %": "13.2",
         "sl%slider %": "19.8",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "112.5",
-        "hhhard hit": "103",
-        "hh%hard hit %": "38.6",
+        "hhhard hit": "105",
+        "hh%hard hit %": "38.7",
         "brlbarrels": "32",
-        "brl%barrel %": "12.0",
-        "ab": "360",
-        "avg": ".250",
-        "h": "90",
-        "1b": "58",
+        "brl%barrel %": "11.8",
+        "ab": "362",
+        "avg": ".254",
+        "h": "92",
+        "1b": "60",
         "2b": "14",
         "3b": "1",
         "hr": "17",
         "so": "93",
-        "bipballs in play": "267",
+        "bipballs in play": "271",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 17:11:48.672881"
+        "updated": "2025-05-31 17:11:57.735161"
     },
     "cin @ chc": [
         {
@@ -988,7 +988,7 @@
             "team": "ath",
             "start": "3:07 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1875,10 +1875,10 @@
             "team": "stl",
             "start": "4:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "72.5",
+            "la": "-4",
+            "dist": "28"
         },
         {
             "player": "alec burleson",
@@ -2317,6 +2317,21 @@
         }
     ],
     "chw @ bal": [
+        {
+            "player": "mike tauchman",
+            "game": "chw @ bal",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-05-31 17:11:51",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "4:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "vinny capra",
             "game": "chw @ bal",
@@ -3329,17 +3344,17 @@
         {
             "player": "travis darnaud",
             "game": "laa @ cle",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "30",
             "dt": "2025-05-31 17:11:20",
             "img": "https://www.mlbstatic.com/team-logos/108.svg",
             "team": "laa",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "96.8",
+            "la": "23",
+            "dist": "323"
         },
         {
             "player": "mike trout",
@@ -4126,6 +4141,21 @@
     ],
     "col @ nym": [
         {
+            "player": "ryan mcmahon",
+            "game": "col @ nym",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-05-31 17:11:51",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:10 PM",
+            "in": "4",
+            "result": "Flyout",
+            "evo": "83.9",
+            "la": "36",
+            "dist": "264"
+        },
+        {
             "player": "hunter goodman",
             "game": "col @ nym",
             "hr/park": "",
@@ -4557,10 +4587,10 @@
             "team": "hou",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "97.9",
+            "la": "1",
+            "dist": "53"
         },
         {
             "player": "cam smith",
