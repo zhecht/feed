@@ -1,36 +1,51 @@
 {
     "all": {
         "pitchers": "11",
-        "batters": "41",
-        "pitches": "342",
+        "batters": "42",
+        "pitches": "347",
         "max velomax pitch velocity": "98.0",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "38.6",
-        "si%sinker %": "8.8",
-        "fc%cutter %": "0.3",
+        "ff%fourseam fastball %": "38.3",
+        "si%sinker %": "8.9",
+        "fc%cutter %": "0.6",
         "fs%splitter %": "0.6",
-        "ch%changeup %": "15.8",
-        "sl%slider %": "16.1",
-        "cu%curve %": "19.9",
+        "ch%changeup %": "15.6",
+        "sl%slider %": "16.4",
+        "cu%curve %": "19.6",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "16",
-        "hh%hard hit %": "31.4",
+        "hh%hard hit %": "30.2",
         "brlbarrels": "6",
-        "brl%barrel %": "11.8",
-        "ab": "75",
-        "avg": ".240",
-        "h": "18",
-        "1b": "12",
+        "brl%barrel %": "11.3",
+        "ab": "77",
+        "avg": ".247",
+        "h": "19",
+        "1b": "13",
         "2b": "2",
         "3b": "0",
         "hr": "4",
         "so": "22",
-        "bipballs in play": "51",
+        "bipballs in play": "53",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 16:10:18.337369"
+        "updated": "2025-05-31 16:10:25.697897"
     },
     "cin @ chc": [
+        {
+            "player": "jose trevino",
+            "game": "cin @ chc",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-05-31 16:10:20",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "2:20 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "gavin lux",
             "game": "cin @ chc",
@@ -41,7 +56,7 @@
             "team": "cin",
             "start": "2:20 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "83.7",
             "la": "-23",
             "dist": "5"
@@ -1245,10 +1260,10 @@
             "team": "stl",
             "start": "4:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "52.0",
+            "la": "-22",
+            "dist": "9"
         }
     ],
     "chw @ bal": [
@@ -1284,6 +1299,21 @@
         }
     ],
     "mil @ phi": [
+        {
+            "player": "christian yelich",
+            "game": "mil @ phi",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-05-31 16:10:20",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "Single",
+            "evo": "88.6",
+            "la": "18",
+            "dist": "275"
+        },
         {
             "player": "william contreras",
             "game": "mil @ phi",
