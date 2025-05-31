@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "33",
         "batters": "200",
-        "pitches": "1754",
+        "pitches": "1759",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "65.2",
         "ff%fourseam fastball %": "27.9",
         "si%sinker %": "16.4",
         "fc%cutter %": "9.8",
-        "fs%splitter %": "3.6",
+        "fs%splitter %": "3.7",
         "ch%changeup %": "13.1",
         "sl%slider %": "19.7",
-        "cu%curve %": "9.5",
+        "cu%curve %": "9.4",
         "max evmax exit velocity": "112.5",
-        "hhhard hit": "120",
-        "hh%hard hit %": "38.1",
+        "hhhard hit": "121",
+        "hh%hard hit %": "38.2",
         "brlbarrels": "37",
         "brl%barrel %": "11.7",
-        "ab": "420",
+        "ab": "421",
         "avg": ".257",
         "h": "108",
         "1b": "69",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "22",
         "so": "107",
-        "bipballs in play": "315",
+        "bipballs in play": "317",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 17:24:16.115947"
+        "updated": "2025-05-31 17:24:25.205669"
     },
     "cin @ chc": [
         {
@@ -988,7 +988,7 @@
             "team": "ath",
             "start": "3:07 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3657,6 +3657,21 @@
     ],
     "laa @ cle": [
         {
+            "player": "nolan jones",
+            "game": "laa @ cle",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-05-31 17:24:19",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "4:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "96.3",
+            "la": "20",
+            "dist": "309"
+        },
+        {
             "player": "gabriel arias",
             "game": "laa @ cle",
             "hr/park": "",
@@ -4645,10 +4660,10 @@
             "team": "col",
             "start": "4:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "58.1",
+            "la": "7",
+            "dist": "64"
         },
         {
             "player": "pete alonso",
