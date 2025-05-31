@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "11",
-        "batters": "44",
-        "pitches": "361",
+        "pitchers": "12",
+        "batters": "45",
+        "pitches": "364",
         "max velomax pitch velocity": "98.0",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "38.0",
-        "si%sinker %": "9.7",
-        "fc%cutter %": "1.1",
+        "ff%fourseam fastball %": "37.9",
+        "si%sinker %": "9.9",
+        "fc%cutter %": "1.4",
         "fs%splitter %": "0.8",
-        "ch%changeup %": "15.0",
-        "sl%slider %": "16.3",
-        "cu%curve %": "19.1",
+        "ch%changeup %": "14.8",
+        "sl%slider %": "16.2",
+        "cu%curve %": "19.0",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "17",
         "hh%hard hit %": "29.8",
         "brlbarrels": "7",
         "brl%barrel %": "12.3",
-        "ab": "80",
-        "avg": ".250",
+        "ab": "81",
+        "avg": ".247",
         "h": "20",
         "1b": "13",
         "2b": "2",
@@ -28,7 +28,7 @@
         "bipballs in play": "57",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 16:11:47.810719"
+        "updated": "2025-05-31 16:11:55.189899"
     },
     "cin @ chc": [
         {
@@ -1332,7 +1332,7 @@
         {
             "player": "rhys hoskins",
             "game": "mil @ phi",
-            "hr/park": "",
+            "hr/park": "24/30",
             "pa": "4",
             "dt": "2025-05-31 16:11:05",
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
@@ -1394,7 +1394,23 @@
     "det @ kc": [],
     "col @ nym": [],
     "tb @ hou": [],
-    "bos @ atl": [],
+    "bos @ atl": [
+        {
+            "player": "jarren duran",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-31 16:11:50",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "sf @ mia": [],
     "min @ sea": [],
     "nyy @ lad": [],
