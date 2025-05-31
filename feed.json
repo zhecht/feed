@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "37",
         "batters": "200",
-        "pitches": "1926",
-        "max velomax pitch velocity": "101.0",
+        "pitches": "1932",
+        "max velomax pitch velocity": "102.2",
         "min velomin pitch velocity": "65.2",
-        "ff%fourseam fastball %": "28.0",
+        "ff%fourseam fastball %": "28.1",
         "si%sinker %": "16.4",
-        "fc%cutter %": "9.9",
+        "fc%cutter %": "9.8",
         "fs%splitter %": "3.8",
-        "ch%changeup %": "13.2",
+        "ch%changeup %": "13.3",
         "sl%slider %": "19.3",
         "cu%curve %": "9.3",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "134",
-        "hh%hard hit %": "38.5",
+        "hh%hard hit %": "38.2",
         "brlbarrels": "38",
-        "brl%barrel %": "10.9",
+        "brl%barrel %": "10.8",
         "ab": "464",
         "avg": ".250",
         "h": "116",
@@ -24,11 +24,11 @@
         "2b": "17",
         "3b": "2",
         "hr": "23",
-        "so": "116",
-        "bipballs in play": "348",
+        "so": "115",
+        "bipballs in play": "351",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 17:33:32.722479"
+        "updated": "2025-05-31 17:33:41.924205"
     },
     "cin @ chc": [
         {
@@ -2603,6 +2603,21 @@
     ],
     "chw @ bal": [
         {
+            "player": "lenyn sosa",
+            "game": "chw @ bal",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-05-31 17:33:35",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "4:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "joshua palacios",
             "game": "chw @ bal",
             "hr/park": "",
@@ -3249,21 +3264,6 @@
         }
     ],
     "mil @ phi": [
-        {
-            "player": "william contreras",
-            "game": "mil @ phi",
-            "hr/park": "",
-            "pa": "44",
-            "dt": "2025-05-31 17:33:20",
-            "img": "https://www.mlbstatic.com/team-logos/158.svg",
-            "team": "mil",
-            "start": "4:05 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "jackson chourio",
             "game": "mil @ phi",
@@ -4523,10 +4523,10 @@
             "team": "det",
             "start": "4:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "91.5",
+            "la": "-25",
+            "dist": "7"
         },
         {
             "player": "trey sweeney",
@@ -6284,7 +6284,7 @@
             "team": "bos",
             "start": "4:10 PM",
             "in": "6",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6946,10 +6946,10 @@
             "team": "sf",
             "start": "4:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "73.7",
+            "la": "59",
+            "dist": "159"
         },
         {
             "player": "wilmer flores",
