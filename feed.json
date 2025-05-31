@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "44",
         "batters": "202",
-        "pitches": "2230",
+        "pitches": "2232",
         "max velomax pitch velocity": "102.2",
         "min velomin pitch velocity": "65.2",
-        "ff%fourseam fastball %": "28.2",
-        "si%sinker %": "16.7",
+        "ff%fourseam fastball %": "28.1",
+        "si%sinker %": "16.8",
         "fc%cutter %": "9.4",
         "fs%splitter %": "3.9",
         "ch%changeup %": "13.2",
@@ -14,10 +14,10 @@
         "cu%curve %": "9.4",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "151",
-        "hh%hard hit %": "37.3",
+        "hh%hard hit %": "37.2",
         "brlbarrels": "42",
-        "brl%barrel %": "10.4",
-        "ab": "536",
+        "brl%barrel %": "10.3",
+        "ab": "537",
         "avg": ".248",
         "h": "133",
         "1b": "84",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "25",
         "so": "136",
-        "bipballs in play": "405",
+        "bipballs in play": "406",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 17:51:29.491359"
+        "updated": "2025-05-31 17:51:39.417384"
     },
     "cin @ chc": [
         {
@@ -4392,6 +4392,21 @@
     ],
     "laa @ cle": [
         {
+            "player": "daniel schneemann",
+            "game": "laa @ cle",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-05-31 17:51:34",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "86.2",
+            "la": "68",
+            "dist": "135"
+        },
+        {
             "player": "carlos santana",
             "game": "laa @ cle",
             "hr/park": "",
@@ -5108,7 +5123,7 @@
             "team": "kc",
             "start": "4:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5755,7 +5770,7 @@
             "team": "nym",
             "start": "4:10 PM",
             "in": "6",
-            "result": "GIDP",
+            "result": "In Progress",
             "evo": "89.9",
             "la": "-16",
             "dist": "9"
