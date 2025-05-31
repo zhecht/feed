@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "43",
         "batters": "202",
-        "pitches": "2202",
+        "pitches": "2207",
         "max velomax pitch velocity": "102.2",
         "min velomin pitch velocity": "65.2",
-        "ff%fourseam fastball %": "28.2",
+        "ff%fourseam fastball %": "28.3",
         "si%sinker %": "16.6",
         "fc%cutter %": "9.4",
         "fs%splitter %": "3.9",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.3",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "147",
-        "hh%hard hit %": "37.0",
+        "hh%hard hit %": "36.9",
         "brlbarrels": "40",
         "brl%barrel %": "10.1",
-        "ab": "529",
-        "avg": ".248",
+        "ab": "531",
+        "avg": ".247",
         "h": "131",
         "1b": "82",
         "2b": "22",
         "3b": "2",
         "hr": "25",
         "so": "134",
-        "bipballs in play": "397",
+        "bipballs in play": "398",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 17:49:31.463363"
+        "updated": "2025-05-31 17:49:41.397338"
     },
     "cin @ chc": [
         {
@@ -2090,6 +2090,21 @@
         }
     ],
     "stl @ tex": [
+        {
+            "player": "victor scott",
+            "game": "stl @ tex",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-05-31 17:49:34",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "4:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "pedro pages",
             "game": "stl @ tex",
@@ -5064,9 +5079,9 @@
             "start": "4:10 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "91.5",
+            "la": "5",
+            "dist": "96"
         },
         {
             "player": "riley greene",
@@ -7160,6 +7175,21 @@
     ],
     "bos @ atl": [
         {
+            "player": "marcelo mayer",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-05-31 17:49:34",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "drake baldwin",
             "game": "bos @ atl",
             "hr/park": "",
@@ -7936,7 +7966,7 @@
             "team": "mia",
             "start": "4:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "102.5",
             "la": "-12",
             "dist": "11"
