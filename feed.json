@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "36",
         "batters": "194",
-        "pitches": "1771",
+        "pitches": "1777",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "29.9",
-        "si%sinker %": "16.7",
+        "si%sinker %": "16.8",
         "fc%cutter %": "11.1",
         "fs%splitter %": "4.8",
         "ch%changeup %": "8.6",
-        "sl%slider %": "18.9",
+        "sl%slider %": "19.0",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "143",
-        "hh%hard hit %": "44.5",
+        "hh%hard hit %": "44.1",
         "brlbarrels": "31",
-        "brl%barrel %": "9.7",
+        "brl%barrel %": "9.6",
         "ab": "422",
         "avg": ".254",
         "h": "107",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "16",
         "so": "102",
-        "bipballs in play": "321",
+        "bipballs in play": "324",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-30 20:40:27.836897"
+        "updated": "2025-05-30 20:40:36.954042"
     },
     "cin @ chc": [
         {
@@ -2962,21 +2962,6 @@
         }
     ],
     "ath @ tor": [
-        {
-            "player": "brent rooker",
-            "game": "ath @ tor",
-            "hr/park": "",
-            "pa": "46",
-            "dt": "2025-05-30 20:39:44",
-            "img": "https://www.mlbstatic.com/team-logos/133.svg",
-            "team": "ath",
-            "start": "7:07 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "jacob wilson",
             "game": "ath @ tor",
@@ -6223,9 +6208,9 @@
             "start": "8:05 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "91.2",
+            "la": "15",
+            "dist": "186"
         },
         {
             "player": "kyle higashioka",
@@ -6727,6 +6712,21 @@
     ],
     "tb @ hou": [
         {
+            "player": "jose caballero",
+            "game": "tb @ hou",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-05-30 20:40:30",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "75.4",
+            "la": "2",
+            "dist": "50"
+        },
+        {
             "player": "taylor walls",
             "game": "tb @ hou",
             "hr/park": "",
@@ -6736,10 +6736,10 @@
             "team": "tb",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "78.0",
+            "la": "-14",
+            "dist": "10"
         },
         {
             "player": "christopher morel",
