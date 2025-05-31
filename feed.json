@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "35",
-        "batters": "162",
-        "pitches": "1434",
+        "batters": "163",
+        "pitches": "1443",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "30.6",
-        "si%sinker %": "16.6",
-        "fc%cutter %": "11.6",
-        "fs%splitter %": "4.5",
-        "ch%changeup %": "8.5",
-        "sl%slider %": "18.5",
+        "si%sinker %": "16.7",
+        "fc%cutter %": "11.5",
+        "fs%splitter %": "4.6",
+        "ch%changeup %": "8.4",
+        "sl%slider %": "18.6",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "108",
-        "hh%hard hit %": "43.4",
+        "hhhard hit": "109",
+        "hh%hard hit %": "43.6",
         "brlbarrels": "22",
         "brl%barrel %": "8.8",
-        "ab": "334",
+        "ab": "335",
         "avg": ".251",
         "h": "84",
         "1b": "53",
         "2b": "17",
         "3b": "2",
         "hr": "12",
-        "so": "85",
-        "bipballs in play": "249",
+        "so": "86",
+        "bipballs in play": "250",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-30 20:20:10.941168"
+        "updated": "2025-05-30 20:20:20.379755"
     },
     "cin @ chc": [
         {
@@ -2100,7 +2100,7 @@
             "team": "mil",
             "start": "6:45 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3801,10 +3801,10 @@
             "team": "col",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "55.8",
+            "la": "-27",
+            "dist": "7"
         },
         {
             "player": "michael toglia",
@@ -5313,6 +5313,21 @@
     ],
     "stl @ tex": [
         {
+            "player": "corey seager",
+            "game": "stl @ tex",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-05-30 20:20:14",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "wyatt langford",
             "game": "stl @ tex",
             "hr/park": "",
@@ -5337,7 +5352,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "1",
-            "result": "Official Scorer Ruling Pending",
+            "result": "Field Error",
             "evo": "90.9",
             "la": "-2",
             "dist": "35"
@@ -5392,17 +5407,17 @@
         {
             "player": "jonathan india",
             "game": "det @ kc",
-            "hr/park": "",
+            "hr/park": "12/30",
             "pa": "6",
             "dt": "2025-05-30 20:18:28",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "97.0",
+            "la": "35",
+            "dist": "370"
         },
         {
             "player": "spencer torkelson",
@@ -5491,10 +5506,10 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "1",
-            "result": "Groundout",
-            "evo": "55.0",
-            "la": "4",
-            "dist": "44"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "junior caminero",
