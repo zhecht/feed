@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "84",
-        "batters": "239",
-        "pitches": "3114",
+        "pitchers": "85",
+        "batters": "242",
+        "pitches": "3121",
         "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "29.3",
-        "si%sinker %": "16.9",
+        "si%sinker %": "17.0",
         "fc%cutter %": "10.1",
         "fs%splitter %": "3.6",
         "ch%changeup %": "8.6",
-        "sl%slider %": "20.1",
+        "sl%slider %": "20.2",
         "cu%curve %": "11.1",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "246",
         "hh%hard hit %": "45.6",
         "brlbarrels": "48",
         "brl%barrel %": "8.9",
-        "ab": "710",
-        "avg": ".256",
+        "ab": "714",
+        "avg": ".255",
         "h": "182",
         "1b": "125",
         "2b": "32",
@@ -28,7 +28,7 @@
         "bipballs in play": "540",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-30 22:11:53.275461"
+        "updated": "2025-05-30 22:12:04.069431"
     },
     "cin @ chc": [
         {
@@ -8907,7 +8907,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "72.8",
             "la": "65",
             "dist": "137"
@@ -9724,6 +9724,21 @@
         }
     ],
     "det @ kc": [
+        {
+            "player": "salvador perez",
+            "game": "det @ kc",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-05-30 22:11:29",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "vinnie pasquantino",
             "game": "det @ kc",
@@ -11469,6 +11484,21 @@
     ],
     "wsh @ ari": [
         {
+            "player": "gabriel moreno",
+            "game": "wsh @ ari",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-05-30 22:11:58",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "pavin smith",
             "game": "wsh @ ari",
             "hr/park": "",
@@ -11681,6 +11711,21 @@
     ],
     "pit @ sd": [
         {
+            "player": "isiah kiner falefa",
+            "game": "pit @ sd",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-05-30 22:11:58",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "9:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tommy pham",
             "game": "pit @ sd",
             "hr/park": "",
@@ -11892,5 +11937,21 @@
         }
     ],
     "min @ sea": [],
-    "nyy @ lad": []
+    "nyy @ lad": [
+        {
+            "player": "trent grisham",
+            "game": "nyy @ lad",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-05-30 22:11:58",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "10:10 PM",
+            "in": "1",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ]
 }
