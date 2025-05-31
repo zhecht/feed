@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "35",
         "batters": "187",
-        "pitches": "1705",
+        "pitches": "1707",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "69.6",
-        "ff%fourseam fastball %": "30.3",
-        "si%sinker %": "16.5",
+        "ff%fourseam fastball %": "30.2",
+        "si%sinker %": "16.7",
         "fc%cutter %": "11.1",
         "fs%splitter %": "4.7",
-        "ch%changeup %": "8.7",
-        "sl%slider %": "19.0",
-        "cu%curve %": "9.7",
+        "ch%changeup %": "8.6",
+        "sl%slider %": "18.9",
+        "cu%curve %": "9.8",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "133",
-        "hh%hard hit %": "43.9",
+        "hh%hard hit %": "43.8",
         "brlbarrels": "29",
-        "brl%barrel %": "9.6",
+        "brl%barrel %": "9.5",
         "ab": "397",
         "avg": ".252",
         "h": "100",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "15",
         "so": "98",
-        "bipballs in play": "303",
+        "bipballs in play": "304",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-30 20:36:05.349325"
+        "updated": "2025-05-30 20:36:14.433327"
     },
     "cin @ chc": [
         {
@@ -3535,6 +3535,21 @@
     ],
     "laa @ cle": [
         {
+            "player": "nolan jones",
+            "game": "laa @ cle",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-05-30 20:35:28",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bo naylor",
             "game": "laa @ cle",
             "hr/park": "",
@@ -3544,10 +3559,10 @@
             "team": "cle",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "87.4",
+            "la": "-29",
+            "dist": "4"
         },
         {
             "player": "jorge soler",
@@ -5395,7 +5410,7 @@
             "team": "bos",
             "start": "7:15 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "91.7",
             "la": "57",
             "dist": "215"
@@ -6140,21 +6155,6 @@
     ],
     "det @ kc": [
         {
-            "player": "kerry carpenter",
-            "game": "det @ kc",
-            "hr/park": "",
-            "pa": "16",
-            "dt": "2025-05-30 20:35:59",
-            "img": "https://www.mlbstatic.com/team-logos/116.svg",
-            "team": "det",
-            "start": "8:10 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "trey sweeney",
             "game": "det @ kc",
             "hr/park": "",
@@ -6164,7 +6164,7 @@
             "team": "det",
             "start": "8:10 PM",
             "in": "2",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "101.7",
             "la": "",
             "dist": "58"
