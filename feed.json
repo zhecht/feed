@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "48",
         "batters": "203",
-        "pitches": "2146",
+        "pitches": "2147",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "29.9",
-        "si%sinker %": "15.8",
+        "si%sinker %": "15.7",
         "fc%cutter %": "10.8",
         "fs%splitter %": "4.4",
-        "ch%changeup %": "8.8",
-        "sl%slider %": "19.5",
-        "cu%curve %": "11.0",
+        "ch%changeup %": "8.7",
+        "sl%slider %": "19.6",
+        "cu%curve %": "10.9",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "169",
-        "hh%hard hit %": "44.1",
-        "brlbarrels": "40",
-        "brl%barrel %": "10.4",
+        "hhhard hit": "168",
+        "hh%hard hit %": "43.9",
+        "brlbarrels": "39",
+        "brl%barrel %": "10.2",
         "ab": "504",
         "avg": ".248",
         "h": "125",
-        "1b": "79",
+        "1b": "80",
         "2b": "24",
         "3b": "3",
-        "hr": "19",
+        "hr": "18",
         "so": "123",
         "bipballs in play": "383",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-30 21:03:20.238418"
+        "updated": "2025-05-30 21:03:30.419903"
     },
     "cin @ chc": [
         {
@@ -2093,17 +2093,17 @@
         {
             "player": "christian yelich",
             "game": "mil @ phi",
-            "hr/park": "30/30",
+            "hr/park": "",
             "pa": "68",
             "dt": "2025-05-30 21:02:29",
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
             "team": "mil",
             "start": "6:45 PM",
             "in": "9",
-            "result": "Home Run",
-            "evo": "110.3",
-            "la": "28",
-            "dist": "420"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "trea turner",
@@ -3949,7 +3949,7 @@
             "team": "laa",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4746,10 +4746,10 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "84.7",
+            "la": "31",
+            "dist": "288"
         },
         {
             "player": "francisco alvarez",
@@ -7098,6 +7098,21 @@
     ],
     "stl @ tex": [
         {
+            "player": "willson contreras",
+            "game": "stl @ tex",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-05-30 21:03:28",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brendan donovan",
             "game": "stl @ tex",
             "hr/park": "",
@@ -7107,7 +7122,7 @@
             "team": "stl",
             "start": "8:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "102.3",
             "la": "-3",
             "dist": "32"
