@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "28",
         "batters": "119",
-        "pitches": "705",
+        "pitches": "714",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "33.9",
-        "si%sinker %": "11.1",
-        "fc%cutter %": "8.2",
-        "fs%splitter %": "3.3",
+        "si%sinker %": "11.2",
+        "fc%cutter %": "8.4",
+        "fs%splitter %": "3.4",
         "ch%changeup %": "12.9",
-        "sl%slider %": "18.2",
-        "cu%curve %": "12.5",
+        "sl%slider %": "17.9",
+        "cu%curve %": "12.3",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "44",
-        "hh%hard hit %": "37.3",
+        "hh%hard hit %": "37.6",
         "brlbarrels": "14",
-        "brl%barrel %": "11.9",
+        "brl%barrel %": "12.0",
         "ab": "167",
         "avg": ".246",
         "h": "41",
@@ -24,11 +24,11 @@
         "2b": "5",
         "3b": "0",
         "hr": "9",
-        "so": "41",
-        "bipballs in play": "118",
+        "so": "44",
+        "bipballs in play": "117",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 16:28:58.771083"
+        "updated": "2025-05-31 16:29:06.622268"
     },
     "cin @ chc": [
         {
@@ -41,7 +41,7 @@
             "team": "chc",
             "start": "2:20 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -934,6 +934,21 @@
     ],
     "ath @ tor": [
         {
+            "player": "tyler soderstrom",
+            "game": "ath @ tor",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-05-31 16:29:05",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "3:07 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bo bichette",
             "game": "ath @ tor",
             "hr/park": "",
@@ -1545,7 +1560,7 @@
             "team": "stl",
             "start": "4:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1667,7 +1682,7 @@
             "team": "chw",
             "start": "4:05 PM",
             "in": "2",
-            "result": "Stolen Base 2B",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2198,7 +2213,7 @@
             "team": "kc",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2390,17 +2405,17 @@
         {
             "player": "jake mangum",
             "game": "tb @ hou",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "10",
             "dt": "2025-05-31 16:28:49",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "start": "4:10 PM",
             "in": "2",
-            "result": "Lineout",
-            "evo": "84.0",
-            "la": "27",
-            "dist": "301"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "junior caminero",
@@ -2549,7 +2564,7 @@
             "team": "bos",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
