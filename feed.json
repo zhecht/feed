@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "71",
-        "batters": "211",
-        "pitches": "2733",
+        "batters": "212",
+        "pitches": "2735",
         "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "29.2",
         "si%sinker %": "16.8",
-        "fc%cutter %": "10.1",
+        "fc%cutter %": "10.2",
         "fs%splitter %": "4.1",
         "ch%changeup %": "8.9",
         "sl%slider %": "20.5",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "214",
-        "hh%hard hit %": "45.0",
+        "hhhard hit": "215",
+        "hh%hard hit %": "45.2",
         "brlbarrels": "45",
         "brl%barrel %": "9.5",
         "ab": "628",
@@ -28,7 +28,7 @@
         "bipballs in play": "476",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-05-30 21:44:54.636796"
+        "updated": "2025-05-30 21:45:05.078137"
     },
     "cin @ chc": [
         {
@@ -6374,21 +6374,6 @@
     ],
     "sf @ mia": [
         {
-            "player": "jung hoo lee",
-            "game": "sf @ mia",
-            "hr/park": "",
-            "pa": "72",
-            "dt": "2025-05-30 21:44:15",
-            "img": "https://www.mlbstatic.com/team-logos/137.svg",
-            "team": "sf",
-            "start": "7:10 PM",
-            "in": "9",
-            "result": "Flyout",
-            "evo": "84.5",
-            "la": "32",
-            "dist": "321"
-        },
-        {
             "player": "heliot ramos",
             "game": "sf @ mia",
             "hr/park": "",
@@ -10466,6 +10451,21 @@
     ],
     "pit @ sd": [
         {
+            "player": "andrew mccutchen",
+            "game": "pit @ sd",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-05-30 21:44:59",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "oneil cruz",
             "game": "pit @ sd",
             "hr/park": "",
@@ -10475,10 +10475,10 @@
             "team": "pit",
             "start": "9:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "102.1",
+            "la": "-22",
+            "dist": "8"
         }
     ],
     "min @ sea": [],
