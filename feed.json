@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "40",
         "batters": "202",
-        "pitches": "1928",
+        "pitches": "1939",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "29.6",
         "si%sinker %": "16.1",
-        "fc%cutter %": "11.0",
-        "fs%splitter %": "4.8",
+        "fc%cutter %": "11.1",
+        "fs%splitter %": "4.7",
         "ch%changeup %": "8.6",
-        "sl%slider %": "19.2",
+        "sl%slider %": "19.3",
         "cu%curve %": "10.6",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "150",
-        "hh%hard hit %": "43.2",
+        "hhhard hit": "151",
+        "hh%hard hit %": "43.3",
         "brlbarrels": "33",
         "brl%barrel %": "9.5",
         "ab": "453",
@@ -24,11 +24,11 @@
         "2b": "20",
         "3b": "3",
         "hr": "17",
-        "so": "107",
-        "bipballs in play": "347",
+        "so": "109",
+        "bipballs in play": "349",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-30 20:50:23.407488"
+        "updated": "2025-05-30 20:50:32.714102"
     },
     "cin @ chc": [
         {
@@ -2100,7 +2100,7 @@
             "team": "mil",
             "start": "6:45 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3032,7 +3032,7 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3769,10 +3769,10 @@
             "team": "cle",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "103.6",
+            "la": "-3",
+            "dist": "23"
         },
         {
             "player": "kyle manzardo",
@@ -5219,6 +5219,21 @@
     ],
     "sf @ mia": [
         {
+            "player": "eric wagaman",
+            "game": "sf @ mia",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-05-30 20:50:28",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "Pop Out",
+            "evo": "82.2",
+            "la": "75",
+            "dist": "74"
+        },
+        {
             "player": "jesus sanchez",
             "game": "sf @ mia",
             "hr/park": "",
@@ -5228,7 +5243,7 @@
             "team": "mia",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6567,7 +6582,7 @@
             "team": "stl",
             "start": "8:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
