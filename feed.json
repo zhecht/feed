@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "37",
         "batters": "198",
-        "pitches": "1807",
+        "pitches": "1814",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "69.6",
-        "ff%fourseam fastball %": "30.0",
+        "ff%fourseam fastball %": "29.8",
         "si%sinker %": "16.5",
-        "fc%cutter %": "11.1",
-        "fs%splitter %": "4.8",
-        "ch%changeup %": "8.7",
-        "sl%slider %": "18.9",
-        "cu%curve %": "10.0",
+        "fc%cutter %": "11.2",
+        "fs%splitter %": "4.9",
+        "ch%changeup %": "8.8",
+        "sl%slider %": "19.0",
+        "cu%curve %": "9.8",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "145",
-        "hh%hard hit %": "44.1",
+        "hh%hard hit %": "43.9",
         "brlbarrels": "32",
         "brl%barrel %": "9.7",
         "ab": "433",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "16",
         "so": "104",
-        "bipballs in play": "329",
+        "bipballs in play": "330",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-30 20:42:39.061405"
+        "updated": "2025-05-30 20:42:48.180029"
     },
     "cin @ chc": [
         {
@@ -2091,21 +2091,6 @@
     ],
     "mil @ phi": [
         {
-            "player": "isaac collins",
-            "game": "mil @ phi",
-            "hr/park": "",
-            "pa": "60",
-            "dt": "2025-05-30 20:41:57",
-            "img": "https://www.mlbstatic.com/team-logos/158.svg",
-            "team": "mil",
-            "start": "6:45 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "rhys hoskins",
             "game": "mil @ phi",
             "hr/park": "",
@@ -3700,6 +3685,21 @@
     ],
     "laa @ cle": [
         {
+            "player": "logan ohoppe",
+            "game": "laa @ cle",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-05-30 20:42:13",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mike trout",
             "game": "laa @ cle",
             "hr/park": "",
@@ -5033,7 +5033,7 @@
             "team": "sf",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "104.6",
             "la": "6",
             "dist": "127"
@@ -6872,9 +6872,9 @@
             "start": "8:10 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "75.4",
+            "la": "17",
+            "dist": "178"
         },
         {
             "player": "jose caballero",
