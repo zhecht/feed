@@ -2,18 +2,18 @@
     "all": {
         "pitchers": "50",
         "batters": "202",
-        "pitches": "2365",
+        "pitches": "2373",
         "max velomax pitch velocity": "102.2",
         "min velomin pitch velocity": "65.2",
-        "ff%fourseam fastball %": "28.2",
-        "si%sinker %": "16.4",
+        "ff%fourseam fastball %": "28.3",
+        "si%sinker %": "16.3",
         "fc%cutter %": "9.8",
         "fs%splitter %": "3.8",
         "ch%changeup %": "12.9",
         "sl%slider %": "19.6",
         "cu%curve %": "9.2",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "164",
+        "hhhard hit": "165",
         "hh%hard hit %": "37.9",
         "brlbarrels": "46",
         "brl%barrel %": "10.6",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "27",
         "so": "142",
-        "bipballs in play": "433",
+        "bipballs in play": "435",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 18:00:46.877660"
+        "updated": "2025-05-31 18:00:56.661891"
     },
     "cin @ chc": [
         {
@@ -2100,10 +2100,10 @@
             "team": "tex",
             "start": "4:05 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "102.4",
+            "la": "-22",
+            "dist": "6"
         },
         {
             "player": "jake burger",
@@ -4596,7 +4596,7 @@
             "team": "laa",
             "start": "4:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6101,9 +6101,9 @@
             "start": "4:10 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "84.7",
+            "la": "-1",
+            "dist": "46"
         },
         {
             "player": "ryan mcmahon",
@@ -6887,6 +6887,21 @@
         }
     ],
     "tb @ hou": [
+        {
+            "player": "curtis mead",
+            "game": "tb @ hou",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-05-31 18:00:50",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "Walk",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jake mangum",
             "game": "tb @ hou",
