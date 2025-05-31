@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "14",
-        "batters": "49",
-        "pitches": "375",
-        "max velomax pitch velocity": "98.2",
+        "pitchers": "15",
+        "batters": "51",
+        "pitches": "380",
+        "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "38.1",
-        "si%sinker %": "10.1",
-        "fc%cutter %": "1.6",
+        "ff%fourseam fastball %": "38.4",
+        "si%sinker %": "10.0",
+        "fc%cutter %": "1.8",
         "fs%splitter %": "0.8",
-        "ch%changeup %": "14.7",
+        "ch%changeup %": "14.5",
         "sl%slider %": "16.3",
-        "cu%curve %": "18.4",
+        "cu%curve %": "18.2",
         "max evmax exit velocity": "112.5",
-        "hhhard hit": "17",
-        "hh%hard hit %": "29.8",
-        "brlbarrels": "7",
-        "brl%barrel %": "12.3",
-        "ab": "84",
-        "avg": ".238",
-        "h": "20",
+        "hhhard hit": "18",
+        "hh%hard hit %": "29.5",
+        "brlbarrels": "8",
+        "brl%barrel %": "13.1",
+        "ab": "87",
+        "avg": ".241",
+        "h": "21",
         "1b": "13",
         "2b": "2",
         "3b": "0",
-        "hr": "5",
+        "hr": "6",
         "so": "22",
-        "bipballs in play": "57",
+        "bipballs in play": "61",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 16:12:48.410688"
+        "updated": "2025-05-31 16:12:55.854093"
     },
     "cin @ chc": [
         {
@@ -814,6 +814,21 @@
     ],
     "ath @ tor": [
         {
+            "player": "george springer",
+            "game": "ath @ tor",
+            "hr/park": "29/30",
+            "pa": "31",
+            "dt": "2025-05-31 16:12:50",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "3:07 PM",
+            "in": "3",
+            "result": "Home Run",
+            "evo": "107.0",
+            "la": "28",
+            "dist": "430"
+        },
+        {
             "player": "denzel clarke",
             "game": "ath @ tor",
             "hr/park": "",
@@ -1266,6 +1281,21 @@
     ],
     "stl @ tex": [
         {
+            "player": "brendan donovan",
+            "game": "stl @ tex",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-05-31 16:12:50",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "masyn winn",
             "game": "stl @ tex",
             "hr/park": "",
@@ -1275,10 +1305,10 @@
             "team": "stl",
             "start": "4:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "85.9",
+            "la": "27",
+            "dist": "299"
         },
         {
             "player": "lars nootbaar",
@@ -1467,10 +1497,10 @@
             "team": "bos",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "69.9",
+            "la": "-9",
+            "dist": "15"
         }
     ],
     "sf @ mia": [
