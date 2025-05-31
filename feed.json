@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "31",
         "batters": "200",
-        "pitches": "1530",
+        "pitches": "1533",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "65.2",
         "ff%fourseam fastball %": "28.7",
@@ -13,22 +13,22 @@
         "sl%slider %": "19.8",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "112.5",
-        "hhhard hit": "102",
-        "hh%hard hit %": "38.5",
-        "brlbarrels": "31",
-        "brl%barrel %": "11.7",
-        "ab": "359",
-        "avg": ".251",
+        "hhhard hit": "103",
+        "hh%hard hit %": "38.6",
+        "brlbarrels": "32",
+        "brl%barrel %": "12.0",
+        "ab": "360",
+        "avg": ".250",
         "h": "90",
         "1b": "58",
         "2b": "14",
         "3b": "1",
         "hr": "17",
         "so": "93",
-        "bipballs in play": "265",
+        "bipballs in play": "267",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 17:11:30.912088"
+        "updated": "2025-05-31 17:11:39.620297"
     },
     "cin @ chc": [
         {
@@ -988,7 +988,7 @@
             "team": "ath",
             "start": "3:07 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3764,6 +3764,21 @@
     ],
     "det @ kc": [
         {
+            "player": "bobby witt",
+            "game": "det @ kc",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-05-31 17:11:35",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "4:10 PM",
+            "in": "4",
+            "result": "Lineout",
+            "evo": "89.2",
+            "la": "22",
+            "dist": "291"
+        },
+        {
             "player": "riley greene",
             "game": "det @ kc",
             "hr/park": "",
@@ -5499,17 +5514,17 @@
         {
             "player": "tyler fitzgerald",
             "game": "sf @ mia",
-            "hr/park": "",
+            "hr/park": "24/30",
             "pa": "29",
             "dt": "2025-05-31 17:10:19",
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
             "team": "sf",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "101.9",
+            "la": "34",
+            "dist": "385"
         },
         {
             "player": "mike yastrzemski",
