@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "86",
+        "pitchers": "87",
         "batters": "243",
-        "pitches": "3148",
+        "pitches": "3152",
         "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "69.6",
-        "ff%fourseam fastball %": "29.4",
-        "si%sinker %": "17.0",
+        "ff%fourseam fastball %": "29.3",
+        "si%sinker %": "17.1",
         "fc%cutter %": "10.2",
-        "fs%splitter %": "3.7",
+        "fs%splitter %": "3.6",
         "ch%changeup %": "8.5",
         "sl%slider %": "20.1",
         "cu%curve %": "11.1",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "247",
-        "hh%hard hit %": "45.2",
+        "hhhard hit": "248",
+        "hh%hard hit %": "45.3",
         "brlbarrels": "48",
         "brl%barrel %": "8.8",
-        "ab": "720",
+        "ab": "721",
         "avg": ".254",
         "h": "183",
         "1b": "126",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "22",
         "so": "183",
-        "bipballs in play": "547",
+        "bipballs in play": "548",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-05-30 22:13:54.898576"
+        "updated": "2025-05-30 22:14:05.785711"
     },
     "cin @ chc": [
         {
@@ -7840,10 +7840,10 @@
             "team": "bos",
             "start": "7:15 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "104.1",
+            "la": "-6",
+            "dist": "21"
         },
         {
             "player": "rob refsnyder",
@@ -8943,6 +8943,21 @@
     ],
     "stl @ tex": [
         {
+            "player": "nolan arenado",
+            "game": "stl @ tex",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-05-30 22:13:58",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jonah heim",
             "game": "stl @ tex",
             "hr/park": "",
@@ -9779,7 +9794,7 @@
             "team": "kc",
             "start": "8:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "91.9",
             "la": "-21",
             "dist": "7"
