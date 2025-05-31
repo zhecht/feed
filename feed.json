@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "30",
         "batters": "200",
-        "pitches": "1464",
+        "pitches": "1472",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "65.2",
-        "ff%fourseam fastball %": "30.7",
-        "si%sinker %": "15.0",
-        "fc%cutter %": "8.3",
-        "fs%splitter %": "3.0",
+        "ff%fourseam fastball %": "30.6",
+        "si%sinker %": "14.9",
+        "fc%cutter %": "8.5",
+        "fs%splitter %": "3.1",
         "ch%changeup %": "13.6",
         "sl%slider %": "19.4",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "112.5",
-        "hhhard hit": "97",
-        "hh%hard hit %": "39.1",
+        "hhhard hit": "98",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "28",
-        "brl%barrel %": "11.3",
-        "ab": "343",
-        "avg": ".245",
-        "h": "84",
-        "1b": "54",
+        "brl%barrel %": "11.2",
+        "ab": "344",
+        "avg": ".247",
+        "h": "85",
+        "1b": "55",
         "2b": "13",
         "3b": "1",
         "hr": "16",
         "so": "92",
-        "bipballs in play": "248",
+        "bipballs in play": "250",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 17:07:31.470155"
+        "updated": "2025-05-31 17:07:40.188517"
     },
     "cin @ chc": [
         {
@@ -3985,10 +3985,10 @@
             "team": "nym",
             "start": "4:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "93.6",
+            "la": "-27",
+            "dist": "4"
         },
         {
             "player": "jared young",
@@ -4368,6 +4368,21 @@
     ],
     "tb @ hou": [
         {
+            "player": "victor caratini",
+            "game": "tb @ hou",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-05-31 17:07:34",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "4:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "yainer diaz",
             "game": "tb @ hou",
             "hr/park": "",
@@ -4377,10 +4392,10 @@
             "team": "hou",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "108.2",
+            "la": "14",
+            "dist": "270"
         },
         {
             "player": "josh lowe",
@@ -4829,7 +4844,7 @@
             "team": "atl",
             "start": "4:10 PM",
             "in": "4",
-            "result": "Mound Visit",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5281,7 +5296,7 @@
             "team": "sf",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "80.9",
             "la": "8",
             "dist": "136"
