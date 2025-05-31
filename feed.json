@@ -2,13 +2,13 @@
     "all": {
         "pitchers": "49",
         "batters": "204",
-        "pitches": "2194",
+        "pitches": "2195",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "30.0",
         "si%sinker %": "15.8",
         "fc%cutter %": "10.8",
-        "fs%splitter %": "4.4",
+        "fs%splitter %": "4.5",
         "ch%changeup %": "8.7",
         "sl%slider %": "19.5",
         "cu%curve %": "10.8",
@@ -24,11 +24,11 @@
         "2b": "25",
         "3b": "3",
         "hr": "19",
-        "so": "127",
+        "so": "128",
         "bipballs in play": "391",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-30 21:06:27.646218"
+        "updated": "2025-05-30 21:06:37.641240"
     },
     "cin @ chc": [
         {
@@ -2091,6 +2091,21 @@
     ],
     "mil @ phi": [
         {
+            "player": "rhys hoskins",
+            "game": "mil @ phi",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-05-30 21:06:31",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "6:45 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "sal frelick",
             "game": "mil @ phi",
             "hr/park": "",
@@ -2100,10 +2115,10 @@
             "team": "mil",
             "start": "6:45 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "78.1",
+            "la": "18",
+            "dist": "224"
         },
         {
             "player": "william contreras",
@@ -4000,21 +4015,6 @@
     ],
     "laa @ cle": [
         {
-            "player": "mike trout",
-            "game": "laa @ cle",
-            "hr/park": "",
-            "pa": "55",
-            "dt": "2025-05-30 21:06:14",
-            "img": "https://www.mlbstatic.com/team-logos/108.svg",
-            "team": "laa",
-            "start": "7:10 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jorge soler",
             "game": "laa @ cle",
             "hr/park": "",
@@ -4024,10 +4024,10 @@
             "team": "laa",
             "start": "7:10 PM",
             "in": "7",
-            "result": "Single",
-            "evo": "77.7",
-            "la": "18",
-            "dist": "232"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "taylor ward",
@@ -7242,7 +7242,7 @@
             "team": "stl",
             "start": "8:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
