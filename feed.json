@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "35",
-        "batters": "172",
-        "pitches": "1539",
+        "batters": "174",
+        "pitches": "1549",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "69.6",
-        "ff%fourseam fastball %": "29.9",
+        "ff%fourseam fastball %": "30.0",
         "si%sinker %": "17.2",
         "fc%cutter %": "11.4",
         "fs%splitter %": "4.9",
@@ -13,22 +13,22 @@
         "sl%slider %": "18.6",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "117",
-        "hh%hard hit %": "43.2",
+        "hhhard hit": "119",
+        "hh%hard hit %": "43.3",
         "brlbarrels": "25",
-        "brl%barrel %": "9.2",
-        "ab": "359",
+        "brl%barrel %": "9.1",
+        "ab": "363",
         "avg": ".262",
-        "h": "94",
-        "1b": "60",
+        "h": "95",
+        "1b": "61",
         "2b": "18",
         "3b": "2",
         "hr": "14",
-        "so": "88",
-        "bipballs in play": "271",
+        "so": "89",
+        "bipballs in play": "275",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-30 20:26:42.321911"
+        "updated": "2025-05-30 20:26:51.399674"
     },
     "cin @ chc": [
         {
@@ -2091,6 +2091,21 @@
     ],
     "mil @ phi": [
         {
+            "player": "alec bohm",
+            "game": "mil @ phi",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-05-30 20:26:45",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:45 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "80.8",
+            "la": "-12",
+            "dist": "12"
+        },
+        {
             "player": "kyle schwarber",
             "game": "mil @ phi",
             "hr/park": "",
@@ -2837,7 +2852,7 @@
             "team": "ath",
             "start": "7:07 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3394,10 +3409,10 @@
             "team": "laa",
             "start": "7:10 PM",
             "in": "5",
-            "result": "Caught Stealing 2B",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "83.7",
+            "la": "36",
+            "dist": "294"
         },
         {
             "player": "zach neto",
@@ -3929,17 +3944,17 @@
         {
             "player": "luisangel acuna",
             "game": "col @ nym",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "37",
             "dt": "2025-05-30 20:25:14",
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
             "team": "nym",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "98.3",
+            "la": "31",
+            "dist": "369"
         },
         {
             "player": "jordan beck",
@@ -5071,6 +5086,21 @@
     ],
     "bos @ atl": [
         {
+            "player": "michael harris",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-05-30 20:26:45",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "sean murphy",
             "game": "bos @ atl",
             "hr/park": "",
@@ -5568,6 +5598,21 @@
     ],
     "stl @ tex": [
         {
+            "player": "willson contreras",
+            "game": "stl @ tex",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-05-30 20:26:45",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:05 PM",
+            "in": "2",
+            "result": "Single",
+            "evo": "97.8",
+            "la": "",
+            "dist": "50"
+        },
+        {
             "player": "jonah heim",
             "game": "stl @ tex",
             "hr/park": "2/30",
@@ -5689,6 +5734,21 @@
         }
     ],
     "det @ kc": [
+        {
+            "player": "drew waters",
+            "game": "det @ kc",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-05-30 20:26:45",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "maikel garcia",
             "game": "det @ kc",
