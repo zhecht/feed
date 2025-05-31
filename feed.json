@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "55",
         "batters": "203",
-        "pitches": "2460",
+        "pitches": "2466",
         "max velomax pitch velocity": "102.2",
         "min velomin pitch velocity": "65.2",
-        "ff%fourseam fastball %": "28.3",
-        "si%sinker %": "16.5",
+        "ff%fourseam fastball %": "28.2",
+        "si%sinker %": "16.6",
         "fc%cutter %": "9.6",
         "fs%splitter %": "3.7",
-        "ch%changeup %": "12.8",
+        "ch%changeup %": "12.7",
         "sl%slider %": "20.2",
         "cu%curve %": "8.9",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "169",
-        "hh%hard hit %": "37.6",
+        "hh%hard hit %": "37.5",
         "brlbarrels": "48",
-        "brl%barrel %": "10.7",
-        "ab": "593",
-        "avg": ".250",
+        "brl%barrel %": "10.6",
+        "ab": "594",
+        "avg": ".249",
         "h": "148",
         "1b": "91",
         "2b": "26",
         "3b": "2",
         "hr": "29",
         "so": "146",
-        "bipballs in play": "450",
+        "bipballs in play": "451",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 18:06:44.515799"
+        "updated": "2025-05-31 18:06:54.548092"
     },
     "cin @ chc": [
         {
@@ -4709,7 +4709,7 @@
         {
             "player": "steven kwan",
             "game": "laa @ cle",
-            "hr/park": "",
+            "hr/park": "1/30",
             "pa": "57",
             "dt": "2025-05-31 18:05:20",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
@@ -6286,6 +6286,21 @@
     ],
     "col @ nym": [
         {
+            "player": "kyle farmer",
+            "game": "col @ nym",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-05-31 18:06:49",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "sam hilliard",
             "game": "col @ nym",
             "hr/park": "",
@@ -6295,7 +6310,7 @@
             "team": "col",
             "start": "4:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8857,6 +8872,21 @@
     ],
     "sf @ mia": [
         {
+            "player": "matt chapman",
+            "game": "sf @ mia",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-05-31 18:06:49",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "wilmer flores",
             "game": "sf @ mia",
             "hr/park": "",
@@ -8866,10 +8896,10 @@
             "team": "sf",
             "start": "4:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "62.4",
+            "la": "-64",
+            "dist": "2"
         },
         {
             "player": "nick fortes",
