@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "29",
         "batters": "160",
-        "pitches": "922",
+        "pitches": "928",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "33.1",
-        "si%sinker %": "12.5",
-        "fc%cutter %": "8.7",
+        "ff%fourseam fastball %": "33.0",
+        "si%sinker %": "12.7",
+        "fc%cutter %": "8.5",
         "fs%splitter %": "2.7",
         "ch%changeup %": "13.4",
-        "sl%slider %": "17.9",
-        "cu%curve %": "11.7",
+        "sl%slider %": "18.1",
+        "cu%curve %": "11.6",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "60",
         "hh%hard hit %": "39.0",
-        "brlbarrels": "19",
-        "brl%barrel %": "12.3",
-        "ab": "215",
-        "avg": ".233",
+        "brlbarrels": "18",
+        "brl%barrel %": "11.7",
+        "ab": "214",
+        "avg": ".234",
         "h": "50",
         "1b": "34",
         "2b": "6",
@@ -28,9 +28,24 @@
         "bipballs in play": "154",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 16:38:42.895912"
+        "updated": "2025-05-31 16:38:51.084357"
     },
     "cin @ chc": [
+        {
+            "player": "jake fraley",
+            "game": "cin @ chc",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-05-31 16:38:49",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "2:20 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "tj friedl",
             "game": "cin @ chc",
@@ -973,10 +988,10 @@
             "team": "tor",
             "start": "3:07 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "109.7",
+            "la": "-22",
+            "dist": "5"
         },
         {
             "player": "vladimir guerrero",
@@ -1862,7 +1877,7 @@
             "team": "chw",
             "start": "4:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2109,21 +2124,6 @@
         }
     ],
     "mil @ phi": [
-        {
-            "player": "brandon marsh",
-            "game": "mil @ phi",
-            "hr/park": "",
-            "pa": "19",
-            "dt": "2025-05-31 16:38:34",
-            "img": "https://www.mlbstatic.com/team-logos/143.svg",
-            "team": "phi",
-            "start": "4:05 PM",
-            "in": "2",
-            "result": "Flyout",
-            "evo": "100.4",
-            "la": "26",
-            "dist": "377"
-        },
         {
             "player": "jt realmuto",
             "game": "mil @ phi",
@@ -2406,7 +2406,7 @@
             "team": "laa",
             "start": "4:10 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
