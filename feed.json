@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "30",
         "batters": "200",
-        "pitches": "1500",
+        "pitches": "1504",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "65.2",
-        "ff%fourseam fastball %": "30.1",
+        "ff%fourseam fastball %": "30.3",
         "si%sinker %": "15.2",
         "fc%cutter %": "8.5",
         "fs%splitter %": "3.2",
         "ch%changeup %": "13.4",
         "sl%slider %": "19.7",
-        "cu%curve %": "9.7",
+        "cu%curve %": "9.8",
         "max evmax exit velocity": "112.5",
-        "hhhard hit": "99",
-        "hh%hard hit %": "38.5",
-        "brlbarrels": "28",
-        "brl%barrel %": "10.9",
-        "ab": "349",
-        "avg": ".249",
-        "h": "87",
+        "hhhard hit": "101",
+        "hh%hard hit %": "39.0",
+        "brlbarrels": "30",
+        "brl%barrel %": "11.6",
+        "ab": "352",
+        "avg": ".250",
+        "h": "88",
         "1b": "57",
         "2b": "13",
         "3b": "1",
-        "hr": "16",
+        "hr": "17",
         "so": "93",
-        "bipballs in play": "257",
+        "bipballs in play": "259",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 17:09:35.429415"
+        "updated": "2025-05-31 17:09:44.037798"
     },
     "cin @ chc": [
         {
@@ -1851,6 +1851,21 @@
     ],
     "stl @ tex": [
         {
+            "player": "pedro pages",
+            "game": "stl @ tex",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-05-31 17:09:38",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "4:05 PM",
+            "in": "5",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alec burleson",
             "game": "stl @ tex",
             "hr/park": "",
@@ -1860,7 +1875,7 @@
             "team": "stl",
             "start": "4:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "94.8",
             "la": "-1",
             "dist": "43"
@@ -2772,17 +2787,17 @@
         {
             "player": "rhys hoskins",
             "game": "mil @ phi",
-            "hr/park": "",
+            "hr/park": "30/30",
             "pa": "33",
             "dt": "2025-05-31 17:08:49",
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
             "team": "mil",
             "start": "4:05 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "99.7",
+            "la": "30",
+            "dist": "382"
         },
         {
             "player": "christian yelich",
@@ -3683,10 +3698,10 @@
             "team": "det",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "58.4",
+            "la": "-17",
+            "dist": "11"
         },
         {
             "player": "colt keith",
@@ -4021,11 +4036,11 @@
     ],
     "col @ nym": [
         {
-            "player": "ezequiel tovar",
+            "player": "hunter goodman",
             "game": "col @ nym",
             "hr/park": "",
-            "pa": "27",
-            "dt": "2025-05-31 17:08:49",
+            "pa": "28",
+            "dt": "2025-05-31 17:09:38",
             "img": "https://www.mlbstatic.com/team-logos/115.svg",
             "team": "col",
             "start": "4:10 PM",
@@ -4034,6 +4049,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "ezequiel tovar",
+            "game": "col @ nym",
+            "hr/park": "0/30",
+            "pa": "27",
+            "dt": "2025-05-31 17:08:49",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:10 PM",
+            "in": "4",
+            "result": "Flyout",
+            "evo": "99.0",
+            "la": "31",
+            "dist": "377"
         },
         {
             "player": "tyrone taylor",
@@ -4437,7 +4467,7 @@
             "team": "hou",
             "start": "4:10 PM",
             "in": "4",
-            "result": "Hit By Pitch",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
