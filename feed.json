@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "43",
+        "pitchers": "44",
         "batters": "202",
-        "pitches": "2224",
+        "pitches": "2230",
         "max velomax pitch velocity": "102.2",
         "min velomin pitch velocity": "65.2",
-        "ff%fourseam fastball %": "28.1",
-        "si%sinker %": "16.8",
-        "fc%cutter %": "9.3",
-        "fs%splitter %": "4.0",
-        "ch%changeup %": "13.3",
-        "sl%slider %": "19.2",
+        "ff%fourseam fastball %": "28.2",
+        "si%sinker %": "16.7",
+        "fc%cutter %": "9.4",
+        "fs%splitter %": "3.9",
+        "ch%changeup %": "13.2",
+        "sl%slider %": "19.1",
         "cu%curve %": "9.4",
         "max evmax exit velocity": "112.5",
-        "hhhard hit": "149",
-        "hh%hard hit %": "37.1",
-        "brlbarrels": "41",
-        "brl%barrel %": "10.2",
-        "ab": "534",
-        "avg": ".249",
+        "hhhard hit": "151",
+        "hh%hard hit %": "37.3",
+        "brlbarrels": "42",
+        "brl%barrel %": "10.4",
+        "ab": "536",
+        "avg": ".248",
         "h": "133",
         "1b": "84",
         "2b": "22",
         "3b": "2",
         "hr": "25",
-        "so": "135",
-        "bipballs in play": "402",
+        "so": "136",
+        "bipballs in play": "405",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 17:51:09.885449"
+        "updated": "2025-05-31 17:51:19.591048"
     },
     "cin @ chc": [
         {
@@ -2100,7 +2100,7 @@
             "team": "stl",
             "start": "4:05 PM",
             "in": "7",
-            "result": "Mound Visit",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5746,6 +5746,21 @@
     ],
     "col @ nym": [
         {
+            "player": "juan soto",
+            "game": "col @ nym",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-05-31 17:51:19",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "4:10 PM",
+            "in": "6",
+            "result": "GIDP",
+            "evo": "89.9",
+            "la": "-16",
+            "dist": "9"
+        },
+        {
             "player": "brandon nimmo",
             "game": "col @ nym",
             "hr/park": "",
@@ -6467,6 +6482,21 @@
         }
     ],
     "tb @ hou": [
+        {
+            "player": "jose caballero",
+            "game": "tb @ hou",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-05-31 17:51:19",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "102.9",
+            "la": "25",
+            "dist": "378"
+        },
         {
             "player": "victor caratini",
             "game": "tb @ hou",
@@ -7230,9 +7260,9 @@
             "start": "4:10 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "101.5",
+            "la": "8",
+            "dist": "183"
         },
         {
             "player": "drake baldwin",
