@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "35",
         "batters": "200",
-        "pitches": "1881",
+        "pitches": "1885",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "65.2",
         "ff%fourseam fastball %": "28.1",
@@ -11,14 +11,14 @@
         "fs%splitter %": "3.7",
         "ch%changeup %": "13.2",
         "sl%slider %": "19.4",
-        "cu%curve %": "9.0",
+        "cu%curve %": "9.1",
         "max evmax exit velocity": "112.5",
-        "hhhard hit": "133",
-        "hh%hard hit %": "39.0",
+        "hhhard hit": "131",
+        "hh%hard hit %": "38.4",
         "brlbarrels": "38",
         "brl%barrel %": "11.1",
-        "ab": "451",
-        "avg": ".255",
+        "ab": "455",
+        "avg": ".253",
         "h": "115",
         "1b": "73",
         "2b": "17",
@@ -28,7 +28,7 @@
         "bipballs in play": "341",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 17:31:30.545671"
+        "updated": "2025-05-31 17:31:39.707962"
     },
     "cin @ chc": [
         {
@@ -989,9 +989,9 @@
             "start": "3:07 PM",
             "in": "8",
             "result": "In Progress",
-            "evo": "101.6",
-            "la": "3",
-            "dist": "66"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "max schuemann",
@@ -3199,10 +3199,10 @@
             "team": "mil",
             "start": "4:05 PM",
             "in": "5",
-            "result": "Groundout",
-            "evo": "108.1",
-            "la": "5",
-            "dist": "99"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "max kepler",
@@ -4409,6 +4409,36 @@
     ],
     "det @ kc": [
         {
+            "player": "javier baez",
+            "game": "det @ kc",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-05-31 17:31:35",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "4:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "trey sweeney",
+            "game": "det @ kc",
+            "hr/park": "1/30",
+            "pa": "33",
+            "dt": "2025-05-31 17:31:35",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "4:10 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "88.4",
+            "la": "31",
+            "dist": "339"
+        },
+        {
             "player": "vinnie pasquantino",
             "game": "det @ kc",
             "hr/park": "",
@@ -4890,6 +4920,21 @@
         }
     ],
     "col @ nym": [
+        {
+            "player": "tyrone taylor",
+            "game": "col @ nym",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-05-31 17:31:35",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "Wild Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jared young",
             "game": "col @ nym",
@@ -6756,6 +6801,21 @@
         }
     ],
     "sf @ mia": [
+        {
+            "player": "wilmer flores",
+            "game": "sf @ mia",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-05-31 17:31:35",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "agustin ramirez",
             "game": "sf @ mia",
