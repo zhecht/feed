@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "50",
         "batters": "202",
-        "pitches": "2385",
+        "pitches": "2393",
         "max velomax pitch velocity": "102.2",
         "min velomin pitch velocity": "65.2",
         "ff%fourseam fastball %": "28.4",
@@ -13,11 +13,11 @@
         "sl%slider %": "19.6",
         "cu%curve %": "9.2",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "165",
+        "hhhard hit": "166",
         "hh%hard hit %": "37.8",
         "brlbarrels": "46",
         "brl%barrel %": "10.5",
-        "ab": "575",
+        "ab": "576",
         "avg": ".252",
         "h": "145",
         "1b": "90",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "27",
         "so": "143",
-        "bipballs in play": "437",
+        "bipballs in play": "439",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 18:02:16.040364"
+        "updated": "2025-05-31 18:02:26.382209"
     },
     "cin @ chc": [
         {
@@ -3702,17 +3702,17 @@
         {
             "player": "alec bohm",
             "game": "mil @ phi",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "60",
             "dt": "2025-05-31 18:01:19",
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "start": "4:05 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "96.9",
+            "la": "31",
+            "dist": "364"
         },
         {
             "player": "kyle schwarber",
@@ -4611,10 +4611,10 @@
             "team": "laa",
             "start": "4:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "84.6",
+            "la": "-1",
+            "dist": "45"
         },
         {
             "player": "zach neto",
@@ -7745,6 +7745,21 @@
     ],
     "bos @ atl": [
         {
+            "player": "matt olson",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-05-31 18:02:20",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "marcell ozuna",
             "game": "bos @ atl",
             "hr/park": "",
@@ -8596,7 +8611,7 @@
             "team": "mia",
             "start": "4:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
