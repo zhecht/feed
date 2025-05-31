@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "46",
+        "pitchers": "47",
         "batters": "202",
-        "pitches": "2283",
+        "pitches": "2290",
         "max velomax pitch velocity": "102.2",
         "min velomin pitch velocity": "65.2",
         "ff%fourseam fastball %": "27.9",
         "si%sinker %": "16.8",
-        "fc%cutter %": "9.3",
-        "fs%splitter %": "3.9",
-        "ch%changeup %": "13.2",
-        "sl%slider %": "19.4",
+        "fc%cutter %": "9.4",
+        "fs%splitter %": "4.0",
+        "ch%changeup %": "13.1",
+        "sl%slider %": "19.3",
         "cu%curve %": "9.4",
         "max evmax exit velocity": "112.5",
         "hhhard hit": "157",
-        "hh%hard hit %": "37.6",
+        "hh%hard hit %": "37.5",
         "brlbarrels": "43",
         "brl%barrel %": "10.3",
-        "ab": "552",
-        "avg": ".250",
+        "ab": "554",
+        "avg": ".249",
         "h": "138",
         "1b": "87",
         "2b": "23",
         "3b": "2",
         "hr": "26",
         "so": "138",
-        "bipballs in play": "418",
+        "bipballs in play": "419",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-05-31 17:55:25.898334"
+        "updated": "2025-05-31 17:55:35.896173"
     },
     "cin @ chc": [
         {
@@ -2100,7 +2100,7 @@
             "team": "tex",
             "start": "4:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4491,10 +4491,10 @@
             "team": "laa",
             "start": "4:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "89.2",
+            "la": "52",
+            "dist": "260"
         },
         {
             "player": "bo naylor",
@@ -5920,7 +5920,7 @@
             "team": "col",
             "start": "4:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6662,6 +6662,21 @@
         }
     ],
     "tb @ hou": [
+        {
+            "player": "brandon lowe",
+            "game": "tb @ hou",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-05-31 17:55:04",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "Stolen Base 3B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "yandy diaz",
             "game": "tb @ hou",
@@ -7444,6 +7459,21 @@
         }
     ],
     "bos @ atl": [
+        {
+            "player": "trevor story",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-05-31 17:55:35",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "abraham toro",
             "game": "bos @ atl",
@@ -8241,6 +8271,21 @@
         }
     ],
     "sf @ mia": [
+        {
+            "player": "jung hoo lee",
+            "game": "sf @ mia",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-05-31 17:55:35",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "heliot ramos",
             "game": "sf @ mia",
