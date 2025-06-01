@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "66",
+        "pitchers": "67",
         "batters": "209",
-        "pitches": "2569",
+        "pitches": "2578",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "28.4",
+        "ff%fourseam fastball %": "28.5",
         "si%sinker %": "18.2",
         "fc%cutter %": "9.7",
         "fs%splitter %": "2.7",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "36.8",
         "brlbarrels": "24",
         "brl%barrel %": "5.1",
-        "ab": "610",
-        "avg": ".216",
-        "h": "132",
-        "1b": "96",
+        "ab": "612",
+        "avg": ".214",
+        "h": "131",
+        "1b": "95",
         "2b": "22",
         "3b": "3",
         "hr": "11",
-        "so": "155",
+        "so": "156",
         "bipballs in play": "468",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:59:01.355274"
+        "updated": "2025-06-01 15:59:11.249201"
     },
     "stl @ tex": [
         {
@@ -2211,6 +2211,21 @@
     ],
     "chw @ bal": [
         {
+            "player": "josh rojas",
+            "game": "chw @ bal",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-06-01 15:59:04",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "edgar quero",
             "game": "chw @ bal",
             "hr/park": "",
@@ -2220,7 +2235,7 @@
             "team": "chw",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "71.3",
             "la": "65",
             "dist": "150"
@@ -4255,6 +4270,21 @@
     ],
     "ath @ tor": [
         {
+            "player": "willie maciver",
+            "game": "ath @ tor",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-06-01 15:59:04",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "1:37 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "vladimir guerrero",
             "game": "ath @ tor",
             "hr/park": "",
@@ -5211,7 +5241,7 @@
             "team": "laa",
             "start": "1:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7090,7 +7120,7 @@
             "team": "mia",
             "start": "1:40 PM",
             "in": "8",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "101.0",
             "la": "-5",
             "dist": "22"
