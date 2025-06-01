@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "87",
         "batters": "245",
-        "pitches": "3026",
+        "pitches": "3032",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "30.0",
-        "si%sinker %": "16.7",
-        "fc%cutter %": "9.9",
+        "si%sinker %": "16.6",
+        "fc%cutter %": "10.0",
         "fs%splitter %": "2.7",
-        "ch%changeup %": "11.7",
+        "ch%changeup %": "11.8",
         "sl%slider %": "20.8",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "117.4",
         "hhhard hit": "212",
-        "hh%hard hit %": "38.7",
+        "hh%hard hit %": "38.5",
         "brlbarrels": "29",
         "brl%barrel %": "5.3",
-        "ab": "716",
+        "ab": "717",
         "avg": ".215",
         "h": "154",
         "1b": "109",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "14",
         "so": "186",
-        "bipballs in play": "548",
+        "bipballs in play": "550",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-01 16:34:29.392911"
+        "updated": "2025-06-01 16:34:40.308588"
     },
     "stl @ tex": [
         {
@@ -4359,6 +4359,21 @@
         }
     ],
     "ath @ tor": [
+        {
+            "player": "luis urias",
+            "game": "ath @ tor",
+            "hr/park": "",
+            "pa": "81",
+            "dt": "2025-06-01 16:34:34",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "1:37 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "max schuemann",
             "game": "ath @ tor",
@@ -8733,21 +8748,6 @@
     ],
     "det @ kc": [
         {
-            "player": "nick loftin",
-            "game": "det @ kc",
-            "hr/park": "",
-            "pa": "68",
-            "dt": "2025-06-01 16:34:18",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "start": "2:10 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "john rave",
             "game": "det @ kc",
             "hr/park": "",
@@ -8757,7 +8757,7 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "9",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "84.6",
             "la": "-8",
             "dist": "17"
@@ -9754,6 +9754,21 @@
         }
     ],
     "tb @ hou": [
+        {
+            "player": "yainer diaz",
+            "game": "tb @ hou",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-06-01 16:34:34",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "Flyout",
+            "evo": "94.2",
+            "la": "53",
+            "dist": "241"
+        },
         {
             "player": "christian walker",
             "game": "tb @ hou",
@@ -11553,7 +11568,7 @@
             "team": "wsh",
             "start": "4:10 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11765,10 +11780,10 @@
             "team": "sea",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "64.8",
+            "la": "16",
+            "dist": "153"
         },
         {
             "player": "randy arozarena",
