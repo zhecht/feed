@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "32",
         "batters": "202",
-        "pitches": "1789",
+        "pitches": "1791",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "30.0",
+        "ff%fourseam fastball %": "29.9",
         "si%sinker %": "18.5",
-        "fc%cutter %": "9.6",
+        "fc%cutter %": "9.5",
         "fs%splitter %": "3.0",
-        "ch%changeup %": "12.3",
-        "sl%slider %": "18.2",
+        "ch%changeup %": "12.4",
+        "sl%slider %": "18.3",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "111.4",
-        "hhhard hit": "121",
-        "hh%hard hit %": "37.2",
+        "hhhard hit": "122",
+        "hh%hard hit %": "37.5",
         "brlbarrels": "18",
         "brl%barrel %": "5.5",
-        "ab": "424",
+        "ab": "425",
         "avg": ".226",
         "h": "96",
         "1b": "70",
@@ -28,9 +28,24 @@
         "bipballs in play": "325",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:13:53.428403"
+        "updated": "2025-06-01 15:14:02.812485"
     },
     "stl @ tex": [
+        {
+            "player": "masyn winn",
+            "game": "stl @ tex",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-06-01 15:13:19",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "1:05 PM",
+            "in": "8",
+            "result": "Groundout",
+            "evo": "80.2",
+            "la": "-32",
+            "dist": "5"
+        },
         {
             "player": "lars nootbaar",
             "game": "stl @ tex",
@@ -3205,6 +3220,21 @@
     ],
     "ath @ tor": [
         {
+            "player": "bo bichette",
+            "game": "ath @ tor",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-06-01 15:14:02",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:37 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jonatan clase",
             "game": "ath @ tor",
             "hr/park": "",
@@ -3214,7 +3244,7 @@
             "team": "tor",
             "start": "1:37 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "76.8",
             "la": "42",
             "dist": "255"
@@ -3851,21 +3881,6 @@
         }
     ],
     "laa @ cle": [
-        {
-            "player": "daniel schneemann",
-            "game": "laa @ cle",
-            "hr/park": "",
-            "pa": "40",
-            "dt": "2025-06-01 15:13:33",
-            "img": "https://www.mlbstatic.com/team-logos/114.svg",
-            "team": "cle",
-            "start": "1:40 PM",
-            "in": "5",
-            "result": "Pop Out",
-            "evo": "81.3",
-            "la": "53",
-            "dist": "202"
-        },
         {
             "player": "carlos santana",
             "game": "laa @ cle",
@@ -5141,9 +5156,9 @@
             "start": "1:40 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "95.8",
+            "la": "20",
+            "dist": "282"
         },
         {
             "player": "xavier edwards",
@@ -5825,17 +5840,17 @@
         {
             "player": "nick loftin",
             "game": "det @ kc",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "32",
             "dt": "2025-06-01 15:13:33",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "start": "2:10 PM",
             "in": "4",
-            "result": "Flyout",
-            "evo": "90.5",
-            "la": "28",
-            "dist": "324"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "john rave",
