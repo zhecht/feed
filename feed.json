@@ -1,22 +1,22 @@
 {
     "all": {
-        "pitchers": "42",
+        "pitchers": "43",
         "batters": "203",
-        "pitches": "2129",
-        "max velomax pitch velocity": "98.8",
+        "pitches": "2140",
+        "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "29.0",
-        "si%sinker %": "18.2",
+        "ff%fourseam fastball %": "28.9",
+        "si%sinker %": "18.3",
         "fc%cutter %": "9.3",
-        "fs%splitter %": "2.6",
-        "ch%changeup %": "11.6",
+        "fs%splitter %": "2.7",
+        "ch%changeup %": "11.5",
         "sl%slider %": "20.2",
         "cu%curve %": "9.2",
         "max evmax exit velocity": "111.4",
-        "hhhard hit": "144",
-        "hh%hard hit %": "36.8",
+        "hhhard hit": "146",
+        "hh%hard hit %": "37.2",
         "brlbarrels": "21",
-        "brl%barrel %": "5.4",
+        "brl%barrel %": "5.3",
         "ab": "503",
         "avg": ".221",
         "h": "111",
@@ -24,17 +24,17 @@
         "2b": "20",
         "3b": "3",
         "hr": "10",
-        "so": "121",
-        "bipballs in play": "391",
+        "so": "122",
+        "bipballs in play": "393",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:33:01.208313"
+        "updated": "2025-06-01 15:33:10.725028"
     },
     "stl @ tex": [
         {
             "player": "josh smith",
             "game": "stl @ tex",
-            "hr/park": "",
+            "hr/park": "30/30",
             "pa": "68",
             "dt": "2025-06-01 15:29:17",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
@@ -2018,17 +2018,17 @@
         {
             "player": "maverick handley",
             "game": "chw @ bal",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "57",
             "dt": "2025-06-01 15:31:33",
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
             "team": "bal",
             "start": "1:35 PM",
             "in": "7",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "95.6",
+            "la": "29",
+            "dist": "364"
         },
         {
             "player": "miguel vargas",
@@ -3739,7 +3739,7 @@
             "team": "ath",
             "start": "1:37 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5228,10 +5228,10 @@
             "team": "col",
             "start": "1:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "100.9",
+            "la": "-5",
+            "dist": "21"
         },
         {
             "player": "francisco lindor",
@@ -6015,6 +6015,21 @@
         }
     ],
     "sf @ mia": [
+        {
+            "player": "eric wagaman",
+            "game": "sf @ mia",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-06-01 15:33:04",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "Walk",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "tyler fitzgerald",
             "game": "sf @ mia",
