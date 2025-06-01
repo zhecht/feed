@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "19",
-        "batters": "146",
-        "pitches": "712",
+        "batters": "147",
+        "pitches": "716",
         "max velomax pitch velocity": "98.6",
         "min velomin pitch velocity": "72.3",
-        "ff%fourseam fastball %": "29.1",
+        "ff%fourseam fastball %": "29.3",
         "si%sinker %": "20.4",
         "fc%cutter %": "10.1",
         "fs%splitter %": "2.9",
-        "ch%changeup %": "11.1",
-        "sl%slider %": "19.7",
+        "ch%changeup %": "11.0",
+        "sl%slider %": "19.6",
         "cu%curve %": "6.7",
         "max evmax exit velocity": "108.0",
         "hhhard hit": "43",
-        "hh%hard hit %": "37.4",
+        "hh%hard hit %": "37.1",
         "brlbarrels": "6",
         "brl%barrel %": "5.2",
-        "ab": "163",
-        "avg": ".215",
-        "h": "35",
-        "1b": "25",
+        "ab": "165",
+        "avg": ".224",
+        "h": "37",
+        "1b": "27",
         "2b": "8",
         "3b": "0",
         "hr": "2",
         "so": "47",
-        "bipballs in play": "115",
+        "bipballs in play": "116",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-01 14:19:39.813312"
+        "updated": "2025-06-01 14:19:47.923205"
     },
     "stl @ tex": [
         {
@@ -559,6 +559,21 @@
     ],
     "bos @ atl": [
         {
+            "player": "marcell ozuna",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-06-01 14:19:47",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "1:35 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "austin riley",
             "game": "bos @ atl",
             "hr/park": "",
@@ -945,10 +960,10 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "77.9",
+            "la": "22",
+            "dist": "240"
         },
         {
             "player": "jackson holliday",
@@ -1292,7 +1307,7 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "102.1",
             "la": "-4",
             "dist": "32"
@@ -2114,6 +2129,21 @@
     ],
     "col @ nym": [
         {
+            "player": "luisangel acuna",
+            "game": "col @ nym",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-06-01 14:19:47",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "1:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyrone taylor",
             "game": "col @ nym",
             "hr/park": "",
@@ -2123,7 +2153,7 @@
             "team": "nym",
             "start": "1:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "79.3",
             "la": "14",
             "dist": "180"
