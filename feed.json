@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "47",
         "batters": "204",
-        "pitches": "2194",
+        "pitches": "2203",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "28.6",
-        "si%sinker %": "18.2",
-        "fc%cutter %": "9.7",
+        "si%sinker %": "18.1",
+        "fc%cutter %": "9.8",
         "fs%splitter %": "2.7",
-        "ch%changeup %": "11.4",
-        "sl%slider %": "20.3",
+        "ch%changeup %": "11.5",
+        "sl%slider %": "20.4",
         "cu%curve %": "9.0",
         "max evmax exit velocity": "111.4",
-        "hhhard hit": "148",
-        "hh%hard hit %": "36.9",
+        "hhhard hit": "149",
+        "hh%hard hit %": "37.0",
         "brlbarrels": "22",
         "brl%barrel %": "5.5",
-        "ab": "520",
-        "avg": ".217",
-        "h": "113",
+        "ab": "522",
+        "avg": ".218",
+        "h": "114",
         "1b": "80",
-        "2b": "20",
+        "2b": "21",
         "3b": "3",
         "hr": "10",
-        "so": "125",
-        "bipballs in play": "401",
+        "so": "127",
+        "bipballs in play": "403",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:36:24.329791"
+        "updated": "2025-06-01 15:36:34.059961"
     },
     "stl @ tex": [
         {
@@ -2060,6 +2060,21 @@
         }
     ],
     "chw @ bal": [
+        {
+            "player": "ramon urias",
+            "game": "chw @ bal",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-06-01 15:36:34",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jackson holliday",
             "game": "chw @ bal",
@@ -4581,10 +4596,10 @@
             "team": "laa",
             "start": "1:40 PM",
             "in": "7",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Field Error",
+            "evo": "107.0",
+            "la": "6",
+            "dist": "108"
         },
         {
             "player": "jorge soler",
@@ -5363,7 +5378,7 @@
             "team": "col",
             "start": "1:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6993,16 +7008,31 @@
     ],
     "det @ kc": [
         {
-            "player": "riley greene",
+            "player": "andy ibanez",
             "game": "det @ kc",
             "hr/park": "",
+            "pa": "43",
+            "dt": "2025-06-01 15:36:34",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "riley greene",
+            "game": "det @ kc",
+            "hr/park": "1/30",
             "pa": "42",
             "dt": "2025-06-01 15:35:19",
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
             "team": "det",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "107.8",
             "la": "20",
             "dist": "377"
@@ -7634,7 +7664,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8191,10 +8221,10 @@
             "team": "cin",
             "start": "2:20 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "75.8",
+            "la": "10",
+            "dist": "119"
         },
         {
             "player": "spencer steer",
