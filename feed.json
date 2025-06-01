@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "2",
-        "batters": "15",
-        "pitches": "46",
+        "pitchers": "3",
+        "batters": "16",
+        "pitches": "49",
         "max velomax pitch velocity": "97.8",
         "min velomin pitch velocity": "75.6",
-        "ff%fourseam fastball %": "32.6",
-        "si%sinker %": "23.9",
-        "fc%cutter %": "15.2",
+        "ff%fourseam fastball %": "30.6",
+        "si%sinker %": "24.5",
+        "fc%cutter %": "18.4",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "8.7",
-        "sl%slider %": "17.4",
-        "cu%curve %": "2.2",
+        "ch%changeup %": "8.2",
+        "sl%slider %": "16.3",
+        "cu%curve %": "2.0",
         "max evmax exit velocity": "104.4",
         "hhhard hit": "1",
         "hh%hard hit %": "11.1",
         "brlbarrels": "0",
         "brl%barrel %": "0.0",
-        "ab": "13",
-        "avg": ".231",
+        "ab": "14",
+        "avg": ".214",
         "h": "3",
         "1b": "2",
         "2b": "1",
@@ -28,7 +28,7 @@
         "bipballs in play": "9",
         "liveGames": 4,
         "totGames": 15,
-        "updated": "2025-06-01 13:36:40.569068"
+        "updated": "2025-06-01 13:36:47.774756"
     },
     "stl @ tex": [
         {
@@ -41,7 +41,7 @@
             "team": "tex",
             "start": "1:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -257,7 +257,23 @@
             "dist": ""
         }
     ],
-    "bos @ atl": [],
+    "bos @ atl": [
+        {
+            "player": "jarren duran",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-01 13:36:47",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "chw @ bal": [],
     "mil @ phi": [],
     "ath @ tor": [],
