@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "22",
         "batters": "180",
-        "pitches": "1057",
+        "pitches": "1061",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "72.0",
-        "ff%fourseam fastball %": "29.8",
+        "ff%fourseam fastball %": "29.7",
         "si%sinker %": "19.3",
         "fc%cutter %": "9.7",
         "fs%splitter %": "3.1",
         "ch%changeup %": "12.2",
         "sl%slider %": "18.3",
-        "cu%curve %": "7.6",
+        "cu%curve %": "7.7",
         "max evmax exit velocity": "111.4",
         "hhhard hit": "68",
-        "hh%hard hit %": "37.0",
+        "hh%hard hit %": "36.8",
         "brlbarrels": "9",
         "brl%barrel %": "4.9",
-        "ab": "251",
-        "avg": ".223",
-        "h": "56",
-        "1b": "42",
+        "ab": "252",
+        "avg": ".230",
+        "h": "58",
+        "1b": "44",
         "2b": "10",
         "3b": "0",
         "hr": "4",
-        "so": "65",
-        "bipballs in play": "184",
+        "so": "67",
+        "bipballs in play": "185",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 14:36:55.624421"
+        "updated": "2025-06-01 14:37:04.127808"
     },
     "stl @ tex": [
         {
@@ -703,7 +703,7 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1742,10 +1742,10 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "85.4",
+            "la": "61",
+            "dist": "189"
         },
         {
             "player": "edmundo sosa",
@@ -2155,6 +2155,21 @@
     ],
     "ath @ tor": [
         {
+            "player": "vladimir guerrero",
+            "game": "ath @ tor",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-06-01 14:37:02",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:37 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bo bichette",
             "game": "ath @ tor",
             "hr/park": "",
@@ -2164,7 +2179,7 @@
             "team": "tor",
             "start": "1:37 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "100.9",
             "la": "-23",
             "dist": "5"
@@ -3944,7 +3959,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4156,7 +4171,7 @@
             "team": "chc",
             "start": "2:20 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "101.9",
             "la": "16",
             "dist": "254"
