@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "47",
+        "pitchers": "48",
         "batters": "204",
-        "pitches": "2203",
+        "pitches": "2205",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "28.6",
+        "ff%fourseam fastball %": "28.5",
         "si%sinker %": "18.1",
         "fc%cutter %": "9.8",
         "fs%splitter %": "2.7",
@@ -14,10 +14,10 @@
         "cu%curve %": "9.0",
         "max evmax exit velocity": "111.4",
         "hhhard hit": "149",
-        "hh%hard hit %": "37.0",
+        "hh%hard hit %": "36.8",
         "brlbarrels": "22",
-        "brl%barrel %": "5.5",
-        "ab": "522",
+        "brl%barrel %": "5.4",
+        "ab": "524",
         "avg": ".218",
         "h": "114",
         "1b": "80",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "10",
         "so": "127",
-        "bipballs in play": "403",
+        "bipballs in play": "405",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:36:53.658685"
+        "updated": "2025-06-01 15:37:03.260685"
     },
     "stl @ tex": [
         {
@@ -1083,6 +1083,21 @@
         }
     ],
     "bos @ atl": [
+        {
+            "player": "connor wong",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-06-01 15:37:03",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "Pop Out",
+            "evo": "78.4",
+            "la": "86",
+            "dist": "23"
+        },
         {
             "player": "matt olson",
             "game": "bos @ atl",
@@ -2957,10 +2972,10 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "78.0",
+            "la": "75",
+            "dist": "96"
         },
         {
             "player": "rhys hoskins",
@@ -3820,6 +3835,21 @@
     ],
     "ath @ tor": [
         {
+            "player": "ernie clement",
+            "game": "ath @ tor",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-06-01 15:37:03",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:37 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "addison barger",
             "game": "ath @ tor",
             "hr/park": "",
@@ -3829,7 +3859,7 @@
             "team": "tor",
             "start": "1:37 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7664,7 +7694,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "5",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
