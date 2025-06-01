@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "74",
-        "batters": "216",
-        "pitches": "2726",
+        "pitchers": "75",
+        "batters": "217",
+        "pitches": "2731",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "29.3",
+        "ff%fourseam fastball %": "29.2",
         "si%sinker %": "17.6",
         "fc%cutter %": "9.7",
         "fs%splitter %": "2.5",
-        "ch%changeup %": "11.5",
+        "ch%changeup %": "11.6",
         "sl%slider %": "21.3",
         "cu%curve %": "8.1",
         "max evmax exit velocity": "117.4",
-        "hhhard hit": "183",
-        "hh%hard hit %": "37.0",
-        "brlbarrels": "28",
-        "brl%barrel %": "5.7",
-        "ab": "644",
+        "hhhard hit": "182",
+        "hh%hard hit %": "36.8",
+        "brlbarrels": "27",
+        "brl%barrel %": "5.5",
+        "ab": "645",
         "avg": ".216",
         "h": "139",
         "1b": "100",
         "2b": "24",
         "3b": "3",
         "hr": "12",
-        "so": "163",
-        "bipballs in play": "495",
+        "so": "164",
+        "bipballs in play": "494",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-01 16:12:09.936275"
+        "updated": "2025-06-01 16:12:20.446935"
     },
     "stl @ tex": [
         {
@@ -4345,21 +4345,6 @@
     ],
     "ath @ tor": [
         {
-            "player": "addison barger",
-            "game": "ath @ tor",
-            "hr/park": "",
-            "pa": "71",
-            "dt": "2025-06-01 16:11:48",
-            "img": "https://www.mlbstatic.com/team-logos/141.svg",
-            "team": "tor",
-            "start": "1:37 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "112.3",
-            "la": "21",
-            "dist": "412"
-        },
-        {
             "player": "alejandro kirk",
             "game": "ath @ tor",
             "hr/park": "",
@@ -5412,6 +5397,21 @@
     ],
     "laa @ cle": [
         {
+            "player": "gabriel arias",
+            "game": "laa @ cle",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-06-01 16:12:18",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "1:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "david fry",
             "game": "laa @ cle",
             "hr/park": "",
@@ -5421,7 +5421,7 @@
             "team": "cle",
             "start": "1:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10777,7 +10777,23 @@
             "dist": ""
         }
     ],
-    "wsh @ ari": [],
+    "wsh @ ari": [
+        {
+            "player": "cj abrams",
+            "game": "wsh @ ari",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-01 16:12:18",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "min @ sea": [],
     "pit @ sd": [],
     "nyy @ lad": []
