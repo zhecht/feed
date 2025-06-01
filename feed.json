@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "5",
-        "batters": "24",
-        "pitches": "84",
+        "pitchers": "7",
+        "batters": "28",
+        "pitches": "92",
         "max velomax pitch velocity": "97.8",
         "min velomin pitch velocity": "72.6",
-        "ff%fourseam fastball %": "21.4",
-        "si%sinker %": "32.1",
-        "fc%cutter %": "15.5",
+        "ff%fourseam fastball %": "22.8",
+        "si%sinker %": "32.6",
+        "fc%cutter %": "15.2",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "13.1",
-        "sl%slider %": "15.5",
-        "cu%curve %": "2.4",
+        "ch%changeup %": "12.0",
+        "sl%slider %": "14.1",
+        "cu%curve %": "3.3",
         "max evmax exit velocity": "104.4",
         "hhhard hit": "2",
-        "hh%hard hit %": "12.5",
+        "hh%hard hit %": "11.8",
         "brlbarrels": "1",
-        "brl%barrel %": "6.3",
-        "ab": "22",
-        "avg": ".318",
+        "brl%barrel %": "5.9",
+        "ab": "26",
+        "avg": ".269",
         "h": "7",
         "1b": "5",
         "2b": "2",
         "3b": "0",
         "hr": "0",
         "so": "4",
-        "bipballs in play": "16",
+        "bipballs in play": "17",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-06-01 13:41:10.222243"
+        "updated": "2025-06-01 13:41:17.602032"
     },
     "stl @ tex": [
+        {
+            "player": "sam haggerty",
+            "game": "stl @ tex",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-06-01 13:41:17",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "1:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "marcus semien",
             "game": "stl @ tex",
@@ -336,6 +351,21 @@
     ],
     "chw @ bal": [
         {
+            "player": "miguel vargas",
+            "game": "chw @ bal",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-06-01 13:41:17",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "1:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mike tauchman",
             "game": "chw @ bal",
             "hr/park": "",
@@ -377,10 +407,10 @@
             "team": "mil",
             "start": "1:35 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "78.6",
+            "la": "-49",
+            "dist": "4"
         },
         {
             "player": "jackson chourio",
@@ -398,10 +428,42 @@
             "dist": "3"
         }
     ],
-    "ath @ tor": [],
+    "ath @ tor": [
+        {
+            "player": "lawrence butler",
+            "game": "ath @ tor",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-01 13:41:17",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "1:37 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "laa @ cle": [],
     "col @ nym": [],
-    "sf @ mia": [],
+    "sf @ mia": [
+        {
+            "player": "heliot ramos",
+            "game": "sf @ mia",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-01 13:41:17",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "1:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "det @ kc": [],
     "tb @ hou": [],
     "cin @ chc": [],
