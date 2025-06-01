@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "67",
         "batters": "209",
-        "pitches": "2635",
+        "pitches": "2640",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "28.8",
-        "si%sinker %": "18.1",
+        "si%sinker %": "18.0",
         "fc%cutter %": "9.6",
         "fs%splitter %": "2.6",
-        "ch%changeup %": "11.5",
-        "sl%slider %": "21.2",
+        "ch%changeup %": "11.4",
+        "sl%slider %": "21.3",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "113.7",
         "hhhard hit": "176",
-        "hh%hard hit %": "36.8",
+        "hh%hard hit %": "36.7",
         "brlbarrels": "25",
         "brl%barrel %": "5.2",
         "ab": "624",
@@ -24,11 +24,11 @@
         "2b": "24",
         "3b": "3",
         "hr": "11",
-        "so": "158",
-        "bipballs in play": "478",
+        "so": "159",
+        "bipballs in play": "479",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 16:03:09.784026"
+        "updated": "2025-06-01 16:03:20.338934"
     },
     "stl @ tex": [
         {
@@ -3242,7 +3242,7 @@
             "team": "mil",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5316,7 +5316,7 @@
             "team": "laa",
             "start": "1:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8218,9 +8218,9 @@
             "start": "2:10 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "94.8",
+            "la": "-11",
+            "dist": "9"
         },
         {
             "player": "kyle isbel",
