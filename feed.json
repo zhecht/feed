@@ -1,22 +1,22 @@
 {
     "all": {
-        "pitchers": "15",
+        "pitchers": "14",
         "batters": "63",
-        "pitches": "267",
+        "pitches": "271",
         "max velomax pitch velocity": "98.6",
         "min velomin pitch velocity": "72.6",
-        "ff%fourseam fastball %": "27.0",
+        "ff%fourseam fastball %": "25.8",
         "si%sinker %": "22.5",
-        "fc%cutter %": "13.1",
-        "fs%splitter %": "3.7",
-        "ch%changeup %": "10.5",
-        "sl%slider %": "16.5",
-        "cu%curve %": "6.7",
+        "fc%cutter %": "13.3",
+        "fs%splitter %": "4.4",
+        "ch%changeup %": "10.3",
+        "sl%slider %": "17.0",
+        "cu%curve %": "6.6",
         "max evmax exit velocity": "105.5",
         "hhhard hit": "12",
-        "hh%hard hit %": "28.6",
+        "hh%hard hit %": "27.9",
         "brlbarrels": "4",
-        "brl%barrel %": "9.5",
+        "brl%barrel %": "9.3",
         "ab": "59",
         "avg": ".288",
         "h": "17",
@@ -24,11 +24,11 @@
         "2b": "4",
         "3b": "0",
         "hr": "0",
-        "so": "13",
-        "bipballs in play": "42",
+        "so": "16",
+        "bipballs in play": "43",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-06-01 13:52:46.165116"
+        "updated": "2025-06-01 13:52:53.663271"
     },
     "stl @ tex": [
         {
@@ -388,7 +388,7 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -647,7 +647,7 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -754,7 +754,7 @@
             "team": "ath",
             "start": "1:37 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -822,6 +822,21 @@
     ],
     "laa @ cle": [
         {
+            "player": "angel martinez",
+            "game": "laa @ cle",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-06-01 13:52:48",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "1:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "steven kwan",
             "game": "laa @ cle",
             "hr/park": "",
@@ -831,10 +846,10 @@
             "team": "cle",
             "start": "1:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "88.3",
+            "la": "39",
+            "dist": "286"
         },
         {
             "player": "taylor ward",
@@ -975,21 +990,6 @@
         }
     ],
     "sf @ mia": [
-        {
-            "player": "xavier edwards",
-            "game": "sf @ mia",
-            "hr/park": "",
-            "pa": "6",
-            "dt": "2025-06-01 13:52:18",
-            "img": "https://www.mlbstatic.com/team-logos/146.svg",
-            "team": "mia",
-            "start": "1:40 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "willy adames",
             "game": "sf @ mia",
