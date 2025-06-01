@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "126",
         "batters": "303",
-        "pitches": "4377",
+        "pitches": "4379",
         "max velomax pitch velocity": "102.2",
         "min velomin pitch velocity": "41.8",
         "ff%fourseam fastball %": "30.9",
@@ -13,11 +13,11 @@
         "sl%slider %": "21.2",
         "cu%curve %": "7.8",
         "max evmax exit velocity": "113.8",
-        "hhhard hit": "305",
-        "hh%hard hit %": "38.1",
+        "hhhard hit": "306",
+        "hh%hard hit %": "38.2",
         "brlbarrels": "75",
         "brl%barrel %": "9.4",
-        "ab": "1015",
+        "ab": "1016",
         "avg": ".262",
         "h": "266",
         "1b": "161",
@@ -25,10 +25,10 @@
         "3b": "5",
         "hr": "46",
         "so": "236",
-        "bipballs in play": "801",
+        "bipballs in play": "802",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-06-01 01:03:20.813566"
+        "updated": "2025-06-01 01:03:33.709432"
     },
     "cin @ chc": [
         {
@@ -15615,19 +15615,34 @@
     ],
     "wsh @ ari": [
         {
-            "player": "cj abrams",
+            "player": "james wood",
             "game": "wsh @ ari",
             "hr/park": "",
+            "pa": "83",
+            "dt": "2025-06-01 01:03:33",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "cj abrams",
+            "game": "wsh @ ari",
+            "hr/park": "0/30",
             "pa": "82",
             "dt": "2025-06-01 01:01:17",
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
             "team": "wsh",
             "start": "",
             "in": "9",
-            "result": "Caught Stealing 2B",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "98.1",
+            "la": "16",
+            "dist": "305"
         },
         {
             "player": "daylen lile",
