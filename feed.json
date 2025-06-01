@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "39",
         "batters": "202",
-        "pitches": "1993",
+        "pitches": "2000",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "29.4",
         "si%sinker %": "18.3",
-        "fc%cutter %": "9.1",
+        "fc%cutter %": "9.0",
         "fs%splitter %": "2.8",
         "ch%changeup %": "12.2",
         "sl%slider %": "19.2",
-        "cu%curve %": "9.0",
+        "cu%curve %": "9.1",
         "max evmax exit velocity": "111.4",
-        "hhhard hit": "133",
-        "hh%hard hit %": "36.8",
+        "hhhard hit": "134",
+        "hh%hard hit %": "37.0",
         "brlbarrels": "19",
-        "brl%barrel %": "5.3",
-        "ab": "475",
-        "avg": ".223",
-        "h": "106",
-        "1b": "77",
+        "brl%barrel %": "5.2",
+        "ab": "477",
+        "avg": ".224",
+        "h": "107",
+        "1b": "78",
         "2b": "18",
         "3b": "3",
         "hr": "8",
-        "so": "116",
-        "bipballs in play": "361",
+        "so": "118",
+        "bipballs in play": "362",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:25:42.646907"
+        "updated": "2025-06-01 15:25:51.872858"
     },
     "stl @ tex": [
         {
@@ -1024,6 +1024,21 @@
     ],
     "bos @ atl": [
         {
+            "player": "trevor story",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-06-01 15:25:48",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "marcelo mayer",
             "game": "bos @ atl",
             "hr/park": "",
@@ -1033,7 +1048,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1935,7 +1950,7 @@
             "team": "chw",
             "start": "1:35 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6423,6 +6438,21 @@
     ],
     "det @ kc": [
         {
+            "player": "jonathan india",
+            "game": "det @ kc",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-06-01 15:25:48",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle isbel",
             "game": "det @ kc",
             "hr/park": "",
@@ -6989,10 +7019,10 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "102.3",
+            "la": "1",
+            "dist": "52"
         },
         {
             "player": "jose caballero",
@@ -7501,7 +7531,7 @@
             "team": "chc",
             "start": "2:20 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
