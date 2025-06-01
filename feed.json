@@ -2,12 +2,12 @@
     "all": {
         "pitchers": "64",
         "batters": "209",
-        "pitches": "2524",
+        "pitches": "2526",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "28.2",
-        "si%sinker %": "18.3",
-        "fc%cutter %": "9.6",
+        "si%sinker %": "18.4",
+        "fc%cutter %": "9.7",
         "fs%splitter %": "2.7",
         "ch%changeup %": "11.4",
         "sl%slider %": "21.1",
@@ -24,11 +24,11 @@
         "2b": "22",
         "3b": "3",
         "hr": "11",
-        "so": "151",
+        "so": "152",
         "bipballs in play": "462",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:55:45.404627"
+        "updated": "2025-06-01 15:55:55.489296"
     },
     "stl @ tex": [
         {
@@ -4234,7 +4234,7 @@
             "team": "tor",
             "start": "1:37 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5181,10 +5181,10 @@
             "team": "cle",
             "start": "1:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "88.0",
+            "la": "-10",
+            "dist": "16"
         },
         {
             "player": "carlos santana",
@@ -7045,7 +7045,7 @@
             "team": "sf",
             "start": "1:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8744,10 +8744,10 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "6",
-            "result": "Flyout",
-            "evo": "87.7",
-            "la": "41",
-            "dist": "283"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "yainer diaz",
