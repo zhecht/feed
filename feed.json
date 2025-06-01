@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "42",
         "batters": "203",
-        "pitches": "2122",
+        "pitches": "2127",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "29.0",
@@ -10,25 +10,25 @@
         "fc%cutter %": "9.3",
         "fs%splitter %": "2.6",
         "ch%changeup %": "11.6",
-        "sl%slider %": "20.1",
+        "sl%slider %": "20.2",
         "cu%curve %": "9.1",
         "max evmax exit velocity": "111.4",
-        "hhhard hit": "142",
-        "hh%hard hit %": "36.6",
-        "brlbarrels": "20",
-        "brl%barrel %": "5.2",
-        "ab": "503",
-        "avg": ".219",
-        "h": "110",
+        "hhhard hit": "144",
+        "hh%hard hit %": "36.9",
+        "brlbarrels": "21",
+        "brl%barrel %": "5.4",
+        "ab": "502",
+        "avg": ".221",
+        "h": "111",
         "1b": "78",
         "2b": "20",
         "3b": "3",
-        "hr": "9",
+        "hr": "10",
         "so": "121",
-        "bipballs in play": "388",
+        "bipballs in play": "390",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:32:32.318299"
+        "updated": "2025-06-01 15:32:42.046577"
     },
     "stl @ tex": [
         {
@@ -41,10 +41,10 @@
             "team": "tex",
             "start": "1:05 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "106.3",
+            "la": "25",
+            "dist": "391"
         },
         {
             "player": "sam haggerty",
@@ -2025,7 +2025,7 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6807,10 +6807,10 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "107.0",
+            "la": "-25",
+            "dist": "4"
         },
         {
             "player": "bobby witt",
@@ -7409,7 +7409,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "5",
-            "result": "Mound Visit",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
