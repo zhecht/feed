@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "22",
         "batters": "178",
-        "pitches": "1020",
+        "pitches": "1023",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "72.0",
-        "ff%fourseam fastball %": "29.8",
+        "ff%fourseam fastball %": "29.7",
         "si%sinker %": "19.6",
-        "fc%cutter %": "9.6",
+        "fc%cutter %": "9.7",
         "fs%splitter %": "3.1",
-        "ch%changeup %": "12.2",
+        "ch%changeup %": "12.1",
         "sl%slider %": "18.0",
-        "cu%curve %": "7.5",
+        "cu%curve %": "7.6",
         "max evmax exit velocity": "109.8",
         "hhhard hit": "60",
-        "hh%hard hit %": "34.7",
+        "hh%hard hit %": "34.3",
         "brlbarrels": "6",
-        "brl%barrel %": "3.5",
-        "ab": "241",
-        "avg": ".216",
+        "brl%barrel %": "3.4",
+        "ab": "240",
+        "avg": ".217",
         "h": "52",
         "1b": "40",
         "2b": "10",
         "3b": "0",
         "hr": "2",
         "so": "64",
-        "bipballs in play": "173",
+        "bipballs in play": "175",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 14:35:24.048958"
+        "updated": "2025-06-01 14:35:32.453017"
     },
     "stl @ tex": [
         {
@@ -41,10 +41,10 @@
             "team": "stl",
             "start": "1:05 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "84.2",
+            "la": "2",
+            "dist": "51"
         },
         {
             "player": "wyatt langford",
@@ -2457,6 +2457,21 @@
     ],
     "laa @ cle": [
         {
+            "player": "taylor ward",
+            "game": "laa @ cle",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-06-01 14:35:03",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "1:40 PM",
+            "in": "4",
+            "result": "Flyout",
+            "evo": "93.8",
+            "la": "33",
+            "dist": "341"
+        },
+        {
             "player": "nolan schanuel",
             "game": "laa @ cle",
             "hr/park": "",
@@ -3180,21 +3195,6 @@
         }
     ],
     "sf @ mia": [
-        {
-            "player": "patrick bailey",
-            "game": "sf @ mia",
-            "hr/park": "",
-            "pa": "28",
-            "dt": "2025-06-01 14:35:18",
-            "img": "https://www.mlbstatic.com/team-logos/137.svg",
-            "team": "sf",
-            "start": "1:40 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "mike yastrzemski",
             "game": "sf @ mia",
@@ -4006,7 +4006,7 @@
             "team": "chc",
             "start": "2:20 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
