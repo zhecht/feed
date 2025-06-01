@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "23",
         "batters": "198",
-        "pitches": "1386",
+        "pitches": "1393",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "29.9",
         "si%sinker %": "19.5",
         "fc%cutter %": "9.8",
-        "fs%splitter %": "3.0",
+        "fs%splitter %": "2.9",
         "ch%changeup %": "12.1",
         "sl%slider %": "18.4",
         "cu%curve %": "7.3",
         "max evmax exit velocity": "111.4",
-        "hhhard hit": "96",
+        "hhhard hit": "97",
         "hh%hard hit %": "38.2",
         "brlbarrels": "13",
-        "brl%barrel %": "5.2",
-        "ab": "330",
+        "brl%barrel %": "5.1",
+        "ab": "331",
         "avg": ".224",
         "h": "74",
         "1b": "53",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "6",
         "so": "80",
-        "bipballs in play": "251",
+        "bipballs in play": "254",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 14:53:26.730989"
+        "updated": "2025-06-01 14:53:35.413068"
     },
     "stl @ tex": [
         {
@@ -808,10 +808,10 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "71.8",
+            "la": "10",
+            "dist": "110"
         },
         {
             "player": "marcell ozuna",
@@ -1461,19 +1461,34 @@
     ],
     "chw @ bal": [
         {
-            "player": "ramon urias",
+            "player": "gunnar henderson",
             "game": "chw @ bal",
             "hr/park": "",
+            "pa": "42",
+            "dt": "2025-06-01 14:53:32",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "ramon urias",
+            "game": "chw @ bal",
+            "hr/park": "0/30",
             "pa": "41",
             "dt": "2025-06-01 14:52:33",
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
             "team": "bal",
             "start": "1:35 PM",
             "in": "5",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "97.3",
+            "la": "20",
+            "dist": "307"
         },
         {
             "player": "jackson holliday",
@@ -5386,10 +5401,10 @@
             "team": "chc",
             "start": "2:20 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "72.5",
+            "la": "75",
+            "dist": "48"
         },
         {
             "player": "matt shaw",
