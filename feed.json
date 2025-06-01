@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "87",
         "batters": "245",
-        "pitches": "3034",
+        "pitches": "3037",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "30.0",
@@ -10,25 +10,25 @@
         "fc%cutter %": "10.0",
         "fs%splitter %": "2.7",
         "ch%changeup %": "11.8",
-        "sl%slider %": "20.8",
+        "sl%slider %": "20.7",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "117.4",
         "hhhard hit": "212",
         "hh%hard hit %": "38.5",
         "brlbarrels": "29",
         "brl%barrel %": "5.3",
-        "ab": "718",
+        "ab": "719",
         "avg": ".216",
         "h": "155",
         "1b": "110",
         "2b": "28",
         "3b": "3",
         "hr": "14",
-        "so": "186",
+        "so": "187",
         "bipballs in play": "551",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-01 16:35:12.484113"
+        "updated": "2025-06-01 16:35:23.373053"
     },
     "stl @ tex": [
         {
@@ -4369,10 +4369,10 @@
             "team": "ath",
             "start": "1:37 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Bunt Pop Out",
+            "evo": "79.0",
+            "la": "75",
+            "dist": "70"
         },
         {
             "player": "max schuemann",
@@ -8757,10 +8757,10 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "9",
-            "result": "Groundout",
-            "evo": "82.4",
-            "la": "-5",
-            "dist": "25"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "john rave",
@@ -10687,6 +10687,21 @@
     ],
     "cin @ chc": [
         {
+            "player": "matt shaw",
+            "game": "cin @ chc",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-06-01 16:35:19",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:20 PM",
+            "in": "7",
+            "result": "Caught Stealing 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nico hoerner",
             "game": "cin @ chc",
             "hr/park": "",
@@ -11583,7 +11598,7 @@
             "team": "wsh",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
