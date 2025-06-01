@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "10",
-        "batters": "43",
-        "pitches": "171",
+        "batters": "44",
+        "pitches": "175",
         "max velomax pitch velocity": "97.9",
         "min velomin pitch velocity": "72.6",
-        "ff%fourseam fastball %": "21.6",
-        "si%sinker %": "26.3",
-        "fc%cutter %": "15.8",
-        "fs%splitter %": "1.8",
-        "ch%changeup %": "12.3",
-        "sl%slider %": "15.2",
-        "cu%curve %": "7.0",
+        "ff%fourseam fastball %": "21.7",
+        "si%sinker %": "27.4",
+        "fc%cutter %": "14.3",
+        "fs%splitter %": "1.7",
+        "ch%changeup %": "12.6",
+        "sl%slider %": "14.9",
+        "cu%curve %": "7.4",
         "max evmax exit velocity": "104.4",
-        "hhhard hit": "5",
-        "hh%hard hit %": "19.2",
-        "brlbarrels": "1",
-        "brl%barrel %": "3.8",
-        "ab": "38",
-        "avg": ".316",
+        "hhhard hit": "7",
+        "hh%hard hit %": "23.3",
+        "brlbarrels": "2",
+        "brl%barrel %": "6.7",
+        "ab": "39",
+        "avg": ".308",
         "h": "12",
         "1b": "9",
         "2b": "3",
         "3b": "0",
         "hr": "0",
         "so": "7",
-        "bipballs in play": "26",
+        "bipballs in play": "30",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-06-01 13:46:30.182374"
+        "updated": "2025-06-01 13:46:37.592877"
     },
     "stl @ tex": [
         {
@@ -334,6 +334,21 @@
     ],
     "bos @ atl": [
         {
+            "player": "trevor story",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-06-01 13:46:32",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "marcelo mayer",
             "game": "bos @ atl",
             "hr/park": "",
@@ -411,19 +426,34 @@
     ],
     "chw @ bal": [
         {
-            "player": "jackson holliday",
+            "player": "ramon urias",
             "game": "chw @ bal",
             "hr/park": "",
+            "pa": "5",
+            "dt": "2025-06-01 13:46:32",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "98.8",
+            "la": "11",
+            "dist": "191"
+        },
+        {
+            "player": "jackson holliday",
+            "game": "chw @ bal",
+            "hr/park": "0/30",
             "pa": "4",
             "dt": "2025-06-01 13:45:17",
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
             "team": "bal",
             "start": "1:35 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "101.6",
+            "la": "23",
+            "dist": "347"
         },
         {
             "player": "miguel vargas",
@@ -582,21 +612,6 @@
     ],
     "laa @ cle": [
         {
-            "player": "taylor ward",
-            "game": "laa @ cle",
-            "hr/park": "",
-            "pa": "3",
-            "dt": "2025-06-01 13:46:17",
-            "img": "https://www.mlbstatic.com/team-logos/108.svg",
-            "team": "laa",
-            "start": "1:40 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "nolan schanuel",
             "game": "laa @ cle",
             "hr/park": "",
@@ -638,10 +653,10 @@
             "team": "col",
             "start": "1:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "58.1",
+            "la": "14",
+            "dist": "100"
         },
         {
             "player": "sam hilliard",
@@ -685,10 +700,10 @@
             "team": "sf",
             "start": "1:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "77.9",
+            "la": "40",
+            "dist": "254"
         },
         {
             "player": "tyler fitzgerald",
