@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "84",
-        "batters": "234",
-        "pitches": "2946",
+        "batters": "235",
+        "pitches": "2951",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "29.8",
+        "ff%fourseam fastball %": "29.9",
         "si%sinker %": "16.8",
         "fc%cutter %": "9.8",
         "fs%splitter %": "2.7",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.1",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "117.4",
-        "hhhard hit": "201",
-        "hh%hard hit %": "37.8",
+        "hhhard hit": "202",
+        "hh%hard hit %": "37.9",
         "brlbarrels": "29",
-        "brl%barrel %": "5.5",
-        "ab": "693",
-        "avg": ".214",
+        "brl%barrel %": "5.4",
+        "ab": "695",
+        "avg": ".213",
         "h": "148",
         "1b": "105",
         "2b": "26",
         "3b": "3",
         "hr": "14",
         "so": "178",
-        "bipballs in play": "532",
+        "bipballs in play": "533",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-01 16:27:12.069638"
+        "updated": "2025-06-01 16:27:22.659045"
     },
     "stl @ tex": [
         {
@@ -4359,6 +4359,21 @@
         }
     ],
     "ath @ tor": [
+        {
+            "player": "vladimir guerrero",
+            "game": "ath @ tor",
+            "hr/park": "",
+            "pa": "77",
+            "dt": "2025-06-01 16:27:19",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:37 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "bo bichette",
             "game": "ath @ tor",
@@ -11456,11 +11471,11 @@
     ],
     "min @ sea": [
         {
-            "player": "kody clemens",
+            "player": "ty france",
             "game": "min @ sea",
             "hr/park": "",
-            "pa": "9",
-            "dt": "2025-06-01 16:26:20",
+            "pa": "10",
+            "dt": "2025-06-01 16:27:19",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "start": "4:10 PM",
@@ -11469,6 +11484,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "kody clemens",
+            "game": "min @ sea",
+            "hr/park": "0/30",
+            "pa": "9",
+            "dt": "2025-06-01 16:26:20",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "99.2",
+            "la": "40",
+            "dist": "339"
         },
         {
             "player": "willi castro",
