@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "22",
-        "batters": "186",
-        "pitches": "1126",
+        "batters": "188",
+        "pitches": "1135",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "29.9",
-        "si%sinker %": "19.8",
+        "ff%fourseam fastball %": "30.0",
+        "si%sinker %": "19.7",
         "fc%cutter %": "9.3",
         "fs%splitter %": "2.9",
         "ch%changeup %": "12.1",
         "sl%slider %": "18.2",
         "cu%curve %": "7.7",
         "max evmax exit velocity": "111.4",
-        "hhhard hit": "78",
-        "hh%hard hit %": "39.0",
+        "hhhard hit": "79",
+        "hh%hard hit %": "39.1",
         "brlbarrels": "10",
         "brl%barrel %": "5.0",
-        "ab": "270",
-        "avg": ".222",
+        "ab": "273",
+        "avg": ".220",
         "h": "60",
         "1b": "44",
         "2b": "11",
         "3b": "1",
         "hr": "4",
         "so": "71",
-        "bipballs in play": "200",
+        "bipballs in play": "202",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 14:41:00.113276"
+        "updated": "2025-06-01 14:41:08.385160"
     },
     "stl @ tex": [
         {
@@ -748,7 +748,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1837,6 +1837,21 @@
         }
     ],
     "mil @ phi": [
+        {
+            "player": "sal frelick",
+            "game": "mil @ phi",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-06-01 14:41:02",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "Groundout",
+            "evo": "84.7",
+            "la": "",
+            "dist": "42"
+        },
         {
             "player": "daz cameron",
             "game": "mil @ phi",
@@ -3963,9 +3978,24 @@
     ],
     "det @ kc": [
         {
-            "player": "michael massey",
+            "player": "kyle isbel",
             "game": "det @ kc",
             "hr/park": "",
+            "pa": "17",
+            "dt": "2025-06-01 14:41:02",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "michael massey",
+            "game": "det @ kc",
+            "hr/park": "0/30",
             "pa": "16",
             "dt": "2025-06-01 14:40:33",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
@@ -4446,6 +4476,21 @@
         }
     ],
     "cin @ chc": [
+        {
+            "player": "tyler stephenson",
+            "game": "cin @ chc",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-06-01 14:41:02",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "2:20 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "96.1",
+            "la": "55",
+            "dist": "202"
+        },
         {
             "player": "dansby swanson",
             "game": "cin @ chc",
