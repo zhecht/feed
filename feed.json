@@ -1,36 +1,51 @@
 {
     "all": {
         "pitchers": "21",
-        "batters": "155",
-        "pitches": "763",
+        "batters": "154",
+        "pitches": "769",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "29.4",
-        "si%sinker %": "20.1",
-        "fc%cutter %": "10.0",
-        "fs%splitter %": "2.8",
-        "ch%changeup %": "11.7",
-        "sl%slider %": "19.3",
-        "cu%curve %": "6.9",
+        "si%sinker %": "19.9",
+        "fc%cutter %": "9.9",
+        "fs%splitter %": "2.7",
+        "ch%changeup %": "11.6",
+        "sl%slider %": "19.4",
+        "cu%curve %": "7.2",
         "max evmax exit velocity": "108.0",
         "hhhard hit": "44",
         "hh%hard hit %": "34.9",
         "brlbarrels": "6",
         "brl%barrel %": "4.8",
-        "ab": "179",
-        "avg": ".223",
+        "ab": "180",
+        "avg": ".222",
         "h": "40",
         "1b": "30",
         "2b": "8",
         "3b": "0",
         "hr": "2",
-        "so": "51",
+        "so": "52",
         "bipballs in play": "126",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 14:22:45.604554"
+        "updated": "2025-06-01 14:22:53.567956"
     },
     "stl @ tex": [
+        {
+            "player": "lars nootbaar",
+            "game": "stl @ tex",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-06-01 14:22:48",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "1:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "victor scott",
             "game": "stl @ tex",
@@ -966,6 +981,21 @@
     ],
     "chw @ bal": [
         {
+            "player": "coby mayo",
+            "game": "chw @ bal",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-06-01 14:22:48",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan ohearn",
             "game": "chw @ bal",
             "hr/park": "",
@@ -1352,7 +1382,7 @@
             "team": "mil",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1971,7 +2001,7 @@
             "team": "cle",
             "start": "1:40 PM",
             "in": "3",
-            "result": "Mound Visit",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2545,7 +2575,7 @@
             "team": "sf",
             "start": "1:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2840,17 +2870,17 @@
         {
             "player": "jonathan india",
             "game": "det @ kc",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "5",
             "dt": "2025-06-01 14:21:32",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "start": "2:10 PM",
             "in": "1",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "102.1",
+            "la": "15",
+            "dist": "304"
         },
         {
             "player": "andy ibanez",
@@ -2914,21 +2944,6 @@
         }
     ],
     "tb @ hou": [
-        {
-            "player": "yainer diaz",
-            "game": "tb @ hou",
-            "hr/park": "",
-            "pa": "8",
-            "dt": "2025-06-01 14:22:03",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "2:10 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "106.5",
-            "la": "16",
-            "dist": "335"
-        },
         {
             "player": "christian walker",
             "game": "tb @ hou",
@@ -3046,7 +3061,7 @@
             "team": "cin",
             "start": "2:20 PM",
             "in": "1",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
