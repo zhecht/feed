@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "22",
         "batters": "193",
-        "pitches": "1257",
+        "pitches": "1266",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "30.0",
+        "ff%fourseam fastball %": "29.9",
         "si%sinker %": "19.4",
-        "fc%cutter %": "9.1",
-        "fs%splitter %": "3.0",
-        "ch%changeup %": "12.3",
-        "sl%slider %": "18.4",
-        "cu%curve %": "7.8",
+        "fc%cutter %": "9.3",
+        "fs%splitter %": "3.2",
+        "ch%changeup %": "12.1",
+        "sl%slider %": "18.3",
+        "cu%curve %": "7.7",
         "max evmax exit velocity": "111.4",
         "hhhard hit": "86",
-        "hh%hard hit %": "39.1",
+        "hh%hard hit %": "38.7",
         "brlbarrels": "11",
         "brl%barrel %": "5.0",
-        "ab": "299",
-        "avg": ".217",
+        "ab": "303",
+        "avg": ".215",
         "h": "65",
         "1b": "48",
         "2b": "11",
         "3b": "1",
         "hr": "5",
-        "so": "77",
-        "bipballs in play": "220",
+        "so": "79",
+        "bipballs in play": "222",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 14:47:15.444449"
+        "updated": "2025-06-01 14:47:23.833540"
     },
     "stl @ tex": [
         {
@@ -754,6 +754,21 @@
     ],
     "bos @ atl": [
         {
+            "player": "austin riley",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-06-01 14:47:18",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ronald acuna",
             "game": "bos @ atl",
             "hr/park": "",
@@ -763,10 +778,10 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "82.7",
+            "la": "-30",
+            "dist": "4"
         },
         {
             "player": "nick allen",
@@ -1943,6 +1958,21 @@
     ],
     "mil @ phi": [
         {
+            "player": "kyle schwarber",
+            "game": "mil @ phi",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-06-01 14:46:47",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trea turner",
             "game": "mil @ phi",
             "hr/park": "",
@@ -2454,6 +2484,21 @@
         }
     ],
     "ath @ tor": [
+        {
+            "player": "lawrence butler",
+            "game": "ath @ tor",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-06-01 14:47:18",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "1:37 PM",
+            "in": "4",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "denzel clarke",
             "game": "ath @ tor",
@@ -3344,6 +3389,21 @@
     ],
     "col @ nym": [
         {
+            "player": "keston hiura",
+            "game": "col @ nym",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-06-01 14:47:18",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "1:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brenton doyle",
             "game": "col @ nym",
             "hr/park": "",
@@ -3353,7 +3413,7 @@
             "team": "col",
             "start": "1:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4604,10 +4664,10 @@
             "team": "tb",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "94.0",
+            "la": "22",
+            "dist": "314"
         },
         {
             "player": "matt thaiss",
