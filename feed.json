@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "52",
         "batters": "205",
-        "pitches": "2304",
+        "pitches": "2310",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "28.5",
         "si%sinker %": "18.2",
         "fc%cutter %": "10.0",
         "fs%splitter %": "2.6",
-        "ch%changeup %": "11.6",
+        "ch%changeup %": "11.7",
         "sl%slider %": "20.1",
         "cu%curve %": "8.9",
         "max evmax exit velocity": "111.4",
         "hhhard hit": "157",
-        "hh%hard hit %": "37.1",
+        "hh%hard hit %": "36.9",
         "brlbarrels": "23",
         "brl%barrel %": "5.4",
-        "ab": "548",
+        "ab": "549",
         "avg": ".217",
         "h": "119",
         "1b": "84",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "10",
         "so": "136",
-        "bipballs in play": "423",
+        "bipballs in play": "425",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:42:38.539959"
+        "updated": "2025-06-01 15:42:48.416728"
     },
     "stl @ tex": [
         {
@@ -41,7 +41,7 @@
             "team": "stl",
             "start": "1:05 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "96.5",
             "la": "-15",
             "dist": "9"
@@ -5639,6 +5639,21 @@
     ],
     "col @ nym": [
         {
+            "player": "juan soto",
+            "game": "col @ nym",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-06-01 15:42:48",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "1:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brandon nimmo",
             "game": "col @ nym",
             "hr/park": "",
@@ -7338,6 +7353,21 @@
     ],
     "det @ kc": [
         {
+            "player": "drew waters",
+            "game": "det @ kc",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-06-01 15:42:48",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "salvador perez",
             "game": "det @ kc",
             "hr/park": "",
@@ -7347,10 +7377,10 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "85.6",
+            "la": "57",
+            "dist": "200"
         },
         {
             "player": "spencer torkelson",
@@ -8024,7 +8054,7 @@
             "team": "tb",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
