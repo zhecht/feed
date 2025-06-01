@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "24",
         "batters": "200",
-        "pitches": "1449",
+        "pitches": "1458",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "30.0",
+        "ff%fourseam fastball %": "29.9",
         "si%sinker %": "19.5",
-        "fc%cutter %": "9.9",
+        "fc%cutter %": "9.8",
         "fs%splitter %": "2.8",
         "ch%changeup %": "12.1",
-        "sl%slider %": "18.4",
+        "sl%slider %": "18.6",
         "cu%curve %": "7.3",
         "max evmax exit velocity": "111.4",
         "hhhard hit": "102",
-        "hh%hard hit %": "38.5",
+        "hh%hard hit %": "38.3",
         "brlbarrels": "14",
         "brl%barrel %": "5.3",
         "ab": "346",
@@ -24,11 +24,11 @@
         "2b": "12",
         "3b": "3",
         "hr": "7",
-        "so": "81",
-        "bipballs in play": "265",
+        "so": "83",
+        "bipballs in play": "266",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 14:56:57.287433"
+        "updated": "2025-06-01 14:57:05.943306"
     },
     "stl @ tex": [
         {
@@ -2749,7 +2749,7 @@
             "team": "tor",
             "start": "1:37 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4345,10 +4345,10 @@
             "team": "mia",
             "start": "1:40 PM",
             "in": "5",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "84.6",
+            "la": "11",
+            "dist": "125"
         },
         {
             "player": "eric wagaman",
@@ -4908,6 +4908,21 @@
     ],
     "det @ kc": [
         {
+            "player": "vinnie pasquantino",
+            "game": "det @ kc",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-06-01 14:57:03",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bobby witt",
             "game": "det @ kc",
             "hr/park": "",
@@ -4917,7 +4932,7 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5269,21 +5284,6 @@
         }
     ],
     "tb @ hou": [
-        {
-            "player": "christian walker",
-            "game": "tb @ hou",
-            "hr/park": "",
-            "pa": "23",
-            "dt": "2025-06-01 14:56:33",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "2:10 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "jose altuve",
             "game": "tb @ hou",
