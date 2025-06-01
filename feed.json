@@ -2,12 +2,12 @@
     "all": {
         "pitchers": "91",
         "batters": "254",
-        "pitches": "3204",
+        "pitches": "3206",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "30.2",
         "si%sinker %": "16.7",
-        "fc%cutter %": "10.0",
+        "fc%cutter %": "10.1",
         "fs%splitter %": "2.6",
         "ch%changeup %": "11.5",
         "sl%slider %": "20.6",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "38.0",
         "brlbarrels": "29",
         "brl%barrel %": "5.0",
-        "ab": "756",
-        "avg": ".212",
+        "ab": "758",
+        "avg": ".211",
         "h": "160",
         "1b": "114",
         "2b": "29",
@@ -28,7 +28,7 @@
         "bipballs in play": "579",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-01 17:01:10.555055"
+        "updated": "2025-06-01 17:01:21.698276"
     },
     "stl @ tex": [
         {
@@ -11814,6 +11814,21 @@
     ],
     "wsh @ ari": [
         {
+            "player": "josh bell",
+            "game": "wsh @ ari",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-06-01 17:01:18",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "4:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "eugenio suarez",
             "game": "wsh @ ari",
             "hr/park": "",
@@ -12206,16 +12221,31 @@
     ],
     "min @ sea": [
         {
-            "player": "jorge polanco",
+            "player": "julio rodriguez",
             "game": "min @ sea",
             "hr/park": "",
+            "pa": "29",
+            "dt": "2025-06-01 17:01:18",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "4:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jorge polanco",
+            "game": "min @ sea",
+            "hr/park": "0/30",
             "pa": "28",
             "dt": "2025-06-01 17:00:04",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "105.8",
             "la": "17",
             "dist": "374"
