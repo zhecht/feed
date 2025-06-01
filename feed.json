@@ -2,35 +2,50 @@
     "all": {
         "pitchers": "22",
         "batters": "170",
-        "pitches": "895",
+        "pitches": "905",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "29.5",
-        "si%sinker %": "20.7",
+        "ff%fourseam fastball %": "29.6",
+        "si%sinker %": "20.4",
         "fc%cutter %": "9.3",
         "fs%splitter %": "3.1",
-        "ch%changeup %": "12.0",
-        "sl%slider %": "18.1",
-        "cu%curve %": "7.4",
+        "ch%changeup %": "12.2",
+        "sl%slider %": "17.8",
+        "cu%curve %": "7.6",
         "max evmax exit velocity": "109.8",
         "hhhard hit": "57",
-        "hh%hard hit %": "36.8",
+        "hh%hard hit %": "36.3",
         "brlbarrels": "6",
-        "brl%barrel %": "3.9",
-        "ab": "215",
-        "avg": ".223",
+        "brl%barrel %": "3.8",
+        "ab": "217",
+        "avg": ".221",
         "h": "48",
         "1b": "37",
         "2b": "9",
         "3b": "0",
         "hr": "2",
-        "so": "57",
-        "bipballs in play": "155",
+        "so": "58",
+        "bipballs in play": "157",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 14:29:11.677773"
+        "updated": "2025-06-01 14:29:19.967867"
     },
     "stl @ tex": [
+        {
+            "player": "josh smith",
+            "game": "stl @ tex",
+            "hr/park": "0/30",
+            "pa": "40",
+            "dt": "2025-06-01 14:29:18",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "1:05 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "94.2",
+            "la": "43",
+            "dist": "317"
+        },
         {
             "player": "sam haggerty",
             "game": "stl @ tex",
@@ -619,6 +634,21 @@
     ],
     "bos @ atl": [
         {
+            "player": "matt olson",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-06-01 14:29:18",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jarren duran",
             "game": "bos @ atl",
             "hr/park": "",
@@ -1095,7 +1125,7 @@
             "team": "chw",
             "start": "1:35 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1517,10 +1547,10 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "79.9",
+            "la": "-12",
+            "dist": "8"
         },
         {
             "player": "eric haase",
@@ -1884,6 +1914,21 @@
         }
     ],
     "ath @ tor": [
+        {
+            "player": "luis urias",
+            "game": "ath @ tor",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-06-01 14:29:18",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "1:37 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "miguel andujar",
             "game": "ath @ tor",
@@ -2518,21 +2563,6 @@
         }
     ],
     "col @ nym": [
-        {
-            "player": "starling marte",
-            "game": "col @ nym",
-            "hr/park": "",
-            "pa": "24",
-            "dt": "2025-06-01 14:29:03",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "1:40 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "ryan mcmahon",
             "game": "col @ nym",
@@ -3404,7 +3434,7 @@
             "team": "tb",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
