@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "33",
         "batters": "202",
-        "pitches": "1809",
+        "pitches": "1810",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "29.9",
         "si%sinker %": "18.5",
         "fc%cutter %": "9.5",
         "fs%splitter %": "3.0",
-        "ch%changeup %": "12.3",
-        "sl%slider %": "18.4",
-        "cu%curve %": "8.4",
+        "ch%changeup %": "12.4",
+        "sl%slider %": "18.3",
+        "cu%curve %": "8.3",
         "max evmax exit velocity": "111.4",
-        "hhhard hit": "124",
-        "hh%hard hit %": "37.3",
+        "hhhard hit": "125",
+        "hh%hard hit %": "37.7",
         "brlbarrels": "18",
         "brl%barrel %": "5.4",
-        "ab": "431",
+        "ab": "432",
         "avg": ".227",
         "h": "98",
         "1b": "71",
@@ -28,7 +28,7 @@
         "bipballs in play": "332",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:15:17.559188"
+        "updated": "2025-06-01 15:15:26.683500"
     },
     "stl @ tex": [
         {
@@ -1776,6 +1776,21 @@
     ],
     "chw @ bal": [
         {
+            "player": "heston kjerstad",
+            "game": "chw @ bal",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-06-01 15:15:20",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jorge mateo",
             "game": "chw @ bal",
             "hr/park": "",
@@ -2552,10 +2567,10 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "109.9",
+            "la": "9",
+            "dist": "192"
         },
         {
             "player": "sal frelick",
@@ -3274,7 +3289,7 @@
             "team": "tor",
             "start": "1:37 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5922,10 +5937,10 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "4",
-            "result": "Groundout",
-            "evo": "82.9",
-            "la": "-16",
-            "dist": "8"
+            "result": "Caught Stealing 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "nick loftin",
