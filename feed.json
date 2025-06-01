@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "28",
         "batters": "202",
-        "pitches": "1634",
+        "pitches": "1639",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "30.2",
-        "si%sinker %": "18.4",
-        "fc%cutter %": "9.6",
+        "ff%fourseam fastball %": "30.3",
+        "si%sinker %": "18.3",
+        "fc%cutter %": "9.7",
         "fs%splitter %": "3.1",
         "ch%changeup %": "12.3",
         "sl%slider %": "18.3",
-        "cu%curve %": "8.0",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "111.4",
-        "hhhard hit": "113",
+        "hhhard hit": "114",
         "hh%hard hit %": "37.7",
-        "brlbarrels": "16",
-        "brl%barrel %": "5.3",
-        "ab": "390",
-        "avg": ".226",
+        "brlbarrels": "17",
+        "brl%barrel %": "5.6",
+        "ab": "391",
+        "avg": ".225",
         "h": "88",
         "1b": "65",
         "2b": "13",
         "3b": "3",
         "hr": "7",
         "so": "92",
-        "bipballs in play": "300",
+        "bipballs in play": "302",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:06:08.886855"
+        "updated": "2025-06-01 15:06:17.837568"
     },
     "stl @ tex": [
         {
@@ -1680,7 +1680,7 @@
             "team": "chw",
             "start": "1:35 PM",
             "in": "6",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3651,7 +3651,7 @@
             "team": "laa",
             "start": "1:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5472,10 +5472,10 @@
             "team": "det",
             "start": "2:10 PM",
             "in": "4",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "73.2",
+            "la": "31",
+            "dist": "261"
         },
         {
             "player": "drew waters",
@@ -6276,6 +6276,21 @@
         }
     ],
     "cin @ chc": [
+        {
+            "player": "seiya suzuki",
+            "game": "cin @ chc",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-06-01 15:06:17",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:20 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "100.9",
+            "la": "31",
+            "dist": "349"
+        },
         {
             "player": "kyle tucker",
             "game": "cin @ chc",
