@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "34",
         "batters": "202",
-        "pitches": "1916",
+        "pitches": "1919",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "29.6",
-        "si%sinker %": "18.5",
+        "ff%fourseam fastball %": "29.7",
+        "si%sinker %": "18.4",
         "fc%cutter %": "9.3",
         "fs%splitter %": "2.8",
         "ch%changeup %": "12.2",
         "sl%slider %": "18.7",
         "cu%curve %": "8.8",
         "max evmax exit velocity": "111.4",
-        "hhhard hit": "128",
-        "hh%hard hit %": "36.8",
+        "hhhard hit": "129",
+        "hh%hard hit %": "36.9",
         "brlbarrels": "18",
-        "brl%barrel %": "5.2",
-        "ab": "457",
-        "avg": ".223",
+        "brl%barrel %": "5.1",
+        "ab": "459",
+        "avg": ".222",
         "h": "102",
         "1b": "75",
         "2b": "16",
         "3b": "3",
         "hr": "8",
-        "so": "112",
-        "bipballs in play": "348",
+        "so": "111",
+        "bipballs in play": "350",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:20:42.593169"
+        "updated": "2025-06-01 15:20:52.013634"
     },
     "stl @ tex": [
         {
@@ -1003,7 +1003,7 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "7",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2678,6 +2678,21 @@
     ],
     "mil @ phi": [
         {
+            "player": "caleb durbin",
+            "game": "mil @ phi",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-06-01 15:20:49",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bryson stott",
             "game": "mil @ phi",
             "hr/park": "0/30",
@@ -3440,9 +3455,9 @@
             "start": "1:37 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "80.5",
+            "la": "14",
+            "dist": "188"
         },
         {
             "player": "vladimir guerrero",
@@ -7237,11 +7252,11 @@
     ],
     "cin @ chc": [
         {
-            "player": "elly de la cruz",
+            "player": "gavin lux",
             "game": "cin @ chc",
             "hr/park": "",
-            "pa": "29",
-            "dt": "2025-06-01 15:19:33",
+            "pa": "30",
+            "dt": "2025-06-01 15:20:49",
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
             "team": "cin",
             "start": "2:20 PM",
@@ -7250,6 +7265,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "elly de la cruz",
+            "game": "cin @ chc",
+            "hr/park": "0/30",
+            "pa": "29",
+            "dt": "2025-06-01 15:19:33",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "2:20 PM",
+            "in": "4",
+            "result": "Flyout",
+            "evo": "98.1",
+            "la": "39",
+            "dist": "309"
         },
         {
             "player": "santiago espinal",
