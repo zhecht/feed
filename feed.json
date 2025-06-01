@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "54",
         "batters": "205",
-        "pitches": "2317",
+        "pitches": "2323",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "28.5",
         "si%sinker %": "18.1",
         "fc%cutter %": "10.0",
         "fs%splitter %": "2.7",
-        "ch%changeup %": "11.7",
-        "sl%slider %": "20.2",
+        "ch%changeup %": "11.6",
+        "sl%slider %": "20.1",
         "cu%curve %": "8.9",
         "max evmax exit velocity": "111.4",
-        "hhhard hit": "157",
-        "hh%hard hit %": "36.8",
+        "hhhard hit": "159",
+        "hh%hard hit %": "37.1",
         "brlbarrels": "23",
         "brl%barrel %": "5.4",
-        "ab": "551",
-        "avg": ".216",
+        "ab": "554",
+        "avg": ".215",
         "h": "119",
         "1b": "84",
         "2b": "22",
         "3b": "3",
         "hr": "10",
-        "so": "136",
-        "bipballs in play": "427",
+        "so": "137",
+        "bipballs in play": "429",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:43:47.476202"
+        "updated": "2025-06-01 15:43:57.199221"
     },
     "stl @ tex": [
         {
@@ -1138,10 +1138,10 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "9",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "In Progress",
+            "evo": "100.1",
+            "la": "2",
+            "dist": "69"
         },
         {
             "player": "jarren duran",
@@ -2166,6 +2166,21 @@
     ],
     "chw @ bal": [
         {
+            "player": "joshua palacios",
+            "game": "chw @ bal",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-06-01 15:43:50",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "Groundout",
+            "evo": "105.0",
+            "la": "6",
+            "dist": "109"
+        },
+        {
             "player": "lenyn sosa",
             "game": "chw @ bal",
             "hr/park": "",
@@ -3082,6 +3097,21 @@
         }
     ],
     "mil @ phi": [
+        {
+            "player": "sal frelick",
+            "game": "mil @ phi",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-06-01 15:43:50",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "daz cameron",
             "game": "mil @ phi",
@@ -4024,7 +4054,7 @@
             "team": "ath",
             "start": "1:37 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8075,6 +8105,21 @@
     ],
     "tb @ hou": [
         {
+            "player": "josh lowe",
+            "game": "tb @ hou",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-06-01 15:43:50",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "matt thaiss",
             "game": "tb @ hou",
             "hr/park": "",
@@ -8671,7 +8716,7 @@
             "team": "chc",
             "start": "2:20 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
