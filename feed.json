@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "23",
         "batters": "197",
-        "pitches": "1371",
+        "pitches": "1379",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "29.8",
+        "ff%fourseam fastball %": "29.9",
         "si%sinker %": "19.5",
-        "fc%cutter %": "9.8",
+        "fc%cutter %": "9.9",
         "fs%splitter %": "3.0",
-        "ch%changeup %": "12.2",
-        "sl%slider %": "18.4",
+        "ch%changeup %": "12.1",
+        "sl%slider %": "18.3",
         "cu%curve %": "7.3",
         "max evmax exit velocity": "111.4",
         "hhhard hit": "95",
-        "hh%hard hit %": "38.5",
+        "hh%hard hit %": "38.2",
         "brlbarrels": "13",
-        "brl%barrel %": "5.3",
-        "ab": "324",
-        "avg": ".219",
-        "h": "71",
-        "1b": "50",
+        "brl%barrel %": "5.2",
+        "ab": "326",
+        "avg": ".224",
+        "h": "73",
+        "1b": "52",
         "2b": "12",
         "3b": "3",
         "hr": "6",
         "so": "80",
-        "bipballs in play": "247",
+        "bipballs in play": "249",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 14:52:43.185378"
+        "updated": "2025-06-01 14:52:51.702704"
     },
     "stl @ tex": [
         {
@@ -809,9 +809,9 @@
             "start": "1:35 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "71.8",
+            "la": "10",
+            "dist": "110"
         },
         {
             "player": "marcell ozuna",
@@ -1470,7 +1470,7 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3162,6 +3162,21 @@
     ],
     "laa @ cle": [
         {
+            "player": "nolan jones",
+            "game": "laa @ cle",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-06-01 14:52:47",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "1:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gabriel arias",
             "game": "laa @ cle",
             "hr/park": "",
@@ -4683,6 +4698,21 @@
     ],
     "det @ kc": [
         {
+            "player": "riley greene",
+            "game": "det @ kc",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-06-01 14:51:48",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "Single",
+            "evo": "73.5",
+            "la": "27",
+            "dist": "223"
+        },
+        {
             "player": "gleyber torres",
             "game": "det @ kc",
             "hr/park": "",
@@ -5009,7 +5039,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "106.6",
             "la": "-2",
             "dist": "34"
