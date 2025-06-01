@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "64",
         "batters": "209",
-        "pitches": "2529",
+        "pitches": "2536",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "28.2",
         "si%sinker %": "18.3",
-        "fc%cutter %": "9.8",
+        "fc%cutter %": "9.7",
         "fs%splitter %": "2.7",
         "ch%changeup %": "11.3",
-        "sl%slider %": "21.0",
+        "sl%slider %": "21.2",
         "cu%curve %": "8.6",
         "max evmax exit velocity": "113.7",
         "hhhard hit": "171",
-        "hh%hard hit %": "37.0",
+        "hh%hard hit %": "36.9",
         "brlbarrels": "24",
         "brl%barrel %": "5.2",
         "ab": "603",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "11",
         "so": "154",
-        "bipballs in play": "462",
+        "bipballs in play": "463",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:56:16.086251"
+        "updated": "2025-06-01 15:56:26.348743"
     },
     "stl @ tex": [
         {
@@ -3212,7 +3212,7 @@
             "team": "mil",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5181,10 +5181,10 @@
             "team": "cle",
             "start": "1:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "88.0",
+            "la": "-10",
+            "dist": "16"
         },
         {
             "player": "carlos santana",
@@ -7982,6 +7982,21 @@
         }
     ],
     "det @ kc": [
+        {
+            "player": "jake rogers",
+            "game": "det @ kc",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-06-01 15:56:19",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "javier baez",
             "game": "det @ kc",
