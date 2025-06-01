@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "22",
-        "batters": "184",
-        "pitches": "1120",
+        "batters": "186",
+        "pitches": "1123",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "30.0",
+        "ff%fourseam fastball %": "30.2",
         "si%sinker %": "19.6",
-        "fc%cutter %": "9.4",
+        "fc%cutter %": "9.3",
         "fs%splitter %": "2.9",
         "ch%changeup %": "12.1",
-        "sl%slider %": "18.2",
-        "cu%curve %": "7.8",
+        "sl%slider %": "18.1",
+        "cu%curve %": "7.7",
         "max evmax exit velocity": "111.4",
-        "hhhard hit": "76",
-        "hh%hard hit %": "38.4",
+        "hhhard hit": "78",
+        "hh%hard hit %": "39.0",
         "brlbarrels": "10",
-        "brl%barrel %": "5.1",
-        "ab": "267",
-        "avg": ".221",
-        "h": "59",
+        "brl%barrel %": "5.0",
+        "ab": "268",
+        "avg": ".224",
+        "h": "60",
         "1b": "44",
-        "2b": "10",
+        "2b": "11",
         "3b": "1",
         "hr": "4",
         "so": "70",
-        "bipballs in play": "198",
+        "bipballs in play": "200",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 14:40:26.128245"
+        "updated": "2025-06-01 14:40:34.548471"
     },
     "stl @ tex": [
         {
@@ -2682,21 +2682,6 @@
     ],
     "laa @ cle": [
         {
-            "player": "jose ramirez",
-            "game": "laa @ cle",
-            "hr/park": "",
-            "pa": "25",
-            "dt": "2025-06-01 14:39:47",
-            "img": "https://www.mlbstatic.com/team-logos/114.svg",
-            "team": "cle",
-            "start": "1:40 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jorge soler",
             "game": "laa @ cle",
             "hr/park": "",
@@ -3068,10 +3053,10 @@
             "team": "nym",
             "start": "1:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "110.1",
+            "la": "8",
+            "dist": "191"
         },
         {
             "player": "luis torrens",
@@ -3948,6 +3933,21 @@
     ],
     "det @ kc": [
         {
+            "player": "michael massey",
+            "game": "det @ kc",
+            "hr/park": "0/30",
+            "pa": "16",
+            "dt": "2025-06-01 14:40:33",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "96.8",
+            "la": "25",
+            "dist": "336"
+        },
+        {
             "player": "nick loftin",
             "game": "det @ kc",
             "hr/park": "",
@@ -4174,6 +4174,21 @@
         }
     ],
     "tb @ hou": [
+        {
+            "player": "jose caballero",
+            "game": "tb @ hou",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-06-01 14:40:33",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kameron misner",
             "game": "tb @ hou",
