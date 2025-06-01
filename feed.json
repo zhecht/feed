@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "22",
         "batters": "184",
-        "pitches": "1114",
+        "pitches": "1120",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "29.8",
-        "si%sinker %": "19.7",
+        "ff%fourseam fastball %": "30.0",
+        "si%sinker %": "19.6",
         "fc%cutter %": "9.4",
-        "fs%splitter %": "3.0",
-        "ch%changeup %": "12.2",
-        "sl%slider %": "18.1",
+        "fs%splitter %": "2.9",
+        "ch%changeup %": "12.1",
+        "sl%slider %": "18.2",
         "cu%curve %": "7.8",
         "max evmax exit velocity": "111.4",
-        "hhhard hit": "75",
-        "hh%hard hit %": "38.1",
+        "hhhard hit": "76",
+        "hh%hard hit %": "38.4",
         "brlbarrels": "10",
         "brl%barrel %": "5.1",
-        "ab": "265",
-        "avg": ".223",
+        "ab": "267",
+        "avg": ".221",
         "h": "59",
         "1b": "44",
         "2b": "10",
         "3b": "1",
         "hr": "4",
         "so": "70",
-        "bipballs in play": "197",
+        "bipballs in play": "198",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 14:40:09.108059"
+        "updated": "2025-06-01 14:40:17.618535"
     },
     "stl @ tex": [
         {
@@ -723,6 +723,21 @@
         }
     ],
     "bos @ atl": [
+        {
+            "player": "wilyer abreu",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-06-01 14:39:47",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "rafael devers",
             "game": "bos @ atl",
@@ -2667,6 +2682,21 @@
     ],
     "laa @ cle": [
         {
+            "player": "jose ramirez",
+            "game": "laa @ cle",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-06-01 14:39:47",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "1:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jorge soler",
             "game": "laa @ cle",
             "hr/park": "",
@@ -4381,10 +4411,10 @@
             "team": "chc",
             "start": "2:20 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "95.0",
+            "la": "70",
+            "dist": "76"
         },
         {
             "player": "pete crow armstrong",
