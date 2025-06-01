@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "111",
-        "batters": "284",
-        "pitches": "3833",
+        "batters": "285",
+        "pitches": "3838",
         "max velomax pitch velocity": "101.7",
         "min velomin pitch velocity": "70.5",
         "ff%fourseam fastball %": "30.9",
@@ -11,7 +11,7 @@
         "fs%splitter %": "2.8",
         "ch%changeup %": "11.2",
         "sl%slider %": "20.2",
-        "cu%curve %": "8.5",
+        "cu%curve %": "8.4",
         "max evmax exit velocity": "117.4",
         "hhhard hit": "271",
         "hh%hard hit %": "40.0",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "18",
         "so": "234",
-        "bipballs in play": "677",
+        "bipballs in play": "678",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-01 19:30:28.282648"
+        "updated": "2025-06-01 19:30:40.211206"
     },
     "stl @ tex": [
         {
@@ -13882,7 +13882,7 @@
             "team": "sd",
             "start": "5:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -14730,6 +14730,21 @@
     ],
     "nyy @ lad": [
         {
+            "player": "freddie freeman",
+            "game": "nyy @ lad",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-06-01 19:30:34",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "7:00 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "teoscar hernandez",
             "game": "nyy @ lad",
             "hr/park": "",
@@ -14739,10 +14754,10 @@
             "team": "lad",
             "start": "7:00 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "74.9",
+            "la": "-19",
+            "dist": "10"
         },
         {
             "player": "shohei ohtani",
