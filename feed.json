@@ -2,35 +2,50 @@
     "all": {
         "pitchers": "22",
         "batters": "170",
-        "pitches": "907",
+        "pitches": "925",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "29.4",
-        "si%sinker %": "20.5",
-        "fc%cutter %": "9.3",
-        "fs%splitter %": "3.1",
+        "ff%fourseam fastball %": "29.1",
+        "si%sinker %": "20.8",
+        "fc%cutter %": "9.4",
+        "fs%splitter %": "3.0",
         "ch%changeup %": "12.2",
-        "sl%slider %": "17.9",
-        "cu%curve %": "7.6",
+        "sl%slider %": "17.8",
+        "cu%curve %": "7.7",
         "max evmax exit velocity": "109.8",
         "hhhard hit": "57",
-        "hh%hard hit %": "36.3",
+        "hh%hard hit %": "35.8",
         "brlbarrels": "6",
         "brl%barrel %": "3.8",
-        "ab": "217",
-        "avg": ".221",
+        "ab": "221",
+        "avg": ".217",
         "h": "48",
         "1b": "37",
         "2b": "9",
         "3b": "0",
         "hr": "2",
-        "so": "58",
-        "bipballs in play": "157",
+        "so": "60",
+        "bipballs in play": "159",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 14:30:00.710854"
+        "updated": "2025-06-01 14:30:08.938438"
     },
     "stl @ tex": [
+        {
+            "player": "wyatt langford",
+            "game": "stl @ tex",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-01 14:30:03",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "1:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "josh smith",
             "game": "stl @ tex",
@@ -643,7 +658,7 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1116,6 +1131,21 @@
     ],
     "chw @ bal": [
         {
+            "player": "lenyn sosa",
+            "game": "chw @ bal",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-06-01 14:30:03",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andrew benintendi",
             "game": "chw @ bal",
             "hr/park": "",
@@ -1125,7 +1155,7 @@
             "team": "chw",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1538,6 +1568,21 @@
     ],
     "mil @ phi": [
         {
+            "player": "jt realmuto",
+            "game": "mil @ phi",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-06-01 14:30:03",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "1:35 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "75.9",
+            "la": "-6",
+            "dist": "10"
+        },
+        {
             "player": "nick castellanos",
             "game": "mil @ phi",
             "hr/park": "",
@@ -1914,6 +1959,21 @@
         }
     ],
     "ath @ tor": [
+        {
+            "player": "luis urias",
+            "game": "ath @ tor",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-06-01 14:29:18",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "1:37 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "miguel andujar",
             "game": "ath @ tor",
@@ -3282,7 +3342,7 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3601,10 +3661,10 @@
             "team": "chc",
             "start": "2:20 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "66.2",
+            "la": "61",
+            "dist": "147"
         },
         {
             "player": "gavin lux",
