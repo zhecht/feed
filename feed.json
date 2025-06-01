@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "22",
         "batters": "188",
-        "pitches": "1135",
+        "pitches": "1138",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "30.0",
         "si%sinker %": "19.7",
-        "fc%cutter %": "9.3",
+        "fc%cutter %": "9.2",
         "fs%splitter %": "2.9",
         "ch%changeup %": "12.1",
-        "sl%slider %": "18.2",
+        "sl%slider %": "18.4",
         "cu%curve %": "7.7",
         "max evmax exit velocity": "111.4",
-        "hhhard hit": "79",
-        "hh%hard hit %": "39.1",
+        "hhhard hit": "78",
+        "hh%hard hit %": "38.6",
         "brlbarrels": "10",
         "brl%barrel %": "5.0",
-        "ab": "273",
-        "avg": ".220",
+        "ab": "274",
+        "avg": ".219",
         "h": "60",
         "1b": "44",
         "2b": "11",
         "3b": "1",
         "hr": "4",
-        "so": "71",
+        "so": "72",
         "bipballs in play": "202",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 14:41:16.957679"
+        "updated": "2025-06-01 14:41:25.250943"
     },
     "stl @ tex": [
         {
@@ -748,7 +748,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3526,6 +3526,21 @@
     ],
     "sf @ mia": [
         {
+            "player": "otto lopez",
+            "game": "sf @ mia",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-06-01 14:41:19",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "heliot ramos",
             "game": "sf @ mia",
             "hr/park": "",
@@ -4235,6 +4250,21 @@
     ],
     "tb @ hou": [
         {
+            "player": "matt thaiss",
+            "game": "tb @ hou",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-06-01 14:41:19",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose caballero",
             "game": "tb @ hou",
             "hr/park": "",
@@ -4244,10 +4274,10 @@
             "team": "tb",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "91.8",
+            "la": "47",
+            "dist": "271"
         },
         {
             "player": "kameron misner",
@@ -4476,21 +4506,6 @@
         }
     ],
     "cin @ chc": [
-        {
-            "player": "tyler stephenson",
-            "game": "cin @ chc",
-            "hr/park": "",
-            "pa": "10",
-            "dt": "2025-06-01 14:41:02",
-            "img": "https://www.mlbstatic.com/team-logos/113.svg",
-            "team": "cin",
-            "start": "2:20 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "96.1",
-            "la": "55",
-            "dist": "202"
-        },
         {
             "player": "dansby swanson",
             "game": "cin @ chc",
