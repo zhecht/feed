@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "73",
         "batters": "213",
-        "pitches": "2688",
+        "pitches": "2693",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "29.0",
-        "si%sinker %": "17.9",
-        "fc%cutter %": "9.6",
+        "si%sinker %": "17.8",
+        "fc%cutter %": "9.7",
         "fs%splitter %": "2.6",
         "ch%changeup %": "11.5",
-        "sl%slider %": "21.2",
+        "sl%slider %": "21.3",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "117.4",
-        "hhhard hit": "177",
-        "hh%hard hit %": "36.3",
+        "hhhard hit": "178",
+        "hh%hard hit %": "36.5",
         "brlbarrels": "26",
         "brl%barrel %": "5.3",
         "ab": "634",
@@ -24,11 +24,11 @@
         "2b": "24",
         "3b": "3",
         "hr": "12",
-        "so": "161",
-        "bipballs in play": "487",
+        "so": "162",
+        "bipballs in play": "488",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 16:08:58.761307"
+        "updated": "2025-06-01 16:09:09.240299"
     },
     "stl @ tex": [
         {
@@ -4315,6 +4315,21 @@
     ],
     "ath @ tor": [
         {
+            "player": "alejandro kirk",
+            "game": "ath @ tor",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-06-01 16:09:04",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:37 PM",
+            "in": "8",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "george springer",
             "game": "ath @ tor",
             "hr/park": "",
@@ -7285,7 +7300,7 @@
             "team": "mia",
             "start": "1:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8307,10 +8322,10 @@
             "team": "det",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "95.1",
+            "la": "-6",
+            "dist": "15"
         },
         {
             "player": "wenceel perez",
@@ -9164,7 +9179,7 @@
             "team": "tb",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
