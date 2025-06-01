@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "22",
-        "batters": "179",
-        "pitches": "1035",
+        "batters": "180",
+        "pitches": "1038",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "72.0",
         "ff%fourseam fastball %": "29.9",
         "si%sinker %": "19.7",
-        "fc%cutter %": "9.8",
-        "fs%splitter %": "3.2",
-        "ch%changeup %": "12.1",
+        "fc%cutter %": "9.7",
+        "fs%splitter %": "3.1",
+        "ch%changeup %": "12.2",
         "sl%slider %": "17.8",
         "cu%curve %": "7.5",
         "max evmax exit velocity": "109.8",
-        "hhhard hit": "62",
-        "hh%hard hit %": "34.6",
+        "hhhard hit": "64",
+        "hh%hard hit %": "35.4",
         "brlbarrels": "6",
-        "brl%barrel %": "3.4",
-        "ab": "244",
-        "avg": ".213",
-        "h": "52",
-        "1b": "40",
+        "brl%barrel %": "3.3",
+        "ab": "246",
+        "avg": ".220",
+        "h": "54",
+        "1b": "42",
         "2b": "10",
         "3b": "0",
         "hr": "2",
         "so": "64",
-        "bipballs in play": "179",
+        "bipballs in play": "181",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 14:35:57.387995"
+        "updated": "2025-06-01 14:36:05.620582"
     },
     "stl @ tex": [
         {
@@ -2489,7 +2489,7 @@
         {
             "player": "taylor ward",
             "game": "laa @ cle",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "23",
             "dt": "2025-06-01 14:35:03",
             "img": "https://www.mlbstatic.com/team-logos/108.svg",
@@ -3226,6 +3226,21 @@
     ],
     "sf @ mia": [
         {
+            "player": "luis matos",
+            "game": "sf @ mia",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-06-01 14:36:03",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "1:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "patrick bailey",
             "game": "sf @ mia",
             "hr/park": "",
@@ -3235,10 +3250,10 @@
             "team": "sf",
             "start": "1:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "104.0",
+            "la": "-4",
+            "dist": "27"
         },
         {
             "player": "mike yastrzemski",
@@ -4056,6 +4071,21 @@
         }
     ],
     "cin @ chc": [
+        {
+            "player": "pete crow armstrong",
+            "game": "cin @ chc",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-06-01 14:36:03",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:20 PM",
+            "in": "1",
+            "result": "Single",
+            "evo": "101.9",
+            "la": "16",
+            "dist": "254"
+        },
         {
             "player": "seiya suzuki",
             "game": "cin @ chc",
