@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "34",
         "batters": "202",
-        "pitches": "1919",
+        "pitches": "1934",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "29.7",
-        "si%sinker %": "18.4",
+        "ff%fourseam fastball %": "29.5",
+        "si%sinker %": "18.5",
         "fc%cutter %": "9.3",
         "fs%splitter %": "2.8",
         "ch%changeup %": "12.2",
-        "sl%slider %": "18.7",
+        "sl%slider %": "18.8",
         "cu%curve %": "8.8",
         "max evmax exit velocity": "111.4",
         "hhhard hit": "129",
-        "hh%hard hit %": "36.9",
+        "hh%hard hit %": "36.6",
         "brlbarrels": "18",
         "brl%barrel %": "5.1",
-        "ab": "459",
-        "avg": ".222",
+        "ab": "462",
+        "avg": ".221",
         "h": "102",
         "1b": "75",
         "2b": "16",
         "3b": "3",
         "hr": "8",
-        "so": "111",
-        "bipballs in play": "350",
+        "so": "113",
+        "bipballs in play": "352",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:21:01.565577"
+        "updated": "2025-06-01 15:21:10.761191"
     },
     "stl @ tex": [
         {
@@ -1003,7 +1003,7 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4137,6 +4137,21 @@
     ],
     "laa @ cle": [
         {
+            "player": "nolan schanuel",
+            "game": "laa @ cle",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-06-01 15:21:04",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "1:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "zach neto",
             "game": "laa @ cle",
             "hr/park": "",
@@ -4784,6 +4799,21 @@
     ],
     "col @ nym": [
         {
+            "player": "keston hiura",
+            "game": "col @ nym",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-06-01 15:21:04",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "81.2",
+            "la": "-2",
+            "dist": "29"
+        },
+        {
             "player": "brenton doyle",
             "game": "col @ nym",
             "hr/park": "",
@@ -4793,10 +4823,10 @@
             "team": "col",
             "start": "1:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "91.6",
+            "la": "-10",
+            "dist": "14"
         },
         {
             "player": "ryan mcmahon",
@@ -6243,6 +6273,21 @@
     ],
     "det @ kc": [
         {
+            "player": "justyn henry malloy",
+            "game": "det @ kc",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-06-01 15:21:04",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "zach mckinstry",
             "game": "det @ kc",
             "hr/park": "",
@@ -6252,7 +6297,7 @@
             "team": "det",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
