@@ -2,16 +2,16 @@
     "all": {
         "pitchers": "22",
         "batters": "176",
-        "pitches": "986",
+        "pitches": "989",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "72.0",
         "ff%fourseam fastball %": "29.6",
-        "si%sinker %": "20.1",
+        "si%sinker %": "20.0",
         "fc%cutter %": "9.7",
         "fs%splitter %": "3.2",
-        "ch%changeup %": "12.0",
-        "sl%slider %": "18.0",
-        "cu%curve %": "7.4",
+        "ch%changeup %": "11.9",
+        "sl%slider %": "17.9",
+        "cu%curve %": "7.6",
         "max evmax exit velocity": "109.8",
         "hhhard hit": "60",
         "hh%hard hit %": "35.1",
@@ -28,7 +28,7 @@
         "bipballs in play": "171",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 14:34:00.640604"
+        "updated": "2025-06-01 14:34:08.974879"
     },
     "stl @ tex": [
         {
@@ -1176,6 +1176,21 @@
     ],
     "chw @ bal": [
         {
+            "player": "edgar quero",
+            "game": "chw @ bal",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-06-01 14:34:03",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis robert",
             "game": "chw @ bal",
             "hr/park": "",
@@ -1185,7 +1200,7 @@
             "team": "chw",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Catcher Interference",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3115,7 +3130,7 @@
             "team": "sf",
             "start": "1:40 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
