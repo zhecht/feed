@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "81",
+        "pitchers": "82",
         "batters": "226",
-        "pitches": "2855",
+        "pitches": "2860",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "29.5",
@@ -10,25 +10,25 @@
         "fc%cutter %": "9.9",
         "fs%splitter %": "2.6",
         "ch%changeup %": "11.6",
-        "sl%slider %": "21.0",
+        "sl%slider %": "21.1",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "117.4",
-        "hhhard hit": "189",
-        "hh%hard hit %": "36.9",
+        "hhhard hit": "190",
+        "hh%hard hit %": "37.0",
         "brlbarrels": "28",
-        "brl%barrel %": "5.5",
-        "ab": "671",
+        "brl%barrel %": "5.4",
+        "ab": "672",
         "avg": ".216",
         "h": "145",
         "1b": "104",
         "2b": "25",
         "3b": "3",
         "hr": "13",
-        "so": "174",
-        "bipballs in play": "512",
+        "so": "175",
+        "bipballs in play": "514",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-01 16:20:42.315083"
+        "updated": "2025-06-01 16:20:52.871085"
     },
     "stl @ tex": [
         {
@@ -9502,17 +9502,17 @@
         {
             "player": "jose caballero",
             "game": "tb @ hou",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "53",
             "dt": "2025-06-01 16:19:03",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "95.2",
+            "la": "24",
+            "dist": "350"
         },
         {
             "player": "mauricio dubon",
@@ -10296,6 +10296,21 @@
         }
     ],
     "cin @ chc": [
+        {
+            "player": "will benson",
+            "game": "cin @ chc",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-06-01 16:20:19",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "2:20 PM",
+            "in": "7",
+            "result": "Pop Out",
+            "evo": "68.1",
+            "la": "59",
+            "dist": "137"
+        },
         {
             "player": "tyler stephenson",
             "game": "cin @ chc",
@@ -11150,7 +11165,7 @@
             "team": "sea",
             "start": "4:10 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
