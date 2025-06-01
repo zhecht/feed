@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "28",
         "batters": "202",
-        "pitches": "1556",
+        "pitches": "1557",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "30.1",
-        "si%sinker %": "19.0",
+        "si%sinker %": "18.9",
         "fc%cutter %": "9.6",
         "fs%splitter %": "3.0",
         "ch%changeup %": "12.1",
@@ -14,23 +14,53 @@
         "cu%curve %": "7.8",
         "max evmax exit velocity": "111.4",
         "hhhard hit": "109",
-        "hh%hard hit %": "37.8",
+        "hh%hard hit %": "37.6",
         "brlbarrels": "14",
-        "brl%barrel %": "4.9",
-        "ab": "370",
-        "avg": ".230",
-        "h": "85",
-        "1b": "63",
+        "brl%barrel %": "4.8",
+        "ab": "373",
+        "avg": ".233",
+        "h": "87",
+        "1b": "65",
         "2b": "12",
         "3b": "3",
         "hr": "7",
         "so": "86",
-        "bipballs in play": "288",
+        "bipballs in play": "290",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:02:24.612291"
+        "updated": "2025-06-01 15:02:33.682832"
     },
     "stl @ tex": [
+        {
+            "player": "josh smith",
+            "game": "stl @ tex",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-06-01 15:02:33",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "1:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "sam haggerty",
+            "game": "stl @ tex",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-06-01 15:02:33",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "1:05 PM",
+            "in": "7",
+            "result": "Single",
+            "evo": "90.2",
+            "la": "-19",
+            "dist": "9"
+        },
         {
             "player": "marcus semien",
             "game": "stl @ tex",
@@ -1581,6 +1611,21 @@
     ],
     "chw @ bal": [
         {
+            "player": "luis robert",
+            "game": "chw @ bal",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-06-01 15:02:33",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "Lineout",
+            "evo": "91.8",
+            "la": "17",
+            "dist": "290"
+        },
+        {
             "player": "joshua palacios",
             "game": "chw @ bal",
             "hr/park": "",
@@ -1590,7 +1635,7 @@
             "team": "chw",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Field Error",
             "evo": "91.4",
             "la": "-2",
             "dist": "32"
@@ -2267,10 +2312,10 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "85.4",
+            "la": "-9",
+            "dist": "11"
         },
         {
             "player": "eric haase",
@@ -3471,7 +3516,7 @@
             "team": "laa",
             "start": "1:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4600,7 +4645,7 @@
             "team": "sf",
             "start": "1:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "81.2",
             "la": "25",
             "dist": "265"
@@ -5218,9 +5263,9 @@
             "start": "2:10 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "74.1",
-            "la": "7",
-            "dist": "81"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "salvador perez",
