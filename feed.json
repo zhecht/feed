@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "22",
         "batters": "180",
-        "pitches": "1044",
+        "pitches": "1057",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "72.0",
         "ff%fourseam fastball %": "29.8",
-        "si%sinker %": "19.5",
+        "si%sinker %": "19.3",
         "fc%cutter %": "9.7",
-        "fs%splitter %": "3.2",
-        "ch%changeup %": "12.3",
-        "sl%slider %": "18.0",
-        "cu%curve %": "7.5",
+        "fs%splitter %": "3.1",
+        "ch%changeup %": "12.2",
+        "sl%slider %": "18.3",
+        "cu%curve %": "7.6",
         "max evmax exit velocity": "111.4",
-        "hhhard hit": "66",
-        "hh%hard hit %": "36.3",
-        "brlbarrels": "8",
-        "brl%barrel %": "4.4",
-        "ab": "248",
-        "avg": ".218",
-        "h": "54",
-        "1b": "41",
+        "hhhard hit": "68",
+        "hh%hard hit %": "37.0",
+        "brlbarrels": "9",
+        "brl%barrel %": "4.9",
+        "ab": "251",
+        "avg": ".223",
+        "h": "56",
+        "1b": "42",
         "2b": "10",
         "3b": "0",
-        "hr": "3",
-        "so": "64",
-        "bipballs in play": "182",
+        "hr": "4",
+        "so": "65",
+        "bipballs in play": "184",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 14:36:30.803715"
+        "updated": "2025-06-01 14:36:39.005540"
     },
     "stl @ tex": [
         {
@@ -694,6 +694,21 @@
     ],
     "bos @ atl": [
         {
+            "player": "michael harris",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-06-01 14:36:33",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "eli white",
             "game": "bos @ atl",
             "hr/park": "",
@@ -1230,7 +1245,7 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1246,9 +1261,9 @@
             "start": "1:35 PM",
             "in": "4",
             "result": "Groundout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "72.2",
+            "la": "-14",
+            "dist": "8"
         },
         {
             "player": "luis robert",
@@ -2517,6 +2532,21 @@
     ],
     "laa @ cle": [
         {
+            "player": "jorge soler",
+            "game": "laa @ cle",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-06-01 14:36:33",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "1:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "taylor ward",
             "game": "laa @ cle",
             "hr/park": "0/30",
@@ -2863,6 +2893,21 @@
         }
     ],
     "col @ nym": [
+        {
+            "player": "brett baty",
+            "game": "col @ nym",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-06-01 14:36:33",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "1:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "pete alonso",
             "game": "col @ nym",
@@ -3258,17 +3303,17 @@
         {
             "player": "luis matos",
             "game": "sf @ mia",
-            "hr/park": "",
+            "hr/park": "30/30",
             "pa": "29",
             "dt": "2025-06-01 14:36:03",
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
             "team": "sf",
             "start": "1:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "102.1",
+            "la": "30",
+            "dist": "390"
         },
         {
             "player": "patrick bailey",
@@ -3702,10 +3747,10 @@
             "team": "det",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "108.1",
+            "la": "12",
+            "dist": "228"
         },
         {
             "player": "colt keith",
