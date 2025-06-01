@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "28",
         "batters": "201",
-        "pitches": "1534",
+        "pitches": "1538",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "30.1",
-        "si%sinker %": "19.0",
+        "si%sinker %": "19.1",
         "fc%cutter %": "9.7",
         "fs%splitter %": "2.9",
         "ch%changeup %": "12.1",
-        "sl%slider %": "18.4",
+        "sl%slider %": "18.5",
         "cu%curve %": "7.7",
         "max evmax exit velocity": "111.4",
         "hhhard hit": "109",
-        "hh%hard hit %": "38.7",
+        "hh%hard hit %": "38.5",
         "brlbarrels": "14",
-        "brl%barrel %": "5.0",
-        "ab": "368",
-        "avg": ".226",
-        "h": "83",
-        "1b": "61",
+        "brl%barrel %": "4.9",
+        "ab": "369",
+        "avg": ".228",
+        "h": "84",
+        "1b": "62",
         "2b": "12",
         "3b": "3",
         "hr": "7",
-        "so": "85",
-        "bipballs in play": "282",
+        "so": "86",
+        "bipballs in play": "283",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:01:31.083887"
+        "updated": "2025-06-01 15:01:39.968289"
     },
     "stl @ tex": [
         {
@@ -838,7 +838,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3954,9 +3954,9 @@
             "start": "1:40 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "77.2",
+            "la": "11",
+            "dist": "115"
         },
         {
             "player": "juan soto",
@@ -4555,7 +4555,7 @@
             "team": "sf",
             "start": "1:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5163,6 +5163,21 @@
     ],
     "det @ kc": [
         {
+            "player": "drew waters",
+            "game": "det @ kc",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-06-01 15:01:34",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "salvador perez",
             "game": "det @ kc",
             "hr/park": "",
@@ -5172,7 +5187,7 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "108.9",
             "la": "3",
             "dist": "108"
