@@ -1,22 +1,22 @@
 {
     "all": {
-        "pitchers": "41",
+        "pitchers": "42",
         "batters": "203",
-        "pitches": "2111",
+        "pitches": "2116",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "29.0",
-        "si%sinker %": "18.2",
+        "ff%fourseam fastball %": "28.9",
+        "si%sinker %": "18.3",
         "fc%cutter %": "9.3",
-        "fs%splitter %": "2.7",
-        "ch%changeup %": "11.7",
+        "fs%splitter %": "2.6",
+        "ch%changeup %": "11.6",
         "sl%slider %": "20.0",
-        "cu%curve %": "9.1",
+        "cu%curve %": "9.2",
         "max evmax exit velocity": "111.4",
-        "hhhard hit": "143",
-        "hh%hard hit %": "36.9",
-        "brlbarrels": "20",
-        "brl%barrel %": "5.2",
+        "hhhard hit": "144",
+        "hh%hard hit %": "37.0",
+        "brlbarrels": "21",
+        "brl%barrel %": "5.4",
         "ab": "501",
         "avg": ".220",
         "h": "110",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "9",
         "so": "121",
-        "bipballs in play": "388",
+        "bipballs in play": "389",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:31:44.658746"
+        "updated": "2025-06-01 15:31:54.183205"
     },
     "stl @ tex": [
         {
@@ -42,9 +42,9 @@
             "start": "1:05 PM",
             "in": "8",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "106.3",
+            "la": "25",
+            "dist": "391"
         },
         {
             "player": "sam haggerty",
@@ -1071,7 +1071,7 @@
         {
             "player": "austin riley",
             "game": "bos @ atl",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "63",
             "dt": "2025-06-01 15:30:17",
             "img": "https://www.mlbstatic.com/team-logos/144.svg",
@@ -3730,21 +3730,6 @@
     ],
     "ath @ tor": [
         {
-            "player": "lawrence butler",
-            "game": "ath @ tor",
-            "hr/park": "",
-            "pa": "50",
-            "dt": "2025-06-01 15:31:33",
-            "img": "https://www.mlbstatic.com/team-logos/133.svg",
-            "team": "ath",
-            "start": "1:37 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "denzel clarke",
             "game": "ath @ tor",
             "hr/park": "",
@@ -5218,6 +5203,21 @@
         }
     ],
     "col @ nym": [
+        {
+            "player": "orlando arcia",
+            "game": "col @ nym",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-06-01 15:31:47",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "1:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "francisco lindor",
             "game": "col @ nym",
@@ -7394,7 +7394,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Mound Visit",
             "evo": "",
             "la": "",
             "dist": ""
