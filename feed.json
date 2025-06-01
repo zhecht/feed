@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "21",
-        "batters": "164",
-        "pitches": "818",
+        "batters": "162",
+        "pitches": "820",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "29.6",
+        "ff%fourseam fastball %": "29.9",
         "si%sinker %": "20.2",
         "fc%cutter %": "9.8",
         "fs%splitter %": "2.7",
         "ch%changeup %": "11.6",
         "sl%slider %": "18.9",
-        "cu%curve %": "7.2",
+        "cu%curve %": "7.0",
         "max evmax exit velocity": "108.0",
-        "hhhard hit": "52",
-        "hh%hard hit %": "37.7",
+        "hhhard hit": "50",
+        "hh%hard hit %": "36.2",
         "brlbarrels": "6",
         "brl%barrel %": "4.3",
         "ab": "198",
@@ -28,7 +28,7 @@
         "bipballs in play": "138",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 14:25:11.942736"
+        "updated": "2025-06-01 14:25:20.120787"
     },
     "stl @ tex": [
         {
@@ -603,6 +603,21 @@
         }
     ],
     "bos @ atl": [
+        {
+            "player": "connor wong",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-06-01 14:25:17",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "Forceout",
+            "evo": "60.0",
+            "la": "-15",
+            "dist": "11"
+        },
         {
             "player": "kristian campbell",
             "game": "bos @ atl",
@@ -2399,6 +2414,21 @@
     ],
     "col @ nym": [
         {
+            "player": "ezequiel tovar",
+            "game": "col @ nym",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-06-01 14:25:17",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "1:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "sam hilliard",
             "game": "col @ nym",
             "hr/park": "",
@@ -3033,21 +3063,6 @@
     ],
     "det @ kc": [
         {
-            "player": "drew waters",
-            "game": "det @ kc",
-            "hr/park": "",
-            "pa": "9",
-            "dt": "2025-06-01 14:25:03",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "start": "2:10 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "salvador perez",
             "game": "det @ kc",
             "hr/park": "",
@@ -3057,10 +3072,10 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "1",
-            "result": "Single",
-            "evo": "100.5",
-            "la": "-9",
-            "dist": "14"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "vinnie pasquantino",
@@ -3169,21 +3184,6 @@
         }
     ],
     "tb @ hou": [
-        {
-            "player": "jonathan aranda",
-            "game": "tb @ hou",
-            "hr/park": "",
-            "pa": "9",
-            "dt": "2025-06-01 14:24:02",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "2:10 PM",
-            "in": "2",
-            "result": "Flyout",
-            "evo": "96.6",
-            "la": "29",
-            "dist": "378"
-        },
         {
             "player": "yainer diaz",
             "game": "tb @ hou",
@@ -3316,10 +3316,10 @@
             "team": "cin",
             "start": "2:20 PM",
             "in": "1",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "93.7",
+            "la": "16",
+            "dist": "219"
         },
         {
             "player": "santiago espinal",
