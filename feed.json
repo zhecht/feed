@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "33",
         "batters": "202",
-        "pitches": "1810",
+        "pitches": "1818",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "29.9",
+        "ff%fourseam fastball %": "29.8",
         "si%sinker %": "18.5",
         "fc%cutter %": "9.5",
         "fs%splitter %": "3.0",
-        "ch%changeup %": "12.4",
-        "sl%slider %": "18.3",
-        "cu%curve %": "8.3",
+        "ch%changeup %": "12.3",
+        "sl%slider %": "18.4",
+        "cu%curve %": "8.5",
         "max evmax exit velocity": "111.4",
         "hhhard hit": "125",
-        "hh%hard hit %": "37.7",
+        "hh%hard hit %": "37.4",
         "brlbarrels": "18",
         "brl%barrel %": "5.4",
-        "ab": "432",
-        "avg": ".227",
+        "ab": "434",
+        "avg": ".226",
         "h": "98",
         "1b": "71",
         "2b": "16",
         "3b": "3",
         "hr": "8",
-        "so": "105",
-        "bipballs in play": "332",
+        "so": "106",
+        "bipballs in play": "334",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:15:26.683500"
+        "updated": "2025-06-01 15:15:36.087224"
     },
     "stl @ tex": [
         {
@@ -2567,7 +2567,7 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "6",
-            "result": "Lineout",
+            "result": "In Progress",
             "evo": "109.9",
             "la": "9",
             "dist": "192"
@@ -3942,6 +3942,21 @@
     ],
     "laa @ cle": [
         {
+            "player": "chris taylor",
+            "game": "laa @ cle",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-01 15:15:33",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "1:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "daniel schneemann",
             "game": "laa @ cle",
             "hr/park": "",
@@ -4553,7 +4568,7 @@
             "team": "nym",
             "start": "1:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5235,6 +5250,21 @@
         }
     ],
     "sf @ mia": [
+        {
+            "player": "otto lopez",
+            "game": "sf @ mia",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-06-01 15:15:33",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "94.1",
+            "la": "13",
+            "dist": "249"
+        },
         {
             "player": "jesus sanchez",
             "game": "sf @ mia",
@@ -5937,10 +5967,10 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "4",
-            "result": "Caught Stealing 2B",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "82.9",
+            "la": "-16",
+            "dist": "8"
         },
         {
             "player": "nick loftin",
