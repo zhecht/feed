@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "22",
+        "pitchers": "23",
         "batters": "193",
-        "pitches": "1274",
+        "pitches": "1281",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "29.8",
         "si%sinker %": "19.4",
-        "fc%cutter %": "9.3",
-        "fs%splitter %": "3.2",
-        "ch%changeup %": "12.3",
-        "sl%slider %": "18.2",
+        "fc%cutter %": "9.4",
+        "fs%splitter %": "3.1",
+        "ch%changeup %": "12.4",
+        "sl%slider %": "18.3",
         "cu%curve %": "7.7",
         "max evmax exit velocity": "111.4",
         "hhhard hit": "86",
-        "hh%hard hit %": "38.7",
+        "hh%hard hit %": "38.4",
         "brlbarrels": "11",
-        "brl%barrel %": "5.0",
-        "ab": "303",
-        "avg": ".215",
+        "brl%barrel %": "4.9",
+        "ab": "304",
+        "avg": ".214",
         "h": "65",
         "1b": "48",
         "2b": "11",
         "3b": "1",
         "hr": "5",
-        "so": "79",
-        "bipballs in play": "222",
+        "so": "78",
+        "bipballs in play": "224",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 14:47:57.916297"
+        "updated": "2025-06-01 14:48:06.317718"
     },
     "stl @ tex": [
+        {
+            "player": "nolan arenado",
+            "game": "stl @ tex",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-06-01 14:48:03",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "1:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jake burger",
             "game": "stl @ tex",
@@ -1967,10 +1982,10 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "93.9",
+            "la": "19",
+            "dist": "271"
         },
         {
             "player": "trea turner",
@@ -2494,7 +2509,7 @@
             "team": "ath",
             "start": "1:37 PM",
             "in": "4",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3398,7 +3413,7 @@
             "team": "col",
             "start": "1:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3870,6 +3885,21 @@
         }
     ],
     "sf @ mia": [
+        {
+            "player": "tyler fitzgerald",
+            "game": "sf @ mia",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-06-01 14:48:03",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "1:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kyle stowers",
             "game": "sf @ mia",
@@ -4657,7 +4687,7 @@
         {
             "player": "josh lowe",
             "game": "tb @ hou",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "18",
             "dt": "2025-06-01 14:45:03",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
