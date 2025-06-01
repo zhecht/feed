@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "49",
         "batters": "204",
-        "pitches": "2273",
+        "pitches": "2280",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "28.4",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "37.0",
         "brlbarrels": "22",
         "brl%barrel %": "5.3",
-        "ab": "540",
-        "avg": ".217",
-        "h": "117",
-        "1b": "82",
+        "ab": "541",
+        "avg": ".214",
+        "h": "116",
+        "1b": "81",
         "2b": "22",
         "3b": "3",
         "hr": "10",
-        "so": "134",
+        "so": "136",
         "bipballs in play": "416",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:40:39.995297"
+        "updated": "2025-06-01 15:40:49.966872"
     },
     "stl @ tex": [
         {
@@ -41,7 +41,7 @@
             "team": "stl",
             "start": "1:05 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1108,7 +1108,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3032,10 +3032,10 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "97.2",
+            "la": "-8",
+            "dist": "21"
         },
         {
             "player": "kyle schwarber",
@@ -3949,10 +3949,10 @@
             "team": "ath",
             "start": "1:37 PM",
             "in": "7",
-            "result": "Single",
-            "evo": "99.9",
+            "result": "In Progress",
+            "evo": "",
             "la": "",
-            "dist": "47"
+            "dist": ""
         },
         {
             "player": "davis schneider",
@@ -7894,6 +7894,21 @@
         }
     ],
     "tb @ hou": [
+        {
+            "player": "matt thaiss",
+            "game": "tb @ hou",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-06-01 15:40:48",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jose altuve",
             "game": "tb @ hou",
