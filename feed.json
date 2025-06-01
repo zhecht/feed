@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "73",
         "batters": "213",
-        "pitches": "2698",
+        "pitches": "2700",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "29.0",
@@ -10,11 +10,11 @@
         "fc%cutter %": "9.6",
         "fs%splitter %": "2.6",
         "ch%changeup %": "11.5",
-        "sl%slider %": "21.3",
-        "cu%curve %": "8.2",
+        "sl%slider %": "21.4",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "117.4",
-        "hhhard hit": "178",
-        "hh%hard hit %": "36.5",
+        "hhhard hit": "179",
+        "hh%hard hit %": "36.6",
         "brlbarrels": "26",
         "brl%barrel %": "5.3",
         "ab": "636",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "12",
         "so": "163",
-        "bipballs in play": "488",
+        "bipballs in play": "489",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-01 16:10:02.029891"
+        "updated": "2025-06-01 16:10:12.395464"
     },
     "stl @ tex": [
         {
@@ -4330,6 +4330,21 @@
     ],
     "ath @ tor": [
         {
+            "player": "alejandro kirk",
+            "game": "ath @ tor",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-06-01 16:09:04",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:37 PM",
+            "in": "8",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "george springer",
             "game": "ath @ tor",
             "hr/park": "",
@@ -7291,21 +7306,6 @@
     ],
     "sf @ mia": [
         {
-            "player": "javier sanoja",
-            "game": "sf @ mia",
-            "hr/park": "",
-            "pa": "69",
-            "dt": "2025-06-01 16:09:48",
-            "img": "https://www.mlbstatic.com/team-logos/146.svg",
-            "team": "mia",
-            "start": "1:40 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "dane myers",
             "game": "sf @ mia",
             "hr/park": "",
@@ -9932,9 +9932,9 @@
             "start": "2:20 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "98.0",
+            "la": "19",
+            "dist": "292"
         },
         {
             "player": "gavin lux",
