@@ -2,16 +2,16 @@
     "all": {
         "pitchers": "32",
         "batters": "202",
-        "pitches": "1713",
+        "pitches": "1717",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "30.1",
         "si%sinker %": "18.2",
         "fc%cutter %": "9.7",
         "fs%splitter %": "3.1",
-        "ch%changeup %": "12.4",
+        "ch%changeup %": "12.3",
         "sl%slider %": "18.3",
-        "cu%curve %": "8.2",
+        "cu%curve %": "8.3",
         "max evmax exit velocity": "111.4",
         "hhhard hit": "118",
         "hh%hard hit %": "37.7",
@@ -24,11 +24,11 @@
         "2b": "15",
         "3b": "3",
         "hr": "7",
-        "so": "97",
+        "so": "98",
         "bipballs in play": "313",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:10:40.383655"
+        "updated": "2025-06-01 15:10:49.705858"
     },
     "stl @ tex": [
         {
@@ -903,6 +903,21 @@
         }
     ],
     "bos @ atl": [
+        {
+            "player": "rafael devers",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-06-01 15:10:48",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jarren duran",
             "game": "bos @ atl",
@@ -2438,21 +2453,6 @@
     ],
     "mil @ phi": [
         {
-            "player": "daz cameron",
-            "game": "mil @ phi",
-            "hr/park": "",
-            "pa": "46",
-            "dt": "2025-06-01 15:10:17",
-            "img": "https://www.mlbstatic.com/team-logos/158.svg",
-            "team": "mil",
-            "start": "1:35 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "rhys hoskins",
             "game": "mil @ phi",
             "hr/park": "",
@@ -3756,7 +3756,7 @@
             "team": "cle",
             "start": "1:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4975,7 +4975,7 @@
             "team": "mia",
             "start": "1:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
