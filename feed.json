@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "16",
-        "batters": "82",
-        "pitches": "348",
+        "batters": "83",
+        "pitches": "352",
         "max velomax pitch velocity": "98.6",
         "min velomin pitch velocity": "72.6",
-        "ff%fourseam fastball %": "26.1",
-        "si%sinker %": "22.1",
-        "fc%cutter %": "11.8",
+        "ff%fourseam fastball %": "25.9",
+        "si%sinker %": "22.4",
+        "fc%cutter %": "11.6",
         "fs%splitter %": "3.4",
-        "ch%changeup %": "12.9",
-        "sl%slider %": "16.7",
-        "cu%curve %": "6.9",
+        "ch%changeup %": "13.1",
+        "sl%slider %": "16.8",
+        "cu%curve %": "6.8",
         "max evmax exit velocity": "108.0",
-        "hhhard hit": "20",
-        "hh%hard hit %": "35.7",
+        "hhhard hit": "21",
+        "hh%hard hit %": "36.2",
         "brlbarrels": "5",
-        "brl%barrel %": "8.9",
-        "ab": "81",
-        "avg": ".259",
-        "h": "21",
+        "brl%barrel %": "8.6",
+        "ab": "82",
+        "avg": ".268",
+        "h": "22",
         "1b": "15",
-        "2b": "5",
+        "2b": "6",
         "3b": "0",
         "hr": "1",
-        "so": "20",
-        "bipballs in play": "56",
+        "so": "21",
+        "bipballs in play": "58",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-06-01 13:57:57.083991"
+        "updated": "2025-06-01 13:58:04.781423"
     },
     "stl @ tex": [
         {
@@ -433,7 +433,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -934,10 +934,10 @@
             "team": "tor",
             "start": "1:37 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Double",
+            "evo": "106.6",
             "la": "",
-            "dist": ""
+            "dist": "53"
         },
         {
             "player": "bo bichette",
@@ -1276,6 +1276,21 @@
     ],
     "sf @ mia": [
         {
+            "player": "agustin ramirez",
+            "game": "sf @ mia",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-06-01 13:58:02",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "otto lopez",
             "game": "sf @ mia",
             "hr/park": "",
@@ -1285,10 +1300,10 @@
             "team": "mia",
             "start": "1:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "53.9",
+            "la": "13",
+            "dist": "80"
         },
         {
             "player": "jesus sanchez",
