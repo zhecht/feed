@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "58",
+        "pitchers": "59",
         "batters": "208",
-        "pitches": "2408",
+        "pitches": "2414",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "28.3",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "36.9",
         "brlbarrels": "24",
         "brl%barrel %": "5.4",
-        "ab": "574",
-        "avg": ".220",
+        "ab": "576",
+        "avg": ".219",
         "h": "126",
         "1b": "90",
         "2b": "22",
         "3b": "3",
         "hr": "11",
         "so": "144",
-        "bipballs in play": "444",
+        "bipballs in play": "445",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:49:27.908437"
+        "updated": "2025-06-01 15:49:38.119973"
     },
     "stl @ tex": [
         {
@@ -1129,6 +1129,21 @@
     ],
     "bos @ atl": [
         {
+            "player": "michael harris",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-06-01 15:49:33",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "eli white",
             "game": "bos @ atl",
             "hr/park": "",
@@ -1138,10 +1153,10 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "9",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "76.9",
+            "la": "45",
+            "dist": "259"
         },
         {
             "player": "sean murphy",
@@ -5864,6 +5879,21 @@
     ],
     "col @ nym": [
         {
+            "player": "sam hilliard",
+            "game": "col @ nym",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-06-01 15:49:33",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "1:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brett baty",
             "game": "col @ nym",
             "hr/park": "",
@@ -7662,7 +7692,7 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
