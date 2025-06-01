@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "87",
         "batters": "245",
-        "pitches": "3032",
+        "pitches": "3034",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "30.0",
-        "si%sinker %": "16.6",
+        "si%sinker %": "16.7",
         "fc%cutter %": "10.0",
         "fs%splitter %": "2.7",
         "ch%changeup %": "11.8",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "38.5",
         "brlbarrels": "29",
         "brl%barrel %": "5.3",
-        "ab": "717",
-        "avg": ".215",
-        "h": "154",
-        "1b": "109",
+        "ab": "718",
+        "avg": ".216",
+        "h": "155",
+        "1b": "110",
         "2b": "28",
         "3b": "3",
         "hr": "14",
         "so": "186",
-        "bipballs in play": "550",
+        "bipballs in play": "551",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-01 16:34:40.308588"
+        "updated": "2025-06-01 16:34:51.375607"
     },
     "stl @ tex": [
         {
@@ -8748,6 +8748,21 @@
     ],
     "det @ kc": [
         {
+            "player": "nick loftin",
+            "game": "det @ kc",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-06-01 16:34:18",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "82.4",
+            "la": "-5",
+            "dist": "25"
+        },
+        {
             "player": "john rave",
             "game": "det @ kc",
             "hr/park": "",
@@ -8757,7 +8772,7 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "84.6",
             "la": "-8",
             "dist": "17"
@@ -10681,7 +10696,7 @@
             "team": "chc",
             "start": "2:20 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "95.6",
             "la": "-2",
             "dist": "41"
