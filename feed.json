@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "23",
-        "batters": "197",
-        "pitches": "1379",
+        "batters": "198",
+        "pitches": "1386",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "29.9",
         "si%sinker %": "19.5",
-        "fc%cutter %": "9.9",
+        "fc%cutter %": "9.8",
         "fs%splitter %": "3.0",
         "ch%changeup %": "12.1",
-        "sl%slider %": "18.3",
+        "sl%slider %": "18.4",
         "cu%curve %": "7.3",
         "max evmax exit velocity": "111.4",
-        "hhhard hit": "95",
+        "hhhard hit": "96",
         "hh%hard hit %": "38.2",
         "brlbarrels": "13",
         "brl%barrel %": "5.2",
-        "ab": "326",
+        "ab": "330",
         "avg": ".224",
-        "h": "73",
-        "1b": "52",
+        "h": "74",
+        "1b": "53",
         "2b": "12",
         "3b": "3",
         "hr": "6",
         "so": "80",
-        "bipballs in play": "249",
+        "bipballs in play": "251",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 14:53:09.247577"
+        "updated": "2025-06-01 14:53:17.925127"
     },
     "stl @ tex": [
         {
@@ -809,9 +809,9 @@
             "start": "1:35 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "71.8",
-            "la": "10",
-            "dist": "110"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "marcell ozuna",
@@ -3171,10 +3171,10 @@
             "team": "cle",
             "start": "1:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "99.6",
+            "la": "12",
+            "dist": "247"
         },
         {
             "player": "gabriel arias",
@@ -3628,6 +3628,21 @@
         }
     ],
     "col @ nym": [
+        {
+            "player": "luisangel acuna",
+            "game": "col @ nym",
+            "hr/park": "0/30",
+            "pa": "36",
+            "dt": "2025-06-01 14:53:17",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "1:40 PM",
+            "in": "5",
+            "result": "Lineout",
+            "evo": "93.9",
+            "la": "24",
+            "dist": "334"
+        },
         {
             "player": "jacob stallings",
             "game": "col @ nym",
@@ -4698,6 +4713,21 @@
     ],
     "det @ kc": [
         {
+            "player": "andy ibanez",
+            "game": "det @ kc",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-06-01 14:53:17",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "88.5",
+            "la": "-6",
+            "dist": "18"
+        },
+        {
             "player": "riley greene",
             "game": "det @ kc",
             "hr/park": "",
@@ -5030,6 +5060,21 @@
     ],
     "tb @ hou": [
         {
+            "player": "isaac paredes",
+            "game": "tb @ hou",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-06-01 14:53:17",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jeremy pena",
             "game": "tb @ hou",
             "hr/park": "",
@@ -5331,6 +5376,21 @@
         }
     ],
     "cin @ chc": [
+        {
+            "player": "reese mcguire",
+            "game": "cin @ chc",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-06-01 14:53:17",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:20 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "matt shaw",
             "game": "cin @ chc",
