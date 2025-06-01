@@ -1,13 +1,13 @@
 {
     "all": {
-        "pitchers": "52",
+        "pitchers": "54",
         "batters": "205",
-        "pitches": "2310",
+        "pitches": "2313",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "28.5",
         "si%sinker %": "18.2",
-        "fc%cutter %": "10.0",
+        "fc%cutter %": "9.9",
         "fs%splitter %": "2.6",
         "ch%changeup %": "11.7",
         "sl%slider %": "20.1",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "36.9",
         "brlbarrels": "23",
         "brl%barrel %": "5.4",
-        "ab": "549",
-        "avg": ".217",
+        "ab": "551",
+        "avg": ".216",
         "h": "119",
         "1b": "84",
         "2b": "22",
         "3b": "3",
         "hr": "10",
         "so": "136",
-        "bipballs in play": "425",
+        "bipballs in play": "426",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:42:58.285529"
+        "updated": "2025-06-01 15:43:08.076185"
     },
     "stl @ tex": [
         {
@@ -1129,6 +1129,21 @@
     ],
     "bos @ atl": [
         {
+            "player": "ozzie albies",
+            "game": "bos @ atl",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-06-01 15:43:03",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jarren duran",
             "game": "bos @ atl",
             "hr/park": "",
@@ -2150,6 +2165,21 @@
         }
     ],
     "chw @ bal": [
+        {
+            "player": "lenyn sosa",
+            "game": "chw @ bal",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-06-01 15:43:03",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "Groundout",
+            "evo": "73.1",
+            "la": "-19",
+            "dist": "4"
+        },
         {
             "player": "andrew benintendi",
             "game": "chw @ bal",
@@ -3994,7 +4024,7 @@
             "team": "ath",
             "start": "1:37 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
