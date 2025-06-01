@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "39",
         "batters": "202",
-        "pitches": "2019",
+        "pitches": "2025",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "29.4",
@@ -11,24 +11,24 @@
         "fs%splitter %": "2.8",
         "ch%changeup %": "12.0",
         "sl%slider %": "19.6",
-        "cu%curve %": "9.2",
+        "cu%curve %": "9.1",
         "max evmax exit velocity": "111.4",
         "hhhard hit": "135",
-        "hh%hard hit %": "37.0",
+        "hh%hard hit %": "36.9",
         "brlbarrels": "19",
         "brl%barrel %": "5.2",
-        "ab": "478",
-        "avg": ".226",
+        "ab": "479",
+        "avg": ".225",
         "h": "108",
         "1b": "78",
         "2b": "18",
         "3b": "3",
         "hr": "9",
         "so": "118",
-        "bipballs in play": "365",
+        "bipballs in play": "366",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:26:39.127191"
+        "updated": "2025-06-01 15:26:48.779474"
     },
     "stl @ tex": [
         {
@@ -41,7 +41,7 @@
             "team": "tex",
             "start": "1:05 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2767,6 +2767,21 @@
         }
     ],
     "mil @ phi": [
+        {
+            "player": "brice turang",
+            "game": "mil @ phi",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-06-01 15:26:48",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "joey ortiz",
             "game": "mil @ phi",
@@ -5701,6 +5716,21 @@
     ],
     "sf @ mia": [
         {
+            "player": "heliot ramos",
+            "game": "sf @ mia",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-06-01 15:26:18",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis matos",
             "game": "sf @ mia",
             "hr/park": "",
@@ -5710,10 +5740,10 @@
             "team": "sf",
             "start": "1:40 PM",
             "in": "7",
-            "result": "Game Advisory",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "94.6",
+            "la": "-25",
+            "dist": "6"
         },
         {
             "player": "kyle stowers",
