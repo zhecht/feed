@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "35",
         "batters": "202",
-        "pitches": "1945",
+        "pitches": "1949",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "29.5",
-        "si%sinker %": "18.6",
-        "fc%cutter %": "9.3",
+        "si%sinker %": "18.5",
+        "fc%cutter %": "9.2",
         "fs%splitter %": "2.8",
         "ch%changeup %": "12.2",
         "sl%slider %": "18.8",
-        "cu%curve %": "8.9",
+        "cu%curve %": "9.0",
         "max evmax exit velocity": "111.4",
-        "hhhard hit": "129",
-        "hh%hard hit %": "36.4",
+        "hhhard hit": "130",
+        "hh%hard hit %": "36.7",
         "brlbarrels": "18",
         "brl%barrel %": "5.1",
-        "ab": "463",
+        "ab": "464",
         "avg": ".222",
         "h": "103",
         "1b": "76",
         "2b": "16",
         "3b": "3",
         "hr": "8",
-        "so": "113",
+        "so": "115",
         "bipballs in play": "354",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:21:57.700773"
+        "updated": "2025-06-01 15:22:06.788066"
     },
     "stl @ tex": [
         {
@@ -4823,10 +4823,10 @@
             "team": "col",
             "start": "1:40 PM",
             "in": "7",
-            "result": "Groundout",
-            "evo": "81.2",
-            "la": "-2",
-            "dist": "29"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "brenton doyle",
@@ -5560,7 +5560,7 @@
             "team": "mia",
             "start": "1:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6297,7 +6297,7 @@
             "team": "det",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6830,6 +6830,21 @@
     ],
     "tb @ hou": [
         {
+            "player": "jose caballero",
+            "game": "tb @ hou",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-06-01 15:22:03",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kameron misner",
             "game": "tb @ hou",
             "hr/park": "",
@@ -6839,10 +6854,10 @@
             "team": "tb",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Groundout",
+            "evo": "102.1",
             "la": "",
-            "dist": ""
+            "dist": "50"
         },
         {
             "player": "jake mangum",
