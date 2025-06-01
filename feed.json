@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "125",
         "batters": "303",
-        "pitches": "4353",
+        "pitches": "4356",
         "max velomax pitch velocity": "102.2",
         "min velomin pitch velocity": "41.8",
         "ff%fourseam fastball %": "30.8",
-        "si%sinker %": "15.7",
+        "si%sinker %": "15.8",
         "fc%cutter %": "8.0",
         "fs%splitter %": "4.2",
         "ch%changeup %": "11.5",
-        "sl%slider %": "21.4",
+        "sl%slider %": "21.3",
         "cu%curve %": "7.7",
         "max evmax exit velocity": "113.8",
         "hhhard hit": "304",
-        "hh%hard hit %": "38.1",
+        "hh%hard hit %": "38.0",
         "brlbarrels": "75",
         "brl%barrel %": "9.4",
-        "ab": "1012",
+        "ab": "1013",
         "avg": ".262",
         "h": "265",
         "1b": "160",
@@ -25,10 +25,10 @@
         "3b": "5",
         "hr": "46",
         "so": "235",
-        "bipballs in play": "798",
+        "bipballs in play": "799",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-06-01 00:49:15.122146"
+        "updated": "2025-06-01 00:49:27.571048"
     },
     "cin @ chc": [
         {
@@ -15615,6 +15615,21 @@
     ],
     "wsh @ ari": [
         {
+            "player": "pavin smith",
+            "game": "wsh @ ari",
+            "hr/park": "",
+            "pa": "77",
+            "dt": "2025-06-01 00:49:18",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "eugenio suarez",
             "game": "wsh @ ari",
             "hr/park": "",
@@ -15624,10 +15639,10 @@
             "team": "ari",
             "start": "",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "79.3",
+            "la": "9",
+            "dist": "111"
         },
         {
             "player": "jose tena",
