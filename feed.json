@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "32",
         "batters": "202",
-        "pitches": "1730",
+        "pitches": "1733",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "30.1",
-        "si%sinker %": "18.3",
+        "si%sinker %": "18.2",
         "fc%cutter %": "9.6",
         "fs%splitter %": "3.1",
         "ch%changeup %": "12.4",
         "sl%slider %": "18.2",
-        "cu%curve %": "8.4",
+        "cu%curve %": "8.3",
         "max evmax exit velocity": "111.4",
         "hhhard hit": "120",
-        "hh%hard hit %": "37.9",
+        "hh%hard hit %": "37.6",
         "brlbarrels": "18",
-        "brl%barrel %": "5.7",
-        "ab": "411",
-        "avg": ".224",
+        "brl%barrel %": "5.6",
+        "ab": "414",
+        "avg": ".222",
         "h": "92",
         "1b": "66",
         "2b": "15",
         "3b": "3",
         "hr": "8",
-        "so": "100",
-        "bipballs in play": "317",
+        "so": "99",
+        "bipballs in play": "319",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:11:26.068312"
+        "updated": "2025-06-01 15:11:35.132299"
     },
     "stl @ tex": [
         {
@@ -913,7 +913,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "7",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2477,7 +2477,7 @@
             "team": "mil",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "86.1",
             "la": "-17",
             "dist": "7"
@@ -3160,6 +3160,21 @@
     ],
     "ath @ tor": [
         {
+            "player": "myles straw",
+            "game": "ath @ tor",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-06-01 15:11:33",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:37 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "89.8",
+            "la": "12",
+            "dist": "222"
+        },
+        {
             "player": "drew avans",
             "game": "ath @ tor",
             "hr/park": "",
@@ -3776,6 +3791,21 @@
         }
     ],
     "laa @ cle": [
+        {
+            "player": "carlos santana",
+            "game": "laa @ cle",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-06-01 15:11:33",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "1:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kyle manzardo",
             "game": "laa @ cle",
@@ -5010,6 +5040,21 @@
         }
     ],
     "sf @ mia": [
+        {
+            "player": "xavier edwards",
+            "game": "sf @ mia",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-06-01 15:11:33",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "64.6",
+            "la": "25",
+            "dist": "195"
+        },
         {
             "player": "javier sanoja",
             "game": "sf @ mia",
