@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "85",
+        "pitchers": "86",
         "batters": "238",
-        "pitches": "2977",
+        "pitches": "2981",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "30.1",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "38.4",
         "brlbarrels": "29",
         "brl%barrel %": "5.4",
-        "ab": "702",
-        "avg": ".217",
+        "ab": "704",
+        "avg": ".216",
         "h": "152",
         "1b": "108",
         "2b": "27",
         "3b": "3",
         "hr": "14",
-        "so": "180",
+        "so": "181",
         "bipballs in play": "542",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-01 16:30:27.123586"
+        "updated": "2025-06-01 16:30:38.421678"
     },
     "stl @ tex": [
         {
@@ -4359,6 +4359,21 @@
         }
     ],
     "ath @ tor": [
+        {
+            "player": "logan davidson",
+            "game": "ath @ tor",
+            "hr/park": "",
+            "pa": "79",
+            "dt": "2025-06-01 16:30:35",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "1:37 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "george springer",
             "game": "ath @ tor",
@@ -8712,7 +8727,7 @@
             "team": "det",
             "start": "2:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10582,16 +10597,31 @@
     ],
     "cin @ chc": [
         {
-            "player": "pete crow armstrong",
+            "player": "dansby swanson",
             "game": "cin @ chc",
             "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-01 16:30:35",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:20 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "pete crow armstrong",
+            "game": "cin @ chc",
+            "hr/park": "0/30",
             "pa": "56",
             "dt": "2025-06-01 16:26:20",
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
             "team": "chc",
             "start": "2:20 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Field Error",
             "evo": "95.9",
             "la": "29",
             "dist": "336"
