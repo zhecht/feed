@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "34",
         "batters": "202",
-        "pitches": "1871",
+        "pitches": "1879",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "71.0",
         "ff%fourseam fastball %": "29.7",
         "si%sinker %": "18.6",
-        "fc%cutter %": "9.4",
+        "fc%cutter %": "9.3",
         "fs%splitter %": "2.9",
         "ch%changeup %": "12.3",
-        "sl%slider %": "18.7",
-        "cu%curve %": "8.4",
+        "sl%slider %": "18.6",
+        "cu%curve %": "8.6",
         "max evmax exit velocity": "111.4",
         "hhhard hit": "126",
-        "hh%hard hit %": "37.1",
+        "hh%hard hit %": "36.6",
         "brlbarrels": "18",
-        "brl%barrel %": "5.3",
-        "ab": "446",
+        "brl%barrel %": "5.2",
+        "ab": "447",
         "avg": ".224",
         "h": "100",
         "1b": "74",
@@ -25,12 +25,27 @@
         "3b": "3",
         "hr": "8",
         "so": "110",
-        "bipballs in play": "340",
+        "bipballs in play": "344",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:18:59.147031"
+        "updated": "2025-06-01 15:19:08.584885"
     },
     "stl @ tex": [
+        {
+            "player": "alejandro osuna",
+            "game": "stl @ tex",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-06-01 15:19:03",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "1:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "44.3",
+            "la": "-53",
+            "dist": "2"
+        },
         {
             "player": "josh jung",
             "game": "stl @ tex",
@@ -3364,7 +3379,7 @@
             "team": "tor",
             "start": "1:37 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4032,6 +4047,21 @@
     ],
     "laa @ cle": [
         {
+            "player": "zach neto",
+            "game": "laa @ cle",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-06-01 15:18:34",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "1:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "scott kingery",
             "game": "laa @ cle",
             "hr/park": "",
@@ -4041,10 +4071,10 @@
             "team": "laa",
             "start": "1:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "66.1",
+            "la": "-20",
+            "dist": "6"
         },
         {
             "player": "chris taylor",
@@ -6614,10 +6644,10 @@
             "team": "tb",
             "start": "2:10 PM",
             "in": "5",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "49.5",
+            "la": "22",
+            "dist": "87"
         },
         {
             "player": "junior caminero",
