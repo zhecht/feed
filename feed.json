@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "54",
-        "batters": "205",
-        "pitches": "2323",
+        "pitchers": "55",
+        "batters": "207",
+        "pitches": "2331",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "71.0",
-        "ff%fourseam fastball %": "28.5",
+        "ff%fourseam fastball %": "28.4",
         "si%sinker %": "18.1",
         "fc%cutter %": "10.0",
-        "fs%splitter %": "2.7",
+        "fs%splitter %": "2.8",
         "ch%changeup %": "11.6",
-        "sl%slider %": "20.1",
+        "sl%slider %": "20.2",
         "cu%curve %": "8.9",
-        "max evmax exit velocity": "111.4",
-        "hhhard hit": "159",
-        "hh%hard hit %": "37.1",
+        "max evmax exit velocity": "113.7",
+        "hhhard hit": "160",
+        "hh%hard hit %": "37.0",
         "brlbarrels": "23",
-        "brl%barrel %": "5.4",
-        "ab": "554",
+        "brl%barrel %": "5.3",
+        "ab": "557",
         "avg": ".215",
-        "h": "119",
-        "1b": "84",
+        "h": "120",
+        "1b": "85",
         "2b": "22",
         "3b": "3",
         "hr": "10",
         "so": "137",
-        "bipballs in play": "429",
+        "bipballs in play": "432",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-01 15:43:57.199221"
+        "updated": "2025-06-01 15:44:07.062030"
     },
     "stl @ tex": [
         {
@@ -1138,7 +1138,7 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "100.1",
             "la": "2",
             "dist": "69"
@@ -3107,10 +3107,10 @@
             "team": "mil",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "84.5",
+            "la": "50",
+            "dist": "220"
         },
         {
             "player": "daz cameron",
@@ -4045,6 +4045,21 @@
     ],
     "ath @ tor": [
         {
+            "player": "max schuemann",
+            "game": "ath @ tor",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-01 15:44:03",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "1:37 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "logan davidson",
             "game": "ath @ tor",
             "hr/park": "",
@@ -4887,6 +4902,21 @@
     ],
     "laa @ cle": [
         {
+            "player": "mike trout",
+            "game": "laa @ cle",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-06-01 15:44:03",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "Single",
+            "evo": "113.7",
+            "la": "-1",
+            "dist": "42"
+        },
+        {
             "player": "luis rengifo",
             "game": "laa @ cle",
             "hr/park": "",
@@ -5708,7 +5738,7 @@
             "team": "nym",
             "start": "1:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6570,6 +6600,21 @@
         }
     ],
     "sf @ mia": [
+        {
+            "player": "xavier edwards",
+            "game": "sf @ mia",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-01 15:44:03",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "javier sanoja",
             "game": "sf @ mia",
