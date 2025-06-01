@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "18",
-        "batters": "145",
-        "pitches": "711",
+        "pitchers": "19",
+        "batters": "146",
+        "pitches": "712",
         "max velomax pitch velocity": "98.6",
         "min velomin pitch velocity": "72.3",
-        "ff%fourseam fastball %": "29.0",
-        "si%sinker %": "20.5",
-        "fc%cutter %": "10.0",
-        "fs%splitter %": "3.0",
+        "ff%fourseam fastball %": "29.1",
+        "si%sinker %": "20.4",
+        "fc%cutter %": "10.1",
+        "fs%splitter %": "2.9",
         "ch%changeup %": "11.1",
         "sl%slider %": "19.7",
-        "cu%curve %": "6.8",
+        "cu%curve %": "6.7",
         "max evmax exit velocity": "108.0",
-        "hhhard hit": "42",
-        "hh%hard hit %": "36.8",
+        "hhhard hit": "43",
+        "hh%hard hit %": "37.4",
         "brlbarrels": "6",
-        "brl%barrel %": "5.3",
-        "ab": "162",
-        "avg": ".216",
+        "brl%barrel %": "5.2",
+        "ab": "163",
+        "avg": ".215",
         "h": "35",
         "1b": "25",
         "2b": "8",
         "3b": "0",
         "hr": "2",
         "so": "47",
-        "bipballs in play": "114",
+        "bipballs in play": "115",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-01 14:19:31.804829"
+        "updated": "2025-06-01 14:19:39.813312"
     },
     "stl @ tex": [
         {
@@ -41,7 +41,7 @@
             "team": "tex",
             "start": "1:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Pickoff 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -568,10 +568,10 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "71.8",
+            "la": "54",
+            "dist": "194"
         },
         {
             "player": "ronald acuna",
@@ -945,10 +945,10 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "3",
-            "result": "Single",
-            "evo": "77.9",
-            "la": "22",
-            "dist": "240"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "jackson holliday",
@@ -1292,7 +1292,7 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "2",
-            "result": "Forceout",
+            "result": "In Progress",
             "evo": "102.1",
             "la": "-4",
             "dist": "32"
@@ -2719,6 +2719,21 @@
         }
     ],
     "tb @ hou": [
+        {
+            "player": "jeremy pena",
+            "game": "tb @ hou",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-06-01 14:19:34",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "100.8",
+            "la": "-8",
+            "dist": "17"
+        },
         {
             "player": "yandy diaz",
             "game": "tb @ hou",
