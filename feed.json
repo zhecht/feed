@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "21",
-        "batters": "140",
-        "pitches": "731",
+        "pitchers": "23",
+        "batters": "143",
+        "pitches": "742",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "40.2",
-        "si%sinker %": "13.1",
-        "fc%cutter %": "2.1",
-        "fs%splitter %": "4.0",
-        "ch%changeup %": "8.1",
-        "sl%slider %": "22.0",
-        "cu%curve %": "10.5",
+        "ff%fourseam fastball %": "40.7",
+        "si%sinker %": "12.9",
+        "fc%cutter %": "2.0",
+        "fs%splitter %": "3.9",
+        "ch%changeup %": "8.0",
+        "sl%slider %": "22.1",
+        "cu%curve %": "10.4",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "58",
-        "hh%hard hit %": "43.9",
-        "brlbarrels": "11",
-        "brl%barrel %": "8.3",
-        "ab": "176",
+        "hhhard hit": "59",
+        "hh%hard hit %": "44.0",
+        "brlbarrels": "12",
+        "brl%barrel %": "9.0",
+        "ab": "181",
         "avg": ".193",
-        "h": "34",
-        "1b": "22",
+        "h": "35",
+        "1b": "23",
         "2b": "7",
         "3b": "1",
         "hr": "4",
         "so": "45",
-        "bipballs in play": "132",
+        "bipballs in play": "134",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 19:47:53.918737"
+        "updated": "2025-06-03 19:48:01.929307"
     },
     "hou @ pit": [
         {
@@ -1493,6 +1493,21 @@
     ],
     "cle @ nyy": [
         {
+            "player": "angel martinez",
+            "game": "cle @ nyy",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-06-03 19:47:56",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "steven kwan",
             "game": "cle @ nyy",
             "hr/park": "",
@@ -1734,6 +1749,21 @@
         }
     ],
     "phi @ tor": [
+        {
+            "player": "max kepler",
+            "game": "phi @ tor",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-06-03 19:47:56",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "7:07 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "nick castellanos",
             "game": "phi @ tor",
@@ -2853,6 +2883,21 @@
     ],
     "tex @ tb": [
         {
+            "player": "yandy diaz",
+            "game": "tex @ tb",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-06-03 19:47:56",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brandon lowe",
             "game": "tex @ tb",
             "hr/park": "",
@@ -2930,6 +2975,21 @@
     ],
     "det @ chw": [
         {
+            "player": "mike tauchman",
+            "game": "det @ chw",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-06-03 19:47:56",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kerry carpenter",
             "game": "det @ chw",
             "hr/park": "",
@@ -2977,6 +3037,21 @@
     ],
     "kc @ stl": [
         {
+            "player": "bobby witt",
+            "game": "kc @ stl",
+            "hr/park": "30/30",
+            "pa": "2",
+            "dt": "2025-06-03 19:47:56",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:45 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "106.9",
+            "la": "26",
+            "dist": "428"
+        },
+        {
             "player": "jonathan india",
             "game": "kc @ stl",
             "hr/park": "",
@@ -2986,10 +3061,10 @@
             "team": "kc",
             "start": "7:45 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "80.0",
+            "la": "15",
+            "dist": "181"
         }
     ],
     "bal @ sea": [],
