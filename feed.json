@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "23",
         "batters": "150",
-        "pitches": "806",
+        "pitches": "808",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "40.3",
-        "si%sinker %": "13.3",
+        "ff%fourseam fastball %": "40.5",
+        "si%sinker %": "13.1",
         "fc%cutter %": "2.0",
-        "fs%splitter %": "4.1",
+        "fs%splitter %": "4.2",
         "ch%changeup %": "8.2",
         "sl%slider %": "22.3",
         "cu%curve %": "9.8",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "64",
-        "hh%hard hit %": "42.1",
+        "hhhard hit": "65",
+        "hh%hard hit %": "42.2",
         "brlbarrels": "12",
-        "brl%barrel %": "7.9",
-        "ab": "197",
-        "avg": ".203",
-        "h": "40",
-        "1b": "27",
+        "brl%barrel %": "7.8",
+        "ab": "199",
+        "avg": ".206",
+        "h": "41",
+        "1b": "28",
         "2b": "7",
         "3b": "1",
         "hr": "5",
-        "so": "47",
-        "bipballs in play": "152",
+        "so": "46",
+        "bipballs in play": "154",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 19:51:21.014175"
+        "updated": "2025-06-03 19:51:29.254819"
     },
     "hou @ pit": [
         {
@@ -1849,7 +1849,7 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "2",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2444,6 +2444,21 @@
     ],
     "mil @ cin": [
         {
+            "player": "william contreras",
+            "game": "mil @ cin",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-06-03 19:51:25",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "christian yelich",
             "game": "mil @ cin",
             "hr/park": "0/30",
@@ -2776,6 +2791,21 @@
     ],
     "ari @ atl": [
         {
+            "player": "eugenio suarez",
+            "game": "ari @ atl",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-06-03 19:51:25",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:15 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh naylor",
             "game": "ari @ atl",
             "hr/park": "",
@@ -2785,7 +2815,7 @@
             "team": "ari",
             "start": "7:15 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "87.4",
             "la": "-7",
             "dist": "21"
@@ -3072,10 +3102,10 @@
             "team": "tb",
             "start": "7:35 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "96.7",
+            "la": "12",
+            "dist": "186"
         },
         {
             "player": "yandy diaz",
@@ -3271,10 +3301,10 @@
             "team": "kc",
             "start": "7:45 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "72.3",
+            "la": "-58",
+            "dist": "2"
         },
         {
             "player": "maikel garcia",
