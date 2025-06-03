@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "16",
-        "batters": "105",
-        "pitches": "470",
+        "batters": "107",
+        "pitches": "473",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "73.2",
         "ff%fourseam fastball %": "40.0",
-        "si%sinker %": "13.4",
+        "si%sinker %": "13.5",
         "fc%cutter %": "1.7",
-        "fs%splitter %": "4.5",
-        "ch%changeup %": "7.7",
-        "sl%slider %": "21.7",
-        "cu%curve %": "11.1",
+        "fs%splitter %": "4.4",
+        "ch%changeup %": "7.8",
+        "sl%slider %": "21.6",
+        "cu%curve %": "11.0",
         "max evmax exit velocity": "111.5",
         "hhhard hit": "37",
-        "hh%hard hit %": "43.0",
+        "hh%hard hit %": "42.5",
         "brlbarrels": "6",
-        "brl%barrel %": "7.0",
-        "ab": "115",
-        "avg": ".191",
-        "h": "22",
+        "brl%barrel %": "6.9",
+        "ab": "116",
+        "avg": ".198",
+        "h": "23",
         "1b": "14",
-        "2b": "4",
+        "2b": "5",
         "3b": "1",
         "hr": "3",
-        "so": "28",
-        "bipballs in play": "86",
+        "so": "29",
+        "bipballs in play": "87",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-06-03 19:32:47.482447"
+        "updated": "2025-06-03 19:32:55.244462"
     },
     "hou @ pit": [
         {
@@ -403,7 +403,7 @@
             "team": "col",
             "start": "6:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "100.8",
             "la": "4",
             "dist": "83"
@@ -786,21 +786,6 @@
     ],
     "chc @ wsh": [
         {
-            "player": "pete crow armstrong",
-            "game": "chc @ wsh",
-            "hr/park": "",
-            "pa": "25",
-            "dt": "2025-06-03 19:32:10",
-            "img": "https://www.mlbstatic.com/team-logos/112.svg",
-            "team": "chc",
-            "start": "6:45 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "nathaniel lowe",
             "game": "chc @ wsh",
             "hr/park": "",
@@ -1172,7 +1157,7 @@
             "team": "cle",
             "start": "7:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1512,6 +1497,21 @@
     ],
     "laa @ bos": [
         {
+            "player": "luis rengifo",
+            "game": "laa @ bos",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-06-03 19:32:55",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "7:10 PM",
+            "in": "2",
+            "result": "Groundout",
+            "evo": "78.4",
+            "la": "-64",
+            "dist": "2"
+        },
+        {
             "player": "travis darnaud",
             "game": "laa @ bos",
             "hr/park": "",
@@ -1648,6 +1648,21 @@
         }
     ],
     "mil @ cin": [
+        {
+            "player": "tyler stephenson",
+            "game": "mil @ cin",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-06-03 19:32:10",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "2",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "caleb durbin",
             "game": "mil @ cin",
