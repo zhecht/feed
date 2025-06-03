@@ -2,25 +2,25 @@
     "all": {
         "pitchers": "40",
         "batters": "137",
-        "pitches": "1628",
+        "pitches": "1631",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "49.4",
-        "ff%fourseam fastball %": "26.4",
+        "ff%fourseam fastball %": "26.3",
         "si%sinker %": "16.4",
-        "fc%cutter %": "12.5",
+        "fc%cutter %": "12.6",
         "fs%splitter %": "2.0",
         "ch%changeup %": "7.6",
-        "sl%slider %": "27.5",
-        "cu%curve %": "7.6",
+        "sl%slider %": "27.6",
+        "cu%curve %": "7.5",
         "max evmax exit velocity": "113.3",
         "hhhard hit": "118",
         "hh%hard hit %": "37.6",
         "brlbarrels": "27",
         "brl%barrel %": "8.6",
-        "ab": "385",
-        "avg": ".255",
-        "h": "98",
-        "1b": "55",
+        "ab": "386",
+        "avg": ".256",
+        "h": "99",
+        "1b": "56",
         "2b": "28",
         "3b": "1",
         "hr": "14",
@@ -28,7 +28,7 @@
         "bipballs in play": "314",
         "liveGames": 7,
         "totGames": 7,
-        "updated": "2025-06-02 23:19:58.342212"
+        "updated": "2025-06-02 23:20:07.394347"
     },
     "col @ mia": [
         {
@@ -4645,6 +4645,21 @@
     ],
     "sd @ sf": [
         {
+            "player": "matt chapman",
+            "game": "sd @ sf",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-06-02 23:20:06",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "9:45 PM",
+            "in": "6",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "wilmer flores",
             "game": "sd @ sf",
             "hr/park": "0/30",
@@ -5307,21 +5322,6 @@
     ],
     "min @ ath": [
         {
-            "player": "lawrence butler",
-            "game": "min @ ath",
-            "hr/park": "",
-            "pa": "38",
-            "dt": "2025-06-02 23:19:52",
-            "img": "https://www.mlbstatic.com/team-logos/133.svg",
-            "team": "ath",
-            "start": "10:05 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "denzel clarke",
             "game": "min @ ath",
             "hr/park": "",
@@ -5879,6 +5879,21 @@
     ],
     "nym @ lad": [
         {
+            "player": "francisco alvarez",
+            "game": "nym @ lad",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-06-02 23:20:06",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "10:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jeff mcneil",
             "game": "nym @ lad",
             "hr/park": "",
@@ -5888,7 +5903,7 @@
             "team": "nym",
             "start": "10:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "102.8",
             "la": "9",
             "dist": "146"
