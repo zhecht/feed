@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "12",
-        "batters": "78",
-        "pitches": "293",
+        "batters": "79",
+        "pitches": "297",
         "max velomax pitch velocity": "99.8",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "40.6",
-        "si%sinker %": "15.7",
-        "fc%cutter %": "1.4",
-        "fs%splitter %": "3.8",
-        "ch%changeup %": "7.5",
-        "sl%slider %": "20.5",
-        "cu%curve %": "10.6",
+        "ff%fourseam fastball %": "41.1",
+        "si%sinker %": "15.5",
+        "fc%cutter %": "1.3",
+        "fs%splitter %": "3.7",
+        "ch%changeup %": "7.4",
+        "sl%slider %": "20.2",
+        "cu%curve %": "10.8",
         "max evmax exit velocity": "109.3",
-        "hhhard hit": "21",
-        "hh%hard hit %": "38.9",
+        "hhhard hit": "23",
+        "hh%hard hit %": "40.4",
         "brlbarrels": "5",
-        "brl%barrel %": "9.3",
-        "ab": "74",
-        "avg": ".203",
-        "h": "15",
-        "1b": "9",
+        "brl%barrel %": "8.8",
+        "ab": "75",
+        "avg": ".213",
+        "h": "16",
+        "1b": "10",
         "2b": "2",
         "3b": "1",
         "hr": "3",
         "so": "16",
-        "bipballs in play": "54",
+        "bipballs in play": "57",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-06-03 19:20:23.573079"
+        "updated": "2025-06-03 19:20:31.336323"
     },
     "hou @ pit": [
         {
@@ -41,7 +41,7 @@
             "team": "hou",
             "start": "6:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -313,7 +313,7 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -630,10 +630,10 @@
             "team": "chc",
             "start": "6:45 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "70.9",
+            "la": "71",
+            "dist": "89"
         },
         {
             "player": "ian happ",
@@ -994,10 +994,10 @@
             "team": "phi",
             "start": "7:07 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "103.3",
+            "la": "8",
+            "dist": "162"
         },
         {
             "player": "max kepler",
@@ -1116,7 +1116,7 @@
             "team": "laa",
             "start": "7:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Double Play",
             "evo": "94.7",
             "la": "10",
             "dist": "163"
@@ -1261,11 +1261,11 @@
     ],
     "ari @ atl": [
         {
-            "player": "geraldo perdomo",
+            "player": "josh naylor",
             "game": "ari @ atl",
             "hr/park": "",
-            "pa": "3",
-            "dt": "2025-06-03 19:19:39",
+            "pa": "4",
+            "dt": "2025-06-03 19:20:26",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "start": "7:15 PM",
@@ -1274,6 +1274,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "geraldo perdomo",
+            "game": "ari @ atl",
+            "hr/park": "0/30",
+            "pa": "3",
+            "dt": "2025-06-03 19:19:39",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:15 PM",
+            "in": "1",
+            "result": "Flyout",
+            "evo": "95.0",
+            "la": "45",
+            "dist": "315"
         },
         {
             "player": "ketel marte",
