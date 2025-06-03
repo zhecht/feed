@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "8",
+        "pitchers": "9",
         "batters": "48",
-        "pitches": "180",
+        "pitches": "184",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "76.4",
-        "ff%fourseam fastball %": "36.7",
-        "si%sinker %": "16.7",
-        "fc%cutter %": "1.7",
-        "fs%splitter %": "1.7",
-        "ch%changeup %": "8.3",
-        "sl%slider %": "21.7",
-        "cu%curve %": "13.3",
+        "ff%fourseam fastball %": "36.4",
+        "si%sinker %": "17.4",
+        "fc%cutter %": "1.6",
+        "fs%splitter %": "1.6",
+        "ch%changeup %": "8.2",
+        "sl%slider %": "21.2",
+        "cu%curve %": "13.6",
         "max evmax exit velocity": "102.7",
         "hhhard hit": "11",
-        "hh%hard hit %": "34.4",
+        "hh%hard hit %": "33.3",
         "brlbarrels": "1",
-        "brl%barrel %": "3.1",
-        "ab": "44",
-        "avg": ".114",
-        "h": "5",
+        "brl%barrel %": "3.0",
+        "ab": "45",
+        "avg": ".089",
+        "h": "4",
         "1b": "3",
         "2b": "0",
         "3b": "1",
-        "hr": "1",
+        "hr": "0",
         "so": "10",
-        "bipballs in play": "32",
+        "bipballs in play": "33",
         "liveGames": 7,
         "totGames": 15,
-        "updated": "2025-06-03 19:12:22.752371"
+        "updated": "2025-06-03 19:12:30.068238"
     },
     "hou @ pit": [
         {
@@ -258,6 +258,21 @@
         }
     ],
     "col @ mia": [
+        {
+            "player": "thairo estrada",
+            "game": "col @ mia",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-06-03 19:12:25",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jordan beck",
             "game": "col @ mia",
@@ -738,27 +753,12 @@
             "start": "7:05 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "66.0",
+            "la": "-10",
+            "dist": "15"
         }
     ],
     "phi @ tor": [
-        {
-            "player": "bryce harper",
-            "game": "phi @ tor",
-            "hr/park": "",
-            "pa": "3",
-            "dt": "2025-06-03 19:12:10",
-            "img": "https://www.mlbstatic.com/team-logos/143.svg",
-            "team": "phi",
-            "start": "7:07 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "trea turner",
             "game": "phi @ tor",
@@ -769,7 +769,7 @@
             "team": "phi",
             "start": "7:07 PM",
             "in": "1",
-            "result": "Home Run",
+            "result": "In Progress",
             "evo": "100.3",
             "la": "31",
             "dist": "377"
@@ -791,7 +791,23 @@
         }
     ],
     "laa @ bos": [],
-    "mil @ cin": [],
+    "mil @ cin": [
+        {
+            "player": "brice turang",
+            "game": "mil @ cin",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-03 19:12:25",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "ari @ atl": [],
     "tex @ tb": [],
     "det @ chw": [],
