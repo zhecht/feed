@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "13",
-        "batters": "84",
-        "pitches": "336",
+        "pitchers": "14",
+        "batters": "85",
+        "pitches": "345",
         "max velomax pitch velocity": "99.8",
         "min velomin pitch velocity": "73.2",
         "ff%fourseam fastball %": "42.3",
-        "si%sinker %": "13.7",
+        "si%sinker %": "13.3",
         "fc%cutter %": "1.2",
-        "fs%splitter %": "4.5",
-        "ch%changeup %": "6.5",
-        "sl%slider %": "20.2",
+        "fs%splitter %": "4.9",
+        "ch%changeup %": "6.4",
+        "sl%slider %": "20.3",
         "cu%curve %": "11.6",
         "max evmax exit velocity": "109.3",
         "hhhard hit": "24",
-        "hh%hard hit %": "40.0",
+        "hh%hard hit %": "38.7",
         "brlbarrels": "5",
-        "brl%barrel %": "8.3",
-        "ab": "81",
-        "avg": ".198",
+        "brl%barrel %": "8.1",
+        "ab": "82",
+        "avg": ".195",
         "h": "16",
         "1b": "10",
         "2b": "2",
         "3b": "1",
         "hr": "3",
-        "so": "18",
-        "bipballs in play": "60",
+        "so": "19",
+        "bipballs in play": "62",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-06-03 19:23:47.414399"
+        "updated": "2025-06-03 19:23:55.082390"
     },
     "hou @ pit": [
         {
@@ -329,9 +329,9 @@
             "start": "6:40 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "94.5",
+            "la": "10",
+            "dist": "162"
         },
         {
             "player": "xavier edwards",
@@ -968,6 +968,21 @@
     ],
     "cle @ nyy": [
         {
+            "player": "trent grisham",
+            "game": "cle @ nyy",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-06-03 19:23:11",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "1",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "carlos santana",
             "game": "cle @ nyy",
             "hr/park": "",
@@ -1283,7 +1298,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
