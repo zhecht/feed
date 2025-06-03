@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "12",
-        "batters": "81",
-        "pitches": "316",
+        "batters": "82",
+        "pitches": "322",
         "max velomax pitch velocity": "99.8",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "41.1",
-        "si%sinker %": "14.6",
-        "fc%cutter %": "1.3",
-        "fs%splitter %": "4.4",
-        "ch%changeup %": "7.0",
-        "sl%slider %": "20.6",
-        "cu%curve %": "11.1",
+        "ff%fourseam fastball %": "41.6",
+        "si%sinker %": "14.3",
+        "fc%cutter %": "1.2",
+        "fs%splitter %": "4.7",
+        "ch%changeup %": "6.8",
+        "sl%slider %": "20.2",
+        "cu%curve %": "11.2",
         "max evmax exit velocity": "109.3",
         "hhhard hit": "24",
-        "hh%hard hit %": "40.7",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "5",
-        "brl%barrel %": "8.5",
-        "ab": "77",
-        "avg": ".208",
+        "brl%barrel %": "8.3",
+        "ab": "79",
+        "avg": ".203",
         "h": "16",
         "1b": "10",
         "2b": "2",
         "3b": "1",
         "hr": "3",
-        "so": "16",
-        "bipballs in play": "59",
+        "so": "17",
+        "bipballs in play": "60",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-06-03 19:22:36.882893"
+        "updated": "2025-06-03 19:22:44.826191"
     },
     "hou @ pit": [
         {
@@ -41,10 +41,10 @@
             "team": "hou",
             "start": "6:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "63.0",
+            "la": "1",
+            "dist": "37"
         },
         {
             "player": "jacob melton",
@@ -319,9 +319,24 @@
     ],
     "col @ mia": [
         {
-            "player": "xavier edwards",
+            "player": "jesus sanchez",
             "game": "col @ mia",
             "hr/park": "",
+            "pa": "22",
+            "dt": "2025-06-03 19:22:39",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "xavier edwards",
+            "game": "col @ mia",
+            "hr/park": "0/30",
             "pa": "21",
             "dt": "2025-06-03 19:19:39",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
@@ -635,6 +650,21 @@
         }
     ],
     "chc @ wsh": [
+        {
+            "player": "jose tena",
+            "game": "chc @ wsh",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-06-03 19:22:39",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "seiya suzuki",
             "game": "chc @ wsh",
@@ -1009,7 +1039,7 @@
             "team": "phi",
             "start": "7:07 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
