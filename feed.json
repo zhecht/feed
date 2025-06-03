@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "17",
         "batters": "123",
-        "pitches": "567",
+        "pitches": "575",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "39.5",
-        "si%sinker %": "14.3",
+        "ff%fourseam fastball %": "39.7",
+        "si%sinker %": "14.1",
         "fc%cutter %": "2.1",
-        "fs%splitter %": "3.9",
-        "ch%changeup %": "8.1",
-        "sl%slider %": "21.5",
+        "fs%splitter %": "4.2",
+        "ch%changeup %": "8.0",
+        "sl%slider %": "21.4",
         "cu%curve %": "10.6",
         "max evmax exit velocity": "112.0",
-        "hhhard hit": "42",
-        "hh%hard hit %": "42.0",
-        "brlbarrels": "7",
-        "brl%barrel %": "7.0",
+        "hhhard hit": "43",
+        "hh%hard hit %": "41.7",
+        "brlbarrels": "8",
+        "brl%barrel %": "7.8",
         "ab": "141",
         "avg": ".191",
         "h": "27",
@@ -24,27 +24,27 @@
         "2b": "6",
         "3b": "1",
         "hr": "3",
-        "so": "37",
-        "bipballs in play": "100",
+        "so": "39",
+        "bipballs in play": "103",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-03 19:39:07.947520"
+        "updated": "2025-06-03 19:39:15.977633"
     },
     "hou @ pit": [
         {
             "player": "spencer horwitz",
             "game": "hou @ pit",
-            "hr/park": "",
+            "hr/park": "1/30",
             "pa": "27",
             "dt": "2025-06-03 19:38:24",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
             "team": "pit",
             "start": "6:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "100.1",
+            "la": "29",
+            "dist": "367"
         },
         {
             "player": "yainer diaz",
@@ -1307,10 +1307,10 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "89.1",
+            "la": "-33",
+            "dist": "4"
         },
         {
             "player": "bo naylor",
@@ -1489,7 +1489,7 @@
             "team": "phi",
             "start": "7:07 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1731,7 +1731,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1919,6 +1919,21 @@
     ],
     "mil @ cin": [
         {
+            "player": "brice turang",
+            "game": "mil @ cin",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-06-03 19:39:10",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "joey ortiz",
             "game": "mil @ cin",
             "hr/park": "",
@@ -1928,7 +1943,7 @@
             "team": "mil",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2155,10 +2170,10 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "63.1",
+            "la": "-27",
+            "dist": "7"
         },
         {
             "player": "matt olson",
