@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "25",
+        "pitchers": "26",
         "batters": "182",
-        "pitches": "1147",
+        "pitches": "1158",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "39.0",
+        "ff%fourseam fastball %": "38.9",
         "si%sinker %": "13.3",
         "fc%cutter %": "2.1",
-        "fs%splitter %": "3.7",
-        "ch%changeup %": "9.0",
-        "sl%slider %": "22.9",
-        "cu%curve %": "10.0",
+        "fs%splitter %": "3.6",
+        "ch%changeup %": "9.2",
+        "sl%slider %": "22.8",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "89",
-        "hh%hard hit %": "41.0",
+        "hhhard hit": "90",
+        "hh%hard hit %": "41.3",
         "brlbarrels": "17",
         "brl%barrel %": "7.8",
-        "ab": "275",
-        "avg": ".215",
+        "ab": "277",
+        "avg": ".213",
         "h": "59",
         "1b": "36",
         "2b": "13",
         "3b": "1",
         "hr": "9",
         "so": "63",
-        "bipballs in play": "217",
+        "bipballs in play": "218",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 20:09:16.735457"
+        "updated": "2025-06-03 20:09:25.617838"
     },
     "hou @ pit": [
         {
@@ -1311,6 +1311,21 @@
     ],
     "chc @ wsh": [
         {
+            "player": "dansby swanson",
+            "game": "chc @ wsh",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-03 20:09:25",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael busch",
             "game": "chc @ wsh",
             "hr/park": "",
@@ -1912,6 +1927,21 @@
         }
     ],
     "cle @ nyy": [
+        {
+            "player": "cody bellinger",
+            "game": "cle @ nyy",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-06-03 20:09:25",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "71.4",
+            "la": "87",
+            "dist": "36"
+        },
         {
             "player": "aaron judge",
             "game": "cle @ nyy",
@@ -4113,21 +4143,6 @@
     ],
     "tex @ tb": [
         {
-            "player": "jake burger",
-            "game": "tex @ tb",
-            "hr/park": "",
-            "pa": "16",
-            "dt": "2025-06-03 20:09:11",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "7:35 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "76.1",
-            "la": "-2",
-            "dist": "31"
-        },
-        {
             "player": "taylor walls",
             "game": "tex @ tb",
             "hr/park": "",
@@ -4522,6 +4537,21 @@
     ],
     "kc @ stl": [
         {
+            "player": "drew waters",
+            "game": "kc @ stl",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-06-03 20:09:25",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:45 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nick loftin",
             "game": "kc @ stl",
             "hr/park": "",
@@ -4531,10 +4561,10 @@
             "team": "kc",
             "start": "7:45 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "95.1",
+            "la": "3",
+            "dist": "78"
         },
         {
             "player": "jac caglianone",
