@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "108",
         "batters": "288",
-        "pitches": "3663",
+        "pitches": "3667",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "70.6",
-        "ff%fourseam fastball %": "34.8",
+        "ff%fourseam fastball %": "34.7",
         "si%sinker %": "15.2",
         "fc%cutter %": "5.5",
         "fs%splitter %": "4.4",
         "ch%changeup %": "9.9",
         "sl%slider %": "20.9",
-        "cu%curve %": "9.2",
+        "cu%curve %": "9.3",
         "max evmax exit velocity": "116.0",
-        "hhhard hit": "271",
+        "hhhard hit": "272",
         "hh%hard hit %": "39.5",
         "brlbarrels": "57",
         "brl%barrel %": "8.3",
-        "ab": "860",
-        "avg": ".236",
+        "ab": "862",
+        "avg": ".235",
         "h": "203",
         "1b": "141",
         "2b": "28",
         "3b": "2",
         "hr": "32",
         "so": "191",
-        "bipballs in play": "686",
+        "bipballs in play": "688",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-03 23:08:44.206524"
+        "updated": "2025-06-03 23:08:56.012189"
     },
     "hou @ pit": [
         {
@@ -12354,9 +12354,24 @@
     ],
     "bal @ sea": [
         {
-            "player": "leody taveras",
+            "player": "cole young",
             "game": "bal @ sea",
             "hr/park": "",
+            "pa": "40",
+            "dt": "2025-06-03 23:08:56",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "9:40 PM",
+            "in": "5",
+            "result": "Groundout",
+            "evo": "80.1",
+            "la": "-13",
+            "dist": "7"
+        },
+        {
+            "player": "leody taveras",
+            "game": "bal @ sea",
+            "hr/park": "0/30",
             "pa": "39",
             "dt": "2025-06-03 23:06:41",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
@@ -12940,6 +12955,21 @@
         }
     ],
     "sd @ sf": [
+        {
+            "player": "luis arraez",
+            "game": "sd @ sf",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-03 23:08:56",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:45 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "wilmer flores",
             "game": "sd @ sf",
@@ -14034,10 +14064,10 @@
             "team": "lad",
             "start": "10:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "96.3",
+            "la": "46",
+            "dist": "291"
         },
         {
             "player": "brandon nimmo",
