@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "25",
-        "batters": "171",
-        "pitches": "1000",
+        "batters": "172",
+        "pitches": "1009",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "39.6",
-        "si%sinker %": "13.7",
+        "ff%fourseam fastball %": "39.8",
+        "si%sinker %": "13.5",
         "fc%cutter %": "2.0",
         "fs%splitter %": "3.9",
         "ch%changeup %": "8.8",
         "sl%slider %": "22.3",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "77",
-        "hh%hard hit %": "41.0",
+        "hhhard hit": "78",
+        "hh%hard hit %": "41.3",
         "brlbarrels": "13",
         "brl%barrel %": "6.9",
         "ab": "240",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "6",
         "so": "54",
-        "bipballs in play": "188",
+        "bipballs in play": "189",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 20:01:03.123783"
+        "updated": "2025-06-03 20:01:11.717872"
     },
     "hou @ pit": [
         {
@@ -41,7 +41,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -589,6 +589,21 @@
     ],
     "col @ mia": [
         {
+            "player": "jesus sanchez",
+            "game": "col @ mia",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-03 20:01:10",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "xavier edwards",
             "game": "col @ mia",
             "hr/park": "",
@@ -598,10 +613,10 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Sac Bunt",
+            "evo": "28.6",
+            "la": "-27",
+            "dist": "5"
         },
         {
             "player": "javier sanoja",
@@ -2134,7 +2149,7 @@
             "team": "phi",
             "start": "7:07 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2512,9 +2527,9 @@
             "start": "7:10 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "110.2",
+            "la": "-18",
+            "dist": "11"
         },
         {
             "player": "connor wong",
@@ -3280,7 +3295,7 @@
             "team": "ari",
             "start": "7:15 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3663,6 +3678,21 @@
     ],
     "tex @ tb": [
         {
+            "player": "kameron misner",
+            "game": "tex @ tb",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-06-03 20:01:10",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:35 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jake mangum",
             "game": "tex @ tb",
             "hr/park": "",
@@ -3672,7 +3702,7 @@
             "team": "tb",
             "start": "7:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "81.9",
             "la": "23",
             "dist": "272"
@@ -3991,10 +4021,10 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "1",
-            "result": "Groundout",
-            "evo": "82.9",
-            "la": "-20",
-            "dist": "8"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "lars nootbaar",
