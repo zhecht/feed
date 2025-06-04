@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "41",
         "batters": "198",
-        "pitches": "1887",
+        "pitches": "1895",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
         "ff%fourseam fastball %": "35.9",
@@ -10,27 +10,42 @@
         "fc%cutter %": "2.9",
         "fs%splitter %": "2.8",
         "ch%changeup %": "10.5",
-        "sl%slider %": "22.5",
+        "sl%slider %": "22.6",
         "cu%curve %": "10.4",
         "max evmax exit velocity": "116.0",
-        "hhhard hit": "136",
-        "hh%hard hit %": "39.4",
+        "hhhard hit": "138",
+        "hh%hard hit %": "39.7",
         "brlbarrels": "28",
-        "brl%barrel %": "8.1",
-        "ab": "447",
-        "avg": ".221",
-        "h": "99",
-        "1b": "67",
+        "brl%barrel %": "8.0",
+        "ab": "450",
+        "avg": ".222",
+        "h": "100",
+        "1b": "68",
         "2b": "15",
         "3b": "1",
         "hr": "16",
         "so": "108",
-        "bipballs in play": "345",
+        "bipballs in play": "348",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 20:48:20.552767"
+        "updated": "2025-06-03 20:48:29.809903"
     },
     "hou @ pit": [
+        {
+            "player": "isaac paredes",
+            "game": "hou @ pit",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-06-03 20:48:25",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jeremy pena",
             "game": "hou @ pit",
@@ -888,6 +903,21 @@
         }
     ],
     "col @ mia": [
+        {
+            "player": "eric wagaman",
+            "game": "col @ mia",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-06-03 20:48:25",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "otto lopez",
             "game": "col @ mia",
@@ -1860,10 +1890,10 @@
             "team": "chc",
             "start": "6:45 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "91.7",
+            "la": "65",
+            "dist": "143"
         },
         {
             "player": "dansby swanson",
@@ -4107,19 +4137,34 @@
     ],
     "laa @ bos": [
         {
-            "player": "rafael devers",
+            "player": "rob refsnyder",
             "game": "laa @ bos",
             "hr/park": "",
+            "pa": "44",
+            "dt": "2025-06-03 20:48:25",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "Single",
+            "evo": "107.6",
+            "la": "4",
+            "dist": "82"
+        },
+        {
+            "player": "rafael devers",
+            "game": "laa @ bos",
+            "hr/park": "0/30",
             "pa": "43",
             "dt": "2025-06-03 20:47:10",
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
             "team": "bos",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "98.6",
+            "la": "42",
+            "dist": "305"
         },
         {
             "player": "jorge soler",
@@ -7072,6 +7117,21 @@
     ],
     "kc @ stl": [
         {
+            "player": "victor scott",
+            "game": "kc @ stl",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-06-03 20:48:25",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nolan gorman",
             "game": "kc @ stl",
             "hr/park": "",
@@ -7081,7 +7141,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
