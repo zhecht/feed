@@ -1,40 +1,40 @@
 {
     "all": {
         "pitchers": "25",
-        "batters": "173",
-        "pitches": "1026",
+        "batters": "174",
+        "pitches": "1033",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "39.6",
-        "si%sinker %": "13.7",
-        "fc%cutter %": "1.9",
+        "ff%fourseam fastball %": "39.8",
+        "si%sinker %": "13.6",
+        "fc%cutter %": "2.0",
         "fs%splitter %": "3.8",
         "ch%changeup %": "8.7",
-        "sl%slider %": "22.5",
-        "cu%curve %": "9.7",
+        "sl%slider %": "22.2",
+        "cu%curve %": "9.9",
         "max evmax exit velocity": "113.2",
         "hhhard hit": "79",
-        "hh%hard hit %": "40.9",
+        "hh%hard hit %": "40.5",
         "brlbarrels": "13",
         "brl%barrel %": "6.7",
-        "ab": "244",
-        "avg": ".213",
-        "h": "52",
+        "ab": "246",
+        "avg": ".220",
+        "h": "54",
         "1b": "36",
-        "2b": "9",
+        "2b": "10",
         "3b": "1",
-        "hr": "6",
-        "so": "57",
-        "bipballs in play": "193",
+        "hr": "7",
+        "so": "56",
+        "bipballs in play": "195",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 20:02:54.353991"
+        "updated": "2025-06-03 20:03:02.992353"
     },
     "hou @ pit": [
         {
             "player": "andrew mccutchen",
             "game": "hou @ pit",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "37",
             "dt": "2025-06-03 19:59:54",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
@@ -1793,6 +1793,21 @@
     ],
     "cle @ nyy": [
         {
+            "player": "trent grisham",
+            "game": "cle @ nyy",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-06-03 20:02:57",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "carlos santana",
             "game": "cle @ nyy",
             "hr/park": "0/30",
@@ -2139,6 +2154,21 @@
         }
     ],
     "phi @ tor": [
+        {
+            "player": "bryson stott",
+            "game": "phi @ tor",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-06-03 20:02:57",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "7:07 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brandon marsh",
             "game": "phi @ tor",
@@ -3316,21 +3346,6 @@
     ],
     "ari @ atl": [
         {
-            "player": "alek thomas",
-            "game": "ari @ atl",
-            "hr/park": "",
-            "pa": "27",
-            "dt": "2025-06-03 20:02:40",
-            "img": "https://www.mlbstatic.com/team-logos/109.svg",
-            "team": "ari",
-            "start": "7:15 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "gabriel moreno",
             "game": "ari @ atl",
             "hr/park": "",
@@ -3340,7 +3355,7 @@
             "team": "ari",
             "start": "7:15 PM",
             "in": "4",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3725,17 +3740,17 @@
         {
             "player": "kameron misner",
             "game": "tex @ tb",
-            "hr/park": "",
+            "hr/park": "2/30",
             "pa": "13",
             "dt": "2025-06-03 20:01:10",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "start": "7:35 PM",
             "in": "2",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "88.9",
+            "la": "37",
+            "dist": "328"
         },
         {
             "player": "jake mangum",
@@ -3920,6 +3935,21 @@
     ],
     "det @ chw": [
         {
+            "player": "wenceel perez",
+            "game": "det @ chw",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-06-03 20:02:57",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "spencer torkelson",
             "game": "det @ chw",
             "hr/park": "",
@@ -4066,10 +4096,10 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "87.8",
+            "la": "16",
+            "dist": "223"
         },
         {
             "player": "masyn winn",
