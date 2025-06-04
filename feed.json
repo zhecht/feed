@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "40",
         "batters": "198",
-        "pitches": "1873",
+        "pitches": "1880",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "35.9",
-        "si%sinker %": "15.1",
-        "fc%cutter %": "2.8",
+        "ff%fourseam fastball %": "36.0",
+        "si%sinker %": "15.0",
+        "fc%cutter %": "2.9",
         "fs%splitter %": "2.8",
-        "ch%changeup %": "10.6",
-        "sl%slider %": "22.3",
-        "cu%curve %": "10.5",
+        "ch%changeup %": "10.5",
+        "sl%slider %": "22.4",
+        "cu%curve %": "10.4",
         "max evmax exit velocity": "116.0",
         "hhhard hit": "135",
-        "hh%hard hit %": "39.5",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "28",
-        "brl%barrel %": "8.2",
-        "ab": "442",
-        "avg": ".222",
-        "h": "98",
-        "1b": "66",
+        "brl%barrel %": "8.1",
+        "ab": "444",
+        "avg": ".223",
+        "h": "99",
+        "1b": "67",
         "2b": "15",
         "3b": "1",
         "hr": "16",
-        "so": "106",
-        "bipballs in play": "342",
+        "so": "107",
+        "bipballs in play": "344",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 20:47:33.762618"
+        "updated": "2025-06-03 20:47:42.995325"
     },
     "hou @ pit": [
         {
@@ -41,10 +41,10 @@
             "team": "hou",
             "start": "6:40 PM",
             "in": "9",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "74.4",
+            "la": "-1",
+            "dist": "23"
         },
         {
             "player": "andrew mccutchen",
@@ -888,6 +888,21 @@
         }
     ],
     "col @ mia": [
+        {
+            "player": "otto lopez",
+            "game": "col @ mia",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-06-03 20:47:39",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kyle stowers",
             "game": "col @ mia",
@@ -1835,6 +1850,21 @@
         }
     ],
     "chc @ wsh": [
+        {
+            "player": "nico hoerner",
+            "game": "chc @ wsh",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-06-03 20:47:39",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:45 PM",
+            "in": "7",
+            "result": "Pop Out",
+            "evo": "91.7",
+            "la": "65",
+            "dist": "143"
+        },
         {
             "player": "dansby swanson",
             "game": "chc @ wsh",
@@ -6207,7 +6237,7 @@
             "team": "tex",
             "start": "7:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
