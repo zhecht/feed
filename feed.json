@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "37",
         "batters": "198",
-        "pitches": "1818",
+        "pitches": "1822",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
         "ff%fourseam fastball %": "35.7",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "39.5",
         "brlbarrels": "27",
         "brl%barrel %": "8.1",
-        "ab": "428",
-        "avg": ".227",
+        "ab": "430",
+        "avg": ".226",
         "h": "97",
         "1b": "66",
         "2b": "15",
         "3b": "1",
         "hr": "15",
-        "so": "100",
+        "so": "102",
         "bipballs in play": "334",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 20:44:18.748280"
+        "updated": "2025-06-03 20:44:28.072906"
     },
     "hou @ pit": [
         {
@@ -883,7 +883,7 @@
             "team": "col",
             "start": "6:40 PM",
             "in": "8",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "94.0",
             "la": "-15",
             "dist": "8"
@@ -2618,6 +2618,21 @@
     ],
     "cle @ nyy": [
         {
+            "player": "paul goldschmidt",
+            "game": "cle @ nyy",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-06-03 20:44:25",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cody bellinger",
             "game": "cle @ nyy",
             "hr/park": "",
@@ -2627,7 +2642,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3966,7 +3981,7 @@
             "team": "laa",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Mound Visit",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6033,6 +6048,21 @@
     ],
     "tex @ tb": [
         {
+            "player": "corey seager",
+            "game": "tex @ tb",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-06-03 20:44:25",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "7:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "wyatt langford",
             "game": "tex @ tb",
             "hr/park": "",
@@ -6042,7 +6072,7 @@
             "team": "tex",
             "start": "7:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
