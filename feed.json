@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "41",
         "batters": "198",
-        "pitches": "1882",
+        "pitches": "1887",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
         "ff%fourseam fastball %": "35.9",
-        "si%sinker %": "15.0",
+        "si%sinker %": "14.9",
         "fc%cutter %": "2.9",
         "fs%splitter %": "2.8",
-        "ch%changeup %": "10.6",
+        "ch%changeup %": "10.5",
         "sl%slider %": "22.5",
         "cu%curve %": "10.4",
         "max evmax exit velocity": "116.0",
-        "hhhard hit": "135",
+        "hhhard hit": "136",
         "hh%hard hit %": "39.4",
         "brlbarrels": "28",
-        "brl%barrel %": "8.2",
-        "ab": "443",
-        "avg": ".223",
+        "brl%barrel %": "8.1",
+        "ab": "447",
+        "avg": ".221",
         "h": "99",
         "1b": "67",
         "2b": "15",
         "3b": "1",
         "hr": "16",
         "so": "108",
-        "bipballs in play": "343",
+        "bipballs in play": "345",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 20:48:01.719803"
+        "updated": "2025-06-03 20:48:11.293072"
     },
     "hou @ pit": [
         {
@@ -888,6 +888,21 @@
         }
     ],
     "col @ mia": [
+        {
+            "player": "otto lopez",
+            "game": "col @ mia",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-06-03 20:47:39",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "Groundout",
+            "evo": "60.5",
+            "la": "-53",
+            "dist": "4"
+        },
         {
             "player": "kyle stowers",
             "game": "col @ mia",
@@ -3355,6 +3370,21 @@
     ],
     "phi @ tor": [
         {
+            "player": "brandon marsh",
+            "game": "phi @ tor",
+            "hr/park": "0/30",
+            "pa": "49",
+            "dt": "2025-06-03 20:48:09",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "7:07 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "98.8",
+            "la": "37",
+            "dist": "340"
+        },
+        {
             "player": "alejandro kirk",
             "game": "phi @ tor",
             "hr/park": "",
@@ -5506,6 +5536,21 @@
     ],
     "ari @ atl": [
         {
+            "player": "marcell ozuna",
+            "game": "ari @ atl",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-06-03 20:48:09",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "matt olson",
             "game": "ari @ atl",
             "hr/park": "",
@@ -7036,7 +7081,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "3",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
