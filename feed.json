@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "41",
         "batters": "198",
-        "pitches": "1895",
+        "pitches": "1901",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
         "ff%fourseam fastball %": "35.9",
-        "si%sinker %": "14.9",
+        "si%sinker %": "14.8",
         "fc%cutter %": "2.9",
         "fs%splitter %": "2.8",
         "ch%changeup %": "10.5",
@@ -14,21 +14,21 @@
         "cu%curve %": "10.4",
         "max evmax exit velocity": "116.0",
         "hhhard hit": "138",
-        "hh%hard hit %": "39.7",
+        "hh%hard hit %": "39.5",
         "brlbarrels": "28",
         "brl%barrel %": "8.0",
-        "ab": "450",
+        "ab": "451",
         "avg": ".222",
         "h": "100",
         "1b": "68",
         "2b": "15",
         "3b": "1",
         "hr": "16",
-        "so": "108",
-        "bipballs in play": "348",
+        "so": "109",
+        "bipballs in play": "349",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 20:48:39.253242"
+        "updated": "2025-06-03 20:48:48.470241"
     },
     "hou @ pit": [
         {
@@ -41,7 +41,7 @@
             "team": "hou",
             "start": "6:40 PM",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -903,21 +903,6 @@
         }
     ],
     "col @ mia": [
-        {
-            "player": "eric wagaman",
-            "game": "col @ mia",
-            "hr/park": "",
-            "pa": "65",
-            "dt": "2025-06-03 20:48:25",
-            "img": "https://www.mlbstatic.com/team-logos/146.svg",
-            "team": "mia",
-            "start": "6:40 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "otto lopez",
             "game": "col @ mia",
@@ -1880,6 +1865,21 @@
         }
     ],
     "chc @ wsh": [
+        {
+            "player": "justin turner",
+            "game": "chc @ wsh",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-06-03 20:48:42",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:45 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "nico hoerner",
             "game": "chc @ wsh",
@@ -4799,6 +4799,21 @@
     ],
     "mil @ cin": [
         {
+            "player": "brice turang",
+            "game": "mil @ cin",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-06-03 20:48:42",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "joey ortiz",
             "game": "mil @ cin",
             "hr/park": "",
@@ -4808,7 +4823,7 @@
             "team": "mil",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5590,10 +5605,10 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "93.5",
+            "la": "51",
+            "dist": "260"
         },
         {
             "player": "matt olson",
