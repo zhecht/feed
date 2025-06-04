@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "49",
         "batters": "201",
-        "pitches": "2156",
+        "pitches": "2166",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "35.1",
-        "si%sinker %": "15.2",
+        "ff%fourseam fastball %": "34.9",
+        "si%sinker %": "15.3",
         "fc%cutter %": "3.2",
         "fs%splitter %": "2.7",
-        "ch%changeup %": "10.5",
-        "sl%slider %": "22.6",
-        "cu%curve %": "10.7",
+        "ch%changeup %": "10.6",
+        "sl%slider %": "22.7",
+        "cu%curve %": "10.6",
         "max evmax exit velocity": "116.0",
         "hhhard hit": "158",
         "hh%hard hit %": "40.0",
         "brlbarrels": "33",
         "brl%barrel %": "8.4",
-        "ab": "511",
-        "avg": ".221",
+        "ab": "510",
+        "avg": ".222",
         "h": "113",
         "1b": "78",
         "2b": "17",
         "3b": "1",
         "hr": "17",
-        "so": "120",
+        "so": "121",
         "bipballs in play": "395",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 21:02:15.771167"
+        "updated": "2025-06-03 21:02:25.664827"
     },
     "hou @ pit": [
         {
@@ -993,21 +993,6 @@
         }
     ],
     "col @ mia": [
-        {
-            "player": "connor norby",
-            "game": "col @ mia",
-            "hr/park": "",
-            "pa": "72",
-            "dt": "2025-06-03 21:02:10",
-            "img": "https://www.mlbstatic.com/team-logos/146.svg",
-            "team": "mia",
-            "start": "6:40 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "liam hicks",
             "game": "col @ mia",
@@ -2086,9 +2071,9 @@
             "start": "6:45 PM",
             "in": "8",
             "result": "In Progress",
-            "evo": "73.4",
-            "la": "-5",
-            "dist": "22"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "ian happ",
@@ -3805,6 +3790,21 @@
     ],
     "phi @ tor": [
         {
+            "player": "myles straw",
+            "game": "phi @ tor",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-03 21:02:25",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "davis schneider",
             "game": "phi @ tor",
             "hr/park": "",
@@ -3814,7 +3814,7 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4656,7 +4656,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5414,6 +5414,21 @@
     ],
     "mil @ cin": [
         {
+            "player": "connor joe",
+            "game": "mil @ cin",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-06-03 21:02:25",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tj friedl",
             "game": "mil @ cin",
             "hr/park": "",
@@ -5423,10 +5438,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "7",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "64.2",
+            "la": "-18",
+            "dist": "8"
         },
         {
             "player": "matt mclain",
@@ -7574,7 +7589,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
