@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "46",
         "batters": "198",
-        "pitches": "2069",
+        "pitches": "2080",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "35.0",
-        "si%sinker %": "14.8",
+        "ff%fourseam fastball %": "35.1",
+        "si%sinker %": "14.9",
         "fc%cutter %": "3.1",
-        "fs%splitter %": "2.9",
-        "ch%changeup %": "10.6",
-        "sl%slider %": "23.0",
-        "cu%curve %": "10.6",
+        "fs%splitter %": "2.8",
+        "ch%changeup %": "10.5",
+        "sl%slider %": "22.9",
+        "cu%curve %": "10.7",
         "max evmax exit velocity": "116.0",
-        "hhhard hit": "155",
+        "hhhard hit": "156",
         "hh%hard hit %": "40.4",
-        "brlbarrels": "31",
-        "brl%barrel %": "8.1",
-        "ab": "493",
-        "avg": ".227",
+        "brlbarrels": "32",
+        "brl%barrel %": "8.3",
+        "ab": "496",
+        "avg": ".226",
         "h": "112",
         "1b": "77",
         "2b": "17",
         "3b": "1",
         "hr": "17",
-        "so": "117",
-        "bipballs in play": "384",
+        "so": "118",
+        "bipballs in play": "386",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 20:57:46.940522"
+        "updated": "2025-06-03 20:57:56.276773"
     },
     "hou @ pit": [
         {
@@ -4497,6 +4497,21 @@
     ],
     "laa @ bos": [
         {
+            "player": "chris taylor",
+            "game": "laa @ bos",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-06-03 20:57:54",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "98.8",
+            "la": "31",
+            "dist": "369"
+        },
+        {
             "player": "jo adell",
             "game": "laa @ bos",
             "hr/park": "",
@@ -4506,10 +4521,10 @@
             "team": "laa",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "58.7",
+            "la": "36",
+            "dist": "172"
         },
         {
             "player": "luis rengifo",
@@ -5236,7 +5251,7 @@
         {
             "player": "matt mclain",
             "game": "mil @ cin",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "56",
             "dt": "2025-06-03 20:55:55",
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
@@ -6076,6 +6091,21 @@
     ],
     "ari @ atl": [
         {
+            "player": "ketel marte",
+            "game": "ari @ atl",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-06-03 20:57:54",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:15 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "corbin carroll",
             "game": "ari @ atl",
             "hr/park": "",
@@ -6858,6 +6888,21 @@
     ],
     "tex @ tb": [
         {
+            "player": "alejandro osuna",
+            "game": "tex @ tb",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-06-03 20:56:54",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "7:35 PM",
+            "in": "5",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kameron misner",
             "game": "tex @ tb",
             "hr/park": "",
@@ -7304,7 +7349,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
