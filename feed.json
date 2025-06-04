@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "82",
-        "batters": "213",
-        "pitches": "2794",
+        "batters": "215",
+        "pitches": "2801",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "70.6",
         "ff%fourseam fastball %": "34.7",
         "si%sinker %": "14.9",
-        "fc%cutter %": "4.3",
+        "fc%cutter %": "4.2",
         "fs%splitter %": "4.5",
         "ch%changeup %": "10.6",
         "sl%slider %": "21.4",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "116.0",
-        "hhhard hit": "208",
+        "hhhard hit": "209",
         "hh%hard hit %": "40.3",
-        "brlbarrels": "46",
-        "brl%barrel %": "8.9",
-        "ab": "662",
-        "avg": ".227",
-        "h": "150",
-        "1b": "102",
+        "brlbarrels": "47",
+        "brl%barrel %": "9.1",
+        "ab": "663",
+        "avg": ".228",
+        "h": "151",
+        "1b": "103",
         "2b": "21",
         "3b": "1",
         "hr": "26",
         "so": "154",
-        "bipballs in play": "516",
+        "bipballs in play": "519",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-03 21:45:07.420570"
+        "updated": "2025-06-03 21:45:17.485793"
     },
     "hou @ pit": [
         {
@@ -3272,10 +3272,10 @@
             "team": "cle",
             "start": "7:05 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "94.7",
+            "la": "-5",
+            "dist": "16"
         },
         {
             "player": "gabriel arias",
@@ -7501,6 +7501,21 @@
     ],
     "ari @ atl": [
         {
+            "player": "sean murphy",
+            "game": "ari @ atl",
+            "hr/park": "",
+            "pa": "75",
+            "dt": "2025-06-03 21:45:10",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "56.2",
+            "la": "-18",
+            "dist": "9"
+        },
+        {
             "player": "alex verdugo",
             "game": "ari @ atl",
             "hr/park": "",
@@ -8622,7 +8637,7 @@
             "team": "tex",
             "start": "7:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9367,17 +9382,17 @@
         {
             "player": "parker meadows",
             "game": "det @ chw",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "55",
             "dt": "2025-06-03 21:44:25",
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
             "team": "det",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "100.0",
+            "la": "27",
+            "dist": "368"
         },
         {
             "player": "javier baez",
@@ -11018,6 +11033,21 @@
         }
     ],
     "bal @ sea": [
+        {
+            "player": "adley rutschman",
+            "game": "bal @ sea",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-06-03 21:45:10",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jackson holliday",
             "game": "bal @ sea",
