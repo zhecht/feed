@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "97",
         "batters": "243",
-        "pitches": "3108",
+        "pitches": "3113",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "70.6",
         "ff%fourseam fastball %": "35.0",
-        "si%sinker %": "14.9",
+        "si%sinker %": "15.0",
         "fc%cutter %": "5.0",
         "fs%splitter %": "4.6",
         "ch%changeup %": "10.2",
         "sl%slider %": "20.8",
-        "cu%curve %": "9.5",
+        "cu%curve %": "9.4",
         "max evmax exit velocity": "116.0",
         "hhhard hit": "230",
-        "hh%hard hit %": "39.7",
+        "hh%hard hit %": "39.6",
         "brlbarrels": "51",
         "brl%barrel %": "8.8",
         "ab": "732",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "27",
         "so": "164",
-        "bipballs in play": "580",
+        "bipballs in play": "581",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-03 22:10:14.544320"
+        "updated": "2025-06-03 22:10:26.211308"
     },
     "hou @ pit": [
         {
@@ -5472,21 +5472,6 @@
     ],
     "laa @ bos": [
         {
-            "player": "jorge soler",
-            "game": "laa @ bos",
-            "hr/park": "",
-            "pa": "81",
-            "dt": "2025-06-03 22:10:11",
-            "img": "https://www.mlbstatic.com/team-logos/108.svg",
-            "team": "laa",
-            "start": "7:10 PM",
-            "in": "10",
-            "result": "Pop Out",
-            "evo": "74.5",
-            "la": "61",
-            "dist": "150"
-        },
-        {
             "player": "taylor ward",
             "game": "laa @ bos",
             "hr/park": "",
@@ -5496,7 +5481,7 @@
             "team": "laa",
             "start": "7:10 PM",
             "in": "10",
-            "result": "GIDP",
+            "result": "In Progress",
             "evo": "92.9",
             "la": "-3",
             "dist": "24"
@@ -10822,6 +10807,21 @@
     ],
     "kc @ stl": [
         {
+            "player": "alec burleson",
+            "game": "kc @ stl",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-06-03 22:10:26",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "74.5",
+            "la": "",
+            "dist": "40"
+        },
+        {
             "player": "nolan arenado",
             "game": "kc @ stl",
             "hr/park": "",
@@ -10831,10 +10831,10 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "47.2",
+            "la": "-50",
+            "dist": "3"
         },
         {
             "player": "ivan herrera",
