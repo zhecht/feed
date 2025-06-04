@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "33",
         "batters": "139",
-        "pitches": "1359",
+        "pitches": "1365",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "31.2",
-        "si%sinker %": "15.3",
+        "si%sinker %": "15.2",
         "fc%cutter %": "7.3",
         "fs%splitter %": "1.2",
         "ch%changeup %": "12.3",
         "sl%slider %": "20.9",
-        "cu%curve %": "11.8",
+        "cu%curve %": "11.9",
         "max evmax exit velocity": "114.1",
-        "hhhard hit": "113",
-        "hh%hard hit %": "45.6",
+        "hhhard hit": "115",
+        "hh%hard hit %": "46.0",
         "brlbarrels": "13",
         "brl%barrel %": "5.2",
-        "ab": "311",
-        "avg": ".238",
+        "ab": "313",
+        "avg": ".236",
         "h": "74",
         "1b": "44",
         "2b": "20",
         "3b": "2",
         "hr": "8",
-        "so": "71",
-        "bipballs in play": "248",
+        "so": "72",
+        "bipballs in play": "250",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-04 19:53:21.593463"
+        "updated": "2025-06-04 19:53:30.090183"
     },
     "col @ mia": [
         {
@@ -3443,6 +3443,21 @@
     ],
     "hou @ pit": [
         {
+            "player": "cam smith",
+            "game": "hou @ pit",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-06-04 19:53:28",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "98.3",
+            "la": "-6",
+            "dist": "26"
+        },
+        {
             "player": "jake meyers",
             "game": "hou @ pit",
             "hr/park": "",
@@ -3452,10 +3467,10 @@
             "team": "hou",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "95.6",
+            "la": "-23",
+            "dist": "6"
         },
         {
             "player": "andrew mccutchen",
@@ -3985,6 +4000,21 @@
     ],
     "chc @ wsh": [
         {
+            "player": "alex call",
+            "game": "chc @ wsh",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-06-04 19:53:28",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh bell",
             "game": "chc @ wsh",
             "hr/park": "",
@@ -3994,7 +4024,7 @@
             "team": "wsh",
             "start": "6:45 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "100.7",
             "la": "-1",
             "dist": "47"
@@ -4793,7 +4823,7 @@
             "team": "phi",
             "start": "7:07 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
