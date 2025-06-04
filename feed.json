@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "93",
-        "batters": "235",
-        "pitches": "3034",
+        "pitchers": "96",
+        "batters": "236",
+        "pitches": "3041",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "70.6",
         "ff%fourseam fastball %": "34.6",
@@ -11,24 +11,24 @@
         "fs%splitter %": "4.5",
         "ch%changeup %": "10.2",
         "sl%slider %": "21.1",
-        "cu%curve %": "9.7",
+        "cu%curve %": "9.6",
         "max evmax exit velocity": "116.0",
-        "hhhard hit": "226",
-        "hh%hard hit %": "40.1",
+        "hhhard hit": "227",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "50",
-        "brl%barrel %": "8.9",
-        "ab": "714",
-        "avg": ".228",
-        "h": "163",
-        "1b": "113",
+        "brl%barrel %": "8.8",
+        "ab": "717",
+        "avg": ".229",
+        "h": "164",
+        "1b": "114",
         "2b": "23",
         "3b": "1",
         "hr": "26",
         "so": "163",
-        "bipballs in play": "563",
+        "bipballs in play": "565",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-03 22:06:04.451884"
+        "updated": "2025-06-03 22:06:15.121192"
     },
     "hou @ pit": [
         {
@@ -8862,7 +8862,7 @@
             "team": "tb",
             "start": "7:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9754,6 +9754,21 @@
         }
     ],
     "det @ chw": [
+        {
+            "player": "zach mckinstry",
+            "game": "det @ chw",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-06-03 22:06:11",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "Single",
+            "evo": "95.9",
+            "la": "9",
+            "dist": "154"
+        },
         {
             "player": "gleyber torres",
             "game": "det @ chw",
@@ -10686,6 +10701,36 @@
         }
     ],
     "kc @ stl": [
+        {
+            "player": "nick loftin",
+            "game": "kc @ stl",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-06-03 22:06:11",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:45 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jac caglianone",
+            "game": "kc @ stl",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-06-03 22:06:11",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:45 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "65.3",
+            "la": "10",
+            "dist": "101"
+        },
         {
             "player": "salvador perez",
             "game": "kc @ stl",
