@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "31",
         "batters": "197",
-        "pitches": "1583",
+        "pitches": "1589",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "37.3",
-        "si%sinker %": "14.0",
+        "ff%fourseam fastball %": "37.2",
+        "si%sinker %": "13.9",
         "fc%cutter %": "2.7",
-        "fs%splitter %": "3.2",
+        "fs%splitter %": "3.1",
         "ch%changeup %": "9.9",
         "sl%slider %": "22.3",
-        "cu%curve %": "10.7",
+        "cu%curve %": "10.9",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "114",
+        "hhhard hit": "115",
         "hh%hard hit %": "39.2",
         "brlbarrels": "22",
-        "brl%barrel %": "7.6",
-        "ab": "373",
-        "avg": ".214",
+        "brl%barrel %": "7.5",
+        "ab": "376",
+        "avg": ".213",
         "h": "80",
         "1b": "54",
         "2b": "13",
         "3b": "1",
         "hr": "12",
         "so": "89",
-        "bipballs in play": "291",
+        "bipballs in play": "293",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 20:31:36.796730"
+        "updated": "2025-06-03 20:31:46.125943"
     },
     "hou @ pit": [
         {
@@ -798,6 +798,21 @@
         }
     ],
     "col @ mia": [
+        {
+            "player": "javier sanoja",
+            "game": "col @ mia",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-06-03 20:31:11",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "94.3",
+            "la": "-3",
+            "dist": "32"
+        },
         {
             "player": "nick fortes",
             "game": "col @ mia",
@@ -3546,7 +3561,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4755,6 +4770,36 @@
         }
     ],
     "ari @ atl": [
+        {
+            "player": "ronald acuna",
+            "game": "ari @ atl",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-03 20:31:39",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "michael harris",
+            "game": "ari @ atl",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-06-03 20:31:39",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "5",
+            "result": "Groundout",
+            "evo": "100.3",
+            "la": "-18",
+            "dist": "8"
+        },
         {
             "player": "nick allen",
             "game": "ari @ atl",
