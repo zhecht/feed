@@ -2,35 +2,50 @@
     "all": {
         "pitchers": "28",
         "batters": "193",
-        "pitches": "1349",
+        "pitches": "1359",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
         "ff%fourseam fastball %": "37.7",
-        "si%sinker %": "14.3",
+        "si%sinker %": "14.2",
         "fc%cutter %": "2.4",
-        "fs%splitter %": "3.3",
+        "fs%splitter %": "3.4",
         "ch%changeup %": "9.8",
-        "sl%slider %": "22.2",
+        "sl%slider %": "22.3",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "102",
-        "hh%hard hit %": "40.3",
+        "hhhard hit": "103",
+        "hh%hard hit %": "40.6",
         "brlbarrels": "21",
         "brl%barrel %": "8.3",
-        "ab": "323",
-        "avg": ".220",
+        "ab": "325",
+        "avg": ".218",
         "h": "71",
         "1b": "46",
         "2b": "13",
         "3b": "1",
         "hr": "11",
         "so": "74",
-        "bipballs in play": "253",
+        "bipballs in play": "254",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 20:19:09.372949"
+        "updated": "2025-06-03 20:19:18.506931"
     },
     "hou @ pit": [
+        {
+            "player": "yainer diaz",
+            "game": "hou @ pit",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-06-03 20:19:12",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "christian walker",
             "game": "hou @ pit",
@@ -719,9 +734,9 @@
             "start": "6:40 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "100.1",
+            "la": "-5",
+            "dist": "24"
         },
         {
             "player": "eric wagaman",
@@ -1445,6 +1460,21 @@
         }
     ],
     "chc @ wsh": [
+        {
+            "player": "jose tena",
+            "game": "chc @ wsh",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-06-03 20:19:12",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "matt shaw",
             "game": "chc @ wsh",
@@ -3111,7 +3141,7 @@
             "team": "laa",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Game Advisory",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4158,7 +4188,7 @@
         {
             "player": "alex verdugo",
             "game": "ari @ atl",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "34",
             "dt": "2025-06-03 20:16:55",
             "img": "https://www.mlbstatic.com/team-logos/144.svg",
