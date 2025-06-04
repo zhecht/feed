@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "25",
         "batters": "177",
-        "pitches": "1092",
+        "pitches": "1098",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
         "ff%fourseam fastball %": "39.4",
         "si%sinker %": "13.4",
         "fc%cutter %": "2.0",
-        "fs%splitter %": "3.8",
+        "fs%splitter %": "3.7",
         "ch%changeup %": "8.9",
         "sl%slider %": "22.9",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "81",
-        "hh%hard hit %": "39.5",
-        "brlbarrels": "14",
-        "brl%barrel %": "6.8",
-        "ab": "258",
-        "avg": ".213",
-        "h": "55",
+        "hhhard hit": "82",
+        "hh%hard hit %": "39.6",
+        "brlbarrels": "15",
+        "brl%barrel %": "7.2",
+        "ab": "259",
+        "avg": ".216",
+        "h": "56",
         "1b": "36",
-        "2b": "11",
+        "2b": "12",
         "3b": "1",
         "hr": "7",
         "so": "60",
-        "bipballs in play": "205",
+        "bipballs in play": "207",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 20:06:22.557171"
+        "updated": "2025-06-03 20:06:31.103522"
     },
     "hou @ pit": [
         {
@@ -1275,7 +1275,7 @@
             "team": "chc",
             "start": "6:45 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3029,6 +3029,21 @@
     ],
     "mil @ cin": [
         {
+            "player": "elly de la cruz",
+            "game": "mil @ cin",
+            "hr/park": "3/30",
+            "pa": "30",
+            "dt": "2025-06-03 20:06:25",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "Double",
+            "evo": "100.9",
+            "la": "29",
+            "dist": "358"
+        },
+        {
             "player": "gavin lux",
             "game": "mil @ cin",
             "hr/park": "",
@@ -3466,6 +3481,21 @@
     ],
     "ari @ atl": [
         {
+            "player": "ronald acuna",
+            "game": "ari @ atl",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-06-03 20:06:25",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alek thomas",
             "game": "ari @ atl",
             "hr/park": "",
@@ -3882,10 +3912,10 @@
             "team": "tb",
             "start": "7:35 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "64.5",
+            "la": "52",
+            "dist": "176"
         },
         {
             "player": "kameron misner",
