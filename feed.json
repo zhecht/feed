@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "33",
-        "batters": "139",
-        "pitches": "1365",
+        "batters": "140",
+        "pitches": "1367",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "31.2",
-        "si%sinker %": "15.2",
+        "si%sinker %": "15.3",
         "fc%cutter %": "7.3",
         "fs%splitter %": "1.2",
         "ch%changeup %": "12.3",
-        "sl%slider %": "20.9",
+        "sl%slider %": "20.8",
         "cu%curve %": "11.9",
         "max evmax exit velocity": "114.1",
-        "hhhard hit": "115",
-        "hh%hard hit %": "46.0",
+        "hhhard hit": "116",
+        "hh%hard hit %": "46.2",
         "brlbarrels": "13",
         "brl%barrel %": "5.2",
-        "ab": "313",
-        "avg": ".236",
+        "ab": "315",
+        "avg": ".235",
         "h": "74",
         "1b": "44",
         "2b": "20",
         "3b": "2",
         "hr": "8",
         "so": "72",
-        "bipballs in play": "250",
+        "bipballs in play": "251",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-04 19:53:38.798339"
+        "updated": "2025-06-04 19:53:47.373313"
     },
     "col @ mia": [
         {
@@ -3452,10 +3452,10 @@
             "team": "hou",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "98.3",
-            "la": "-6",
-            "dist": "26"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "jake meyers",
@@ -4002,17 +4002,17 @@
         {
             "player": "alex call",
             "game": "chc @ wsh",
-            "hr/park": "",
+            "hr/park": "1/30",
             "pa": "35",
             "dt": "2025-06-04 19:53:28",
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
             "team": "wsh",
             "start": "6:45 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "97.6",
+            "la": "28",
+            "dist": "379"
         },
         {
             "player": "josh bell",
@@ -4814,6 +4814,21 @@
     ],
     "phi @ tor": [
         {
+            "player": "kyle schwarber",
+            "game": "phi @ tor",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-06-04 19:53:43",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "7:07 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "109.4",
+            "la": "10",
+            "dist": "159"
+        },
+        {
             "player": "bryce harper",
             "game": "phi @ tor",
             "hr/park": "",
@@ -5147,9 +5162,24 @@
     "ari @ atl": [],
     "tex @ tb": [
         {
-            "player": "brandon lowe",
+            "player": "yandy diaz",
             "game": "tex @ tb",
             "hr/park": "",
+            "pa": "7",
+            "dt": "2025-06-04 19:53:43",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "brandon lowe",
+            "game": "tex @ tb",
+            "hr/park": "21/30",
             "pa": "6",
             "dt": "2025-06-04 19:52:28",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
