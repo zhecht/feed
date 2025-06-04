@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "102",
-        "batters": "261",
-        "pitches": "3247",
+        "batters": "262",
+        "pitches": "3253",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "70.6",
         "ff%fourseam fastball %": "34.8",
@@ -10,11 +10,11 @@
         "fc%cutter %": "5.0",
         "fs%splitter %": "4.6",
         "ch%changeup %": "10.1",
-        "sl%slider %": "20.9",
+        "sl%slider %": "20.8",
         "cu%curve %": "9.4",
         "max evmax exit velocity": "116.0",
-        "hhhard hit": "244",
-        "hh%hard hit %": "40.2",
+        "hhhard hit": "245",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "52",
         "brl%barrel %": "8.6",
         "ab": "767",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "28",
         "so": "172",
-        "bipballs in play": "607",
+        "bipballs in play": "608",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-03 22:20:36.197274"
+        "updated": "2025-06-03 22:20:47.082028"
     },
     "hou @ pit": [
         {
@@ -12084,6 +12084,21 @@
     ],
     "bal @ sea": [
         {
+            "player": "leody taveras",
+            "game": "bal @ sea",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-06-03 22:20:41",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "9:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "rowdy tellez",
             "game": "bal @ sea",
             "hr/park": "30/30",
@@ -12351,9 +12366,9 @@
             "start": "9:45 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "103.0",
+            "la": "38",
+            "dist": "371"
         },
         {
             "player": "luis arraez",
@@ -12637,7 +12652,7 @@
             "team": "ath",
             "start": "10:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
