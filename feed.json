@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "33",
-        "batters": "140",
-        "pitches": "1382",
+        "batters": "141",
+        "pitches": "1383",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "31.1",
-        "si%sinker %": "15.3",
+        "ff%fourseam fastball %": "31.0",
+        "si%sinker %": "15.4",
         "fc%cutter %": "7.4",
         "fs%splitter %": "1.2",
         "ch%changeup %": "12.4",
@@ -14,7 +14,7 @@
         "cu%curve %": "11.9",
         "max evmax exit velocity": "114.1",
         "hhhard hit": "117",
-        "hh%hard hit %": "46.1",
+        "hh%hard hit %": "45.7",
         "brlbarrels": "13",
         "brl%barrel %": "5.1",
         "ab": "318",
@@ -24,11 +24,11 @@
         "2b": "20",
         "3b": "2",
         "hr": "8",
-        "so": "73",
-        "bipballs in play": "254",
+        "so": "72",
+        "bipballs in play": "256",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-04 19:55:20.973568"
+        "updated": "2025-06-04 19:55:29.500398"
     },
     "col @ mia": [
         {
@@ -3452,7 +3452,7 @@
             "team": "hou",
             "start": "6:40 PM",
             "in": "5",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5207,6 +5207,21 @@
     "ari @ atl": [],
     "tex @ tb": [
         {
+            "player": "jonathan aranda",
+            "game": "tex @ tb",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-06-04 19:55:28",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:35 PM",
+            "in": "1",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "yandy diaz",
             "game": "tex @ tb",
             "hr/park": "",
@@ -5216,10 +5231,10 @@
             "team": "tb",
             "start": "7:35 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "80.1",
+            "la": "-20",
+            "dist": "8"
         },
         {
             "player": "brandon lowe",
