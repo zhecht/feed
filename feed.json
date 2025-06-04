@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "31",
         "batters": "196",
-        "pitches": "1537",
+        "pitches": "1541",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "37.5",
-        "si%sinker %": "13.7",
+        "ff%fourseam fastball %": "37.6",
+        "si%sinker %": "13.8",
         "fc%cutter %": "2.6",
         "fs%splitter %": "3.2",
         "ch%changeup %": "10.0",
-        "sl%slider %": "22.4",
-        "cu%curve %": "10.5",
+        "sl%slider %": "22.5",
+        "cu%curve %": "10.4",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "110",
-        "hh%hard hit %": "38.6",
+        "hhhard hit": "111",
+        "hh%hard hit %": "38.8",
         "brlbarrels": "22",
         "brl%barrel %": "7.7",
-        "ab": "365",
-        "avg": ".216",
+        "ab": "364",
+        "avg": ".217",
         "h": "79",
         "1b": "53",
         "2b": "13",
         "3b": "1",
         "hr": "12",
         "so": "86",
-        "bipballs in play": "285",
+        "bipballs in play": "286",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 20:28:51.159818"
+        "updated": "2025-06-03 20:28:59.974477"
     },
     "hou @ pit": [
         {
@@ -783,6 +783,21 @@
         }
     ],
     "col @ mia": [
+        {
+            "player": "nick fortes",
+            "game": "col @ mia",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-06-03 20:28:55",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jordan beck",
             "game": "col @ mia",
@@ -1581,21 +1596,6 @@
     ],
     "chc @ wsh": [
         {
-            "player": "carson kelly",
-            "game": "chc @ wsh",
-            "hr/park": "",
-            "pa": "51",
-            "dt": "2025-06-03 20:28:26",
-            "img": "https://www.mlbstatic.com/team-logos/112.svg",
-            "team": "chc",
-            "start": "6:45 PM",
-            "in": "6",
-            "result": "Stolen Base 2B",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "pete crow armstrong",
             "game": "chc @ wsh",
             "hr/park": "",
@@ -2357,10 +2357,10 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "107.4",
+            "la": "-1",
+            "dist": "45"
         },
         {
             "player": "trent grisham",
@@ -3501,7 +3501,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
