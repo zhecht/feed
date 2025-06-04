@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "74",
         "batters": "209",
-        "pitches": "2706",
+        "pitches": "2713",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "70.6",
         "ff%fourseam fastball %": "34.7",
         "si%sinker %": "14.8",
-        "fc%cutter %": "4.4",
-        "fs%splitter %": "4.4",
-        "ch%changeup %": "10.3",
+        "fc%cutter %": "4.3",
+        "fs%splitter %": "4.5",
+        "ch%changeup %": "10.4",
         "sl%slider %": "21.6",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "116.0",
-        "hhhard hit": "198",
-        "hh%hard hit %": "40.0",
-        "brlbarrels": "44",
-        "brl%barrel %": "8.9",
-        "ab": "636",
-        "avg": ".222",
-        "h": "141",
-        "1b": "96",
+        "hhhard hit": "200",
+        "hh%hard hit %": "40.2",
+        "brlbarrels": "46",
+        "brl%barrel %": "9.2",
+        "ab": "638",
+        "avg": ".224",
+        "h": "143",
+        "1b": "97",
         "2b": "19",
         "3b": "1",
-        "hr": "25",
-        "so": "148",
-        "bipballs in play": "495",
+        "hr": "26",
+        "so": "149",
+        "bipballs in play": "498",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 21:37:54.334963"
+        "updated": "2025-06-03 21:38:04.328450"
     },
     "hou @ pit": [
         {
@@ -4225,11 +4225,11 @@
     ],
     "phi @ tor": [
         {
-            "player": "addison barger",
+            "player": "ernie clement",
             "game": "phi @ tor",
             "hr/park": "",
-            "pa": "71",
-            "dt": "2025-06-03 21:35:26",
+            "pa": "72",
+            "dt": "2025-06-03 21:37:57",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "start": "7:07 PM",
@@ -4238,6 +4238,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "addison barger",
+            "game": "phi @ tor",
+            "hr/park": "29/30",
+            "pa": "71",
+            "dt": "2025-06-03 21:35:26",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "8",
+            "result": "Home Run",
+            "evo": "100.8",
+            "la": "34",
+            "dist": "373"
         },
         {
             "player": "alejandro kirk",
@@ -6286,17 +6301,17 @@
         {
             "player": "jake bauers",
             "game": "mil @ cin",
-            "hr/park": "",
+            "hr/park": "6/30",
             "pa": "72",
             "dt": "2025-06-03 21:36:41",
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
             "team": "mil",
             "start": "7:10 PM",
             "in": "9",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "106.2",
+            "la": "26",
+            "dist": "400"
         },
         {
             "player": "caleb durbin",
@@ -7375,10 +7390,10 @@
             "team": "ari",
             "start": "7:15 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "92.7",
+            "la": "18",
+            "dist": "291"
         },
         {
             "player": "corbin carroll",
@@ -8432,6 +8447,21 @@
         }
     ],
     "tex @ tb": [
+        {
+            "player": "danny jansen",
+            "game": "tex @ tb",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-06-03 21:36:41",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kameron misner",
             "game": "tex @ tb",
@@ -9871,7 +9901,7 @@
             "team": "kc",
             "start": "7:45 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
