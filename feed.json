@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "44",
         "batters": "198",
-        "pitches": "2000",
+        "pitches": "2002",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "35.4",
-        "si%sinker %": "14.8",
+        "ff%fourseam fastball %": "35.3",
+        "si%sinker %": "14.9",
         "fc%cutter %": "3.1",
         "fs%splitter %": "2.8",
         "ch%changeup %": "10.4",
-        "sl%slider %": "22.9",
-        "cu%curve %": "10.5",
+        "sl%slider %": "23.0",
+        "cu%curve %": "10.4",
         "max evmax exit velocity": "116.0",
-        "hhhard hit": "148",
+        "hhhard hit": "149",
         "hh%hard hit %": "39.8",
         "brlbarrels": "30",
-        "brl%barrel %": "8.1",
+        "brl%barrel %": "8.0",
         "ab": "479",
         "avg": ".221",
         "h": "106",
@@ -24,11 +24,11 @@
         "2b": "15",
         "3b": "1",
         "hr": "17",
-        "so": "115",
-        "bipballs in play": "372",
+        "so": "114",
+        "bipballs in play": "374",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 20:54:08.216485"
+        "updated": "2025-06-03 20:54:17.702772"
     },
     "hou @ pit": [
         {
@@ -933,6 +933,21 @@
         }
     ],
     "col @ mia": [
+        {
+            "player": "kyle farmer",
+            "game": "col @ mia",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-06-03 20:54:11",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "orlando arcia",
             "game": "col @ mia",
@@ -2858,6 +2873,21 @@
     ],
     "cle @ nyy": [
         {
+            "player": "gabriel arias",
+            "game": "cle @ nyy",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-06-03 20:54:11",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "108.5",
+            "la": "9",
+            "dist": "224"
+        },
+        {
             "player": "carlos santana",
             "game": "cle @ nyy",
             "hr/park": "0/30",
@@ -3549,21 +3579,6 @@
         }
     ],
     "phi @ tor": [
-        {
-            "player": "bryce harper",
-            "game": "phi @ tor",
-            "hr/park": "",
-            "pa": "52",
-            "dt": "2025-06-03 20:53:55",
-            "img": "https://www.mlbstatic.com/team-logos/143.svg",
-            "team": "phi",
-            "start": "7:07 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "trea turner",
             "game": "phi @ tor",
@@ -5875,7 +5890,7 @@
             "team": "ari",
             "start": "7:15 PM",
             "in": "7",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
