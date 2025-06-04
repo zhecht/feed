@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "102",
         "batters": "255",
-        "pitches": "3202",
+        "pitches": "3207",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "70.6",
-        "ff%fourseam fastball %": "35.1",
+        "ff%fourseam fastball %": "35.0",
         "si%sinker %": "15.1",
         "fc%cutter %": "5.1",
         "fs%splitter %": "4.5",
         "ch%changeup %": "10.1",
-        "sl%slider %": "20.7",
+        "sl%slider %": "20.8",
         "cu%curve %": "9.4",
         "max evmax exit velocity": "116.0",
         "hhhard hit": "239",
-        "hh%hard hit %": "40.0",
+        "hh%hard hit %": "39.9",
         "brlbarrels": "51",
         "brl%barrel %": "8.5",
         "ab": "756",
@@ -24,11 +24,11 @@
         "2b": "24",
         "3b": "1",
         "hr": "27",
-        "so": "169",
-        "bipballs in play": "597",
+        "so": "170",
+        "bipballs in play": "599",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-03 22:17:18.903078"
+        "updated": "2025-06-03 22:17:29.839468"
     },
     "hou @ pit": [
         {
@@ -5472,6 +5472,21 @@
     ],
     "laa @ bos": [
         {
+            "player": "ceddanne rafaela",
+            "game": "laa @ bos",
+            "hr/park": "",
+            "pa": "84",
+            "dt": "2025-06-03 22:17:26",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "10",
+            "result": "In Progress",
+            "evo": "66.1",
+            "la": "70",
+            "dist": "101"
+        },
+        {
             "player": "trevor story",
             "game": "laa @ bos",
             "hr/park": "",
@@ -5481,7 +5496,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "10",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9915,9 +9930,9 @@
             "start": "7:40 PM",
             "in": "8",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "80.0",
+            "la": "3",
+            "dist": "73"
         },
         {
             "player": "michael a taylor",
@@ -12236,21 +12251,6 @@
     ],
     "sd @ sf": [
         {
-            "player": "fernando tatis",
-            "game": "sd @ sf",
-            "hr/park": "",
-            "pa": "17",
-            "dt": "2025-06-03 22:17:11",
-            "img": "https://www.mlbstatic.com/team-logos/135.svg",
-            "team": "sd",
-            "start": "9:45 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "86.4",
-            "la": "24",
-            "dist": "261"
-        },
-        {
             "player": "martin maldonado",
             "game": "sd @ sf",
             "hr/park": "",
@@ -12502,10 +12502,10 @@
             "team": "ath",
             "start": "10:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "77.7",
+            "la": "48",
+            "dist": "241"
         },
         {
             "player": "brent rooker",
