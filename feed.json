@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "31",
         "batters": "196",
-        "pitches": "1562",
+        "pitches": "1569",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
         "ff%fourseam fastball %": "37.3",
-        "si%sinker %": "13.9",
-        "fc%cutter %": "2.6",
+        "si%sinker %": "14.0",
+        "fc%cutter %": "2.7",
         "fs%splitter %": "3.1",
-        "ch%changeup %": "10.0",
+        "ch%changeup %": "9.9",
         "sl%slider %": "22.4",
-        "cu%curve %": "10.7",
+        "cu%curve %": "10.6",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "112",
-        "hh%hard hit %": "39.0",
+        "hhhard hit": "113",
+        "hh%hard hit %": "39.1",
         "brlbarrels": "22",
-        "brl%barrel %": "7.7",
-        "ab": "367",
-        "avg": ".215",
+        "brl%barrel %": "7.6",
+        "ab": "370",
+        "avg": ".214",
         "h": "79",
         "1b": "53",
         "2b": "13",
         "3b": "1",
         "hr": "12",
         "so": "87",
-        "bipballs in play": "287",
+        "bipballs in play": "289",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 20:30:31.802326"
+        "updated": "2025-06-03 20:30:40.766180"
     },
     "hou @ pit": [
         {
@@ -1605,10 +1605,10 @@
             "team": "chc",
             "start": "6:45 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "97.2",
+            "la": "-9",
+            "dist": "16"
         },
         {
             "player": "pete crow armstrong",
@@ -3507,6 +3507,21 @@
     ],
     "laa @ bos": [
         {
+            "player": "jarren duran",
+            "game": "laa @ bos",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-06-03 20:30:10",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kristian campbell",
             "game": "laa @ bos",
             "hr/park": "0/30",
@@ -4711,6 +4726,21 @@
     ],
     "ari @ atl": [
         {
+            "player": "nick allen",
+            "game": "ari @ atl",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-06-03 20:30:40",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh naylor",
             "game": "ari @ atl",
             "hr/park": "",
@@ -5887,11 +5917,11 @@
     ],
     "kc @ stl": [
         {
-            "player": "lars nootbaar",
+            "player": "masyn winn",
             "game": "kc @ stl",
             "hr/park": "",
-            "pa": "21",
-            "dt": "2025-06-03 20:27:55",
+            "pa": "22",
+            "dt": "2025-06-03 20:30:40",
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
             "team": "stl",
             "start": "7:45 PM",
@@ -5900,6 +5930,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "lars nootbaar",
+            "game": "kc @ stl",
+            "hr/park": "0/30",
+            "pa": "21",
+            "dt": "2025-06-03 20:27:55",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "88.0",
+            "la": "27",
+            "dist": "325"
         },
         {
             "player": "bobby witt",
