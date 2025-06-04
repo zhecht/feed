@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "37",
+        "pitchers": "38",
         "batters": "198",
-        "pitches": "1822",
+        "pitches": "1829",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "35.7",
-        "si%sinker %": "15.2",
-        "fc%cutter %": "2.7",
+        "ff%fourseam fastball %": "35.8",
+        "si%sinker %": "15.3",
+        "fc%cutter %": "2.8",
         "fs%splitter %": "2.9",
-        "ch%changeup %": "10.5",
-        "sl%slider %": "22.5",
-        "cu%curve %": "10.5",
+        "ch%changeup %": "10.4",
+        "sl%slider %": "22.4",
+        "cu%curve %": "10.4",
         "max evmax exit velocity": "116.0",
         "hhhard hit": "132",
-        "hh%hard hit %": "39.5",
+        "hh%hard hit %": "39.4",
         "brlbarrels": "27",
         "brl%barrel %": "8.1",
-        "ab": "430",
-        "avg": ".226",
+        "ab": "432",
+        "avg": ".225",
         "h": "97",
         "1b": "66",
         "2b": "15",
         "3b": "1",
         "hr": "15",
-        "so": "102",
-        "bipballs in play": "334",
+        "so": "103",
+        "bipballs in play": "335",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 20:44:37.467107"
+        "updated": "2025-06-03 20:44:46.707995"
     },
     "hou @ pit": [
         {
@@ -874,6 +874,21 @@
     ],
     "col @ mia": [
         {
+            "player": "brenton doyle",
+            "game": "col @ mia",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-06-03 20:44:40",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "Groundout",
+            "evo": "94.9",
+            "la": "7",
+            "dist": "121"
+        },
+        {
             "player": "ryan mcmahon",
             "game": "col @ mia",
             "hr/park": "",
@@ -883,7 +898,7 @@
             "team": "col",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "94.0",
             "la": "-15",
             "dist": "8"
@@ -1791,6 +1806,21 @@
     ],
     "chc @ wsh": [
         {
+            "player": "michael busch",
+            "game": "chc @ wsh",
+            "hr/park": "29/30",
+            "pa": "56",
+            "dt": "2025-06-03 20:44:40",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:45 PM",
+            "in": "7",
+            "result": "Home Run",
+            "evo": "109.1",
+            "la": "36",
+            "dist": "410"
+        },
+        {
             "player": "josh bell",
             "game": "chc @ wsh",
             "hr/park": "",
@@ -2618,21 +2648,6 @@
     ],
     "cle @ nyy": [
         {
-            "player": "paul goldschmidt",
-            "game": "cle @ nyy",
-            "hr/park": "",
-            "pa": "43",
-            "dt": "2025-06-03 20:44:25",
-            "img": "https://www.mlbstatic.com/team-logos/147.svg",
-            "team": "nyy",
-            "start": "7:05 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "cody bellinger",
             "game": "cle @ nyy",
             "hr/park": "",
@@ -2642,7 +2657,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "6",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3981,7 +3996,7 @@
             "team": "laa",
             "start": "7:10 PM",
             "in": "5",
-            "result": "Mound Visit",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4604,6 +4619,21 @@
     ],
     "mil @ cin": [
         {
+            "player": "santiago espinal",
+            "game": "mil @ cin",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-06-03 20:44:40",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "will benson",
             "game": "mil @ cin",
             "hr/park": "",
@@ -4613,7 +4643,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6819,17 +6849,17 @@
         {
             "player": "alec burleson",
             "game": "kc @ stl",
-            "hr/park": "29/30",
+            "hr/park": "",
             "pa": "27",
             "dt": "2025-06-03 20:41:10",
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
             "team": "stl",
             "start": "7:45 PM",
             "in": "3",
-            "result": "Home Run",
-            "evo": "106.8",
-            "la": "26",
-            "dist": "428"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "nolan arenado",
