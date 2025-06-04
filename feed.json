@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "74",
-        "batters": "208",
-        "pitches": "2670",
+        "pitchers": "73",
+        "batters": "207",
+        "pitches": "2674",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "70.6",
         "ff%fourseam fastball %": "34.7",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.8",
         "max evmax exit velocity": "116.0",
         "hhhard hit": "195",
-        "hh%hard hit %": "39.9",
+        "hh%hard hit %": "39.8",
         "brlbarrels": "41",
         "brl%barrel %": "8.4",
-        "ab": "627",
-        "avg": ".219",
+        "ab": "628",
+        "avg": ".218",
         "h": "137",
         "1b": "94",
         "2b": "19",
         "3b": "1",
         "hr": "23",
-        "so": "146",
-        "bipballs in play": "489",
+        "so": "147",
+        "bipballs in play": "490",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 21:35:21.458203"
+        "updated": "2025-06-03 21:35:31.456991"
     },
     "hou @ pit": [
         {
@@ -3263,21 +3263,6 @@
     ],
     "cle @ nyy": [
         {
-            "player": "kyle manzardo",
-            "game": "cle @ nyy",
-            "hr/park": "",
-            "pa": "63",
-            "dt": "2025-06-03 21:34:55",
-            "img": "https://www.mlbstatic.com/team-logos/114.svg",
-            "team": "cle",
-            "start": "7:05 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "paul goldschmidt",
             "game": "cle @ nyy",
             "hr/park": "",
@@ -4209,6 +4194,21 @@
         }
     ],
     "phi @ tor": [
+        {
+            "player": "addison barger",
+            "game": "phi @ tor",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-06-03 21:35:26",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "alejandro kirk",
             "game": "phi @ tor",
@@ -5262,6 +5262,21 @@
     ],
     "laa @ bos": [
         {
+            "player": "travis darnaud",
+            "game": "laa @ bos",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-06-03 21:35:26",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jorge soler",
             "game": "laa @ bos",
             "hr/park": "",
@@ -6233,10 +6248,10 @@
             "team": "mil",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Field Error",
+            "evo": "89.9",
+            "la": "-7",
+            "dist": "19"
         },
         {
             "player": "isaac collins",
@@ -9751,7 +9766,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
