@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "40",
         "batters": "198",
-        "pitches": "1861",
+        "pitches": "1865",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "35.9",
+        "ff%fourseam fastball %": "36.0",
         "si%sinker %": "15.1",
         "fc%cutter %": "2.8",
         "fs%splitter %": "2.8",
         "ch%changeup %": "10.6",
-        "sl%slider %": "22.2",
+        "sl%slider %": "22.3",
         "cu%curve %": "10.4",
         "max evmax exit velocity": "116.0",
         "hhhard hit": "134",
         "hh%hard hit %": "39.3",
         "brlbarrels": "28",
         "brl%barrel %": "8.2",
-        "ab": "442",
+        "ab": "441",
         "avg": ".222",
         "h": "98",
         "1b": "66",
@@ -28,7 +28,7 @@
         "bipballs in play": "341",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 20:46:47.555443"
+        "updated": "2025-06-03 20:46:57.059223"
     },
     "hou @ pit": [
         {
@@ -41,7 +41,7 @@
             "team": "hou",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -889,21 +889,6 @@
     ],
     "col @ mia": [
         {
-            "player": "kyle stowers",
-            "game": "col @ mia",
-            "hr/park": "",
-            "pa": "63",
-            "dt": "2025-06-03 20:46:41",
-            "img": "https://www.mlbstatic.com/team-logos/146.svg",
-            "team": "mia",
-            "start": "6:40 PM",
-            "in": "8",
-            "result": "Groundout",
-            "evo": "101.8",
-            "la": "-16",
-            "dist": "6"
-        },
-        {
             "player": "brenton doyle",
             "game": "col @ mia",
             "hr/park": "",
@@ -913,7 +898,7 @@
             "team": "col",
             "start": "6:40 PM",
             "in": "8",
-            "result": "Lineout",
+            "result": "Groundout",
             "evo": "94.9",
             "la": "7",
             "dist": "121"
@@ -1845,10 +1830,10 @@
             "team": "chc",
             "start": "6:45 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "97.8",
+            "la": "51",
+            "dist": "266"
         },
         {
             "player": "michael busch",
