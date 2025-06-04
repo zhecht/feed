@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "28",
+        "pitchers": "27",
         "batters": "188",
-        "pitches": "1272",
+        "pitches": "1276",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "38.4",
-        "si%sinker %": "13.4",
+        "ff%fourseam fastball %": "38.3",
+        "si%sinker %": "13.6",
         "fc%cutter %": "2.4",
         "fs%splitter %": "3.4",
         "ch%changeup %": "9.8",
         "sl%slider %": "22.4",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "96",
-        "hh%hard hit %": "40.3",
+        "hhhard hit": "95",
+        "hh%hard hit %": "39.9",
         "brlbarrels": "18",
         "brl%barrel %": "7.6",
-        "ab": "302",
-        "avg": ".212",
+        "ab": "304",
+        "avg": ".211",
         "h": "64",
         "1b": "41",
         "2b": "13",
@@ -28,7 +28,7 @@
         "bipballs in play": "238",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 20:14:51.587843"
+        "updated": "2025-06-03 20:15:00.310147"
     },
     "hou @ pit": [
         {
@@ -1395,7 +1395,7 @@
             "team": "chc",
             "start": "6:45 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2033,6 +2033,21 @@
     ],
     "cle @ nyy": [
         {
+            "player": "bo naylor",
+            "game": "cle @ nyy",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-06-03 20:14:54",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "Groundout",
+            "evo": "74.6",
+            "la": "-16",
+            "dist": "8"
+        },
+        {
             "player": "will wilson",
             "game": "cle @ nyy",
             "hr/park": "",
@@ -2042,7 +2057,7 @@
             "team": "cle",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "65.5",
             "la": "-13",
             "dist": "13"
@@ -2951,6 +2966,21 @@
         }
     ],
     "laa @ bos": [
+        {
+            "player": "jo adell",
+            "game": "laa @ bos",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-06-03 20:14:54",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "luis rengifo",
             "game": "laa @ bos",
@@ -4715,21 +4745,6 @@
     ],
     "det @ chw": [
         {
-            "player": "josh rojas",
-            "game": "det @ chw",
-            "hr/park": "",
-            "pa": "13",
-            "dt": "2025-06-03 20:14:25",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "start": "7:40 PM",
-            "in": "2",
-            "result": "Groundout",
-            "evo": "101.8",
-            "la": "-23",
-            "dist": "4"
-        },
-        {
             "player": "austin slater",
             "game": "det @ chw",
             "hr/park": "",
@@ -4911,6 +4926,21 @@
         }
     ],
     "kc @ stl": [
+        {
+            "player": "nolan arenado",
+            "game": "kc @ stl",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-06-03 20:14:54",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ivan herrera",
             "game": "kc @ stl",
