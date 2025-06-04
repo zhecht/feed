@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "26",
+        "pitchers": "27",
         "batters": "187",
-        "pitches": "1241",
+        "pitches": "1254",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
         "ff%fourseam fastball %": "38.6",
-        "si%sinker %": "13.6",
+        "si%sinker %": "13.5",
         "fc%cutter %": "2.3",
-        "fs%splitter %": "3.4",
+        "fs%splitter %": "3.3",
         "ch%changeup %": "10.0",
         "sl%slider %": "22.2",
-        "cu%curve %": "9.8",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "93",
-        "hh%hard hit %": "40.1",
-        "brlbarrels": "17",
-        "brl%barrel %": "7.3",
-        "ab": "295",
-        "avg": ".210",
-        "h": "62",
-        "1b": "39",
+        "hhhard hit": "94",
+        "hh%hard hit %": "40.3",
+        "brlbarrels": "18",
+        "brl%barrel %": "7.7",
+        "ab": "299",
+        "avg": ".211",
+        "h": "63",
+        "1b": "40",
         "2b": "13",
         "3b": "1",
         "hr": "9",
         "so": "70",
-        "bipballs in play": "232",
+        "bipballs in play": "233",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 20:13:50.051852"
+        "updated": "2025-06-03 20:13:58.851801"
     },
     "hou @ pit": [
         {
@@ -678,6 +678,21 @@
         }
     ],
     "col @ mia": [
+        {
+            "player": "kyle stowers",
+            "game": "col @ mia",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-06-03 20:12:55",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "orlando arcia",
             "game": "col @ mia",
@@ -1355,6 +1370,21 @@
         }
     ],
     "chc @ wsh": [
+        {
+            "player": "justin turner",
+            "game": "chc @ wsh",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-06-03 20:13:55",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "nico hoerner",
             "game": "chc @ wsh",
@@ -2909,17 +2939,17 @@
         {
             "player": "travis darnaud",
             "game": "laa @ bos",
-            "hr/park": "",
+            "hr/park": "4/30",
             "pa": "29",
             "dt": "2025-06-03 20:13:10",
             "img": "https://www.mlbstatic.com/team-logos/108.svg",
             "team": "laa",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "105.0",
+            "la": "24",
+            "dist": "336"
         },
         {
             "player": "abraham toro",
@@ -3871,6 +3901,21 @@
     ],
     "ari @ atl": [
         {
+            "player": "ozzie albies",
+            "game": "ari @ atl",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-06-03 20:13:55",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "marcell ozuna",
             "game": "ari @ atl",
             "hr/park": "",
@@ -4353,6 +4398,21 @@
     ],
     "tex @ tb": [
         {
+            "player": "josh smith",
+            "game": "tex @ tb",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-06-03 20:13:55",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "7:35 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle higashioka",
             "game": "tex @ tb",
             "hr/park": "",
@@ -4362,7 +4422,7 @@
             "team": "tex",
             "start": "7:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "94.8",
             "la": "-30",
             "dist": "3"
