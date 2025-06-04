@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "102",
         "batters": "256",
-        "pitches": "3220",
+        "pitches": "3223",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "70.6",
         "ff%fourseam fastball %": "34.9",
@@ -13,8 +13,8 @@
         "sl%slider %": "20.8",
         "cu%curve %": "9.4",
         "max evmax exit velocity": "116.0",
-        "hhhard hit": "239",
-        "hh%hard hit %": "39.8",
+        "hhhard hit": "241",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "51",
         "brl%barrel %": "8.5",
         "ab": "760",
@@ -24,11 +24,11 @@
         "2b": "24",
         "3b": "1",
         "hr": "27",
-        "so": "171",
-        "bipballs in play": "601",
+        "so": "172",
+        "bipballs in play": "603",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-03 22:18:14.133440"
+        "updated": "2025-06-03 22:18:25.248935"
     },
     "hou @ pit": [
         {
@@ -9920,6 +9920,21 @@
     ],
     "det @ chw": [
         {
+            "player": "mike tauchman",
+            "game": "det @ chw",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-06-03 22:18:25",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "102.8",
+            "la": "-2",
+            "dist": "39"
+        },
+        {
             "player": "vinny capra",
             "game": "det @ chw",
             "hr/park": "",
@@ -10971,21 +10986,6 @@
         }
     ],
     "kc @ stl": [
-        {
-            "player": "drew waters",
-            "game": "kc @ stl",
-            "hr/park": "",
-            "pa": "71",
-            "dt": "2025-06-03 22:18:10",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "start": "7:45 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "victor scott",
             "game": "kc @ stl",
@@ -12547,7 +12547,7 @@
             "team": "ath",
             "start": "10:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12655,9 +12655,9 @@
             "start": "10:10 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "99.0",
+            "la": "8",
+            "dist": "134"
         },
         {
             "player": "juan soto",
