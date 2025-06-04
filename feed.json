@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "23",
         "batters": "63",
-        "pitches": "870",
+        "pitches": "872",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "29.0",
-        "si%sinker %": "18.3",
+        "ff%fourseam fastball %": "28.9",
+        "si%sinker %": "18.2",
         "fc%cutter %": "6.4",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "10.8",
+        "ch%changeup %": "10.9",
         "sl%slider %": "22.1",
         "cu%curve %": "11.6",
         "max evmax exit velocity": "112.8",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "43.2",
         "brlbarrels": "9",
         "brl%barrel %": "5.6",
-        "ab": "194",
-        "avg": ".253",
-        "h": "49",
-        "1b": "28",
+        "ab": "195",
+        "avg": ".256",
+        "h": "50",
+        "1b": "29",
         "2b": "15",
         "3b": "2",
         "hr": "4",
@@ -28,7 +28,7 @@
         "bipballs in play": "162",
         "liveGames": 3,
         "totGames": 15,
-        "updated": "2025-06-04 16:20:09.627092"
+        "updated": "2025-06-04 16:20:17.544838"
     },
     "col @ mia": [
         {
@@ -2166,6 +2166,21 @@
     ],
     "laa @ bos": [
         {
+            "player": "rob refsnyder",
+            "game": "laa @ bos",
+            "hr/park": "",
+            "pa": "77",
+            "dt": "2025-06-04 16:20:12",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "rafael devers",
             "game": "laa @ bos",
             "hr/park": "",
@@ -2175,7 +2190,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "93.7",
             "la": "-26",
             "dist": "8"
