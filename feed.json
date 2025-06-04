@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "74",
         "batters": "208",
-        "pitches": "2681",
+        "pitches": "2683",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "70.6",
         "ff%fourseam fastball %": "34.7",
         "si%sinker %": "14.8",
         "fc%cutter %": "4.4",
-        "fs%splitter %": "4.2",
-        "ch%changeup %": "10.4",
+        "fs%splitter %": "4.3",
+        "ch%changeup %": "10.3",
         "sl%slider %": "21.8",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "116.0",
-        "hhhard hit": "196",
-        "hh%hard hit %": "39.8",
-        "brlbarrels": "42",
-        "brl%barrel %": "8.5",
+        "hhhard hit": "197",
+        "hh%hard hit %": "40.0",
+        "brlbarrels": "43",
+        "brl%barrel %": "8.7",
         "ab": "630",
-        "avg": ".219",
-        "h": "138",
+        "avg": ".222",
+        "h": "140",
         "1b": "95",
         "2b": "19",
         "3b": "1",
-        "hr": "23",
+        "hr": "25",
         "so": "148",
         "bipballs in play": "492",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 21:36:01.838856"
+        "updated": "2025-06-03 21:36:12.275807"
     },
     "hou @ pit": [
         {
@@ -3263,21 +3263,6 @@
     ],
     "cle @ nyy": [
         {
-            "player": "carlos santana",
-            "game": "cle @ nyy",
-            "hr/park": "",
-            "pa": "64",
-            "dt": "2025-06-03 21:35:55",
-            "img": "https://www.mlbstatic.com/team-logos/114.svg",
-            "team": "cle",
-            "start": "7:05 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "kyle manzardo",
             "game": "cle @ nyy",
             "hr/park": "",
@@ -3287,10 +3272,10 @@
             "team": "cle",
             "start": "7:05 PM",
             "in": "9",
-            "result": "Flyout",
-            "evo": "92.7",
-            "la": "50",
-            "dist": "274"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "paul goldschmidt",
@@ -7321,11 +7306,11 @@
     ],
     "ari @ atl": [
         {
-            "player": "corbin carroll",
+            "player": "ketel marte",
             "game": "ari @ atl",
             "hr/park": "",
-            "pa": "70",
-            "dt": "2025-06-03 21:32:26",
+            "pa": "71",
+            "dt": "2025-06-03 21:36:10",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "start": "7:15 PM",
@@ -7334,6 +7319,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "corbin carroll",
+            "game": "ari @ atl",
+            "hr/park": "30/30",
+            "pa": "70",
+            "dt": "2025-06-03 21:32:26",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:15 PM",
+            "in": "9",
+            "result": "Home Run",
+            "evo": "107.4",
+            "la": "29",
+            "dist": "416"
         },
         {
             "player": "alek thomas",
@@ -9059,7 +9059,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Home Run",
             "evo": "102.8",
             "la": "33",
             "dist": "396"
