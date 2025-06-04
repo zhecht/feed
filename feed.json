@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "31",
         "batters": "196",
-        "pitches": "1511",
+        "pitches": "1512",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "37.7",
-        "si%sinker %": "13.6",
+        "ff%fourseam fastball %": "37.6",
+        "si%sinker %": "13.8",
         "fc%cutter %": "2.6",
         "fs%splitter %": "3.2",
         "ch%changeup %": "10.0",
         "sl%slider %": "22.4",
         "cu%curve %": "10.4",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "109",
-        "hh%hard hit %": "38.9",
+        "hhhard hit": "110",
+        "hh%hard hit %": "39.3",
         "brlbarrels": "22",
         "brl%barrel %": "7.9",
         "ab": "360",
@@ -28,7 +28,7 @@
         "bipballs in play": "280",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 20:27:18.507727"
+        "updated": "2025-06-03 20:27:27.746996"
     },
     "hou @ pit": [
         {
@@ -2318,6 +2318,21 @@
     ],
     "cle @ nyy": [
         {
+            "player": "trent grisham",
+            "game": "cle @ nyy",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-06-03 20:27:24",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "100.1",
+            "la": "2",
+            "dist": "59"
+        },
+        {
             "player": "dj lemahieu",
             "game": "cle @ nyy",
             "hr/park": "",
@@ -3944,21 +3959,6 @@
     ],
     "mil @ cin": [
         {
-            "player": "tj friedl",
-            "game": "mil @ cin",
-            "hr/park": "",
-            "pa": "42",
-            "dt": "2025-06-03 20:27:12",
-            "img": "https://www.mlbstatic.com/team-logos/113.svg",
-            "team": "cin",
-            "start": "7:10 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "matt mclain",
             "game": "mil @ cin",
             "hr/park": "",
@@ -3968,10 +3968,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "5",
-            "result": "Pop Out",
-            "evo": "88.3",
-            "la": "77",
-            "dist": "37"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "jake fraley",
