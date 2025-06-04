@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "30",
         "batters": "103",
-        "pitches": "1059",
+        "pitches": "1062",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "30.4",
-        "si%sinker %": "16.4",
-        "fc%cutter %": "7.4",
+        "ff%fourseam fastball %": "30.3",
+        "si%sinker %": "16.5",
+        "fc%cutter %": "7.3",
         "fs%splitter %": "1.5",
         "ch%changeup %": "11.9",
         "sl%slider %": "20.8",
-        "cu%curve %": "11.6",
+        "cu%curve %": "11.8",
         "max evmax exit velocity": "112.8",
-        "hhhard hit": "81",
-        "hh%hard hit %": "41.1",
+        "hhhard hit": "82",
+        "hh%hard hit %": "41.4",
         "brlbarrels": "10",
         "brl%barrel %": "5.1",
         "ab": "241",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "6",
         "so": "49",
-        "bipballs in play": "197",
+        "bipballs in play": "198",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-06-04 19:16:25.985217"
+        "updated": "2025-06-04 19:16:34.323837"
     },
     "col @ mia": [
         {
@@ -3452,7 +3452,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3972,21 +3972,6 @@
     ],
     "cle @ nyy": [
         {
-            "player": "carlos santana",
-            "game": "cle @ nyy",
-            "hr/park": "",
-            "pa": "4",
-            "dt": "2025-06-04 19:16:12",
-            "img": "https://www.mlbstatic.com/team-logos/114.svg",
-            "team": "cle",
-            "start": "7:05 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jose ramirez",
             "game": "cle @ nyy",
             "hr/park": "0/30",
@@ -4034,11 +4019,11 @@
     ],
     "phi @ tor": [
         {
-            "player": "vladimir guerrero",
+            "player": "addison barger",
             "game": "phi @ tor",
             "hr/park": "",
-            "pa": "5",
-            "dt": "2025-06-04 19:16:12",
+            "pa": "6",
+            "dt": "2025-06-04 19:16:29",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "start": "7:07 PM",
@@ -4047,6 +4032,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "vladimir guerrero",
+            "game": "phi @ tor",
+            "hr/park": "0/30",
+            "pa": "5",
+            "dt": "2025-06-04 19:16:12",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "1",
+            "result": "Lineout",
+            "evo": "109.8",
+            "la": "14",
+            "dist": "309"
         },
         {
             "player": "bo bichette",
