@@ -1,13 +1,13 @@
 {
     "all": {
-        "pitchers": "54",
+        "pitchers": "53",
         "batters": "204",
-        "pitches": "2278",
+        "pitches": "2279",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
         "ff%fourseam fastball %": "34.9",
         "si%sinker %": "15.0",
-        "fc%cutter %": "3.3",
+        "fc%cutter %": "3.4",
         "fs%splitter %": "2.8",
         "ch%changeup %": "10.6",
         "sl%slider %": "22.8",
@@ -24,11 +24,11 @@
         "2b": "17",
         "3b": "1",
         "hr": "20",
-        "so": "130",
+        "so": "131",
         "bipballs in play": "416",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 21:10:20.596076"
+        "updated": "2025-06-03 21:10:30.357859"
     },
     "hou @ pit": [
         {
@@ -4842,21 +4842,6 @@
     ],
     "laa @ bos": [
         {
-            "player": "kristian campbell",
-            "game": "laa @ bos",
-            "hr/park": "",
-            "pa": "54",
-            "dt": "2025-06-03 21:09:56",
-            "img": "https://www.mlbstatic.com/team-logos/111.svg",
-            "team": "bos",
-            "start": "7:10 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "connor wong",
             "game": "laa @ bos",
             "hr/park": "",
@@ -5653,6 +5638,21 @@
         }
     ],
     "mil @ cin": [
+        {
+            "player": "christian yelich",
+            "game": "mil @ cin",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-06-03 21:10:25",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "tyler stephenson",
             "game": "mil @ cin",
@@ -7422,7 +7422,7 @@
             "team": "tex",
             "start": "7:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7964,7 +7964,7 @@
             "team": "det",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "102.9",
             "la": "1",
             "dist": "63"
