@@ -2,35 +2,50 @@
     "all": {
         "pitchers": "31",
         "batters": "198",
-        "pitches": "1628",
+        "pitches": "1636",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "73.2",
-        "ff%fourseam fastball %": "37.1",
-        "si%sinker %": "14.0",
+        "ff%fourseam fastball %": "37.0",
+        "si%sinker %": "14.1",
         "fc%cutter %": "2.7",
         "fs%splitter %": "3.1",
         "ch%changeup %": "10.1",
-        "sl%slider %": "22.1",
+        "sl%slider %": "22.2",
         "cu%curve %": "10.9",
         "max evmax exit velocity": "116.0",
-        "hhhard hit": "119",
-        "hh%hard hit %": "39.9",
-        "brlbarrels": "23",
-        "brl%barrel %": "7.7",
-        "ab": "384",
-        "avg": ".214",
+        "hhhard hit": "121",
+        "hh%hard hit %": "40.3",
+        "brlbarrels": "24",
+        "brl%barrel %": "8.0",
+        "ab": "388",
+        "avg": ".211",
         "h": "82",
         "1b": "56",
         "2b": "13",
         "3b": "1",
         "hr": "12",
-        "so": "94",
-        "bipballs in play": "298",
+        "so": "95",
+        "bipballs in play": "300",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 20:33:48.131693"
+        "updated": "2025-06-03 20:33:57.422486"
     },
     "hou @ pit": [
+        {
+            "player": "jacob melton",
+            "game": "hou @ pit",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-06-03 20:33:55",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "cam smith",
             "game": "hou @ pit",
@@ -41,7 +56,7 @@
             "team": "hou",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2438,6 +2453,21 @@
     ],
     "cle @ nyy": [
         {
+            "player": "angel martinez",
+            "game": "cle @ nyy",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-06-03 20:33:55",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "steven kwan",
             "game": "cle @ nyy",
             "hr/park": "",
@@ -2447,10 +2477,10 @@
             "team": "cle",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "96.4",
+            "la": "-5",
+            "dist": "22"
         },
         {
             "player": "jhonkensy noel",
@@ -3024,6 +3054,21 @@
         }
     ],
     "phi @ tor": [
+        {
+            "player": "davis schneider",
+            "game": "phi @ tor",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-06-03 20:33:56",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "103.2",
+            "la": "33",
+            "dist": "372"
+        },
         {
             "player": "jt realmuto",
             "game": "phi @ tor",
@@ -6141,6 +6186,21 @@
         }
     ],
     "kc @ stl": [
+        {
+            "player": "willson contreras",
+            "game": "kc @ stl",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-06-03 20:33:10",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "3",
+            "result": "Mound Visit",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brendan donovan",
             "game": "kc @ stl",
