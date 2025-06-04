@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "67",
+        "pitchers": "68",
         "batters": "207",
-        "pitches": "2516",
+        "pitches": "2519",
         "max velomax pitch velocity": "101.8",
         "min velomin pitch velocity": "70.6",
-        "ff%fourseam fastball %": "34.9",
+        "ff%fourseam fastball %": "34.8",
         "si%sinker %": "15.0",
         "fc%cutter %": "3.9",
-        "fs%splitter %": "3.4",
-        "ch%changeup %": "10.3",
+        "fs%splitter %": "3.5",
+        "ch%changeup %": "10.2",
         "sl%slider %": "22.5",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "116.0",
-        "hhhard hit": "186",
-        "hh%hard hit %": "40.1",
-        "brlbarrels": "40",
-        "brl%barrel %": "8.6",
-        "ab": "594",
+        "hhhard hit": "185",
+        "hh%hard hit %": "39.9",
+        "brlbarrels": "39",
+        "brl%barrel %": "8.4",
+        "ab": "595",
         "avg": ".215",
         "h": "128",
         "1b": "87",
@@ -28,7 +28,7 @@
         "bipballs in play": "464",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-03 21:25:01.848686"
+        "updated": "2025-06-03 21:25:11.660927"
     },
     "hou @ pit": [
         {
@@ -4135,6 +4135,21 @@
     ],
     "phi @ tor": [
         {
+            "player": "brandon marsh",
+            "game": "phi @ tor",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-06-03 21:25:09",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "7:07 PM",
+            "in": "8",
+            "result": "Pop Out",
+            "evo": "70.4",
+            "la": "69",
+            "dist": "127"
+        },
+        {
             "player": "vladimir guerrero",
             "game": "phi @ tor",
             "hr/park": "",
@@ -5106,7 +5121,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7015,10 +7030,10 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "8",
-            "result": "Flyout",
-            "evo": "106.1",
-            "la": "22",
-            "dist": "403"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "matt olson",
