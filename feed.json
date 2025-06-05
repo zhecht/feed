@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "73",
-        "batters": "226",
-        "pitches": "2638",
+        "pitchers": "74",
+        "batters": "229",
+        "pitches": "2647",
         "max velomax pitch velocity": "101.5",
         "min velomin pitch velocity": "70.2",
         "ff%fourseam fastball %": "31.5",
         "si%sinker %": "14.9",
         "fc%cutter %": "8.2",
         "fs%splitter %": "1.7",
-        "ch%changeup %": "11.6",
+        "ch%changeup %": "11.5",
         "sl%slider %": "22.0",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "116.4",
         "hhhard hit": "195",
-        "hh%hard hit %": "41.9",
+        "hh%hard hit %": "41.8",
         "brlbarrels": "31",
         "brl%barrel %": "6.7",
-        "ab": "618",
-        "avg": ".220",
+        "ab": "620",
+        "avg": ".219",
         "h": "136",
         "1b": "88",
         "2b": "32",
         "3b": "4",
         "hr": "12",
-        "so": "163",
-        "bipballs in play": "465",
+        "so": "164",
+        "bipballs in play": "466",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-04 22:11:44.999088"
+        "updated": "2025-06-04 22:11:55.084935"
     },
     "col @ mia": [
         {
@@ -9667,6 +9667,21 @@
     ],
     "bal @ sea": [
         {
+            "player": "heston kjerstad",
+            "game": "bal @ sea",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-06-04 22:11:51",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "9:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "coby mayo",
             "game": "bal @ sea",
             "hr/park": "",
@@ -9878,6 +9893,21 @@
         }
     ],
     "sd @ sf": [
+        {
+            "player": "dominic smith",
+            "game": "sd @ sf",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-06-04 22:11:51",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "9:45 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "fernando tatis",
             "game": "sd @ sf",
@@ -10100,7 +10130,7 @@
             "team": "min",
             "start": "10:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10151,6 +10181,22 @@
             "dist": "77"
         }
     ],
-    "nym @ lad": [],
+    "nym @ lad": [
+        {
+            "player": "francisco lindor",
+            "game": "nym @ lad",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-04 22:11:51",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "10:10 PM",
+            "in": "1",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "kc @ stl": []
 }
