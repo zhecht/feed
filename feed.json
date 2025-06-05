@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "75",
-        "batters": "206",
-        "pitches": "2558",
+        "batters": "207",
+        "pitches": "2561",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "44.2",
-        "ff%fourseam fastball %": "34.6",
-        "si%sinker %": "13.8",
+        "ff%fourseam fastball %": "34.7",
+        "si%sinker %": "13.7",
         "fc%cutter %": "6.1",
         "fs%splitter %": "1.6",
         "ch%changeup %": "10.9",
         "sl%slider %": "22.4",
         "cu%curve %": "10.6",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "217",
-        "hh%hard hit %": "44.7",
+        "hhhard hit": "218",
+        "hh%hard hit %": "44.9",
         "brlbarrels": "46",
         "brl%barrel %": "9.5",
         "ab": "609",
@@ -24,11 +24,11 @@
         "2b": "33",
         "3b": "0",
         "hr": "23",
-        "so": "133",
-        "bipballs in play": "485",
+        "so": "132",
+        "bipballs in play": "486",
         "liveGames": 13,
         "totGames": 13,
-        "updated": "2025-06-05 19:47:31.559616"
+        "updated": "2025-06-05 19:47:42.456004"
     },
     "ari @ atl": [
         {
@@ -2535,7 +2535,7 @@
             "team": "kc",
             "start": "7:45 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9375,7 +9375,7 @@
             "team": "chc",
             "start": "6:45 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9857,7 +9857,7 @@
             "team": "cle",
             "start": "7:05 PM",
             "in": "3",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10089,6 +10089,21 @@
         }
     ],
     "tex @ tb": [
+        {
+            "player": "yandy diaz",
+            "game": "tex @ tb",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-06-05 19:47:35",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:35 PM",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "102.2",
+            "la": "",
+            "dist": "47"
+        },
         {
             "player": "brandon lowe",
             "game": "tex @ tb",
