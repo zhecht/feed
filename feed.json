@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "70",
-        "batters": "210",
-        "pitches": "2498",
+        "batters": "211",
+        "pitches": "2499",
         "max velomax pitch velocity": "101.5",
         "min velomin pitch velocity": "70.2",
         "ff%fourseam fastball %": "31.1",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "42.2",
         "brlbarrels": "29",
         "brl%barrel %": "6.5",
-        "ab": "587",
-        "avg": ".223",
-        "h": "131",
-        "1b": "85",
+        "ab": "588",
+        "avg": ".224",
+        "h": "132",
+        "1b": "86",
         "2b": "31",
         "3b": "4",
         "hr": "11",
@@ -28,7 +28,7 @@
         "bipballs in play": "446",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-04 21:58:47.860903"
+        "updated": "2025-06-04 21:58:57.742840"
     },
     "col @ mia": [
         {
@@ -8135,7 +8135,7 @@
         {
             "player": "evan carter",
             "game": "tex @ tb",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "64",
             "dt": "2025-06-04 21:58:13",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
@@ -9407,7 +9407,7 @@
             "team": "bal",
             "start": "9:40 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9550,6 +9550,21 @@
     ],
     "sd @ sf": [
         {
+            "player": "wilmer flores",
+            "game": "sd @ sf",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-06-04 21:58:57",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "9:45 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jung hoo lee",
             "game": "sd @ sf",
             "hr/park": "",
@@ -9559,7 +9574,7 @@
             "team": "sf",
             "start": "9:45 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "76.5",
             "la": "25",
             "dist": "254"
