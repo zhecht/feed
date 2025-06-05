@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "82",
+        "pitchers": "83",
         "batters": "265",
-        "pitches": "2996",
+        "pitches": "2999",
         "max velomax pitch velocity": "101.5",
         "min velomin pitch velocity": "70.2",
         "ff%fourseam fastball %": "32.9",
-        "si%sinker %": "14.5",
+        "si%sinker %": "14.4",
         "fc%cutter %": "7.4",
         "fs%splitter %": "1.9",
         "ch%changeup %": "11.3",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.9",
         "max evmax exit velocity": "116.4",
         "hhhard hit": "225",
-        "hh%hard hit %": "42.6",
+        "hh%hard hit %": "42.5",
         "brlbarrels": "35",
         "brl%barrel %": "6.6",
-        "ab": "694",
-        "avg": ".218",
+        "ab": "696",
+        "avg": ".217",
         "h": "151",
         "1b": "99",
         "2b": "35",
         "3b": "4",
         "hr": "13",
-        "so": "178",
-        "bipballs in play": "528",
+        "so": "179",
+        "bipballs in play": "529",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-04 22:42:50.338672"
+        "updated": "2025-06-04 22:43:00.842992"
     },
     "col @ mia": [
         {
@@ -7441,6 +7441,21 @@
     ],
     "ari @ atl": [
         {
+            "player": "michael harris",
+            "game": "ari @ atl",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-06-04 22:42:53",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "drake baldwin",
             "game": "ari @ atl",
             "hr/park": "",
@@ -10473,10 +10488,10 @@
             "team": "sf",
             "start": "9:45 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "87.1",
+            "la": "-15",
+            "dist": "10"
         },
         {
             "player": "jung hoo lee",
@@ -10916,6 +10931,21 @@
     ],
     "min @ ath": [
         {
+            "player": "ryan jeffers",
+            "game": "min @ ath",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-06-04 22:42:53",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "10:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "byron buxton",
             "game": "min @ ath",
             "hr/park": "",
@@ -10925,7 +10955,7 @@
             "team": "min",
             "start": "10:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
