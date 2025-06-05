@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "84",
         "batters": "267",
-        "pitches": "3074",
+        "pitches": "3080",
         "max velomax pitch velocity": "101.5",
         "min velomin pitch velocity": "70.2",
         "ff%fourseam fastball %": "33.0",
@@ -11,24 +11,24 @@
         "fs%splitter %": "2.0",
         "ch%changeup %": "11.4",
         "sl%slider %": "22.0",
-        "cu%curve %": "9.8",
+        "cu%curve %": "9.7",
         "max evmax exit velocity": "116.4",
-        "hhhard hit": "230",
-        "hh%hard hit %": "42.3",
+        "hhhard hit": "232",
+        "hh%hard hit %": "42.5",
         "brlbarrels": "36",
         "brl%barrel %": "6.6",
-        "ab": "716",
-        "avg": ".218",
-        "h": "156",
+        "ab": "718",
+        "avg": ".220",
+        "h": "158",
         "1b": "103",
-        "2b": "36",
+        "2b": "38",
         "3b": "4",
         "hr": "13",
-        "so": "186",
-        "bipballs in play": "544",
+        "so": "187",
+        "bipballs in play": "546",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-04 22:50:32.633523"
+        "updated": "2025-06-04 22:50:43.760114"
     },
     "col @ mia": [
         {
@@ -7441,6 +7441,21 @@
     ],
     "ari @ atl": [
         {
+            "player": "geraldo perdomo",
+            "game": "ari @ atl",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-06-04 22:50:38",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:15 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tim tawa",
             "game": "ari @ atl",
             "hr/park": "",
@@ -7450,10 +7465,10 @@
             "team": "ari",
             "start": "7:15 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "110.0",
+            "la": "13",
+            "dist": "228"
         },
         {
             "player": "gabriel moreno",
@@ -10141,7 +10156,7 @@
             "team": "sea",
             "start": "9:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10614,6 +10629,21 @@
     ],
     "sd @ sf": [
         {
+            "player": "gavin sheets",
+            "game": "sd @ sf",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-06-04 22:50:38",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "95.3",
+            "la": "-17",
+            "dist": "12"
+        },
+        {
             "player": "jackson merrill",
             "game": "sd @ sf",
             "hr/park": "",
@@ -10623,7 +10653,7 @@
             "team": "sd",
             "start": "9:45 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "88.4",
             "la": "17",
             "dist": "220"
