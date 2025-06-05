@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "74",
+        "pitchers": "75",
         "batters": "206",
-        "pitches": "2552",
+        "pitches": "2558",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "44.2",
         "ff%fourseam fastball %": "34.6",
         "si%sinker %": "13.8",
         "fc%cutter %": "6.1",
         "fs%splitter %": "1.6",
-        "ch%changeup %": "11.0",
-        "sl%slider %": "22.5",
+        "ch%changeup %": "10.9",
+        "sl%slider %": "22.4",
         "cu%curve %": "10.6",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "216",
-        "hh%hard hit %": "44.6",
+        "hhhard hit": "217",
+        "hh%hard hit %": "44.7",
         "brlbarrels": "46",
         "brl%barrel %": "9.5",
-        "ab": "608",
-        "avg": ".270",
+        "ab": "609",
+        "avg": ".269",
         "h": "164",
         "1b": "108",
         "2b": "33",
         "3b": "0",
         "hr": "23",
-        "so": "132",
-        "bipballs in play": "484",
+        "so": "133",
+        "bipballs in play": "485",
         "liveGames": 13,
         "totGames": 13,
-        "updated": "2025-06-05 19:47:01.500906"
+        "updated": "2025-06-05 19:47:11.430030"
     },
     "ari @ atl": [
         {
@@ -2524,7 +2524,23 @@
             "dist": "401"
         }
     ],
-    "kc-gm2 @ stl-gm2": [],
+    "kc-gm2 @ stl-gm2": [
+        {
+            "player": "jonathan india",
+            "game": "kc-gm2 @ stl-gm2",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-05 19:47:04",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:45 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "det @ chw": [
         {
             "player": "tim elko",
@@ -9841,7 +9857,7 @@
             "team": "cle",
             "start": "7:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10083,10 +10099,10 @@
             "team": "tb",
             "start": "7:35 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "105.2",
+            "la": "2",
+            "dist": "64"
         },
         {
             "player": "josh lowe",
