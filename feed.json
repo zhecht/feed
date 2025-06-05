@@ -2,18 +2,18 @@
     "all": {
         "pitchers": "34",
         "batters": "135",
-        "pitches": "1173",
+        "pitches": "1175",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "70.3",
-        "ff%fourseam fastball %": "32.2",
+        "ff%fourseam fastball %": "32.3",
         "si%sinker %": "15.1",
-        "fc%cutter %": "5.5",
+        "fc%cutter %": "5.4",
         "fs%splitter %": "2.0",
         "ch%changeup %": "10.6",
         "sl%slider %": "24.7",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "105",
+        "hhhard hit": "106",
         "hh%hard hit %": "46.7",
         "brlbarrels": "21",
         "brl%barrel %": "9.3",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "12",
         "so": "55",
-        "bipballs in play": "225",
+        "bipballs in play": "227",
         "liveGames": 8,
         "totGames": 13,
-        "updated": "2025-06-05 16:18:17.359395"
+        "updated": "2025-06-05 16:18:25.995875"
     },
     "ari @ atl": [
         {
@@ -1309,6 +1309,21 @@
     ],
     "kc @ stl": [
         {
+            "player": "ryan vilade",
+            "game": "kc @ stl",
+            "hr/park": "",
+            "pa": "74",
+            "dt": "2025-06-05 16:18:20",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "1:45 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "victor scott",
             "game": "kc @ stl",
             "hr/park": "",
@@ -1318,10 +1333,10 @@
             "team": "stl",
             "start": "1:45 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "90.1",
+            "la": "-33",
+            "dist": "3"
         },
         {
             "player": "maikel garcia",
@@ -3823,7 +3838,7 @@
         {
             "player": "jacob wilson",
             "game": "min @ ath",
-            "hr/park": "",
+            "hr/park": "30/30",
             "pa": "22",
             "dt": "2025-06-05 16:17:20",
             "img": "https://www.mlbstatic.com/team-logos/133.svg",
@@ -4153,21 +4168,6 @@
     ],
     "bal @ sea": [
         {
-            "player": "jackson holliday",
-            "game": "bal @ sea",
-            "hr/park": "",
-            "pa": "19",
-            "dt": "2025-06-05 16:17:48",
-            "img": "https://www.mlbstatic.com/team-logos/110.svg",
-            "team": "bal",
-            "start": "3:40 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "maverick handley",
             "game": "bal @ sea",
             "hr/park": "",
@@ -4442,17 +4442,17 @@
         {
             "player": "jerar encarnacion",
             "game": "sd @ sf",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "15",
             "dt": "2025-06-05 16:17:48",
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
             "team": "sf",
             "start": "3:45 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "97.5",
+            "la": "27",
+            "dist": "309"
         },
         {
             "player": "dominic smith",
