@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "71",
         "batters": "213",
-        "pitches": "2533",
+        "pitches": "2539",
         "max velomax pitch velocity": "101.5",
         "min velomin pitch velocity": "70.2",
-        "ff%fourseam fastball %": "31.3",
-        "si%sinker %": "15.0",
+        "ff%fourseam fastball %": "31.4",
+        "si%sinker %": "15.1",
         "fc%cutter %": "7.9",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "11.7",
-        "sl%slider %": "22.1",
+        "ch%changeup %": "11.5",
+        "sl%slider %": "22.2",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "116.4",
         "hhhard hit": "189",
-        "hh%hard hit %": "42.0",
+        "hh%hard hit %": "41.8",
         "brlbarrels": "29",
         "brl%barrel %": "6.4",
-        "ab": "596",
+        "ab": "597",
         "avg": ".221",
         "h": "132",
         "1b": "86",
         "2b": "31",
         "3b": "4",
         "hr": "11",
-        "so": "155",
-        "bipballs in play": "450",
+        "so": "156",
+        "bipballs in play": "452",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-04 22:02:19.305659"
+        "updated": "2025-06-04 22:02:44.462664"
     },
     "col @ mia": [
         {
@@ -7441,6 +7441,21 @@
     ],
     "ari @ atl": [
         {
+            "player": "ketel marte",
+            "game": "ari @ atl",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-06-04 22:02:37",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:15 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "82.7",
+            "la": "7",
+            "dist": "116"
+        },
+        {
             "player": "geraldo perdomo",
             "game": "ari @ atl",
             "hr/park": "",
@@ -9164,7 +9179,7 @@
             "team": "det",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9485,7 +9500,6 @@
             "dist": "45"
         }
     ],
-    "kc @ stl": [],
     "bal @ sea": [
         {
             "player": "mitch garver",
@@ -9664,10 +9678,10 @@
             "team": "sf",
             "start": "9:45 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "86.4",
+            "la": "-2",
+            "dist": "35"
         },
         {
             "player": "wilmer flores",
@@ -9806,5 +9820,6 @@
         }
     ],
     "min @ ath": [],
-    "nym @ lad": []
+    "nym @ lad": [],
+    "kc @ stl": []
 }
