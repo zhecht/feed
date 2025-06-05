@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "86",
-        "batters": "267",
-        "pitches": "3106",
+        "batters": "268",
+        "pitches": "3111",
         "max velomax pitch velocity": "101.5",
         "min velomin pitch velocity": "70.2",
-        "ff%fourseam fastball %": "33.0",
+        "ff%fourseam fastball %": "32.9",
         "si%sinker %": "14.5",
         "fc%cutter %": "7.2",
         "fs%splitter %": "2.1",
@@ -13,11 +13,11 @@
         "sl%slider %": "22.0",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "116.4",
-        "hhhard hit": "235",
-        "hh%hard hit %": "42.7",
+        "hhhard hit": "236",
+        "hh%hard hit %": "42.8",
         "brlbarrels": "36",
         "brl%barrel %": "6.5",
-        "ab": "725",
+        "ab": "726",
         "avg": ".222",
         "h": "161",
         "1b": "106",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "13",
         "so": "187",
-        "bipballs in play": "550",
+        "bipballs in play": "551",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-04 22:53:25.773308"
+        "updated": "2025-06-04 22:53:36.888417"
     },
     "col @ mia": [
         {
@@ -7441,6 +7441,21 @@
     ],
     "ari @ atl": [
         {
+            "player": "alek thomas",
+            "game": "ari @ atl",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-06-04 22:53:36",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:15 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "corbin carroll",
             "game": "ari @ atl",
             "hr/park": "",
@@ -7450,7 +7465,7 @@
             "team": "ari",
             "start": "7:15 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10192,6 +10207,21 @@
     ],
     "bal @ sea": [
         {
+            "player": "cole young",
+            "game": "bal @ sea",
+            "hr/park": "0/30",
+            "pa": "34",
+            "dt": "2025-06-04 22:53:36",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "9:40 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "100.7",
+            "la": "36",
+            "dist": "371"
+        },
+        {
             "player": "donovan solano",
             "game": "bal @ sea",
             "hr/park": "",
@@ -10201,7 +10231,7 @@
             "team": "sea",
             "start": "9:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "100.9",
             "la": "5",
             "dist": "120"
