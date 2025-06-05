@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "50",
-        "batters": "160",
-        "pitches": "1947",
+        "pitchers": "51",
+        "batters": "161",
+        "pitches": "1950",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "44.2",
-        "ff%fourseam fastball %": "32.0",
+        "ff%fourseam fastball %": "32.1",
         "si%sinker %": "14.6",
         "fc%cutter %": "6.5",
         "fs%splitter %": "1.5",
-        "ch%changeup %": "11.4",
+        "ch%changeup %": "11.3",
         "sl%slider %": "24.4",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "165",
-        "hh%hard hit %": "44.7",
+        "hh%hard hit %": "44.6",
         "brlbarrels": "36",
-        "brl%barrel %": "9.8",
-        "ab": "461",
+        "brl%barrel %": "9.7",
+        "ab": "462",
         "avg": ".275",
         "h": "127",
         "1b": "80",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "22",
         "so": "98",
-        "bipballs in play": "369",
+        "bipballs in play": "370",
         "liveGames": 8,
         "totGames": 13,
-        "updated": "2025-06-05 17:28:44.646123"
+        "updated": "2025-06-05 17:28:53.764210"
     },
     "ari @ atl": [
         {
@@ -5653,6 +5653,21 @@
     ],
     "bal @ sea": [
         {
+            "player": "dylan moore",
+            "game": "bal @ sea",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-06-05 17:28:49",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "3:40 PM",
+            "in": "7",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "maverick handley",
             "game": "bal @ sea",
             "hr/park": "",
@@ -6459,10 +6474,10 @@
             "team": "sf",
             "start": "3:45 PM",
             "in": "6",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "85.0",
+            "la": "2",
+            "dist": "62"
         },
         {
             "player": "tyler fitzgerald",
