@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "46",
         "batters": "157",
-        "pitches": "1843",
+        "pitches": "1847",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "70.3",
         "ff%fourseam fastball %": "32.3",
-        "si%sinker %": "14.7",
-        "fc%cutter %": "6.3",
+        "si%sinker %": "14.6",
+        "fc%cutter %": "6.4",
         "fs%splitter %": "1.6",
         "ch%changeup %": "11.3",
-        "sl%slider %": "24.0",
+        "sl%slider %": "23.9",
         "cu%curve %": "9.8",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "161",
         "hh%hard hit %": "45.9",
         "brlbarrels": "36",
         "brl%barrel %": "10.3",
-        "ab": "435",
-        "avg": ".283",
+        "ab": "436",
+        "avg": ".282",
         "h": "123",
         "1b": "76",
         "2b": "25",
@@ -28,7 +28,7 @@
         "bipballs in play": "351",
         "liveGames": 8,
         "totGames": 13,
-        "updated": "2025-06-05 17:16:28.965446"
+        "updated": "2025-06-05 17:16:37.904888"
     },
     "ari @ atl": [
         {
@@ -3744,6 +3744,21 @@
     ],
     "phi @ tor": [
         {
+            "player": "bryce harper",
+            "game": "phi @ tor",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-06-05 17:16:34",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "3:07 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trea turner",
             "game": "phi @ tor",
             "hr/park": "",
@@ -3753,7 +3768,7 @@
             "team": "phi",
             "start": "3:07 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "103.5",
             "la": "1",
             "dist": "65"
@@ -5490,7 +5505,7 @@
         {
             "player": "heston kjerstad",
             "game": "bal @ sea",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "47",
             "dt": "2025-06-05 17:16:04",
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
@@ -6827,6 +6842,21 @@
     ],
     "nym @ lad": [
         {
+            "player": "starling marte",
+            "game": "nym @ lad",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-06-05 17:16:34",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "4:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brandon nimmo",
             "game": "nym @ lad",
             "hr/park": "",
@@ -6836,7 +6866,7 @@
             "team": "nym",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
