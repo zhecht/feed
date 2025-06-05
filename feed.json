@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "26",
         "batters": "98",
-        "pitches": "915",
+        "pitches": "918",
         "max velomax pitch velocity": "98.6",
         "min velomin pitch velocity": "70.3",
-        "ff%fourseam fastball %": "31.5",
-        "si%sinker %": "15.4",
-        "fc%cutter %": "4.2",
+        "ff%fourseam fastball %": "31.6",
+        "si%sinker %": "15.5",
+        "fc%cutter %": "4.1",
         "fs%splitter %": "2.5",
         "ch%changeup %": "11.1",
-        "sl%slider %": "24.5",
+        "sl%slider %": "24.4",
         "cu%curve %": "10.8",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "87",
-        "hh%hard hit %": "47.0",
+        "hh%hard hit %": "46.8",
         "brlbarrels": "17",
-        "brl%barrel %": "9.2",
+        "brl%barrel %": "9.1",
         "ab": "225",
         "avg": ".293",
         "h": "66",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "10",
         "so": "40",
-        "bipballs in play": "185",
+        "bipballs in play": "186",
         "liveGames": 7,
         "totGames": 13,
-        "updated": "2025-06-05 15:54:55.449923"
+        "updated": "2025-06-05 15:55:03.660951"
     },
     "ari @ atl": [
         {
@@ -1309,6 +1309,21 @@
     ],
     "kc @ stl": [
         {
+            "player": "brendan donovan",
+            "game": "kc @ stl",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-06-05 15:55:03",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "1:45 PM",
+            "in": "8",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "masyn winn",
             "game": "kc @ stl",
             "hr/park": "",
@@ -1318,7 +1333,7 @@
             "team": "stl",
             "start": "1:45 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "80.0",
             "la": "76",
             "dist": "54"
@@ -3684,7 +3699,7 @@
             "team": "sf",
             "start": "3:45 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
