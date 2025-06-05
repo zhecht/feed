@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "52",
         "batters": "175",
-        "pitches": "2076",
+        "pitches": "2079",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "70.2",
-        "ff%fourseam fastball %": "31.0",
+        "ff%fourseam fastball %": "30.9",
         "si%sinker %": "15.0",
         "fc%cutter %": "8.1",
         "fs%splitter %": "1.4",
         "ch%changeup %": "11.7",
         "sl%slider %": "21.5",
-        "cu%curve %": "11.2",
+        "cu%curve %": "11.3",
         "max evmax exit velocity": "114.1",
-        "hhhard hit": "158",
-        "hh%hard hit %": "41.8",
+        "hhhard hit": "157",
+        "hh%hard hit %": "41.5",
         "brlbarrels": "21",
         "brl%barrel %": "5.6",
         "ab": "488",
@@ -28,7 +28,7 @@
         "bipballs in play": "378",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-04 21:11:11.931450"
+        "updated": "2025-06-04 21:11:21.211965"
     },
     "col @ mia": [
         {
@@ -5406,10 +5406,10 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "92.4",
+            "la": "-6",
+            "dist": "16"
         },
         {
             "player": "jazz chisholm",
@@ -6208,6 +6208,21 @@
         }
     ],
     "phi @ tor": [
+        {
+            "player": "bryce harper",
+            "game": "phi @ tor",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-04 21:11:14",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "7:07 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "andres gimenez",
             "game": "phi @ tor",
@@ -7051,21 +7066,6 @@
     ],
     "ari @ atl": [
         {
-            "player": "randal grichuk",
-            "game": "ari @ atl",
-            "hr/park": "",
-            "pa": "24",
-            "dt": "2025-06-04 21:10:57",
-            "img": "https://www.mlbstatic.com/team-logos/109.svg",
-            "team": "ari",
-            "start": "7:15 PM",
-            "in": "4",
-            "result": "Pop Out",
-            "evo": "96.8",
-            "la": "67",
-            "dist": "144"
-        },
-        {
             "player": "eugenio suarez",
             "game": "ari @ atl",
             "hr/park": "",
@@ -7422,7 +7422,7 @@
             "team": "tex",
             "start": "7:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
