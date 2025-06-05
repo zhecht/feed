@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "88",
         "batters": "273",
-        "pitches": "3309",
+        "pitches": "3315",
         "max velomax pitch velocity": "101.5",
         "min velomin pitch velocity": "70.2",
         "ff%fourseam fastball %": "32.8",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.8",
         "max evmax exit velocity": "116.4",
         "hhhard hit": "244",
-        "hh%hard hit %": "41.9",
+        "hh%hard hit %": "41.7",
         "brlbarrels": "40",
-        "brl%barrel %": "6.9",
-        "ab": "762",
-        "avg": ".222",
+        "brl%barrel %": "6.8",
+        "ab": "766",
+        "avg": ".221",
         "h": "169",
         "1b": "110",
         "2b": "40",
         "3b": "4",
         "hr": "15",
-        "so": "198",
-        "bipballs in play": "583",
+        "so": "199",
+        "bipballs in play": "585",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-04 23:12:48.857428"
+        "updated": "2025-06-04 23:13:00.055333"
     },
     "col @ mia": [
         {
@@ -9680,6 +9680,21 @@
     ],
     "det @ chw": [
         {
+            "player": "zach mckinstry",
+            "game": "det @ chw",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-06-04 23:12:52",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "javier baez",
             "game": "det @ chw",
             "hr/park": "",
@@ -9689,10 +9704,10 @@
             "team": "det",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "84.4",
+            "la": "4",
+            "dist": "71"
         },
         {
             "player": "austin slater",
@@ -10431,6 +10446,21 @@
         }
     ],
     "bal @ sea": [
+        {
+            "player": "cal raleigh",
+            "game": "bal @ sea",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-04 23:12:52",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "9:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jp crawford",
             "game": "bal @ sea",
@@ -12268,6 +12298,36 @@
     ],
     "nym @ lad": [
         {
+            "player": "luis torrens",
+            "game": "nym @ lad",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-06-04 23:12:52",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "10:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jeff mcneil",
+            "game": "nym @ lad",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-06-04 23:12:52",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "10:10 PM",
+            "in": "4",
+            "result": "Groundout",
+            "evo": "79.5",
+            "la": "-21",
+            "dist": "5"
+        },
+        {
             "player": "ronny mauricio",
             "game": "nym @ lad",
             "hr/park": "",
@@ -12277,7 +12337,7 @@
             "team": "nym",
             "start": "10:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
