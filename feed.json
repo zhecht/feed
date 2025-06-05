@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "49",
+        "pitchers": "50",
         "batters": "158",
-        "pitches": "1913",
+        "pitches": "1919",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "44.2",
         "ff%fourseam fastball %": "32.1",
@@ -13,22 +13,22 @@
         "sl%slider %": "24.3",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "163",
+        "hhhard hit": "164",
         "hh%hard hit %": "45.2",
         "brlbarrels": "36",
-        "brl%barrel %": "10.0",
-        "ab": "450",
-        "avg": ".276",
-        "h": "124",
-        "1b": "77",
+        "brl%barrel %": "9.9",
+        "ab": "452",
+        "avg": ".277",
+        "h": "125",
+        "1b": "78",
         "2b": "25",
         "3b": "0",
         "hr": "22",
-        "so": "95",
-        "bipballs in play": "361",
+        "so": "96",
+        "bipballs in play": "363",
         "liveGames": 8,
         "totGames": 13,
-        "updated": "2025-06-05 17:24:44.088138"
+        "updated": "2025-06-05 17:24:53.124562"
     },
     "ari @ atl": [
         {
@@ -5602,7 +5602,7 @@
             "team": "bal",
             "start": "3:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6375,6 +6375,36 @@
     ],
     "sd @ sf": [
         {
+            "player": "jerar encarnacion",
+            "game": "sd @ sf",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-06-05 17:24:48",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "3:45 PM",
+            "in": "6",
+            "result": "Forceout",
+            "evo": "74.2",
+            "la": "-6",
+            "dist": "18"
+        },
+        {
+            "player": "dominic smith",
+            "game": "sd @ sf",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-06-05 17:24:19",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "3:45 PM",
+            "in": "6",
+            "result": "Single",
+            "evo": "97.2",
+            "la": "13",
+            "dist": "206"
+        },
+        {
             "player": "jackson merrill",
             "game": "sd @ sf",
             "hr/park": "",
@@ -7061,7 +7091,7 @@
             "team": "nym",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
