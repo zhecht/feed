@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "76",
-        "batters": "235",
-        "pitches": "2691",
+        "batters": "237",
+        "pitches": "2696",
         "max velomax pitch velocity": "101.5",
         "min velomin pitch velocity": "70.2",
         "ff%fourseam fastball %": "31.7",
-        "si%sinker %": "14.9",
+        "si%sinker %": "14.8",
         "fc%cutter %": "8.1",
         "fs%splitter %": "1.8",
         "ch%changeup %": "11.5",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "41.7",
         "brlbarrels": "31",
         "brl%barrel %": "6.5",
-        "ab": "630",
+        "ab": "632",
         "avg": ".217",
         "h": "137",
         "1b": "89",
@@ -28,7 +28,7 @@
         "bipballs in play": "475",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-04 22:15:32.329154"
+        "updated": "2025-06-04 22:15:42.473676"
     },
     "col @ mia": [
         {
@@ -9314,7 +9314,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10226,6 +10226,21 @@
     ],
     "min @ ath": [
         {
+            "player": "tyler soderstrom",
+            "game": "min @ ath",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-06-04 22:15:37",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jacob wilson",
             "game": "min @ ath",
             "hr/park": "",
@@ -10318,6 +10333,21 @@
     ],
     "nym @ lad": [
         {
+            "player": "juan soto",
+            "game": "nym @ lad",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-06-04 22:15:37",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "10:10 PM",
+            "in": "1",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brandon nimmo",
             "game": "nym @ lad",
             "hr/park": "",
@@ -10327,7 +10357,7 @@
             "team": "nym",
             "start": "10:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Fielders Choice",
             "evo": "104.3",
             "la": "-1",
             "dist": "45"
