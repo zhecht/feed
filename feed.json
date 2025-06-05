@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "40",
         "batters": "154",
-        "pitches": "1574",
+        "pitches": "1577",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "70.3",
         "ff%fourseam fastball %": "32.1",
-        "si%sinker %": "14.7",
+        "si%sinker %": "14.8",
         "fc%cutter %": "5.8",
         "fs%splitter %": "1.8",
         "ch%changeup %": "11.8",
@@ -14,21 +14,21 @@
         "cu%curve %": "10.0",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "137",
-        "hh%hard hit %": "46.1",
+        "hh%hard hit %": "46.0",
         "brlbarrels": "32",
-        "brl%barrel %": "10.8",
-        "ab": "368",
-        "avg": ".291",
+        "brl%barrel %": "10.7",
+        "ab": "370",
+        "avg": ".289",
         "h": "107",
         "1b": "67",
         "2b": "21",
         "3b": "0",
         "hr": "19",
         "so": "74",
-        "bipballs in play": "297",
+        "bipballs in play": "298",
         "liveGames": 8,
         "totGames": 13,
-        "updated": "2025-06-05 16:50:02.349430"
+        "updated": "2025-06-05 16:50:11.557583"
     },
     "ari @ atl": [
         {
@@ -2527,6 +2527,21 @@
     "kc-gm2 @ stl-gm2": [],
     "det @ chw": [
         {
+            "player": "edgar quero",
+            "game": "det @ chw",
+            "hr/park": "",
+            "pa": "75",
+            "dt": "2025-06-05 16:50:05",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "chase meidroth",
             "game": "det @ chw",
             "hr/park": "",
@@ -3638,6 +3653,21 @@
         }
     ],
     "phi @ tor": [
+        {
+            "player": "nick castellanos",
+            "game": "phi @ tor",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-06-05 16:50:05",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "3:07 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "alec bohm",
             "game": "phi @ tor",
@@ -5484,10 +5514,10 @@
             "team": "sf",
             "start": "3:45 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "84.5",
+            "la": "-31",
+            "dist": "6"
         },
         {
             "player": "dominic smith",
