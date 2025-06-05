@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "80",
         "batters": "252",
-        "pitches": "2857",
+        "pitches": "2858",
         "max velomax pitch velocity": "101.5",
         "min velomin pitch velocity": "70.2",
         "ff%fourseam fastball %": "32.3",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.7",
         "fs%splitter %": "1.8",
         "ch%changeup %": "11.4",
-        "sl%slider %": "22.2",
+        "sl%slider %": "22.3",
         "cu%curve %": "10.0",
         "max evmax exit velocity": "116.4",
-        "hhhard hit": "210",
-        "hh%hard hit %": "42.1",
+        "hhhard hit": "209",
+        "hh%hard hit %": "41.9",
         "brlbarrels": "34",
         "brl%barrel %": "6.8",
-        "ab": "660",
-        "avg": ".215",
-        "h": "142",
+        "ab": "661",
+        "avg": ".216",
+        "h": "143",
         "1b": "92",
-        "2b": "33",
+        "2b": "34",
         "3b": "4",
         "hr": "13",
-        "so": "172",
+        "so": "171",
         "bipballs in play": "499",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-04 22:28:28.032633"
+        "updated": "2025-06-04 22:28:38.410255"
     },
     "col @ mia": [
         {
@@ -9410,16 +9410,31 @@
     ],
     "det @ chw": [
         {
-            "player": "andrew benintendi",
+            "player": "joshua palacios",
             "game": "det @ chw",
             "hr/park": "",
+            "pa": "34",
+            "dt": "2025-06-04 22:28:36",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "andrew benintendi",
+            "game": "det @ chw",
+            "hr/park": "0/30",
             "pa": "33",
             "dt": "2025-06-04 22:27:53",
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
             "team": "chw",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "104.9",
             "la": "21",
             "dist": "309"
@@ -10233,10 +10248,10 @@
             "team": "sf",
             "start": "9:45 PM",
             "in": "3",
-            "result": "Flyout",
-            "evo": "96.3",
-            "la": "24",
-            "dist": "340"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "patrick bailey",
@@ -10580,10 +10595,10 @@
             "team": "min",
             "start": "10:05 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "79.7",
+            "la": "-39",
+            "dist": "3"
         },
         {
             "player": "royce lewis",
@@ -10762,7 +10777,7 @@
             "team": "lad",
             "start": "10:10 PM",
             "in": "1",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
