@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "35",
-        "batters": "145",
-        "pitches": "1276",
+        "batters": "144",
+        "pitches": "1278",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "70.3",
         "ff%fourseam fastball %": "32.7",
@@ -10,25 +10,25 @@
         "fc%cutter %": "5.4",
         "fs%splitter %": "1.9",
         "ch%changeup %": "10.7",
-        "sl%slider %": "24.7",
+        "sl%slider %": "24.6",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "115",
         "hh%hard hit %": "46.7",
         "brlbarrels": "25",
         "brl%barrel %": "10.2",
-        "ab": "304",
-        "avg": ".286",
+        "ab": "305",
+        "avg": ".285",
         "h": "87",
         "1b": "55",
         "2b": "18",
         "3b": "0",
         "hr": "14",
-        "so": "58",
+        "so": "59",
         "bipballs in play": "246",
         "liveGames": 8,
         "totGames": 13,
-        "updated": "2025-06-05 16:26:15.069559"
+        "updated": "2025-06-05 16:26:23.546182"
     },
     "ari @ atl": [
         {
@@ -1309,21 +1309,6 @@
     ],
     "kc @ stl": [
         {
-            "player": "mark canha",
-            "game": "kc @ stl",
-            "hr/park": "",
-            "pa": "78",
-            "dt": "2025-06-05 16:26:03",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "start": "1:45 PM",
-            "in": "10",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "salvador perez",
             "game": "kc @ stl",
             "hr/park": "0/30",
@@ -1333,7 +1318,7 @@
             "team": "kc",
             "start": "1:45 PM",
             "in": "10",
-            "result": "Flyout",
+            "result": "In Progress",
             "evo": "104.3",
             "la": "39",
             "dist": "353"
@@ -4393,6 +4378,21 @@
     ],
     "bal @ sea": [
         {
+            "player": "jp crawford",
+            "game": "bal @ sea",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-06-05 16:26:19",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "3:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gunnar henderson",
             "game": "bal @ sea",
             "hr/park": "",
@@ -4710,6 +4710,21 @@
     ],
     "sd @ sf": [
         {
+            "player": "fernando tatis",
+            "game": "sd @ sf",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-06-05 16:25:48",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "3:45 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "martin maldonado",
             "game": "sd @ sf",
             "hr/park": "",
@@ -4719,7 +4734,7 @@
             "team": "sd",
             "start": "3:45 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
