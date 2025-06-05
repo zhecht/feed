@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "46",
+        "pitchers": "47",
         "batters": "167",
-        "pitches": "1909",
+        "pitches": "1911",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "70.2",
         "ff%fourseam fastball %": "30.6",
-        "si%sinker %": "15.5",
+        "si%sinker %": "15.4",
         "fc%cutter %": "8.6",
         "fs%splitter %": "0.9",
         "ch%changeup %": "11.5",
@@ -28,7 +28,7 @@
         "bipballs in play": "345",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-04 20:51:25.961980"
+        "updated": "2025-06-04 20:51:35.310432"
     },
     "col @ mia": [
         {
@@ -3443,6 +3443,21 @@
     ],
     "hou @ pit": [
         {
+            "player": "christian walker",
+            "game": "hou @ pit",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-06-04 20:51:29",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "adam frazier",
             "game": "hou @ pit",
             "hr/park": "0/30",
@@ -4390,21 +4405,6 @@
     ],
     "chc @ wsh": [
         {
-            "player": "dansby swanson",
-            "game": "chc @ wsh",
-            "hr/park": "",
-            "pa": "60",
-            "dt": "2025-06-04 20:50:57",
-            "img": "https://www.mlbstatic.com/team-logos/112.svg",
-            "team": "chc",
-            "start": "6:45 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "pete crow armstrong",
             "game": "chc @ wsh",
             "hr/park": "",
@@ -5301,7 +5301,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "6",
-            "result": "Forceout",
+            "result": "GIDP",
             "evo": "90.1",
             "la": "-8",
             "dist": "17"
