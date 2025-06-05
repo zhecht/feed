@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "39",
         "batters": "154",
-        "pitches": "1506",
+        "pitches": "1510",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "70.3",
         "ff%fourseam fastball %": "32.4",
@@ -13,8 +13,8 @@
         "sl%slider %": "23.8",
         "cu%curve %": "9.8",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "130",
-        "hh%hard hit %": "45.8",
+        "hhhard hit": "131",
+        "hh%hard hit %": "46.0",
         "brlbarrels": "29",
         "brl%barrel %": "10.2",
         "ab": "354",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "16",
         "so": "72",
-        "bipballs in play": "284",
+        "bipballs in play": "285",
         "liveGames": 8,
         "totGames": 13,
-        "updated": "2025-06-05 16:44:31.142990"
+        "updated": "2025-06-05 16:44:39.864319"
     },
     "ari @ atl": [
         {
@@ -4325,7 +4325,7 @@
             "team": "ath",
             "start": "3:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Mound Visit",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4873,6 +4873,21 @@
     ],
     "bal @ sea": [
         {
+            "player": "rowdy tellez",
+            "game": "bal @ sea",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-06-05 16:44:34",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "3:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "heston kjerstad",
             "game": "bal @ sea",
             "hr/park": "",
@@ -5319,10 +5334,10 @@
             "team": "sf",
             "start": "3:45 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Sac Fly",
+            "evo": "99.9",
+            "la": "38",
+            "dist": "350"
         },
         {
             "player": "matt chapman",
