@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "29",
-        "batters": "122",
-        "pitches": "1083",
+        "batters": "123",
+        "pitches": "1084",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "70.3",
-        "ff%fourseam fastball %": "32.2",
+        "ff%fourseam fastball %": "32.1",
         "si%sinker %": "14.7",
         "fc%cutter %": "4.7",
         "fs%splitter %": "2.1",
-        "ch%changeup %": "11.1",
+        "ch%changeup %": "11.2",
         "sl%slider %": "24.8",
-        "cu%curve %": "10.3",
+        "cu%curve %": "10.4",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "101",
-        "hh%hard hit %": "48.1",
+        "hh%hard hit %": "47.9",
         "brlbarrels": "19",
         "brl%barrel %": "9.0",
-        "ab": "258",
-        "avg": ".298",
-        "h": "77",
-        "1b": "48",
+        "ab": "260",
+        "avg": ".300",
+        "h": "78",
+        "1b": "49",
         "2b": "18",
         "3b": "0",
         "hr": "11",
         "so": "50",
-        "bipballs in play": "210",
+        "bipballs in play": "211",
         "liveGames": 8,
         "totGames": 13,
-        "updated": "2025-06-05 16:10:40.502243"
+        "updated": "2025-06-05 16:10:48.893307"
     },
     "ari @ atl": [
         {
@@ -3943,6 +3943,21 @@
     ],
     "bal @ sea": [
         {
+            "player": "miles mastrobuoni",
+            "game": "bal @ sea",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-06-05 16:10:48",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "3:40 PM",
+            "in": "2",
+            "result": "Mound Visit",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "leody taveras",
             "game": "bal @ sea",
             "hr/park": "",
@@ -3952,10 +3967,10 @@
             "team": "sea",
             "start": "3:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "77.8",
+            "la": "20",
+            "dist": "235"
         },
         {
             "player": "rowdy tellez",
@@ -4179,7 +4194,7 @@
             "team": "sd",
             "start": "3:45 PM",
             "in": "2",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
