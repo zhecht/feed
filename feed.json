@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "82",
         "batters": "261",
-        "pitches": "2947",
+        "pitches": "2949",
         "max velomax pitch velocity": "101.5",
         "min velomin pitch velocity": "70.2",
-        "ff%fourseam fastball %": "32.5",
-        "si%sinker %": "14.7",
+        "ff%fourseam fastball %": "32.6",
+        "si%sinker %": "14.6",
         "fc%cutter %": "7.6",
         "fs%splitter %": "1.9",
         "ch%changeup %": "11.4",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "42.2",
         "brlbarrels": "34",
         "brl%barrel %": "6.6",
-        "ab": "683",
+        "ab": "684",
         "avg": ".218",
         "h": "149",
         "1b": "97",
@@ -28,7 +28,7 @@
         "bipballs in play": "519",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-04 22:38:13.034867"
+        "updated": "2025-06-04 22:38:23.848790"
     },
     "col @ mia": [
         {
@@ -7443,7 +7443,7 @@
         {
             "player": "sean murphy",
             "game": "ari @ atl",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "59",
             "dt": "2025-06-04 22:37:37",
             "img": "https://www.mlbstatic.com/team-logos/144.svg",
@@ -10389,6 +10389,21 @@
     ],
     "sd @ sf": [
         {
+            "player": "elias diaz",
+            "game": "sd @ sf",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-06-04 22:38:22",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:45 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brandon lockridge",
             "game": "sd @ sf",
             "hr/park": "",
@@ -10398,7 +10413,7 @@
             "team": "sd",
             "start": "9:45 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "88.5",
             "la": "",
             "dist": "41"
