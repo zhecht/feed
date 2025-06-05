@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "39",
         "batters": "158",
-        "pitches": "1755",
+        "pitches": "1758",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "71.4",
-        "ff%fourseam fastball %": "30.8",
+        "ff%fourseam fastball %": "30.7",
         "si%sinker %": "15.5",
         "fc%cutter %": "8.0",
         "fs%splitter %": "0.9",
@@ -14,21 +14,21 @@
         "cu%curve %": "11.3",
         "max evmax exit velocity": "114.1",
         "hhhard hit": "140",
-        "hh%hard hit %": "43.9",
+        "hh%hard hit %": "43.6",
         "brlbarrels": "17",
         "brl%barrel %": "5.3",
-        "ab": "406",
-        "avg": ".227",
-        "h": "92",
-        "1b": "57",
+        "ab": "408",
+        "avg": ".223",
+        "h": "91",
+        "1b": "56",
         "2b": "24",
         "3b": "2",
         "hr": "9",
-        "so": "96",
-        "bipballs in play": "319",
+        "so": "97",
+        "bipballs in play": "321",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-04 20:34:49.572492"
+        "updated": "2025-06-04 20:34:58.816922"
     },
     "col @ mia": [
         {
@@ -3443,6 +3443,36 @@
     ],
     "hou @ pit": [
         {
+            "player": "bryan reynolds",
+            "game": "hou @ pit",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-04 20:34:58",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "andrew mccutchen",
+            "game": "hou @ pit",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-06-04 20:34:58",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "Pop Out",
+            "evo": "91.5",
+            "la": "59",
+            "dist": "220"
+        },
+        {
             "player": "oneil cruz",
             "game": "hou @ pit",
             "hr/park": "",
@@ -5082,6 +5112,21 @@
     ],
     "cle @ nyy": [
         {
+            "player": "dj lemahieu",
+            "game": "cle @ nyy",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-06-04 20:34:58",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "Groundout",
+            "evo": "74.2",
+            "la": "-16",
+            "dist": "8"
+        },
+        {
             "player": "austin wells",
             "game": "cle @ nyy",
             "hr/park": "",
@@ -5091,7 +5136,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5654,21 +5699,6 @@
     ],
     "phi @ tor": [
         {
-            "player": "bo bichette",
-            "game": "phi @ tor",
-            "hr/park": "",
-            "pa": "42",
-            "dt": "2025-06-04 20:34:43",
-            "img": "https://www.mlbstatic.com/team-logos/141.svg",
-            "team": "tor",
-            "start": "7:07 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "andres gimenez",
             "game": "phi @ tor",
             "hr/park": "",
@@ -5678,7 +5708,7 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "6",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "95.4",
             "la": "13",
             "dist": "233"
