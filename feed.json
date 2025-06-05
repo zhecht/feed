@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "77",
         "batters": "243",
-        "pitches": "2796",
+        "pitches": "2800",
         "max velomax pitch velocity": "101.5",
         "min velomin pitch velocity": "70.2",
         "ff%fourseam fastball %": "31.9",
@@ -10,14 +10,14 @@
         "fc%cutter %": "7.8",
         "fs%splitter %": "1.9",
         "ch%changeup %": "11.3",
-        "sl%slider %": "22.3",
+        "sl%slider %": "22.4",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "116.4",
         "hhhard hit": "206",
         "hh%hard hit %": "42.0",
         "brlbarrels": "33",
         "brl%barrel %": "6.7",
-        "ab": "646",
+        "ab": "648",
         "avg": ".218",
         "h": "141",
         "1b": "92",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "13",
         "so": "168",
-        "bipballs in play": "490",
+        "bipballs in play": "491",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-04 22:23:16.832895"
+        "updated": "2025-06-04 22:23:27.065447"
     },
     "col @ mia": [
         {
@@ -7450,7 +7450,7 @@
             "team": "ari",
             "start": "7:15 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9395,6 +9395,21 @@
     ],
     "det @ chw": [
         {
+            "player": "gleyber torres",
+            "game": "det @ chw",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-06-04 22:23:21",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "zach mckinstry",
             "game": "det @ chw",
             "hr/park": "",
@@ -10133,6 +10148,36 @@
         }
     ],
     "sd @ sf": [
+        {
+            "player": "gavin sheets",
+            "game": "sd @ sf",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-06-04 22:23:21",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:45 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jackson merrill",
+            "game": "sd @ sf",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-06-04 22:23:21",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:45 PM",
+            "in": "3",
+            "result": "Field Error",
+            "evo": "72.1",
+            "la": "4",
+            "dist": "56"
+        },
         {
             "player": "manny machado",
             "game": "sd @ sf",
