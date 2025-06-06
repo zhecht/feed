@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "77",
         "batters": "223",
-        "pitches": "2825",
+        "pitches": "2829",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "44.2",
-        "ff%fourseam fastball %": "34.6",
+        "ff%fourseam fastball %": "34.5",
         "si%sinker %": "13.9",
         "fc%cutter %": "5.8",
         "fs%splitter %": "1.7",
@@ -14,21 +14,21 @@
         "cu%curve %": "10.9",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "237",
-        "hh%hard hit %": "44.0",
+        "hh%hard hit %": "43.9",
         "brlbarrels": "55",
         "brl%barrel %": "10.2",
-        "ab": "673",
-        "avg": ".266",
-        "h": "179",
-        "1b": "115",
+        "ab": "675",
+        "avg": ".268",
+        "h": "181",
+        "1b": "117",
         "2b": "35",
         "3b": "0",
         "hr": "29",
         "so": "146",
-        "bipballs in play": "539",
+        "bipballs in play": "540",
         "liveGames": 13,
         "totGames": 13,
-        "updated": "2025-06-05 20:22:16.384446"
+        "updated": "2025-06-05 20:22:26.439756"
     },
     "ari @ atl": [
         {
@@ -2526,6 +2526,21 @@
     ],
     "kc-gm2 @ stl-gm2": [
         {
+            "player": "bobby witt",
+            "game": "kc-gm2 @ stl-gm2",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-06-05 20:21:48",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:45 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jonathan india",
             "game": "kc-gm2 @ stl-gm2",
             "hr/park": "",
@@ -2535,10 +2550,10 @@
             "team": "kc",
             "start": "7:45 PM",
             "in": "3",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "81.4",
+            "la": "14",
+            "dist": "184"
         },
         {
             "player": "freddy fermin",
@@ -9651,6 +9666,21 @@
     "hou @ pit": [],
     "chc @ wsh": [
         {
+            "player": "pete crow armstrong",
+            "game": "chc @ wsh",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-06-05 20:22:19",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:45 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "seiya suzuki",
             "game": "chc @ wsh",
             "hr/park": "",
@@ -9660,7 +9690,7 @@
             "team": "chc",
             "start": "6:45 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "67.5",
             "la": "45",
             "dist": "199"
