@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "87",
         "batters": "223",
-        "pitches": "3193",
+        "pitches": "3198",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "44.2",
         "ff%fourseam fastball %": "35.5",
         "si%sinker %": "13.2",
         "fc%cutter %": "5.7",
         "fs%splitter %": "1.6",
-        "ch%changeup %": "11.2",
+        "ch%changeup %": "11.3",
         "sl%slider %": "21.8",
-        "cu%curve %": "10.6",
+        "cu%curve %": "10.5",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "266",
-        "hh%hard hit %": "44.0",
+        "hh%hard hit %": "43.9",
         "brlbarrels": "62",
         "brl%barrel %": "10.2",
-        "ab": "755",
+        "ab": "756",
         "avg": ".265",
         "h": "200",
         "1b": "128",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "31",
         "so": "164",
-        "bipballs in play": "605",
+        "bipballs in play": "606",
         "liveGames": 13,
         "totGames": 13,
-        "updated": "2025-06-05 21:16:28.392856"
+        "updated": "2025-06-05 21:16:39.043547"
     },
     "ari @ atl": [
         {
@@ -2525,6 +2525,21 @@
         }
     ],
     "kc-gm2 @ stl-gm2": [
+        {
+            "player": "salvador perez",
+            "game": "kc-gm2 @ stl-gm2",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-06-05 21:16:33",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "vinnie pasquantino",
             "game": "kc-gm2 @ stl-gm2",
@@ -9996,6 +10011,21 @@
     "hou @ pit": [],
     "chc @ wsh": [
         {
+            "player": "nico hoerner",
+            "game": "chc @ wsh",
+            "hr/park": "",
+            "pa": "74",
+            "dt": "2025-06-05 21:16:33",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:45 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "85.7",
+            "la": "-34",
+            "dist": "3"
+        },
+        {
             "player": "michael busch",
             "game": "chc @ wsh",
             "hr/park": "",
@@ -10005,7 +10035,7 @@
             "team": "chc",
             "start": "6:45 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
