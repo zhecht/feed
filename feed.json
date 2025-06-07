@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "45",
-        "batters": "184",
-        "pitches": "1586",
+        "batters": "185",
+        "pitches": "1591",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "34.2",
+        "ff%fourseam fastball %": "34.3",
         "si%sinker %": "12.6",
         "fc%cutter %": "8.2",
         "fs%splitter %": "5.5",
@@ -13,22 +13,22 @@
         "sl%slider %": "16.9",
         "cu%curve %": "10.0",
         "max evmax exit velocity": "113.6",
-        "hhhard hit": "104",
-        "hh%hard hit %": "35.1",
+        "hhhard hit": "105",
+        "hh%hard hit %": "35.2",
         "brlbarrels": "22",
         "brl%barrel %": "7.4",
-        "ab": "386",
-        "avg": ".231",
+        "ab": "388",
+        "avg": ".229",
         "h": "89",
         "1b": "59",
         "2b": "9",
         "3b": "2",
         "hr": "19",
         "so": "96",
-        "bipballs in play": "296",
+        "bipballs in play": "298",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-06-07 16:45:55.079400"
+        "updated": "2025-06-07 16:46:04.097879"
     },
     "chc @ det": [
         {
@@ -2235,7 +2235,7 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5084,6 +5084,21 @@
     ],
     "atl @ sf": [
         {
+            "player": "heliot ramos",
+            "game": "atl @ sf",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-06-07 16:46:02",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "106.3",
+            "la": "-12",
+            "dist": "10"
+        },
+        {
             "player": "daniel johnson",
             "game": "atl @ sf",
             "hr/park": "",
@@ -5410,10 +5425,10 @@
             "team": "ari",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "79.1",
+            "la": "51",
+            "dist": "224"
         },
         {
             "player": "lourdes gurriel",
@@ -6187,9 +6202,24 @@
     ],
     "mia @ tb": [
         {
-            "player": "christopher morel",
+            "player": "danny jansen",
             "game": "mia @ tb",
             "hr/park": "",
+            "pa": "14",
+            "dt": "2025-06-07 16:46:02",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "christopher morel",
+            "game": "mia @ tb",
+            "hr/park": "30/30",
             "pa": "13",
             "dt": "2025-06-07 16:45:32",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
