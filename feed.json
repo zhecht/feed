@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "33",
         "batters": "106",
-        "pitches": "1096",
+        "pitches": "1101",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "34.5",
+        "ff%fourseam fastball %": "34.4",
         "si%sinker %": "12.4",
-        "fc%cutter %": "8.3",
-        "fs%splitter %": "6.5",
-        "ch%changeup %": "12.1",
+        "fc%cutter %": "8.4",
+        "fs%splitter %": "6.4",
+        "ch%changeup %": "12.3",
         "sl%slider %": "16.1",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "111.1",
         "hhhard hit": "68",
-        "hh%hard hit %": "32.9",
+        "hh%hard hit %": "32.7",
         "brlbarrels": "16",
         "brl%barrel %": "7.7",
-        "ab": "268",
-        "avg": ".213",
+        "ab": "269",
+        "avg": ".212",
         "h": "57",
         "1b": "37",
         "2b": "5",
         "3b": "2",
         "hr": "13",
         "so": "63",
-        "bipballs in play": "207",
+        "bipballs in play": "208",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-06-07 16:16:23.524908"
+        "updated": "2025-06-07 16:16:32.129203"
     },
     "chc @ det": [
         {
@@ -2226,6 +2226,21 @@
     ],
     "tor @ min": [
         {
+            "player": "nathan lukes",
+            "game": "tor @ min",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-06-07 16:16:32",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "george springer",
             "game": "tor @ min",
             "hr/park": "28/30",
@@ -4009,7 +4024,7 @@
             "team": "tex",
             "start": "4:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4208,10 +4223,10 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "72.1",
+            "la": "10",
+            "dist": "117"
         },
         {
             "player": "heliot ramos",
@@ -4347,7 +4362,7 @@
             "team": "hou",
             "start": "4:10 PM",
             "in": "1",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "98.5",
             "la": "-2",
             "dist": "34"
