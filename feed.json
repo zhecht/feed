@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "88",
         "batters": "286",
-        "pitches": "3162",
+        "pitches": "3169",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "31.3",
-        "si%sinker %": "16.8",
+        "si%sinker %": "16.9",
         "fc%cutter %": "8.6",
         "fs%splitter %": "3.4",
-        "ch%changeup %": "12.0",
-        "sl%slider %": "19.7",
+        "ch%changeup %": "11.9",
+        "sl%slider %": "19.8",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "113.4",
         "hhhard hit": "250",
         "hh%hard hit %": "40.1",
         "brlbarrels": "46",
         "brl%barrel %": "7.4",
-        "ab": "781",
-        "avg": ".243",
-        "h": "190",
-        "1b": "128",
+        "ab": "780",
+        "avg": ".245",
+        "h": "191",
+        "1b": "129",
         "2b": "30",
         "3b": "3",
         "hr": "29",
         "so": "171",
-        "bipballs in play": "623",
+        "bipballs in play": "624",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-06 22:45:41.239880"
+        "updated": "2025-06-06 22:45:52.408711"
     },
     "mia @ tb": [
         {
@@ -1168,7 +1168,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "10.3",
             "la": "-17",
             "dist": "6"
@@ -8352,10 +8352,10 @@
             "team": "tor",
             "start": "8:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "86.0",
+            "la": "-3",
+            "dist": "29"
         },
         {
             "player": "jonatan clase",
@@ -10477,6 +10477,21 @@
     ],
     "lad @ stl": [
         {
+            "player": "lars nootbaar",
+            "game": "lad @ stl",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-06-06 22:45:44",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "victor scott",
             "game": "lad @ stl",
             "hr/park": "",
@@ -10486,7 +10501,7 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Sac Bunt",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11825,7 +11840,7 @@
             "team": "sea",
             "start": "9:38 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12654,7 +12669,7 @@
             "team": "sf",
             "start": "10:15 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
