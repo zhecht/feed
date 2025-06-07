@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "73",
+        "pitchers": "74",
         "batters": "251",
-        "pitches": "2716",
+        "pitches": "2721",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "32.5",
@@ -10,25 +10,25 @@
         "fc%cutter %": "9.1",
         "fs%splitter %": "3.0",
         "ch%changeup %": "12.8",
-        "sl%slider %": "19.9",
+        "sl%slider %": "20.0",
         "cu%curve %": "7.0",
         "max evmax exit velocity": "113.4",
-        "hhhard hit": "213",
-        "hh%hard hit %": "39.9",
+        "hhhard hit": "215",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "43",
-        "brl%barrel %": "8.1",
-        "ab": "669",
-        "avg": ".242",
-        "h": "162",
+        "brl%barrel %": "8.0",
+        "ab": "672",
+        "avg": ".243",
+        "h": "163",
         "1b": "106",
-        "2b": "27",
+        "2b": "28",
         "3b": "3",
         "hr": "26",
         "so": "143",
-        "bipballs in play": "534",
+        "bipballs in play": "537",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-06 22:14:49.088569"
+        "updated": "2025-06-06 22:14:59.424499"
     },
     "mia @ tb": [
         {
@@ -1158,6 +1158,21 @@
         }
     ],
     "phi @ pit": [
+        {
+            "player": "bryan reynolds",
+            "game": "phi @ pit",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-06-06 22:14:59",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "85.6",
+            "la": "25",
+            "dist": "293"
+        },
         {
             "player": "nick gonzales",
             "game": "phi @ pit",
@@ -2995,7 +3010,7 @@
         {
             "player": "jazz chisholm",
             "game": "bos @ nyy",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "76",
             "dt": "2025-06-06 22:13:59",
             "img": "https://www.mlbstatic.com/team-logos/147.svg",
@@ -8073,6 +8088,36 @@
     ],
     "tor @ min": [
         {
+            "player": "addison barger",
+            "game": "tor @ min",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-06-06 22:14:59",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "8:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "107.9",
+            "la": "7",
+            "dist": "143"
+        },
+        {
+            "player": "vladimir guerrero",
+            "game": "tor @ min",
+            "hr/park": "0/30",
+            "pa": "58",
+            "dt": "2025-06-06 22:14:59",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "8:10 PM",
+            "in": "8",
+            "result": "Double",
+            "evo": "98.0",
+            "la": "16",
+            "dist": "305"
+        },
+        {
             "player": "byron buxton",
             "game": "tor @ min",
             "hr/park": "",
@@ -10760,7 +10805,7 @@
             "team": "sea",
             "start": "9:38 PM",
             "in": "3",
-            "result": "Stolen Base 2B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
