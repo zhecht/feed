@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "76",
+        "pitchers": "77",
         "batters": "202",
-        "pitches": "2830",
+        "pitches": "2836",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "31.4",
-        "si%sinker %": "14.4",
+        "si%sinker %": "14.5",
         "fc%cutter %": "8.0",
-        "fs%splitter %": "4.0",
-        "ch%changeup %": "13.1",
-        "sl%slider %": "18.6",
+        "fs%splitter %": "3.9",
+        "ch%changeup %": "13.2",
+        "sl%slider %": "18.5",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "113.6",
-        "hhhard hit": "184",
-        "hh%hard hit %": "35.5",
-        "brlbarrels": "30",
-        "brl%barrel %": "5.8",
-        "ab": "679",
-        "avg": ".230",
+        "hhhard hit": "186",
+        "hh%hard hit %": "35.6",
+        "brlbarrels": "31",
+        "brl%barrel %": "5.9",
+        "ab": "682",
+        "avg": ".229",
         "h": "156",
         "1b": "100",
         "2b": "23",
         "3b": "2",
         "hr": "31",
         "so": "174",
-        "bipballs in play": "519",
+        "bipballs in play": "522",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-06-07 18:29:55.441019"
+        "updated": "2025-06-07 18:30:05.924978"
     },
     "chc @ det": [
         {
@@ -7456,6 +7456,21 @@
     ],
     "ari-gm2 @ cin-gm2": [
         {
+            "player": "randal grichuk",
+            "game": "ari-gm2 @ cin-gm2",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-06-07 18:30:04",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "spencer steer",
             "game": "ari-gm2 @ cin-gm2",
             "hr/park": "",
@@ -9275,11 +9290,11 @@
     ],
     "kc @ chw": [
         {
-            "player": "jac caglianone",
+            "player": "nick loftin",
             "game": "kc @ chw",
             "hr/park": "",
-            "pa": "67",
-            "dt": "2025-06-07 18:29:19",
+            "pa": "68",
+            "dt": "2025-06-07 18:30:04",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "start": "4:10 PM",
@@ -9288,6 +9303,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "jac caglianone",
+            "game": "kc @ chw",
+            "hr/park": "0/30",
+            "pa": "67",
+            "dt": "2025-06-07 18:29:19",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "4:10 PM",
+            "in": "9",
+            "result": "Flyout",
+            "evo": "105.3",
+            "la": "37",
+            "dist": "354"
         },
         {
             "player": "luis robert",
@@ -10282,6 +10312,21 @@
     ],
     "mia @ tb": [
         {
+            "player": "agustin ramirez",
+            "game": "mia @ tb",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-06-07 18:30:04",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "82.6",
+            "la": "-44",
+            "dist": "3"
+        },
+        {
             "player": "otto lopez",
             "game": "mia @ tb",
             "hr/park": "",
@@ -10291,10 +10336,10 @@
             "team": "mia",
             "start": "4:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "98.5",
+            "la": "-16",
+            "dist": "10"
         },
         {
             "player": "jonathan aranda",
