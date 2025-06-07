@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "49",
         "batters": "206",
-        "pitches": "1971",
+        "pitches": "1978",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "31.9",
@@ -10,11 +10,11 @@
         "fc%cutter %": "7.9",
         "fs%splitter %": "1.9",
         "ch%changeup %": "14.0",
-        "sl%slider %": "20.1",
-        "cu%curve %": "8.1",
+        "sl%slider %": "20.2",
+        "cu%curve %": "8.0",
         "max evmax exit velocity": "113.2",
         "hhhard hit": "168",
-        "hh%hard hit %": "41.7",
+        "hh%hard hit %": "41.6",
         "brlbarrels": "35",
         "brl%barrel %": "8.7",
         "ab": "504",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "21",
         "so": "106",
-        "bipballs in play": "403",
+        "bipballs in play": "404",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-06 21:21:23.419938"
+        "updated": "2025-06-06 21:21:33.172399"
     },
     "mia @ tb": [
         {
@@ -2612,7 +2612,7 @@
             "team": "bos",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6086,9 +6086,9 @@
             "start": "7:40 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "73.9",
+            "la": "11",
+            "dist": "157"
         },
         {
             "player": "mark canha",
@@ -6867,7 +6867,7 @@
             "team": "tor",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "87.2",
             "la": "32",
             "dist": "330"
@@ -7370,9 +7370,24 @@
     ],
     "sd @ mil": [
         {
-            "player": "martin maldonado",
+            "player": "fernando tatis",
             "game": "sd @ mil",
             "hr/park": "",
+            "pa": "35",
+            "dt": "2025-06-06 21:21:29",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "martin maldonado",
+            "game": "sd @ mil",
+            "hr/park": "0/30",
             "pa": "34",
             "dt": "2025-06-06 21:21:00",
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
