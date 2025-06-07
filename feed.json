@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "71",
-        "batters": "245",
-        "pitches": "2613",
+        "pitchers": "72",
+        "batters": "246",
+        "pitches": "2625",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "32.5",
         "si%sinker %": "15.5",
-        "fc%cutter %": "9.0",
+        "fc%cutter %": "9.1",
         "fs%splitter %": "2.8",
         "ch%changeup %": "12.9",
         "sl%slider %": "20.0",
         "cu%curve %": "7.2",
         "max evmax exit velocity": "113.4",
-        "hhhard hit": "205",
-        "hh%hard hit %": "39.9",
-        "brlbarrels": "41",
-        "brl%barrel %": "8.0",
-        "ab": "647",
-        "avg": ".246",
-        "h": "159",
+        "hhhard hit": "207",
+        "hh%hard hit %": "40.1",
+        "brlbarrels": "42",
+        "brl%barrel %": "8.1",
+        "ab": "649",
+        "avg": ".247",
+        "h": "160",
         "1b": "104",
-        "2b": "26",
+        "2b": "27",
         "3b": "3",
         "hr": "26",
-        "so": "139",
-        "bipballs in play": "514",
+        "so": "140",
+        "bipballs in play": "516",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-06 22:09:25.969311"
+        "updated": "2025-06-06 22:09:36.265897"
     },
     "mia @ tb": [
         {
@@ -1158,6 +1158,21 @@
         }
     ],
     "phi @ pit": [
+        {
+            "player": "jared triolo",
+            "game": "phi @ pit",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-06 22:09:29",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "nick castellanos",
             "game": "phi @ pit",
@@ -2920,17 +2935,17 @@
         {
             "player": "abraham toro",
             "game": "bos @ nyy",
-            "hr/park": "",
+            "hr/park": "7/30",
             "pa": "72",
             "dt": "2025-06-06 22:08:44",
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
             "team": "bos",
             "start": "7:05 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "104.6",
+            "la": "23",
+            "dist": "395"
         },
         {
             "player": "paul goldschmidt",
@@ -9571,7 +9586,7 @@
             "team": "lad",
             "start": "8:15 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10466,6 +10481,21 @@
     ],
     "sea @ laa": [
         {
+            "player": "cole young",
+            "game": "sea @ laa",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-06-06 22:09:29",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "9:38 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "leody taveras",
             "game": "sea @ laa",
             "hr/park": "",
@@ -10475,10 +10505,10 @@
             "team": "sea",
             "start": "9:38 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "98.2",
+            "la": "-3",
+            "dist": "28"
         },
         {
             "player": "travis darnaud",
