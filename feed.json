@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "45",
         "batters": "192",
-        "pitches": "1857",
+        "pitches": "1860",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "33.0",
-        "si%sinker %": "12.9",
+        "ff%fourseam fastball %": "32.9",
+        "si%sinker %": "13.0",
         "fc%cutter %": "8.7",
         "fs%splitter %": "5.0",
         "ch%changeup %": "13.2",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.6",
         "max evmax exit velocity": "113.6",
         "hhhard hit": "128",
-        "hh%hard hit %": "36.9",
+        "hh%hard hit %": "36.8",
         "brlbarrels": "26",
         "brl%barrel %": "7.5",
-        "ab": "455",
-        "avg": ".226",
-        "h": "103",
+        "ab": "457",
+        "avg": ".228",
+        "h": "104",
         "1b": "67",
-        "2b": "12",
+        "2b": "13",
         "3b": "2",
         "hr": "22",
         "so": "117",
-        "bipballs in play": "347",
+        "bipballs in play": "348",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-06-07 17:04:24.563628"
+        "updated": "2025-06-07 17:04:33.986417"
     },
     "chc @ det": [
         {
@@ -5459,6 +5459,21 @@
     ],
     "atl @ sf": [
         {
+            "player": "nick allen",
+            "game": "atl @ sf",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-06-07 17:04:32",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "4:05 PM",
+            "in": "5",
+            "result": "Lineout",
+            "evo": "88.0",
+            "la": "5",
+            "dist": "95"
+        },
+        {
             "player": "alex verdugo",
             "game": "atl @ sf",
             "hr/park": "",
@@ -5950,7 +5965,7 @@
             "team": "ari",
             "start": "4:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "80.0",
             "la": "-19",
             "dist": "8"
@@ -6725,6 +6740,21 @@
     ],
     "kc @ chw": [
         {
+            "player": "jac caglianone",
+            "game": "kc @ chw",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-06-07 17:04:32",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "4:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "salvador perez",
             "game": "kc @ chw",
             "hr/park": "",
@@ -7156,7 +7186,7 @@
             "team": "mia",
             "start": "4:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "85.5",
             "la": "18",
             "dist": "239"
