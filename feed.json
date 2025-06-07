@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "45",
         "batters": "182",
-        "pitches": "1572",
+        "pitches": "1579",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "34.1",
         "si%sinker %": "12.6",
-        "fc%cutter %": "8.3",
+        "fc%cutter %": "8.2",
         "fs%splitter %": "5.5",
-        "ch%changeup %": "12.5",
-        "sl%slider %": "16.8",
-        "cu%curve %": "10.1",
+        "ch%changeup %": "12.4",
+        "sl%slider %": "16.9",
+        "cu%curve %": "10.0",
         "max evmax exit velocity": "113.6",
         "hhhard hit": "103",
-        "hh%hard hit %": "35.2",
+        "hh%hard hit %": "35.0",
         "brlbarrels": "21",
-        "brl%barrel %": "7.2",
-        "ab": "382",
-        "avg": ".225",
+        "brl%barrel %": "7.1",
+        "ab": "384",
+        "avg": ".224",
         "h": "86",
         "1b": "58",
         "2b": "8",
         "3b": "2",
         "hr": "18",
-        "so": "95",
-        "bipballs in play": "293",
+        "so": "96",
+        "bipballs in play": "294",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-06-07 16:45:00.550159"
+        "updated": "2025-06-07 16:45:09.337080"
     },
     "chc @ det": [
         {
@@ -2225,6 +2225,21 @@
         }
     ],
     "tor @ min": [
+        {
+            "player": "harrison bader",
+            "game": "tor @ min",
+            "hr/park": "",
+            "pa": "75",
+            "dt": "2025-06-07 16:45:03",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "willi castro",
             "game": "tor @ min",
@@ -4435,6 +4450,21 @@
     ],
     "tex @ wsh": [
         {
+            "player": "josh jung",
+            "game": "tex @ wsh",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-06-07 16:45:03",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "wyatt langford",
             "game": "tex @ wsh",
             "hr/park": "",
@@ -4444,7 +4474,7 @@
             "team": "tex",
             "start": "4:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "102.0",
             "la": "-5",
             "dist": "22"
@@ -5064,9 +5094,9 @@
             "start": "4:05 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "58.7",
+            "la": "9",
+            "dist": "65"
         },
         {
             "player": "tyler fitzgerald",
@@ -5622,7 +5652,7 @@
             "team": "cle",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
