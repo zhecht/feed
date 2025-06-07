@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "33",
-        "batters": "106",
-        "pitches": "1105",
+        "pitchers": "34",
+        "batters": "107",
+        "pitches": "1111",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "34.3",
-        "si%sinker %": "12.3",
-        "fc%cutter %": "8.3",
+        "ff%fourseam fastball %": "34.4",
+        "si%sinker %": "12.2",
+        "fc%cutter %": "8.4",
         "fs%splitter %": "6.4",
-        "ch%changeup %": "12.3",
-        "sl%slider %": "16.3",
-        "cu%curve %": "9.9",
+        "ch%changeup %": "12.2",
+        "sl%slider %": "16.4",
+        "cu%curve %": "9.8",
         "max evmax exit velocity": "111.1",
-        "hhhard hit": "68",
+        "hhhard hit": "69",
         "hh%hard hit %": "32.9",
         "brlbarrels": "16",
-        "brl%barrel %": "7.7",
-        "ab": "270",
-        "avg": ".211",
-        "h": "57",
-        "1b": "37",
+        "brl%barrel %": "7.6",
+        "ab": "271",
+        "avg": ".214",
+        "h": "58",
+        "1b": "38",
         "2b": "5",
         "3b": "2",
         "hr": "13",
-        "so": "63",
-        "bipballs in play": "207",
+        "so": "64",
+        "bipballs in play": "210",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-06-07 16:17:13.854005"
+        "updated": "2025-06-07 16:17:22.185130"
     },
     "chc @ det": [
         {
@@ -3167,7 +3167,7 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4039,7 +4039,7 @@
             "team": "tex",
             "start": "4:05 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4131,7 +4131,7 @@
             "team": "pit",
             "start": "4:05 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "Game Advisory",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4238,10 +4238,10 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "72.1",
+            "la": "10",
+            "dist": "117"
         },
         {
             "player": "heliot ramos",
@@ -4330,10 +4330,10 @@
             "team": "ari",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "71.7",
+            "la": "27",
+            "dist": "243"
         },
         {
             "player": "ketel marte",
@@ -4414,6 +4414,21 @@
         }
     ],
     "kc @ chw": [
+        {
+            "player": "mike tauchman",
+            "game": "kc @ chw",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-06-07 16:17:18",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "103.2",
+            "la": "6",
+            "dist": "107"
+        },
         {
             "player": "maikel garcia",
             "game": "kc @ chw",
