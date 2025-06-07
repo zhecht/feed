@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "20",
         "batters": "79",
-        "pitches": "868",
+        "pitches": "870",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "36.3",
@@ -11,24 +11,24 @@
         "fs%splitter %": "6.2",
         "ch%changeup %": "13.0",
         "sl%slider %": "16.0",
-        "cu%curve %": "9.8",
+        "cu%curve %": "9.9",
         "max evmax exit velocity": "110.0",
         "hhhard hit": "52",
-        "hh%hard hit %": "32.5",
+        "hh%hard hit %": "32.3",
         "brlbarrels": "14",
-        "brl%barrel %": "8.8",
-        "ab": "209",
-        "avg": ".201",
+        "brl%barrel %": "8.7",
+        "ab": "210",
+        "avg": ".200",
         "h": "42",
         "1b": "27",
         "2b": "4",
         "3b": "1",
         "hr": "10",
         "so": "52",
-        "bipballs in play": "160",
+        "bipballs in play": "161",
         "liveGames": 4,
         "totGames": 16,
-        "updated": "2025-06-07 15:39:13.201200"
+        "updated": "2025-06-07 15:39:21.228505"
     },
     "chc @ det": [
         {
@@ -2226,6 +2226,21 @@
     ],
     "tor @ min": [
         {
+            "player": "george springer",
+            "game": "tor @ min",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-06-07 15:39:17",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "addison barger",
             "game": "tor @ min",
             "hr/park": "",
@@ -2235,10 +2250,10 @@
             "team": "tor",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "90.5",
+            "la": "-15",
+            "dist": "11"
         },
         {
             "player": "ryan jeffers",
