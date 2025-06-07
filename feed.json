@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "55",
         "batters": "199",
-        "pitches": "2427",
+        "pitches": "2428",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "31.9",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "35.0",
         "brlbarrels": "29",
         "brl%barrel %": "6.5",
-        "ab": "585",
-        "avg": ".226",
-        "h": "132",
-        "1b": "84",
+        "ab": "586",
+        "avg": ".227",
+        "h": "133",
+        "1b": "85",
         "2b": "19",
         "3b": "2",
         "hr": "27",
         "so": "149",
-        "bipballs in play": "448",
+        "bipballs in play": "449",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-06-07 17:51:31.847850"
+        "updated": "2025-06-07 17:51:41.961573"
     },
     "chc @ det": [
         {
@@ -6910,7 +6910,7 @@
             "team": "cin",
             "start": "4:10 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8977,6 +8977,21 @@
     ],
     "mia @ tb": [
         {
+            "player": "agustin ramirez",
+            "game": "mia @ tb",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-06-07 17:51:34",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "otto lopez",
             "game": "mia @ tb",
             "hr/park": "",
@@ -8986,10 +9001,10 @@
             "team": "mia",
             "start": "4:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "42.7",
+            "la": "-54",
+            "dist": "4"
         },
         {
             "player": "jesus sanchez",
