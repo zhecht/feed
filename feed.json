@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "41",
         "batters": "200",
-        "pitches": "1760",
+        "pitches": "1769",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "31.5",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.3",
         "fs%splitter %": "1.6",
         "ch%changeup %": "14.9",
-        "sl%slider %": "20.1",
-        "cu%curve %": "7.8",
+        "sl%slider %": "20.0",
+        "cu%curve %": "7.9",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "149",
-        "hh%hard hit %": "40.8",
+        "hhhard hit": "150",
+        "hh%hard hit %": "40.9",
         "brlbarrels": "32",
-        "brl%barrel %": "8.8",
-        "ab": "457",
-        "avg": ".254",
+        "brl%barrel %": "8.7",
+        "ab": "459",
+        "avg": ".253",
         "h": "116",
         "1b": "77",
         "2b": "19",
         "3b": "1",
         "hr": "19",
-        "so": "94",
-        "bipballs in play": "365",
+        "so": "95",
+        "bipballs in play": "367",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-06 21:06:26.999281"
+        "updated": "2025-06-06 21:06:36.459661"
     },
     "mia @ tb": [
         {
@@ -2543,6 +2543,21 @@
     ],
     "bos @ nyy": [
         {
+            "player": "aaron judge",
+            "game": "bos @ nyy",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-06-06 21:05:44",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trent grisham",
             "game": "bos @ nyy",
             "hr/park": "",
@@ -2552,7 +2567,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4823,7 +4838,7 @@
             "team": "cle",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5716,6 +5731,21 @@
     ],
     "kc @ chw": [
         {
+            "player": "vinnie pasquantino",
+            "game": "kc @ chw",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-06-06 21:06:30",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "108.6",
+            "la": "6",
+            "dist": "115"
+        },
+        {
             "player": "maikel garcia",
             "game": "kc @ chw",
             "hr/park": "",
@@ -5725,10 +5755,10 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "83.6",
+            "la": "-58",
+            "dist": "2"
         },
         {
             "player": "andrew benintendi",
