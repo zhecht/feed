@@ -2,12 +2,12 @@
     "all": {
         "pitchers": "30",
         "batters": "164",
-        "pitches": "1160",
+        "pitches": "1162",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "70.7",
         "ff%fourseam fastball %": "30.4",
-        "si%sinker %": "19.2",
-        "fc%cutter %": "5.8",
+        "si%sinker %": "19.3",
+        "fc%cutter %": "5.9",
         "fs%splitter %": "1.7",
         "ch%changeup %": "14.8",
         "sl%slider %": "21.6",
@@ -28,7 +28,7 @@
         "bipballs in play": "258",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-06 20:29:10.970975"
+        "updated": "2025-06-06 20:29:19.570357"
     },
     "mia @ tb": [
         {
@@ -1159,21 +1159,6 @@
     ],
     "phi @ pit": [
         {
-            "player": "henry davis",
-            "game": "phi @ pit",
-            "hr/park": "",
-            "pa": "14",
-            "dt": "2025-06-06 20:28:59",
-            "img": "https://www.mlbstatic.com/team-logos/134.svg",
-            "team": "pit",
-            "start": "6:40 PM",
-            "in": "2",
-            "result": "Flyout",
-            "evo": "94.1",
-            "la": "30",
-            "dist": "358"
-        },
-        {
             "player": "weston wilson",
             "game": "phi @ pit",
             "hr/park": "",
@@ -2228,6 +2213,21 @@
     ],
     "bos @ nyy": [
         {
+            "player": "aaron judge",
+            "game": "bos @ nyy",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-06-06 20:29:13",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trent grisham",
             "game": "bos @ nyy",
             "hr/park": "",
@@ -2674,7 +2674,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Sac Bunt",
             "evo": "32.3",
             "la": "-52",
             "dist": "3"
@@ -5015,6 +5015,21 @@
     ],
     "sd @ mil": [
         {
+            "player": "xander bogaerts",
+            "game": "sd @ mil",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-06-06 20:29:13",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gavin sheets",
             "game": "sd @ mil",
             "hr/park": "",
@@ -5024,10 +5039,10 @@
             "team": "sd",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "81.4",
+            "la": "11",
+            "dist": "135"
         },
         {
             "player": "jackson merrill",
