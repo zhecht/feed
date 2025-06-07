@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "38",
-        "batters": "118",
-        "pitches": "1160",
+        "batters": "120",
+        "pitches": "1171",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "34.1",
-        "si%sinker %": "12.4",
+        "si%sinker %": "12.5",
         "fc%cutter %": "8.5",
         "fs%splitter %": "6.1",
-        "ch%changeup %": "12.4",
-        "sl%slider %": "16.6",
-        "cu%curve %": "9.7",
+        "ch%changeup %": "12.5",
+        "sl%slider %": "16.4",
+        "cu%curve %": "9.8",
         "max evmax exit velocity": "111.1",
         "hhhard hit": "73",
         "hh%hard hit %": "32.9",
         "brlbarrels": "17",
         "brl%barrel %": "7.7",
-        "ab": "287",
-        "avg": ".209",
+        "ab": "289",
+        "avg": ".208",
         "h": "60",
         "1b": "39",
         "2b": "6",
@@ -28,7 +28,7 @@
         "bipballs in play": "222",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-06-07 16:20:56.203432"
+        "updated": "2025-06-07 16:21:04.652396"
     },
     "chc @ det": [
         {
@@ -4334,6 +4334,21 @@
     ],
     "atl @ sf": [
         {
+            "player": "michael harris",
+            "game": "atl @ sf",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-06-07 16:21:03",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "marcell ozuna",
             "game": "atl @ sf",
             "hr/park": "",
@@ -4533,16 +4548,31 @@
     ],
     "hou @ cle": [
         {
-            "player": "angel martinez",
+            "player": "jose ramirez",
             "game": "hou @ cle",
             "hr/park": "",
+            "pa": "6",
+            "dt": "2025-06-07 16:21:03",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "angel martinez",
+            "game": "hou @ cle",
+            "hr/park": "0/30",
             "pa": "5",
             "dt": "2025-06-07 16:19:17",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
             "team": "cle",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "80.6",
             "la": "28",
             "dist": "306"
