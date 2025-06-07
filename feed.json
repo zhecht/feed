@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "28",
         "batters": "144",
-        "pitches": "1000",
+        "pitches": "1008",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "70.7",
         "ff%fourseam fastball %": "31.5",
         "si%sinker %": "18.8",
-        "fc%cutter %": "4.8",
+        "fc%cutter %": "4.9",
         "fs%splitter %": "1.8",
         "ch%changeup %": "14.6",
-        "sl%slider %": "22.6",
+        "sl%slider %": "22.5",
         "cu%curve %": "5.9",
         "max evmax exit velocity": "113.2",
         "hhhard hit": "86",
-        "hh%hard hit %": "39.1",
+        "hh%hard hit %": "38.9",
         "brlbarrels": "18",
-        "brl%barrel %": "8.2",
-        "ab": "278",
-        "avg": ".252",
+        "brl%barrel %": "8.1",
+        "ab": "280",
+        "avg": ".250",
         "h": "70",
         "1b": "53",
         "2b": "8",
         "3b": "1",
         "hr": "8",
-        "so": "58",
-        "bipballs in play": "220",
+        "so": "59",
+        "bipballs in play": "221",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-06 20:18:58.560463"
+        "updated": "2025-06-06 20:19:07.055026"
     },
     "mia @ tb": [
         {
@@ -1168,7 +1168,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2982,6 +2982,21 @@
     ],
     "chc @ det": [
         {
+            "player": "parker meadows",
+            "game": "chc @ det",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-06-06 20:19:01",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "javier baez",
             "game": "chc @ det",
             "hr/park": "",
@@ -3508,6 +3523,21 @@
         }
     ],
     "hou @ cle": [
+        {
+            "player": "daniel schneemann",
+            "game": "hou @ cle",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-06-06 20:19:01",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jake meyers",
             "game": "hou @ cle",
@@ -4424,10 +4454,10 @@
             "team": "sd",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
+            "result": "GIDP",
+            "evo": "90.1",
             "la": "",
-            "dist": ""
+            "dist": "48"
         },
         {
             "player": "luis arraez",
