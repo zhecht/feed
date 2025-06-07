@@ -1,22 +1,22 @@
 {
     "all": {
-        "pitchers": "42",
+        "pitchers": "41",
         "batters": "200",
-        "pitches": "1779",
+        "pitches": "1783",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "31.5",
         "si%sinker %": "16.8",
-        "fc%cutter %": "7.4",
+        "fc%cutter %": "7.3",
         "fs%splitter %": "1.6",
         "ch%changeup %": "14.9",
         "sl%slider %": "20.0",
         "cu%curve %": "7.9",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "151",
-        "hh%hard hit %": "41.0",
+        "hhhard hit": "153",
+        "hh%hard hit %": "41.4",
         "brlbarrels": "32",
-        "brl%barrel %": "8.7",
+        "brl%barrel %": "8.6",
         "ab": "462",
         "avg": ".253",
         "h": "117",
@@ -24,11 +24,11 @@
         "2b": "19",
         "3b": "1",
         "hr": "19",
-        "so": "97",
-        "bipballs in play": "368",
+        "so": "98",
+        "bipballs in play": "370",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-06 21:07:39.491517"
+        "updated": "2025-06-06 21:07:50.056573"
     },
     "mia @ tb": [
         {
@@ -2543,6 +2543,21 @@
     ],
     "bos @ nyy": [
         {
+            "player": "cody bellinger",
+            "game": "bos @ nyy",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-06-06 21:07:45",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "aaron judge",
             "game": "bos @ nyy",
             "hr/park": "",
@@ -3972,21 +3987,6 @@
     ],
     "chc @ det": [
         {
-            "player": "seiya suzuki",
-            "game": "chc @ det",
-            "hr/park": "",
-            "pa": "58",
-            "dt": "2025-06-06 21:07:30",
-            "img": "https://www.mlbstatic.com/team-logos/112.svg",
-            "team": "chc",
-            "start": "7:10 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "kyle tucker",
             "game": "chc @ det",
             "hr/park": "",
@@ -4853,7 +4853,7 @@
             "team": "cle",
             "start": "7:10 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5755,10 +5755,10 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "98.5",
+            "la": "69",
+            "dist": "114"
         },
         {
             "player": "vinnie pasquantino",
@@ -6432,10 +6432,10 @@
             "team": "tor",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "100.1",
+            "la": "4",
+            "dist": "89"
         },
         {
             "player": "george springer",
