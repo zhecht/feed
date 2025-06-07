@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "45",
-        "batters": "180",
-        "pitches": "1538",
+        "batters": "181",
+        "pitches": "1543",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "34.1",
-        "si%sinker %": "12.2",
-        "fc%cutter %": "8.5",
+        "ff%fourseam fastball %": "34.2",
+        "si%sinker %": "12.4",
+        "fc%cutter %": "8.4",
         "fs%splitter %": "5.5",
         "ch%changeup %": "12.6",
-        "sl%slider %": "16.8",
+        "sl%slider %": "16.6",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "113.6",
         "hhhard hit": "99",
-        "hh%hard hit %": "34.5",
+        "hh%hard hit %": "34.4",
         "brlbarrels": "21",
         "brl%barrel %": "7.3",
-        "ab": "373",
-        "avg": ".225",
+        "ab": "375",
+        "avg": ".224",
         "h": "84",
         "1b": "56",
         "2b": "8",
         "3b": "2",
         "hr": "18",
         "so": "92",
-        "bipballs in play": "287",
+        "bipballs in play": "288",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-06-07 16:43:13.050355"
+        "updated": "2025-06-07 16:43:21.828822"
     },
     "chc @ det": [
         {
@@ -3333,9 +3333,9 @@
             "start": "2:15 PM",
             "in": "9",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "86.8",
+            "la": "16",
+            "dist": "239"
         },
         {
             "player": "shohei ohtani",
@@ -4662,6 +4662,36 @@
     ],
     "phi @ pit": [
         {
+            "player": "bryan reynolds",
+            "game": "phi @ pit",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-06-07 16:43:17",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "andrew mccutchen",
+            "game": "phi @ pit",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-06-07 16:43:17",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "102.9",
+            "la": "2",
+            "dist": "144"
+        },
+        {
             "player": "nick gonzales",
             "game": "phi @ pit",
             "hr/park": "",
@@ -4966,17 +4996,17 @@
         {
             "player": "patrick bailey",
             "game": "atl @ sf",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "19",
             "dt": "2025-06-07 16:42:17",
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
             "team": "sf",
             "start": "4:05 PM",
             "in": "3",
-            "result": "Flyout",
-            "evo": "103.5",
-            "la": "41",
-            "dist": "351"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "drake baldwin",
@@ -5253,7 +5283,7 @@
         {
             "player": "eugenio suarez",
             "game": "ari-gm2 @ cin-gm2",
-            "hr/park": "",
+            "hr/park": "20/30",
             "pa": "14",
             "dt": "2025-06-07 16:41:32",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
@@ -5463,6 +5493,21 @@
     ],
     "hou @ cle": [
         {
+            "player": "will wilson",
+            "game": "hou @ cle",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-06-07 16:43:17",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nolan jones",
             "game": "hou @ cle",
             "hr/park": "",
@@ -5472,7 +5517,7 @@
             "team": "cle",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
