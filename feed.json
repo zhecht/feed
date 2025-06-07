@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "15",
+        "pitchers": "16",
         "batters": "75",
-        "pitches": "616",
+        "pitches": "620",
         "max velomax pitch velocity": "100.5",
         "min velomin pitch velocity": "73.8",
-        "ff%fourseam fastball %": "34.6",
-        "si%sinker %": "11.5",
-        "fc%cutter %": "7.5",
-        "fs%splitter %": "4.1",
+        "ff%fourseam fastball %": "34.4",
+        "si%sinker %": "11.8",
+        "fc%cutter %": "7.4",
+        "fs%splitter %": "4.2",
         "ch%changeup %": "16.6",
-        "sl%slider %": "14.3",
+        "sl%slider %": "14.2",
         "cu%curve %": "11.5",
         "max evmax exit velocity": "110.0",
         "hhhard hit": "41",
-        "hh%hard hit %": "34.2",
+        "hh%hard hit %": "33.9",
         "brlbarrels": "12",
-        "brl%barrel %": "10.0",
-        "ab": "153",
-        "avg": ".196",
-        "h": "30",
-        "1b": "17",
+        "brl%barrel %": "9.9",
+        "ab": "155",
+        "avg": ".200",
+        "h": "31",
+        "1b": "18",
         "2b": "2",
         "3b": "1",
         "hr": "10",
-        "so": "34",
-        "bipballs in play": "120",
+        "so": "35",
+        "bipballs in play": "121",
         "liveGames": 4,
         "totGames": 16,
-        "updated": "2025-06-07 14:55:28.114670"
+        "updated": "2025-06-07 14:55:36.026132"
     },
     "chc @ det": [
         {
@@ -888,6 +888,21 @@
         }
     ],
     "ari @ cin": [
+        {
+            "player": "tj friedl",
+            "game": "ari @ cin",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-06-07 14:55:32",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "Suspended",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "eugenio suarez",
             "game": "ari @ cin",
@@ -1905,7 +1920,7 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2213,6 +2228,21 @@
     ],
     "lad @ stl": [
         {
+            "player": "freddie freeman",
+            "game": "lad @ stl",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-06-07 14:55:32",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "2:15 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mookie betts",
             "game": "lad @ stl",
             "hr/park": "",
@@ -2222,10 +2252,10 @@
             "team": "lad",
             "start": "2:15 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "70.2",
+            "la": "21",
+            "dist": "192"
         },
         {
             "player": "shohei ohtani",
