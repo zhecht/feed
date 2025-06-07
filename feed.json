@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "77",
-        "batters": "257",
-        "pitches": "2771",
+        "batters": "258",
+        "pitches": "2776",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "32.4",
-        "si%sinker %": "16.0",
+        "ff%fourseam fastball %": "32.3",
+        "si%sinker %": "15.9",
         "fc%cutter %": "9.0",
         "fs%splitter %": "3.0",
         "ch%changeup %": "12.7",
-        "sl%slider %": "19.9",
-        "cu%curve %": "7.0",
+        "sl%slider %": "20.0",
+        "cu%curve %": "7.1",
         "max evmax exit velocity": "113.4",
-        "hhhard hit": "219",
+        "hhhard hit": "220",
         "hh%hard hit %": "40.1",
         "brlbarrels": "43",
-        "brl%barrel %": "7.9",
-        "ab": "687",
+        "brl%barrel %": "7.8",
+        "ab": "689",
         "avg": ".242",
-        "h": "166",
-        "1b": "109",
+        "h": "167",
+        "1b": "110",
         "2b": "28",
         "3b": "3",
         "hr": "26",
         "so": "146",
-        "bipballs in play": "546",
+        "bipballs in play": "548",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-06 22:18:43.565809"
+        "updated": "2025-06-06 22:18:53.848859"
     },
     "mia @ tb": [
         {
@@ -8142,10 +8142,10 @@
             "team": "tor",
             "start": "8:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "100.2",
+            "la": "5",
+            "dist": "100"
         },
         {
             "player": "addison barger",
@@ -9044,7 +9044,7 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9921,6 +9921,21 @@
         }
     ],
     "lad @ stl": [
+        {
+            "player": "brendan donovan",
+            "game": "lad @ stl",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-06-06 22:18:46",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:15 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "masyn winn",
             "game": "lad @ stl",
@@ -11203,6 +11218,21 @@
     ],
     "bal @ ath": [
         {
+            "player": "brent rooker",
+            "game": "bal @ ath",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-06-06 22:18:46",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jacob wilson",
             "game": "bal @ ath",
             "hr/park": "",
@@ -11212,7 +11242,7 @@
             "team": "ath",
             "start": "10:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "80.7",
             "la": "26",
             "dist": "287"
