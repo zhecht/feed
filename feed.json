@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "26",
-        "batters": "136",
-        "pitches": "946",
+        "batters": "137",
+        "pitches": "949",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "70.7",
         "ff%fourseam fastball %": "31.5",
@@ -13,22 +13,22 @@
         "sl%slider %": "23.5",
         "cu%curve %": "5.7",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "79",
-        "hh%hard hit %": "38.3",
-        "brlbarrels": "15",
-        "brl%barrel %": "7.3",
-        "ab": "261",
-        "avg": ".253",
-        "h": "66",
+        "hhhard hit": "80",
+        "hh%hard hit %": "38.5",
+        "brlbarrels": "16",
+        "brl%barrel %": "7.7",
+        "ab": "262",
+        "avg": ".256",
+        "h": "67",
         "1b": "50",
         "2b": "8",
-        "3b": "0",
+        "3b": "1",
         "hr": "8",
         "so": "55",
-        "bipballs in play": "206",
+        "bipballs in play": "208",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-06 20:14:51.185649"
+        "updated": "2025-06-06 20:14:59.884505"
     },
     "mia @ tb": [
         {
@@ -1159,6 +1159,21 @@
     ],
     "phi @ pit": [
         {
+            "player": "nick gonzales",
+            "game": "phi @ pit",
+            "hr/park": "2/30",
+            "pa": "7",
+            "dt": "2025-06-06 20:14:59",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "1",
+            "result": "Triple",
+            "evo": "101.4",
+            "la": "24",
+            "dist": "372"
+        },
+        {
             "player": "oneil cruz",
             "game": "phi @ pit",
             "hr/park": "",
@@ -1260,10 +1275,10 @@
             "team": "wsh",
             "start": "6:45 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "75.6",
+            "la": "-30",
+            "dist": "4"
         },
         {
             "player": "robert hassell",
@@ -4122,7 +4137,7 @@
             "team": "tor",
             "start": "8:10 PM",
             "in": "1",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "101.6",
             "la": "-24",
             "dist": "5"
