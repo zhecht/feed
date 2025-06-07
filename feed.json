@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "72",
         "batters": "247",
-        "pitches": "2643",
+        "pitches": "2652",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "32.5",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "40.0",
         "brlbarrels": "43",
         "brl%barrel %": "8.3",
-        "ab": "654",
-        "avg": ".245",
+        "ab": "657",
+        "avg": ".244",
         "h": "160",
         "1b": "104",
         "2b": "27",
@@ -28,7 +28,7 @@
         "bipballs in play": "520",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-06 22:10:38.542878"
+        "updated": "2025-06-06 22:10:48.988764"
     },
     "mia @ tb": [
         {
@@ -1159,9 +1159,24 @@
     ],
     "phi @ pit": [
         {
-            "player": "jared triolo",
+            "player": "isiah kiner falefa",
             "game": "phi @ pit",
             "hr/park": "",
+            "pa": "58",
+            "dt": "2025-06-06 22:10:45",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jared triolo",
+            "game": "phi @ pit",
+            "hr/park": "0/30",
             "pa": "57",
             "dt": "2025-06-06 22:09:29",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
@@ -2933,6 +2948,21 @@
     ],
     "bos @ nyy": [
         {
+            "player": "trevor story",
+            "game": "bos @ nyy",
+            "hr/park": "",
+            "pa": "74",
+            "dt": "2025-06-06 22:10:45",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "romy gonzalez",
             "game": "bos @ nyy",
             "hr/park": "",
@@ -2942,7 +2972,7 @@
             "team": "bos",
             "start": "7:05 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "88.6",
             "la": "-19",
             "dist": "8"
@@ -7938,6 +7968,21 @@
     ],
     "tor @ min": [
         {
+            "player": "byron buxton",
+            "game": "tor @ min",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-06 22:10:45",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "7",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "christian vazquez",
             "game": "tor @ min",
             "hr/park": "",
@@ -7947,7 +7992,7 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "82.0",
             "la": "8",
             "dist": "127"
