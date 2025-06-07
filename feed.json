@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "41",
+        "pitchers": "42",
         "batters": "200",
-        "pitches": "1774",
+        "pitches": "1779",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "31.5",
-        "si%sinker %": "16.7",
-        "fc%cutter %": "7.3",
+        "si%sinker %": "16.8",
+        "fc%cutter %": "7.4",
         "fs%splitter %": "1.6",
         "ch%changeup %": "14.9",
-        "sl%slider %": "20.1",
+        "sl%slider %": "20.0",
         "cu%curve %": "7.9",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "150",
-        "hh%hard hit %": "40.9",
+        "hhhard hit": "151",
+        "hh%hard hit %": "41.0",
         "brlbarrels": "32",
         "brl%barrel %": "8.7",
-        "ab": "459",
-        "avg": ".255",
+        "ab": "462",
+        "avg": ".253",
         "h": "117",
         "1b": "78",
         "2b": "19",
         "3b": "1",
         "hr": "19",
         "so": "97",
-        "bipballs in play": "367",
+        "bipballs in play": "368",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-06 21:07:25.460922"
+        "updated": "2025-06-06 21:07:39.491517"
     },
     "mia @ tb": [
         {
@@ -3972,6 +3972,21 @@
     ],
     "chc @ det": [
         {
+            "player": "seiya suzuki",
+            "game": "chc @ det",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-06-06 21:07:30",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle tucker",
             "game": "chc @ det",
             "hr/park": "",
@@ -4838,7 +4853,7 @@
             "team": "cle",
             "start": "7:10 PM",
             "in": "7",
-            "result": "Strikeout",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5730,6 +5745,36 @@
         }
     ],
     "kc @ chw": [
+        {
+            "player": "salvador perez",
+            "game": "kc @ chw",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-06-06 21:07:30",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "vinnie pasquantino",
+            "game": "kc @ chw",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-06-06 21:06:30",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "108.6",
+            "la": "6",
+            "dist": "115"
+        },
         {
             "player": "maikel garcia",
             "game": "kc @ chw",
@@ -6809,7 +6854,7 @@
             "team": "sd",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
