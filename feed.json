@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "13",
-        "batters": "60",
-        "pitches": "466",
+        "batters": "61",
+        "pitches": "469",
         "max velomax pitch velocity": "100.5",
         "min velomin pitch velocity": "76.4",
-        "ff%fourseam fastball %": "36.7",
-        "si%sinker %": "11.6",
+        "ff%fourseam fastball %": "36.5",
+        "si%sinker %": "11.7",
         "fc%cutter %": "6.2",
         "fs%splitter %": "1.9",
-        "ch%changeup %": "18.7",
-        "sl%slider %": "11.4",
-        "cu%curve %": "13.5",
+        "ch%changeup %": "18.8",
+        "sl%slider %": "11.5",
+        "cu%curve %": "13.4",
         "max evmax exit velocity": "110.0",
         "hhhard hit": "31",
-        "hh%hard hit %": "34.1",
+        "hh%hard hit %": "33.3",
         "brlbarrels": "8",
-        "brl%barrel %": "8.8",
+        "brl%barrel %": "8.6",
         "ab": "116",
         "avg": ".207",
         "h": "24",
@@ -25,26 +25,26 @@
         "3b": "1",
         "hr": "7",
         "so": "24",
-        "bipballs in play": "91",
+        "bipballs in play": "93",
         "liveGames": 4,
         "totGames": 16,
-        "updated": "2025-06-07 14:35:24.972255"
+        "updated": "2025-06-07 14:35:32.609643"
     },
     "chc @ det": [
         {
             "player": "michael busch",
             "game": "chc @ det",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "47",
             "dt": "2025-06-07 14:34:49",
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
             "team": "chc",
             "start": "1:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "93.3",
+            "la": "39",
+            "dist": "308"
         },
         {
             "player": "nico hoerner",
@@ -1635,10 +1635,10 @@
             "team": "tor",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "58.7",
+            "la": "-11",
+            "dist": "10"
         },
         {
             "player": "andres gimenez",
@@ -1793,6 +1793,21 @@
     ],
     "lad @ stl": [
         {
+            "player": "andy pages",
+            "game": "lad @ stl",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-06-07 14:35:32",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "2:15 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "max muncy",
             "game": "lad @ stl",
             "hr/park": "",
@@ -1802,7 +1817,7 @@
             "team": "lad",
             "start": "2:15 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
