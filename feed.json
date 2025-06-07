@@ -2,13 +2,13 @@
     "all": {
         "pitchers": "60",
         "batters": "201",
-        "pitches": "2572",
+        "pitches": "2576",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "31.4",
         "si%sinker %": "14.8",
-        "fc%cutter %": "8.4",
-        "fs%splitter %": "4.1",
+        "fc%cutter %": "8.5",
+        "fs%splitter %": "4.0",
         "ch%changeup %": "13.4",
         "sl%slider %": "17.7",
         "cu%curve %": "9.9",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "35.5",
         "brlbarrels": "29",
         "brl%barrel %": "6.1",
-        "ab": "618",
+        "ab": "619",
         "avg": ".233",
         "h": "144",
         "1b": "92",
         "2b": "23",
         "3b": "2",
         "hr": "27",
-        "so": "156",
+        "so": "158",
         "bipballs in play": "473",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-06-07 18:02:13.361340"
+        "updated": "2025-06-07 18:02:23.436188"
     },
     "chc @ det": [
         {
@@ -4534,10 +4534,10 @@
             "team": "tex",
             "start": "4:05 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "79.0",
+            "la": "50",
+            "dist": "216"
         },
         {
             "player": "adolis garcia",
@@ -5391,10 +5391,10 @@
             "team": "pit",
             "start": "4:05 PM",
             "in": "8",
-            "result": "Flyout",
-            "evo": "89.7",
-            "la": "30",
-            "dist": "323"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "bryan reynolds",
@@ -7171,6 +7171,21 @@
     ],
     "ari-gm2 @ cin-gm2": [
         {
+            "player": "geraldo perdomo",
+            "game": "ari-gm2 @ cin-gm2",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-06-07 18:02:18",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose herrera",
             "game": "ari-gm2 @ cin-gm2",
             "hr/park": "",
@@ -7872,7 +7887,7 @@
             "team": "cle",
             "start": "4:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8654,7 +8669,7 @@
             "team": "chw",
             "start": "4:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
