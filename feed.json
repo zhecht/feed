@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "49",
         "batters": "193",
-        "pitches": "2200",
+        "pitches": "2206",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "32.3",
-        "si%sinker %": "13.4",
+        "ff%fourseam fastball %": "32.2",
+        "si%sinker %": "13.5",
         "fc%cutter %": "8.5",
         "fs%splitter %": "4.5",
         "ch%changeup %": "13.4",
-        "sl%slider %": "17.7",
-        "cu%curve %": "9.9",
+        "sl%slider %": "17.6",
+        "cu%curve %": "9.8",
         "max evmax exit velocity": "113.6",
         "hhhard hit": "147",
-        "hh%hard hit %": "35.6",
+        "hh%hard hit %": "35.5",
         "brlbarrels": "27",
         "brl%barrel %": "6.5",
         "ab": "539",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "24",
         "so": "137",
-        "bipballs in play": "413",
+        "bipballs in play": "414",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-06-07 17:34:26.027665"
+        "updated": "2025-06-07 17:34:35.889731"
     },
     "chc @ det": [
         {
@@ -4534,7 +4534,7 @@
             "team": "tex",
             "start": "4:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6580,7 +6580,7 @@
             "team": "ari",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7052,6 +7052,21 @@
         }
     ],
     "hou @ cle": [
+        {
+            "player": "steven kwan",
+            "game": "hou @ cle",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-06-07 17:34:32",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "will wilson",
             "game": "hou @ cle",
@@ -8296,10 +8311,10 @@
             "team": "tb",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "87.9",
+            "la": "29",
+            "dist": "311"
         },
         {
             "player": "danny jansen",
