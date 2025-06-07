@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "41",
         "batters": "200",
-        "pitches": "1756",
+        "pitches": "1760",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "31.3",
-        "si%sinker %": "16.9",
+        "ff%fourseam fastball %": "31.5",
+        "si%sinker %": "16.8",
         "fc%cutter %": "7.3",
         "fs%splitter %": "1.6",
         "ch%changeup %": "14.9",
-        "sl%slider %": "20.0",
-        "cu%curve %": "7.9",
+        "sl%slider %": "20.1",
+        "cu%curve %": "7.8",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "148",
+        "hhhard hit": "149",
         "hh%hard hit %": "40.8",
         "brlbarrels": "32",
         "brl%barrel %": "8.8",
-        "ab": "456",
+        "ab": "457",
         "avg": ".254",
         "h": "116",
         "1b": "77",
         "2b": "19",
         "3b": "1",
         "hr": "19",
-        "so": "95",
-        "bipballs in play": "363",
+        "so": "94",
+        "bipballs in play": "365",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-06 21:06:08.123865"
+        "updated": "2025-06-06 21:06:17.616647"
     },
     "mia @ tb": [
         {
@@ -1158,6 +1158,21 @@
         }
     ],
     "phi @ pit": [
+        {
+            "player": "johan rojas",
+            "game": "phi @ pit",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-06-06 21:06:14",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "weston wilson",
             "game": "phi @ pit",
@@ -2528,21 +2543,6 @@
     ],
     "bos @ nyy": [
         {
-            "player": "aaron judge",
-            "game": "bos @ nyy",
-            "hr/park": "",
-            "pa": "47",
-            "dt": "2025-06-06 21:05:44",
-            "img": "https://www.mlbstatic.com/team-logos/147.svg",
-            "team": "nyy",
-            "start": "7:05 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "trent grisham",
             "game": "bos @ nyy",
             "hr/park": "",
@@ -2552,7 +2552,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "5",
-            "result": "Strikeout",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4814,11 +4814,11 @@
     ],
     "hou @ cle": [
         {
-            "player": "will wilson",
+            "player": "dom nunez",
             "game": "hou @ cle",
             "hr/park": "",
-            "pa": "59",
-            "dt": "2025-06-06 21:04:29",
+            "pa": "60",
+            "dt": "2025-06-06 21:06:14",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
             "team": "cle",
             "start": "7:10 PM",
@@ -4827,6 +4827,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "will wilson",
+            "game": "hou @ cle",
+            "hr/park": "0/30",
+            "pa": "59",
+            "dt": "2025-06-06 21:04:29",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "Flyout",
+            "evo": "96.8",
+            "la": "31",
+            "dist": "358"
         },
         {
             "player": "jhonkensy noel",
@@ -7187,10 +7202,10 @@
             "team": "nym",
             "start": "8:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "86.4",
+            "la": "-10",
+            "dist": "14"
         },
         {
             "player": "francisco alvarez",
