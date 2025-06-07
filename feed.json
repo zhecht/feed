@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "38",
+        "pitchers": "39",
         "batters": "191",
-        "pitches": "1568",
+        "pitches": "1574",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "70.7",
-        "ff%fourseam fastball %": "31.2",
+        "ff%fourseam fastball %": "31.3",
         "si%sinker %": "17.1",
         "fc%cutter %": "7.1",
-        "fs%splitter %": "1.7",
-        "ch%changeup %": "15.4",
+        "fs%splitter %": "1.8",
+        "ch%changeup %": "15.3",
         "sl%slider %": "20.0",
-        "cu%curve %": "7.5",
+        "cu%curve %": "7.4",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "131",
-        "hh%hard hit %": "39.9",
+        "hhhard hit": "133",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "29",
         "brl%barrel %": "8.8",
-        "ab": "415",
-        "avg": ".251",
+        "ab": "416",
+        "avg": ".250",
         "h": "104",
         "1b": "69",
         "2b": "17",
         "3b": "1",
         "hr": "17",
-        "so": "87",
-        "bipballs in play": "328",
+        "so": "88",
+        "bipballs in play": "331",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-06 20:54:41.221471"
+        "updated": "2025-06-06 20:54:50.462299"
     },
     "mia @ tb": [
         {
@@ -1168,7 +1168,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3764,17 +3764,17 @@
         {
             "player": "parker meadows",
             "game": "chc @ det",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "53",
             "dt": "2025-06-06 20:52:29",
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
             "team": "det",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "97.2",
+            "la": "36",
+            "dist": "350"
         },
         {
             "player": "javier baez",
@@ -5943,6 +5943,21 @@
     ],
     "tor @ min": [
         {
+            "player": "trevor larnach",
+            "game": "tor @ min",
+            "hr/park": "0/30",
+            "pa": "21",
+            "dt": "2025-06-06 20:54:44",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "87.6",
+            "la": "27",
+            "dist": "319"
+        },
+        {
             "player": "bo bichette",
             "game": "tor @ min",
             "hr/park": "",
@@ -6572,10 +6587,10 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "109.7",
+            "la": "1",
+            "dist": "66"
         },
         {
             "player": "thairo estrada",
