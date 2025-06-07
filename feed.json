@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "26",
-        "batters": "137",
-        "pitches": "953",
+        "batters": "138",
+        "pitches": "954",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "70.7",
-        "ff%fourseam fastball %": "31.6",
-        "si%sinker %": "18.7",
+        "ff%fourseam fastball %": "31.4",
+        "si%sinker %": "18.8",
         "fc%cutter %": "4.5",
         "fs%splitter %": "1.9",
-        "ch%changeup %": "14.2",
+        "ch%changeup %": "14.3",
         "sl%slider %": "23.5",
         "cu%curve %": "5.7",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "80",
-        "hh%hard hit %": "38.1",
-        "brlbarrels": "16",
-        "brl%barrel %": "7.6",
-        "ab": "262",
-        "avg": ".256",
+        "hhhard hit": "81",
+        "hh%hard hit %": "38.6",
+        "brlbarrels": "17",
+        "brl%barrel %": "8.1",
+        "ab": "261",
+        "avg": ".257",
         "h": "67",
         "1b": "50",
         "2b": "8",
@@ -28,7 +28,7 @@
         "bipballs in play": "210",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-06 20:15:25.348891"
+        "updated": "2025-06-06 20:15:33.636697"
     },
     "mia @ tb": [
         {
@@ -3344,21 +3344,6 @@
     ],
     "hou @ cle": [
         {
-            "player": "christian walker",
-            "game": "hou @ cle",
-            "hr/park": "",
-            "pa": "35",
-            "dt": "2025-06-06 20:15:14",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "7:10 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "79.9",
-            "la": "39",
-            "dist": "260"
-        },
-        {
             "player": "jose altuve",
             "game": "hou @ cle",
             "hr/park": "",
@@ -3880,7 +3865,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Caught Stealing Home",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4143,6 +4128,21 @@
     ],
     "tor @ min": [
         {
+            "player": "addison barger",
+            "game": "tor @ min",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-06-06 20:15:29",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "Flyout",
+            "evo": "105.5",
+            "la": "23",
+            "dist": "384"
+        },
+        {
             "player": "vladimir guerrero",
             "game": "tor @ min",
             "hr/park": "",
@@ -4152,7 +4152,7 @@
             "team": "tor",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "101.6",
             "la": "-24",
             "dist": "5"
@@ -4184,7 +4184,7 @@
             "team": "sd",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
