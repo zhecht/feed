@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "68",
         "batters": "201",
-        "pitches": "2660",
+        "pitches": "2664",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "31.3",
@@ -10,14 +10,14 @@
         "fc%cutter %": "8.2",
         "fs%splitter %": "4.0",
         "ch%changeup %": "13.1",
-        "sl%slider %": "18.3",
+        "sl%slider %": "18.4",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "113.6",
         "hhhard hit": "173",
-        "hh%hard hit %": "35.3",
+        "hh%hard hit %": "35.2",
         "brlbarrels": "29",
         "brl%barrel %": "5.9",
-        "ab": "643",
+        "ab": "644",
         "avg": ".230",
         "h": "148",
         "1b": "96",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "27",
         "so": "165",
-        "bipballs in play": "490",
+        "bipballs in play": "492",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-06-07 18:09:55.303369"
+        "updated": "2025-06-07 18:10:05.314166"
     },
     "chc @ det": [
         {
@@ -6368,10 +6368,10 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "88.3",
+            "la": "69",
+            "dist": "142"
         },
         {
             "player": "heliot ramos",
@@ -7345,7 +7345,7 @@
             "team": "cin",
             "start": "4:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9816,6 +9816,21 @@
         }
     ],
     "mia @ tb": [
+        {
+            "player": "xavier edwards",
+            "game": "mia @ tb",
+            "hr/park": "0/30",
+            "pa": "51",
+            "dt": "2025-06-07 18:10:03",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "4:10 PM",
+            "in": "6",
+            "result": "Lineout",
+            "evo": "94.9",
+            "la": "21",
+            "dist": "339"
+        },
         {
             "player": "nick fortes",
             "game": "mia @ tb",
