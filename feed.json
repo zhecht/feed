@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "59",
-        "batters": "216",
-        "pitches": "2225",
+        "pitchers": "60",
+        "batters": "218",
+        "pitches": "2232",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "32.4",
         "si%sinker %": "15.9",
-        "fc%cutter %": "8.5",
+        "fc%cutter %": "8.6",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "13.3",
+        "ch%changeup %": "13.4",
         "sl%slider %": "20.1",
         "cu%curve %": "7.8",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "179",
-        "hh%hard hit %": "40.2",
+        "hhhard hit": "180",
+        "hh%hard hit %": "40.4",
         "brlbarrels": "37",
         "brl%barrel %": "8.3",
-        "ab": "556",
-        "avg": ".254",
+        "ab": "559",
+        "avg": ".252",
         "h": "141",
         "1b": "93",
         "2b": "23",
         "3b": "2",
         "hr": "23",
-        "so": "117",
-        "bipballs in play": "445",
+        "so": "118",
+        "bipballs in play": "446",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-06 21:41:07.408907"
+        "updated": "2025-06-06 21:41:17.594916"
     },
     "mia @ tb": [
         {
@@ -1168,7 +1168,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8000,6 +8000,21 @@
     ],
     "sd @ mil": [
         {
+            "player": "gavin sheets",
+            "game": "sd @ mil",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-06-06 21:40:01",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jackson merrill",
             "game": "sd @ mil",
             "hr/park": "",
@@ -8647,6 +8662,21 @@
     ],
     "lad @ stl": [
         {
+            "player": "masyn winn",
+            "game": "lad @ stl",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-06-06 21:41:14",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "lars nootbaar",
             "game": "lad @ stl",
             "hr/park": "",
@@ -8656,10 +8686,10 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "104.2",
+            "la": "-23",
+            "dist": "6"
         },
         {
             "player": "teoscar hernandez",
@@ -9159,7 +9189,23 @@
             "dist": "312"
         }
     ],
-    "sea @ laa": [],
+    "sea @ laa": [
+        {
+            "player": "jp crawford",
+            "game": "sea @ laa",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-06 21:41:14",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "bal @ ath": [],
     "atl @ sf": []
 }
