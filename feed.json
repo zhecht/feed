@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "43",
         "batters": "158",
-        "pitches": "1394",
+        "pitches": "1396",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "34.1",
-        "si%sinker %": "12.3",
-        "fc%cutter %": "8.3",
+        "ff%fourseam fastball %": "34.0",
+        "si%sinker %": "12.2",
+        "fc%cutter %": "8.5",
         "fs%splitter %": "5.6",
         "ch%changeup %": "12.3",
         "sl%slider %": "16.8",
         "cu%curve %": "10.4",
         "max evmax exit velocity": "112.4",
         "hhhard hit": "88",
-        "hh%hard hit %": "34.0",
+        "hh%hard hit %": "33.8",
         "brlbarrels": "19",
         "brl%barrel %": "7.3",
         "ab": "340",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "15",
         "so": "81",
-        "bipballs in play": "259",
+        "bipballs in play": "260",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-06-07 16:33:56.367011"
+        "updated": "2025-06-07 16:34:05.060118"
     },
     "chc @ det": [
         {
@@ -2235,7 +2235,7 @@
             "team": "tor",
             "start": "2:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4491,10 +4491,10 @@
             "team": "pit",
             "start": "4:05 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "50.0",
+            "la": "45",
+            "dist": "134"
         },
         {
             "player": "jared triolo",
