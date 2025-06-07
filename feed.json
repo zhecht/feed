@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "25",
-        "batters": "134",
-        "pitches": "921",
+        "pitchers": "26",
+        "batters": "135",
+        "pitches": "933",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "70.7",
-        "ff%fourseam fastball %": "31.7",
+        "ff%fourseam fastball %": "31.3",
         "si%sinker %": "18.9",
-        "fc%cutter %": "4.2",
-        "fs%splitter %": "2.0",
-        "ch%changeup %": "14.2",
-        "sl%slider %": "23.1",
-        "cu%curve %": "5.9",
+        "fc%cutter %": "4.4",
+        "fs%splitter %": "1.9",
+        "ch%changeup %": "14.3",
+        "sl%slider %": "23.5",
+        "cu%curve %": "5.8",
         "max evmax exit velocity": "113.2",
         "hhhard hit": "78",
-        "hh%hard hit %": "38.4",
+        "hh%hard hit %": "38.2",
         "brlbarrels": "15",
         "brl%barrel %": "7.4",
-        "ab": "257",
-        "avg": ".253",
+        "ab": "259",
+        "avg": ".251",
         "h": "65",
         "1b": "49",
         "2b": "8",
         "3b": "0",
         "hr": "8",
         "so": "53",
-        "bipballs in play": "203",
+        "bipballs in play": "204",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-06 20:13:35.359023"
+        "updated": "2025-06-06 20:13:43.831055"
     },
     "mia @ tb": [
         {
@@ -1260,10 +1260,10 @@
             "team": "wsh",
             "start": "6:45 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "84.9",
+            "la": "-16",
+            "dist": "9"
         },
         {
             "player": "riley adams",
@@ -2003,6 +2003,21 @@
     ],
     "bos @ nyy": [
         {
+            "player": "anthony volpe",
+            "game": "bos @ nyy",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-06-06 20:13:43",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jasson dominguez",
             "game": "bos @ nyy",
             "hr/park": "",
@@ -2344,7 +2359,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "4",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4092,7 +4107,7 @@
             "team": "tor",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4109,7 +4124,7 @@
             "team": "sd",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
