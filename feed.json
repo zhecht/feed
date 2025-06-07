@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "31",
+        "pitchers": "33",
         "batters": "95",
-        "pitches": "1030",
+        "pitches": "1036",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "35.2",
-        "si%sinker %": "11.9",
-        "fc%cutter %": "8.0",
+        "ff%fourseam fastball %": "35.1",
+        "si%sinker %": "12.2",
+        "fc%cutter %": "8.1",
         "fs%splitter %": "6.9",
         "ch%changeup %": "11.8",
         "sl%slider %": "15.5",
-        "cu%curve %": "10.4",
+        "cu%curve %": "10.2",
         "max evmax exit velocity": "111.1",
         "hhhard hit": "64",
-        "hh%hard hit %": "33.0",
+        "hh%hard hit %": "32.7",
         "brlbarrels": "15",
         "brl%barrel %": "7.7",
-        "ab": "253",
+        "ab": "254",
         "avg": ".209",
         "h": "53",
         "1b": "36",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "12",
         "so": "60",
-        "bipballs in play": "194",
+        "bipballs in play": "196",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-06-07 16:12:54.944308"
+        "updated": "2025-06-07 16:13:03.458659"
     },
     "chc @ det": [
         {
@@ -2226,6 +2226,21 @@
     ],
     "tor @ min": [
         {
+            "player": "addison barger",
+            "game": "tor @ min",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-06-07 16:13:02",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "89.8",
+            "la": "11",
+            "dist": "176"
+        },
+        {
             "player": "carlos correa",
             "game": "tor @ min",
             "hr/park": "",
@@ -3122,7 +3137,7 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3955,21 +3970,6 @@
     ],
     "tex @ wsh": [
         {
-            "player": "marcus semien",
-            "game": "tex @ wsh",
-            "hr/park": "",
-            "pa": "4",
-            "dt": "2025-06-07 16:12:49",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "4:05 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "josh jung",
             "game": "tex @ wsh",
             "hr/park": "",
@@ -4093,6 +4093,21 @@
         }
     ],
     "atl @ sf": [
+        {
+            "player": "daniel johnson",
+            "game": "atl @ sf",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-06-07 16:13:02",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "72.5",
+            "la": "-12",
+            "dist": "11"
+        },
         {
             "player": "austin riley",
             "game": "atl @ sf",
