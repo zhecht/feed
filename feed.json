@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "37",
         "batters": "187",
-        "pitches": "1499",
+        "pitches": "1510",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "70.7",
         "ff%fourseam fastball %": "30.8",
@@ -10,25 +10,25 @@
         "fc%cutter %": "6.9",
         "fs%splitter %": "1.7",
         "ch%changeup %": "15.5",
-        "sl%slider %": "20.2",
+        "sl%slider %": "20.1",
         "cu%curve %": "7.5",
         "max evmax exit velocity": "113.2",
         "hhhard hit": "128",
-        "hh%hard hit %": "40.5",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "27",
         "brl%barrel %": "8.5",
-        "ab": "396",
-        "avg": ".253",
-        "h": "100",
-        "1b": "67",
+        "ab": "401",
+        "avg": ".252",
+        "h": "101",
+        "1b": "68",
         "2b": "17",
         "3b": "1",
         "hr": "15",
         "so": "83",
-        "bipballs in play": "316",
+        "bipballs in play": "318",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-06 20:50:43.141478"
+        "updated": "2025-06-06 20:50:52.293385"
     },
     "mia @ tb": [
         {
@@ -1159,6 +1159,21 @@
     ],
     "phi @ pit": [
         {
+            "player": "nick gonzales",
+            "game": "phi @ pit",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-06-06 20:50:46",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "oneil cruz",
             "game": "phi @ pit",
             "hr/park": "",
@@ -1168,7 +1183,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "103.0",
             "la": "-8",
             "dist": "20"
@@ -3672,6 +3687,21 @@
     ],
     "chc @ det": [
         {
+            "player": "zach mckinstry",
+            "game": "chc @ det",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-06-06 20:50:46",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nico hoerner",
             "game": "chc @ det",
             "hr/park": "",
@@ -5757,7 +5787,7 @@
             "team": "tor",
             "start": "8:10 PM",
             "in": "3",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6034,6 +6064,36 @@
         }
     ],
     "sd @ mil": [
+        {
+            "player": "manny machado",
+            "game": "sd @ mil",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-06-06 20:50:46",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "Pop Out",
+            "evo": "61.9",
+            "la": "32",
+            "dist": "186"
+        },
+        {
+            "player": "luis arraez",
+            "game": "sd @ mil",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-06-06 20:50:46",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "Single",
+            "evo": "91.5",
+            "la": "-12",
+            "dist": "16"
+        },
         {
             "player": "fernando tatis",
             "game": "sd @ mil",
