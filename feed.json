@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "13",
-        "batters": "58",
-        "pitches": "452",
+        "batters": "57",
+        "pitches": "453",
         "max velomax pitch velocity": "100.5",
         "min velomin pitch velocity": "76.4",
         "ff%fourseam fastball %": "36.9",
-        "si%sinker %": "11.7",
-        "fc%cutter %": "5.8",
+        "si%sinker %": "11.0",
+        "fc%cutter %": "6.2",
         "fs%splitter %": "2.0",
-        "ch%changeup %": "19.2",
-        "sl%slider %": "10.6",
+        "ch%changeup %": "19.0",
+        "sl%slider %": "11.3",
         "cu%curve %": "13.7",
         "max evmax exit velocity": "110.0",
         "hhhard hit": "30",
-        "hh%hard hit %": "33.7",
+        "hh%hard hit %": "34.1",
         "brlbarrels": "7",
-        "brl%barrel %": "7.9",
+        "brl%barrel %": "8.0",
         "ab": "112",
         "avg": ".205",
         "h": "23",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "7",
         "so": "24",
-        "bipballs in play": "89",
+        "bipballs in play": "88",
         "liveGames": 4,
         "totGames": 16,
-        "updated": "2025-06-07 14:34:31.527195"
+        "updated": "2025-06-07 14:34:39.123479"
     },
     "chc @ det": [
         {
@@ -41,7 +41,7 @@
             "team": "chc",
             "start": "1:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "86.2",
             "la": "-1",
             "dist": "22"
@@ -723,6 +723,21 @@
         }
     ],
     "ari @ cin": [
+        {
+            "player": "tim tawa",
+            "game": "ari @ cin",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-06-07 14:34:03",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "Suspended",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ildemaro vargas",
             "game": "ari @ cin",
@@ -1733,21 +1748,6 @@
     ],
     "lad @ stl": [
         {
-            "player": "max muncy",
-            "game": "lad @ stl",
-            "hr/park": "",
-            "pa": "10",
-            "dt": "2025-06-07 14:34:18",
-            "img": "https://www.mlbstatic.com/team-logos/119.svg",
-            "team": "lad",
-            "start": "2:15 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "will smith",
             "game": "lad @ stl",
             "hr/park": "",
@@ -1757,10 +1757,10 @@
             "team": "lad",
             "start": "2:15 PM",
             "in": "2",
-            "result": "Lineout",
-            "evo": "87.0",
-            "la": "23",
-            "dist": "298"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "alec burleson",
