@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "55",
-        "batters": "213",
-        "pitches": "2153",
+        "batters": "214",
+        "pitches": "2158",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "32.6",
-        "si%sinker %": "16.0",
+        "ff%fourseam fastball %": "32.5",
+        "si%sinker %": "15.9",
         "fc%cutter %": "8.2",
         "fs%splitter %": "1.9",
         "ch%changeup %": "13.5",
-        "sl%slider %": "20.0",
+        "sl%slider %": "20.1",
         "cu%curve %": "7.8",
         "max evmax exit velocity": "113.2",
         "hhhard hit": "178",
-        "hh%hard hit %": "40.9",
+        "hh%hard hit %": "40.6",
         "brlbarrels": "37",
-        "brl%barrel %": "8.5",
-        "ab": "542",
-        "avg": ".256",
-        "h": "139",
+        "brl%barrel %": "8.4",
+        "ab": "543",
+        "avg": ".258",
+        "h": "140",
         "1b": "92",
-        "2b": "22",
+        "2b": "23",
         "3b": "2",
         "hr": "23",
-        "so": "113",
-        "bipballs in play": "435",
+        "so": "114",
+        "bipballs in play": "438",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-06 21:35:19.806629"
+        "updated": "2025-06-06 21:35:29.610991"
     },
     "mia @ tb": [
         {
@@ -1161,17 +1161,17 @@
         {
             "player": "edmundo sosa",
             "game": "phi @ pit",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "42",
             "dt": "2025-06-06 21:34:00",
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "91.2",
+            "la": "31",
+            "dist": "349"
         },
         {
             "player": "jt realmuto",
@@ -2717,10 +2717,10 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "78.7",
+            "la": "45",
+            "dist": "255"
         },
         {
             "player": "jazz chisholm",
@@ -5319,9 +5319,9 @@
             "start": "7:10 PM",
             "in": "9",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "79.6",
+            "la": "33",
+            "dist": "259"
         },
         {
             "player": "christian walker",
@@ -7844,7 +7844,7 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "5",
-            "result": "Stolen Base 2B",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8452,6 +8452,21 @@
     ],
     "lad @ stl": [
         {
+            "player": "freddie freeman",
+            "game": "lad @ stl",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-06-06 21:35:29",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "8:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mookie betts",
             "game": "lad @ stl",
             "hr/park": "",
@@ -8461,7 +8476,7 @@
             "team": "lad",
             "start": "8:15 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "106.1",
             "la": "13",
             "dist": "255"
