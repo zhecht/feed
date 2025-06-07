@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "37",
-        "batters": "187",
-        "pitches": "1518",
+        "pitchers": "38",
+        "batters": "188",
+        "pitches": "1528",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "70.7",
-        "ff%fourseam fastball %": "30.9",
-        "si%sinker %": "17.5",
+        "ff%fourseam fastball %": "31.0",
+        "si%sinker %": "17.3",
         "fc%cutter %": "6.9",
         "fs%splitter %": "1.6",
         "ch%changeup %": "15.5",
-        "sl%slider %": "20.2",
-        "cu%curve %": "7.4",
+        "sl%slider %": "20.1",
+        "cu%curve %": "7.5",
         "max evmax exit velocity": "113.2",
         "hhhard hit": "128",
-        "hh%hard hit %": "40.1",
+        "hh%hard hit %": "39.8",
         "brlbarrels": "27",
-        "brl%barrel %": "8.5",
-        "ab": "400",
-        "avg": ".253",
+        "brl%barrel %": "8.4",
+        "ab": "404",
+        "avg": ".250",
         "h": "101",
         "1b": "68",
         "2b": "17",
         "3b": "1",
         "hr": "15",
-        "so": "83",
-        "bipballs in play": "319",
+        "so": "84",
+        "bipballs in play": "322",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-06 20:51:28.726940"
+        "updated": "2025-06-06 20:51:37.897954"
     },
     "mia @ tb": [
         {
@@ -3687,6 +3687,21 @@
     ],
     "chc @ det": [
         {
+            "player": "javier baez",
+            "game": "chc @ det",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-06-06 20:51:32",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "63.9",
+            "la": "-19",
+            "dist": "7"
+        },
+        {
             "player": "zach mckinstry",
             "game": "chc @ det",
             "hr/park": "",
@@ -3696,10 +3711,10 @@
             "team": "det",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "90.7",
+            "la": "4",
+            "dist": "81"
         },
         {
             "player": "nico hoerner",
@@ -5236,16 +5251,31 @@
     ],
     "kc @ chw": [
         {
-            "player": "kyle isbel",
+            "player": "jonathan india",
             "game": "kc @ chw",
             "hr/park": "",
+            "pa": "37",
+            "dt": "2025-06-06 20:51:32",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "kyle isbel",
+            "game": "kc @ chw",
+            "hr/park": "0/30",
             "pa": "36",
             "dt": "2025-06-06 20:50:29",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "86.5",
             "la": "28",
             "dist": "309"
@@ -5787,7 +5817,7 @@
             "team": "tor",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6079,6 +6109,21 @@
         }
     ],
     "sd @ mil": [
+        {
+            "player": "jackson merrill",
+            "game": "sd @ mil",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-06-06 20:51:32",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "manny machado",
             "game": "sd @ mil",
@@ -6382,6 +6427,21 @@
     ],
     "lad @ stl": [],
     "nym @ col": [
+        {
+            "player": "jordan beck",
+            "game": "nym @ col",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-06-06 20:51:32",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "89.4",
+            "la": "52",
+            "dist": "256"
+        },
         {
             "player": "pete alonso",
             "game": "nym @ col",
