@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "58",
         "batters": "215",
-        "pitches": "2213",
+        "pitches": "2218",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "32.5",
@@ -14,21 +14,21 @@
         "cu%curve %": "7.8",
         "max evmax exit velocity": "113.2",
         "hhhard hit": "179",
-        "hh%hard hit %": "40.4",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "37",
-        "brl%barrel %": "8.4",
-        "ab": "551",
-        "avg": ".254",
-        "h": "140",
-        "1b": "92",
+        "brl%barrel %": "8.3",
+        "ab": "554",
+        "avg": ".255",
+        "h": "141",
+        "1b": "93",
         "2b": "23",
         "3b": "2",
         "hr": "23",
         "so": "117",
-        "bipballs in play": "443",
+        "bipballs in play": "445",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-06 21:39:57.548236"
+        "updated": "2025-06-06 21:40:07.527214"
     },
     "mia @ tb": [
         {
@@ -5354,6 +5354,21 @@
     ],
     "hou @ cle": [
         {
+            "player": "daniel schneemann",
+            "game": "hou @ cle",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-06-06 21:40:01",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "92.3",
+            "la": "-7",
+            "dist": "17"
+        },
+        {
             "player": "carlos santana",
             "game": "hou @ cle",
             "hr/park": "",
@@ -6445,7 +6460,7 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "108.9",
             "la": "12",
             "dist": "279"
@@ -7323,6 +7338,21 @@
     ],
     "tor @ min": [
         {
+            "player": "ty france",
+            "game": "tor @ min",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-06-06 21:40:01",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trevor larnach",
             "game": "tor @ min",
             "hr/park": "",
@@ -7332,10 +7362,10 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "83.4",
+            "la": "38",
+            "dist": "283"
         },
         {
             "player": "byron buxton",
@@ -7939,6 +7969,21 @@
         }
     ],
     "sd @ mil": [
+        {
+            "player": "gavin sheets",
+            "game": "sd @ mil",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-06-06 21:40:01",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jackson merrill",
             "game": "sd @ mil",
@@ -8658,7 +8703,7 @@
             "team": "nym",
             "start": "8:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "73.9",
             "la": "58",
             "dist": "182"
