@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "35",
         "batters": "171",
-        "pitches": "1562",
+        "pitches": "1567",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "70.3",
         "ff%fourseam fastball %": "33.1",
         "si%sinker %": "13.7",
-        "fc%cutter %": "9.5",
-        "fs%splitter %": "2.8",
-        "ch%changeup %": "12.4",
+        "fc%cutter %": "9.4",
+        "fs%splitter %": "2.9",
+        "ch%changeup %": "12.3",
         "sl%slider %": "20.4",
-        "cu%curve %": "8.1",
+        "cu%curve %": "8.2",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "110",
-        "hh%hard hit %": "40.7",
+        "hh%hard hit %": "40.6",
         "brlbarrels": "16",
         "brl%barrel %": "5.9",
-        "ab": "365",
-        "avg": ".203",
+        "ab": "367",
+        "avg": ".202",
         "h": "74",
         "1b": "49",
         "2b": "15",
         "3b": "2",
         "hr": "8",
-        "so": "96",
-        "bipballs in play": "270",
+        "so": "97",
+        "bipballs in play": "271",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-08 15:19:26.982602"
+        "updated": "2025-06-08 15:19:35.914878"
     },
     "mia @ tb": [
         {
@@ -1009,6 +1009,21 @@
     ],
     "sd @ mil": [
         {
+            "player": "martin maldonado",
+            "game": "sd @ mil",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-06-08 15:19:29",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "1:05 PM",
+            "in": "8",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brandon lockridge",
             "game": "sd @ mil",
             "hr/park": "",
@@ -1830,7 +1845,7 @@
             "team": "tex",
             "start": "1:35 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1853,6 +1868,21 @@
     ],
     "phi @ pit": [
         {
+            "player": "alec bohm",
+            "game": "phi @ pit",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-06-08 15:19:29",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle schwarber",
             "game": "phi @ pit",
             "hr/park": "",
@@ -1862,10 +1892,10 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "84.7",
+            "la": "-20",
+            "dist": "7"
         },
         {
             "player": "alexander canario",
