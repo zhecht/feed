@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "22",
-        "batters": "118",
-        "pitches": "667",
+        "batters": "119",
+        "pitches": "671",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "75.5",
-        "ff%fourseam fastball %": "33.9",
+        "ff%fourseam fastball %": "33.7",
         "si%sinker %": "15.9",
         "fc%cutter %": "9.7",
-        "fs%splitter %": "0.9",
+        "fs%splitter %": "1.2",
         "ch%changeup %": "12.7",
-        "sl%slider %": "20.2",
+        "sl%slider %": "20.3",
         "cu%curve %": "6.6",
         "max evmax exit velocity": "110.7",
-        "hhhard hit": "51",
-        "hh%hard hit %": "42.9",
+        "hhhard hit": "52",
+        "hh%hard hit %": "43.3",
         "brlbarrels": "6",
         "brl%barrel %": "5.0",
-        "ab": "163",
-        "avg": ".172",
+        "ab": "165",
+        "avg": ".170",
         "h": "28",
         "1b": "19",
         "2b": "6",
         "3b": "0",
         "hr": "3",
         "so": "42",
-        "bipballs in play": "119",
+        "bipballs in play": "120",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-08 14:19:21.133701"
+        "updated": "2025-06-08 14:19:29.098763"
     },
     "mia @ tb": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "12:10 PM",
             "in": "8",
-            "result": "Flyout",
+            "result": "In Progress",
             "evo": "89.8",
             "la": "52",
             "dist": "258"
@@ -1387,6 +1387,21 @@
     "tex @ wsh": [],
     "phi @ pit": [
         {
+            "player": "rafael marchan",
+            "game": "phi @ pit",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-06-08 14:18:59",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "1:35 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brandon marsh",
             "game": "phi @ pit",
             "hr/park": "",
@@ -1661,17 +1676,17 @@
         {
             "player": "geraldo perdomo",
             "game": "ari @ cin",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "20",
             "dt": "2025-06-08 14:18:59",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "start": "1:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "96.1",
+            "la": "35",
+            "dist": "357"
         },
         {
             "player": "ketel marte",
@@ -2233,6 +2248,21 @@
     ],
     "hou @ cle": [
         {
+            "player": "steven kwan",
+            "game": "hou @ cle",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-06-08 14:19:29",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "1:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jeremy pena",
             "game": "hou @ cle",
             "hr/park": "",
@@ -2529,7 +2559,7 @@
             "team": "tor",
             "start": "2:10 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
