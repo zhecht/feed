@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "82",
         "batters": "267",
-        "pitches": "3167",
+        "pitches": "3171",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "70.3",
-        "ff%fourseam fastball %": "35.0",
+        "ff%fourseam fastball %": "34.9",
         "si%sinker %": "12.3",
-        "fc%cutter %": "9.1",
+        "fc%cutter %": "9.2",
         "fs%splitter %": "3.1",
-        "ch%changeup %": "11.6",
+        "ch%changeup %": "11.5",
         "sl%slider %": "21.3",
         "cu%curve %": "7.7",
         "max evmax exit velocity": "113.9",
@@ -24,11 +24,11 @@
         "2b": "37",
         "3b": "2",
         "hr": "18",
-        "so": "180",
+        "so": "179",
         "bipballs in play": "551",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-08 17:00:42.527316"
+        "updated": "2025-06-08 17:00:53.421022"
     },
     "mia @ tb": [
         {
@@ -6700,7 +6700,7 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "8",
-            "result": "Strikeout",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10824,6 +10824,21 @@
     ],
     "bal @ ath": [
         {
+            "player": "adley rutschman",
+            "game": "bal @ ath",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-06-08 17:00:46",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jackson holliday",
             "game": "bal @ ath",
             "hr/park": "",
@@ -11180,7 +11195,7 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
