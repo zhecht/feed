@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "27",
+        "pitchers": "28",
         "batters": "162",
-        "pitches": "1276",
+        "pitches": "1286",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "70.3",
-        "ff%fourseam fastball %": "32.2",
+        "ff%fourseam fastball %": "32.0",
         "si%sinker %": "13.9",
-        "fc%cutter %": "9.6",
-        "fs%splitter %": "3.1",
-        "ch%changeup %": "12.5",
-        "sl%slider %": "20.6",
-        "cu%curve %": "8.1",
+        "fc%cutter %": "9.7",
+        "fs%splitter %": "3.0",
+        "ch%changeup %": "12.4",
+        "sl%slider %": "20.5",
+        "cu%curve %": "8.3",
         "max evmax exit velocity": "113.9",
-        "hhhard hit": "90",
-        "hh%hard hit %": "41.1",
+        "hhhard hit": "91",
+        "hh%hard hit %": "41.0",
         "brlbarrels": "13",
         "brl%barrel %": "5.9",
-        "ab": "290",
-        "avg": ".207",
+        "ab": "293",
+        "avg": ".205",
         "h": "60",
         "1b": "41",
         "2b": "11",
         "3b": "1",
         "hr": "7",
-        "so": "74",
-        "bipballs in play": "219",
+        "so": "75",
+        "bipballs in play": "222",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-08 14:58:36.920666"
+        "updated": "2025-06-08 14:58:45.471505"
     },
     "mia @ tb": [
         {
@@ -1009,6 +1009,21 @@
     ],
     "sd @ mil": [
         {
+            "player": "jackson merrill",
+            "game": "sd @ mil",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-06-08 14:58:44",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "1:05 PM",
+            "in": "7",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "manny machado",
             "game": "sd @ mil",
             "hr/park": "30/30",
@@ -1672,6 +1687,21 @@
     "tex @ wsh": [],
     "phi @ pit": [
         {
+            "player": "oneil cruz",
+            "game": "phi @ pit",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-06-08 14:58:44",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brandon marsh",
             "game": "phi @ pit",
             "hr/park": "",
@@ -2198,6 +2228,21 @@
         }
     ],
     "ari @ cin": [
+        {
+            "player": "josh naylor",
+            "game": "ari @ cin",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-08 14:57:30",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "1:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "tj friedl",
             "game": "ari @ cin",
@@ -3367,10 +3412,10 @@
             "team": "cle",
             "start": "1:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "95.7",
+            "la": "-21",
+            "dist": "8"
         },
         {
             "player": "angel martinez",
@@ -3939,10 +3984,10 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "84.0",
+            "la": "12",
+            "dist": "158"
         },
         {
             "player": "trevor larnach",
@@ -4604,9 +4649,9 @@
             "start": "2:15 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "61.3",
+            "la": "-51",
+            "dist": "2"
         },
         {
             "player": "freddie freeman",
