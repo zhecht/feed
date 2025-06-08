@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "34",
+        "pitchers": "35",
         "batters": "166",
-        "pitches": "1514",
+        "pitches": "1516",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "70.3",
         "ff%fourseam fastball %": "32.5",
@@ -11,24 +11,24 @@
         "fs%splitter %": "2.8",
         "ch%changeup %": "12.6",
         "sl%slider %": "20.5",
-        "cu%curve %": "8.2",
+        "cu%curve %": "8.3",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "106",
-        "hh%hard hit %": "41.1",
+        "hh%hard hit %": "40.8",
         "brlbarrels": "16",
         "brl%barrel %": "6.2",
-        "ab": "352",
-        "avg": ".199",
-        "h": "70",
-        "1b": "45",
+        "ab": "354",
+        "avg": ".201",
+        "h": "71",
+        "1b": "46",
         "2b": "15",
         "3b": "2",
         "hr": "8",
         "so": "94",
-        "bipballs in play": "258",
+        "bipballs in play": "260",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-08 15:16:36.182684"
+        "updated": "2025-06-08 15:16:45.075922"
     },
     "mia @ tb": [
         {
@@ -3102,6 +3102,21 @@
     ],
     "chc @ det": [
         {
+            "player": "dillon dingler",
+            "game": "chc @ det",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-06-08 15:16:45",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:40 PM",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "65.4",
+            "la": "-15",
+            "dist": "10"
+        },
+        {
             "player": "pete crow armstrong",
             "game": "chc @ det",
             "hr/park": "",
@@ -3794,6 +3809,21 @@
     ],
     "hou @ cle": [
         {
+            "player": "jake meyers",
+            "game": "hou @ cle",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-06-08 15:16:45",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "yainer diaz",
             "game": "hou @ cle",
             "hr/park": "",
@@ -3803,10 +3833,10 @@
             "team": "hou",
             "start": "1:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "93.9",
+            "la": "-12",
+            "dist": "10"
         },
         {
             "player": "christian walker",
