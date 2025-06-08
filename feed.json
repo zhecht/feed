@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "26",
         "batters": "159",
-        "pitches": "1169",
+        "pitches": "1174",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "70.3",
-        "ff%fourseam fastball %": "31.7",
+        "ff%fourseam fastball %": "31.6",
         "si%sinker %": "14.7",
-        "fc%cutter %": "9.8",
-        "fs%splitter %": "2.7",
-        "ch%changeup %": "13.0",
+        "fc%cutter %": "10.0",
+        "fs%splitter %": "2.8",
+        "ch%changeup %": "12.9",
         "sl%slider %": "20.4",
         "cu%curve %": "7.6",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "85",
-        "hh%hard hit %": "41.5",
+        "hh%hard hit %": "41.7",
         "brlbarrels": "11",
         "brl%barrel %": "5.4",
-        "ab": "270",
+        "ab": "271",
         "avg": ".207",
         "h": "56",
         "1b": "39",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "5",
         "so": "67",
-        "bipballs in play": "205",
+        "bipballs in play": "204",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-08 14:50:37.070391"
+        "updated": "2025-06-08 14:50:45.448334"
     },
     "mia @ tb": [
         {
@@ -1018,7 +1018,7 @@
             "team": "mil",
             "start": "1:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1641,6 +1641,21 @@
     ],
     "tex @ wsh": [],
     "phi @ pit": [
+        {
+            "player": "otto kemp",
+            "game": "phi @ pit",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-06-08 14:50:14",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "max kepler",
             "game": "phi @ pit",
@@ -2690,7 +2705,7 @@
             "team": "chc",
             "start": "1:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3207,6 +3222,21 @@
         }
     ],
     "hou @ cle": [
+        {
+            "player": "mauricio dubon",
+            "game": "hou @ cle",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-06-08 14:50:44",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "1:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jacob melton",
             "game": "hou @ cle",
@@ -4303,10 +4333,10 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "73.7",
-            "la": "71",
-            "dist": "143"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "ivan herrera",
