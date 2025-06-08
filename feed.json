@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "31",
-        "batters": "164",
-        "pitches": "1476",
+        "pitchers": "32",
+        "batters": "165",
+        "pitches": "1483",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "70.3",
-        "ff%fourseam fastball %": "32.5",
+        "ff%fourseam fastball %": "32.4",
         "si%sinker %": "13.8",
         "fc%cutter %": "9.7",
         "fs%splitter %": "2.8",
@@ -13,22 +13,22 @@
         "sl%slider %": "20.7",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "113.9",
-        "hhhard hit": "105",
-        "hh%hard hit %": "41.3",
+        "hhhard hit": "106",
+        "hh%hard hit %": "41.4",
         "brlbarrels": "16",
         "brl%barrel %": "6.3",
-        "ab": "343",
-        "avg": ".204",
+        "ab": "345",
+        "avg": ".203",
         "h": "70",
         "1b": "45",
         "2b": "15",
         "3b": "2",
         "hr": "8",
         "so": "91",
-        "bipballs in play": "254",
+        "bipballs in play": "256",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-08 15:14:22.549584"
+        "updated": "2025-06-08 15:14:31.586336"
     },
     "mia @ tb": [
         {
@@ -4862,6 +4862,21 @@
     ],
     "kc @ chw": [
         {
+            "player": "joshua palacios",
+            "game": "kc @ chw",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-06-08 15:13:44",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:10 PM",
+            "in": "4",
+            "result": "Flyout",
+            "evo": "86.8",
+            "la": "41",
+            "dist": "313"
+        },
+        {
             "player": "miguel vargas",
             "game": "kc @ chw",
             "hr/park": "",
@@ -4871,10 +4886,10 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "97.9",
+            "la": "-7",
+            "dist": "18"
         },
         {
             "player": "kyle isbel",
@@ -5764,7 +5779,23 @@
             "dist": "362"
         }
     ],
-    "nym @ col": [],
+    "nym @ col": [
+        {
+            "player": "francisco lindor",
+            "game": "nym @ col",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-08 15:14:28",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "3:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "bal @ ath": [],
     "atl @ sf": [],
     "sea @ laa": [],
