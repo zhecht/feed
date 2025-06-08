@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "25",
         "batters": "147",
-        "pitches": "981",
-        "max velomax pitch velocity": "99.0",
+        "pitches": "984",
+        "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "72.5",
         "ff%fourseam fastball %": "32.1",
-        "si%sinker %": "14.6",
-        "fc%cutter %": "10.1",
+        "si%sinker %": "14.5",
+        "fc%cutter %": "10.0",
         "fs%splitter %": "2.1",
-        "ch%changeup %": "13.4",
-        "sl%slider %": "20.2",
-        "cu%curve %": "7.5",
+        "ch%changeup %": "13.2",
+        "sl%slider %": "20.3",
+        "cu%curve %": "7.7",
         "max evmax exit velocity": "111.4",
-        "hhhard hit": "72",
-        "hh%hard hit %": "40.4",
-        "brlbarrels": "9",
-        "brl%barrel %": "5.1",
-        "ab": "234",
-        "avg": ".192",
-        "h": "45",
-        "1b": "32",
+        "hhhard hit": "74",
+        "hh%hard hit %": "41.1",
+        "brlbarrels": "11",
+        "brl%barrel %": "6.1",
+        "ab": "235",
+        "avg": ".200",
+        "h": "47",
+        "1b": "33",
         "2b": "9",
         "3b": "0",
-        "hr": "4",
+        "hr": "5",
         "so": "55",
-        "bipballs in play": "178",
+        "bipballs in play": "180",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-08 14:38:36.093112"
+        "updated": "2025-06-08 14:38:44.373139"
     },
     "mia @ tb": [
         {
@@ -2028,10 +2028,10 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "4",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "104.6",
+            "la": "25",
+            "dist": "403"
         },
         {
             "player": "elly de la cruz",
@@ -2470,6 +2470,21 @@
         }
     ],
     "chc @ det": [
+        {
+            "player": "michael busch",
+            "game": "chc @ det",
+            "hr/park": "0/30",
+            "pa": "29",
+            "dt": "2025-06-08 14:38:44",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "1:40 PM",
+            "in": "4",
+            "result": "Lineout",
+            "evo": "107.2",
+            "la": "18",
+            "dist": "326"
+        },
         {
             "player": "carson kelly",
             "game": "chc @ det",
@@ -3347,7 +3362,7 @@
         {
             "player": "nathan lukes",
             "game": "tor @ min",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "11",
             "dt": "2025-06-08 14:36:13",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
@@ -3511,21 +3526,6 @@
         }
     ],
     "kc @ chw": [
-        {
-            "player": "kyle teel",
-            "game": "kc @ chw",
-            "hr/park": "",
-            "pa": "14",
-            "dt": "2025-06-08 14:37:44",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "start": "2:10 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "john rave",
             "game": "kc @ chw",
@@ -3724,6 +3724,21 @@
     ],
     "lad @ stl": [
         {
+            "player": "hyeseong kim",
+            "game": "lad @ stl",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-06-08 14:38:44",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "2:15 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tommy edman",
             "game": "lad @ stl",
             "hr/park": "",
@@ -3733,7 +3748,7 @@
             "team": "lad",
             "start": "2:15 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "104.8",
             "la": "4",
             "dist": "89"
