@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "42",
         "batters": "184",
-        "pitches": "1806",
+        "pitches": "1812",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "70.3",
-        "ff%fourseam fastball %": "34.0",
-        "si%sinker %": "13.3",
+        "ff%fourseam fastball %": "33.9",
+        "si%sinker %": "13.4",
         "fc%cutter %": "8.7",
         "fs%splitter %": "2.8",
         "ch%changeup %": "12.0",
-        "sl%slider %": "20.8",
-        "cu%curve %": "8.3",
+        "sl%slider %": "20.9",
+        "cu%curve %": "8.2",
         "max evmax exit velocity": "113.9",
-        "hhhard hit": "125",
-        "hh%hard hit %": "39.8",
+        "hhhard hit": "126",
+        "hh%hard hit %": "39.6",
         "brlbarrels": "18",
         "brl%barrel %": "5.7",
-        "ab": "427",
-        "avg": ".215",
-        "h": "92",
-        "1b": "62",
+        "ab": "430",
+        "avg": ".216",
+        "h": "93",
+        "1b": "63",
         "2b": "17",
         "3b": "2",
         "hr": "11",
         "so": "112",
-        "bipballs in play": "314",
+        "bipballs in play": "318",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-08 15:34:38.911846"
+        "updated": "2025-06-08 15:34:48.273881"
     },
     "mia @ tb": [
         {
@@ -1958,17 +1958,17 @@
         {
             "player": "josh jung",
             "game": "tex @ wsh",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "8",
             "dt": "2025-06-08 15:32:44",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "92.9",
+            "la": "29",
+            "dist": "324"
         },
         {
             "player": "marcus semien",
@@ -2077,6 +2077,36 @@
         }
     ],
     "phi @ pit": [
+        {
+            "player": "otto kemp",
+            "game": "phi @ pit",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-06-08 15:34:13",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "Groundout",
+            "evo": "77.3",
+            "la": "-30",
+            "dist": "4"
+        },
+        {
+            "player": "max kepler",
+            "game": "phi @ pit",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-06-08 15:34:13",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "Groundout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "isiah kiner falefa",
             "game": "phi @ pit",
@@ -5146,6 +5176,21 @@
     ],
     "tor @ min": [
         {
+            "player": "byron buxton",
+            "game": "tor @ min",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-06-08 15:34:45",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "christian vazquez",
             "game": "tor @ min",
             "hr/park": "30/30",
@@ -6946,10 +6991,10 @@
             "team": "nym",
             "start": "3:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "101.0",
+            "la": "4",
+            "dist": "108"
         },
         {
             "player": "jeff mcneil",
