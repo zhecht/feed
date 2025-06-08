@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "32",
         "batters": "165",
-        "pitches": "1490",
+        "pitches": "1491",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "70.3",
-        "ff%fourseam fastball %": "32.4",
-        "si%sinker %": "13.8",
+        "ff%fourseam fastball %": "32.3",
+        "si%sinker %": "13.7",
         "fc%cutter %": "9.7",
         "fs%splitter %": "2.9",
         "ch%changeup %": "12.6",
@@ -14,7 +14,7 @@
         "cu%curve %": "8.1",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "106",
-        "hh%hard hit %": "41.2",
+        "hh%hard hit %": "41.1",
         "brlbarrels": "16",
         "brl%barrel %": "6.2",
         "ab": "347",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "8",
         "so": "91",
-        "bipballs in play": "257",
+        "bipballs in play": "258",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-08 15:15:24.736168"
+        "updated": "2025-06-08 15:15:33.639482"
     },
     "mia @ tb": [
         {
@@ -1801,7 +1801,7 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3772,10 +3772,10 @@
             "team": "hou",
             "start": "1:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "89.1",
+            "la": "53",
+            "dist": "223"
         },
         {
             "player": "gabriel arias",
