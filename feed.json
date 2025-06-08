@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "83",
         "batters": "267",
-        "pitches": "3242",
+        "pitches": "3244",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "70.3",
         "ff%fourseam fastball %": "34.9",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "37.6",
         "brlbarrels": "35",
         "brl%barrel %": "6.3",
-        "ab": "729",
-        "avg": ".232",
+        "ab": "731",
+        "avg": ".231",
         "h": "169",
         "1b": "111",
         "2b": "38",
         "3b": "2",
         "hr": "18",
         "so": "185",
-        "bipballs in play": "558",
+        "bipballs in play": "559",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-08 17:05:52.442889"
+        "updated": "2025-06-08 17:06:03.542757"
     },
     "mia @ tb": [
         {
@@ -2040,7 +2040,7 @@
             "team": "tex",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10162,6 +10162,21 @@
     ],
     "nym @ col": [
         {
+            "player": "pete alonso",
+            "game": "nym @ col",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-06-08 17:05:59",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "3:10 PM",
+            "in": "6",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "juan soto",
             "game": "nym @ col",
             "hr/park": "",
@@ -11336,6 +11351,21 @@
     ],
     "atl @ sf": [
         {
+            "player": "mike yastrzemski",
+            "game": "atl @ sf",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-06-08 17:05:59",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "casey schmitt",
             "game": "atl @ sf",
             "hr/park": "",
@@ -11345,10 +11375,10 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "54.8",
+            "la": "-71",
+            "dist": "4"
         },
         {
             "player": "dominic smith",
