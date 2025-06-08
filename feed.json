@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "124",
+        "pitchers": "125",
         "batters": "306",
-        "pitches": "4418",
+        "pitches": "4421",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "39.6",
         "ff%fourseam fastball %": "29.9",
@@ -13,22 +13,22 @@
         "sl%slider %": "20.3",
         "cu%curve %": "9.2",
         "max evmax exit velocity": "113.6",
-        "hhhard hit": "306",
+        "hhhard hit": "307",
         "hh%hard hit %": "38.1",
         "brlbarrels": "49",
         "brl%barrel %": "6.1",
-        "ab": "1041",
+        "ab": "1043",
         "avg": ".247",
-        "h": "257",
-        "1b": "169",
+        "h": "258",
+        "1b": "170",
         "2b": "41",
         "3b": "2",
         "hr": "45",
         "so": "262",
-        "bipballs in play": "804",
+        "bipballs in play": "805",
         "liveGames": 0,
         "totGames": 16,
-        "updated": "2025-06-08 00:05:16.663069"
+        "updated": "2025-06-08 00:05:30.032224"
     },
     "chc @ det": [
         {
@@ -14593,6 +14593,21 @@
     ],
     "sea @ laa": [
         {
+            "player": "cal raleigh",
+            "game": "sea @ laa",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-06-08 00:05:20",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "",
+            "in": "7",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "taylor ward",
             "game": "sea @ laa",
             "hr/park": "0/30",
@@ -15510,6 +15525,21 @@
     ],
     "nym @ col": [
         {
+            "player": "ryan ritter",
+            "game": "nym @ col",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-06-08 00:05:20",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan mcmahon",
             "game": "nym @ col",
             "hr/park": "",
@@ -15519,10 +15549,10 @@
             "team": "col",
             "start": "",
             "in": "8",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "107.0",
+            "la": "5",
+            "dist": "102"
         },
         {
             "player": "juan soto",
