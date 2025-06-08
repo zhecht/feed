@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "26",
         "batters": "153",
-        "pitches": "1086",
+        "pitches": "1091",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "72.5",
-        "ff%fourseam fastball %": "31.6",
+        "ff%fourseam fastball %": "31.5",
         "si%sinker %": "14.8",
-        "fc%cutter %": "9.9",
+        "fc%cutter %": "10.1",
         "fs%splitter %": "2.2",
         "ch%changeup %": "13.6",
-        "sl%slider %": "20.4",
-        "cu%curve %": "7.4",
+        "sl%slider %": "20.5",
+        "cu%curve %": "7.3",
         "max evmax exit velocity": "111.4",
-        "hhhard hit": "78",
-        "hh%hard hit %": "40.2",
+        "hhhard hit": "79",
+        "hh%hard hit %": "40.5",
         "brlbarrels": "11",
-        "brl%barrel %": "5.7",
-        "ab": "256",
-        "avg": ".203",
+        "brl%barrel %": "5.6",
+        "ab": "258",
+        "avg": ".202",
         "h": "52",
         "1b": "36",
         "2b": "10",
         "3b": "1",
         "hr": "5",
         "so": "64",
-        "bipballs in play": "194",
+        "bipballs in play": "195",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-08 14:45:47.349635"
+        "updated": "2025-06-08 14:45:55.835332"
     },
     "mia @ tb": [
         {
@@ -1636,7 +1636,7 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2093,6 +2093,21 @@
         }
     ],
     "ari @ cin": [
+        {
+            "player": "corbin carroll",
+            "game": "ari @ cin",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-06-08 14:45:50",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "1:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jose herrera",
             "game": "ari @ cin",
@@ -3088,6 +3103,21 @@
     ],
     "hou @ cle": [
         {
+            "player": "jake meyers",
+            "game": "hou @ cle",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-06-08 14:45:50",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "1:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "will wilson",
             "game": "hou @ cle",
             "hr/park": "",
@@ -3776,10 +3806,10 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "98.9",
+            "la": "-9",
+            "dist": "19"
         },
         {
             "player": "jonathan india",
