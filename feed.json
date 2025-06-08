@@ -1,50 +1,50 @@
 {
     "all": {
         "pitchers": "22",
-        "batters": "119",
-        "pitches": "688",
+        "batters": "120",
+        "pitches": "698",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "75.5",
-        "ff%fourseam fastball %": "33.1",
-        "si%sinker %": "16.1",
+        "ff%fourseam fastball %": "33.0",
+        "si%sinker %": "16.0",
         "fc%cutter %": "9.9",
-        "fs%splitter %": "1.2",
-        "ch%changeup %": "12.8",
+        "fs%splitter %": "1.4",
+        "ch%changeup %": "12.9",
         "sl%slider %": "20.2",
-        "cu%curve %": "6.7",
+        "cu%curve %": "6.6",
         "max evmax exit velocity": "110.7",
-        "hhhard hit": "54",
-        "hh%hard hit %": "43.9",
+        "hhhard hit": "53",
+        "hh%hard hit %": "42.4",
         "brlbarrels": "6",
-        "brl%barrel %": "4.9",
-        "ab": "168",
-        "avg": ".173",
+        "brl%barrel %": "4.8",
+        "ab": "171",
+        "avg": ".170",
         "h": "29",
         "1b": "19",
         "2b": "7",
         "3b": "0",
         "hr": "3",
-        "so": "43",
-        "bipballs in play": "123",
+        "so": "44",
+        "bipballs in play": "125",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-08 14:20:41.558247"
+        "updated": "2025-06-08 14:20:49.610776"
     },
     "mia @ tb": [
         {
             "player": "yandy diaz",
             "game": "mia @ tb",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "59",
             "dt": "2025-06-08 14:19:44",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "start": "12:10 PM",
             "in": "8",
-            "result": "Double",
-            "evo": "107.3",
-            "la": "15",
-            "dist": "341"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "kameron misner",
@@ -919,6 +919,21 @@
     ],
     "sd @ mil": [
         {
+            "player": "caleb durbin",
+            "game": "sd @ mil",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-06-08 14:20:44",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "1:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jake bauers",
             "game": "sd @ mil",
             "hr/park": "",
@@ -1402,6 +1417,21 @@
     "tex @ wsh": [],
     "phi @ pit": [
         {
+            "player": "bryson stott",
+            "game": "phi @ pit",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-06-08 14:20:44",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "1:35 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "rafael marchan",
             "game": "phi @ pit",
             "hr/park": "",
@@ -1411,10 +1441,10 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "92.9",
+            "la": "23",
+            "dist": "292"
         },
         {
             "player": "brandon marsh",
@@ -1991,11 +2021,11 @@
     ],
     "chc @ det": [
         {
-            "player": "parker meadows",
+            "player": "gleyber torres",
             "game": "chc @ det",
             "hr/park": "",
-            "pa": "19",
-            "dt": "2025-06-08 14:19:44",
+            "pa": "20",
+            "dt": "2025-06-08 14:20:44",
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
             "team": "det",
             "start": "1:40 PM",
@@ -2004,6 +2034,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "parker meadows",
+            "game": "chc @ det",
+            "hr/park": "0/30",
+            "pa": "19",
+            "dt": "2025-06-08 14:19:44",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:40 PM",
+            "in": "3",
+            "result": "Lineout",
+            "evo": "94.4",
+            "la": "20",
+            "dist": "327"
         },
         {
             "player": "matt shaw",
@@ -2604,7 +2649,7 @@
             "team": "tor",
             "start": "2:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2642,6 +2687,21 @@
     ],
     "kc @ chw": [
         {
+            "player": "chase meidroth",
+            "game": "kc @ chw",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-06-08 14:20:44",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mike tauchman",
             "game": "kc @ chw",
             "hr/park": "",
@@ -2651,7 +2711,7 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
