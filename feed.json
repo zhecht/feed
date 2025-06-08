@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "114",
         "batters": "303",
-        "pitches": "3991",
+        "pitches": "3994",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "39.6",
-        "ff%fourseam fastball %": "30.1",
-        "si%sinker %": "17.8",
+        "ff%fourseam fastball %": "30.0",
+        "si%sinker %": "17.9",
         "fc%cutter %": "8.1",
         "fs%splitter %": "3.0",
-        "ch%changeup %": "11.6",
+        "ch%changeup %": "11.5",
         "sl%slider %": "20.1",
         "cu%curve %": "9.2",
         "max evmax exit velocity": "113.6",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "37.6",
         "brlbarrels": "42",
         "brl%barrel %": "5.8",
-        "ab": "951",
-        "avg": ".240",
+        "ab": "952",
+        "avg": ".239",
         "h": "228",
         "1b": "153",
         "2b": "33",
         "3b": "2",
         "hr": "40",
-        "so": "243",
-        "bipballs in play": "726",
+        "so": "244",
+        "bipballs in play": "727",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-06-07 22:42:13.817395"
+        "updated": "2025-06-07 22:42:25.881619"
     },
     "chc @ det": [
         {
@@ -15030,6 +15030,21 @@
     ],
     "nym @ col": [
         {
+            "player": "brenton doyle",
+            "game": "nym @ col",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-06-07 22:41:48",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "9:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan ritter",
             "game": "nym @ col",
             "hr/park": "",
@@ -15039,7 +15054,7 @@
             "team": "col",
             "start": "9:40 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -15491,10 +15506,10 @@
             "team": "bal",
             "start": "10:05 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "62.4",
+            "la": "-25",
+            "dist": "6"
         },
         {
             "player": "dylan carlson",
