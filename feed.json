@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "25",
-        "batters": "128",
-        "pitches": "787",
+        "batters": "130",
+        "pitches": "793",
         "max velomax pitch velocity": "99.0",
         "min velomin pitch velocity": "72.5",
-        "ff%fourseam fastball %": "32.4",
-        "si%sinker %": "15.2",
+        "ff%fourseam fastball %": "32.3",
+        "si%sinker %": "15.3",
         "fc%cutter %": "10.2",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "13.3",
-        "sl%slider %": "19.9",
-        "cu%curve %": "7.1",
+        "ch%changeup %": "13.4",
+        "sl%slider %": "19.8",
+        "cu%curve %": "7.3",
         "max evmax exit velocity": "110.7",
         "hhhard hit": "59",
-        "hh%hard hit %": "41.5",
+        "hh%hard hit %": "41.0",
         "brlbarrels": "7",
         "brl%barrel %": "4.9",
-        "ab": "188",
-        "avg": ".186",
+        "ab": "190",
+        "avg": ".184",
         "h": "35",
         "1b": "22",
         "2b": "9",
         "3b": "0",
         "hr": "4",
         "so": "48",
-        "bipballs in play": "142",
+        "bipballs in play": "144",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-08 14:26:37.328462"
+        "updated": "2025-06-08 14:26:45.525428"
     },
     "mia @ tb": [
         {
@@ -2482,7 +2482,7 @@
             "team": "cle",
             "start": "1:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "74.5",
             "la": "-24",
             "dist": "5"
@@ -2820,6 +2820,21 @@
     ],
     "tor @ min": [
         {
+            "player": "trevor larnach",
+            "game": "tor @ min",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-06-08 14:26:44",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "byron buxton",
             "game": "tor @ min",
             "hr/park": "",
@@ -2896,6 +2911,21 @@
         }
     ],
     "kc @ chw": [
+        {
+            "player": "joshua palacios",
+            "game": "kc @ chw",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-06-08 14:25:59",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:10 PM",
+            "in": "1",
+            "result": "Pop Out",
+            "evo": "87.1",
+            "la": "72",
+            "dist": "130"
+        },
         {
             "player": "miguel vargas",
             "game": "kc @ chw",
@@ -3028,10 +3058,10 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "86.0",
+            "la": "-8",
+            "dist": "9"
         },
         {
             "player": "lars nootbaar",
