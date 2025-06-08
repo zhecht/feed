@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "108",
-        "batters": "272",
-        "pitches": "3705",
+        "pitchers": "109",
+        "batters": "274",
+        "pitches": "3710",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "39.6",
         "ff%fourseam fastball %": "29.6",
@@ -10,25 +10,25 @@
         "fc%cutter %": "8.5",
         "fs%splitter %": "3.2",
         "ch%changeup %": "12.0",
-        "sl%slider %": "20.0",
+        "sl%slider %": "19.9",
         "cu%curve %": "8.8",
         "max evmax exit velocity": "113.6",
         "hhhard hit": "249",
-        "hh%hard hit %": "37.0",
+        "hh%hard hit %": "36.9",
         "brlbarrels": "36",
         "brl%barrel %": "5.3",
-        "ab": "885",
-        "avg": ".227",
-        "h": "201",
-        "1b": "133",
+        "ab": "887",
+        "avg": ".228",
+        "h": "202",
+        "1b": "134",
         "2b": "31",
         "3b": "2",
         "hr": "35",
         "so": "229",
-        "bipballs in play": "673",
+        "bipballs in play": "675",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-06-07 22:05:55.448417"
+        "updated": "2025-06-07 22:06:07.178927"
     },
     "chc @ det": [
         {
@@ -13310,7 +13310,7 @@
             "team": "mil",
             "start": "7:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "",
             "la": "",
             "dist": ""
@@ -14475,6 +14475,21 @@
     ],
     "nym @ col": [
         {
+            "player": "jared young",
+            "game": "nym @ col",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-06-07 22:06:03",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "9:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brett baty",
             "game": "nym @ col",
             "hr/park": "",
@@ -14484,10 +14499,10 @@
             "team": "nym",
             "start": "9:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Field Error",
+            "evo": "70.8",
+            "la": "-11",
+            "dist": "8"
         },
         {
             "player": "luis torrens",
@@ -14655,5 +14670,21 @@
             "dist": "312"
         }
     ],
-    "bal @ ath": []
+    "bal @ ath": [
+        {
+            "player": "jackson holliday",
+            "game": "bal @ ath",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-07 22:06:03",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "10:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ]
 }
