@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "58",
-        "batters": "212",
-        "pitches": "2356",
+        "pitchers": "59",
+        "batters": "214",
+        "pitches": "2363",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "70.3",
-        "ff%fourseam fastball %": "34.9",
+        "ff%fourseam fastball %": "35.0",
         "si%sinker %": "12.4",
         "fc%cutter %": "9.3",
         "fs%splitter %": "3.1",
-        "ch%changeup %": "11.2",
+        "ch%changeup %": "11.1",
         "sl%slider %": "21.6",
-        "cu%curve %": "7.5",
+        "cu%curve %": "7.4",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "158",
         "hh%hard hit %": "38.3",
         "brlbarrels": "26",
         "brl%barrel %": "6.3",
-        "ab": "545",
+        "ab": "547",
         "avg": ".229",
         "h": "125",
         "1b": "83",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "14",
         "so": "142",
-        "bipballs in play": "412",
+        "bipballs in play": "413",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-08 16:09:12.799687"
+        "updated": "2025-06-08 16:09:22.603205"
     },
     "mia @ tb": [
         {
@@ -2040,7 +2040,7 @@
             "team": "tex",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "96.5",
             "la": "55",
             "dist": "226"
@@ -7023,6 +7023,21 @@
     ],
     "kc @ chw": [
         {
+            "player": "austin slater",
+            "game": "kc @ chw",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-06-08 16:09:15",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "edgar quero",
             "game": "kc @ chw",
             "hr/park": "",
@@ -8626,10 +8641,10 @@
             "team": "nym",
             "start": "3:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "68.0",
+            "la": "-18",
+            "dist": "8"
         },
         {
             "player": "brett baty",
@@ -9071,6 +9086,22 @@
             "dist": ""
         }
     ],
-    "sea @ laa": [],
+    "sea @ laa": [
+        {
+            "player": "jp crawford",
+            "game": "sea @ laa",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-08 16:09:15",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "4:07 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "bos @ nyy": []
 }
