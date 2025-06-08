@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "78",
         "batters": "262",
-        "pitches": "2903",
+        "pitches": "2915",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "70.3",
         "ff%fourseam fastball %": "34.9",
@@ -11,24 +11,24 @@
         "fs%splitter %": "3.1",
         "ch%changeup %": "11.3",
         "sl%slider %": "21.3",
-        "cu%curve %": "7.6",
+        "cu%curve %": "7.8",
         "max evmax exit velocity": "113.9",
-        "hhhard hit": "192",
+        "hhhard hit": "193",
         "hh%hard hit %": "38.1",
         "brlbarrels": "33",
         "brl%barrel %": "6.5",
-        "ab": "661",
-        "avg": ".230",
-        "h": "152",
+        "ab": "662",
+        "avg": ".231",
+        "h": "153",
         "1b": "100",
-        "2b": "32",
+        "2b": "33",
         "3b": "2",
         "hr": "18",
-        "so": "166",
-        "bipballs in play": "504",
+        "so": "168",
+        "bipballs in play": "506",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-08 16:43:52.087167"
+        "updated": "2025-06-08 16:44:02.529034"
     },
     "mia @ tb": [
         {
@@ -2041,9 +2041,9 @@
             "start": "1:35 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "111.2",
+            "la": "-4",
+            "dist": "18"
         },
         {
             "player": "marcus semien",
@@ -6595,7 +6595,7 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7557,7 +7557,7 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9616,7 +9616,7 @@
             "team": "nym",
             "start": "3:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10496,16 +10496,31 @@
     ],
     "atl @ sf": [
         {
-            "player": "matt olson",
+            "player": "marcell ozuna",
             "game": "atl @ sf",
             "hr/park": "",
+            "pa": "21",
+            "dt": "2025-06-08 16:44:00",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "matt olson",
+            "game": "atl @ sf",
+            "hr/park": "18/30",
             "pa": "20",
             "dt": "2025-06-08 16:42:00",
             "img": "https://www.mlbstatic.com/team-logos/144.svg",
             "team": "atl",
             "start": "4:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "112.3",
             "la": "20",
             "dist": "379"
@@ -10797,6 +10812,21 @@
         }
     ],
     "sea @ laa": [
+        {
+            "player": "julio rodriguez",
+            "game": "sea @ laa",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-06-08 16:44:00",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "4:07 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "94.0",
+            "la": "-15",
+            "dist": "9"
+        },
         {
             "player": "logan ohoppe",
             "game": "sea @ laa",
