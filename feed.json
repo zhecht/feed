@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "104",
-        "batters": "258",
-        "pitches": "3599",
+        "batters": "259",
+        "pitches": "3606",
         "max velomax pitch velocity": "102.6",
         "min velomin pitch velocity": "39.6",
         "ff%fourseam fastball %": "29.7",
-        "si%sinker %": "17.4",
+        "si%sinker %": "17.6",
         "fc%cutter %": "8.5",
         "fs%splitter %": "3.1",
         "ch%changeup %": "12.2",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "36.5",
         "brlbarrels": "34",
         "brl%barrel %": "5.2",
-        "ab": "861",
-        "avg": ".226",
-        "h": "195",
-        "1b": "129",
+        "ab": "863",
+        "avg": ".227",
+        "h": "196",
+        "1b": "130",
         "2b": "29",
         "3b": "2",
         "hr": "35",
-        "so": "220",
-        "bipballs in play": "657",
+        "so": "221",
+        "bipballs in play": "658",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-06-07 21:51:22.557976"
+        "updated": "2025-06-07 21:51:33.804358"
     },
     "chc @ det": [
         {
@@ -12258,7 +12258,7 @@
             "team": "bos",
             "start": "7:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -13211,6 +13211,21 @@
     ],
     "sd @ mil": [
         {
+            "player": "manny machado",
+            "game": "sd @ mil",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-06-07 21:51:33",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "7:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brice turang",
             "game": "sd @ mil",
             "hr/park": "",
@@ -14077,7 +14092,7 @@
             "team": "sea",
             "start": "9:38 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -14175,6 +14190,21 @@
     ],
     "nym @ col": [
         {
+            "player": "thairo estrada",
+            "game": "nym @ col",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-06-07 21:51:33",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jordan beck",
             "game": "nym @ col",
             "hr/park": "",
@@ -14184,10 +14214,10 @@
             "team": "col",
             "start": "9:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "82.8",
+            "la": "5",
+            "dist": "93"
         },
         {
             "player": "pete alonso",
