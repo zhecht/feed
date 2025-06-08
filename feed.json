@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "72",
-        "batters": "236",
-        "pitches": "2611",
+        "batters": "237",
+        "pitches": "2618",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "70.3",
         "ff%fourseam fastball %": "34.9",
@@ -10,25 +10,25 @@
         "fc%cutter %": "9.3",
         "fs%splitter %": "3.1",
         "ch%changeup %": "11.3",
-        "sl%slider %": "21.4",
-        "cu%curve %": "7.6",
+        "sl%slider %": "21.3",
+        "cu%curve %": "7.7",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "173",
-        "hh%hard hit %": "38.0",
+        "hh%hard hit %": "37.9",
         "brlbarrels": "28",
-        "brl%barrel %": "6.2",
-        "ab": "602",
-        "avg": ".223",
+        "brl%barrel %": "6.1",
+        "ab": "603",
+        "avg": ".222",
         "h": "134",
         "1b": "88",
         "2b": "28",
         "3b": "2",
         "hr": "16",
-        "so": "153",
-        "bipballs in play": "455",
+        "so": "154",
+        "bipballs in play": "456",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-08 16:23:54.203379"
+        "updated": "2025-06-08 16:24:04.197965"
     },
     "mia @ tb": [
         {
@@ -7347,7 +7347,7 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9761,6 +9761,21 @@
     ],
     "atl @ sf": [
         {
+            "player": "eli white",
+            "game": "atl @ sf",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-06-08 16:23:59",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "91.4",
+            "la": "34",
+            "dist": "350"
+        },
+        {
             "player": "ozzie albies",
             "game": "atl @ sf",
             "hr/park": "",
@@ -9922,7 +9937,7 @@
             "team": "laa",
             "start": "4:07 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
