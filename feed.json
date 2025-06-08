@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "30",
+        "pitchers": "31",
         "batters": "164",
-        "pitches": "1455",
+        "pitches": "1457",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "70.3",
-        "ff%fourseam fastball %": "32.3",
-        "si%sinker %": "13.7",
+        "ff%fourseam fastball %": "32.4",
+        "si%sinker %": "13.8",
         "fc%cutter %": "9.6",
         "fs%splitter %": "2.9",
         "ch%changeup %": "12.6",
@@ -14,21 +14,21 @@
         "cu%curve %": "7.9",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "105",
-        "hh%hard hit %": "42.2",
+        "hh%hard hit %": "41.7",
         "brlbarrels": "16",
-        "brl%barrel %": "6.4",
-        "ab": "335",
-        "avg": ".206",
+        "brl%barrel %": "6.3",
+        "ab": "338",
+        "avg": ".204",
         "h": "69",
         "1b": "45",
         "2b": "14",
         "3b": "2",
         "hr": "8",
         "so": "89",
-        "bipballs in play": "249",
+        "bipballs in play": "252",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-08 15:12:36.290218"
+        "updated": "2025-06-08 15:12:45.076542"
     },
     "mia @ tb": [
         {
@@ -1008,6 +1008,21 @@
         }
     ],
     "sd @ mil": [
+        {
+            "player": "brice turang",
+            "game": "sd @ mil",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-06-08 15:12:45",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "1:05 PM",
+            "in": "7",
+            "result": "Lineout",
+            "evo": "89.8",
+            "la": "12",
+            "dist": "176"
+        },
         {
             "player": "joey ortiz",
             "game": "sd @ mil",
@@ -4365,6 +4380,21 @@
     ],
     "tor @ min": [
         {
+            "player": "ernie clement",
+            "game": "tor @ min",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-06-08 15:11:46",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "93.2",
+            "la": "50",
+            "dist": "286"
+        },
+        {
             "player": "nathan lukes",
             "game": "tor @ min",
             "hr/park": "",
@@ -5239,6 +5269,21 @@
     ],
     "lad @ stl": [
         {
+            "player": "tommy edman",
+            "game": "lad @ stl",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-06-08 15:12:45",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "2:15 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "55.0",
+            "la": "9",
+            "dist": "70"
+        },
+        {
             "player": "michael conforto",
             "game": "lad @ stl",
             "hr/park": "",
@@ -5248,7 +5293,7 @@
             "team": "lad",
             "start": "2:15 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "89.3",
             "la": "51",
             "dist": "260"
