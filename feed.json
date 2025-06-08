@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "87",
         "batters": "267",
-        "pitches": "3346",
+        "pitches": "3350",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "70.3",
         "ff%fourseam fastball %": "34.5",
-        "si%sinker %": "12.6",
+        "si%sinker %": "12.7",
         "fc%cutter %": "9.3",
         "fs%splitter %": "3.3",
         "ch%changeup %": "11.4",
-        "sl%slider %": "21.2",
+        "sl%slider %": "21.1",
         "cu%curve %": "7.6",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "217",
-        "hh%hard hit %": "37.5",
+        "hh%hard hit %": "37.3",
         "brlbarrels": "36",
         "brl%barrel %": "6.2",
-        "ab": "757",
+        "ab": "759",
         "avg": ".235",
         "h": "178",
         "1b": "118",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "19",
         "so": "191",
-        "bipballs in play": "579",
+        "bipballs in play": "581",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-08 17:14:27.105379"
+        "updated": "2025-06-08 17:14:38.087633"
     },
     "mia @ tb": [
         {
@@ -11169,9 +11169,24 @@
     ],
     "bal @ ath": [
         {
-            "player": "seth brown",
+            "player": "luis urias",
             "game": "bal @ ath",
             "hr/park": "",
+            "pa": "30",
+            "dt": "2025-06-08 17:13:45",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "Pop Out",
+            "evo": "65.4",
+            "la": "80",
+            "dist": "35"
+        },
+        {
+            "player": "seth brown",
+            "game": "bal @ ath",
+            "hr/park": "1/30",
             "pa": "29",
             "dt": "2025-06-08 17:11:31",
             "img": "https://www.mlbstatic.com/team-logos/133.svg",
@@ -11606,6 +11621,21 @@
     ],
     "atl @ sf": [
         {
+            "player": "austin riley",
+            "game": "atl @ sf",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-06-08 17:14:30",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "4:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ronald acuna",
             "game": "atl @ sf",
             "hr/park": "",
@@ -11615,10 +11645,10 @@
             "team": "atl",
             "start": "4:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "80.2",
+            "la": "33",
+            "dist": "258"
         },
         {
             "player": "nick allen",
@@ -12172,7 +12202,7 @@
             "team": "laa",
             "start": "4:07 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
