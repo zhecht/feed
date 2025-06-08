@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "35",
-        "batters": "167",
-        "pitches": "1530",
+        "batters": "168",
+        "pitches": "1532",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "70.3",
-        "ff%fourseam fastball %": "32.5",
+        "ff%fourseam fastball %": "32.6",
         "si%sinker %": "13.8",
         "fc%cutter %": "9.6",
         "fs%splitter %": "2.8",
@@ -13,14 +13,14 @@
         "sl%slider %": "20.5",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "113.9",
-        "hhhard hit": "106",
-        "hh%hard hit %": "40.2",
+        "hhhard hit": "107",
+        "hh%hard hit %": "40.5",
         "brlbarrels": "16",
         "brl%barrel %": "6.1",
-        "ab": "357",
-        "avg": ".204",
-        "h": "73",
-        "1b": "48",
+        "ab": "358",
+        "avg": ".201",
+        "h": "72",
+        "1b": "47",
         "2b": "15",
         "3b": "2",
         "hr": "8",
@@ -28,7 +28,7 @@
         "bipballs in play": "264",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-08 15:17:20.537974"
+        "updated": "2025-06-08 15:17:29.685978"
     },
     "mia @ tb": [
         {
@@ -1018,10 +1018,10 @@
             "team": "sd",
             "start": "1:05 PM",
             "in": "8",
-            "result": "Single",
-            "evo": "89.4",
-            "la": "14",
-            "dist": "231"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "brice turang",
@@ -1822,21 +1822,6 @@
         }
     ],
     "phi @ pit": [
-        {
-            "player": "kyle schwarber",
-            "game": "phi @ pit",
-            "hr/park": "",
-            "pa": "45",
-            "dt": "2025-06-08 15:17:14",
-            "img": "https://www.mlbstatic.com/team-logos/143.svg",
-            "team": "phi",
-            "start": "1:35 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "alexander canario",
             "game": "phi @ pit",
@@ -3116,6 +3101,21 @@
         }
     ],
     "chc @ det": [
+        {
+            "player": "javier baez",
+            "game": "chc @ det",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-06-08 15:17:29",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "zach mckinstry",
             "game": "chc @ det",
@@ -4548,17 +4548,17 @@
         {
             "player": "kody clemens",
             "game": "tor @ min",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "30",
             "dt": "2025-06-08 15:15:45",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "97.7",
+            "la": "39",
+            "dist": "333"
         },
         {
             "player": "carlos correa",
@@ -5947,9 +5947,24 @@
     ],
     "nym @ col": [
         {
-            "player": "brandon nimmo",
+            "player": "juan soto",
             "game": "nym @ col",
             "hr/park": "",
+            "pa": "3",
+            "dt": "2025-06-08 15:17:29",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "3:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "brandon nimmo",
+            "game": "nym @ col",
+            "hr/park": "0/30",
             "pa": "2",
             "dt": "2025-06-08 15:17:14",
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
