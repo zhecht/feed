@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "17",
-        "batters": "119",
-        "pitches": "677",
+        "pitchers": "18",
+        "batters": "122",
+        "pitches": "687",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "71.1",
         "ff%fourseam fastball %": "40.5",
         "si%sinker %": "13.1",
-        "fc%cutter %": "3.4",
+        "fc%cutter %": "3.5",
         "fs%splitter %": "1.3",
-        "ch%changeup %": "9.9",
+        "ch%changeup %": "9.8",
         "sl%slider %": "18.9",
-        "cu%curve %": "12.9",
+        "cu%curve %": "13.0",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "52",
-        "hh%hard hit %": "44.1",
+        "hhhard hit": "53",
+        "hh%hard hit %": "43.4",
         "brlbarrels": "9",
-        "brl%barrel %": "7.6",
-        "ab": "164",
-        "avg": ".256",
-        "h": "42",
-        "1b": "26",
-        "2b": "9",
+        "brl%barrel %": "7.4",
+        "ab": "167",
+        "avg": ".263",
+        "h": "44",
+        "1b": "27",
+        "2b": "10",
         "3b": "1",
         "hr": "6",
         "so": "42",
-        "bipballs in play": "118",
+        "bipballs in play": "122",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-10 19:47:20.341546"
+        "updated": "2025-06-10 19:47:28.480764"
     },
     "det @ bal": [
         {
@@ -1493,6 +1493,21 @@
     ],
     "chc @ phi": [
         {
+            "player": "michael busch",
+            "game": "chc @ phi",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-06-10 19:47:23",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:45 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "dansby swanson",
             "game": "chc @ phi",
             "hr/park": "",
@@ -1502,10 +1517,10 @@
             "team": "chc",
             "start": "6:45 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "82.5",
+            "la": "36",
+            "dist": "298"
         },
         {
             "player": "bryson stott",
@@ -2202,6 +2217,21 @@
     ],
     "tb @ bos": [
         {
+            "player": "danny jansen",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-06-10 19:46:53",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ceddanne rafaela",
             "game": "tb @ bos",
             "hr/park": "",
@@ -2459,6 +2489,21 @@
     ],
     "tex @ min": [
         {
+            "player": "marcus semien",
+            "game": "tex @ min",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-06-10 19:47:23",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "Lineout",
+            "evo": "103.8",
+            "la": "7",
+            "dist": "175"
+        },
+        {
             "player": "corey seager",
             "game": "tex @ min",
             "hr/park": "",
@@ -2468,7 +2513,7 @@
             "team": "tex",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2515,10 +2560,10 @@
             "team": "nyy",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "93.1",
+            "la": "-34",
+            "dist": "4"
         },
         {
             "player": "cody bellinger",
@@ -2643,7 +2688,23 @@
             "dist": "78"
         }
     ],
-    "tor @ stl": [],
+    "tor @ stl": [
+        {
+            "player": "bo bichette",
+            "game": "tor @ stl",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-10 19:47:23",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:45 PM",
+            "in": "1",
+            "result": "Single",
+            "evo": "85.7",
+            "la": "15",
+            "dist": "234"
+        }
+    ],
     "chw @ hou": [],
     "sf @ col": [],
     "ath @ laa": [],
