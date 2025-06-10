@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "54",
-        "batters": "158",
-        "pitches": "1802",
+        "batters": "159",
+        "pitches": "1810",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "63.5",
-        "ff%fourseam fastball %": "34.2",
+        "ff%fourseam fastball %": "34.3",
         "si%sinker %": "16.5",
         "fc%cutter %": "7.0",
         "fs%splitter %": "1.2",
-        "ch%changeup %": "7.3",
-        "sl%slider %": "25.9",
-        "cu%curve %": "7.8",
+        "ch%changeup %": "7.2",
+        "sl%slider %": "26.0",
+        "cu%curve %": "7.7",
         "max evmax exit velocity": "111.6",
-        "hhhard hit": "144",
-        "hh%hard hit %": "38.7",
+        "hhhard hit": "145",
+        "hh%hard hit %": "38.9",
         "brlbarrels": "26",
         "brl%barrel %": "7.0",
-        "ab": "444",
-        "avg": ".279",
-        "h": "124",
+        "ab": "445",
+        "avg": ".281",
+        "h": "125",
         "1b": "89",
-        "2b": "22",
+        "2b": "23",
         "3b": "1",
         "hr": "12",
         "so": "84",
-        "bipballs in play": "372",
+        "bipballs in play": "373",
         "liveGames": 9,
         "totGames": 9,
-        "updated": "2025-06-09 22:05:04.071095"
+        "updated": "2025-06-09 22:05:13.092958"
     },
     "cin @ cle": [
         {
@@ -3812,7 +3812,7 @@
             "team": "tb",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4944,6 +4944,21 @@
         }
     ],
     "atl @ mil": [
+        {
+            "player": "ozzie albies",
+            "game": "atl @ mil",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-06-09 22:05:07",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "michael harris",
             "game": "atl @ mil",
@@ -7231,6 +7246,21 @@
     ],
     "lad @ sd": [
         {
+            "player": "jackson merrill",
+            "game": "lad @ sd",
+            "hr/park": "0/30",
+            "pa": "11",
+            "dt": "2025-06-09 22:04:06",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "Sac Fly",
+            "evo": "102.9",
+            "la": "18",
+            "dist": "326"
+        },
+        {
             "player": "manny machado",
             "game": "lad @ sd",
             "hr/park": "",
@@ -7240,7 +7270,7 @@
             "team": "sd",
             "start": "9:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "108.2",
             "la": "-6",
             "dist": "20"
