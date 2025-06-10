@@ -2,13 +2,13 @@
     "all": {
         "pitchers": "55",
         "batters": "178",
-        "pitches": "1974",
+        "pitches": "1978",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "63.5",
-        "ff%fourseam fastball %": "35.1",
-        "si%sinker %": "15.9",
+        "ff%fourseam fastball %": "35.0",
+        "si%sinker %": "15.8",
         "fc%cutter %": "6.6",
-        "fs%splitter %": "1.1",
+        "fs%splitter %": "1.2",
         "ch%changeup %": "7.4",
         "sl%slider %": "26.4",
         "cu%curve %": "7.6",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "39.0",
         "brlbarrels": "28",
         "brl%barrel %": "7.0",
-        "ab": "481",
+        "ab": "483",
         "avg": ".277",
-        "h": "133",
-        "1b": "94",
+        "h": "134",
+        "1b": "95",
         "2b": "25",
         "3b": "1",
         "hr": "13",
-        "so": "96",
+        "so": "97",
         "bipballs in play": "400",
         "liveGames": 9,
         "totGames": 9,
-        "updated": "2025-06-09 22:20:58.207826"
+        "updated": "2025-06-09 22:21:07.290941"
     },
     "cin @ cle": [
         {
@@ -6222,6 +6222,21 @@
     ],
     "tor @ stl": [
         {
+            "player": "victor scott",
+            "game": "tor @ stl",
+            "hr/park": "",
+            "pa": "75",
+            "dt": "2025-06-09 22:21:07",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan vilade",
             "game": "tor @ stl",
             "hr/park": "",
@@ -6231,7 +6246,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7334,6 +7349,21 @@
     ],
     "ath @ laa": [
         {
+            "player": "mike trout",
+            "game": "ath @ laa",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-06-09 22:21:07",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nolan schanuel",
             "game": "ath @ laa",
             "hr/park": "",
@@ -7343,7 +7373,7 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "89.6",
             "la": "14",
             "dist": "253"
@@ -7645,7 +7675,7 @@
             "team": "sd",
             "start": "9:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "99.9",
             "la": "24",
             "dist": "343"
