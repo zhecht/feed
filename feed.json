@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "13",
-        "batters": "97",
-        "pitches": "496",
+        "batters": "96",
+        "pitches": "497",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "40.5",
+        "ff%fourseam fastball %": "40.2",
         "si%sinker %": "14.5",
         "fc%cutter %": "2.2",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "9.7",
-        "sl%slider %": "19.2",
+        "ch%changeup %": "10.1",
+        "sl%slider %": "19.1",
         "cu%curve %": "12.1",
         "max evmax exit velocity": "108.0",
-        "hhhard hit": "33",
-        "hh%hard hit %": "39.8",
+        "hhhard hit": "34",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "7",
-        "brl%barrel %": "8.4",
+        "brl%barrel %": "8.2",
         "ab": "117",
-        "avg": ".248",
-        "h": "29",
-        "1b": "17",
+        "avg": ".239",
+        "h": "28",
+        "1b": "16",
         "2b": "6",
         "3b": "1",
         "hr": "5",
         "so": "32",
-        "bipballs in play": "83",
+        "bipballs in play": "85",
         "liveGames": 6,
         "totGames": 15,
-        "updated": "2025-06-10 19:34:35.884410"
+        "updated": "2025-06-10 19:34:43.671542"
     },
     "det @ bal": [
         {
@@ -424,6 +424,21 @@
     ],
     "cin @ cle": [
         {
+            "player": "carlos santana",
+            "game": "cin @ cle",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-06-10 19:34:38",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "103.0",
+            "la": "15",
+            "dist": "312"
+        },
+        {
             "player": "jose ramirez",
             "game": "cin @ cle",
             "hr/park": "",
@@ -433,10 +448,10 @@
             "team": "cle",
             "start": "6:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "81.8",
+            "la": "4",
+            "dist": "75"
         },
         {
             "player": "david fry",
@@ -825,7 +840,7 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "4",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "91.6",
             "la": "-9",
             "dist": "10"
@@ -1721,21 +1736,6 @@
         }
     ],
     "tb @ bos": [
-        {
-            "player": "josh lowe",
-            "game": "tb @ bos",
-            "hr/park": "",
-            "pa": "12",
-            "dt": "2025-06-10 19:34:08",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "7:10 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "christopher morel",
             "game": "tb @ bos",
