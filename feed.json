@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "42",
         "batters": "121",
-        "pitches": "1477",
+        "pitches": "1482",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "63.5",
         "ff%fourseam fastball %": "33.7",
         "si%sinker %": "16.0",
         "fc%cutter %": "7.9",
-        "fs%splitter %": "1.4",
+        "fs%splitter %": "1.3",
         "ch%changeup %": "7.4",
         "sl%slider %": "25.9",
         "cu%curve %": "7.7",
         "max evmax exit velocity": "111.6",
         "hhhard hit": "113",
-        "hh%hard hit %": "37.3",
+        "hh%hard hit %": "37.0",
         "brlbarrels": "17",
         "brl%barrel %": "5.6",
-        "ab": "365",
-        "avg": ".263",
+        "ab": "367",
+        "avg": ".262",
         "h": "96",
         "1b": "70",
         "2b": "17",
         "3b": "1",
         "hr": "8",
-        "so": "72",
-        "bipballs in play": "303",
+        "so": "73",
+        "bipballs in play": "305",
         "liveGames": 7,
         "totGames": 9,
-        "updated": "2025-06-09 21:39:17.721945"
+        "updated": "2025-06-09 21:39:26.345843"
     },
     "cin @ cle": [
         {
@@ -1304,9 +1304,9 @@
             "start": "6:40 PM",
             "in": "8",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "80.5",
+            "la": "17",
+            "dist": "230"
         },
         {
             "player": "jack winkler",
@@ -2340,7 +2340,7 @@
             "team": "chc",
             "start": "6:45 PM",
             "in": "11",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "86.4",
             "la": "32",
             "dist": "284"
@@ -3517,6 +3517,36 @@
         }
     ],
     "tb @ bos": [
+        {
+            "player": "kameron misner",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-06-09 21:38:54",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jake mangum",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-06-09 21:38:21",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "Flyout",
+            "evo": "74.9",
+            "la": "50",
+            "dist": "206"
+        },
         {
             "player": "kristian campbell",
             "game": "tb @ bos",
@@ -5391,7 +5421,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
