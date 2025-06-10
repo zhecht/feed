@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "13",
         "batters": "94",
-        "pitches": "472",
+        "pitches": "474",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "40.0",
+        "ff%fourseam fastball %": "40.3",
         "si%sinker %": "15.0",
         "fc%cutter %": "2.3",
         "fs%splitter %": "1.9",
-        "ch%changeup %": "9.3",
-        "sl%slider %": "18.9",
-        "cu%curve %": "12.5",
+        "ch%changeup %": "8.9",
+        "sl%slider %": "19.2",
+        "cu%curve %": "12.4",
         "max evmax exit velocity": "108.0",
         "hhhard hit": "31",
-        "hh%hard hit %": "39.7",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "5",
-        "brl%barrel %": "6.4",
+        "brl%barrel %": "6.3",
         "ab": "112",
         "avg": ".241",
         "h": "27",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "4",
         "so": "31",
-        "bipballs in play": "78",
+        "bipballs in play": "79",
         "liveGames": 6,
         "totGames": 15,
-        "updated": "2025-06-10 19:32:47.484009"
+        "updated": "2025-06-10 19:32:55.157283"
     },
     "det @ bal": [
         {
@@ -810,7 +810,7 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1504,10 +1504,10 @@
             "team": "wsh",
             "start": "7:10 PM",
             "in": "2",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "88.0",
+            "la": "42",
+            "dist": "296"
         },
         {
             "player": "robert hassell",
