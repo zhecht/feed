@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "17",
         "batters": "108",
-        "pitches": "612",
+        "pitches": "618",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "42.3",
+        "ff%fourseam fastball %": "41.9",
         "si%sinker %": "13.4",
         "fc%cutter %": "2.8",
         "fs%splitter %": "1.5",
-        "ch%changeup %": "9.6",
-        "sl%slider %": "18.5",
-        "cu%curve %": "11.9",
+        "ch%changeup %": "9.7",
+        "sl%slider %": "18.8",
+        "cu%curve %": "12.0",
         "max evmax exit velocity": "108.0",
         "hhhard hit": "47",
-        "hh%hard hit %": "43.5",
+        "hh%hard hit %": "42.7",
         "brlbarrels": "8",
-        "brl%barrel %": "7.4",
-        "ab": "148",
-        "avg": ".257",
+        "brl%barrel %": "7.3",
+        "ab": "149",
+        "avg": ".255",
         "h": "38",
         "1b": "23",
         "2b": "9",
         "3b": "1",
         "hr": "5",
         "so": "36",
-        "bipballs in play": "108",
+        "bipballs in play": "110",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-10 19:43:17.110211"
+        "updated": "2025-06-10 19:43:25.013313"
     },
     "det @ bal": [
         {
@@ -965,6 +965,21 @@
         }
     ],
     "mia @ pit": [
+        {
+            "player": "adam frazier",
+            "game": "mia @ pit",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-06-10 19:43:23",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "nick gonzales",
             "game": "mia @ pit",
@@ -2091,10 +2106,10 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "83.6",
+            "la": "60",
+            "dist": "186"
         },
         {
             "player": "marcelo mayer",
@@ -2383,9 +2398,9 @@
             "start": "7:40 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "93.2",
+            "la": "4",
+            "dist": "78"
         }
     ],
     "tor @ stl": [],
