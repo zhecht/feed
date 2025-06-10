@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "22",
-        "batters": "142",
-        "pitches": "885",
+        "batters": "144",
+        "pitches": "892",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "40.3",
+        "ff%fourseam fastball %": "40.2",
         "si%sinker %": "11.8",
-        "fc%cutter %": "3.4",
+        "fc%cutter %": "3.6",
         "fs%splitter %": "1.1",
-        "ch%changeup %": "10.3",
-        "sl%slider %": "19.7",
-        "cu%curve %": "13.4",
+        "ch%changeup %": "10.2",
+        "sl%slider %": "19.6",
+        "cu%curve %": "13.5",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "69",
-        "hh%hard hit %": "42.9",
+        "hh%hard hit %": "42.6",
         "brlbarrels": "15",
         "brl%barrel %": "9.3",
-        "ab": "215",
-        "avg": ".274",
-        "h": "59",
+        "ab": "217",
+        "avg": ".276",
+        "h": "60",
         "1b": "37",
         "2b": "12",
-        "3b": "1",
+        "3b": "2",
         "hr": "9",
-        "so": "49",
-        "bipballs in play": "161",
+        "so": "50",
+        "bipballs in play": "162",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-10 19:58:02.562773"
+        "updated": "2025-06-10 19:58:10.902696"
     },
     "det @ bal": [
         {
@@ -41,10 +41,10 @@
             "team": "det",
             "start": "6:35 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Triple",
+            "evo": "94.1",
+            "la": "20",
+            "dist": "299"
         },
         {
             "player": "spencer torkelson",
@@ -3243,6 +3243,21 @@
     ],
     "atl @ mil": [
         {
+            "player": "rhys hoskins",
+            "game": "atl @ mil",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-06-10 19:58:08",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jake bauers",
             "game": "atl @ mil",
             "hr/park": "",
@@ -3252,7 +3267,7 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "81.8",
             "la": "-13",
             "dist": "10"
@@ -3365,6 +3380,21 @@
     ],
     "tor @ stl": [
         {
+            "player": "ivan herrera",
+            "game": "tor @ stl",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-06-10 19:58:08",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "masyn winn",
             "game": "tor @ stl",
             "hr/park": "",
@@ -3374,7 +3404,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
