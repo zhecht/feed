@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "13",
-        "batters": "97",
-        "pitches": "517",
+        "batters": "98",
+        "pitches": "521",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "41.0",
-        "si%sinker %": "14.1",
+        "ff%fourseam fastball %": "41.3",
+        "si%sinker %": "14.0",
         "fc%cutter %": "2.1",
         "fs%splitter %": "1.7",
         "ch%changeup %": "10.4",
         "sl%slider %": "19.0",
-        "cu%curve %": "11.6",
+        "cu%curve %": "11.5",
         "max evmax exit velocity": "108.0",
         "hhhard hit": "37",
-        "hh%hard hit %": "41.6",
+        "hh%hard hit %": "40.7",
         "brlbarrels": "7",
-        "brl%barrel %": "7.9",
-        "ab": "124",
-        "avg": ".242",
-        "h": "30",
-        "1b": "18",
+        "brl%barrel %": "7.7",
+        "ab": "125",
+        "avg": ".248",
+        "h": "31",
+        "1b": "19",
         "2b": "6",
         "3b": "1",
         "hr": "5",
         "so": "33",
-        "bipballs in play": "89",
+        "bipballs in play": "91",
         "liveGames": 6,
         "totGames": 15,
-        "updated": "2025-06-10 19:36:18.049095"
+        "updated": "2025-06-10 19:36:25.828710"
     },
     "det @ bal": [
         {
@@ -861,6 +861,21 @@
     ],
     "mia @ pit": [
         {
+            "player": "eric wagaman",
+            "game": "mia @ pit",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-06-10 19:36:23",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "Wild Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle stowers",
             "game": "mia @ pit",
             "hr/park": "",
@@ -870,10 +885,10 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "94.8",
+            "la": "57",
+            "dist": "250"
         },
         {
             "player": "agustin ramirez",
@@ -1615,21 +1630,6 @@
     ],
     "wsh @ nym": [
         {
-            "player": "cj abrams",
-            "game": "wsh @ nym",
-            "hr/park": "",
-            "pa": "14",
-            "dt": "2025-06-10 19:35:53",
-            "img": "https://www.mlbstatic.com/team-logos/120.svg",
-            "team": "wsh",
-            "start": "7:10 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jose tena",
             "game": "wsh @ nym",
             "hr/park": "",
@@ -1826,6 +1826,21 @@
         }
     ],
     "tb @ bos": [
+        {
+            "player": "jose caballero",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-06-10 19:36:23",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:10 PM",
+            "in": "2",
+            "result": "Single",
+            "evo": "75.0",
+            "la": "23",
+            "dist": "239"
+        },
         {
             "player": "josh lowe",
             "game": "tb @ bos",
