@@ -1,17 +1,17 @@
 {
     "all": {
-        "pitchers": "8",
-        "batters": "60",
-        "pitches": "237",
+        "pitchers": "9",
+        "batters": "61",
+        "pitches": "241",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "73.1",
-        "ff%fourseam fastball %": "40.1",
-        "si%sinker %": "16.5",
+        "ff%fourseam fastball %": "40.2",
+        "si%sinker %": "16.2",
         "fc%cutter %": "2.1",
         "fs%splitter %": "2.1",
-        "ch%changeup %": "8.4",
-        "sl%slider %": "16.9",
-        "cu%curve %": "13.9",
+        "ch%changeup %": "8.3",
+        "sl%slider %": "17.0",
+        "cu%curve %": "14.1",
         "max evmax exit velocity": "108.0",
         "hhhard hit": "12",
         "hh%hard hit %": "32.4",
@@ -24,28 +24,13 @@
         "2b": "2",
         "3b": "1",
         "hr": "1",
-        "so": "18",
+        "so": "19",
         "bipballs in play": "37",
         "liveGames": 6,
         "totGames": 15,
-        "updated": "2025-06-10 19:11:45.494426"
+        "updated": "2025-06-10 19:11:53.090152"
     },
     "det @ bal": [
-        {
-            "player": "jahmai jones",
-            "game": "det @ bal",
-            "hr/park": "",
-            "pa": "18",
-            "dt": "2025-06-10 19:11:10",
-            "img": "https://www.mlbstatic.com/team-logos/116.svg",
-            "team": "det",
-            "start": "6:35 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "parker meadows",
             "game": "det @ bal",
@@ -313,7 +298,7 @@
             "team": "cin",
             "start": "6:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -954,7 +939,23 @@
         }
     ],
     "wsh @ nym": [],
-    "tb @ bos": [],
+    "tb @ bos": [
+        {
+            "player": "yandy diaz",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-10 19:11:53",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "tex @ min": [],
     "nyy @ kc": [],
     "atl @ mil": [],
