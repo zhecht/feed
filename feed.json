@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "4",
-        "batters": "11",
-        "pitches": "46",
+        "pitchers": "5",
+        "batters": "13",
+        "pitches": "52",
         "max velomax pitch velocity": "96.7",
         "min velomin pitch velocity": "76.5",
-        "ff%fourseam fastball %": "45.7",
-        "si%sinker %": "17.4",
+        "ff%fourseam fastball %": "44.2",
+        "si%sinker %": "17.3",
         "fc%cutter %": "0.0",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "8.7",
-        "sl%slider %": "13.0",
-        "cu%curve %": "15.2",
+        "ch%changeup %": "7.7",
+        "sl%slider %": "15.4",
+        "cu%curve %": "15.4",
         "max evmax exit velocity": "108.0",
         "hhhard hit": "2",
-        "hh%hard hit %": "40.0",
+        "hh%hard hit %": "33.3",
         "brlbarrels": "1",
-        "brl%barrel %": "20.0",
-        "ab": "10",
+        "brl%barrel %": "16.7",
+        "ab": "12",
         "avg": ".000",
         "h": "0",
         "1b": "0",
@@ -25,12 +25,27 @@
         "3b": "0",
         "hr": "0",
         "so": "4",
-        "bipballs in play": "5",
+        "bipballs in play": "6",
         "liveGames": 4,
         "totGames": 15,
-        "updated": "2025-06-10 18:47:15.602604"
+        "updated": "2025-06-10 18:47:22.971791"
     },
     "det @ bal": [
+        {
+            "player": "adley rutschman",
+            "game": "det @ bal",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-06-10 18:47:22",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jackson holliday",
             "game": "det @ bal",
@@ -41,7 +56,7 @@
             "team": "bal",
             "start": "6:35 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "101.7",
             "la": "20",
             "dist": "339"
@@ -166,9 +181,9 @@
             "start": "6:40 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "93.0",
+            "la": "-19",
+            "dist": "8"
         },
         {
             "player": "jesus sanchez",
@@ -201,7 +216,23 @@
             "dist": "320"
         }
     ],
-    "chc @ phi": [],
+    "chc @ phi": [
+        {
+            "player": "ian happ",
+            "game": "chc @ phi",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-10 18:47:22",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:45 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "wsh @ nym": [],
     "tb @ bos": [],
     "tex @ min": [],
