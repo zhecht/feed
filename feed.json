@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "37",
         "batters": "195",
-        "pitches": "1732",
+        "pitches": "1734",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "35.7",
+        "ff%fourseam fastball %": "35.8",
         "si%sinker %": "11.1",
         "fc%cutter %": "5.1",
         "fs%splitter %": "1.4",
         "ch%changeup %": "10.3",
-        "sl%slider %": "23.3",
+        "sl%slider %": "23.2",
         "cu%curve %": "13.0",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "132",
-        "hh%hard hit %": "41.5",
+        "hhhard hit": "133",
+        "hh%hard hit %": "41.6",
         "brlbarrels": "28",
         "brl%barrel %": "8.8",
         "ab": "422",
@@ -24,11 +24,11 @@
         "2b": "18",
         "3b": "2",
         "hr": "15",
-        "so": "106",
-        "bipballs in play": "318",
+        "so": "105",
+        "bipballs in play": "320",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-10 20:41:50.895027"
+        "updated": "2025-06-10 20:42:00.164149"
     },
     "det @ bal": [
         {
@@ -1815,7 +1815,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "8",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2740,7 +2740,7 @@
         {
             "player": "ian happ",
             "game": "chc @ phi",
-            "hr/park": "",
+            "hr/park": "27/30",
             "pa": "51",
             "dt": "2025-06-10 20:41:08",
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
@@ -2748,9 +2748,9 @@
             "start": "6:45 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "102.9",
+            "la": "43",
+            "dist": "361"
         },
         {
             "player": "reese mcguire",
@@ -4763,7 +4763,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Mound Visit",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6139,6 +6139,21 @@
         }
     ],
     "tor @ stl": [
+        {
+            "player": "brendan donovan",
+            "game": "tor @ stl",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-06-10 20:41:53",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "4",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "myles straw",
             "game": "tor @ stl",
