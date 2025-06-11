@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "56",
         "batters": "221",
-        "pitches": "2470",
+        "pitches": "2474",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "70.2",
-        "ff%fourseam fastball %": "35.1",
+        "ff%fourseam fastball %": "35.2",
         "si%sinker %": "11.3",
         "fc%cutter %": "6.5",
         "fs%splitter %": "1.9",
@@ -14,21 +14,21 @@
         "cu%curve %": "11.6",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "192",
-        "hh%hard hit %": "42.3",
+        "hh%hard hit %": "42.2",
         "brlbarrels": "38",
         "brl%barrel %": "8.4",
-        "ab": "589",
-        "avg": ".251",
-        "h": "148",
-        "1b": "92",
+        "ab": "590",
+        "avg": ".254",
+        "h": "150",
+        "1b": "94",
         "2b": "32",
         "3b": "3",
         "hr": "21",
         "so": "144",
-        "bipballs in play": "454",
+        "bipballs in play": "455",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-10 21:19:49.628626"
+        "updated": "2025-06-10 21:19:59.824814"
     },
     "det @ bal": [
         {
@@ -3182,10 +3182,10 @@
             "team": "chc",
             "start": "6:45 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "94.8",
+            "la": "-3",
+            "dist": "34"
         },
         {
             "player": "ian happ",
@@ -6670,7 +6670,7 @@
             "team": "nyy",
             "start": "7:40 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8812,6 +8812,21 @@
     ],
     "chw @ hou": [
         {
+            "player": "cam smith",
+            "game": "chw @ hou",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-06-10 21:19:54",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "victor caratini",
             "game": "chw @ hou",
             "hr/park": "",
@@ -8821,7 +8836,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "101.6",
             "la": "14",
             "dist": "222"
