@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "117",
         "batters": "296",
-        "pitches": "4373",
+        "pitches": "4378",
         "max velomax pitch velocity": "101.5",
         "min velomin pitch velocity": "43.4",
         "ff%fourseam fastball %": "29.9",
-        "si%sinker %": "13.6",
+        "si%sinker %": "13.5",
         "fc%cutter %": "8.8",
         "fs%splitter %": "1.6",
         "ch%changeup %": "10.2",
@@ -14,21 +14,21 @@
         "cu%curve %": "10.1",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "340",
-        "hh%hard hit %": "42.9",
+        "hh%hard hit %": "42.8",
         "brlbarrels": "72",
         "brl%barrel %": "9.1",
-        "ab": "1018",
+        "ab": "1019",
         "avg": ".260",
         "h": "265",
         "1b": "172",
         "2b": "47",
         "3b": "8",
         "hr": "38",
-        "so": "251",
-        "bipballs in play": "792",
+        "so": "252",
+        "bipballs in play": "794",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-06-11 00:16:33.759073"
+        "updated": "2025-06-11 00:16:46.594355"
     },
     "det @ bal": [
         {
@@ -13745,10 +13745,10 @@
             "team": "ath",
             "start": "",
             "in": "10",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "84.6",
+            "la": "-20",
+            "dist": "9"
         },
         {
             "player": "max schuemann",
@@ -14802,6 +14802,21 @@
         }
     ],
     "lad @ sd": [
+        {
+            "player": "dalton rushing",
+            "game": "lad @ sd",
+            "hr/park": "",
+            "pa": "77",
+            "dt": "2025-06-11 00:16:39",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "",
+            "in": "8",
+            "result": "Flyout",
+            "evo": "94.1",
+            "la": "53",
+            "dist": "275"
+        },
         {
             "player": "tommy edman",
             "game": "lad @ sd",
@@ -15954,7 +15969,7 @@
             "team": "ari",
             "start": "",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
