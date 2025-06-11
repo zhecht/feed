@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "69",
-        "batters": "225",
-        "pitches": "2821",
+        "pitchers": "70",
+        "batters": "226",
+        "pitches": "2827",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "68.8",
-        "ff%fourseam fastball %": "33.9",
-        "si%sinker %": "12.5",
+        "ff%fourseam fastball %": "34.0",
+        "si%sinker %": "12.6",
         "fc%cutter %": "6.7",
         "fs%splitter %": "1.8",
         "ch%changeup %": "10.8",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "43.1",
         "brlbarrels": "46",
         "brl%barrel %": "8.7",
-        "ab": "675",
+        "ab": "677",
         "avg": ".256",
         "h": "173",
         "1b": "111",
         "2b": "34",
         "3b": "3",
         "hr": "25",
-        "so": "159",
+        "so": "160",
         "bipballs in play": "527",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-10 21:42:07.335943"
+        "updated": "2025-06-10 21:42:18.020647"
     },
     "det @ bal": [
         {
@@ -3172,6 +3172,21 @@
         }
     ],
     "chc @ phi": [
+        {
+            "player": "otto kemp",
+            "game": "chc @ phi",
+            "hr/park": "",
+            "pa": "79",
+            "dt": "2025-06-10 21:42:10",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:45 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "matt shaw",
             "game": "chc @ phi",
@@ -6353,7 +6368,7 @@
             "team": "tex",
             "start": "7:40 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7276,6 +7291,21 @@
     ],
     "nyy @ kc": [
         {
+            "player": "salvador perez",
+            "game": "nyy @ kc",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-06-10 21:42:10",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "vinnie pasquantino",
             "game": "nyy @ kc",
             "hr/park": "",
@@ -7285,7 +7315,7 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10554,21 +10584,6 @@
     ],
     "sf @ col": [
         {
-            "player": "dominic smith",
-            "game": "sf @ col",
-            "hr/park": "",
-            "pa": "28",
-            "dt": "2025-06-10 21:40:54",
-            "img": "https://www.mlbstatic.com/team-logos/137.svg",
-            "team": "sf",
-            "start": "8:40 PM",
-            "in": "4",
-            "result": "Groundout",
-            "evo": "74.8",
-            "la": "-3",
-            "dist": "25"
-        },
-        {
             "player": "thairo estrada",
             "game": "sf @ col",
             "hr/park": "",
@@ -10976,6 +10991,21 @@
     ],
     "ath @ laa": [
         {
+            "player": "tyler soderstrom",
+            "game": "ath @ laa",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-06-10 21:42:10",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "90.0",
+            "la": "-26",
+            "dist": "6"
+        },
+        {
             "player": "brent rooker",
             "game": "ath @ laa",
             "hr/park": "",
@@ -11018,7 +11048,7 @@
             "team": "sea",
             "start": "9:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
