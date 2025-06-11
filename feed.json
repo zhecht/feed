@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "24",
         "batters": "154",
-        "pitches": "996",
+        "pitches": "1002",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "39.2",
+        "ff%fourseam fastball %": "39.1",
         "si%sinker %": "11.6",
-        "fc%cutter %": "4.2",
+        "fc%cutter %": "4.3",
         "fs%splitter %": "1.4",
         "ch%changeup %": "10.3",
-        "sl%slider %": "19.6",
-        "cu%curve %": "13.7",
+        "sl%slider %": "19.8",
+        "cu%curve %": "13.6",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "70",
         "hh%hard hit %": "39.5",
         "brlbarrels": "16",
         "brl%barrel %": "9.0",
-        "ab": "236",
-        "avg": ".263",
-        "h": "62",
+        "ab": "237",
+        "avg": ".266",
+        "h": "63",
         "1b": "39",
         "2b": "12",
         "3b": "2",
-        "hr": "9",
-        "so": "57",
+        "hr": "10",
+        "so": "60",
         "bipballs in play": "177",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-10 20:03:38.307749"
+        "updated": "2025-06-10 20:03:46.517818"
     },
     "det @ bal": [
         {
@@ -649,6 +649,21 @@
     ],
     "cin @ cle": [
         {
+            "player": "christian encarnacion strand",
+            "game": "cin @ cle",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-06-10 20:03:41",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "elly de la cruz",
             "game": "cin @ cle",
             "hr/park": "",
@@ -658,7 +673,7 @@
             "team": "cin",
             "start": "6:40 PM",
             "in": "6",
-            "result": "Mound Visit",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2367,14 +2382,14 @@
         {
             "player": "juan soto",
             "game": "wsh @ nym",
-            "hr/park": "",
+            "hr/park": "11/30",
             "pa": "26",
             "dt": "2025-06-10 20:01:38",
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
             "team": "nym",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Home Run",
             "evo": "103.9",
             "la": "37",
             "dist": "373"
@@ -2766,7 +2781,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3128,7 +3143,7 @@
             "team": "tex",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3325,10 +3340,10 @@
             "team": "nyy",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "79.3",
+            "la": "-34",
+            "dist": "3"
         },
         {
             "player": "dj lemahieu",
@@ -3674,10 +3689,10 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "1",
-            "result": "Forceout",
-            "evo": "89.6",
-            "la": "1",
-            "dist": "48"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "brendan donovan",
