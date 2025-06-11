@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "74",
+        "pitchers": "75",
         "batters": "235",
-        "pitches": "2933",
+        "pitches": "2945",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "68.8",
-        "ff%fourseam fastball %": "34.0",
+        "ff%fourseam fastball %": "33.8",
         "si%sinker %": "12.4",
-        "fc%cutter %": "6.9",
+        "fc%cutter %": "7.1",
         "fs%splitter %": "1.9",
         "ch%changeup %": "10.7",
-        "sl%slider %": "22.9",
+        "sl%slider %": "23.0",
         "cu%curve %": "11.1",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "236",
-        "hh%hard hit %": "43.1",
+        "hh%hard hit %": "43.0",
         "brlbarrels": "49",
         "brl%barrel %": "8.9",
-        "ab": "703",
-        "avg": ".253",
+        "ab": "705",
+        "avg": ".252",
         "h": "178",
         "1b": "116",
         "2b": "34",
         "3b": "3",
         "hr": "25",
-        "so": "167",
-        "bipballs in play": "548",
+        "so": "169",
+        "bipballs in play": "549",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-10 21:48:04.797016"
+        "updated": "2025-06-10 21:48:15.360584"
     },
     "det @ bal": [
         {
@@ -3172,21 +3172,6 @@
         }
     ],
     "chc @ phi": [
-        {
-            "player": "kyle schwarber",
-            "game": "chc @ phi",
-            "hr/park": "",
-            "pa": "82",
-            "dt": "2025-06-10 21:47:24",
-            "img": "https://www.mlbstatic.com/team-logos/143.svg",
-            "team": "phi",
-            "start": "6:45 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "trea turner",
             "game": "chc @ phi",
@@ -6449,6 +6434,21 @@
     ],
     "tex @ min": [
         {
+            "player": "byron buxton",
+            "game": "tex @ min",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-06-10 21:48:10",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh smith",
             "game": "tex @ min",
             "hr/park": "",
@@ -7420,7 +7420,7 @@
             "team": "nyy",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9140,6 +9140,21 @@
     ],
     "tor @ stl": [
         {
+            "player": "brendan donovan",
+            "game": "tor @ stl",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-06-10 21:48:10",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jonatan clase",
             "game": "tor @ stl",
             "hr/park": "",
@@ -10824,6 +10839,21 @@
     ],
     "sf @ col": [
         {
+            "player": "jung hoo lee",
+            "game": "sf @ col",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-06-10 21:48:10",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "8:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andrew knizner",
             "game": "sf @ col",
             "hr/park": "",
@@ -10833,10 +10863,10 @@
             "team": "sf",
             "start": "8:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "81.1",
+            "la": "67",
+            "dist": "158"
         },
         {
             "player": "tyler fitzgerald",
@@ -11300,7 +11330,7 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
