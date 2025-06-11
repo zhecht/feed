@@ -2,13 +2,13 @@
     "all": {
         "pitchers": "38",
         "batters": "147",
-        "pitches": "1633",
+        "pitches": "1634",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "71.3",
-        "ff%fourseam fastball %": "33.0",
-        "si%sinker %": "12.7",
-        "fc%cutter %": "11.5",
-        "fs%splitter %": "3.6",
+        "ff%fourseam fastball %": "32.9",
+        "si%sinker %": "12.8",
+        "fc%cutter %": "11.6",
+        "fs%splitter %": "3.5",
         "ch%changeup %": "9.6",
         "sl%slider %": "16.0",
         "cu%curve %": "13.5",
@@ -28,7 +28,7 @@
         "bipballs in play": "295",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-06-11 16:47:23.426791"
+        "updated": "2025-06-11 16:47:32.104743"
     },
     "mia @ pit": [
         {
@@ -4369,7 +4369,7 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6241,16 +6241,31 @@
     ],
     "lad @ sd": [
         {
-            "player": "shohei ohtani",
+            "player": "mookie betts",
             "game": "lad @ sd",
             "hr/park": "",
+            "pa": "21",
+            "dt": "2025-06-11 16:47:27",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "4:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "shohei ohtani",
+            "game": "lad @ sd",
+            "hr/park": "0/30",
             "pa": "20",
             "dt": "2025-06-11 16:47:11",
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
             "team": "lad",
             "start": "4:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "97.9",
             "la": "43",
             "dist": "321"
