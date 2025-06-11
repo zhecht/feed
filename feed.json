@@ -1,14 +1,14 @@
 {
     "all": {
         "pitchers": "70",
-        "batters": "191",
-        "pitches": "2367",
+        "batters": "192",
+        "pitches": "2369",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "69.8",
-        "ff%fourseam fastball %": "32.4",
-        "si%sinker %": "13.9",
+        "ff%fourseam fastball %": "32.3",
+        "si%sinker %": "13.8",
         "fc%cutter %": "10.0",
-        "fs%splitter %": "4.1",
+        "fs%splitter %": "4.2",
         "ch%changeup %": "10.6",
         "sl%slider %": "17.9",
         "cu%curve %": "11.1",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "35.1",
         "brlbarrels": "30",
         "brl%barrel %": "6.8",
-        "ab": "568",
+        "ab": "569",
         "avg": ".250",
         "h": "142",
         "1b": "90",
@@ -28,7 +28,7 @@
         "bipballs in play": "441",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-11 19:25:35.590146"
+        "updated": "2025-06-11 19:25:45.304635"
     },
     "mia @ pit": [
         {
@@ -9262,7 +9262,7 @@
         {
             "player": "jeff mcneil",
             "game": "wsh @ nym",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "8",
             "dt": "2025-06-11 19:23:43",
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
@@ -9382,6 +9382,21 @@
     ],
     "tb @ bos": [
         {
+            "player": "roman anthony",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-06-11 19:25:42",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "carlos narvaez",
             "game": "tb @ bos",
             "hr/park": "",
@@ -9391,7 +9406,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "96.0",
             "la": "-4",
             "dist": "30"
