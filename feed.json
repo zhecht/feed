@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "100",
         "batters": "286",
-        "pitches": "3774",
+        "pitches": "3780",
         "max velomax pitch velocity": "101.5",
         "min velomin pitch velocity": "63.9",
         "ff%fourseam fastball %": "31.5",
@@ -13,22 +13,22 @@
         "sl%slider %": "24.2",
         "cu%curve %": "10.4",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "292",
-        "hh%hard hit %": "42.3",
+        "hhhard hit": "294",
+        "hh%hard hit %": "42.4",
         "brlbarrels": "61",
         "brl%barrel %": "8.8",
-        "ab": "894",
-        "avg": ".251",
+        "ab": "895",
+        "avg": ".250",
         "h": "224",
         "1b": "146",
         "2b": "41",
         "3b": "5",
         "hr": "32",
         "so": "221",
-        "bipballs in play": "691",
+        "bipballs in play": "693",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-10 22:46:23.000748"
+        "updated": "2025-06-10 22:46:34.827851"
     },
     "det @ bal": [
         {
@@ -11401,10 +11401,10 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "9",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "103.0",
+            "la": "7",
+            "dist": "123"
         },
         {
             "player": "chase meidroth",
@@ -13346,6 +13346,21 @@
     ],
     "ath @ laa": [
         {
+            "player": "jo adell",
+            "game": "ath @ laa",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-06-10 22:46:26",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "logan ohoppe",
             "game": "ath @ laa",
             "hr/park": "",
@@ -13355,10 +13370,10 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "95.4",
+            "la": "47",
+            "dist": "309"
         },
         {
             "player": "austin wynns",
@@ -14244,7 +14259,7 @@
             "team": "ari",
             "start": "9:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
