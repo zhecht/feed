@@ -2,25 +2,25 @@
     "all": {
         "pitchers": "18",
         "batters": "94",
-        "pitches": "837",
+        "pitches": "839",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "75.0",
         "ff%fourseam fastball %": "33.1",
-        "si%sinker %": "11.5",
-        "fc%cutter %": "9.4",
+        "si%sinker %": "11.4",
+        "fc%cutter %": "9.5",
         "fs%splitter %": "4.5",
         "ch%changeup %": "11.0",
-        "sl%slider %": "14.0",
-        "cu%curve %": "16.5",
+        "sl%slider %": "13.9",
+        "cu%curve %": "16.4",
         "max evmax exit velocity": "112.2",
         "hhhard hit": "53",
         "hh%hard hit %": "35.3",
         "brlbarrels": "11",
         "brl%barrel %": "7.3",
-        "ab": "201",
-        "avg": ".279",
-        "h": "56",
-        "1b": "32",
+        "ab": "202",
+        "avg": ".282",
+        "h": "57",
+        "1b": "33",
         "2b": "12",
         "3b": "2",
         "hr": "10",
@@ -28,7 +28,7 @@
         "bipballs in play": "150",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-06-11 14:59:04.922437"
+        "updated": "2025-06-11 14:59:13.022331"
     },
     "mia @ pit": [
         {
@@ -1845,7 +1845,7 @@
             "team": "cin",
             "start": "1:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3055,6 +3055,21 @@
     ],
     "tor @ stl": [
         {
+            "player": "vladimir guerrero",
+            "game": "tor @ stl",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-06-11 14:59:11",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "2:15 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bo bichette",
             "game": "tor @ stl",
             "hr/park": "",
@@ -3064,7 +3079,7 @@
             "team": "tor",
             "start": "2:15 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "111.9",
             "la": "1",
             "dist": "68"
