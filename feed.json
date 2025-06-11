@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "27",
-        "batters": "174",
-        "pitches": "1184",
+        "batters": "176",
+        "pitches": "1194",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "38.1",
+        "ff%fourseam fastball %": "37.9",
         "si%sinker %": "11.7",
-        "fc%cutter %": "5.1",
+        "fc%cutter %": "5.2",
         "fs%splitter %": "1.2",
-        "ch%changeup %": "10.2",
+        "ch%changeup %": "10.1",
         "sl%slider %": "20.4",
         "cu%curve %": "13.4",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "82",
-        "hh%hard hit %": "37.8",
+        "hhhard hit": "84",
+        "hh%hard hit %": "38.0",
         "brlbarrels": "18",
-        "brl%barrel %": "8.3",
-        "ab": "291",
-        "avg": ".244",
+        "brl%barrel %": "8.1",
+        "ab": "294",
+        "avg": ".241",
         "h": "71",
         "1b": "47",
         "2b": "12",
         "3b": "2",
         "hr": "10",
         "so": "71",
-        "bipballs in play": "217",
+        "bipballs in play": "221",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-10 20:13:46.295715"
+        "updated": "2025-06-10 20:13:55.060724"
     },
     "det @ bal": [
         {
@@ -41,10 +41,10 @@
             "team": "det",
             "start": "6:35 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "60.0",
+            "la": "-16",
+            "dist": "8"
         },
         {
             "player": "parker meadows",
@@ -748,7 +748,7 @@
             "team": "cin",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2734,10 +2734,10 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "4",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "67.8",
+            "la": "-24",
+            "dist": "6"
         },
         {
             "player": "keibert ruiz",
@@ -3191,6 +3191,21 @@
         }
     ],
     "tb @ bos": [
+        {
+            "player": "trevor story",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-06-10 20:13:53",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "104.9",
+            "la": "7",
+            "dist": "124"
+        },
         {
             "player": "christopher morel",
             "game": "tb @ bos",
@@ -4158,6 +4173,21 @@
     ],
     "atl @ mil": [
         {
+            "player": "caleb durbin",
+            "game": "atl @ mil",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-06-10 20:13:53",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "isaac collins",
             "game": "atl @ mil",
             "hr/park": "",
@@ -4642,11 +4672,11 @@
     ],
     "chw @ hou": [
         {
-            "player": "mike tauchman",
+            "player": "chase meidroth",
             "game": "chw @ hou",
             "hr/park": "",
-            "pa": "1",
-            "dt": "2025-06-10 20:11:39",
+            "pa": "2",
+            "dt": "2025-06-10 20:13:53",
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
             "team": "chw",
             "start": "8:10 PM",
@@ -4655,6 +4685,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "mike tauchman",
+            "game": "chw @ hou",
+            "hr/park": "0/30",
+            "pa": "1",
+            "dt": "2025-06-10 20:11:39",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "Lineout",
+            "evo": "101.7",
+            "la": "22",
+            "dist": "350"
         }
     ],
     "sf @ col": [],
