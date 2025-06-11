@@ -1,17 +1,17 @@
 {
     "all": {
         "pitchers": "8",
-        "batters": "56",
-        "pitches": "439",
+        "batters": "55",
+        "pitches": "442",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "75.0",
-        "ff%fourseam fastball %": "29.8",
-        "si%sinker %": "11.4",
-        "fc%cutter %": "8.2",
+        "ff%fourseam fastball %": "29.6",
+        "si%sinker %": "11.3",
+        "fc%cutter %": "8.1",
         "fs%splitter %": "6.8",
-        "ch%changeup %": "9.8",
-        "sl%slider %": "13.9",
-        "cu%curve %": "20.0",
+        "ch%changeup %": "9.7",
+        "sl%slider %": "13.8",
+        "cu%curve %": "20.6",
         "max evmax exit velocity": "109.6",
         "hhhard hit": "24",
         "hh%hard hit %": "35.3",
@@ -24,11 +24,11 @@
         "2b": "5",
         "3b": "1",
         "hr": "5",
-        "so": "27",
+        "so": "28",
         "bipballs in play": "68",
         "liveGames": 4,
         "totGames": 15,
-        "updated": "2025-06-11 14:14:10.991012"
+        "updated": "2025-06-11 14:14:18.620952"
     },
     "mia @ pit": [
         {
@@ -1176,6 +1176,21 @@
     ],
     "cin @ cle": [
         {
+            "player": "dom nunez",
+            "game": "cin @ cle",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-06-11 14:14:13",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "1:10 PM",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "johnathan rodriguez",
             "game": "cin @ cle",
             "hr/park": "",
@@ -1185,7 +1200,7 @@
             "team": "cle",
             "start": "1:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1628,21 +1643,6 @@
     ],
     "atl @ mil": [
         {
-            "player": "drake baldwin",
-            "game": "atl @ mil",
-            "hr/park": "",
-            "pa": "2",
-            "dt": "2025-06-11 14:13:58",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "2:10 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "ronald acuna",
             "game": "atl @ mil",
             "hr/park": "",
@@ -1652,7 +1652,7 @@
             "team": "atl",
             "start": "2:10 PM",
             "in": "1",
-            "result": "Flyout",
+            "result": "In Progress",
             "evo": "78.7",
             "la": "48",
             "dist": "230"
