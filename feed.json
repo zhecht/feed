@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "57",
+        "pitchers": "58",
         "batters": "221",
-        "pitches": "2536",
+        "pitches": "2540",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "70.2",
         "ff%fourseam fastball %": "35.0",
@@ -10,25 +10,25 @@
         "fc%cutter %": "6.5",
         "fs%splitter %": "1.8",
         "ch%changeup %": "10.9",
-        "sl%slider %": "22.7",
-        "cu%curve %": "11.4",
+        "sl%slider %": "22.8",
+        "cu%curve %": "11.3",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "203",
-        "hh%hard hit %": "43.3",
+        "hh%hard hit %": "43.2",
         "brlbarrels": "40",
         "brl%barrel %": "8.5",
-        "ab": "603",
-        "avg": ".254",
-        "h": "153",
-        "1b": "96",
+        "ab": "605",
+        "avg": ".255",
+        "h": "154",
+        "1b": "97",
         "2b": "33",
         "3b": "3",
         "hr": "21",
-        "so": "146",
-        "bipballs in play": "469",
+        "so": "147",
+        "bipballs in play": "470",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-10 21:24:45.109726"
+        "updated": "2025-06-10 21:24:55.773719"
     },
     "det @ bal": [
         {
@@ -3182,7 +3182,7 @@
             "team": "chc",
             "start": "6:45 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4225,6 +4225,21 @@
     ],
     "wsh @ nym": [
         {
+            "player": "ronny mauricio",
+            "game": "wsh @ nym",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-06-10 21:24:53",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "robert hassell",
             "game": "wsh @ nym",
             "hr/park": "",
@@ -5126,6 +5141,21 @@
         }
     ],
     "tb @ bos": [
+        {
+            "player": "danny jansen",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-10 21:23:53",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "abraham toro",
             "game": "tb @ bos",
@@ -6781,21 +6811,6 @@
     ],
     "nyy @ kc": [
         {
-            "player": "paul goldschmidt",
-            "game": "nyy @ kc",
-            "hr/park": "",
-            "pa": "46",
-            "dt": "2025-06-10 21:24:25",
-            "img": "https://www.mlbstatic.com/team-logos/147.svg",
-            "team": "nyy",
-            "start": "7:40 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "austin wells",
             "game": "nyy @ kc",
             "hr/park": "",
@@ -8210,9 +8225,24 @@
     ],
     "tor @ stl": [
         {
-            "player": "bo bichette",
+            "player": "addison barger",
             "game": "tor @ stl",
             "hr/park": "",
+            "pa": "54",
+            "dt": "2025-06-10 21:24:53",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:45 PM",
+            "in": "7",
+            "result": "Single",
+            "evo": "83.2",
+            "la": "-5",
+            "dist": "23"
+        },
+        {
+            "player": "bo bichette",
+            "game": "tor @ stl",
+            "hr/park": "8/30",
             "pa": "53",
             "dt": "2025-06-10 21:22:38",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
