@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "32",
-        "batters": "185",
-        "pitches": "1436",
+        "batters": "187",
+        "pitches": "1438",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "37.0",
-        "si%sinker %": "11.6",
+        "ff%fourseam fastball %": "37.1",
+        "si%sinker %": "11.5",
         "fc%cutter %": "4.7",
         "fs%splitter %": "1.3",
         "ch%changeup %": "10.2",
-        "sl%slider %": "22.1",
+        "sl%slider %": "22.0",
         "cu%curve %": "13.1",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "101",
-        "hh%hard hit %": "37.8",
+        "hhhard hit": "103",
+        "hh%hard hit %": "38.3",
         "brlbarrels": "22",
         "brl%barrel %": "8.2",
-        "ab": "352",
-        "avg": ".233",
-        "h": "82",
-        "1b": "55",
+        "ab": "354",
+        "avg": ".234",
+        "h": "83",
+        "1b": "56",
         "2b": "14",
         "3b": "2",
         "hr": "11",
-        "so": "87",
-        "bipballs in play": "267",
+        "so": "86",
+        "bipballs in play": "269",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-10 20:26:32.448204"
+        "updated": "2025-06-10 20:26:41.286436"
     },
     "det @ bal": [
         {
@@ -41,7 +41,7 @@
             "team": "det",
             "start": "6:35 PM",
             "in": "7",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4923,6 +4923,21 @@
     ],
     "atl @ mil": [
         {
+            "player": "joey ortiz",
+            "game": "atl @ mil",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-06-10 20:26:38",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "Single",
+            "evo": "103.6",
+            "la": "12",
+            "dist": "262"
+        },
+        {
             "player": "marcell ozuna",
             "game": "atl @ mil",
             "hr/park": "0/30",
@@ -5239,6 +5254,21 @@
         }
     ],
     "tor @ stl": [
+        {
+            "player": "victor scott",
+            "game": "tor @ stl",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-06-10 20:26:38",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "101.1",
+            "la": "48",
+            "dist": "313"
+        },
         {
             "player": "alejandro kirk",
             "game": "tor @ stl",
