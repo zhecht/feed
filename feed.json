@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "71",
         "batters": "227",
-        "pitches": "2840",
+        "pitches": "2844",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "68.8",
-        "ff%fourseam fastball %": "34.0",
+        "ff%fourseam fastball %": "33.9",
         "si%sinker %": "12.6",
-        "fc%cutter %": "6.7",
+        "fc%cutter %": "6.8",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "10.7",
+        "ch%changeup %": "10.8",
         "sl%slider %": "23.1",
         "cu%curve %": "11.1",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "229",
-        "hh%hard hit %": "43.1",
+        "hh%hard hit %": "43.0",
         "brlbarrels": "47",
-        "brl%barrel %": "8.9",
-        "ab": "681",
+        "brl%barrel %": "8.8",
+        "ab": "682",
         "avg": ".254",
         "h": "173",
         "1b": "111",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "25",
         "so": "160",
-        "bipballs in play": "531",
+        "bipballs in play": "532",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-10 21:43:02.144253"
+        "updated": "2025-06-10 21:43:13.036016"
     },
     "det @ bal": [
         {
@@ -3182,10 +3182,10 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "87.3",
+            "la": "30",
+            "dist": "318"
         },
         {
             "player": "matt shaw",
@@ -6359,9 +6359,24 @@
     ],
     "tex @ min": [
         {
-            "player": "adolis garcia",
+            "player": "kyle higashioka",
             "game": "tex @ min",
             "hr/park": "",
+            "pa": "63",
+            "dt": "2025-06-10 21:43:09",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "92.3",
+            "la": "-4",
+            "dist": "21"
+        },
+        {
+            "player": "adolis garcia",
+            "game": "tex @ min",
+            "hr/park": "0/30",
             "pa": "62",
             "dt": "2025-06-10 21:40:54",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
@@ -7301,9 +7316,9 @@
             "start": "7:40 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "71.8",
-            "la": "-6",
-            "dist": "21"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "vinnie pasquantino",
@@ -10608,7 +10623,7 @@
             "team": "sf",
             "start": "8:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
