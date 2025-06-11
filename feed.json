@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "39",
         "batters": "149",
-        "pitches": "1744",
+        "pitches": "1747",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "71.3",
         "ff%fourseam fastball %": "32.6",
-        "si%sinker %": "13.5",
+        "si%sinker %": "13.6",
         "fc%cutter %": "11.6",
-        "fs%splitter %": "3.4",
+        "fs%splitter %": "3.3",
         "ch%changeup %": "9.7",
-        "sl%slider %": "16.2",
+        "sl%slider %": "16.1",
         "cu%curve %": "13.1",
         "max evmax exit velocity": "112.2",
-        "hhhard hit": "113",
-        "hh%hard hit %": "35.1",
+        "hhhard hit": "115",
+        "hh%hard hit %": "35.4",
         "brlbarrels": "20",
         "brl%barrel %": "6.2",
-        "ab": "423",
+        "ab": "424",
         "avg": ".243",
         "h": "103",
         "1b": "67",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "16",
         "so": "109",
-        "bipballs in play": "322",
+        "bipballs in play": "325",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-06-11 17:04:09.690960"
+        "updated": "2025-06-11 17:04:18.906521"
     },
     "mia @ pit": [
         {
@@ -4360,21 +4360,6 @@
     ],
     "tor @ stl": [
         {
-            "player": "lars nootbaar",
-            "game": "tor @ stl",
-            "hr/park": "",
-            "pa": "77",
-            "dt": "2025-06-11 17:03:57",
-            "img": "https://www.mlbstatic.com/team-logos/138.svg",
-            "team": "stl",
-            "start": "2:15 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "victor scott",
             "game": "tor @ stl",
             "hr/park": "",
@@ -4384,7 +4369,7 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "9",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "58.0",
             "la": "-9",
             "dist": "16"
@@ -5517,6 +5502,21 @@
     ],
     "sea @ ari": [
         {
+            "player": "lourdes gurriel",
+            "game": "sea @ ari",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-06-11 17:04:12",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "3:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "96.0",
+            "la": "-16",
+            "dist": "9"
+        },
+        {
             "player": "eugenio suarez",
             "game": "sea @ ari",
             "hr/park": "30/30",
@@ -6224,6 +6224,21 @@
     ],
     "ath @ laa": [
         {
+            "player": "luis urias",
+            "game": "ath @ laa",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-06-11 17:04:12",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "4:07 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "98.7",
+            "la": "8",
+            "dist": "134"
+        },
+        {
             "player": "zach neto",
             "game": "ath @ laa",
             "hr/park": "",
@@ -6610,10 +6625,10 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "60.4",
+            "la": "58",
+            "dist": "135"
         },
         {
             "player": "max muncy",
