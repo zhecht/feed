@@ -2,13 +2,13 @@
     "all": {
         "pitchers": "101",
         "batters": "288",
-        "pitches": "3818",
+        "pitches": "3819",
         "max velomax pitch velocity": "101.5",
         "min velomin pitch velocity": "63.9",
         "ff%fourseam fastball %": "31.4",
         "si%sinker %": "13.4",
         "fc%cutter %": "8.5",
-        "fs%splitter %": "1.7",
+        "fs%splitter %": "1.6",
         "ch%changeup %": "10.3",
         "sl%slider %": "24.3",
         "cu%curve %": "10.4",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "42.2",
         "brlbarrels": "61",
         "brl%barrel %": "8.7",
-        "ab": "905",
+        "ab": "906",
         "avg": ".249",
-        "h": "225",
-        "1b": "147",
+        "h": "226",
+        "1b": "148",
         "2b": "41",
         "3b": "5",
         "hr": "32",
@@ -28,7 +28,7 @@
         "bipballs in play": "699",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-10 22:51:23.806101"
+        "updated": "2025-06-10 22:51:35.548389"
     },
     "det @ bal": [
         {
@@ -13415,7 +13415,7 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -14385,6 +14385,21 @@
     ],
     "sea @ ari": [
         {
+            "player": "julio rodriguez",
+            "game": "sea @ ari",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-06-10 22:51:27",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "9:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jp crawford",
             "game": "sea @ ari",
             "hr/park": "",
@@ -14394,7 +14409,7 @@
             "team": "sea",
             "start": "9:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "90.4",
             "la": "-17",
             "dist": "9"
