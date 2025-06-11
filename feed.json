@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "31",
+        "pitchers": "32",
         "batters": "184",
-        "pitches": "1395",
+        "pitches": "1404",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "36.9",
+        "ff%fourseam fastball %": "37.0",
         "si%sinker %": "11.8",
-        "fc%cutter %": "4.5",
+        "fc%cutter %": "4.6",
         "fs%splitter %": "1.4",
-        "ch%changeup %": "10.1",
-        "sl%slider %": "22.0",
-        "cu%curve %": "13.3",
+        "ch%changeup %": "10.0",
+        "sl%slider %": "22.1",
+        "cu%curve %": "13.2",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "98",
-        "hh%hard hit %": "37.7",
-        "brlbarrels": "21",
-        "brl%barrel %": "8.1",
-        "ab": "347",
+        "hhhard hit": "100",
+        "hh%hard hit %": "38.0",
+        "brlbarrels": "22",
+        "brl%barrel %": "8.4",
+        "ab": "348",
         "avg": ".236",
         "h": "82",
         "1b": "55",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "11",
         "so": "85",
-        "bipballs in play": "260",
+        "bipballs in play": "263",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-10 20:24:36.016628"
+        "updated": "2025-06-10 20:24:44.815922"
     },
     "det @ bal": [
         {
@@ -829,6 +829,21 @@
     ],
     "cin @ cle": [
         {
+            "player": "matt mclain",
+            "game": "cin @ cle",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-06-10 20:24:09",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "Walk",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gabriel arias",
             "game": "cin @ cle",
             "hr/park": "",
@@ -1565,6 +1580,21 @@
         }
     ],
     "mia @ pit": [
+        {
+            "player": "henry davis",
+            "game": "mia @ pit",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-06-10 20:24:39",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "adam frazier",
             "game": "mia @ pit",
@@ -4104,9 +4134,9 @@
             "start": "7:40 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "112.7",
+            "la": "13",
+            "dist": "340"
         },
         {
             "player": "trevor larnach",
@@ -4790,17 +4820,17 @@
         {
             "player": "marcell ozuna",
             "game": "atl @ mil",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "21",
             "dt": "2025-06-10 20:23:24",
             "img": "https://www.mlbstatic.com/team-logos/144.svg",
             "team": "atl",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "93.7",
+            "la": "26",
+            "dist": "348"
         },
         {
             "player": "matt olson",
@@ -5417,9 +5447,9 @@
             "start": "8:10 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "99.4",
+            "la": "24",
+            "dist": "339"
         },
         {
             "player": "jose altuve",
