@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "89",
-        "batters": "267",
-        "pitches": "3363",
+        "pitchers": "90",
+        "batters": "268",
+        "pitches": "3364",
         "max velomax pitch velocity": "101.5",
         "min velomin pitch velocity": "68.8",
         "ff%fourseam fastball %": "33.1",
-        "si%sinker %": "12.8",
+        "si%sinker %": "12.9",
         "fc%cutter %": "7.8",
         "fs%splitter %": "1.8",
         "ch%changeup %": "10.2",
@@ -18,17 +18,17 @@
         "brlbarrels": "55",
         "brl%barrel %": "8.8",
         "ab": "806",
-        "avg": ".253",
-        "h": "204",
+        "avg": ".254",
+        "h": "205",
         "1b": "134",
-        "2b": "37",
+        "2b": "38",
         "3b": "3",
         "hr": "30",
-        "so": "196",
+        "so": "197",
         "bipballs in play": "625",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-10 22:12:46.438457"
+        "updated": "2025-06-10 22:12:57.772922"
     },
     "det @ bal": [
         {
@@ -6509,6 +6509,21 @@
     ],
     "tex @ min": [
         {
+            "player": "matt wallner",
+            "game": "tex @ min",
+            "hr/park": "",
+            "pa": "78",
+            "dt": "2025-06-10 22:12:56",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh smith",
             "game": "tex @ min",
             "hr/park": "",
@@ -8712,7 +8727,7 @@
             "team": "atl",
             "start": "7:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10882,21 +10897,6 @@
     ],
     "chw @ hou": [
         {
-            "player": "kyle teel",
-            "game": "chw @ hou",
-            "hr/park": "",
-            "pa": "60",
-            "dt": "2025-06-10 22:12:42",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "start": "8:10 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "edgar quero",
             "game": "chw @ hou",
             "hr/park": "",
@@ -11784,24 +11784,9 @@
     ],
     "sf @ col": [
         {
-            "player": "hunter goodman",
-            "game": "sf @ col",
-            "hr/park": "",
-            "pa": "45",
-            "dt": "2025-06-10 22:12:42",
-            "img": "https://www.mlbstatic.com/team-logos/115.svg",
-            "team": "col",
-            "start": "8:40 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "kyle farmer",
             "game": "sf @ col",
-            "hr/park": "25/30",
+            "hr/park": "",
             "pa": "44",
             "dt": "2025-06-10 22:11:12",
             "img": "https://www.mlbstatic.com/team-logos/115.svg",
@@ -12733,16 +12718,31 @@
     ],
     "lad @ sd": [
         {
-            "player": "gavin sheets",
+            "player": "xander bogaerts",
             "game": "lad @ sd",
             "hr/park": "",
+            "pa": "13",
+            "dt": "2025-06-10 22:12:56",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "gavin sheets",
+            "game": "lad @ sd",
+            "hr/park": "0/30",
             "pa": "12",
             "dt": "2025-06-10 22:11:43",
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
             "team": "sd",
             "start": "9:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "106.4",
             "la": "19",
             "dist": "318"
