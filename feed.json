@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "40",
         "batters": "198",
-        "pitches": "1783",
+        "pitches": "1789",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.1",
         "ff%fourseam fastball %": "35.5",
-        "si%sinker %": "11.4",
-        "fc%cutter %": "5.6",
+        "si%sinker %": "11.5",
+        "fc%cutter %": "5.5",
         "fs%splitter %": "1.6",
         "ch%changeup %": "10.1",
         "sl%slider %": "23.1",
         "cu%curve %": "12.7",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "139",
-        "hh%hard hit %": "42.5",
+        "hh%hard hit %": "42.2",
         "brlbarrels": "29",
-        "brl%barrel %": "8.9",
-        "ab": "437",
-        "avg": ".243",
-        "h": "106",
+        "brl%barrel %": "8.8",
+        "ab": "439",
+        "avg": ".244",
+        "h": "107",
         "1b": "68",
-        "2b": "19",
+        "2b": "20",
         "3b": "3",
         "hr": "16",
         "so": "109",
-        "bipballs in play": "327",
+        "bipballs in play": "329",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-10 20:44:23.098479"
+        "updated": "2025-06-10 20:44:32.266709"
     },
     "det @ bal": [
         {
@@ -41,10 +41,10 @@
             "team": "bal",
             "start": "6:35 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "92.1",
+            "la": "-15",
+            "dist": "12"
         },
         {
             "player": "javier baez",
@@ -964,6 +964,21 @@
     ],
     "cin @ cle": [
         {
+            "player": "spencer steer",
+            "game": "cin @ cle",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-06-10 20:44:26",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "will benson",
             "game": "cin @ cle",
             "hr/park": "",
@@ -973,7 +988,7 @@
             "team": "cin",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "98.4",
             "la": "6",
             "dist": "104"
@@ -6742,6 +6757,21 @@
     ],
     "chw @ hou": [
         {
+            "player": "chase meidroth",
+            "game": "chw @ hou",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-06-10 20:44:26",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mike tauchman",
             "game": "chw @ hou",
             "hr/park": "",
@@ -6751,10 +6781,10 @@
             "team": "chw",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "94.4",
+            "la": "-8",
+            "dist": "22"
         },
         {
             "player": "tim elko",
