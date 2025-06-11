@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "59",
+        "pitchers": "61",
         "batters": "221",
-        "pitches": "2583",
+        "pitches": "2586",
         "max velomax pitch velocity": "99.8",
         "min velomin pitch velocity": "70.2",
         "ff%fourseam fastball %": "34.5",
-        "si%sinker %": "12.0",
+        "si%sinker %": "11.9",
         "fc%cutter %": "6.7",
         "fs%splitter %": "1.8",
         "ch%changeup %": "11.0",
@@ -14,10 +14,10 @@
         "cu%curve %": "11.2",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "206",
-        "hh%hard hit %": "43.5",
+        "hh%hard hit %": "43.3",
         "brlbarrels": "42",
-        "brl%barrel %": "8.9",
-        "ab": "616",
+        "brl%barrel %": "8.8",
+        "ab": "617",
         "avg": ".253",
         "h": "156",
         "1b": "98",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "22",
         "so": "150",
-        "bipballs in play": "474",
+        "bipballs in play": "476",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-10 21:27:20.441900"
+        "updated": "2025-06-10 21:27:30.571968"
     },
     "det @ bal": [
         {
@@ -3173,6 +3173,21 @@
     ],
     "chc @ phi": [
         {
+            "player": "alec bohm",
+            "game": "chc @ phi",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-06-10 21:27:23",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:45 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "dansby swanson",
             "game": "chc @ phi",
             "hr/park": "",
@@ -4224,21 +4239,6 @@
         }
     ],
     "wsh @ nym": [
-        {
-            "player": "francisco lindor",
-            "game": "wsh @ nym",
-            "hr/park": "",
-            "pa": "63",
-            "dt": "2025-06-10 21:26:39",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "7:10 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "ronny mauricio",
             "game": "wsh @ nym",
@@ -6053,10 +6053,10 @@
             "team": "tex",
             "start": "7:40 PM",
             "in": "6",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "80.2",
+            "la": "24",
+            "dist": "276"
         },
         {
             "player": "evan carter",
@@ -6885,21 +6885,6 @@
         }
     ],
     "nyy @ kc": [
-        {
-            "player": "trent grisham",
-            "game": "nyy @ kc",
-            "hr/park": "",
-            "pa": "47",
-            "dt": "2025-06-10 21:26:39",
-            "img": "https://www.mlbstatic.com/team-logos/147.svg",
-            "team": "nyy",
-            "start": "7:40 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "paul goldschmidt",
             "game": "nyy @ kc",
@@ -8345,6 +8330,21 @@
     ],
     "tor @ stl": [
         {
+            "player": "alejandro kirk",
+            "game": "tor @ stl",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-06-10 21:27:23",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:45 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "addison barger",
             "game": "tor @ stl",
             "hr/park": "",
@@ -9157,6 +9157,21 @@
     ],
     "chw @ hou": [
         {
+            "player": "miguel vargas",
+            "game": "chw @ hou",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-06-10 21:27:23",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andrew benintendi",
             "game": "chw @ hou",
             "hr/park": "",
@@ -9166,10 +9181,10 @@
             "team": "chw",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "90.4",
+            "la": "70",
+            "dist": "115"
         },
         {
             "player": "chase meidroth",
