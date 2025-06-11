@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "26",
-        "batters": "170",
-        "pitches": "1140",
+        "batters": "171",
+        "pitches": "1154",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "38.2",
-        "si%sinker %": "11.8",
+        "ff%fourseam fastball %": "38.0",
+        "si%sinker %": "11.6",
         "fc%cutter %": "4.9",
         "fs%splitter %": "1.2",
-        "ch%changeup %": "10.3",
-        "sl%slider %": "20.4",
+        "ch%changeup %": "10.2",
+        "sl%slider %": "20.8",
         "cu%curve %": "13.3",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "80",
-        "hh%hard hit %": "38.6",
+        "hh%hard hit %": "38.1",
         "brlbarrels": "18",
-        "brl%barrel %": "8.7",
-        "ab": "281",
-        "avg": ".246",
+        "brl%barrel %": "8.6",
+        "ab": "283",
+        "avg": ".244",
         "h": "69",
         "1b": "45",
         "2b": "12",
         "3b": "2",
         "hr": "10",
         "so": "71",
-        "bipballs in play": "207",
+        "bipballs in play": "210",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-10 20:12:02.192134"
+        "updated": "2025-06-10 20:12:10.784277"
     },
     "det @ bal": [
         {
@@ -41,10 +41,10 @@
             "team": "det",
             "start": "6:35 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "86.2",
+            "la": "82",
+            "dist": "28"
         },
         {
             "player": "javier baez",
@@ -2063,11 +2063,11 @@
     ],
     "chc @ phi": [
         {
-            "player": "pete crow armstrong",
+            "player": "dansby swanson",
             "game": "chc @ phi",
             "hr/park": "",
-            "pa": "39",
-            "dt": "2025-06-10 20:10:08",
+            "pa": "40",
+            "dt": "2025-06-10 20:12:09",
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
             "team": "chc",
             "start": "6:45 PM",
@@ -2076,6 +2076,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "pete crow armstrong",
+            "game": "chc @ phi",
+            "hr/park": "0/30",
+            "pa": "39",
+            "dt": "2025-06-10 20:10:08",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:45 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "83.9",
+            "la": "35",
+            "dist": "313"
         },
         {
             "player": "seiya suzuki",
@@ -2649,6 +2664,21 @@
         }
     ],
     "wsh @ nym": [
+        {
+            "player": "brandon nimmo",
+            "game": "wsh @ nym",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-06-10 20:12:09",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "keibert ruiz",
             "game": "wsh @ nym",
@@ -4038,6 +4068,21 @@
     ],
     "atl @ mil": [
         {
+            "player": "isaac collins",
+            "game": "atl @ mil",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-06-10 20:12:09",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "sal frelick",
             "game": "atl @ mil",
             "hr/park": "",
@@ -4047,7 +4092,7 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
