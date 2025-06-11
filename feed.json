@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "78",
         "batters": "243",
-        "pitches": "3065",
+        "pitches": "3069",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "68.8",
-        "ff%fourseam fastball %": "33.1",
-        "si%sinker %": "12.6",
-        "fc%cutter %": "7.5",
+        "ff%fourseam fastball %": "33.0",
+        "si%sinker %": "12.5",
+        "fc%cutter %": "7.6",
         "fs%splitter %": "2.0",
         "ch%changeup %": "10.6",
-        "sl%slider %": "23.3",
+        "sl%slider %": "23.4",
         "cu%curve %": "10.9",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "245",
-        "hh%hard hit %": "42.9",
+        "hh%hard hit %": "42.8",
         "brlbarrels": "50",
-        "brl%barrel %": "8.8",
+        "brl%barrel %": "8.7",
         "ab": "733",
         "avg": ".250",
         "h": "183",
@@ -24,11 +24,11 @@
         "2b": "34",
         "3b": "3",
         "hr": "26",
-        "so": "175",
-        "bipballs in play": "571",
+        "so": "176",
+        "bipballs in play": "572",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-10 21:54:13.815958"
+        "updated": "2025-06-10 21:54:25.053473"
     },
     "det @ bal": [
         {
@@ -4414,10 +4414,10 @@
             "team": "wsh",
             "start": "7:10 PM",
             "in": "10",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "76.5",
+            "la": "37",
+            "dist": "266"
         },
         {
             "player": "nathaniel lowe",
@@ -10381,7 +10381,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "6",
-            "result": "GIDP",
+            "result": "In Progress",
             "evo": "97.7",
             "la": "-10",
             "dist": "12"
@@ -11651,21 +11651,6 @@
     ],
     "ath @ laa": [
         {
-            "player": "max muncy",
-            "game": "ath @ laa",
-            "hr/park": "",
-            "pa": "9",
-            "dt": "2025-06-10 21:54:10",
-            "img": "https://www.mlbstatic.com/team-logos/133.svg",
-            "team": "ath",
-            "start": "9:38 PM",
-            "in": "2",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "nick kurtz",
             "game": "ath @ laa",
             "hr/park": "",
@@ -11865,6 +11850,21 @@
     ],
     "sea @ ari": [
         {
+            "player": "geraldo perdomo",
+            "game": "sea @ ari",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-06-10 21:53:39",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ketel marte",
             "game": "sea @ ari",
             "hr/park": "",
@@ -11874,7 +11874,7 @@
             "team": "ari",
             "start": "9:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
