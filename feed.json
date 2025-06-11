@@ -1,13 +1,13 @@
 {
     "all": {
         "pitchers": "72",
-        "batters": "228",
-        "pitches": "2872",
+        "batters": "229",
+        "pitches": "2876",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "68.8",
         "ff%fourseam fastball %": "33.9",
         "si%sinker %": "12.5",
-        "fc%cutter %": "6.8",
+        "fc%cutter %": "6.7",
         "fs%splitter %": "1.8",
         "ch%changeup %": "10.8",
         "sl%slider %": "23.0",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "42.9",
         "brlbarrels": "47",
         "brl%barrel %": "8.8",
-        "ab": "687",
-        "avg": ".253",
-        "h": "174",
-        "1b": "112",
+        "ab": "689",
+        "avg": ".254",
+        "h": "175",
+        "1b": "113",
         "2b": "34",
         "3b": "3",
         "hr": "25",
@@ -28,7 +28,7 @@
         "bipballs in play": "536",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-10 21:44:30.987641"
+        "updated": "2025-06-10 21:44:42.781534"
     },
     "det @ bal": [
         {
@@ -3173,6 +3173,21 @@
     ],
     "chc @ phi": [
         {
+            "player": "trea turner",
+            "game": "chc @ phi",
+            "hr/park": "",
+            "pa": "81",
+            "dt": "2025-06-10 21:44:39",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:45 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "johan rojas",
             "game": "chc @ phi",
             "hr/park": "",
@@ -3182,7 +3197,7 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "76.6",
             "la": "-60",
             "dist": "3"
@@ -7321,21 +7336,6 @@
     ],
     "nyy @ kc": [
         {
-            "player": "mark canha",
-            "game": "nyy @ kc",
-            "hr/park": "",
-            "pa": "56",
-            "dt": "2025-06-10 21:44:08",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "start": "7:40 PM",
-            "in": "6",
-            "result": "Pop Out",
-            "evo": "69.9",
-            "la": "62",
-            "dist": "158"
-        },
-        {
             "player": "salvador perez",
             "game": "nyy @ kc",
             "hr/park": "",
@@ -8172,7 +8172,7 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10006,7 +10006,7 @@
             "team": "chw",
             "start": "8:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10674,6 +10674,21 @@
     ],
     "sf @ col": [
         {
+            "player": "tyler fitzgerald",
+            "game": "sf @ col",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-06-10 21:44:39",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "8:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "casey schmitt",
             "game": "sf @ col",
             "hr/park": "",
@@ -10683,10 +10698,10 @@
             "team": "sf",
             "start": "8:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "91.9",
+            "la": "18",
+            "dist": "277"
         },
         {
             "player": "dominic smith",
@@ -11167,13 +11182,28 @@
             "team": "lad",
             "start": "9:40 PM",
             "in": "1",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
         }
     ],
     "sea @ ari": [
+        {
+            "player": "cal raleigh",
+            "game": "sea @ ari",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-06-10 21:44:39",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "julio rodriguez",
             "game": "sea @ ari",
