@@ -1,23 +1,23 @@
 {
     "all": {
         "pitchers": "78",
-        "batters": "242",
-        "pitches": "3059",
+        "batters": "243",
+        "pitches": "3065",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "68.8",
         "ff%fourseam fastball %": "33.1",
-        "si%sinker %": "12.5",
+        "si%sinker %": "12.6",
         "fc%cutter %": "7.5",
         "fs%splitter %": "2.0",
         "ch%changeup %": "10.6",
         "sl%slider %": "23.3",
-        "cu%curve %": "11.0",
+        "cu%curve %": "10.9",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "244",
+        "hhhard hit": "245",
         "hh%hard hit %": "42.9",
         "brlbarrels": "50",
         "brl%barrel %": "8.8",
-        "ab": "731",
+        "ab": "733",
         "avg": ".250",
         "h": "183",
         "1b": "120",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "26",
         "so": "175",
-        "bipballs in play": "569",
+        "bipballs in play": "571",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-10 21:54:02.547081"
+        "updated": "2025-06-10 21:54:13.815958"
     },
     "det @ bal": [
         {
@@ -6496,17 +6496,17 @@
         {
             "player": "carlos correa",
             "game": "tex @ min",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "68",
             "dt": "2025-06-10 21:52:39",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "87.6",
+            "la": "36",
+            "dist": "307"
         },
         {
             "player": "ryan jeffers",
@@ -10381,7 +10381,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "97.7",
             "la": "-10",
             "dist": "12"
@@ -11124,6 +11124,21 @@
     ],
     "sf @ col": [
         {
+            "player": "keston hiura",
+            "game": "sf @ col",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-06-10 21:54:10",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brenton doyle",
             "game": "sf @ col",
             "hr/park": "",
@@ -11636,6 +11651,21 @@
     ],
     "ath @ laa": [
         {
+            "player": "max muncy",
+            "game": "ath @ laa",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-06-10 21:54:10",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "9:38 PM",
+            "in": "2",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nick kurtz",
             "game": "ath @ laa",
             "hr/park": "",
@@ -11767,10 +11797,10 @@
             "team": "sd",
             "start": "9:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "98.0",
+            "la": "4",
+            "dist": "87"
         },
         {
             "player": "fernando tatis",
