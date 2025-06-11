@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "46",
         "batters": "206",
-        "pitches": "2106",
+        "pitches": "2116",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "35.8",
-        "si%sinker %": "10.7",
+        "ff%fourseam fastball %": "35.9",
+        "si%sinker %": "10.8",
         "fc%cutter %": "5.7",
         "fs%splitter %": "1.6",
         "ch%changeup %": "10.7",
         "sl%slider %": "23.2",
-        "cu%curve %": "12.2",
+        "cu%curve %": "12.1",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "163",
-        "hh%hard hit %": "42.6",
+        "hh%hard hit %": "42.4",
         "brlbarrels": "31",
         "brl%barrel %": "8.1",
         "ab": "504",
-        "avg": ".246",
-        "h": "124",
+        "avg": ".248",
+        "h": "125",
         "1b": "81",
-        "2b": "23",
+        "2b": "24",
         "3b": "3",
         "hr": "17",
-        "so": "124",
-        "bipballs in play": "383",
+        "so": "125",
+        "bipballs in play": "384",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-10 20:59:02.922667"
+        "updated": "2025-06-10 20:59:12.686797"
     },
     "det @ bal": [
         {
@@ -41,7 +41,7 @@
             "team": "det",
             "start": "6:35 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "68.8",
             "la": "16",
             "dist": "142"
@@ -3077,7 +3077,7 @@
             "team": "chc",
             "start": "6:45 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5414,6 +5414,21 @@
     ],
     "tex @ min": [
         {
+            "player": "josh jung",
+            "game": "tex @ min",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-06-10 20:59:09",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "evan carter",
             "game": "tex @ min",
             "hr/park": "",
@@ -6030,21 +6045,6 @@
         }
     ],
     "nyy @ kc": [
-        {
-            "player": "mark canha",
-            "game": "nyy @ kc",
-            "hr/park": "",
-            "pa": "37",
-            "dt": "2025-06-10 20:58:23",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "start": "7:40 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "cody bellinger",
             "game": "nyy @ kc",
@@ -7139,10 +7139,10 @@
             "team": "tor",
             "start": "7:45 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "69.2",
+            "la": "35",
+            "dist": "212"
         },
         {
             "player": "bo bichette",
@@ -7726,7 +7726,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
