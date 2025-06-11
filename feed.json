@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "78",
-        "batters": "242",
-        "pitches": "3047",
+        "batters": "243",
+        "pitches": "3052",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "68.8",
         "ff%fourseam fastball %": "33.2",
-        "si%sinker %": "12.4",
-        "fc%cutter %": "7.5",
+        "si%sinker %": "12.5",
+        "fc%cutter %": "7.6",
         "fs%splitter %": "2.0",
-        "ch%changeup %": "10.7",
+        "ch%changeup %": "10.6",
         "sl%slider %": "23.2",
-        "cu%curve %": "11.0",
+        "cu%curve %": "10.9",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "241",
-        "hh%hard hit %": "42.7",
+        "hhhard hit": "242",
+        "hh%hard hit %": "42.8",
         "brlbarrels": "49",
         "brl%barrel %": "8.7",
-        "ab": "727",
+        "ab": "729",
         "avg": ".250",
         "h": "182",
         "1b": "120",
         "2b": "34",
         "3b": "3",
         "hr": "25",
-        "so": "175",
-        "bipballs in play": "565",
+        "so": "176",
+        "bipballs in play": "566",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-10 21:53:30.181244"
+        "updated": "2025-06-10 21:53:41.009657"
     },
     "det @ bal": [
         {
@@ -4404,6 +4404,21 @@
         }
     ],
     "wsh @ nym": [
+        {
+            "player": "andres chaparro",
+            "game": "wsh @ nym",
+            "hr/park": "",
+            "pa": "75",
+            "dt": "2025-06-10 21:53:39",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "7:10 PM",
+            "in": "10",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "nathaniel lowe",
             "game": "wsh @ nym",
@@ -11585,10 +11600,10 @@
             "team": "ath",
             "start": "9:38 PM",
             "in": "2",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "105.6",
+            "la": "-16",
+            "dist": "6"
         },
         {
             "player": "taylor ward",
@@ -11775,6 +11790,21 @@
     ],
     "sea @ ari": [
         {
+            "player": "geraldo perdomo",
+            "game": "sea @ ari",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-06-10 21:53:39",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ketel marte",
             "game": "sea @ ari",
             "hr/park": "",
@@ -11784,7 +11814,7 @@
             "team": "ari",
             "start": "9:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
