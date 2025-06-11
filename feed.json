@@ -2,35 +2,50 @@
     "all": {
         "pitchers": "35",
         "batters": "192",
-        "pitches": "1607",
+        "pitches": "1619",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "36.0",
+        "ff%fourseam fastball %": "36.1",
         "si%sinker %": "11.6",
-        "fc%cutter %": "5.2",
+        "fc%cutter %": "5.1",
         "fs%splitter %": "1.2",
         "ch%changeup %": "10.3",
         "sl%slider %": "22.7",
         "cu%curve %": "13.1",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "117",
-        "hh%hard hit %": "40.5",
+        "hhhard hit": "118",
+        "hh%hard hit %": "40.4",
         "brlbarrels": "25",
-        "brl%barrel %": "8.7",
-        "ab": "388",
-        "avg": ".237",
+        "brl%barrel %": "8.6",
+        "ab": "393",
+        "avg": ".234",
         "h": "92",
         "1b": "60",
         "2b": "17",
         "3b": "2",
         "hr": "13",
-        "so": "99",
-        "bipballs in play": "289",
+        "so": "100",
+        "bipballs in play": "292",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-10 20:35:21.533290"
+        "updated": "2025-06-10 20:35:30.380396"
     },
     "det @ bal": [
+        {
+            "player": "coby mayo",
+            "game": "det @ bal",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-06-10 20:35:24",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:35 PM",
+            "in": "7",
+            "result": "GIDP",
+            "evo": "103.6",
+            "la": "-25",
+            "dist": "7"
+        },
         {
             "player": "colton cowser",
             "game": "det @ bal",
@@ -41,7 +56,7 @@
             "team": "bal",
             "start": "6:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -889,6 +904,21 @@
     ],
     "cin @ cle": [
         {
+            "player": "johnathan rodriguez",
+            "game": "cin @ cle",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-06-10 20:35:24",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bo naylor",
             "game": "cin @ cle",
             "hr/park": "",
@@ -898,7 +928,7 @@
             "team": "cle",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "93.4",
             "la": "-18",
             "dist": "6"
@@ -1700,6 +1730,21 @@
         }
     ],
     "mia @ pit": [
+        {
+            "player": "isiah kiner falefa",
+            "game": "mia @ pit",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-06-10 20:35:24",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kebryan hayes",
             "game": "mia @ pit",
@@ -3282,17 +3327,17 @@
         {
             "player": "starling marte",
             "game": "wsh @ nym",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "42",
             "dt": "2025-06-10 20:34:39",
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
             "team": "nym",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "91.4",
+            "la": "43",
+            "dist": "319"
         },
         {
             "player": "francisco lindor",
@@ -4438,6 +4483,21 @@
         }
     ],
     "tex @ min": [
+        {
+            "player": "wyatt langford",
+            "game": "tex @ min",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-06-10 20:35:24",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "Groundout",
+            "evo": "82.3",
+            "la": "1",
+            "dist": "54"
+        },
         {
             "player": "josh smith",
             "game": "tex @ min",
@@ -5689,6 +5749,21 @@
         }
     ],
     "tor @ stl": [
+        {
+            "player": "andres gimenez",
+            "game": "tor @ stl",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-06-10 20:35:24",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:45 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "george springer",
             "game": "tor @ stl",
