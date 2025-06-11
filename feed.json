@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "40",
         "batters": "198",
-        "pitches": "1804",
+        "pitches": "1807",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "35.6",
+        "ff%fourseam fastball %": "35.5",
         "si%sinker %": "11.5",
-        "fc%cutter %": "5.7",
-        "fs%splitter %": "1.6",
-        "ch%changeup %": "10.0",
-        "sl%slider %": "23.1",
+        "fc%cutter %": "5.6",
+        "fs%splitter %": "1.5",
+        "ch%changeup %": "10.1",
+        "sl%slider %": "23.2",
         "cu%curve %": "12.6",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "140",
-        "hh%hard hit %": "42.2",
+        "hhhard hit": "139",
+        "hh%hard hit %": "42.0",
         "brlbarrels": "29",
-        "brl%barrel %": "8.7",
-        "ab": "442",
+        "brl%barrel %": "8.8",
+        "ab": "443",
         "avg": ".244",
         "h": "108",
         "1b": "68",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "16",
         "so": "112",
-        "bipballs in play": "332",
+        "bipballs in play": "331",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-10 20:45:19.777604"
+        "updated": "2025-06-10 20:45:29.351014"
     },
     "det @ bal": [
         {
@@ -988,7 +988,7 @@
             "team": "cin",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "66.4",
             "la": "-9",
             "dist": "13"
@@ -1890,7 +1890,7 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3625,6 +3625,21 @@
     ],
     "wsh @ nym": [
         {
+            "player": "robert hassell",
+            "game": "wsh @ nym",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-06-10 20:45:24",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alex call",
             "game": "wsh @ nym",
             "hr/park": "",
@@ -4287,6 +4302,21 @@
     ],
     "tb @ bos": [
         {
+            "player": "junior caminero",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-06-10 20:45:24",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "abraham toro",
             "game": "tb @ bos",
             "hr/park": "",
@@ -4903,21 +4933,6 @@
         }
     ],
     "tex @ min": [
-        {
-            "player": "ty france",
-            "game": "tex @ min",
-            "hr/park": "",
-            "pa": "35",
-            "dt": "2025-06-10 20:44:38",
-            "img": "https://www.mlbstatic.com/team-logos/142.svg",
-            "team": "min",
-            "start": "7:40 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "96.6",
-            "la": "26",
-            "dist": "346"
-        },
         {
             "player": "matt wallner",
             "game": "tex @ min",
@@ -6359,7 +6374,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "4",
-            "result": "Strikeout",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
