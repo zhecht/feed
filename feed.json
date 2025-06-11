@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "93",
         "batters": "275",
-        "pitches": "3495",
+        "pitches": "3499",
         "max velomax pitch velocity": "101.5",
         "min velomin pitch velocity": "66.2",
         "ff%fourseam fastball %": "32.5",
@@ -13,11 +13,11 @@
         "sl%slider %": "23.6",
         "cu%curve %": "10.7",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "273",
+        "hhhard hit": "274",
         "hh%hard hit %": "42.3",
         "brlbarrels": "57",
         "brl%barrel %": "8.8",
-        "ab": "834",
+        "ab": "835",
         "avg": ".254",
         "h": "212",
         "1b": "141",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "30",
         "so": "205",
-        "bipballs in play": "646",
+        "bipballs in play": "648",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-10 22:21:22.370887"
+        "updated": "2025-06-10 22:21:33.588223"
     },
     "det @ bal": [
         {
@@ -11146,7 +11146,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12093,10 +12093,10 @@
             "team": "sf",
             "start": "8:40 PM",
             "in": "6",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "86.3",
+            "la": "-19",
+            "dist": "11"
         },
         {
             "player": "tyler fitzgerald",
@@ -12806,9 +12806,24 @@
     ],
     "ath @ laa": [
         {
+            "player": "mike trout",
+            "game": "ath @ laa",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-06-10 22:21:25",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nolan schanuel",
             "game": "ath @ laa",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "21",
             "dt": "2025-06-10 22:20:11",
             "img": "https://www.mlbstatic.com/team-logos/108.svg",
@@ -13335,6 +13350,21 @@
     ],
     "sea @ ari": [
         {
+            "player": "randy arozarena",
+            "game": "sea @ ari",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-06-10 22:21:25",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "9:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "101.5",
+            "la": "-20",
+            "dist": "7"
+        },
+        {
             "player": "jorge polanco",
             "game": "sea @ ari",
             "hr/park": "",
@@ -13344,7 +13374,7 @@
             "team": "sea",
             "start": "9:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
