@@ -1,17 +1,17 @@
 {
     "all": {
-        "pitchers": "22",
+        "pitchers": "23",
         "batters": "148",
-        "pitches": "940",
+        "pitches": "942",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "39.9",
+        "ff%fourseam fastball %": "39.8",
         "si%sinker %": "11.7",
         "fc%cutter %": "3.7",
         "fs%splitter %": "1.2",
-        "ch%changeup %": "10.4",
-        "sl%slider %": "19.5",
-        "cu%curve %": "13.6",
+        "ch%changeup %": "10.6",
+        "sl%slider %": "19.3",
+        "cu%curve %": "13.7",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "69",
         "hh%hard hit %": "40.8",
@@ -24,13 +24,28 @@
         "2b": "12",
         "3b": "2",
         "hr": "9",
-        "so": "54",
+        "so": "53",
         "bipballs in play": "169",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-10 20:00:32.976384"
+        "updated": "2025-06-10 20:00:41.324749"
     },
     "det @ bal": [
+        {
+            "player": "wenceel perez",
+            "game": "det @ bal",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-10 20:00:38",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "zach mckinstry",
             "game": "det @ bal",
@@ -1200,7 +1215,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2691,7 +2706,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3372,7 +3387,7 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "1",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
