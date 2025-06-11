@@ -1,15 +1,15 @@
 {
     "all": {
         "pitchers": "16",
-        "batters": "93",
-        "pitches": "809",
+        "batters": "94",
+        "pitches": "812",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "75.0",
-        "ff%fourseam fastball %": "33.1",
+        "ff%fourseam fastball %": "33.3",
         "si%sinker %": "11.6",
         "fc%cutter %": "9.5",
         "fs%splitter %": "4.4",
-        "ch%changeup %": "11.1",
+        "ch%changeup %": "11.2",
         "sl%slider %": "13.7",
         "cu%curve %": "16.4",
         "max evmax exit velocity": "112.2",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "36.1",
         "brlbarrels": "11",
         "brl%barrel %": "7.6",
-        "ab": "194",
-        "avg": ".284",
-        "h": "55",
+        "ab": "196",
+        "avg": ".286",
+        "h": "56",
         "1b": "32",
-        "2b": "11",
+        "2b": "12",
         "3b": "2",
         "hr": "10",
         "so": "51",
         "bipballs in play": "144",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-06-11 14:55:10.183602"
+        "updated": "2025-06-11 14:55:18.303256"
     },
     "mia @ pit": [
         {
@@ -2588,6 +2588,21 @@
     ],
     "atl @ mil": [
         {
+            "player": "eric haase",
+            "game": "atl @ mil",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-06-11 14:55:13",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael harris",
             "game": "atl @ mil",
             "hr/park": "",
@@ -2950,6 +2965,21 @@
     ],
     "tor @ stl": [
         {
+            "player": "bo bichette",
+            "game": "tor @ stl",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-06-11 14:55:13",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "2:15 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyler heineman",
             "game": "tor @ stl",
             "hr/park": "",
@@ -2959,7 +2989,7 @@
             "team": "tor",
             "start": "2:15 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "63.0",
             "la": "-12",
             "dist": "9"
