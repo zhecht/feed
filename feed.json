@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "36",
+        "pitchers": "37",
         "batters": "193",
-        "pitches": "1667",
+        "pitches": "1677",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.1",
         "ff%fourseam fastball %": "35.9",
         "si%sinker %": "11.3",
-        "fc%cutter %": "5.0",
+        "fc%cutter %": "5.1",
         "fs%splitter %": "1.1",
         "ch%changeup %": "10.4",
-        "sl%slider %": "23.0",
+        "sl%slider %": "23.1",
         "cu%curve %": "13.2",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "122",
-        "hh%hard hit %": "40.7",
+        "hhhard hit": "123",
+        "hh%hard hit %": "40.5",
         "brlbarrels": "25",
-        "brl%barrel %": "8.3",
-        "ab": "406",
-        "avg": ".236",
-        "h": "96",
-        "1b": "64",
+        "brl%barrel %": "8.2",
+        "ab": "408",
+        "avg": ".238",
+        "h": "97",
+        "1b": "65",
         "2b": "17",
         "3b": "2",
         "hr": "13",
         "so": "103",
-        "bipballs in play": "300",
+        "bipballs in play": "304",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-10 20:38:35.230320"
+        "updated": "2025-06-10 20:38:44.436231"
     },
     "det @ bal": [
+        {
+            "player": "wenceel perez",
+            "game": "det @ bal",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-06-10 20:38:39",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "zach mckinstry",
             "game": "det @ bal",
@@ -41,10 +56,10 @@
             "team": "det",
             "start": "6:35 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "94.4",
+            "la": "65",
+            "dist": "205"
         },
         {
             "player": "coby mayo",
@@ -919,11 +934,11 @@
     ],
     "cin @ cle": [
         {
-            "player": "nolan jones",
+            "player": "angel martinez",
             "game": "cin @ cle",
             "hr/park": "",
-            "pa": "57",
-            "dt": "2025-06-10 20:37:09",
+            "pa": "58",
+            "dt": "2025-06-10 20:38:39",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
             "team": "cle",
             "start": "6:40 PM",
@@ -932,6 +947,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "nolan jones",
+            "game": "cin @ cle",
+            "hr/park": "0/30",
+            "pa": "57",
+            "dt": "2025-06-10 20:37:09",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "Flyout",
+            "evo": "92.4",
+            "la": "36",
+            "dist": "312"
         },
         {
             "player": "johnathan rodriguez",
@@ -2663,6 +2693,21 @@
     ],
     "chc @ phi": [
         {
+            "player": "nico hoerner",
+            "game": "chc @ phi",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-06-10 20:38:39",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "6:45 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bryson stott",
             "game": "chc @ phi",
             "hr/park": "",
@@ -3379,10 +3424,10 @@
             "team": "wsh",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "105.5",
+            "la": "-16",
+            "dist": "10"
         },
         {
             "player": "starling marte",
@@ -5909,10 +5954,10 @@
             "team": "tor",
             "start": "7:45 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "74.0",
+            "la": "20",
+            "dist": "202"
         },
         {
             "player": "ernie clement",
@@ -6316,7 +6361,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
