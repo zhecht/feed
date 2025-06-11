@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "45",
         "batters": "202",
-        "pitches": "1989",
+        "pitches": "1992",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.1",
         "ff%fourseam fastball %": "35.9",
@@ -13,22 +13,22 @@
         "sl%slider %": "23.3",
         "cu%curve %": "12.3",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "155",
-        "hh%hard hit %": "42.1",
+        "hhhard hit": "156",
+        "hh%hard hit %": "42.2",
         "brlbarrels": "31",
         "brl%barrel %": "8.4",
-        "ab": "481",
-        "avg": ".243",
-        "h": "117",
-        "1b": "75",
+        "ab": "484",
+        "avg": ".246",
+        "h": "119",
+        "1b": "77",
         "2b": "22",
         "3b": "3",
         "hr": "17",
         "so": "116",
-        "bipballs in play": "368",
+        "bipballs in play": "370",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-10 20:53:20.184286"
+        "updated": "2025-06-10 20:53:29.743517"
     },
     "det @ bal": [
         {
@@ -1024,6 +1024,21 @@
     ],
     "cin @ cle": [
         {
+            "player": "carlos santana",
+            "game": "cin @ cle",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-06-10 20:53:24",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose ramirez",
             "game": "cin @ cle",
             "hr/park": "",
@@ -1033,7 +1048,7 @@
             "team": "cle",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "96.4",
             "la": "9",
             "dist": "204"
@@ -1970,6 +1985,21 @@
         }
     ],
     "mia @ pit": [
+        {
+            "player": "henry davis",
+            "game": "mia @ pit",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-06-10 20:53:24",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "adam frazier",
             "game": "mia @ pit",
@@ -5243,7 +5273,7 @@
             "team": "tex",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Mound Visit",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5830,10 +5860,10 @@
             "team": "nyy",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "93.4",
+            "la": "-12",
+            "dist": "14"
         },
         {
             "player": "salvador perez",
@@ -6854,7 +6884,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "65.1",
             "la": "16",
             "dist": "150"
@@ -7387,6 +7417,21 @@
     ],
     "chw @ hou": [
         {
+            "player": "kyle teel",
+            "game": "chw @ hou",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-06-10 20:53:24",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "99.8",
+            "la": "",
+            "dist": "48"
+        },
+        {
             "player": "edgar quero",
             "game": "chw @ hou",
             "hr/park": "",
@@ -7396,7 +7441,7 @@
             "team": "chw",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "99.5",
             "la": "5",
             "dist": "101"
