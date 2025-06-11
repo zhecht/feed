@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "88",
-        "batters": "264",
-        "pitches": "3333",
+        "pitchers": "89",
+        "batters": "266",
+        "pitches": "3342",
         "max velomax pitch velocity": "101.5",
         "min velomin pitch velocity": "68.8",
         "ff%fourseam fastball %": "33.2",
         "si%sinker %": "12.8",
-        "fc%cutter %": "7.7",
+        "fc%cutter %": "7.8",
         "fs%splitter %": "1.8",
         "ch%changeup %": "10.2",
         "sl%slider %": "23.4",
         "cu%curve %": "10.8",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "262",
+        "hhhard hit": "263",
         "hh%hard hit %": "42.3",
         "brlbarrels": "53",
-        "brl%barrel %": "8.6",
-        "ab": "798",
-        "avg": ".254",
+        "brl%barrel %": "8.5",
+        "ab": "801",
+        "avg": ".253",
         "h": "203",
         "1b": "134",
         "2b": "37",
         "3b": "3",
         "hr": "29",
         "so": "193",
-        "bipballs in play": "619",
+        "bipballs in play": "622",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-10 22:11:40.045494"
+        "updated": "2025-06-10 22:11:50.809867"
     },
     "det @ bal": [
         {
@@ -9725,6 +9725,21 @@
     ],
     "tor @ stl": [
         {
+            "player": "ernie clement",
+            "game": "tor @ stl",
+            "hr/park": "0/30",
+            "pa": "77",
+            "dt": "2025-06-10 22:11:43",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:45 PM",
+            "in": "9",
+            "result": "Lineout",
+            "evo": "103.1",
+            "la": "17",
+            "dist": "335"
+        },
+        {
             "player": "andres gimenez",
             "game": "tor @ stl",
             "hr/park": "",
@@ -12658,6 +12673,36 @@
     ],
     "lad @ sd": [
         {
+            "player": "gavin sheets",
+            "game": "lad @ sd",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-06-10 22:11:43",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jackson merrill",
+            "game": "lad @ sd",
+            "hr/park": "0/30",
+            "pa": "11",
+            "dt": "2025-06-10 22:11:43",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "92.7",
+            "la": "34",
+            "dist": "342"
+        },
+        {
             "player": "michael conforto",
             "game": "lad @ sd",
             "hr/park": "",
@@ -12819,10 +12864,10 @@
             "team": "ari",
             "start": "9:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "76.2",
+            "la": "55",
+            "dist": "192"
         },
         {
             "player": "jp crawford",
