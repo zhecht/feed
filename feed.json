@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "37",
         "batters": "195",
-        "pitches": "1706",
+        "pitches": "1714",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "35.8",
+        "ff%fourseam fastball %": "35.9",
         "si%sinker %": "11.2",
         "fc%cutter %": "5.1",
         "fs%splitter %": "1.2",
@@ -13,22 +13,22 @@
         "sl%slider %": "23.3",
         "cu%curve %": "13.1",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "128",
-        "hh%hard hit %": "41.0",
+        "hhhard hit": "129",
+        "hh%hard hit %": "41.1",
         "brlbarrels": "28",
-        "brl%barrel %": "9.0",
-        "ab": "415",
-        "avg": ".241",
+        "brl%barrel %": "8.9",
+        "ab": "419",
+        "avg": ".239",
         "h": "100",
         "1b": "66",
         "2b": "18",
         "3b": "2",
         "hr": "14",
         "so": "104",
-        "bipballs in play": "312",
+        "bipballs in play": "314",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-10 20:40:34.893805"
+        "updated": "2025-06-10 20:40:44.780558"
     },
     "det @ bal": [
         {
@@ -1790,6 +1790,36 @@
         }
     ],
     "mia @ pit": [
+        {
+            "player": "bryan reynolds",
+            "game": "mia @ pit",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-06-10 20:40:39",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "andrew mccutchen",
+            "game": "mia @ pit",
+            "hr/park": "0/30",
+            "pa": "61",
+            "dt": "2025-06-10 20:39:39",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "Flyout",
+            "evo": "98.2",
+            "la": "43",
+            "dist": "322"
+        },
         {
             "player": "oneil cruz",
             "game": "mia @ pit",
@@ -4101,7 +4131,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4678,6 +4708,21 @@
         }
     ],
     "tex @ min": [
+        {
+            "player": "matt wallner",
+            "game": "tex @ min",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-06-10 20:40:39",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "carlos correa",
             "game": "tex @ min",
@@ -5613,6 +5658,21 @@
     ],
     "atl @ mil": [
         {
+            "player": "michael harris",
+            "game": "atl @ mil",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-06-10 20:40:39",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "Groundout",
+            "evo": "81.5",
+            "la": "-14",
+            "dist": "9"
+        },
+        {
             "player": "rhys hoskins",
             "game": "atl @ mil",
             "hr/park": "",
@@ -6029,7 +6089,7 @@
             "team": "tor",
             "start": "7:45 PM",
             "in": "4",
-            "result": "Double Play",
+            "result": "In Progress",
             "evo": "84.2",
             "la": "-41",
             "dist": "3"
