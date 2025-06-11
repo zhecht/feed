@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "84",
+        "pitchers": "83",
         "batters": "255",
-        "pitches": "3229",
+        "pitches": "3232",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "68.8",
         "ff%fourseam fastball %": "32.9",
@@ -10,11 +10,11 @@
         "fc%cutter %": "7.7",
         "fs%splitter %": "1.9",
         "ch%changeup %": "10.5",
-        "sl%slider %": "23.5",
+        "sl%slider %": "23.4",
         "cu%curve %": "10.8",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "255",
-        "hh%hard hit %": "42.8",
+        "hhhard hit": "256",
+        "hh%hard hit %": "42.9",
         "brlbarrels": "53",
         "brl%barrel %": "8.9",
         "ab": "771",
@@ -24,11 +24,11 @@
         "2b": "36",
         "3b": "3",
         "hr": "29",
-        "so": "185",
-        "bipballs in play": "596",
+        "so": "186",
+        "bipballs in play": "597",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-10 22:04:52.580152"
+        "updated": "2025-06-10 22:05:03.501791"
     },
     "det @ bal": [
         {
@@ -8613,6 +8613,21 @@
     ],
     "atl @ mil": [
         {
+            "player": "caleb durbin",
+            "game": "atl @ mil",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-06-10 22:04:56",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "isaac collins",
             "game": "atl @ mil",
             "hr/park": "",
@@ -8622,7 +8637,7 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11514,21 +11529,6 @@
     ],
     "sf @ col": [
         {
-            "player": "wilmer flores",
-            "game": "sf @ col",
-            "hr/park": "",
-            "pa": "39",
-            "dt": "2025-06-10 22:04:41",
-            "img": "https://www.mlbstatic.com/team-logos/137.svg",
-            "team": "sf",
-            "start": "8:40 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "heliot ramos",
             "game": "sf @ col",
             "hr/park": "",
@@ -12285,17 +12285,17 @@
         {
             "player": "max muncy",
             "game": "lad @ sd",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "8",
             "dt": "2025-06-10 22:02:26",
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
             "team": "lad",
             "start": "9:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "97.3",
+            "la": "40",
+            "dist": "337"
         },
         {
             "player": "teoscar hernandez",
