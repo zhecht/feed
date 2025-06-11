@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "35",
+        "pitchers": "36",
         "batters": "193",
-        "pitches": "1647",
+        "pitches": "1657",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "36.1",
-        "si%sinker %": "11.4",
+        "ff%fourseam fastball %": "36.0",
+        "si%sinker %": "11.3",
         "fc%cutter %": "5.1",
-        "fs%splitter %": "1.2",
+        "fs%splitter %": "1.1",
         "ch%changeup %": "10.4",
-        "sl%slider %": "22.7",
+        "sl%slider %": "22.9",
         "cu%curve %": "13.1",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "121",
-        "hh%hard hit %": "40.5",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "25",
-        "brl%barrel %": "8.4",
-        "ab": "400",
-        "avg": ".237",
+        "brl%barrel %": "8.3",
+        "ab": "404",
+        "avg": ".235",
         "h": "95",
         "1b": "63",
         "2b": "17",
         "3b": "2",
         "hr": "13",
-        "so": "102",
-        "bipballs in play": "299",
+        "so": "103",
+        "bipballs in play": "300",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-10 20:37:31.133094"
+        "updated": "2025-06-10 20:37:40.092884"
     },
     "det @ bal": [
+        {
+            "player": "zach mckinstry",
+            "game": "det @ bal",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-06-10 20:37:40",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "coby mayo",
             "game": "det @ bal",
@@ -913,10 +928,10 @@
             "team": "cle",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "92.4",
+            "la": "36",
+            "dist": "312"
         },
         {
             "player": "johnathan rodriguez",
@@ -3355,6 +3370,21 @@
     ],
     "wsh @ nym": [
         {
+            "player": "josh bell",
+            "game": "wsh @ nym",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-06-10 20:37:40",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "starling marte",
             "game": "wsh @ nym",
             "hr/park": "0/30",
@@ -4544,6 +4574,21 @@
     ],
     "tex @ min": [
         {
+            "player": "ryan jeffers",
+            "game": "tex @ min",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-06-10 20:37:40",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "wyatt langford",
             "game": "tex @ min",
             "hr/park": "",
@@ -5020,10 +5065,10 @@
             "team": "nyy",
             "start": "7:40 PM",
             "in": "4",
-            "result": "Single",
-            "evo": "101.0",
-            "la": "14",
-            "dist": "267"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "jasson dominguez",
@@ -5442,7 +5487,7 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5840,6 +5885,21 @@
     ],
     "tor @ stl": [
         {
+            "player": "ernie clement",
+            "game": "tor @ stl",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-06-10 20:37:40",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:45 PM",
+            "in": "4",
+            "result": "Single",
+            "evo": "97.5",
+            "la": "16",
+            "dist": "271"
+        },
+        {
             "player": "andres gimenez",
             "game": "tor @ stl",
             "hr/park": "",
@@ -6226,7 +6286,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
