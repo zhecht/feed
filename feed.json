@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "38",
         "batters": "146",
-        "pitches": "1614",
+        "pitches": "1615",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "71.3",
         "ff%fourseam fastball %": "33.1",
@@ -14,21 +14,21 @@
         "cu%curve %": "13.6",
         "max evmax exit velocity": "112.2",
         "hhhard hit": "99",
-        "hh%hard hit %": "34.0",
+        "hh%hard hit %": "33.9",
         "brlbarrels": "16",
         "brl%barrel %": "5.5",
-        "ab": "387",
-        "avg": ".248",
+        "ab": "388",
+        "avg": ".247",
         "h": "96",
         "1b": "63",
         "2b": "17",
         "3b": "2",
         "hr": "14",
         "so": "104",
-        "bipballs in play": "291",
+        "bipballs in play": "292",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-06-11 16:44:18.311131"
+        "updated": "2025-06-11 16:44:26.916718"
     },
     "mia @ pit": [
         {
@@ -4369,7 +4369,7 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Mound Visit",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5382,6 +5382,21 @@
     ],
     "sea @ ari": [
         {
+            "player": "alek thomas",
+            "game": "sea @ ari",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-06-11 16:44:27",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "3:40 PM",
+            "in": "5",
+            "result": "Groundout",
+            "evo": "75.7",
+            "la": "-37",
+            "dist": "5"
+        },
+        {
             "player": "pavin smith",
             "game": "sea @ ari",
             "hr/park": "",
@@ -5391,7 +5406,7 @@
             "team": "ari",
             "start": "3:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "75.0",
             "la": "75",
             "dist": "78"
