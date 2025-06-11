@@ -1,26 +1,26 @@
 {
     "all": {
         "pitchers": "31",
-        "batters": "183",
-        "pitches": "1365",
+        "batters": "182",
+        "pitches": "1366",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.1",
         "ff%fourseam fastball %": "37.2",
         "si%sinker %": "11.8",
         "fc%cutter %": "4.5",
         "fs%splitter %": "1.4",
-        "ch%changeup %": "10.0",
+        "ch%changeup %": "10.1",
         "sl%slider %": "21.9",
-        "cu%curve %": "13.3",
+        "cu%curve %": "13.2",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "98",
-        "hh%hard hit %": "38.3",
-        "brlbarrels": "21",
-        "brl%barrel %": "8.2",
+        "hhhard hit": "97",
+        "hh%hard hit %": "37.9",
+        "brlbarrels": "20",
+        "brl%barrel %": "7.8",
         "ab": "339",
-        "avg": ".233",
-        "h": "79",
-        "1b": "53",
+        "avg": ".236",
+        "h": "80",
+        "1b": "54",
         "2b": "14",
         "3b": "2",
         "hr": "10",
@@ -28,7 +28,7 @@
         "bipballs in play": "256",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-10 20:22:48.703858"
+        "updated": "2025-06-10 20:22:57.467244"
     },
     "det @ bal": [
         {
@@ -41,7 +41,7 @@
             "team": "det",
             "start": "6:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "101.6",
             "la": "-7",
             "dist": "17"
@@ -3537,6 +3537,21 @@
     ],
     "tb @ bos": [
         {
+            "player": "jose caballero",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-06-10 20:22:54",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh lowe",
             "game": "tb @ bos",
             "hr/park": "",
@@ -3546,10 +3561,10 @@
             "team": "tb",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "77.7",
+            "la": "-29",
+            "dist": "4"
         },
         {
             "player": "ceddanne rafaela",
@@ -4036,17 +4051,17 @@
         {
             "player": "trevor larnach",
             "game": "tex @ min",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "24",
             "dt": "2025-06-10 20:19:56",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "start": "7:40 PM",
             "in": "3",
-            "result": "Lineout",
-            "evo": "109.3",
-            "la": "18",
-            "dist": "394"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "byron buxton",
@@ -5301,21 +5316,6 @@
         }
     ],
     "chw @ hou": [
-        {
-            "player": "jose altuve",
-            "game": "chw @ hou",
-            "hr/park": "",
-            "pa": "6",
-            "dt": "2025-06-10 20:22:39",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "8:10 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "isaac paredes",
             "game": "chw @ hou",
