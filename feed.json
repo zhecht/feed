@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "32",
         "batters": "185",
-        "pitches": "1409",
+        "pitches": "1417",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "37.0",
+        "ff%fourseam fastball %": "36.9",
         "si%sinker %": "11.7",
-        "fc%cutter %": "4.5",
+        "fc%cutter %": "4.7",
         "fs%splitter %": "1.3",
         "ch%changeup %": "10.1",
-        "sl%slider %": "22.1",
+        "sl%slider %": "22.0",
         "cu%curve %": "13.3",
         "max evmax exit velocity": "117.9",
         "hhhard hit": "100",
-        "hh%hard hit %": "38.2",
+        "hh%hard hit %": "37.9",
         "brlbarrels": "22",
-        "brl%barrel %": "8.4",
-        "ab": "351",
+        "brl%barrel %": "8.3",
+        "ab": "350",
         "avg": ".234",
         "h": "82",
         "1b": "55",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "11",
         "so": "85",
-        "bipballs in play": "262",
+        "bipballs in play": "264",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-10 20:25:20.587339"
+        "updated": "2025-06-10 20:25:29.378178"
     },
     "det @ bal": [
         {
@@ -853,7 +853,7 @@
             "team": "cin",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2417,7 +2417,7 @@
             "team": "phi",
             "start": "6:45 PM",
             "in": "5",
-            "result": "Stolen Base 2B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3079,7 +3079,7 @@
             "team": "wsh",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4139,6 +4139,21 @@
     ],
     "tex @ min": [
         {
+            "player": "evan carter",
+            "game": "tex @ min",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-06-10 20:25:23",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jake burger",
             "game": "tex @ min",
             "hr/park": "",
@@ -4148,7 +4163,7 @@
             "team": "tex",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Official Scorer Ruling Pending",
             "evo": "112.7",
             "la": "13",
             "dist": "340"
@@ -4525,10 +4540,10 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "64.0",
+            "la": "-65",
+            "dist": "2"
         },
         {
             "player": "cody bellinger",
@@ -4850,17 +4865,17 @@
         {
             "player": "marcell ozuna",
             "game": "atl @ mil",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "21",
             "dt": "2025-06-10 20:23:24",
             "img": "https://www.mlbstatic.com/team-logos/144.svg",
             "team": "atl",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "93.7",
+            "la": "26",
+            "dist": "348"
         },
         {
             "player": "matt olson",
