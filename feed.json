@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "74",
         "batters": "224",
-        "pitches": "2592",
+        "pitches": "2596",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "69.8",
         "ff%fourseam fastball %": "32.3",
         "si%sinker %": "13.9",
-        "fc%cutter %": "9.8",
+        "fc%cutter %": "9.7",
         "fs%splitter %": "4.7",
         "ch%changeup %": "10.5",
         "sl%slider %": "18.0",
         "cu%curve %": "10.9",
         "max evmax exit velocity": "112.2",
         "hhhard hit": "170",
-        "hh%hard hit %": "35.2",
+        "hh%hard hit %": "35.1",
         "brlbarrels": "33",
         "brl%barrel %": "6.8",
-        "ab": "626",
+        "ab": "627",
         "avg": ".244",
         "h": "153",
         "1b": "97",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "25",
         "so": "159",
-        "bipballs in play": "483",
+        "bipballs in play": "484",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-11 19:55:22.271222"
+        "updated": "2025-06-11 19:55:32.317894"
     },
     "mia @ pit": [
         {
@@ -8862,7 +8862,7 @@
             "team": "det",
             "start": "6:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9515,6 +9515,21 @@
     ],
     "wsh @ nym": [
         {
+            "player": "pete alonso",
+            "game": "wsh @ nym",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-06-11 19:55:27",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "juan soto",
             "game": "wsh @ nym",
             "hr/park": "30/30",
@@ -9842,9 +9857,9 @@
             "start": "7:10 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "84.0",
+            "la": "-5",
+            "dist": "24"
         },
         {
             "player": "abraham toro",
