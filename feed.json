@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "43",
         "batters": "151",
-        "pitches": "1865",
+        "pitches": "1869",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "71.3",
-        "ff%fourseam fastball %": "31.8",
-        "si%sinker %": "14.2",
+        "ff%fourseam fastball %": "31.7",
+        "si%sinker %": "14.3",
         "fc%cutter %": "11.0",
         "fs%splitter %": "3.2",
         "ch%changeup %": "10.2",
         "sl%slider %": "16.9",
-        "cu%curve %": "12.8",
+        "cu%curve %": "12.7",
         "max evmax exit velocity": "112.2",
-        "hhhard hit": "123",
-        "hh%hard hit %": "35.5",
+        "hhhard hit": "124",
+        "hh%hard hit %": "35.7",
         "brlbarrels": "22",
-        "brl%barrel %": "6.4",
-        "ab": "452",
+        "brl%barrel %": "6.3",
+        "ab": "453",
         "avg": ".243",
         "h": "110",
         "1b": "70",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "18",
         "so": "116",
-        "bipballs in play": "346",
+        "bipballs in play": "347",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-06-11 17:26:05.330967"
+        "updated": "2025-06-11 17:26:14.183926"
     },
     "mia @ pit": [
         {
@@ -6398,7 +6398,7 @@
             "team": "laa",
             "start": "4:07 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6946,6 +6946,21 @@
     ],
     "lad @ sd": [
         {
+            "player": "fernando tatis",
+            "game": "lad @ sd",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-06-11 17:26:12",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "95.9",
+            "la": "-10",
+            "dist": "11"
+        },
+        {
             "player": "martin maldonado",
             "game": "lad @ sd",
             "hr/park": "",
@@ -6955,7 +6970,7 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "82.3",
             "la": "49",
             "dist": "229"
