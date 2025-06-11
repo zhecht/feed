@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "54",
+        "pitchers": "55",
         "batters": "220",
-        "pitches": "2453",
+        "pitches": "2462",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "70.2",
-        "ff%fourseam fastball %": "35.2",
+        "ff%fourseam fastball %": "35.1",
         "si%sinker %": "11.2",
-        "fc%cutter %": "6.4",
+        "fc%cutter %": "6.5",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "10.8",
-        "sl%slider %": "22.9",
-        "cu%curve %": "11.7",
+        "ch%changeup %": "10.9",
+        "sl%slider %": "22.8",
+        "cu%curve %": "11.6",
         "max evmax exit velocity": "117.9",
-        "hhhard hit": "190",
-        "hh%hard hit %": "42.3",
+        "hhhard hit": "193",
+        "hh%hard hit %": "42.6",
         "brlbarrels": "38",
-        "brl%barrel %": "8.5",
-        "ab": "583",
-        "avg": ".252",
-        "h": "147",
-        "1b": "91",
+        "brl%barrel %": "8.4",
+        "ab": "586",
+        "avg": ".253",
+        "h": "148",
+        "1b": "92",
         "2b": "32",
         "3b": "3",
         "hr": "21",
         "so": "143",
-        "bipballs in play": "449",
+        "bipballs in play": "453",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-10 21:18:47.931136"
+        "updated": "2025-06-10 21:18:58.045059"
     },
     "det @ bal": [
         {
@@ -4165,6 +4165,21 @@
     ],
     "wsh @ nym": [
         {
+            "player": "alex call",
+            "game": "wsh @ nym",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-06-10 21:17:40",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis garcia",
             "game": "wsh @ nym",
             "hr/park": "",
@@ -6631,6 +6646,21 @@
     ],
     "nyy @ kc": [
         {
+            "player": "austin wells",
+            "game": "nyy @ kc",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-06-10 21:18:54",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "dj lemahieu",
             "game": "nyy @ kc",
             "hr/park": "",
@@ -7295,17 +7325,17 @@
         {
             "player": "rhys hoskins",
             "game": "atl @ mil",
-            "hr/park": "",
+            "hr/park": "6/30",
             "pa": "47",
             "dt": "2025-06-10 21:17:40",
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
             "team": "mil",
             "start": "7:40 PM",
             "in": "6",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "98.3",
+            "la": "31",
+            "dist": "368"
         },
         {
             "player": "jake bauers",
@@ -8009,10 +8039,10 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "80.8",
+            "la": "26",
+            "dist": "294"
         },
         {
             "player": "jonatan clase",
@@ -8752,6 +8782,21 @@
     ],
     "chw @ hou": [
         {
+            "player": "victor caratini",
+            "game": "chw @ hou",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-06-10 21:18:54",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "101.6",
+            "la": "14",
+            "dist": "222"
+        },
+        {
             "player": "jake meyers",
             "game": "chw @ hou",
             "hr/park": "",
@@ -8761,10 +8806,10 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "106.4",
+            "la": "-1",
+            "dist": "45"
         },
         {
             "player": "christian walker",
