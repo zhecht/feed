@@ -1,26 +1,26 @@
 {
     "all": {
-        "pitchers": "97",
+        "pitchers": "98",
         "batters": "287",
-        "pitches": "3723",
+        "pitches": "3728",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "69.8",
         "ff%fourseam fastball %": "32.6",
         "si%sinker %": "13.7",
         "fc%cutter %": "9.1",
         "fs%splitter %": "4.0",
-        "ch%changeup %": "10.9",
+        "ch%changeup %": "10.8",
         "sl%slider %": "18.8",
         "cu%curve %": "10.9",
         "max evmax exit velocity": "112.2",
-        "hhhard hit": "263",
-        "hh%hard hit %": "37.7",
+        "hhhard hit": "264",
+        "hh%hard hit %": "37.9",
         "brlbarrels": "51",
         "brl%barrel %": "7.3",
-        "ab": "891",
-        "avg": ".259",
-        "h": "231",
-        "1b": "138",
+        "ab": "894",
+        "avg": ".260",
+        "h": "232",
+        "1b": "139",
         "2b": "52",
         "3b": "6",
         "hr": "35",
@@ -28,7 +28,7 @@
         "bipballs in play": "697",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-11 21:45:09.557698"
+        "updated": "2025-06-11 21:45:21.134353"
     },
     "mia @ pit": [
         {
@@ -12063,10 +12063,10 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "7",
-            "result": "Lineout",
-            "evo": "93.4",
-            "la": "21",
-            "dist": "301"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "adolis garcia",
@@ -12896,6 +12896,21 @@
     ],
     "nyy @ kc": [
         {
+            "player": "aaron judge",
+            "game": "nyy @ kc",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-06-11 21:45:13",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "vinnie pasquantino",
             "game": "nyy @ kc",
             "hr/park": "",
@@ -13663,6 +13678,36 @@
     ],
     "chw @ hou": [
         {
+            "player": "kyle teel",
+            "game": "chw @ hou",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-06-11 21:45:13",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "luis robert",
+            "game": "chw @ hou",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-06-11 21:44:14",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "Single",
+            "evo": "104.8",
+            "la": "7",
+            "dist": "163"
+        },
+        {
             "player": "joshua palacios",
             "game": "chw @ hou",
             "hr/park": "",
@@ -13672,7 +13717,7 @@
             "team": "chw",
             "start": "8:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "99.2",
             "la": "-10",
             "dist": "18"
