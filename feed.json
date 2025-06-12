@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "75",
         "batters": "237",
-        "pitches": "2727",
+        "pitches": "2730",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "69.8",
         "ff%fourseam fastball %": "32.0",
-        "si%sinker %": "14.3",
+        "si%sinker %": "14.2",
         "fc%cutter %": "9.4",
         "fs%splitter %": "4.8",
         "ch%changeup %": "10.5",
@@ -14,21 +14,21 @@
         "cu%curve %": "10.7",
         "max evmax exit velocity": "112.2",
         "hhhard hit": "181",
-        "hh%hard hit %": "35.8",
+        "hh%hard hit %": "35.7",
         "brlbarrels": "36",
         "brl%barrel %": "7.1",
-        "ab": "658",
-        "avg": ".245",
-        "h": "161",
-        "1b": "102",
+        "ab": "659",
+        "avg": ".246",
+        "h": "162",
+        "1b": "103",
         "2b": "28",
         "3b": "4",
         "hr": "27",
         "so": "166",
-        "bipballs in play": "506",
+        "bipballs in play": "507",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-11 20:10:07.545795"
+        "updated": "2025-06-11 20:10:17.763683"
     },
     "mia @ pit": [
         {
@@ -8862,10 +8862,10 @@
             "team": "det",
             "start": "6:35 PM",
             "in": "7",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "53.0",
+            "la": "23",
+            "dist": "196"
         },
         {
             "player": "riley greene",
@@ -10057,6 +10057,21 @@
     ],
     "tb @ bos": [
         {
+            "player": "jarren duran",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-06-11 20:10:12",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ceddanne rafaela",
             "game": "tb @ bos",
             "hr/park": "",
@@ -10593,7 +10608,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
