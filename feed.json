@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "63",
         "batters": "227",
-        "pitches": "2677",
+        "pitches": "2680",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.3",
         "ff%fourseam fastball %": "32.6",
         "si%sinker %": "13.2",
-        "fc%cutter %": "10.2",
+        "fc%cutter %": "10.3",
         "fs%splitter %": "1.5",
-        "ch%changeup %": "10.5",
+        "ch%changeup %": "10.4",
         "sl%slider %": "21.1",
         "cu%curve %": "10.9",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "196",
-        "hh%hard hit %": "40.3",
+        "hhhard hit": "197",
+        "hh%hard hit %": "40.5",
         "brlbarrels": "35",
         "brl%barrel %": "7.2",
         "ab": "628",
-        "avg": ".244",
-        "h": "153",
+        "avg": ".245",
+        "h": "154",
         "1b": "113",
-        "2b": "25",
+        "2b": "26",
         "3b": "1",
         "hr": "14",
-        "so": "153",
+        "so": "155",
         "bipballs in play": "486",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:58:01.304090"
+        "updated": "2025-06-15 15:58:11.534309"
     },
     "cin @ det": [
         {
@@ -1219,6 +1219,21 @@
     ],
     "laa @ bal": [
         {
+            "player": "jordan westburg",
+            "game": "laa @ bal",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis vazquez",
             "game": "laa @ bal",
             "hr/park": "",
@@ -1228,7 +1243,7 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4060,21 +4075,6 @@
     ],
     "mia @ wsh": [
         {
-            "player": "nathaniel lowe",
-            "game": "mia @ wsh",
-            "hr/park": "",
-            "pa": "70",
-            "dt": "2025-06-14 20:11:13",
-            "img": "https://www.mlbstatic.com/team-logos/120.svg",
-            "team": "wsh",
-            "start": "1:35 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "josh bell",
             "game": "mia @ wsh",
             "hr/park": "1/30",
@@ -6865,10 +6865,10 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "6",
-            "result": "Lineout",
-            "evo": "88.5",
-            "la": "22",
-            "dist": "312"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "salvador perez",
@@ -7587,10 +7587,10 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "103.3",
+            "la": "16",
+            "dist": "248"
         },
         {
             "player": "jake meyers",
@@ -9948,7 +9948,7 @@
             "team": "chw",
             "start": "2:35 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
