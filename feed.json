@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "35",
         "batters": "214",
-        "pitches": "1666",
+        "pitches": "1671",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "34.2",
+        "ff%fourseam fastball %": "34.3",
         "si%sinker %": "13.5",
         "fc%cutter %": "9.3",
         "fs%splitter %": "0.9",
-        "ch%changeup %": "11.8",
+        "ch%changeup %": "11.7",
         "sl%slider %": "19.6",
         "cu%curve %": "10.7",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "104",
-        "hh%hard hit %": "36.0",
+        "hhhard hit": "106",
+        "hh%hard hit %": "36.4",
         "brlbarrels": "21",
-        "brl%barrel %": "7.3",
-        "ab": "387",
-        "avg": ".230",
+        "brl%barrel %": "7.2",
+        "ab": "388",
+        "avg": ".229",
         "h": "89",
         "1b": "63",
         "2b": "17",
         "3b": "1",
         "hr": "8",
-        "so": "101",
-        "bipballs in play": "289",
+        "so": "102",
+        "bipballs in play": "291",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:02:59.367286"
+        "updated": "2025-06-15 15:03:08.545590"
     },
     "cin @ det": [
         {
@@ -41,7 +41,7 @@
             "team": "det",
             "start": "12:05 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3019,10 +3019,10 @@
             "team": "mia",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "95.5",
+            "la": "35",
+            "dist": "341"
         },
         {
             "player": "agustin ramirez",
@@ -5087,6 +5087,21 @@
         }
     ],
     "min @ hou": [
+        {
+            "player": "brooks lee",
+            "game": "min @ hou",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "98.3",
+            "la": "8",
+            "dist": "187"
+        },
         {
             "player": "jose altuve",
             "game": "min @ hou",
