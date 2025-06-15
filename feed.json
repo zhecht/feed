@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "42",
         "batters": "220",
-        "pitches": "2141",
+        "pitches": "2145",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "32.7",
@@ -10,25 +10,25 @@
         "fc%cutter %": "10.0",
         "fs%splitter %": "1.1",
         "ch%changeup %": "11.0",
-        "sl%slider %": "21.3",
-        "cu%curve %": "10.8",
+        "sl%slider %": "21.4",
+        "cu%curve %": "10.9",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "154",
-        "hh%hard hit %": "40.3",
+        "hhhard hit": "155",
+        "hh%hard hit %": "40.4",
         "brlbarrels": "27",
-        "brl%barrel %": "7.1",
-        "ab": "501",
-        "avg": ".242",
-        "h": "121",
-        "1b": "89",
-        "2b": "20",
+        "brl%barrel %": "7.0",
+        "ab": "503",
+        "avg": ".247",
+        "h": "124",
+        "1b": "91",
+        "2b": "21",
         "3b": "1",
         "hr": "11",
-        "so": "127",
-        "bipballs in play": "382",
+        "so": "128",
+        "bipballs in play": "384",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:28:41.106797"
+        "updated": "2025-06-15 15:28:50.724427"
     },
     "cin @ det": [
         {
@@ -2001,21 +2001,6 @@
     ],
     "tor @ phi": [
         {
-            "player": "otto kemp",
-            "game": "tor @ phi",
-            "hr/park": "",
-            "pa": "49",
-            "dt": "2025-06-14 20:11:13",
-            "img": "https://www.mlbstatic.com/team-logos/143.svg",
-            "team": "phi",
-            "start": "1:35 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "91.8",
-            "la": "15",
-            "dist": "195"
-        },
-        {
             "player": "alejandro kirk",
             "game": "tor @ phi",
             "hr/park": "0/30",
@@ -3489,6 +3474,36 @@
         }
     ],
     "mia @ wsh": [
+        {
+            "player": "xavier edwards",
+            "game": "mia @ wsh",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "Single",
+            "evo": "34.7",
+            "la": "-55",
+            "dist": "2"
+        },
+        {
+            "player": "nick fortes",
+            "game": "mia @ wsh",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "Single",
+            "evo": "31.9",
+            "la": "-11",
+            "dist": "11"
+        },
         {
             "player": "keibert ruiz",
             "game": "mia @ wsh",
@@ -5710,10 +5725,10 @@
             "team": "ath",
             "start": "2:10 PM",
             "in": "5",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "107.8",
+            "la": "11",
+            "dist": "241"
         },
         {
             "player": "denzel clarke",
@@ -7477,6 +7492,21 @@
     ],
     "pit @ chc": [
         {
+            "player": "oneil cruz",
+            "game": "pit @ chc",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-06-14 20:11:04",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "2:20 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "isiah kiner falefa",
             "game": "pit @ chc",
             "hr/park": "",
@@ -7486,7 +7516,7 @@
             "team": "pit",
             "start": "2:20 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
