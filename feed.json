@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "68",
         "batters": "230",
-        "pitches": "2770",
+        "pitches": "2776",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.1",
         "ff%fourseam fastball %": "32.5",
         "si%sinker %": "13.4",
         "fc%cutter %": "10.2",
         "fs%splitter %": "1.6",
-        "ch%changeup %": "10.3",
+        "ch%changeup %": "10.2",
         "sl%slider %": "20.8",
         "cu%curve %": "11.3",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "200",
+        "hhhard hit": "201",
         "hh%hard hit %": "40.2",
         "brlbarrels": "36",
         "brl%barrel %": "7.2",
         "ab": "648",
-        "avg": ".242",
-        "h": "157",
-        "1b": "114",
+        "avg": ".245",
+        "h": "159",
+        "1b": "116",
         "2b": "26",
         "3b": "2",
         "hr": "15",
         "so": "161",
-        "bipballs in play": "497",
+        "bipballs in play": "500",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 16:03:46.774575"
+        "updated": "2025-06-15 16:03:56.995562"
     },
     "cin @ det": [
         {
@@ -2226,10 +2226,10 @@
     ],
     "tor @ phi": [
         {
-            "player": "otto kemp",
+            "player": "trea turner",
             "game": "tor @ phi",
             "hr/park": "",
-            "pa": "65",
+            "pa": "67",
             "dt": "2025-06-14 20:11:13",
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
@@ -2239,6 +2239,36 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "brandon marsh",
+            "game": "tor @ phi",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "Single",
+            "evo": "69.6",
+            "la": "39",
+            "dist": "210"
+        },
+        {
+            "player": "otto kemp",
+            "game": "tor @ phi",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "Single",
+            "evo": "102.8",
+            "la": "12",
+            "dist": "247"
         },
         {
             "player": "bryson stott",
@@ -3197,7 +3227,7 @@
             "team": "col",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4149,21 +4179,6 @@
         }
     ],
     "mia @ wsh": [
-        {
-            "player": "otto lopez",
-            "game": "mia @ wsh",
-            "hr/park": "",
-            "pa": "73",
-            "dt": "2025-06-14 20:11:13",
-            "img": "https://www.mlbstatic.com/team-logos/146.svg",
-            "team": "mia",
-            "start": "1:35 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "agustin ramirez",
             "game": "mia @ wsh",
@@ -7060,7 +7075,7 @@
             "team": "ath",
             "start": "2:10 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
