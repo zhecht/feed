@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "40",
         "batters": "220",
-        "pitches": "2035",
+        "pitches": "2042",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "33.0",
+        "ff%fourseam fastball %": "32.9",
         "si%sinker %": "12.9",
-        "fc%cutter %": "10.0",
-        "fs%splitter %": "0.9",
-        "ch%changeup %": "11.3",
+        "fc%cutter %": "9.9",
+        "fs%splitter %": "1.0",
+        "ch%changeup %": "11.4",
         "sl%slider %": "21.3",
         "cu%curve %": "10.7",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "144",
-        "hh%hard hit %": "39.9",
+        "hhhard hit": "146",
+        "hh%hard hit %": "40.1",
         "brlbarrels": "26",
-        "brl%barrel %": "7.2",
-        "ab": "474",
-        "avg": ".247",
+        "brl%barrel %": "7.1",
+        "ab": "476",
+        "avg": ".246",
         "h": "117",
         "1b": "85",
         "2b": "20",
         "3b": "1",
         "hr": "11",
         "so": "121",
-        "bipballs in play": "361",
+        "bipballs in play": "364",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:23:11.594535"
+        "updated": "2025-06-15 15:23:20.909669"
     },
     "cin @ det": [
         {
@@ -2633,21 +2633,6 @@
     ],
     "col @ atl": [
         {
-            "player": "ryan ritter",
-            "game": "col @ atl",
-            "hr/park": "",
-            "pa": "50",
-            "dt": "2025-06-14 20:14:41",
-            "img": "https://www.mlbstatic.com/team-logos/115.svg",
-            "team": "col",
-            "start": "1:35 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "orlando arcia",
             "game": "col @ atl",
             "hr/park": "",
@@ -3384,6 +3369,21 @@
         }
     ],
     "mia @ wsh": [
+        {
+            "player": "robert hassell",
+            "game": "mia @ wsh",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "nathaniel lowe",
             "game": "mia @ wsh",
@@ -4829,6 +4829,21 @@
     ],
     "tb @ nym": [
         {
+            "player": "francisco lindor",
+            "game": "tb @ nym",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "1:40 PM",
+            "in": "5",
+            "result": "Forceout",
+            "evo": "97.2",
+            "la": "8",
+            "dist": "135"
+        },
+        {
             "player": "luisangel acuna",
             "game": "tb @ nym",
             "hr/park": "",
@@ -5982,10 +5997,10 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "100.3",
+            "la": "17",
+            "dist": "311"
         },
         {
             "player": "cooper hummel",
@@ -7614,10 +7629,10 @@
     ],
     "chw @ tex": [
         {
-            "player": "chase meidroth",
+            "player": "andrew benintendi",
             "game": "chw @ tex",
             "hr/park": "",
-            "pa": "21",
+            "pa": "22",
             "dt": "2025-06-14 20:14:41",
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
             "team": "chw",
@@ -7627,6 +7642,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "chase meidroth",
+            "game": "chw @ tex",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:35 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "73.9",
+            "la": "-55",
+            "dist": "2"
         },
         {
             "player": "mike tauchman",
