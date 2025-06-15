@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "65",
         "batters": "227",
-        "pitches": "2704",
+        "pitches": "2708",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.3",
-        "ff%fourseam fastball %": "32.5",
+        "ff%fourseam fastball %": "32.6",
         "si%sinker %": "13.2",
         "fc%cutter %": "10.2",
         "fs%splitter %": "1.6",
         "ch%changeup %": "10.4",
         "sl%slider %": "21.0",
-        "cu%curve %": "11.1",
+        "cu%curve %": "11.0",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "197",
+        "hhhard hit": "198",
         "hh%hard hit %": "40.3",
         "brlbarrels": "35",
-        "brl%barrel %": "7.2",
-        "ab": "632",
-        "avg": ".244",
+        "brl%barrel %": "7.1",
+        "ab": "634",
+        "avg": ".243",
         "h": "154",
         "1b": "113",
         "2b": "26",
         "3b": "1",
         "hr": "14",
-        "so": "155",
-        "bipballs in play": "489",
+        "so": "156",
+        "bipballs in play": "491",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:59:24.486099"
+        "updated": "2025-06-15 15:59:35.023148"
     },
     "cin @ det": [
         {
@@ -3152,7 +3152,7 @@
             "team": "col",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4090,6 +4090,21 @@
     ],
     "mia @ wsh": [
         {
+            "player": "robert hassell",
+            "game": "mia @ wsh",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "Lineout",
+            "evo": "54.1",
+            "la": "34",
+            "dist": "151"
+        },
+        {
             "player": "nathaniel lowe",
             "game": "mia @ wsh",
             "hr/park": "",
@@ -4099,7 +4114,7 @@
             "team": "wsh",
             "start": "1:35 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6885,6 +6900,21 @@
         }
     ],
     "ath @ kc": [
+        {
+            "player": "nick loftin",
+            "game": "ath @ kc",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "Lineout",
+            "evo": "104.3",
+            "la": "6",
+            "dist": "137"
+        },
         {
             "player": "mark canha",
             "game": "ath @ kc",
@@ -10008,7 +10038,7 @@
             "team": "chw",
             "start": "2:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Game Advisory",
             "evo": "",
             "la": "",
             "dist": ""
