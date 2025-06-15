@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "66",
         "batters": "229",
-        "pitches": "2734",
+        "pitches": "2741",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.1",
         "ff%fourseam fastball %": "32.5",
         "si%sinker %": "13.3",
         "fc%cutter %": "10.2",
         "fs%splitter %": "1.6",
-        "ch%changeup %": "10.4",
+        "ch%changeup %": "10.3",
         "sl%slider %": "20.9",
         "cu%curve %": "11.1",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "200",
-        "hh%hard hit %": "40.4",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "36",
         "brl%barrel %": "7.3",
-        "ab": "640",
+        "ab": "642",
         "avg": ".245",
         "h": "157",
         "1b": "114",
         "2b": "26",
         "3b": "2",
         "hr": "15",
-        "so": "158",
-        "bipballs in play": "495",
+        "so": "157",
+        "bipballs in play": "496",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 16:01:51.924839"
+        "updated": "2025-06-15 16:02:02.457396"
     },
     "cin @ det": [
         {
@@ -2235,10 +2235,10 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "89.1",
+            "la": "21",
+            "dist": "279"
         },
         {
             "player": "vladimir guerrero",
@@ -5211,7 +5211,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "8",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6118,6 +6118,21 @@
         }
     ],
     "tb @ nym": [
+        {
+            "player": "francisco alvarez",
+            "game": "tb @ nym",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ronny mauricio",
             "game": "tb @ nym",
@@ -9352,6 +9367,21 @@
     ],
     "pit @ chc": [
         {
+            "player": "justin turner",
+            "game": "pit @ chc",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-06-14 20:11:04",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:20 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nico hoerner",
             "game": "pit @ chc",
             "hr/park": "",
@@ -9361,7 +9391,7 @@
             "team": "chc",
             "start": "2:20 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "82.1",
             "la": "76",
             "dist": "85"
