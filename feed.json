@@ -1,36 +1,51 @@
 {
     "all": {
         "pitchers": "19",
-        "batters": "109",
-        "pitches": "585",
+        "batters": "110",
+        "pitches": "591",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "73.7",
         "ff%fourseam fastball %": "33.2",
-        "si%sinker %": "14.7",
+        "si%sinker %": "14.9",
         "fc%cutter %": "10.8",
         "fs%splitter %": "1.2",
-        "ch%changeup %": "10.4",
-        "sl%slider %": "21.5",
-        "cu%curve %": "8.2",
+        "ch%changeup %": "10.5",
+        "sl%slider %": "21.3",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "109.8",
-        "hhhard hit": "32",
-        "hh%hard hit %": "32.0",
+        "hhhard hit": "33",
+        "hh%hard hit %": "32.4",
         "brlbarrels": "12",
-        "brl%barrel %": "12.0",
-        "ab": "136",
-        "avg": ".213",
-        "h": "29",
-        "1b": "15",
+        "brl%barrel %": "11.8",
+        "ab": "138",
+        "avg": ".217",
+        "h": "30",
+        "1b": "16",
         "2b": "8",
         "3b": "1",
         "hr": "5",
-        "so": "33",
-        "bipballs in play": "100",
-        "liveGames": 7,
+        "so": "34",
+        "bipballs in play": "102",
+        "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-15 14:09:57.018119"
+        "updated": "2025-06-15 14:10:04.949736"
     },
     "cin @ det": [
+        {
+            "player": "riley greene",
+            "game": "cin @ det",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "12:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "gleyber torres",
             "game": "cin @ det",
@@ -41,7 +56,7 @@
             "team": "det",
             "start": "12:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "82.0",
             "la": "-2",
             "dist": "35"
@@ -874,21 +889,6 @@
     ],
     "laa @ bal": [
         {
-            "player": "dylan carlson",
-            "game": "laa @ bal",
-            "hr/park": "",
-            "pa": "15",
-            "dt": "2025-06-14 20:14:41",
-            "img": "https://www.mlbstatic.com/team-logos/110.svg",
-            "team": "bal",
-            "start": "1:35 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "coby mayo",
             "game": "laa @ bal",
             "hr/park": "",
@@ -1357,6 +1357,21 @@
         }
     ],
     "col @ atl": [
+        {
+            "player": "eli white",
+            "game": "col @ atl",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "1:35 PM",
+            "in": "3",
+            "result": "Pop Out",
+            "evo": "67.9",
+            "la": "65",
+            "dist": "136"
+        },
         {
             "player": "michael harris",
             "game": "col @ atl",
@@ -1872,6 +1887,21 @@
     ],
     "nyy @ bos": [
         {
+            "player": "ceddanne rafaela",
+            "game": "nyy @ bos",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "2",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jarren duran",
             "game": "nyy @ bos",
             "hr/park": "",
@@ -1881,7 +1911,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2109,9 +2139,9 @@
             "start": "1:40 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "99.7",
+            "la": "10",
+            "dist": "195"
         },
         {
             "player": "kameron misner",
