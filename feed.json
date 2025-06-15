@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "35",
         "batters": "215",
-        "pitches": "1681",
+        "pitches": "1684",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "34.1",
@@ -10,25 +10,25 @@
         "fc%cutter %": "9.5",
         "fs%splitter %": "0.9",
         "ch%changeup %": "11.7",
-        "sl%slider %": "19.6",
+        "sl%slider %": "19.5",
         "cu%curve %": "10.7",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "107",
-        "hh%hard hit %": "36.4",
+        "hhhard hit": "108",
+        "hh%hard hit %": "36.6",
         "brlbarrels": "21",
         "brl%barrel %": "7.1",
-        "ab": "391",
-        "avg": ".235",
-        "h": "92",
-        "1b": "66",
+        "ab": "393",
+        "avg": ".232",
+        "h": "91",
+        "1b": "65",
         "2b": "17",
         "3b": "1",
         "hr": "8",
         "so": "103",
-        "bipballs in play": "294",
+        "bipballs in play": "295",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:03:45.509665"
+        "updated": "2025-06-15 15:03:55.041746"
     },
     "cin @ det": [
         {
@@ -1836,6 +1836,21 @@
     ],
     "tor @ phi": [
         {
+            "player": "trea turner",
+            "game": "tor @ phi",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bo bichette",
             "game": "tor @ phi",
             "hr/park": "",
@@ -3009,6 +3024,21 @@
         }
     ],
     "mia @ wsh": [
+        {
+            "player": "eric wagaman",
+            "game": "mia @ wsh",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "110.0",
+            "la": "-3",
+            "dist": "33"
+        },
         {
             "player": "otto lopez",
             "game": "mia @ wsh",
@@ -4720,7 +4750,7 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "3",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "101.0",
             "la": "9",
             "dist": "213"
@@ -5097,7 +5127,7 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "5",
-            "result": "Lineout",
+            "result": "In Progress",
             "evo": "90.4",
             "la": "19",
             "dist": "273"
