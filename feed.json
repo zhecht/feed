@@ -1,15 +1,15 @@
 {
     "all": {
-        "pitchers": "101",
+        "pitchers": "102",
         "batters": "272",
-        "pitches": "3513",
+        "pitches": "3521",
         "max velomax pitch velocity": "101.5",
         "min velomin pitch velocity": "51.8",
-        "ff%fourseam fastball %": "32.6",
+        "ff%fourseam fastball %": "32.5",
         "si%sinker %": "13.9",
-        "fc%cutter %": "8.9",
+        "fc%cutter %": "8.8",
         "fs%splitter %": "2.0",
-        "ch%changeup %": "10.0",
+        "ch%changeup %": "10.1",
         "sl%slider %": "21.5",
         "cu%curve %": "11.1",
         "max evmax exit velocity": "115.7",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "40.1",
         "brlbarrels": "45",
         "brl%barrel %": "7.2",
-        "ab": "813",
+        "ab": "814",
         "avg": ".241",
         "h": "196",
         "1b": "142",
@@ -28,7 +28,7 @@
         "bipballs in play": "628",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-15 16:50:38.810615"
+        "updated": "2025-06-15 16:50:50.749902"
     },
     "cin @ det": [
         {
@@ -7945,7 +7945,7 @@
             "team": "ath",
             "start": "2:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11062,6 +11062,21 @@
     ],
     "pit @ chc": [
         {
+            "player": "jon berti",
+            "game": "pit @ chc",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-06-15 16:50:02",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:20 PM",
+            "in": "10",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "isiah kiner falefa",
             "game": "pit @ chc",
             "hr/park": "",
@@ -13273,6 +13288,21 @@
     ],
     "cle @ sea": [
         {
+            "player": "steven kwan",
+            "game": "cle @ sea",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "4:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "austin hedges",
             "game": "cle @ sea",
             "hr/park": "",
@@ -13282,7 +13312,7 @@
             "team": "cle",
             "start": "4:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "101.1",
             "la": "-8",
             "dist": "13"
