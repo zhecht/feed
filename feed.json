@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "69",
+        "pitchers": "70",
         "batters": "230",
-        "pitches": "2793",
+        "pitches": "2798",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.1",
         "ff%fourseam fastball %": "32.6",
@@ -10,25 +10,25 @@
         "fc%cutter %": "10.1",
         "fs%splitter %": "1.6",
         "ch%changeup %": "10.2",
-        "sl%slider %": "20.8",
-        "cu%curve %": "11.2",
+        "sl%slider %": "20.7",
+        "cu%curve %": "11.3",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "204",
-        "hh%hard hit %": "40.3",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "36",
         "brl%barrel %": "7.1",
-        "ab": "653",
-        "avg": ".247",
-        "h": "161",
-        "1b": "118",
+        "ab": "655",
+        "avg": ".244",
+        "h": "160",
+        "1b": "117",
         "2b": "26",
         "3b": "2",
         "hr": "15",
         "so": "161",
-        "bipballs in play": "506",
+        "bipballs in play": "507",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 16:04:59.768113"
+        "updated": "2025-06-15 16:05:10.266557"
     },
     "cin @ det": [
         {
@@ -1219,6 +1219,21 @@
     ],
     "laa @ bal": [
         {
+            "player": "taylor ward",
+            "game": "laa @ bal",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ramon urias",
             "game": "laa @ bal",
             "hr/park": "",
@@ -2235,7 +2250,7 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "7",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "85.6",
             "la": "-37",
             "dist": "2"
@@ -8690,6 +8705,21 @@
     ],
     "stl @ mil": [
         {
+            "player": "brendan donovan",
+            "game": "stl @ mil",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-14 20:11:04",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "masyn winn",
             "game": "stl @ mil",
             "hr/park": "",
@@ -8699,10 +8729,10 @@
             "team": "stl",
             "start": "2:10 PM",
             "in": "8",
-            "result": "Batter Timeout",
-            "evo": "",
+            "result": "Groundout",
+            "evo": "76.5",
             "la": "",
-            "dist": ""
+            "dist": "30"
         },
         {
             "player": "jackson chourio",
