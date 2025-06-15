@@ -1,51 +1,36 @@
 {
     "all": {
         "pitchers": "32",
-        "batters": "191",
-        "pitches": "1242",
+        "batters": "192",
+        "pitches": "1245",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "34.1",
-        "si%sinker %": "13.4",
-        "fc%cutter %": "9.6",
+        "ff%fourseam fastball %": "34.0",
+        "si%sinker %": "13.3",
+        "fc%cutter %": "9.4",
         "fs%splitter %": "0.9",
         "ch%changeup %": "11.6",
-        "sl%slider %": "20.5",
-        "cu%curve %": "10.1",
+        "sl%slider %": "20.7",
+        "cu%curve %": "10.0",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "77",
-        "hh%hard hit %": "36.5",
+        "hhhard hit": "76",
+        "hh%hard hit %": "36.0",
         "brlbarrels": "18",
         "brl%barrel %": "8.5",
-        "ab": "283",
-        "avg": ".237",
+        "ab": "284",
+        "avg": ".236",
         "h": "67",
         "1b": "46",
         "2b": "14",
         "3b": "1",
         "hr": "6",
-        "so": "73",
+        "so": "74",
         "bipballs in play": "211",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 14:43:08.641240"
+        "updated": "2025-06-15 14:43:17.401064"
     },
     "cin @ det": [
-        {
-            "player": "javier baez",
-            "game": "cin @ det",
-            "hr/park": "",
-            "pa": "70",
-            "dt": "2025-06-14 20:11:13",
-            "img": "https://www.mlbstatic.com/team-logos/116.svg",
-            "team": "det",
-            "start": "12:05 PM",
-            "in": "8",
-            "result": "Flyout",
-            "evo": "88.6",
-            "la": "58",
-            "dist": "216"
-        },
         {
             "player": "wenceel perez",
             "game": "cin @ det",
@@ -1545,10 +1530,10 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "86.1",
+            "la": "51",
+            "dist": "250"
         },
         {
             "player": "jt realmuto",
@@ -2916,7 +2901,7 @@
             "team": "nyy",
             "start": "1:35 PM",
             "in": "4",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3328,6 +3313,21 @@
         }
     ],
     "tb @ nym": [
+        {
+            "player": "pete alonso",
+            "game": "tb @ nym",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "1:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "juan soto",
             "game": "tb @ nym",
@@ -3978,21 +3978,6 @@
     ],
     "min @ hou": [
         {
-            "player": "willi castro",
-            "game": "min @ hou",
-            "hr/park": "",
-            "pa": "18",
-            "dt": "2025-06-14 20:11:13",
-            "img": "https://www.mlbstatic.com/team-logos/142.svg",
-            "team": "min",
-            "start": "2:10 PM",
-            "in": "3",
-            "result": "Single",
-            "evo": "97.9",
-            "la": "3",
-            "dist": "81"
-        },
-        {
             "player": "carlos correa",
             "game": "min @ hou",
             "hr/park": "",
@@ -4259,7 +4244,7 @@
             "team": "stl",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4507,6 +4492,21 @@
     ],
     "pit @ chc": [
         {
+            "player": "nico hoerner",
+            "game": "pit @ chc",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-06-14 20:11:04",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:20 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "92.6",
+            "la": "",
+            "dist": "49"
+        },
+        {
             "player": "dansby swanson",
             "game": "pit @ chc",
             "hr/park": "",
@@ -4516,7 +4516,7 @@
             "team": "chc",
             "start": "2:20 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "94.7",
             "la": "7",
             "dist": "116"
