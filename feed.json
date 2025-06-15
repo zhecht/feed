@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "28",
-        "batters": "167",
-        "pitches": "1008",
+        "pitchers": "29",
+        "batters": "169",
+        "pitches": "1015",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "73.7",
         "ff%fourseam fastball %": "34.2",
-        "si%sinker %": "13.9",
+        "si%sinker %": "14.0",
         "fc%cutter %": "10.3",
         "fs%splitter %": "1.1",
         "ch%changeup %": "11.4",
         "sl%slider %": "20.3",
         "cu%curve %": "8.7",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "60",
-        "hh%hard hit %": "35.1",
+        "hhhard hit": "61",
+        "hh%hard hit %": "35.3",
         "brlbarrels": "16",
-        "brl%barrel %": "9.4",
-        "ab": "233",
-        "avg": ".227",
+        "brl%barrel %": "9.2",
+        "ab": "235",
+        "avg": ".226",
         "h": "53",
         "1b": "37",
         "2b": "10",
         "3b": "1",
         "hr": "5",
         "so": "60",
-        "bipballs in play": "171",
+        "bipballs in play": "173",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-15 14:32:52.729079"
+        "updated": "2025-06-15 14:33:01.505700"
     },
     "cin @ det": [
         {
@@ -1757,7 +1757,7 @@
             "team": "col",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2562,6 +2562,21 @@
     ],
     "nyy @ bos": [
         {
+            "player": "rob refsnyder",
+            "game": "nyy @ bos",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "99.7",
+            "la": "",
+            "dist": "49"
+        },
+        {
             "player": "kristian campbell",
             "game": "nyy @ bos",
             "hr/park": "",
@@ -2571,7 +2586,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2908,6 +2923,36 @@
         }
     ],
     "tb @ nym": [
+        {
+            "player": "luisangel acuna",
+            "game": "tb @ nym",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "1:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "francisco alvarez",
+            "game": "tb @ nym",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "1:40 PM",
+            "in": "3",
+            "result": "Pop Out",
+            "evo": "87.3",
+            "la": "65",
+            "dist": "140"
+        },
         {
             "player": "jose caballero",
             "game": "tb @ nym",
