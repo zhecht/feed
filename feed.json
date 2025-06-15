@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "30",
         "batters": "174",
-        "pitches": "1072",
+        "pitches": "1078",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "73.7",
-        "ff%fourseam fastball %": "34.7",
+        "ff%fourseam fastball %": "34.6",
         "si%sinker %": "13.5",
-        "fc%cutter %": "10.0",
+        "fc%cutter %": "9.9",
         "fs%splitter %": "1.0",
-        "ch%changeup %": "11.2",
-        "sl%slider %": "20.1",
-        "cu%curve %": "9.4",
+        "ch%changeup %": "11.1",
+        "sl%slider %": "20.4",
+        "cu%curve %": "9.5",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "65",
-        "hh%hard hit %": "36.1",
+        "hh%hard hit %": "35.9",
         "brlbarrels": "16",
-        "brl%barrel %": "8.9",
+        "brl%barrel %": "8.8",
         "ab": "248",
         "avg": ".230",
         "h": "57",
@@ -24,11 +24,11 @@
         "2b": "11",
         "3b": "1",
         "hr": "5",
-        "so": "63",
-        "bipballs in play": "180",
+        "so": "65",
+        "bipballs in play": "181",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 14:35:42.189563"
+        "updated": "2025-06-15 14:35:50.768762"
     },
     "cin @ det": [
         {
@@ -1425,7 +1425,7 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1817,7 +1817,7 @@
             "team": "col",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2239,10 +2239,10 @@
             "team": "wsh",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "79.9",
+            "la": "33",
+            "dist": "271"
         },
         {
             "player": "james wood",
@@ -3430,7 +3430,7 @@
             "team": "ath",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
