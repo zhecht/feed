@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "33",
-        "batters": "200",
-        "pitches": "1333",
+        "batters": "202",
+        "pitches": "1339",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "34.0",
@@ -10,25 +10,25 @@
         "fc%cutter %": "9.5",
         "fs%splitter %": "1.0",
         "ch%changeup %": "11.6",
-        "sl%slider %": "20.6",
-        "cu%curve %": "10.1",
+        "sl%slider %": "20.8",
+        "cu%curve %": "9.9",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "82",
-        "hh%hard hit %": "35.5",
+        "hhhard hit": "84",
+        "hh%hard hit %": "36.2",
         "brlbarrels": "18",
         "brl%barrel %": "7.8",
-        "ab": "309",
-        "avg": ".230",
+        "ab": "311",
+        "avg": ".228",
         "h": "71",
         "1b": "50",
         "2b": "14",
         "3b": "1",
         "hr": "6",
         "so": "80",
-        "bipballs in play": "231",
+        "bipballs in play": "232",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 14:47:39.577141"
+        "updated": "2025-06-15 14:47:48.258348"
     },
     "cin @ det": [
         {
@@ -41,10 +41,10 @@
             "team": "cin",
             "start": "12:05 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "102.7",
+            "la": "5",
+            "dist": "121"
         },
         {
             "player": "spencer steer",
@@ -1611,6 +1611,21 @@
     ],
     "tor @ phi": [
         {
+            "player": "trea turner",
+            "game": "tor @ phi",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brandon marsh",
             "game": "tor @ phi",
             "hr/park": "",
@@ -3072,6 +3087,21 @@
     ],
     "nyy @ bos": [
         {
+            "player": "abraham toro",
+            "game": "nyy @ bos",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jasson dominguez",
             "game": "nyy @ bos",
             "hr/park": "",
@@ -4203,6 +4233,36 @@
     ],
     "min @ hou": [
         {
+            "player": "luis guillorme",
+            "game": "min @ hou",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "mauricio dubon",
+            "game": "min @ hou",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "97.5",
+            "la": "4",
+            "dist": "74"
+        },
+        {
             "player": "cooper hummel",
             "game": "min @ hou",
             "hr/park": "",
@@ -4504,36 +4564,6 @@
         }
     ],
     "stl @ mil": [
-        {
-            "player": "jackson chourio",
-            "game": "stl @ mil",
-            "hr/park": "",
-            "pa": "20",
-            "dt": "2025-06-14 20:11:04",
-            "img": "https://www.mlbstatic.com/team-logos/158.svg",
-            "team": "mil",
-            "start": "2:10 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
-            "player": "sal frelick",
-            "game": "stl @ mil",
-            "hr/park": "",
-            "pa": "19",
-            "dt": "2025-06-14 20:11:04",
-            "img": "https://www.mlbstatic.com/team-logos/158.svg",
-            "team": "mil",
-            "start": "2:10 PM",
-            "in": "3",
-            "result": "Lineout",
-            "evo": "68.9",
-            "la": "15",
-            "dist": "160"
-        },
         {
             "player": "jose barrero",
             "game": "stl @ mil",
