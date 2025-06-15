@@ -1,36 +1,51 @@
 {
     "all": {
         "pitchers": "32",
-        "batters": "186",
-        "pitches": "1187",
+        "batters": "187",
+        "pitches": "1199",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "34.3",
-        "si%sinker %": "13.4",
-        "fc%cutter %": "9.8",
+        "ff%fourseam fastball %": "34.4",
+        "si%sinker %": "13.2",
+        "fc%cutter %": "9.7",
         "fs%splitter %": "0.9",
-        "ch%changeup %": "11.3",
-        "sl%slider %": "20.2",
-        "cu%curve %": "10.1",
+        "ch%changeup %": "11.5",
+        "sl%slider %": "20.4",
+        "cu%curve %": "10.0",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "74",
-        "hh%hard hit %": "36.8",
+        "hh%hard hit %": "36.6",
         "brlbarrels": "18",
-        "brl%barrel %": "9.0",
-        "ab": "271",
-        "avg": ".236",
-        "h": "64",
-        "1b": "43",
+        "brl%barrel %": "8.9",
+        "ab": "275",
+        "avg": ".229",
+        "h": "63",
+        "1b": "42",
         "2b": "14",
         "3b": "1",
         "hr": "6",
         "so": "72",
-        "bipballs in play": "201",
+        "bipballs in play": "202",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 14:41:24.641653"
+        "updated": "2025-06-15 14:41:33.311625"
     },
     "cin @ det": [
+        {
+            "player": "wenceel perez",
+            "game": "cin @ det",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "12:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "zach mckinstry",
             "game": "cin @ det",
@@ -1922,10 +1937,10 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "95.4",
+            "la": "10",
+            "dist": "173"
         },
         {
             "player": "ozzie albies",
@@ -2379,6 +2394,21 @@
         }
     ],
     "mia @ wsh": [
+        {
+            "player": "jesus sanchez",
+            "game": "mia @ wsh",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "josh bell",
             "game": "mia @ wsh",
@@ -3239,6 +3269,21 @@
     ],
     "tb @ nym": [
         {
+            "player": "juan soto",
+            "game": "tb @ nym",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "1:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brandon nimmo",
             "game": "tb @ nym",
             "hr/park": "",
@@ -3631,6 +3676,21 @@
     ],
     "ath @ kc": [
         {
+            "player": "nick loftin",
+            "game": "ath @ kc",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mark canha",
             "game": "ath @ kc",
             "hr/park": "",
@@ -3640,10 +3700,10 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "2",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "71.3",
+            "la": "37",
+            "dist": "243"
         },
         {
             "player": "denzel clarke",
@@ -4473,10 +4533,10 @@
             "team": "chw",
             "start": "2:35 PM",
             "in": "1",
-            "result": "Single",
-            "evo": "106.6",
-            "la": "5",
-            "dist": "105"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "mike tauchman",
