@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "45",
         "batters": "222",
-        "pitches": "2378",
+        "pitches": "2382",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "32.9",
+        "ff%fourseam fastball %": "32.8",
         "si%sinker %": "12.5",
-        "fc%cutter %": "10.0",
+        "fc%cutter %": "10.1",
         "fs%splitter %": "1.5",
         "ch%changeup %": "11.0",
-        "sl%slider %": "21.2",
+        "sl%slider %": "21.3",
         "cu%curve %": "10.8",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "168",
+        "hhhard hit": "169",
         "hh%hard hit %": "40.4",
         "brlbarrels": "29",
-        "brl%barrel %": "7.0",
-        "ab": "549",
-        "avg": ".240",
-        "h": "132",
+        "brl%barrel %": "6.9",
+        "ab": "550",
+        "avg": ".242",
+        "h": "133",
         "1b": "98",
         "2b": "22",
         "3b": "1",
-        "hr": "11",
+        "hr": "12",
         "so": "142",
-        "bipballs in play": "416",
+        "bipballs in play": "418",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:40:40.834322"
+        "updated": "2025-06-15 15:40:50.988330"
     },
     "cin @ det": [
         {
@@ -2063,17 +2063,17 @@
         {
             "player": "nick castellanos",
             "game": "tor @ phi",
-            "hr/park": "",
+            "hr/park": "10/30",
             "pa": "54",
             "dt": "2025-06-14 20:11:13",
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "105.5",
+            "la": "18",
+            "dist": "385"
         },
         {
             "player": "alec bohm",
@@ -4572,6 +4572,21 @@
     ],
     "nyy @ bos": [
         {
+            "player": "kristian campbell",
+            "game": "nyy @ bos",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "connor wong",
             "game": "nyy @ bos",
             "hr/park": "",
@@ -5378,10 +5393,10 @@
             "team": "nym",
             "start": "1:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "103.4",
+            "la": "-10",
+            "dist": "12"
         },
         {
             "player": "jeff mcneil",
@@ -6768,6 +6783,21 @@
     ],
     "min @ hou": [
         {
+            "player": "christian vazquez",
+            "game": "min @ hou",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brooks lee",
             "game": "min @ hou",
             "hr/park": "",
@@ -7460,21 +7490,6 @@
     ],
     "stl @ mil": [
         {
-            "player": "brice turang",
-            "game": "stl @ mil",
-            "hr/park": "",
-            "pa": "46",
-            "dt": "2025-06-14 20:11:04",
-            "img": "https://www.mlbstatic.com/team-logos/158.svg",
-            "team": "mil",
-            "start": "2:10 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "98.4",
-            "la": "-12",
-            "dist": "13"
-        },
-        {
             "player": "rhys hoskins",
             "game": "stl @ mil",
             "hr/park": "",
@@ -8161,10 +8176,10 @@
             "team": "pit",
             "start": "2:20 PM",
             "in": "6",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "87.2",
+            "la": "-28",
+            "dist": "6"
         },
         {
             "player": "bryan reynolds",
