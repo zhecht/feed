@@ -1,51 +1,36 @@
 {
     "all": {
         "pitchers": "33",
-        "batters": "203",
-        "pitches": "1387",
+        "batters": "204",
+        "pitches": "1390",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "33.8",
+        "ff%fourseam fastball %": "33.9",
         "si%sinker %": "13.4",
         "fc%cutter %": "9.4",
         "fs%splitter %": "0.9",
         "ch%changeup %": "11.4",
-        "sl%slider %": "21.1",
+        "sl%slider %": "20.9",
         "cu%curve %": "10.0",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "86",
-        "hh%hard hit %": "36.3",
-        "brlbarrels": "19",
-        "brl%barrel %": "8.0",
+        "hh%hard hit %": "36.0",
+        "brlbarrels": "18",
+        "brl%barrel %": "7.5",
         "ab": "320",
-        "avg": ".228",
-        "h": "73",
+        "avg": ".225",
+        "h": "72",
         "1b": "51",
         "2b": "14",
         "3b": "1",
-        "hr": "7",
-        "so": "83",
-        "bipballs in play": "237",
+        "hr": "6",
+        "so": "84",
+        "bipballs in play": "239",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 14:50:08.619237"
+        "updated": "2025-06-15 14:50:17.519152"
     },
     "cin @ det": [
-        {
-            "player": "elly de la cruz",
-            "game": "cin @ det",
-            "hr/park": "10/30",
-            "pa": "74",
-            "dt": "2025-06-14 20:11:13",
-            "img": "https://www.mlbstatic.com/team-logos/113.svg",
-            "team": "cin",
-            "start": "12:05 PM",
-            "in": "9",
-            "result": "Home Run",
-            "evo": "103.9",
-            "la": "22",
-            "dist": "372"
-        },
         {
             "player": "matt mclain",
             "game": "cin @ det",
@@ -2117,7 +2102,7 @@
             "team": "col",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3616,17 +3601,17 @@
         {
             "player": "kameron misner",
             "game": "tb @ nym",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "29",
             "dt": "2025-06-14 20:11:13",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "start": "1:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "94.3",
+            "la": "36",
+            "dist": "355"
         },
         {
             "player": "pete alonso",
@@ -4060,10 +4045,10 @@
             "team": "ath",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "103.8",
+            "la": "7",
+            "dist": "139"
         },
         {
             "player": "freddy fermin",
@@ -4664,7 +4649,7 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5213,6 +5198,21 @@
         }
     ],
     "chw @ tex": [
+        {
+            "player": "wyatt langford",
+            "game": "chw @ tex",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "2:35 PM",
+            "in": "1",
+            "result": "GIDP",
+            "evo": "71.1",
+            "la": "-11",
+            "dist": "13"
+        },
         {
             "player": "josh smith",
             "game": "chw @ tex",
