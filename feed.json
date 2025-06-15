@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "91",
-        "batters": "249",
-        "pitches": "3195",
+        "batters": "250",
+        "pitches": "3207",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "57.5",
-        "ff%fourseam fastball %": "32.6",
+        "ff%fourseam fastball %": "32.5",
         "si%sinker %": "13.9",
         "fc%cutter %": "9.0",
         "fs%splitter %": "1.8",
@@ -14,21 +14,21 @@
         "cu%curve %": "11.2",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "229",
-        "hh%hard hit %": "40.5",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "42",
         "brl%barrel %": "7.4",
-        "ab": "741",
-        "avg": ".235",
-        "h": "174",
-        "1b": "125",
+        "ab": "743",
+        "avg": ".236",
+        "h": "175",
+        "1b": "126",
         "2b": "30",
         "3b": "2",
         "hr": "17",
         "so": "189",
-        "bipballs in play": "566",
+        "bipballs in play": "568",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-15 16:28:12.976818"
+        "updated": "2025-06-15 16:28:24.034530"
     },
     "cin @ det": [
         {
@@ -2270,6 +2270,21 @@
         }
     ],
     "tor @ phi": [
+        {
+            "player": "edmundo sosa",
+            "game": "tor @ phi",
+            "hr/park": "",
+            "pa": "75",
+            "dt": "2025-06-15 16:28:18",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ernie clement",
             "game": "tor @ phi",
@@ -7675,7 +7690,7 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "7",
-            "result": "Stolen Base 2B",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8547,10 +8562,10 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "9",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "54.5",
+            "la": "-28",
+            "dist": "5"
         },
         {
             "player": "yainer diaz",
@@ -11424,6 +11439,21 @@
     ],
     "chw @ tex": [
         {
+            "player": "edgar quero",
+            "game": "chw @ tex",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle teel",
             "game": "chw @ tex",
             "hr/park": "",
@@ -12262,10 +12292,10 @@
             "team": "cle",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "81.7",
+            "la": "-13",
+            "dist": "14"
         },
         {
             "player": "carlos santana",
