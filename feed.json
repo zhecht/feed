@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "8",
-        "batters": "26",
-        "pitches": "199",
+        "pitchers": "9",
+        "batters": "28",
+        "pitches": "207",
         "max velomax pitch velocity": "96.9",
         "min velomin pitch velocity": "77.8",
-        "ff%fourseam fastball %": "32.7",
-        "si%sinker %": "23.6",
-        "fc%cutter %": "15.1",
+        "ff%fourseam fastball %": "31.9",
+        "si%sinker %": "23.2",
+        "fc%cutter %": "15.0",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "13.1",
-        "sl%slider %": "15.1",
-        "cu%curve %": "0.5",
+        "ch%changeup %": "13.0",
+        "sl%slider %": "15.5",
+        "cu%curve %": "1.4",
         "max evmax exit velocity": "109.3",
         "hhhard hit": "14",
         "hh%hard hit %": "38.9",
         "brlbarrels": "6",
         "brl%barrel %": "16.7",
-        "ab": "47",
-        "avg": ".213",
+        "ab": "49",
+        "avg": ".204",
         "h": "10",
         "1b": "5",
         "2b": "3",
@@ -28,7 +28,7 @@
         "bipballs in play": "36",
         "liveGames": 6,
         "totGames": 15,
-        "updated": "2025-06-15 13:38:57.549064"
+        "updated": "2025-06-15 13:39:05.209165"
     },
     "cin @ det": [
         {
@@ -775,6 +775,21 @@
     ],
     "mia @ wsh": [
         {
+            "player": "eric wagaman",
+            "game": "mia @ wsh",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "otto lopez",
             "game": "mia @ wsh",
             "hr/park": "",
@@ -820,7 +835,23 @@
             "dist": "131"
         }
     ],
-    "nyy @ bos": [],
+    "nyy @ bos": [
+        {
+            "player": "trent grisham",
+            "game": "nyy @ bos",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "tb @ nym": [],
     "ath @ kc": [],
     "min @ hou": [],
