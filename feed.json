@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "35",
+        "pitchers": "36",
         "batters": "216",
-        "pitches": "1736",
+        "pitches": "1742",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "33.9",
-        "si%sinker %": "13.5",
-        "fc%cutter %": "9.6",
+        "si%sinker %": "13.4",
+        "fc%cutter %": "9.5",
         "fs%splitter %": "0.9",
         "ch%changeup %": "11.8",
-        "sl%slider %": "19.8",
+        "sl%slider %": "19.9",
         "cu%curve %": "10.7",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "114",
         "hh%hard hit %": "36.8",
         "brlbarrels": "22",
         "brl%barrel %": "7.1",
-        "ab": "407",
-        "avg": ".241",
+        "ab": "410",
+        "avg": ".239",
         "h": "98",
         "1b": "71",
         "2b": "17",
@@ -28,7 +28,7 @@
         "bipballs in play": "310",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:06:59.419160"
+        "updated": "2025-06-15 15:07:09.059620"
     },
     "cin @ det": [
         {
@@ -1851,6 +1851,21 @@
     ],
     "tor @ phi": [
         {
+            "player": "nick castellanos",
+            "game": "tor @ phi",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alec bohm",
             "game": "tor @ phi",
             "hr/park": "30/30",
@@ -3084,6 +3099,21 @@
         }
     ],
     "mia @ wsh": [
+        {
+            "player": "james wood",
+            "game": "mia @ wsh",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "eric wagaman",
             "game": "mia @ wsh",
@@ -6217,6 +6247,21 @@
     ],
     "pit @ chc": [
         {
+            "player": "michael busch",
+            "game": "pit @ chc",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-06-14 20:11:04",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:20 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "seiya suzuki",
             "game": "pit @ chc",
             "hr/park": "",
@@ -6226,7 +6271,7 @@
             "team": "chc",
             "start": "2:20 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "91.7",
             "la": "42",
             "dist": "260"
