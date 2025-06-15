@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "45",
         "batters": "222",
-        "pitches": "2339",
+        "pitches": "2346",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "32.7",
+        "ff%fourseam fastball %": "32.8",
         "si%sinker %": "12.6",
         "fc%cutter %": "10.1",
         "fs%splitter %": "1.5",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.4",
         "cu%curve %": "10.7",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "164",
-        "hh%hard hit %": "40.1",
+        "hhhard hit": "165",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "29",
         "brl%barrel %": "7.1",
-        "ab": "540",
+        "ab": "543",
         "avg": ".239",
-        "h": "129",
-        "1b": "95",
+        "h": "130",
+        "1b": "96",
         "2b": "22",
         "3b": "1",
         "hr": "11",
-        "so": "139",
-        "bipballs in play": "409",
+        "so": "140",
+        "bipballs in play": "410",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:39:00.002088"
+        "updated": "2025-06-15 15:39:09.916112"
     },
     "cin @ det": [
         {
@@ -1218,6 +1218,36 @@
         }
     ],
     "laa @ bal": [
+        {
+            "player": "ramon urias",
+            "game": "laa @ bal",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jordan westburg",
+            "game": "laa @ bal",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "Single",
+            "evo": "102.5",
+            "la": "13",
+            "dist": "270"
+        },
         {
             "player": "luis vazquez",
             "game": "laa @ bal",
@@ -3627,7 +3657,7 @@
         {
             "player": "dane myers",
             "game": "mia @ wsh",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "59",
             "dt": "2025-06-14 20:11:13",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
@@ -5294,6 +5324,21 @@
     ],
     "tb @ nym": [
         {
+            "player": "tyrone taylor",
+            "game": "tb @ nym",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "1:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jeff mcneil",
             "game": "tb @ nym",
             "hr/park": "",
@@ -6672,7 +6717,7 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
