@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "35",
         "batters": "214",
-        "pitches": "1659",
+        "pitches": "1666",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "34.1",
+        "ff%fourseam fastball %": "34.2",
         "si%sinker %": "13.5",
         "fc%cutter %": "9.3",
         "fs%splitter %": "0.9",
         "ch%changeup %": "11.8",
-        "sl%slider %": "19.7",
+        "sl%slider %": "19.6",
         "cu%curve %": "10.7",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "102",
-        "hh%hard hit %": "35.5",
+        "hhhard hit": "104",
+        "hh%hard hit %": "36.0",
         "brlbarrels": "21",
         "brl%barrel %": "7.3",
         "ab": "387",
-        "avg": ".227",
-        "h": "88",
-        "1b": "62",
+        "avg": ".230",
+        "h": "89",
+        "1b": "63",
         "2b": "17",
         "3b": "1",
         "hr": "8",
-        "so": "102",
-        "bipballs in play": "287",
+        "so": "101",
+        "bipballs in play": "289",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:02:41.043591"
+        "updated": "2025-06-15 15:02:50.053858"
     },
     "cin @ det": [
         {
@@ -41,7 +41,7 @@
             "team": "det",
             "start": "12:05 PM",
             "in": "9",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1218,6 +1218,21 @@
         }
     ],
     "laa @ bal": [
+        {
+            "player": "mike trout",
+            "game": "laa @ bal",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "nolan schanuel",
             "game": "laa @ bal",
@@ -4706,9 +4721,9 @@
             "start": "2:10 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "101.0",
+            "la": "9",
+            "dist": "213"
         },
         {
             "player": "bobby witt",
@@ -5504,10 +5519,10 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Single",
+            "evo": "102.8",
             "la": "",
-            "dist": ""
+            "dist": "46"
         },
         {
             "player": "christian yelich",
@@ -5919,7 +5934,7 @@
         {
             "player": "nick gonzales",
             "game": "pit @ chc",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "22",
             "dt": "2025-06-14 20:11:04",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
@@ -6258,7 +6273,7 @@
             "team": "chw",
             "start": "2:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
