@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "79",
         "batters": "235",
-        "pitches": "2976",
+        "pitches": "2983",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "57.5",
         "ff%fourseam fastball %": "32.6",
@@ -10,25 +10,25 @@
         "fc%cutter %": "9.8",
         "fs%splitter %": "1.5",
         "ch%changeup %": "10.0",
-        "sl%slider %": "20.6",
+        "sl%slider %": "20.7",
         "cu%curve %": "11.4",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "213",
-        "hh%hard hit %": "39.7",
+        "hhhard hit": "215",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "39",
         "brl%barrel %": "7.3",
-        "ab": "695",
-        "avg": ".237",
-        "h": "165",
-        "1b": "119",
+        "ab": "697",
+        "avg": ".238",
+        "h": "166",
+        "1b": "120",
         "2b": "28",
         "3b": "2",
         "hr": "16",
         "so": "172",
-        "bipballs in play": "536",
+        "bipballs in play": "537",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-15 16:14:58.989539"
+        "updated": "2025-06-15 16:15:09.904894"
     },
     "cin @ det": [
         {
@@ -2273,14 +2273,14 @@
         {
             "player": "nick castellanos",
             "game": "tor @ phi",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "70",
             "dt": "2025-06-14 20:11:13",
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "start": "1:35 PM",
             "in": "7",
-            "result": "Flyout",
+            "result": "In Progress",
             "evo": "92.3",
             "la": "25",
             "dist": "334"
@@ -3308,6 +3308,21 @@
     ],
     "col @ atl": [
         {
+            "player": "brenton doyle",
+            "game": "col @ atl",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-06-15 16:15:02",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "Forceout",
+            "evo": "102.2",
+            "la": "-1",
+            "dist": "55"
+        },
+        {
             "player": "thairo estrada",
             "game": "col @ atl",
             "hr/park": "",
@@ -3317,10 +3332,10 @@
             "team": "col",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "96.9",
+            "la": "10",
+            "dist": "178"
         },
         {
             "player": "ryan mcmahon",
@@ -4374,6 +4389,21 @@
         }
     ],
     "mia @ wsh": [
+        {
+            "player": "alex call",
+            "game": "mia @ wsh",
+            "hr/park": "",
+            "pa": "77",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jose tena",
             "game": "mia @ wsh",
@@ -11572,10 +11602,10 @@
             "team": "cle",
             "start": "4:10 PM",
             "in": "1",
-            "result": "Pop Out",
-            "evo": "94.5",
-            "la": "84",
-            "dist": "31"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "steven kwan",
