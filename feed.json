@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "39",
         "batters": "220",
-        "pitches": "1965",
+        "pitches": "1973",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "33.2",
@@ -13,22 +13,22 @@
         "sl%slider %": "20.8",
         "cu%curve %": "10.7",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "136",
-        "hh%hard hit %": "39.1",
+        "hhhard hit": "137",
+        "hh%hard hit %": "39.3",
         "brlbarrels": "25",
         "brl%barrel %": "7.2",
-        "ab": "458",
-        "avg": ".247",
+        "ab": "460",
+        "avg": ".246",
         "h": "113",
         "1b": "81",
         "2b": "20",
         "3b": "1",
         "hr": "11",
-        "so": "117",
-        "bipballs in play": "348",
+        "so": "118",
+        "bipballs in play": "349",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:18:44.116015"
+        "updated": "2025-06-15 15:18:53.778873"
     },
     "cin @ det": [
         {
@@ -1219,6 +1219,21 @@
     ],
     "laa @ bal": [
         {
+            "player": "taylor ward",
+            "game": "laa @ bal",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "dylan carlson",
             "game": "laa @ bal",
             "hr/park": "0/30",
@@ -1935,10 +1950,10 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "76.6",
+            "la": "15",
+            "dist": "177"
         },
         {
             "player": "jt realmuto",
@@ -4094,7 +4109,7 @@
         {
             "player": "rafael devers",
             "game": "nyy @ bos",
-            "hr/park": "2/30",
+            "hr/park": "11/30",
             "pa": "41",
             "dt": "2025-06-14 20:11:13",
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
@@ -4709,10 +4724,10 @@
     ],
     "tb @ nym": [
         {
-            "player": "francisco alvarez",
+            "player": "luisangel acuna",
             "game": "tb @ nym",
             "hr/park": "",
-            "pa": "41",
+            "pa": "42",
             "dt": "2025-06-14 20:11:13",
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
             "team": "nym",
@@ -4722,6 +4737,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "francisco alvarez",
+            "game": "tb @ nym",
+            "hr/park": "2/30",
+            "pa": "41",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "1:40 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "102.5",
+            "la": "38",
+            "dist": "338"
         },
         {
             "player": "jose caballero",
@@ -6374,7 +6404,7 @@
             "team": "stl",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
