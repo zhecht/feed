@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "26",
-        "batters": "139",
-        "pitches": "784",
+        "pitchers": "27",
+        "batters": "140",
+        "pitches": "790",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "73.7",
-        "ff%fourseam fastball %": "33.4",
-        "si%sinker %": "15.1",
+        "ff%fourseam fastball %": "33.2",
+        "si%sinker %": "15.2",
         "fc%cutter %": "11.4",
         "fs%splitter %": "0.9",
-        "ch%changeup %": "11.2",
-        "sl%slider %": "20.4",
-        "cu%curve %": "7.7",
+        "ch%changeup %": "11.3",
+        "sl%slider %": "20.3",
+        "cu%curve %": "7.8",
         "max evmax exit velocity": "109.8",
-        "hhhard hit": "44",
-        "hh%hard hit %": "32.6",
+        "hhhard hit": "45",
+        "hh%hard hit %": "33.3",
         "brlbarrels": "15",
         "brl%barrel %": "11.1",
-        "ab": "181",
-        "avg": ".227",
+        "ab": "183",
+        "avg": ".224",
         "h": "41",
         "1b": "25",
         "2b": "10",
@@ -28,7 +28,7 @@
         "bipballs in play": "135",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-15 14:21:38.437461"
+        "updated": "2025-06-15 14:21:46.471118"
     },
     "cin @ det": [
         {
@@ -1900,10 +1900,10 @@
     ],
     "mia @ wsh": [
         {
-            "player": "otto lopez",
+            "player": "eric wagaman",
             "game": "mia @ wsh",
             "hr/park": "",
-            "pa": "21",
+            "pa": "22",
             "dt": "2025-06-14 20:11:13",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
             "team": "mia",
@@ -1913,6 +1913,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "otto lopez",
+            "game": "mia @ wsh",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:35 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "98.1",
+            "la": "46",
+            "dist": "286"
         },
         {
             "player": "jose tena",
@@ -2785,10 +2800,10 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "1",
-            "result": "Groundout",
-            "evo": "78.8",
-            "la": "-23",
-            "dist": "8"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "austin wynns",
@@ -2924,7 +2939,7 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3005,7 +3020,23 @@
             "dist": ""
         }
     ],
-    "pit @ chc": [],
+    "pit @ chc": [
+        {
+            "player": "oneil cruz",
+            "game": "pit @ chc",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-14 20:11:04",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "2:20 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "chw @ tex": [],
     "sd @ ari": [],
     "cle @ sea": [],
