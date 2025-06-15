@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "79",
-        "batters": "234",
-        "pitches": "2967",
+        "batters": "235",
+        "pitches": "2971",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "57.5",
-        "ff%fourseam fastball %": "32.7",
+        "ff%fourseam fastball %": "32.5",
         "si%sinker %": "14.0",
         "fc%cutter %": "9.9",
         "fs%splitter %": "1.5",
@@ -13,11 +13,11 @@
         "sl%slider %": "20.6",
         "cu%curve %": "11.4",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "213",
-        "hh%hard hit %": "39.9",
+        "hhhard hit": "212",
+        "hh%hard hit %": "39.7",
         "brlbarrels": "39",
         "brl%barrel %": "7.3",
-        "ab": "694",
+        "ab": "693",
         "avg": ".238",
         "h": "165",
         "1b": "119",
@@ -28,7 +28,7 @@
         "bipballs in play": "534",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-15 16:14:26.501694"
+        "updated": "2025-06-15 16:14:37.211975"
     },
     "cin @ det": [
         {
@@ -10072,36 +10072,6 @@
     ],
     "pit @ chc": [
         {
-            "player": "ian happ",
-            "game": "pit @ chc",
-            "hr/park": "",
-            "pa": "58",
-            "dt": "2025-06-14 20:11:04",
-            "img": "https://www.mlbstatic.com/team-logos/112.svg",
-            "team": "chc",
-            "start": "2:20 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
-            "player": "jon berti",
-            "game": "pit @ chc",
-            "hr/park": "",
-            "pa": "57",
-            "dt": "2025-06-14 20:11:04",
-            "img": "https://www.mlbstatic.com/team-logos/112.svg",
-            "team": "chc",
-            "start": "2:20 PM",
-            "in": "8",
-            "result": "Lineout",
-            "evo": "98.7",
-            "la": "7",
-            "dist": "158"
-        },
-        {
             "player": "nick gonzales",
             "game": "pit @ chc",
             "hr/park": "",
@@ -11563,6 +11533,21 @@
     ],
     "cle @ sea": [
         {
+            "player": "kyle manzardo",
+            "game": "cle @ sea",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "Pop Out",
+            "evo": "94.5",
+            "la": "84",
+            "dist": "31"
+        },
+        {
             "player": "steven kwan",
             "game": "cle @ sea",
             "hr/park": "",
@@ -11572,7 +11557,7 @@
             "team": "cle",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "65.1",
             "la": "6",
             "dist": "68"
