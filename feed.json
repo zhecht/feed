@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "40",
         "batters": "220",
-        "pitches": "2019",
+        "pitches": "2024",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "33.1",
         "si%sinker %": "12.9",
         "fc%cutter %": "10.0",
-        "fs%splitter %": "0.9",
+        "fs%splitter %": "1.0",
         "ch%changeup %": "11.3",
-        "sl%slider %": "21.1",
+        "sl%slider %": "21.2",
         "cu%curve %": "10.5",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "143",
-        "hh%hard hit %": "39.8",
+        "hhhard hit": "144",
+        "hh%hard hit %": "39.9",
         "brlbarrels": "26",
         "brl%barrel %": "7.2",
-        "ab": "469",
-        "avg": ".249",
+        "ab": "472",
+        "avg": ".248",
         "h": "117",
         "1b": "85",
         "2b": "20",
         "3b": "1",
         "hr": "11",
-        "so": "120",
-        "bipballs in play": "359",
+        "so": "119",
+        "bipballs in play": "361",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:22:14.570869"
+        "updated": "2025-06-15 15:22:24.144176"
     },
     "cin @ det": [
         {
@@ -1228,7 +1228,7 @@
             "team": "laa",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3369,6 +3369,36 @@
         }
     ],
     "mia @ wsh": [
+        {
+            "player": "robert hassell",
+            "game": "mia @ wsh",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "nathaniel lowe",
+            "game": "mia @ wsh",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "105.5",
+            "la": "8",
+            "dist": "142"
+        },
         {
             "player": "jesus sanchez",
             "game": "mia @ wsh",
@@ -5943,21 +5973,6 @@
     ],
     "min @ hou": [
         {
-            "player": "mauricio dubon",
-            "game": "min @ hou",
-            "hr/park": "",
-            "pa": "38",
-            "dt": "2025-06-14 20:11:13",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "2:10 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "cooper hummel",
             "game": "min @ hou",
             "hr/park": "",
@@ -5967,7 +5982,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "5",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6515,6 +6530,36 @@
     ],
     "stl @ mil": [
         {
+            "player": "jackson chourio",
+            "game": "stl @ mil",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-06-14 20:11:04",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "sal frelick",
+            "game": "stl @ mil",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-06-14 20:11:04",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "Groundout",
+            "evo": "66.2",
+            "la": "15",
+            "dist": "134"
+        },
+        {
             "player": "jose barrero",
             "game": "stl @ mil",
             "hr/park": "",
@@ -7056,6 +7101,21 @@
         }
     ],
     "pit @ chc": [
+        {
+            "player": "reese mcguire",
+            "game": "pit @ chc",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-06-14 20:11:04",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:20 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "justin turner",
             "game": "pit @ chc",
