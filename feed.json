@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "32",
-        "batters": "197",
-        "pitches": "1321",
+        "batters": "199",
+        "pitches": "1324",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "34.0",
-        "si%sinker %": "13.2",
+        "si%sinker %": "13.3",
         "fc%cutter %": "9.6",
-        "fs%splitter %": "0.8",
-        "ch%changeup %": "11.7",
+        "fs%splitter %": "1.0",
+        "ch%changeup %": "11.6",
         "sl%slider %": "20.7",
         "cu%curve %": "9.8",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "82",
-        "hh%hard hit %": "36.0",
+        "hh%hard hit %": "35.8",
         "brlbarrels": "18",
         "brl%barrel %": "7.9",
         "ab": "305",
@@ -24,11 +24,11 @@
         "2b": "14",
         "3b": "1",
         "hr": "6",
-        "so": "79",
-        "bipballs in play": "228",
+        "so": "80",
+        "bipballs in play": "229",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 14:47:13.445600"
+        "updated": "2025-06-15 14:47:22.136387"
     },
     "cin @ det": [
         {
@@ -41,7 +41,7 @@
             "team": "cin",
             "start": "12:05 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1596,21 +1596,6 @@
     ],
     "tor @ phi": [
         {
-            "player": "trea turner",
-            "game": "tor @ phi",
-            "hr/park": "",
-            "pa": "32",
-            "dt": "2025-06-14 20:11:13",
-            "img": "https://www.mlbstatic.com/team-logos/143.svg",
-            "team": "phi",
-            "start": "1:35 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "brandon marsh",
             "game": "tor @ phi",
             "hr/park": "",
@@ -2072,10 +2057,10 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "68.1",
+            "la": "-12",
+            "dist": "6"
         },
         {
             "player": "eli white",
@@ -4203,6 +4188,21 @@
     ],
     "min @ hou": [
         {
+            "player": "cooper hummel",
+            "game": "min @ hou",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "89.1",
+            "la": "6",
+            "dist": "88"
+        },
+        {
             "player": "ty france",
             "game": "min @ hou",
             "hr/park": "2/30",
@@ -4490,21 +4490,6 @@
     ],
     "stl @ mil": [
         {
-            "player": "sal frelick",
-            "game": "stl @ mil",
-            "hr/park": "",
-            "pa": "19",
-            "dt": "2025-06-14 20:11:04",
-            "img": "https://www.mlbstatic.com/team-logos/158.svg",
-            "team": "mil",
-            "start": "2:10 PM",
-            "in": "3",
-            "result": "Lineout",
-            "evo": "68.9",
-            "la": "15",
-            "dist": "160"
-        },
-        {
             "player": "jose barrero",
             "game": "stl @ mil",
             "hr/park": "",
@@ -4777,6 +4762,21 @@
     ],
     "pit @ chc": [
         {
+            "player": "isiah kiner falefa",
+            "game": "pit @ chc",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-06-14 20:11:04",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "2:20 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brett sullivan",
             "game": "pit @ chc",
             "hr/park": "",
@@ -4786,7 +4786,7 @@
             "team": "pit",
             "start": "2:20 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
