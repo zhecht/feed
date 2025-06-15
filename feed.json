@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "32",
-        "batters": "184",
-        "pitches": "1169",
+        "batters": "185",
+        "pitches": "1181",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "34.6",
-        "si%sinker %": "13.4",
+        "ff%fourseam fastball %": "34.3",
+        "si%sinker %": "13.5",
         "fc%cutter %": "9.8",
         "fs%splitter %": "0.9",
-        "ch%changeup %": "10.8",
-        "sl%slider %": "20.2",
+        "ch%changeup %": "11.3",
+        "sl%slider %": "20.1",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "72",
-        "hh%hard hit %": "36.7",
+        "hh%hard hit %": "36.2",
         "brlbarrels": "18",
-        "brl%barrel %": "9.2",
-        "ab": "267",
-        "avg": ".232",
+        "brl%barrel %": "9.0",
+        "ab": "269",
+        "avg": ".230",
         "h": "62",
         "1b": "41",
         "2b": "14",
         "3b": "1",
         "hr": "6",
-        "so": "70",
-        "bipballs in play": "196",
+        "so": "72",
+        "bipballs in play": "199",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 14:40:41.593322"
+        "updated": "2025-06-15 14:40:50.183625"
     },
     "cin @ det": [
         {
@@ -1907,7 +1907,7 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3218,7 +3218,7 @@
             "team": "nym",
             "start": "1:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3610,10 +3610,10 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "2",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "71.3",
+            "la": "37",
+            "dist": "243"
         },
         {
             "player": "denzel clarke",
@@ -3813,10 +3813,10 @@
     ],
     "min @ hou": [
         {
-            "player": "christian vazquez",
+            "player": "ryan jeffers",
             "game": "min @ hou",
             "hr/park": "",
-            "pa": "15",
+            "pa": "16",
             "dt": "2025-06-14 20:11:13",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
@@ -3826,6 +3826,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "christian vazquez",
+            "game": "min @ hou",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "80.2",
+            "la": "46",
+            "dist": "256"
         },
         {
             "player": "brooks lee",
@@ -4419,6 +4434,21 @@
     ],
     "chw @ tex": [
         {
+            "player": "chase meidroth",
+            "game": "chw @ tex",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mike tauchman",
             "game": "chw @ tex",
             "hr/park": "",
@@ -4428,10 +4458,10 @@
             "team": "chw",
             "start": "2:35 PM",
             "in": "1",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "93.7",
+            "la": "-4",
+            "dist": "19"
         }
     ],
     "sd @ ari": [],
