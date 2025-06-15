@@ -1,10 +1,10 @@
 {
     "all": {
-        "pitchers": "74",
+        "pitchers": "76",
         "batters": "231",
-        "pitches": "2913",
+        "pitches": "2918",
         "max velomax pitch velocity": "99.7",
-        "min velomin pitch velocity": "71.1",
+        "min velomin pitch velocity": "57.5",
         "ff%fourseam fastball %": "32.5",
         "si%sinker %": "13.9",
         "fc%cutter %": "9.9",
@@ -14,21 +14,21 @@
         "cu%curve %": "11.6",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "211",
-        "hh%hard hit %": "40.1",
+        "hh%hard hit %": "39.9",
         "brlbarrels": "39",
         "brl%barrel %": "7.4",
-        "ab": "677",
-        "avg": ".244",
+        "ab": "682",
+        "avg": ".242",
         "h": "165",
         "1b": "119",
         "2b": "28",
         "3b": "2",
         "hr": "16",
         "so": "168",
-        "bipballs in play": "526",
+        "bipballs in play": "529",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-15 16:11:54.237379"
+        "updated": "2025-06-15 16:12:05.102119"
     },
     "cin @ det": [
         {
@@ -2280,7 +2280,7 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "7",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3292,6 +3292,21 @@
         }
     ],
     "col @ atl": [
+        {
+            "player": "hunter goodman",
+            "game": "col @ atl",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-06-15 16:12:03",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "91.0",
+            "la": "-10",
+            "dist": "21"
+        },
         {
             "player": "matt olson",
             "game": "col @ atl",
@@ -4315,10 +4330,10 @@
     ],
     "mia @ wsh": [
         {
-            "player": "keibert ruiz",
+            "player": "jose tena",
             "game": "mia @ wsh",
             "hr/park": "",
-            "pa": "75",
+            "pa": "76",
             "dt": "2025-06-14 20:11:13",
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
             "team": "wsh",
@@ -4328,6 +4343,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "keibert ruiz",
+            "game": "mia @ wsh",
+            "hr/park": "",
+            "pa": "75",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "90.5",
+            "la": "1",
+            "dist": "59"
         },
         {
             "player": "eric wagaman",
@@ -8118,6 +8148,21 @@
     ],
     "min @ hou": [
         {
+            "player": "jonah bride",
+            "game": "min @ hou",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis guillorme",
             "game": "min @ hou",
             "hr/park": "",
@@ -9004,6 +9049,21 @@
         }
     ],
     "stl @ mil": [
+        {
+            "player": "willson contreras",
+            "game": "stl @ mil",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-06-14 20:11:04",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "alec burleson",
             "game": "stl @ mil",
@@ -9901,10 +9961,10 @@
             "team": "pit",
             "start": "2:20 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "67.8",
+            "la": "-21",
+            "dist": "9"
         },
         {
             "player": "bryan reynolds",
@@ -10743,7 +10803,7 @@
             "team": "chw",
             "start": "2:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "71.0",
             "la": "-6",
             "dist": "22"
