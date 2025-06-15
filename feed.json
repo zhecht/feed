@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "63",
         "batters": "227",
-        "pitches": "2662",
+        "pitches": "2668",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.3",
         "ff%fourseam fastball %": "32.6",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.2",
         "cu%curve %": "10.9",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "194",
-        "hh%hard hit %": "40.2",
-        "brlbarrels": "34",
-        "brl%barrel %": "7.0",
-        "ab": "624",
-        "avg": ".244",
-        "h": "152",
+        "hhhard hit": "196",
+        "hh%hard hit %": "40.4",
+        "brlbarrels": "35",
+        "brl%barrel %": "7.2",
+        "ab": "625",
+        "avg": ".245",
+        "h": "153",
         "1b": "113",
-        "2b": "24",
+        "2b": "25",
         "3b": "1",
         "hr": "14",
-        "so": "153",
-        "bipballs in play": "483",
+        "so": "154",
+        "bipballs in play": "485",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:57:30.189087"
+        "updated": "2025-06-15 15:57:40.308896"
     },
     "cin @ det": [
         {
@@ -4045,6 +4045,21 @@
     ],
     "mia @ wsh": [
         {
+            "player": "josh bell",
+            "game": "mia @ wsh",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "Double",
+            "evo": "113.3",
+            "la": "18",
+            "dist": "343"
+        },
+        {
             "player": "luis garcia",
             "game": "mia @ wsh",
             "hr/park": "",
@@ -4054,10 +4069,10 @@
             "team": "wsh",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "105.2",
+            "la": "-9",
+            "dist": "13"
         },
         {
             "player": "xavier edwards",
@@ -9873,7 +9888,7 @@
             "team": "chw",
             "start": "2:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
