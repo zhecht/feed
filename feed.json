@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "40",
         "batters": "220",
-        "pitches": "2103",
+        "pitches": "2112",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "33.0",
+        "ff%fourseam fastball %": "32.8",
         "si%sinker %": "13.0",
         "fc%cutter %": "9.9",
         "fs%splitter %": "1.0",
         "ch%changeup %": "11.2",
         "sl%slider %": "21.2",
-        "cu%curve %": "10.8",
+        "cu%curve %": "10.9",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "151",
-        "hh%hard hit %": "40.3",
+        "hhhard hit": "153",
+        "hh%hard hit %": "40.6",
         "brlbarrels": "27",
         "brl%barrel %": "7.2",
-        "ab": "491",
-        "avg": ".242",
+        "ab": "495",
+        "avg": ".240",
         "h": "119",
         "1b": "87",
         "2b": "20",
         "3b": "1",
         "hr": "11",
         "so": "126",
-        "bipballs in play": "375",
+        "bipballs in play": "377",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:26:24.513118"
+        "updated": "2025-06-15 15:26:34.228823"
     },
     "cin @ det": [
         {
@@ -2702,7 +2702,7 @@
             "team": "col",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4251,10 +4251,10 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "101.4",
+            "la": "-10",
+            "dist": "16"
         },
         {
             "player": "abraham toro",
@@ -4963,6 +4963,21 @@
         }
     ],
     "tb @ nym": [
+        {
+            "player": "kameron misner",
+            "game": "tb @ nym",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "1:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brandon nimmo",
             "game": "tb @ nym",
@@ -6755,6 +6770,21 @@
     ],
     "stl @ mil": [
         {
+            "player": "brendan donovan",
+            "game": "stl @ mil",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-06-14 20:11:04",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "william contreras",
             "game": "stl @ mil",
             "hr/park": "",
@@ -7342,9 +7372,24 @@
     ],
     "pit @ chc": [
         {
-            "player": "brett sullivan",
+            "player": "isiah kiner falefa",
             "game": "pit @ chc",
             "hr/park": "",
+            "pa": "35",
+            "dt": "2025-06-14 20:11:04",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "2:20 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "brett sullivan",
+            "game": "pit @ chc",
+            "hr/park": "16/30",
             "pa": "34",
             "dt": "2025-06-14 20:11:04",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
@@ -7853,6 +7898,21 @@
         }
     ],
     "chw @ tex": [
+        {
+            "player": "miguel vargas",
+            "game": "chw @ tex",
+            "hr/park": "0/30",
+            "pa": "23",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:35 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "97.5",
+            "la": "35",
+            "dist": "349"
+        },
         {
             "player": "andrew benintendi",
             "game": "chw @ tex",
