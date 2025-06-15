@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "36",
         "batters": "217",
-        "pitches": "1775",
+        "pitches": "1783",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "33.7",
         "si%sinker %": "13.4",
-        "fc%cutter %": "9.5",
+        "fc%cutter %": "9.4",
         "fs%splitter %": "0.8",
-        "ch%changeup %": "11.9",
-        "sl%slider %": "20.0",
+        "ch%changeup %": "11.8",
+        "sl%slider %": "20.2",
         "cu%curve %": "10.6",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "118",
-        "hh%hard hit %": "37.5",
-        "brlbarrels": "23",
-        "brl%barrel %": "7.3",
-        "ab": "415",
-        "avg": ".239",
-        "h": "99",
+        "hhhard hit": "120",
+        "hh%hard hit %": "37.9",
+        "brlbarrels": "24",
+        "brl%barrel %": "7.6",
+        "ab": "417",
+        "avg": ".240",
+        "h": "100",
         "1b": "72",
         "2b": "17",
         "3b": "1",
-        "hr": "9",
-        "so": "105",
-        "bipballs in play": "315",
+        "hr": "10",
+        "so": "106",
+        "bipballs in play": "317",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:08:42.557540"
+        "updated": "2025-06-15 15:08:52.227145"
     },
     "cin @ det": [
         {
@@ -3130,6 +3130,21 @@
     ],
     "mia @ wsh": [
         {
+            "player": "cj abrams",
+            "game": "mia @ wsh",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "james wood",
             "game": "mia @ wsh",
             "hr/park": "",
@@ -3139,7 +3154,7 @@
             "team": "wsh",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3762,6 +3777,21 @@
     ],
     "nyy @ bos": [
         {
+            "player": "rafael devers",
+            "game": "nyy @ bos",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "Home Run",
+            "evo": "102.6",
+            "la": "28",
+            "dist": "369"
+        },
+        {
             "player": "rob refsnyder",
             "game": "nyy @ bos",
             "hr/park": "",
@@ -3771,7 +3801,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "88.5",
             "la": "64",
             "dist": "161"
@@ -6332,9 +6362,9 @@
             "start": "2:20 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "95.3",
+            "la": "-5",
+            "dist": "23"
         },
         {
             "player": "seiya suzuki",
