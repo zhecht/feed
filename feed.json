@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "32",
-        "batters": "194",
-        "pitches": "1265",
+        "batters": "195",
+        "pitches": "1266",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "33.7",
         "si%sinker %": "13.4",
         "fc%cutter %": "9.6",
         "fs%splitter %": "0.9",
-        "ch%changeup %": "11.6",
+        "ch%changeup %": "11.5",
         "sl%slider %": "20.9",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "79",
-        "hh%hard hit %": "36.7",
+        "hh%hard hit %": "36.6",
         "brlbarrels": "18",
-        "brl%barrel %": "8.4",
+        "brl%barrel %": "8.3",
         "ab": "291",
         "avg": ".237",
         "h": "69",
@@ -24,11 +24,11 @@
         "2b": "14",
         "3b": "1",
         "hr": "6",
-        "so": "75",
-        "bipballs in play": "215",
+        "so": "74",
+        "bipballs in play": "216",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 14:44:09.773889"
+        "updated": "2025-06-15 14:44:18.451685"
     },
     "cin @ det": [
         {
@@ -1093,7 +1093,7 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "4",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1545,7 +1545,7 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1972,21 +1972,6 @@
         }
     ],
     "col @ atl": [
-        {
-            "player": "eli white",
-            "game": "col @ atl",
-            "hr/park": "",
-            "pa": "33",
-            "dt": "2025-06-14 20:14:41",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "1:35 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "michael harris",
             "game": "col @ atl",
@@ -2479,10 +2464,10 @@
             "team": "mia",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "80.2",
+            "la": "81",
+            "dist": "29"
         },
         {
             "player": "josh bell",
@@ -3810,6 +3795,21 @@
         }
     ],
     "ath @ kc": [
+        {
+            "player": "freddy fermin",
+            "game": "ath @ kc",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jac caglianone",
             "game": "ath @ kc",
