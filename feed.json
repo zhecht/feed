@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "50",
+        "pitchers": "49",
         "batters": "223",
-        "pitches": "2431",
+        "pitches": "2438",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "33.0",
+        "ff%fourseam fastball %": "33.1",
         "si%sinker %": "12.4",
-        "fc%cutter %": "10.1",
+        "fc%cutter %": "10.0",
         "fs%splitter %": "1.5",
         "ch%changeup %": "10.9",
         "sl%slider %": "21.1",
-        "cu%curve %": "10.9",
+        "cu%curve %": "11.0",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "173",
-        "hh%hard hit %": "40.2",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "29",
-        "brl%barrel %": "6.7",
-        "ab": "564",
-        "avg": ".241",
-        "h": "136",
-        "1b": "100",
+        "brl%barrel %": "6.8",
+        "ab": "565",
+        "avg": ".239",
+        "h": "135",
+        "1b": "99",
         "2b": "23",
         "3b": "1",
         "hr": "12",
-        "so": "145",
-        "bipballs in play": "430",
+        "so": "146",
+        "bipballs in play": "429",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:44:41.758969"
+        "updated": "2025-06-15 15:44:51.791102"
     },
     "cin @ det": [
         {
@@ -1218,6 +1218,21 @@
         }
     ],
     "laa @ bal": [
+        {
+            "player": "gary sanchez",
+            "game": "laa @ bal",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ramon laureano",
             "game": "laa @ bal",
@@ -3715,6 +3730,21 @@
     ],
     "mia @ wsh": [
         {
+            "player": "james wood",
+            "game": "mia @ wsh",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alex call",
             "game": "mia @ wsh",
             "hr/park": "",
@@ -3724,7 +3754,7 @@
             "team": "wsh",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "89.6",
             "la": "-9",
             "dist": "14"
@@ -5468,7 +5498,7 @@
             "team": "tb",
             "start": "1:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6887,21 +6917,6 @@
         }
     ],
     "min @ hou": [
-        {
-            "player": "ryan jeffers",
-            "game": "min @ hou",
-            "hr/park": "",
-            "pa": "48",
-            "dt": "2025-06-14 20:11:13",
-            "img": "https://www.mlbstatic.com/team-logos/142.svg",
-            "team": "min",
-            "start": "2:10 PM",
-            "in": "7",
-            "result": "Single",
-            "evo": "75.3",
-            "la": "25",
-            "dist": "229"
-        },
         {
             "player": "christian vazquez",
             "game": "min @ hou",
@@ -8964,6 +8979,21 @@
     ],
     "chw @ tex": [
         {
+            "player": "ryan noda",
+            "game": "chw @ tex",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "edgar quero",
             "game": "chw @ tex",
             "hr/park": "",
@@ -8973,7 +9003,7 @@
             "team": "chw",
             "start": "2:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8989,9 +9019,9 @@
             "start": "2:35 PM",
             "in": "4",
             "result": "Pop Out",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "75.4",
+            "la": "71",
+            "dist": "119"
         },
         {
             "player": "evan carter",
