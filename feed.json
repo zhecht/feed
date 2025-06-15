@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "32",
         "batters": "197",
-        "pitches": "1300",
+        "pitches": "1309",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "34.0",
+        "ff%fourseam fastball %": "34.1",
         "si%sinker %": "13.2",
         "fc%cutter %": "9.7",
         "fs%splitter %": "0.8",
-        "ch%changeup %": "11.6",
-        "sl%slider %": "20.8",
-        "cu%curve %": "9.8",
+        "ch%changeup %": "11.7",
+        "sl%slider %": "20.6",
+        "cu%curve %": "9.9",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "81",
-        "hh%hard hit %": "36.2",
+        "hh%hard hit %": "36.0",
         "brlbarrels": "18",
         "brl%barrel %": "8.0",
         "ab": "301",
@@ -24,11 +24,11 @@
         "2b": "14",
         "3b": "1",
         "hr": "6",
-        "so": "77",
-        "bipballs in play": "224",
+        "so": "79",
+        "bipballs in play": "225",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 14:46:12.160123"
+        "updated": "2025-06-15 14:46:20.985808"
     },
     "cin @ det": [
         {
@@ -1590,7 +1590,7 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3488,7 +3488,7 @@
             "team": "nym",
             "start": "1:40 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3910,10 +3910,10 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "87.9",
+            "la": "-14",
+            "dist": "12"
         },
         {
             "player": "jac caglianone",
