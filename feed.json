@@ -2,16 +2,16 @@
     "all": {
         "pitchers": "16",
         "batters": "57",
-        "pitches": "332",
+        "pitches": "336",
         "max velomax pitch velocity": "97.9",
         "min velomin pitch velocity": "74.9",
-        "ff%fourseam fastball %": "32.5",
-        "si%sinker %": "19.6",
-        "fc%cutter %": "12.3",
+        "ff%fourseam fastball %": "33.0",
+        "si%sinker %": "19.0",
+        "fc%cutter %": "12.2",
         "fs%splitter %": "0.3",
-        "ch%changeup %": "10.8",
+        "ch%changeup %": "10.7",
         "sl%slider %": "19.6",
-        "cu%curve %": "4.8",
+        "cu%curve %": "5.1",
         "max evmax exit velocity": "109.3",
         "hhhard hit": "19",
         "hh%hard hit %": "31.1",
@@ -24,11 +24,11 @@
         "2b": "5",
         "3b": "0",
         "hr": "3",
-        "so": "16",
+        "so": "17",
         "bipballs in play": "61",
         "liveGames": 7,
         "totGames": 15,
-        "updated": "2025-06-15 13:50:08.560060"
+        "updated": "2025-06-15 13:50:16.277320"
     },
     "cin @ det": [
         {
@@ -831,6 +831,21 @@
     ],
     "tor @ phi": [
         {
+            "player": "andres gimenez",
+            "game": "tor @ phi",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:35 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alejandro kirk",
             "game": "tor @ phi",
             "hr/park": "",
@@ -962,7 +977,7 @@
             "team": "col",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1085,9 +1100,9 @@
             "start": "1:35 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "89.3",
+            "la": "17",
+            "dist": "227"
         },
         {
             "player": "james wood",
@@ -1196,21 +1211,6 @@
         }
     ],
     "nyy @ bos": [
-        {
-            "player": "rafael devers",
-            "game": "nyy @ bos",
-            "hr/park": "",
-            "pa": "7",
-            "dt": "2025-06-14 20:11:13",
-            "img": "https://www.mlbstatic.com/team-logos/111.svg",
-            "team": "bos",
-            "start": "1:35 PM",
-            "in": "1",
-            "result": "GIDP",
-            "evo": "93.5",
-            "la": "-29",
-            "dist": "4"
-        },
         {
             "player": "rob refsnyder",
             "game": "nyy @ bos",
