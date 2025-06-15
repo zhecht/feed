@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "33",
-        "batters": "205",
-        "pitches": "1393",
+        "batters": "206",
+        "pitches": "1403",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "33.9",
-        "si%sinker %": "13.4",
+        "si%sinker %": "13.3",
         "fc%cutter %": "9.3",
         "fs%splitter %": "0.9",
-        "ch%changeup %": "11.4",
-        "sl%slider %": "21.0",
-        "cu%curve %": "10.1",
+        "ch%changeup %": "11.3",
+        "sl%slider %": "20.9",
+        "cu%curve %": "10.3",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "87",
-        "hh%hard hit %": "36.3",
+        "hh%hard hit %": "36.1",
         "brlbarrels": "19",
         "brl%barrel %": "7.9",
-        "ab": "322",
-        "avg": ".230",
+        "ab": "324",
+        "avg": ".228",
         "h": "74",
         "1b": "52",
         "2b": "14",
         "3b": "1",
         "hr": "7",
-        "so": "84",
-        "bipballs in play": "240",
+        "so": "85",
+        "bipballs in play": "241",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 14:50:44.000934"
+        "updated": "2025-06-15 14:50:52.734681"
     },
     "cin @ det": [
         {
@@ -1144,6 +1144,21 @@
     ],
     "laa @ bal": [
         {
+            "player": "coby mayo",
+            "game": "laa @ bal",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kevin newman",
             "game": "laa @ bal",
             "hr/park": "",
@@ -2117,7 +2132,7 @@
             "team": "col",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2635,6 +2650,21 @@
     ],
     "mia @ wsh": [
         {
+            "player": "robert hassell",
+            "game": "mia @ wsh",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nathaniel lowe",
             "game": "mia @ wsh",
             "hr/park": "",
@@ -2644,7 +2674,7 @@
             "team": "wsh",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5229,10 +5259,10 @@
     ],
     "chw @ tex": [
         {
-            "player": "wyatt langford",
+            "player": "corey seager",
             "game": "chw @ tex",
             "hr/park": "",
-            "pa": "6",
+            "pa": "7",
             "dt": "2025-06-14 20:14:41",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
@@ -5242,6 +5272,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "wyatt langford",
+            "game": "chw @ tex",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "2:35 PM",
+            "in": "1",
+            "result": "GIDP",
+            "evo": "71.1",
+            "la": "-11",
+            "dist": "13"
         },
         {
             "player": "josh smith",
