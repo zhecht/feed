@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "35",
         "batters": "216",
-        "pitches": "1710",
+        "pitches": "1716",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "33.9",
@@ -10,25 +10,25 @@
         "fc%cutter %": "9.6",
         "fs%splitter %": "0.9",
         "ch%changeup %": "11.7",
-        "sl%slider %": "19.6",
+        "sl%slider %": "19.7",
         "cu%curve %": "10.7",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "111",
-        "hh%hard hit %": "36.9",
-        "brlbarrels": "21",
-        "brl%barrel %": "7.0",
-        "ab": "401",
-        "avg": ".237",
-        "h": "95",
-        "1b": "69",
+        "hhhard hit": "112",
+        "hh%hard hit %": "36.8",
+        "brlbarrels": "22",
+        "brl%barrel %": "7.2",
+        "ab": "404",
+        "avg": ".240",
+        "h": "97",
+        "1b": "70",
         "2b": "17",
         "3b": "1",
-        "hr": "8",
+        "hr": "9",
         "so": "103",
-        "bipballs in play": "301",
+        "bipballs in play": "304",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:05:27.048905"
+        "updated": "2025-06-15 15:05:36.440401"
     },
     "cin @ det": [
         {
@@ -1219,6 +1219,21 @@
     ],
     "laa @ bal": [
         {
+            "player": "gunnar henderson",
+            "game": "laa @ bal",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mike trout",
             "game": "laa @ bal",
             "hr/park": "",
@@ -1836,6 +1851,21 @@
     ],
     "tor @ phi": [
         {
+            "player": "alec bohm",
+            "game": "tor @ phi",
+            "hr/park": "30/30",
+            "pa": "41",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "Home Run",
+            "evo": "106.8",
+            "la": "26",
+            "dist": "433"
+        },
+        {
             "player": "kyle schwarber",
             "game": "tor @ phi",
             "hr/park": "",
@@ -1845,10 +1875,10 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "90.9",
+            "la": "18",
+            "dist": "244"
         },
         {
             "player": "trea turner",
@@ -4800,6 +4830,36 @@
         }
     ],
     "ath @ kc": [
+        {
+            "player": "mark canha",
+            "game": "ath @ kc",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "salvador perez",
+            "game": "ath @ kc",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "vinnie pasquantino",
             "game": "ath @ kc",
