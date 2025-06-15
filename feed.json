@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "45",
         "batters": "222",
-        "pitches": "2372",
+        "pitches": "2378",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "32.9",
-        "si%sinker %": "12.6",
-        "fc%cutter %": "10.1",
+        "si%sinker %": "12.5",
+        "fc%cutter %": "10.0",
         "fs%splitter %": "1.5",
-        "ch%changeup %": "10.9",
+        "ch%changeup %": "11.0",
         "sl%slider %": "21.2",
         "cu%curve %": "10.8",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "167",
-        "hh%hard hit %": "40.2",
+        "hhhard hit": "168",
+        "hh%hard hit %": "40.4",
         "brlbarrels": "29",
         "brl%barrel %": "7.0",
-        "ab": "548",
-        "avg": ".239",
-        "h": "131",
-        "1b": "97",
+        "ab": "549",
+        "avg": ".240",
+        "h": "132",
+        "1b": "98",
         "2b": "22",
         "3b": "1",
         "hr": "11",
-        "so": "141",
-        "bipballs in play": "415",
+        "so": "142",
+        "bipballs in play": "416",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:40:30.810667"
+        "updated": "2025-06-15 15:40:40.834322"
     },
     "cin @ det": [
         {
@@ -1228,7 +1228,7 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2857,6 +2857,21 @@
         }
     ],
     "col @ atl": [
+        {
+            "player": "ryan mcmahon",
+            "game": "col @ atl",
+            "hr/park": "0/30",
+            "pa": "55",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "Lineout",
+            "evo": "100.6",
+            "la": "20",
+            "dist": "362"
+        },
         {
             "player": "hunter goodman",
             "game": "col @ atl",
@@ -4566,7 +4581,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6762,10 +6777,10 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "69.0",
+            "la": "22",
+            "dist": "212"
         },
         {
             "player": "harrison bader",
@@ -8146,10 +8161,10 @@
             "team": "pit",
             "start": "2:20 PM",
             "in": "6",
-            "result": "Groundout",
-            "evo": "87.2",
-            "la": "-28",
-            "dist": "6"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "bryan reynolds",
