@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "32",
-        "batters": "187",
-        "pitches": "1213",
+        "batters": "188",
+        "pitches": "1221",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "34.1",
@@ -10,25 +10,25 @@
         "fc%cutter %": "9.6",
         "fs%splitter %": "0.9",
         "ch%changeup %": "11.6",
-        "sl%slider %": "20.4",
-        "cu%curve %": "10.0",
+        "sl%slider %": "20.5",
+        "cu%curve %": "9.9",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "74",
-        "hh%hard hit %": "36.5",
+        "hhhard hit": "75",
+        "hh%hard hit %": "36.4",
         "brlbarrels": "18",
-        "brl%barrel %": "8.9",
-        "ab": "279",
-        "avg": ".226",
-        "h": "63",
-        "1b": "42",
+        "brl%barrel %": "8.7",
+        "ab": "280",
+        "avg": ".229",
+        "h": "64",
+        "1b": "43",
         "2b": "14",
         "3b": "1",
         "hr": "6",
         "so": "72",
-        "bipballs in play": "203",
+        "bipballs in play": "206",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 14:42:07.650579"
+        "updated": "2025-06-15 14:42:16.349736"
     },
     "cin @ det": [
         {
@@ -1068,6 +1068,21 @@
         }
     ],
     "laa @ bal": [
+        {
+            "player": "cedric mullins",
+            "game": "laa @ bal",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "gary sanchez",
             "game": "laa @ bal",
@@ -2419,7 +2434,7 @@
             "team": "mia",
             "start": "1:35 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3308,7 +3323,7 @@
             "team": "nym",
             "start": "1:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3715,7 +3730,7 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4427,9 +4442,9 @@
             "start": "2:20 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "94.7",
+            "la": "7",
+            "dist": "116"
         },
         {
             "player": "michael busch",
@@ -4584,6 +4599,21 @@
     ],
     "chw @ tex": [
         {
+            "player": "andrew benintendi",
+            "game": "chw @ tex",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "91.5",
+            "la": "67",
+            "dist": "138"
+        },
+        {
             "player": "chase meidroth",
             "game": "chw @ tex",
             "hr/park": "",
@@ -4593,10 +4623,10 @@
             "team": "chw",
             "start": "2:35 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "106.6",
+            "la": "5",
+            "dist": "105"
         },
         {
             "player": "mike tauchman",
