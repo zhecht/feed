@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "63",
         "batters": "227",
-        "pitches": "2668",
+        "pitches": "2677",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.3",
         "ff%fourseam fastball %": "32.6",
-        "si%sinker %": "13.3",
-        "fc%cutter %": "10.1",
+        "si%sinker %": "13.2",
+        "fc%cutter %": "10.2",
         "fs%splitter %": "1.5",
-        "ch%changeup %": "10.4",
-        "sl%slider %": "21.2",
+        "ch%changeup %": "10.5",
+        "sl%slider %": "21.1",
         "cu%curve %": "10.9",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "196",
-        "hh%hard hit %": "40.4",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "35",
         "brl%barrel %": "7.2",
-        "ab": "625",
-        "avg": ".245",
+        "ab": "628",
+        "avg": ".244",
         "h": "153",
         "1b": "113",
         "2b": "25",
         "3b": "1",
         "hr": "14",
-        "so": "154",
-        "bipballs in play": "485",
+        "so": "153",
+        "bipballs in play": "486",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:57:40.308896"
+        "updated": "2025-06-15 15:57:50.736725"
     },
     "cin @ det": [
         {
@@ -1218,6 +1218,21 @@
         }
     ],
     "laa @ bal": [
+        {
+            "player": "luis vazquez",
+            "game": "laa @ bal",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "dylan carlson",
             "game": "laa @ bal",
@@ -4045,9 +4060,24 @@
     ],
     "mia @ wsh": [
         {
-            "player": "josh bell",
+            "player": "nathaniel lowe",
             "game": "mia @ wsh",
             "hr/park": "",
+            "pa": "70",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "josh bell",
+            "game": "mia @ wsh",
+            "hr/park": "1/30",
             "pa": "69",
             "dt": "2025-06-14 20:11:13",
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
@@ -6835,10 +6865,10 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "88.5",
+            "la": "22",
+            "dist": "312"
         },
         {
             "player": "salvador perez",
@@ -7547,6 +7577,21 @@
         }
     ],
     "min @ hou": [
+        {
+            "player": "willi castro",
+            "game": "min @ hou",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jake meyers",
             "game": "min @ hou",
@@ -9142,6 +9187,21 @@
     ],
     "pit @ chc": [
         {
+            "player": "isiah kiner falefa",
+            "game": "pit @ chc",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-06-14 20:11:04",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "2:20 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "henry davis",
             "game": "pit @ chc",
             "hr/park": "",
@@ -9151,7 +9211,7 @@
             "team": "pit",
             "start": "2:20 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9888,7 +9948,7 @@
             "team": "chw",
             "start": "2:35 PM",
             "in": "5",
-            "result": "Strikeout",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
