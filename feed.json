@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "96",
         "batters": "260",
-        "pitches": "3327",
+        "pitches": "3336",
         "max velomax pitch velocity": "101.5",
         "min velomin pitch velocity": "57.5",
         "ff%fourseam fastball %": "32.6",
@@ -10,25 +10,25 @@
         "fc%cutter %": "9.0",
         "fs%splitter %": "1.9",
         "ch%changeup %": "9.9",
-        "sl%slider %": "21.4",
+        "sl%slider %": "21.5",
         "cu%curve %": "11.2",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "240",
+        "hhhard hit": "241",
         "hh%hard hit %": "40.4",
         "brlbarrels": "42",
-        "brl%barrel %": "7.1",
-        "ab": "771",
-        "avg": ".239",
+        "brl%barrel %": "7.0",
+        "ab": "772",
+        "avg": ".238",
         "h": "184",
         "1b": "133",
         "2b": "32",
         "3b": "2",
         "hr": "17",
         "so": "193",
-        "bipballs in play": "594",
+        "bipballs in play": "597",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-15 16:36:11.930504"
+        "updated": "2025-06-15 16:36:23.375345"
     },
     "cin @ det": [
         {
@@ -2271,6 +2271,21 @@
     ],
     "tor @ phi": [
         {
+            "player": "will robertson",
+            "game": "tor @ phi",
+            "hr/park": "",
+            "pa": "80",
+            "dt": "2025-06-15 16:35:48",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alan roden",
             "game": "tor @ phi",
             "hr/park": "",
@@ -2280,7 +2295,7 @@
             "team": "tor",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6714,9 +6729,9 @@
             "start": "1:40 PM",
             "in": "9",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "103.0",
+            "la": "12",
+            "dist": "196"
         },
         {
             "player": "josh lowe",
@@ -8702,6 +8717,21 @@
         }
     ],
     "min @ hou": [
+        {
+            "player": "ryan jeffers",
+            "game": "min @ hou",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "10",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "christian vazquez",
             "game": "min @ hou",
@@ -10741,10 +10771,10 @@
             "team": "chc",
             "start": "2:20 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "84.1",
+            "la": "-42",
+            "dist": "3"
         },
         {
             "player": "nico hoerner",
@@ -11739,6 +11769,21 @@
     ],
     "chw @ tex": [
         {
+            "player": "josh smith",
+            "game": "chw @ tex",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "2:35 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "92.5",
+            "la": "55",
+            "dist": "233"
+        },
+        {
             "player": "ezequiel duran",
             "game": "chw @ tex",
             "hr/park": "",
@@ -11748,7 +11793,7 @@
             "team": "tex",
             "start": "2:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
