@@ -1,20 +1,20 @@
 {
     "all": {
-        "pitchers": "76",
-        "batters": "231",
-        "pitches": "2918",
+        "pitchers": "77",
+        "batters": "232",
+        "pitches": "2924",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "57.5",
         "ff%fourseam fastball %": "32.5",
         "si%sinker %": "13.9",
-        "fc%cutter %": "9.9",
+        "fc%cutter %": "9.8",
         "fs%splitter %": "1.5",
         "ch%changeup %": "10.1",
         "sl%slider %": "20.6",
         "cu%curve %": "11.6",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "211",
-        "hh%hard hit %": "39.9",
+        "hh%hard hit %": "39.8",
         "brlbarrels": "39",
         "brl%barrel %": "7.4",
         "ab": "682",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "16",
         "so": "168",
-        "bipballs in play": "529",
+        "bipballs in play": "530",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-15 16:12:16.199652"
+        "updated": "2025-06-15 16:12:26.992781"
     },
     "cin @ det": [
         {
@@ -2271,6 +2271,21 @@
     ],
     "tor @ phi": [
         {
+            "player": "nick castellanos",
+            "game": "tor @ phi",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alec bohm",
             "game": "tor @ phi",
             "hr/park": "",
@@ -2280,7 +2295,7 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4339,7 +4354,7 @@
             "team": "wsh",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8157,10 +8172,10 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "89.1",
+            "la": "35",
+            "dist": "319"
         },
         {
             "player": "luis guillorme",
@@ -10803,10 +10818,10 @@
             "team": "chw",
             "start": "2:35 PM",
             "in": "5",
-            "result": "Groundout",
-            "evo": "71.0",
-            "la": "-6",
-            "dist": "22"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "mike tauchman",
@@ -11364,7 +11379,23 @@
             "dist": "19"
         }
     ],
-    "sd @ ari": [],
+    "sd @ ari": [
+        {
+            "player": "fernando tatis",
+            "game": "sd @ ari",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "cle @ sea": [],
     "sf @ lad": []
 }
