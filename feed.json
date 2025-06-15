@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "58",
+        "pitchers": "59",
         "batters": "225",
-        "pitches": "2551",
+        "pitches": "2555",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "32.7",
         "si%sinker %": "13.1",
-        "fc%cutter %": "10.1",
-        "fs%splitter %": "1.5",
-        "ch%changeup %": "10.7",
+        "fc%cutter %": "10.0",
+        "fs%splitter %": "1.4",
+        "ch%changeup %": "10.6",
         "sl%slider %": "21.4",
         "cu%curve %": "10.6",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "185",
-        "hh%hard hit %": "40.5",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "33",
         "brl%barrel %": "7.2",
-        "ab": "597",
-        "avg": ".240",
-        "h": "143",
-        "1b": "105",
+        "ab": "596",
+        "avg": ".242",
+        "h": "144",
+        "1b": "106",
         "2b": "23",
         "3b": "1",
         "hr": "14",
         "so": "150",
-        "bipballs in play": "457",
+        "bipballs in play": "459",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:51:37.072468"
+        "updated": "2025-06-15 15:51:47.279389"
     },
     "cin @ det": [
         {
@@ -2160,10 +2160,10 @@
             "team": "tor",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "99.1",
+            "la": "12",
+            "dist": "243"
         },
         {
             "player": "ernie clement",
@@ -3910,21 +3910,6 @@
     ],
     "mia @ wsh": [
         {
-            "player": "jesus sanchez",
-            "game": "mia @ wsh",
-            "hr/park": "",
-            "pa": "65",
-            "dt": "2025-06-14 20:11:13",
-            "img": "https://www.mlbstatic.com/team-logos/146.svg",
-            "team": "mia",
-            "start": "1:35 PM",
-            "in": "8",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "javier sanoja",
             "game": "mia @ wsh",
             "hr/park": "",
@@ -4886,6 +4871,21 @@
         }
     ],
     "nyy @ bos": [
+        {
+            "player": "aaron judge",
+            "game": "nyy @ bos",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "GIDP",
+            "evo": "69.1",
+            "la": "-14",
+            "dist": "12"
+        },
         {
             "player": "dj lemahieu",
             "game": "nyy @ bos",
@@ -7272,7 +7272,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9483,10 +9483,10 @@
             "team": "tex",
             "start": "2:35 PM",
             "in": "4",
-            "result": "Groundout",
-            "evo": "102.2",
-            "la": "-2",
-            "dist": "42"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "ryan noda",
