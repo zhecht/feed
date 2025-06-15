@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "22",
-        "batters": "129",
-        "pitches": "696",
+        "batters": "130",
+        "pitches": "708",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "73.7",
-        "ff%fourseam fastball %": "32.3",
-        "si%sinker %": "15.5",
-        "fc%cutter %": "11.5",
+        "ff%fourseam fastball %": "32.5",
+        "si%sinker %": "15.3",
+        "fc%cutter %": "11.7",
         "fs%splitter %": "1.0",
-        "ch%changeup %": "10.6",
-        "sl%slider %": "21.1",
-        "cu%curve %": "7.9",
+        "ch%changeup %": "10.7",
+        "sl%slider %": "21.0",
+        "cu%curve %": "7.8",
         "max evmax exit velocity": "109.8",
-        "hhhard hit": "39",
+        "hhhard hit": "40",
         "hh%hard hit %": "32.8",
         "brlbarrels": "15",
-        "brl%barrel %": "12.6",
-        "ab": "161",
-        "avg": ".211",
+        "brl%barrel %": "12.3",
+        "ab": "164",
+        "avg": ".207",
         "h": "34",
         "1b": "19",
         "2b": "9",
         "3b": "1",
         "hr": "5",
-        "so": "41",
-        "bipballs in play": "119",
+        "so": "42",
+        "bipballs in play": "122",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-15 14:16:53.522246"
+        "updated": "2025-06-15 14:17:01.617690"
     },
     "cin @ det": [
         {
@@ -1200,7 +1200,7 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1477,6 +1477,21 @@
         }
     ],
     "col @ atl": [
+        {
+            "player": "hunter goodman",
+            "game": "col @ atl",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "tyler freeman",
             "game": "col @ atl",
@@ -2082,10 +2097,10 @@
     ],
     "nyy @ bos": [
         {
-            "player": "trent grisham",
+            "player": "ben rice",
             "game": "nyy @ bos",
             "hr/park": "",
-            "pa": "18",
+            "pa": "19",
             "dt": "2025-06-14 20:11:13",
             "img": "https://www.mlbstatic.com/team-logos/147.svg",
             "team": "nyy",
@@ -2095,6 +2110,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "trent grisham",
+            "game": "nyy @ bos",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:35 PM",
+            "in": "3",
+            "result": "Pop Out",
+            "evo": "72.0",
+            "la": "70",
+            "dist": "119"
         },
         {
             "player": "connor wong",
@@ -2566,10 +2596,10 @@
     ],
     "ath @ kc": [
         {
-            "player": "jacob wilson",
+            "player": "brent rooker",
             "game": "ath @ kc",
             "hr/park": "",
-            "pa": "2",
+            "pa": "3",
             "dt": "2025-06-14 20:14:41",
             "img": "https://www.mlbstatic.com/team-logos/133.svg",
             "team": "ath",
@@ -2579,6 +2609,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "jacob wilson",
+            "game": "ath @ kc",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "2:10 PM",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "88.0",
+            "la": "-20",
+            "dist": "7"
         },
         {
             "player": "lawrence butler",
@@ -2608,9 +2653,9 @@
             "start": "2:10 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "101.4",
+            "la": "13",
+            "dist": "254"
         },
         {
             "player": "carlos correa",
