@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "92",
+        "pitchers": "93",
         "batters": "256",
-        "pitches": "3242",
+        "pitches": "3248",
         "max velomax pitch velocity": "101.5",
         "min velomin pitch velocity": "57.5",
         "ff%fourseam fastball %": "32.4",
-        "si%sinker %": "14.1",
-        "fc%cutter %": "9.0",
+        "si%sinker %": "14.0",
+        "fc%cutter %": "9.1",
         "fs%splitter %": "1.9",
         "ch%changeup %": "9.9",
         "sl%slider %": "21.5",
         "cu%curve %": "11.2",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "233",
-        "hh%hard hit %": "40.4",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "42",
         "brl%barrel %": "7.3",
-        "ab": "752",
+        "ab": "753",
         "avg": ".235",
         "h": "177",
         "1b": "128",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "17",
         "so": "192",
-        "bipballs in play": "577",
+        "bipballs in play": "578",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-15 16:31:13.789889"
+        "updated": "2025-06-15 16:31:25.046218"
     },
     "cin @ det": [
         {
@@ -9599,7 +9599,7 @@
             "team": "stl",
             "start": "2:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11529,6 +11529,21 @@
     ],
     "chw @ tex": [
         {
+            "player": "adolis garcia",
+            "game": "chw @ tex",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "2:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "edgar quero",
             "game": "chw @ tex",
             "hr/park": "",
@@ -12261,9 +12276,9 @@
             "start": "4:10 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "89.0",
+            "la": "2",
+            "dist": "63"
         },
         {
             "player": "jake cronenworth",
