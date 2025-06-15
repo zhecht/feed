@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "43",
         "batters": "220",
-        "pitches": "2175",
+        "pitches": "2186",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "32.7",
-        "si%sinker %": "13.0",
+        "si%sinker %": "12.9",
         "fc%cutter %": "10.1",
         "fs%splitter %": "1.1",
         "ch%changeup %": "10.9",
-        "sl%slider %": "21.4",
-        "cu%curve %": "10.8",
+        "sl%slider %": "21.5",
+        "cu%curve %": "10.7",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "157",
-        "hh%hard hit %": "40.4",
+        "hhhard hit": "159",
+        "hh%hard hit %": "40.7",
         "brlbarrels": "28",
         "brl%barrel %": "7.2",
-        "ab": "512",
-        "avg": ".244",
+        "ab": "514",
+        "avg": ".243",
         "h": "125",
         "1b": "92",
         "2b": "21",
         "3b": "1",
         "hr": "11",
         "so": "130",
-        "bipballs in play": "389",
+        "bipballs in play": "391",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:30:27.791223"
+        "updated": "2025-06-15 15:30:37.432663"
     },
     "cin @ det": [
         {
@@ -2748,9 +2748,9 @@
             "start": "1:35 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "111.0",
+            "la": "7",
+            "dist": "157"
         },
         {
             "player": "braxton fulford",
@@ -3519,6 +3519,21 @@
         }
     ],
     "mia @ wsh": [
+        {
+            "player": "otto lopez",
+            "game": "mia @ wsh",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "agustin ramirez",
             "game": "mia @ wsh",
@@ -4347,10 +4362,10 @@
     ],
     "nyy @ bos": [
         {
-            "player": "anthony volpe",
+            "player": "jasson dominguez",
             "game": "nyy @ bos",
             "hr/park": "",
-            "pa": "49",
+            "pa": "50",
             "dt": "2025-06-14 20:11:13",
             "img": "https://www.mlbstatic.com/team-logos/147.svg",
             "team": "nyy",
@@ -4360,6 +4375,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "anthony volpe",
+            "game": "nyy @ bos",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "98.7",
+            "la": "-2",
+            "dist": "38"
         },
         {
             "player": "jarren duran",
@@ -5083,6 +5113,21 @@
         }
     ],
     "tb @ nym": [
+        {
+            "player": "josh lowe",
+            "game": "tb @ nym",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "1:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "taylor walls",
             "game": "tb @ nym",
@@ -6980,21 +7025,6 @@
     ],
     "stl @ mil": [
         {
-            "player": "alec burleson",
-            "game": "stl @ mil",
-            "hr/park": "",
-            "pa": "42",
-            "dt": "2025-06-14 20:11:04",
-            "img": "https://www.mlbstatic.com/team-logos/138.svg",
-            "team": "stl",
-            "start": "2:10 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "ivan herrera",
             "game": "stl @ mil",
             "hr/park": "0/30",
@@ -7004,7 +7034,7 @@
             "team": "stl",
             "start": "2:10 PM",
             "in": "6",
-            "result": "Lineout",
+            "result": "In Progress",
             "evo": "83.3",
             "la": "27",
             "dist": "301"
