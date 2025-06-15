@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "52",
         "batters": "224",
-        "pitches": "2473",
+        "pitches": "2480",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "72.1",
         "ff%fourseam fastball %": "33.0",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.3",
         "cu%curve %": "10.8",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "176",
-        "hh%hard hit %": "40.3",
+        "hhhard hit": "177",
+        "hh%hard hit %": "40.4",
         "brlbarrels": "31",
         "brl%barrel %": "7.1",
-        "ab": "576",
-        "avg": ".245",
+        "ab": "577",
+        "avg": ".244",
         "h": "141",
         "1b": "104",
         "2b": "23",
         "3b": "1",
         "hr": "13",
-        "so": "148",
-        "bipballs in play": "437",
+        "so": "149",
+        "bipballs in play": "438",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:46:42.489723"
+        "updated": "2025-06-15 15:46:52.727981"
     },
     "cin @ det": [
         {
@@ -1221,17 +1221,17 @@
         {
             "player": "cedric mullins",
             "game": "laa @ bal",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "60",
             "dt": "2025-06-14 20:14:41",
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
             "team": "bal",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "97.1",
+            "la": "35",
+            "dist": "349"
         },
         {
             "player": "gary sanchez",
@@ -2942,7 +2942,7 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3774,21 +3774,6 @@
         }
     ],
     "mia @ wsh": [
-        {
-            "player": "cj abrams",
-            "game": "mia @ wsh",
-            "hr/park": "",
-            "pa": "63",
-            "dt": "2025-06-14 20:11:13",
-            "img": "https://www.mlbstatic.com/team-logos/120.svg",
-            "team": "wsh",
-            "start": "1:35 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "james wood",
             "game": "mia @ wsh",
@@ -7775,9 +7760,24 @@
     ],
     "stl @ mil": [
         {
-            "player": "jordan walker",
+            "player": "victor scott",
             "game": "stl @ mil",
             "hr/park": "",
+            "pa": "50",
+            "dt": "2025-06-14 20:11:04",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jordan walker",
+            "game": "stl @ mil",
+            "hr/park": "0/30",
             "pa": "49",
             "dt": "2025-06-14 20:11:04",
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
@@ -8511,6 +8511,21 @@
         }
     ],
     "pit @ chc": [
+        {
+            "player": "michael busch",
+            "game": "pit @ chc",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-06-14 20:11:04",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:20 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "seiya suzuki",
             "game": "pit @ chc",
