@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "45",
         "batters": "222",
-        "pitches": "2346",
+        "pitches": "2358",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "32.8",
-        "si%sinker %": "12.6",
+        "ff%fourseam fastball %": "33.0",
+        "si%sinker %": "12.5",
         "fc%cutter %": "10.1",
         "fs%splitter %": "1.5",
         "ch%changeup %": "10.9",
         "sl%slider %": "21.4",
         "cu%curve %": "10.7",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "165",
-        "hh%hard hit %": "40.2",
+        "hhhard hit": "166",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "29",
-        "brl%barrel %": "7.1",
-        "ab": "543",
+        "brl%barrel %": "7.0",
+        "ab": "547",
         "avg": ".239",
-        "h": "130",
-        "1b": "96",
+        "h": "131",
+        "1b": "97",
         "2b": "22",
         "3b": "1",
         "hr": "11",
         "so": "140",
-        "bipballs in play": "410",
+        "bipballs in play": "412",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:39:30.367178"
+        "updated": "2025-06-15 15:39:40.610202"
     },
     "cin @ det": [
         {
@@ -1228,7 +1228,7 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2061,6 +2061,21 @@
     ],
     "tor @ phi": [
         {
+            "player": "nick castellanos",
+            "game": "tor @ phi",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alec bohm",
             "game": "tor @ phi",
             "hr/park": "",
@@ -2852,7 +2867,7 @@
             "team": "col",
             "start": "1:35 PM",
             "in": "7",
-            "result": "Disengagement Violation",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4542,6 +4557,21 @@
     ],
     "nyy @ bos": [
         {
+            "player": "connor wong",
+            "game": "nyy @ bos",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ceddanne rafaela",
             "game": "nyy @ bos",
             "hr/park": "",
@@ -4551,7 +4581,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "101.7",
             "la": "7",
             "dist": "123"
@@ -6106,10 +6136,10 @@
     ],
     "ath @ kc": [
         {
-            "player": "bobby witt",
+            "player": "vinnie pasquantino",
             "game": "ath @ kc",
             "hr/park": "",
-            "pa": "40",
+            "pa": "41",
             "dt": "2025-06-14 20:14:41",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
@@ -6119,6 +6149,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "bobby witt",
+            "game": "ath @ kc",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "Single",
+            "evo": "101.2",
+            "la": "9",
+            "dist": "233"
         },
         {
             "player": "maikel garcia",
@@ -6707,6 +6752,21 @@
         }
     ],
     "min @ hou": [
+        {
+            "player": "brooks lee",
+            "game": "min @ hou",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "harrison bader",
             "game": "min @ hou",
@@ -8688,9 +8748,9 @@
             "team": "tex",
             "start": "2:35 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
+            "result": "Groundout",
+            "evo": "53.3",
+            "la": "-53",
             "dist": ""
         },
         {
