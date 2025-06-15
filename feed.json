@@ -2,13 +2,13 @@
     "all": {
         "pitchers": "63",
         "batters": "227",
-        "pitches": "2643",
+        "pitches": "2650",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.3",
-        "ff%fourseam fastball %": "32.7",
+        "ff%fourseam fastball %": "32.6",
         "si%sinker %": "13.2",
-        "fc%cutter %": "10.1",
-        "fs%splitter %": "1.5",
+        "fc%cutter %": "10.2",
+        "fs%splitter %": "1.4",
         "ch%changeup %": "10.3",
         "sl%slider %": "21.3",
         "cu%curve %": "10.9",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "40.0",
         "brlbarrels": "33",
         "brl%barrel %": "6.9",
-        "ab": "620",
-        "avg": ".244",
+        "ab": "621",
+        "avg": ".243",
         "h": "151",
         "1b": "112",
         "2b": "24",
@@ -28,7 +28,7 @@
         "bipballs in play": "480",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:56:27.068615"
+        "updated": "2025-06-15 15:56:37.713458"
     },
     "cin @ det": [
         {
@@ -1219,6 +1219,21 @@
     ],
     "laa @ bal": [
         {
+            "player": "dylan carlson",
+            "game": "laa @ bal",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "coby mayo",
             "game": "laa @ bal",
             "hr/park": "",
@@ -2166,6 +2181,21 @@
     ],
     "tor @ phi": [
         {
+            "player": "vladimir guerrero",
+            "game": "tor @ phi",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "Forceout",
+            "evo": "105.2",
+            "la": "-13",
+            "dist": "12"
+        },
+        {
             "player": "bo bichette",
             "game": "tor @ phi",
             "hr/park": "",
@@ -3092,7 +3122,7 @@
             "team": "col",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5031,10 +5061,10 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "8",
-            "result": "Groundout",
-            "evo": "101.1",
-            "la": "-1",
-            "dist": "40"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "aaron judge",
