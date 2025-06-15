@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "29",
         "batters": "170",
-        "pitches": "1024",
+        "pitches": "1030",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "73.7",
-        "ff%fourseam fastball %": "34.2",
+        "ff%fourseam fastball %": "34.3",
         "si%sinker %": "13.9",
         "fc%cutter %": "10.4",
         "fs%splitter %": "1.1",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "34.9",
         "brlbarrels": "16",
         "brl%barrel %": "9.1",
-        "ab": "237",
-        "avg": ".228",
-        "h": "54",
-        "1b": "38",
+        "ab": "239",
+        "avg": ".230",
+        "h": "55",
+        "1b": "39",
         "2b": "10",
         "3b": "1",
         "hr": "5",
-        "so": "60",
+        "so": "61",
         "bipballs in play": "175",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-15 14:33:43.646861"
+        "updated": "2025-06-15 14:33:52.077465"
     },
     "cin @ det": [
         {
@@ -1778,6 +1778,21 @@
     ],
     "col @ atl": [
         {
+            "player": "brenton doyle",
+            "game": "col @ atl",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "thairo estrada",
             "game": "col @ atl",
             "hr/park": "",
@@ -1787,7 +1802,7 @@
             "team": "col",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2592,6 +2607,21 @@
     ],
     "nyy @ bos": [
         {
+            "player": "rafael devers",
+            "game": "nyy @ bos",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "3",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "rob refsnyder",
             "game": "nyy @ bos",
             "hr/park": "",
@@ -2601,7 +2631,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "99.7",
             "la": "",
             "dist": "49"
