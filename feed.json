@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "40",
         "batters": "220",
-        "pitches": "2042",
+        "pitches": "2049",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "32.9",
-        "si%sinker %": "12.9",
-        "fc%cutter %": "9.9",
+        "ff%fourseam fastball %": "32.8",
+        "si%sinker %": "12.8",
+        "fc%cutter %": "10.0",
         "fs%splitter %": "1.0",
         "ch%changeup %": "11.4",
         "sl%slider %": "21.3",
         "cu%curve %": "10.7",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "146",
-        "hh%hard hit %": "40.1",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "26",
         "brl%barrel %": "7.1",
-        "ab": "476",
-        "avg": ".246",
+        "ab": "477",
+        "avg": ".245",
         "h": "117",
         "1b": "85",
         "2b": "20",
         "3b": "1",
         "hr": "11",
-        "so": "121",
-        "bipballs in play": "364",
+        "so": "122",
+        "bipballs in play": "365",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:23:31.019162"
+        "updated": "2025-06-15 15:23:40.536178"
     },
     "cin @ det": [
         {
@@ -1956,6 +1956,21 @@
     ],
     "tor @ phi": [
         {
+            "player": "addison barger",
+            "game": "tor @ phi",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "vladimir guerrero",
             "game": "tor @ phi",
             "hr/park": "",
@@ -2632,6 +2647,21 @@
         }
     ],
     "col @ atl": [
+        {
+            "player": "ryan ritter",
+            "game": "col @ atl",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "orlando arcia",
             "game": "col @ atl",
@@ -6569,10 +6599,10 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "89.7",
+            "la": "1",
+            "dist": "48"
         },
         {
             "player": "sal frelick",
@@ -7141,7 +7171,7 @@
             "team": "chc",
             "start": "2:20 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7629,21 +7659,6 @@
     ],
     "chw @ tex": [
         {
-            "player": "andrew benintendi",
-            "game": "chw @ tex",
-            "hr/park": "",
-            "pa": "22",
-            "dt": "2025-06-14 20:14:41",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "start": "2:35 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "chase meidroth",
             "game": "chw @ tex",
             "hr/park": "",
@@ -7653,7 +7668,7 @@
             "team": "chw",
             "start": "2:35 PM",
             "in": "3",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "73.9",
             "la": "-55",
             "dist": "2"
