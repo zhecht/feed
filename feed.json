@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "78",
+        "pitchers": "79",
         "batters": "233",
-        "pitches": "2938",
+        "pitches": "2948",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "57.5",
         "ff%fourseam fastball %": "32.5",
-        "si%sinker %": "14.0",
+        "si%sinker %": "13.9",
         "fc%cutter %": "9.8",
         "fs%splitter %": "1.5",
         "ch%changeup %": "10.0",
@@ -14,21 +14,21 @@
         "cu%curve %": "11.5",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "212",
-        "hh%hard hit %": "39.9",
+        "hh%hard hit %": "39.8",
         "brlbarrels": "39",
         "brl%barrel %": "7.3",
-        "ab": "685",
-        "avg": ".241",
+        "ab": "687",
+        "avg": ".240",
         "h": "165",
         "1b": "119",
         "2b": "28",
         "3b": "2",
         "hr": "16",
-        "so": "169",
-        "bipballs in play": "531",
+        "so": "170",
+        "bipballs in play": "533",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-15 16:13:21.634717"
+        "updated": "2025-06-15 16:13:32.033043"
     },
     "cin @ det": [
         {
@@ -3307,6 +3307,21 @@
         }
     ],
     "col @ atl": [
+        {
+            "player": "thairo estrada",
+            "game": "col @ atl",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-06-15 16:13:32",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ryan mcmahon",
             "game": "col @ atl",
@@ -7396,6 +7411,21 @@
     ],
     "ath @ kc": [
         {
+            "player": "jacob wilson",
+            "game": "ath @ kc",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "lawrence butler",
             "game": "ath @ kc",
             "hr/park": "",
@@ -8195,17 +8225,17 @@
         {
             "player": "jonah bride",
             "game": "min @ hou",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "60",
             "dt": "2025-06-14 20:11:13",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "start": "2:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "89.1",
+            "la": "35",
+            "dist": "319"
         },
         {
             "player": "luis guillorme",
@@ -11420,7 +11450,7 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11438,9 +11468,9 @@
             "start": "4:10 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "65.1",
+            "la": "6",
+            "dist": "68"
         }
     ],
     "sf @ lad": []
