@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "70",
         "batters": "230",
-        "pitches": "2807",
+        "pitches": "2816",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "32.6",
+        "ff%fourseam fastball %": "32.5",
         "si%sinker %": "13.6",
-        "fc%cutter %": "10.1",
+        "fc%cutter %": "10.0",
         "fs%splitter %": "1.6",
         "ch%changeup %": "10.2",
         "sl%slider %": "20.7",
-        "cu%curve %": "11.3",
+        "cu%curve %": "11.4",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "205",
+        "hhhard hit": "206",
         "hh%hard hit %": "40.3",
         "brlbarrels": "37",
-        "brl%barrel %": "7.3",
-        "ab": "656",
-        "avg": ".245",
+        "brl%barrel %": "7.2",
+        "ab": "660",
+        "avg": ".244",
         "h": "161",
         "1b": "118",
         "2b": "26",
         "3b": "2",
         "hr": "15",
         "so": "162",
-        "bipballs in play": "509",
+        "bipballs in play": "511",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 16:05:41.782485"
+        "updated": "2025-06-15 16:05:52.478710"
     },
     "cin @ det": [
         {
@@ -2241,6 +2241,21 @@
     ],
     "tor @ phi": [
         {
+            "player": "kyle schwarber",
+            "game": "tor @ phi",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trea turner",
             "game": "tor @ phi",
             "hr/park": "",
@@ -4210,6 +4225,21 @@
     ],
     "mia @ wsh": [
         {
+            "player": "eric wagaman",
+            "game": "mia @ wsh",
+            "hr/park": "",
+            "pa": "74",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "otto lopez",
             "game": "mia @ wsh",
             "hr/park": "0/30",
@@ -4219,7 +4249,7 @@
             "team": "mia",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "106.8",
             "la": "19",
             "dist": "365"
@@ -5306,6 +5336,21 @@
         }
     ],
     "nyy @ bos": [
+        {
+            "player": "cody bellinger",
+            "game": "nyy @ bos",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "90.7",
+            "la": "",
+            "dist": "45"
+        },
         {
             "player": "trevor story",
             "game": "nyy @ bos",
@@ -7893,6 +7938,21 @@
     ],
     "min @ hou": [
         {
+            "player": "cam smith",
+            "game": "min @ hou",
+            "hr/park": "0/30",
+            "pa": "56",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "104.5",
+            "la": "18",
+            "dist": "347"
+        },
+        {
             "player": "matt wallner",
             "game": "min @ hou",
             "hr/park": "",
@@ -9579,7 +9639,7 @@
         {
             "player": "reese mcguire",
             "game": "pit @ chc",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "53",
             "dt": "2025-06-14 20:11:04",
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
