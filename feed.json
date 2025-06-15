@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "86",
         "batters": "240",
-        "pitches": "3098",
+        "pitches": "3101",
         "max velomax pitch velocity": "100.9",
         "min velomin pitch velocity": "57.5",
         "ff%fourseam fastball %": "32.6",
@@ -14,21 +14,21 @@
         "cu%curve %": "11.3",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "222",
-        "hh%hard hit %": "40.3",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "40",
-        "brl%barrel %": "7.3",
-        "ab": "716",
+        "brl%barrel %": "7.2",
+        "ab": "717",
         "avg": ".237",
         "h": "170",
         "1b": "122",
         "2b": "30",
         "3b": "2",
         "hr": "16",
-        "so": "181",
-        "bipballs in play": "551",
+        "so": "182",
+        "bipballs in play": "552",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-15 16:21:11.772324"
+        "updated": "2025-06-15 16:21:22.773783"
     },
     "cin @ det": [
         {
@@ -2270,6 +2270,21 @@
         }
     ],
     "tor @ phi": [
+        {
+            "player": "alejandro kirk",
+            "game": "tor @ phi",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "addison barger",
             "game": "tor @ phi",
@@ -10306,7 +10321,7 @@
             "team": "pit",
             "start": "2:20 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11855,7 +11870,7 @@
             "team": "ari",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11932,10 +11947,10 @@
             "team": "sea",
             "start": "4:10 PM",
             "in": "1",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "71.2",
+            "la": "-45",
+            "dist": "3"
         },
         {
             "player": "jose ramirez",
