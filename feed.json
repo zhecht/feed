@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "32",
         "batters": "187",
-        "pitches": "1206",
+        "pitches": "1213",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "34.2",
-        "si%sinker %": "13.5",
+        "ff%fourseam fastball %": "34.1",
+        "si%sinker %": "13.4",
         "fc%cutter %": "9.6",
         "fs%splitter %": "0.9",
-        "ch%changeup %": "11.4",
-        "sl%slider %": "20.3",
+        "ch%changeup %": "11.6",
+        "sl%slider %": "20.4",
         "cu%curve %": "10.0",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "75",
-        "hh%hard hit %": "37.1",
+        "hhhard hit": "74",
+        "hh%hard hit %": "36.5",
         "brlbarrels": "18",
         "brl%barrel %": "8.9",
-        "ab": "277",
-        "avg": ".231",
-        "h": "64",
-        "1b": "43",
+        "ab": "279",
+        "avg": ".226",
+        "h": "63",
+        "1b": "42",
         "2b": "14",
         "3b": "1",
         "hr": "6",
         "so": "72",
-        "bipballs in play": "202",
+        "bipballs in play": "203",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 14:41:59.234658"
+        "updated": "2025-06-15 14:42:07.650579"
     },
     "cin @ det": [
         {
@@ -1068,6 +1068,21 @@
         }
     ],
     "laa @ bal": [
+        {
+            "player": "gary sanchez",
+            "game": "laa @ bal",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "GIDP",
+            "evo": "92.9",
+            "la": "-9",
+            "dist": "19"
+        },
         {
             "player": "ramon laureano",
             "game": "laa @ bal",
@@ -2404,7 +2419,7 @@
             "team": "mia",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3918,10 +3933,10 @@
     ],
     "min @ hou": [
         {
-            "player": "ryan jeffers",
+            "player": "carlos correa",
             "game": "min @ hou",
             "hr/park": "",
-            "pa": "16",
+            "pa": "17",
             "dt": "2025-06-14 20:11:13",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
@@ -3931,6 +3946,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "ryan jeffers",
+            "game": "min @ hou",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "Pop Out",
+            "evo": "84.6",
+            "la": "76",
+            "dist": "57"
         },
         {
             "player": "christian vazquez",
@@ -4563,10 +4593,10 @@
             "team": "chw",
             "start": "2:35 PM",
             "in": "1",
-            "result": "Single",
-            "evo": "106.6",
-            "la": "5",
-            "dist": "105"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "mike tauchman",
