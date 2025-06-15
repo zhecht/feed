@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "79",
         "batters": "235",
-        "pitches": "2971",
+        "pitches": "2976",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "57.5",
-        "ff%fourseam fastball %": "32.5",
+        "ff%fourseam fastball %": "32.6",
         "si%sinker %": "14.0",
-        "fc%cutter %": "9.9",
+        "fc%cutter %": "9.8",
         "fs%splitter %": "1.5",
         "ch%changeup %": "10.0",
         "sl%slider %": "20.6",
         "cu%curve %": "11.4",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "212",
+        "hhhard hit": "213",
         "hh%hard hit %": "39.7",
         "brlbarrels": "39",
         "brl%barrel %": "7.3",
-        "ab": "693",
-        "avg": ".238",
+        "ab": "695",
+        "avg": ".237",
         "h": "165",
         "1b": "119",
         "2b": "28",
         "3b": "2",
         "hr": "16",
-        "so": "171",
-        "bipballs in play": "534",
+        "so": "172",
+        "bipballs in play": "536",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-15 16:14:37.211975"
+        "updated": "2025-06-15 16:14:48.158814"
     },
     "cin @ det": [
         {
@@ -2273,17 +2273,17 @@
         {
             "player": "nick castellanos",
             "game": "tor @ phi",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "70",
             "dt": "2025-06-14 20:11:13",
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "92.3",
+            "la": "25",
+            "dist": "334"
         },
         {
             "player": "alec bohm",
@@ -4374,21 +4374,6 @@
         }
     ],
     "mia @ wsh": [
-        {
-            "player": "alex call",
-            "game": "mia @ wsh",
-            "hr/park": "",
-            "pa": "77",
-            "dt": "2025-06-14 20:11:13",
-            "img": "https://www.mlbstatic.com/team-logos/120.svg",
-            "team": "wsh",
-            "start": "1:35 PM",
-            "in": "9",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "jose tena",
             "game": "mia @ wsh",
@@ -8253,6 +8238,21 @@
     ],
     "min @ hou": [
         {
+            "player": "brooks lee",
+            "game": "min @ hou",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "harrison bader",
             "game": "min @ hou",
             "hr/park": "",
@@ -8262,7 +8262,7 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10071,6 +10071,36 @@
         }
     ],
     "pit @ chc": [
+        {
+            "player": "ian happ",
+            "game": "pit @ chc",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-06-14 20:11:04",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:20 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jon berti",
+            "game": "pit @ chc",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-14 20:11:04",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:20 PM",
+            "in": "8",
+            "result": "Lineout",
+            "evo": "98.7",
+            "la": "7",
+            "dist": "158"
+        },
         {
             "player": "nick gonzales",
             "game": "pit @ chc",
