@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "55",
+        "pitchers": "56",
         "batters": "225",
-        "pitches": "2537",
+        "pitches": "2544",
         "max velomax pitch velocity": "99.7",
         "min velomin pitch velocity": "72.1",
-        "ff%fourseam fastball %": "32.8",
-        "si%sinker %": "12.9",
+        "ff%fourseam fastball %": "32.7",
+        "si%sinker %": "13.0",
         "fc%cutter %": "10.1",
         "fs%splitter %": "1.5",
         "ch%changeup %": "10.7",
-        "sl%slider %": "21.4",
+        "sl%slider %": "21.5",
         "cu%curve %": "10.7",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "181",
-        "hh%hard hit %": "40.0",
+        "hhhard hit": "184",
+        "hh%hard hit %": "40.4",
         "brlbarrels": "33",
         "brl%barrel %": "7.3",
-        "ab": "590",
-        "avg": ".242",
+        "ab": "593",
+        "avg": ".241",
         "h": "143",
         "1b": "105",
         "2b": "23",
         "3b": "1",
         "hr": "14",
         "so": "150",
-        "bipballs in play": "452",
+        "bipballs in play": "455",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-15 15:50:46.121785"
+        "updated": "2025-06-15 15:50:56.389284"
     },
     "cin @ det": [
         {
@@ -1218,6 +1218,36 @@
         }
     ],
     "laa @ bal": [
+        {
+            "player": "mike trout",
+            "game": "laa @ bal",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "nolan schanuel",
+            "game": "laa @ bal",
+            "hr/park": "0/30",
+            "pa": "62",
+            "dt": "2025-06-14 20:14:41",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "Lineout",
+            "evo": "96.2",
+            "la": "22",
+            "dist": "355"
+        },
         {
             "player": "zach neto",
             "game": "laa @ bal",
@@ -3864,6 +3894,21 @@
         }
     ],
     "mia @ wsh": [
+        {
+            "player": "javier sanoja",
+            "game": "mia @ wsh",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-06-14 20:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "Groundout",
+            "evo": "96.8",
+            "la": "-8",
+            "dist": "22"
+        },
         {
             "player": "cj abrams",
             "game": "mia @ wsh",
@@ -9378,10 +9423,10 @@
             "team": "tex",
             "start": "2:35 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "102.2",
+            "la": "-2",
+            "dist": "42"
         },
         {
             "player": "ryan noda",
