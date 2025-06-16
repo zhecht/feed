@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "6",
-        "batters": "40",
-        "pitches": "176",
+        "batters": "41",
+        "pitches": "179",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "38.1",
-        "si%sinker %": "14.8",
-        "fc%cutter %": "8.5",
+        "ff%fourseam fastball %": "38.0",
+        "si%sinker %": "15.1",
+        "fc%cutter %": "8.4",
         "fs%splitter %": "0.0",
         "ch%changeup %": "3.4",
-        "sl%slider %": "20.5",
-        "cu%curve %": "14.8",
+        "sl%slider %": "20.7",
+        "cu%curve %": "14.5",
         "max evmax exit velocity": "109.3",
         "hhhard hit": "13",
-        "hh%hard hit %": "43.3",
+        "hh%hard hit %": "41.9",
         "brlbarrels": "3",
-        "brl%barrel %": "10.0",
-        "ab": "41",
-        "avg": ".220",
+        "brl%barrel %": "9.7",
+        "ab": "42",
+        "avg": ".214",
         "h": "9",
         "1b": "4",
         "2b": "2",
         "3b": "1",
         "hr": "2",
         "so": "11",
-        "bipballs in play": "30",
+        "bipballs in play": "31",
         "liveGames": 3,
         "totGames": 7,
-        "updated": "2025-06-16 19:23:09.784586"
+        "updated": "2025-06-16 19:23:17.034372"
     },
     "phi @ mia": [
         {
@@ -303,6 +303,21 @@
         }
     ],
     "col @ wsh": [
+        {
+            "player": "jacob young",
+            "game": "col @ wsh",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-06-16 19:23:17",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "daylen lile",
             "game": "col @ wsh",
@@ -600,10 +615,10 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "1",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "76.1",
+            "la": "-42",
+            "dist": "2"
         },
         {
             "player": "jorge soler",
