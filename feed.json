@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "17",
-        "batters": "117",
-        "pitches": "695",
+        "batters": "116",
+        "pitches": "696",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "70.9",
-        "ff%fourseam fastball %": "35.3",
-        "si%sinker %": "15.3",
+        "ff%fourseam fastball %": "35.2",
+        "si%sinker %": "15.5",
         "fc%cutter %": "4.7",
-        "fs%splitter %": "4.7",
-        "ch%changeup %": "10.2",
-        "sl%slider %": "22.7",
-        "cu%curve %": "7.1",
+        "fs%splitter %": "4.6",
+        "ch%changeup %": "10.3",
+        "sl%slider %": "22.6",
+        "cu%curve %": "7.0",
         "max evmax exit velocity": "110.8",
         "hhhard hit": "60",
-        "hh%hard hit %": "45.8",
+        "hh%hard hit %": "45.1",
         "brlbarrels": "14",
-        "brl%barrel %": "10.7",
+        "brl%barrel %": "10.5",
         "ab": "174",
         "avg": ".241",
         "h": "42",
@@ -25,12 +25,27 @@
         "3b": "0",
         "hr": "6",
         "so": "39",
-        "bipballs in play": "131",
+        "bipballs in play": "133",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-17 19:49:11.985112"
+        "updated": "2025-06-17 19:49:19.951461"
     },
     "phi @ mia": [
+        {
+            "player": "bryson stott",
+            "game": "phi @ mia",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-06-17 19:48:43",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jt realmuto",
             "game": "phi @ mia",
@@ -41,10 +56,10 @@
             "team": "phi",
             "start": "6:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "67.8",
+            "la": "-56",
+            "dist": "2"
         },
         {
             "player": "max kepler",
@@ -1743,9 +1758,9 @@
             "start": "7:05 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "72.2",
+            "la": "22",
+            "dist": "197"
         },
         {
             "player": "nolan schanuel",
@@ -2732,21 +2747,6 @@
     ],
     "stl @ chw": [
         {
-            "player": "alec burleson",
-            "game": "stl @ chw",
-            "hr/park": "",
-            "pa": "5",
-            "dt": "2025-06-17 19:48:28",
-            "img": "https://www.mlbstatic.com/team-logos/138.svg",
-            "team": "stl",
-            "start": "7:40 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "willson contreras",
             "game": "stl @ chw",
             "hr/park": "",
@@ -2756,7 +2756,7 @@
             "team": "stl",
             "start": "7:40 PM",
             "in": "1",
-            "result": "Flyout",
+            "result": "In Progress",
             "evo": "80.1",
             "la": "35",
             "dist": "267"
