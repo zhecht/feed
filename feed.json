@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "18",
+        "pitchers": "19",
         "batters": "126",
-        "pitches": "816",
+        "pitches": "824",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "70.5",
-        "ff%fourseam fastball %": "34.3",
-        "si%sinker %": "15.7",
-        "fc%cutter %": "4.3",
+        "ff%fourseam fastball %": "34.1",
+        "si%sinker %": "15.9",
+        "fc%cutter %": "4.2",
         "fs%splitter %": "5.0",
-        "ch%changeup %": "10.2",
-        "sl%slider %": "23.2",
+        "ch%changeup %": "10.1",
+        "sl%slider %": "23.3",
         "cu%curve %": "7.4",
         "max evmax exit velocity": "112.1",
-        "hhhard hit": "68",
-        "hh%hard hit %": "45.3",
-        "brlbarrels": "16",
-        "brl%barrel %": "10.7",
-        "ab": "199",
-        "avg": ".246",
-        "h": "49",
-        "1b": "29",
+        "hhhard hit": "70",
+        "hh%hard hit %": "45.8",
+        "brlbarrels": "17",
+        "brl%barrel %": "11.1",
+        "ab": "203",
+        "avg": ".251",
+        "h": "51",
+        "1b": "30",
         "2b": "13",
         "3b": "0",
-        "hr": "7",
+        "hr": "8",
         "so": "51",
-        "bipballs in play": "150",
+        "bipballs in play": "153",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-17 19:58:41.037820"
+        "updated": "2025-06-17 19:58:49.417977"
     },
     "phi @ mia": [
+        {
+            "player": "nick fortes",
+            "game": "phi @ mia",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-06-17 19:58:44",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "connor norby",
             "game": "phi @ mia",
@@ -754,11 +769,11 @@
     ],
     "pit @ det": [
         {
-            "player": "javier baez",
+            "player": "parker meadows",
             "game": "pit @ det",
             "hr/park": "",
-            "pa": "37",
-            "dt": "2025-06-17 19:56:30",
+            "pa": "38",
+            "dt": "2025-06-17 19:58:44",
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
             "team": "det",
             "start": "6:40 PM",
@@ -767,6 +782,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "javier baez",
+            "game": "pit @ det",
+            "hr/park": "26/30",
+            "pa": "37",
+            "dt": "2025-06-17 19:56:30",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "Home Run",
+            "evo": "100.5",
+            "la": "28",
+            "dist": "407"
         },
         {
             "player": "andrew mccutchen",
@@ -1310,6 +1340,21 @@
         }
     ],
     "col @ wsh": [
+        {
+            "player": "jacob young",
+            "game": "col @ wsh",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-06-17 19:58:44",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "hunter goodman",
             "game": "col @ wsh",
@@ -1883,6 +1928,21 @@
     ],
     "laa @ nyy": [
         {
+            "player": "jasson dominguez",
+            "game": "laa @ nyy",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-06-17 19:58:44",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "dj lemahieu",
             "game": "laa @ nyy",
             "hr/park": "",
@@ -2244,6 +2304,21 @@
         }
     ],
     "ari @ tor": [
+        {
+            "player": "eugenio suarez",
+            "game": "ari @ tor",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-06-17 19:58:44",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:07 PM",
+            "in": "4",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "josh naylor",
             "game": "ari @ tor",
@@ -3101,10 +3176,10 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "96.9",
+            "la": "-5",
+            "dist": "28"
         },
         {
             "player": "miguel vargas",
