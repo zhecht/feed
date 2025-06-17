@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "10",
         "batters": "64",
-        "pitches": "309",
+        "pitches": "311",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "70.9",
-        "ff%fourseam fastball %": "36.9",
+        "ff%fourseam fastball %": "37.0",
         "si%sinker %": "12.9",
         "fc%cutter %": "7.1",
-        "fs%splitter %": "4.9",
-        "ch%changeup %": "6.1",
-        "sl%slider %": "25.6",
-        "cu%curve %": "6.5",
+        "fs%splitter %": "4.8",
+        "ch%changeup %": "6.4",
+        "sl%slider %": "25.4",
+        "cu%curve %": "6.4",
         "max evmax exit velocity": "110.5",
-        "hhhard hit": "26",
-        "hh%hard hit %": "49.1",
+        "hhhard hit": "27",
+        "hh%hard hit %": "50.0",
         "brlbarrels": "5",
-        "brl%barrel %": "9.4",
+        "brl%barrel %": "9.3",
         "ab": "76",
         "avg": ".224",
         "h": "17",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "4",
         "so": "19",
-        "bipballs in play": "53",
+        "bipballs in play": "54",
         "liveGames": 7,
         "totGames": 15,
-        "updated": "2025-06-17 19:18:27.045040"
+        "updated": "2025-06-17 19:18:34.694269"
     },
     "phi @ mia": [
         {
@@ -41,7 +41,7 @@
             "team": "mia",
             "start": "6:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -508,7 +508,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -810,10 +810,10 @@
             "team": "wsh",
             "start": "6:45 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "99.3",
+            "la": "-20",
+            "dist": "6"
         },
         {
             "player": "keibert ruiz",
