@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "39",
-        "batters": "131",
-        "pitches": "1405",
+        "batters": "132",
+        "pitches": "1411",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "30.3",
         "si%sinker %": "15.6",
-        "fc%cutter %": "11.9",
+        "fc%cutter %": "11.8",
         "fs%splitter %": "2.1",
-        "ch%changeup %": "8.0",
-        "sl%slider %": "20.9",
-        "cu%curve %": "11.2",
+        "ch%changeup %": "7.9",
+        "sl%slider %": "21.0",
+        "cu%curve %": "11.3",
         "max evmax exit velocity": "111.1",
         "hhhard hit": "111",
         "hh%hard hit %": "42.9",
         "brlbarrels": "19",
         "brl%barrel %": "7.3",
-        "ab": "336",
-        "avg": ".217",
+        "ab": "338",
+        "avg": ".216",
         "h": "73",
         "1b": "43",
         "2b": "13",
@@ -28,7 +28,7 @@
         "bipballs in play": "259",
         "liveGames": 7,
         "totGames": 7,
-        "updated": "2025-06-16 22:52:59.984586"
+        "updated": "2025-06-16 22:53:08.559115"
     },
     "phi @ mia": [
         {
@@ -4480,6 +4480,21 @@
     ],
     "bos @ sea": [
         {
+            "player": "kristian campbell",
+            "game": "bos @ sea",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-06-16 22:53:02",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "9:40 PM",
+            "in": "5",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ceddanne rafaela",
             "game": "bos @ sea",
             "hr/park": "0/30",
@@ -4962,6 +4977,21 @@
     ],
     "hou @ ath": [
         {
+            "player": "max schuemann",
+            "game": "hou @ ath",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-06-16 22:53:02",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "willie maciver",
             "game": "hou @ ath",
             "hr/park": "",
@@ -4971,7 +5001,7 @@
             "team": "ath",
             "start": "10:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "59.7",
             "la": "-48",
             "dist": "3"
