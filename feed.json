@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "17",
-        "batters": "116",
-        "pitches": "696",
+        "batters": "117",
+        "pitches": "703",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "70.9",
-        "ff%fourseam fastball %": "35.2",
-        "si%sinker %": "15.5",
+        "ff%fourseam fastball %": "35.3",
+        "si%sinker %": "15.4",
         "fc%cutter %": "4.7",
-        "fs%splitter %": "4.6",
-        "ch%changeup %": "10.3",
-        "sl%slider %": "22.6",
+        "fs%splitter %": "4.7",
+        "ch%changeup %": "10.2",
+        "sl%slider %": "22.8",
         "cu%curve %": "7.0",
         "max evmax exit velocity": "110.8",
         "hhhard hit": "60",
-        "hh%hard hit %": "45.1",
+        "hh%hard hit %": "44.8",
         "brlbarrels": "14",
-        "brl%barrel %": "10.5",
-        "ab": "174",
-        "avg": ".241",
+        "brl%barrel %": "10.4",
+        "ab": "176",
+        "avg": ".239",
         "h": "42",
         "1b": "24",
         "2b": "12",
         "3b": "0",
         "hr": "6",
         "so": "39",
-        "bipballs in play": "133",
+        "bipballs in play": "134",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-17 19:49:27.866190"
+        "updated": "2025-06-17 19:49:36.240178"
     },
     "phi @ mia": [
         {
@@ -2050,6 +2050,21 @@
     ],
     "ari @ tor": [
         {
+            "player": "addison barger",
+            "game": "ari @ tor",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-06-17 19:49:30",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bo bichette",
             "game": "ari @ tor",
             "hr/park": "",
@@ -2059,10 +2074,10 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "72.1",
+            "la": "-21",
+            "dist": "4"
         },
         {
             "player": "ketel marte",
@@ -2747,6 +2762,21 @@
     ],
     "stl @ chw": [
         {
+            "player": "alec burleson",
+            "game": "stl @ chw",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-06-17 19:48:28",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "willson contreras",
             "game": "stl @ chw",
             "hr/park": "",
@@ -2756,7 +2786,7 @@
             "team": "stl",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "80.1",
             "la": "35",
             "dist": "267"
