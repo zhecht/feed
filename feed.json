@@ -1,51 +1,36 @@
 {
     "all": {
-        "pitchers": "7",
-        "batters": "50",
-        "pitches": "232",
+        "pitchers": "8",
+        "batters": "51",
+        "pitches": "233",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "70.9",
-        "ff%fourseam fastball %": "33.6",
-        "si%sinker %": "13.4",
-        "fc%cutter %": "7.8",
-        "fs%splitter %": "5.6",
+        "ff%fourseam fastball %": "32.6",
+        "si%sinker %": "13.7",
+        "fc%cutter %": "8.2",
+        "fs%splitter %": "6.0",
         "ch%changeup %": "5.6",
-        "sl%slider %": "29.3",
-        "cu%curve %": "4.7",
+        "sl%slider %": "28.8",
+        "cu%curve %": "5.2",
         "max evmax exit velocity": "110.5",
         "hhhard hit": "22",
         "hh%hard hit %": "55.0",
         "brlbarrels": "5",
         "brl%barrel %": "12.5",
-        "ab": "57",
-        "avg": ".228",
+        "ab": "58",
+        "avg": ".224",
         "h": "13",
         "1b": "8",
         "2b": "1",
         "3b": "0",
         "hr": "4",
-        "so": "14",
+        "so": "15",
         "bipballs in play": "40",
         "liveGames": 6,
         "totGames": 15,
-        "updated": "2025-06-17 19:11:52.259618"
+        "updated": "2025-06-17 19:11:59.982119"
     },
     "phi @ mia": [
-        {
-            "player": "heriberto hernandez",
-            "game": "phi @ mia",
-            "hr/park": "",
-            "pa": "28",
-            "dt": "2025-06-17 19:10:58",
-            "img": "https://www.mlbstatic.com/team-logos/146.svg",
-            "team": "mia",
-            "start": "6:10 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "bryson stott",
             "game": "phi @ mia",
@@ -454,6 +439,21 @@
     ],
     "pit @ det": [
         {
+            "player": "gleyber torres",
+            "game": "pit @ det",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-06-17 19:11:58",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "parker meadows",
             "game": "pit @ det",
             "hr/park": "",
@@ -711,21 +711,6 @@
     ],
     "col @ wsh": [
         {
-            "player": "josh bell",
-            "game": "col @ wsh",
-            "hr/park": "",
-            "pa": "14",
-            "dt": "2025-06-17 19:11:28",
-            "img": "https://www.mlbstatic.com/team-logos/120.svg",
-            "team": "wsh",
-            "start": "6:45 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "brady house",
             "game": "col @ wsh",
             "hr/park": "",
@@ -921,8 +906,39 @@
             "dist": ""
         }
     ],
-    "laa @ nyy": [],
+    "laa @ nyy": [
+        {
+            "player": "zach neto",
+            "game": "laa @ nyy",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-17 19:11:58",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "7:05 PM",
+            "in": "1",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "ari @ tor": [
+        {
+            "player": "ketel marte",
+            "game": "ari @ tor",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-06-17 19:11:58",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:07 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "corbin carroll",
             "game": "ari @ tor",
@@ -933,7 +949,7 @@
             "team": "ari",
             "start": "7:07 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
