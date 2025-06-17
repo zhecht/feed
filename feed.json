@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "36",
-        "batters": "106",
-        "pitches": "1232",
+        "batters": "108",
+        "pitches": "1236",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "28.8",
-        "si%sinker %": "16.9",
+        "ff%fourseam fastball %": "28.7",
+        "si%sinker %": "16.8",
         "fc%cutter %": "12.9",
         "fs%splitter %": "1.5",
         "ch%changeup %": "8.4",
-        "sl%slider %": "19.7",
+        "sl%slider %": "19.9",
         "cu%curve %": "11.8",
         "max evmax exit velocity": "111.1",
         "hhhard hit": "101",
         "hh%hard hit %": "42.4",
         "brlbarrels": "18",
         "brl%barrel %": "7.6",
-        "ab": "299",
-        "avg": ".224",
+        "ab": "301",
+        "avg": ".223",
         "h": "67",
         "1b": "38",
         "2b": "12",
@@ -28,7 +28,7 @@
         "bipballs in play": "238",
         "liveGames": 7,
         "totGames": 7,
-        "updated": "2025-06-16 22:22:14.344308"
+        "updated": "2025-06-16 22:22:22.606152"
     },
     "phi @ mia": [
         {
@@ -4480,6 +4480,21 @@
     ],
     "bos @ sea": [
         {
+            "player": "ben williamson",
+            "game": "bos @ sea",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-06-16 22:22:17",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "9:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "dominic canzone",
             "game": "bos @ sea",
             "hr/park": "",
@@ -4844,6 +4859,21 @@
     ],
     "sd @ lad": [
         {
+            "player": "xander bogaerts",
+            "game": "sd @ lad",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-06-16 22:22:17",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "10:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gavin sheets",
             "game": "sd @ lad",
             "hr/park": "",
@@ -4853,7 +4883,7 @@
             "team": "sd",
             "start": "10:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "77.2",
             "la": "-8",
             "dist": "13"
