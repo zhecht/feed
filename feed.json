@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "9",
         "batters": "58",
-        "pitches": "279",
+        "pitches": "281",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "70.9",
-        "ff%fourseam fastball %": "35.5",
+        "ff%fourseam fastball %": "35.6",
         "si%sinker %": "12.5",
-        "fc%cutter %": "7.9",
+        "fc%cutter %": "7.8",
         "fs%splitter %": "5.0",
-        "ch%changeup %": "6.1",
-        "sl%slider %": "26.9",
-        "cu%curve %": "6.1",
+        "ch%changeup %": "6.0",
+        "sl%slider %": "26.7",
+        "cu%curve %": "6.4",
         "max evmax exit velocity": "110.5",
         "hhhard hit": "25",
-        "hh%hard hit %": "53.2",
+        "hh%hard hit %": "52.1",
         "brlbarrels": "5",
-        "brl%barrel %": "10.6",
+        "brl%barrel %": "10.4",
         "ab": "68",
         "avg": ".221",
         "h": "15",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "4",
         "so": "17",
-        "bipballs in play": "47",
+        "bipballs in play": "48",
         "liveGames": 6,
         "totGames": 15,
-        "updated": "2025-06-17 19:14:50.582771"
+        "updated": "2025-06-17 19:14:58.387484"
     },
     "phi @ mia": [
         {
@@ -493,7 +493,7 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1007,10 +1007,10 @@
             "team": "laa",
             "start": "7:05 PM",
             "in": "1",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "45.4",
+            "la": "-33",
+            "dist": "5"
         },
         {
             "player": "zach neto",
