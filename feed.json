@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "111",
         "batters": "287",
-        "pitches": "3879",
+        "pitches": "3883",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "40.4",
         "ff%fourseam fastball %": "32.9",
@@ -13,11 +13,11 @@
         "sl%slider %": "20.7",
         "cu%curve %": "9.3",
         "max evmax exit velocity": "114.7",
-        "hhhard hit": "302",
-        "hh%hard hit %": "41.6",
+        "hhhard hit": "303",
+        "hh%hard hit %": "41.7",
         "brlbarrels": "69",
         "brl%barrel %": "9.5",
-        "ab": "904",
+        "ab": "905",
         "avg": ".242",
         "h": "219",
         "1b": "131",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "40",
         "so": "213",
-        "bipballs in play": "726",
+        "bipballs in play": "727",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-17 23:33:10.655272"
+        "updated": "2025-06-17 23:33:22.169344"
     },
     "phi @ mia": [
         {
@@ -13280,10 +13280,10 @@
             "team": "cle",
             "start": "9:45 PM",
             "in": "7",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "98.2",
+            "la": "8",
+            "dist": "152"
         },
         {
             "player": "daniel johnson",
@@ -14715,6 +14715,21 @@
     ],
     "sd @ lad": [
         {
+            "player": "shohei ohtani",
+            "game": "sd @ lad",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-06-17 23:33:13",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "10:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tommy edman",
             "game": "sd @ lad",
             "hr/park": "",
@@ -14724,7 +14739,7 @@
             "team": "lad",
             "start": "10:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "94.6",
             "la": "-3",
             "dist": "30"
