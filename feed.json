@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "31",
-        "batters": "182",
-        "pitches": "1397",
+        "batters": "183",
+        "pitches": "1402",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "70.5",
-        "ff%fourseam fastball %": "33.3",
-        "si%sinker %": "16.6",
+        "ff%fourseam fastball %": "33.2",
+        "si%sinker %": "16.7",
         "fc%cutter %": "4.9",
-        "fs%splitter %": "5.0",
+        "fs%splitter %": "5.1",
         "ch%changeup %": "10.7",
-        "sl%slider %": "20.6",
-        "cu%curve %": "8.9",
+        "sl%slider %": "20.5",
+        "cu%curve %": "8.8",
         "max evmax exit velocity": "112.1",
-        "hhhard hit": "114",
-        "hh%hard hit %": "43.5",
-        "brlbarrels": "27",
-        "brl%barrel %": "10.3",
+        "hhhard hit": "115",
+        "hh%hard hit %": "43.4",
+        "brlbarrels": "26",
+        "brl%barrel %": "9.8",
         "ab": "333",
         "avg": ".237",
         "h": "79",
@@ -25,12 +25,27 @@
         "3b": "2",
         "hr": "13",
         "so": "78",
-        "bipballs in play": "262",
+        "bipballs in play": "265",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-17 20:30:40.125134"
+        "updated": "2025-06-17 20:30:49.664598"
     },
     "phi @ mia": [
+        {
+            "player": "kyle schwarber",
+            "game": "phi @ mia",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-06-17 20:30:44",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "trea turner",
             "game": "phi @ mia",
@@ -2552,10 +2567,10 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "61.0",
+            "la": "40",
+            "dist": "184"
         },
         {
             "player": "dj lemahieu",
@@ -3144,21 +3159,6 @@
         }
     ],
     "ari @ tor": [
-        {
-            "player": "josh naylor",
-            "game": "ari @ tor",
-            "hr/park": "",
-            "pa": "41",
-            "dt": "2025-06-17 20:29:28",
-            "img": "https://www.mlbstatic.com/team-logos/109.svg",
-            "team": "ari",
-            "start": "7:07 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "102.6",
-            "la": "25",
-            "dist": "399"
-        },
         {
             "player": "geraldo perdomo",
             "game": "ari @ tor",
@@ -3771,10 +3771,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "95.7",
+            "la": "84",
+            "dist": "35"
         },
         {
             "player": "tyler stephenson",
@@ -4390,7 +4390,7 @@
             "team": "tb",
             "start": "7:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4782,10 +4782,10 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "91.1",
+            "la": "-15",
+            "dist": "11"
         },
         {
             "player": "lars nootbaar",
@@ -5150,6 +5150,21 @@
     ],
     "kc @ tex": [
         {
+            "player": "kyle isbel",
+            "game": "kc @ tex",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-06-17 20:30:44",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:05 PM",
+            "in": "2",
+            "result": "Lineout",
+            "evo": "103.1",
+            "la": "16",
+            "dist": "292"
+        },
+        {
             "player": "john rave",
             "game": "kc @ tex",
             "hr/park": "",
@@ -5159,7 +5174,7 @@
             "team": "kc",
             "start": "8:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "77.4",
             "la": "-20",
             "dist": "5"
