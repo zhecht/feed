@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "50",
         "batters": "204",
-        "pitches": "2166",
+        "pitches": "2167",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "37.2",
         "ff%fourseam fastball %": "32.5",
@@ -10,25 +10,25 @@
         "fc%cutter %": "6.7",
         "fs%splitter %": "4.5",
         "ch%changeup %": "10.5",
-        "sl%slider %": "19.1",
-        "cu%curve %": "9.9",
+        "sl%slider %": "19.2",
+        "cu%curve %": "9.8",
         "max evmax exit velocity": "114.7",
-        "hhhard hit": "181",
+        "hhhard hit": "182",
         "hh%hard hit %": "43.3",
         "brlbarrels": "39",
         "brl%barrel %": "9.3",
-        "ab": "515",
-        "avg": ".249",
+        "ab": "517",
+        "avg": ".248",
         "h": "128",
         "1b": "75",
         "2b": "28",
         "3b": "2",
         "hr": "23",
-        "so": "115",
-        "bipballs in play": "418",
+        "so": "114",
+        "bipballs in play": "420",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-17 21:13:13.096886"
+        "updated": "2025-06-17 21:13:23.338276"
     },
     "phi @ mia": [
         {
@@ -2181,6 +2181,36 @@
     ],
     "col @ wsh": [
         {
+            "player": "daylen lile",
+            "game": "col @ wsh",
+            "hr/park": "",
+            "pa": "74",
+            "dt": "2025-06-17 21:13:16",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "josh bell",
+            "game": "col @ wsh",
+            "hr/park": "0/30",
+            "pa": "73",
+            "dt": "2025-06-17 21:13:16",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "8",
+            "result": "Lineout",
+            "evo": "107.7",
+            "la": "14",
+            "dist": "313"
+        },
+        {
             "player": "brady house",
             "game": "col @ wsh",
             "hr/park": "",
@@ -2190,10 +2220,10 @@
             "team": "wsh",
             "start": "6:45 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "74.2",
+            "la": "-4",
+            "dist": "24"
         },
         {
             "player": "nathaniel lowe",
@@ -4129,7 +4159,7 @@
             "team": "ari",
             "start": "7:07 PM",
             "in": "7",
-            "result": "Strikeout",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
