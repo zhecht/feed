@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "21",
-        "batters": "141",
-        "pitches": "976",
+        "pitchers": "22",
+        "batters": "142",
+        "pitches": "983",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "70.5",
-        "ff%fourseam fastball %": "34.4",
-        "si%sinker %": "15.4",
+        "ff%fourseam fastball %": "34.7",
+        "si%sinker %": "15.3",
         "fc%cutter %": "4.3",
         "fs%splitter %": "5.3",
-        "ch%changeup %": "10.8",
+        "ch%changeup %": "10.7",
         "sl%slider %": "21.7",
         "cu%curve %": "8.1",
         "max evmax exit velocity": "112.1",
-        "hhhard hit": "80",
-        "hh%hard hit %": "43.2",
+        "hhhard hit": "81",
+        "hh%hard hit %": "43.5",
         "brlbarrels": "19",
-        "brl%barrel %": "10.3",
-        "ab": "237",
-        "avg": ".249",
+        "brl%barrel %": "10.2",
+        "ab": "238",
+        "avg": ".248",
         "h": "59",
         "1b": "36",
         "2b": "14",
         "3b": "1",
         "hr": "8",
         "so": "56",
-        "bipballs in play": "185",
+        "bipballs in play": "186",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-17 20:09:38.782317"
+        "updated": "2025-06-17 20:09:47.401799"
     },
     "phi @ mia": [
         {
@@ -3081,7 +3081,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3405,6 +3405,21 @@
     "nym @ atl": [],
     "bal @ tb": [
         {
+            "player": "adley rutschman",
+            "game": "bal @ tb",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-06-17 20:09:44",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:35 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jackson holliday",
             "game": "bal @ tb",
             "hr/park": "0/30",
@@ -3414,7 +3429,7 @@
             "team": "bal",
             "start": "7:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "97.6",
             "la": "35",
             "dist": "353"
@@ -3872,7 +3887,23 @@
             "dist": "209"
         }
     ],
-    "kc @ tex": [],
+    "kc @ tex": [
+        {
+            "player": "jonathan india",
+            "game": "kc @ tex",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-17 20:09:44",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "mil @ chc": [
         {
             "player": "jackson chourio",
@@ -3884,10 +3915,10 @@
             "team": "mil",
             "start": "8:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "96.3",
+            "la": "-10",
+            "dist": "12"
         },
         {
             "player": "sal frelick",
