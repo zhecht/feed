@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "64",
         "batters": "209",
-        "pitches": "2587",
+        "pitches": "2596",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "37.2",
         "ff%fourseam fastball %": "33.0",
@@ -10,25 +10,25 @@
         "fc%cutter %": "6.8",
         "fs%splitter %": "3.9",
         "ch%changeup %": "10.6",
-        "sl%slider %": "20.0",
+        "sl%slider %": "20.1",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "221",
         "hh%hard hit %": "43.8",
         "brlbarrels": "48",
         "brl%barrel %": "9.5",
-        "ab": "623",
+        "ab": "624",
         "avg": ".258",
         "h": "161",
         "1b": "97",
         "2b": "34",
         "3b": "2",
         "hr": "28",
-        "so": "138",
-        "bipballs in play": "504",
+        "so": "139",
+        "bipballs in play": "505",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-17 21:39:12.809748"
+        "updated": "2025-06-17 21:39:22.766512"
     },
     "phi @ mia": [
         {
@@ -3452,7 +3452,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5541,7 +5541,7 @@
             "team": "min",
             "start": "7:10 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6433,6 +6433,21 @@
         }
     ],
     "nym @ atl": [
+        {
+            "player": "marcell ozuna",
+            "game": "nym @ atl",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-06-17 21:39:16",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ronny mauricio",
             "game": "nym @ atl",
@@ -9647,9 +9662,9 @@
             "start": "8:05 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "68.1",
+            "la": "23",
+            "dist": "213"
         },
         {
             "player": "caleb durbin",
