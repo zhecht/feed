@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "130",
-        "batters": "303",
-        "pitches": "4304",
+        "batters": "304",
+        "pitches": "4307",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "40.4",
         "ff%fourseam fastball %": "32.9",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.1",
         "cu%curve %": "8.8",
         "max evmax exit velocity": "114.7",
-        "hhhard hit": "333",
+        "hhhard hit": "334",
         "hh%hard hit %": "41.2",
-        "brlbarrels": "73",
-        "brl%barrel %": "9.0",
-        "ab": "999",
-        "avg": ".245",
-        "h": "245",
-        "1b": "149",
-        "2b": "50",
+        "brlbarrels": "74",
+        "brl%barrel %": "9.1",
+        "ab": "1001",
+        "avg": ".248",
+        "h": "248",
+        "1b": "151",
+        "2b": "51",
         "3b": "3",
         "hr": "43",
-        "so": "230",
-        "bipballs in play": "808",
+        "so": "231",
+        "bipballs in play": "810",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-06-18 00:53:16.754639"
+        "updated": "2025-06-18 00:53:30.048463"
     },
     "phi @ mia": [
         {
@@ -14668,11 +14668,11 @@
     ],
     "hou @ ath": [
         {
-            "player": "gio urshela",
+            "player": "austin wynns",
             "game": "hou @ ath",
             "hr/park": "",
-            "pa": "84",
-            "dt": "2025-06-18 00:52:15",
+            "pa": "85",
+            "dt": "2025-06-18 00:53:30",
             "img": "https://www.mlbstatic.com/team-logos/133.svg",
             "team": "ath",
             "start": "",
@@ -14681,6 +14681,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "gio urshela",
+            "game": "hou @ ath",
+            "hr/park": "11/30",
+            "pa": "84",
+            "dt": "2025-06-18 00:52:15",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "",
+            "in": "9",
+            "result": "Double",
+            "evo": "102.1",
+            "la": "24",
+            "dist": "405"
         },
         {
             "player": "nick kurtz",
@@ -15930,6 +15945,21 @@
     ],
     "sd @ lad": [
         {
+            "player": "bryce johnson",
+            "game": "sd @ lad",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-06-18 00:53:30",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "",
+            "in": "8",
+            "result": "Single",
+            "evo": "70.4",
+            "la": "31",
+            "dist": "219"
+        },
+        {
             "player": "tyler wade",
             "game": "sd @ lad",
             "hr/park": "",
@@ -15939,7 +15969,7 @@
             "team": "sd",
             "start": "",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -16059,7 +16089,7 @@
             "team": "sd",
             "start": "",
             "in": "7",
-            "result": "Fielders Choice",
+            "result": "Single",
             "evo": "95.7",
             "la": "-1",
             "dist": "49"
