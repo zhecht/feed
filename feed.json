@@ -2,25 +2,25 @@
     "all": {
         "pitchers": "43",
         "batters": "203",
-        "pitches": "2016",
+        "pitches": "2018",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "37.2",
-        "ff%fourseam fastball %": "33.0",
+        "ff%fourseam fastball %": "32.9",
         "si%sinker %": "16.8",
         "fc%cutter %": "6.3",
-        "fs%splitter %": "4.6",
+        "fs%splitter %": "4.7",
         "ch%changeup %": "10.7",
         "sl%slider %": "19.0",
-        "cu%curve %": "9.5",
+        "cu%curve %": "9.6",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "167",
         "hh%hard hit %": "43.9",
         "brlbarrels": "37",
         "brl%barrel %": "9.7",
-        "ab": "473",
-        "avg": ".245",
-        "h": "116",
-        "1b": "69",
+        "ab": "472",
+        "avg": ".248",
+        "h": "117",
+        "1b": "70",
         "2b": "26",
         "3b": "2",
         "hr": "19",
@@ -28,7 +28,7 @@
         "bipballs in play": "380",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-17 21:03:10.237156"
+        "updated": "2025-06-17 21:03:20.161308"
     },
     "phi @ mia": [
         {
@@ -4791,7 +4791,7 @@
             "team": "min",
             "start": "7:10 PM",
             "in": "6",
-            "result": "Groundout",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5890,10 +5890,10 @@
             "team": "bal",
             "start": "7:35 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "81.3",
+            "la": "-11",
+            "dist": "10"
         },
         {
             "player": "jordan westburg",
@@ -6570,7 +6570,7 @@
             "result": "Flyout",
             "evo": "96.6",
             "la": "40",
-            "dist": "353"
+            "dist": "340"
         },
         {
             "player": "mike tauchman",
@@ -7117,7 +7117,7 @@
         {
             "player": "salvador perez",
             "game": "kc @ tex",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "25",
             "dt": "2025-06-17 20:58:59",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
@@ -7501,7 +7501,7 @@
             "team": "mil",
             "start": "8:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
