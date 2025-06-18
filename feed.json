@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "34",
         "batters": "197",
-        "pitches": "1629",
+        "pitches": "1637",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "69.9",
-        "ff%fourseam fastball %": "33.9",
+        "ff%fourseam fastball %": "34.0",
         "si%sinker %": "16.3",
-        "fc%cutter %": "5.8",
+        "fc%cutter %": "5.7",
         "fs%splitter %": "4.7",
-        "ch%changeup %": "10.6",
-        "sl%slider %": "19.4",
+        "ch%changeup %": "10.5",
+        "sl%slider %": "19.5",
         "cu%curve %": "9.2",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "132",
-        "hh%hard hit %": "43.0",
+        "hh%hard hit %": "42.9",
         "brlbarrels": "32",
         "brl%barrel %": "10.4",
-        "ab": "385",
-        "avg": ".252",
+        "ab": "386",
+        "avg": ".251",
         "h": "97",
         "1b": "56",
         "2b": "23",
         "3b": "2",
         "hr": "16",
         "so": "91",
-        "bipballs in play": "307",
+        "bipballs in play": "308",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-17 20:42:51.952586"
+        "updated": "2025-06-17 20:43:01.602819"
     },
     "phi @ mia": [
         {
@@ -3460,6 +3460,21 @@
     ],
     "ari @ tor": [
         {
+            "player": "vladimir guerrero",
+            "game": "ari @ tor",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-06-17 20:42:58",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "addison barger",
             "game": "ari @ tor",
             "hr/park": "",
@@ -3469,10 +3484,10 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "68.7",
+            "la": "-3",
+            "dist": "30"
         },
         {
             "player": "lourdes gurriel",
@@ -4649,21 +4664,6 @@
     ],
     "nym @ atl": [
         {
-            "player": "juan soto",
-            "game": "nym @ atl",
-            "hr/park": "",
-            "pa": "19",
-            "dt": "2025-06-17 20:42:45",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "7:15 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "brandon nimmo",
             "game": "nym @ atl",
             "hr/park": "",
@@ -5388,6 +5388,21 @@
     ],
     "stl @ chw": [
         {
+            "player": "masyn winn",
+            "game": "stl @ chw",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-06-17 20:41:59",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brendan donovan",
             "game": "stl @ chw",
             "hr/park": "2/30",
@@ -5864,7 +5879,7 @@
             "team": "kc",
             "start": "8:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
