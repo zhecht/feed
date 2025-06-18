@@ -2,16 +2,16 @@
     "all": {
         "pitchers": "32",
         "batters": "185",
-        "pitches": "1432",
+        "pitches": "1441",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "70.5",
         "ff%fourseam fastball %": "33.2",
         "si%sinker %": "16.6",
-        "fc%cutter %": "5.1",
+        "fc%cutter %": "5.2",
         "fs%splitter %": "5.0",
-        "ch%changeup %": "10.7",
-        "sl%slider %": "20.5",
-        "cu%curve %": "8.9",
+        "ch%changeup %": "10.6",
+        "sl%slider %": "20.3",
+        "cu%curve %": "9.0",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "118",
         "hh%hard hit %": "43.9",
@@ -24,11 +24,11 @@
         "2b": "19",
         "3b": "2",
         "hr": "13",
-        "so": "80",
+        "so": "79",
         "bipballs in play": "269",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-17 20:32:39.089919"
+        "updated": "2025-06-17 20:32:47.936782"
     },
     "phi @ mia": [
         {
@@ -994,21 +994,6 @@
     ],
     "pit @ det": [
         {
-            "player": "gleyber torres",
-            "game": "pit @ det",
-            "hr/park": "",
-            "pa": "54",
-            "dt": "2025-06-17 20:31:44",
-            "img": "https://www.mlbstatic.com/team-logos/116.svg",
-            "team": "det",
-            "start": "6:40 PM",
-            "in": "7",
-            "result": "Strikeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "parker meadows",
             "game": "pit @ det",
             "hr/park": "",
@@ -1806,6 +1791,21 @@
     ],
     "col @ wsh": [
         {
+            "player": "tyler freeman",
+            "game": "col @ wsh",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-06-17 20:32:43",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "6:45 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mickey moniak",
             "game": "col @ wsh",
             "hr/park": "",
@@ -1815,7 +1815,7 @@
             "team": "col",
             "start": "6:45 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4486,6 +4486,21 @@
     ],
     "bal @ tb": [
         {
+            "player": "junior caminero",
+            "game": "bal @ tb",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-06-17 20:31:59",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:35 PM",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jonathan aranda",
             "game": "bal @ tb",
             "hr/park": "0/30",
@@ -4495,7 +4510,7 @@
             "team": "tb",
             "start": "7:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "102.5",
             "la": "41",
             "dist": "349"
