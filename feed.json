@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "24",
         "batters": "149",
-        "pitches": "1065",
+        "pitches": "1068",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "70.5",
-        "ff%fourseam fastball %": "35.1",
-        "si%sinker %": "15.5",
+        "ff%fourseam fastball %": "34.9",
+        "si%sinker %": "15.4",
         "fc%cutter %": "3.9",
         "fs%splitter %": "5.1",
-        "ch%changeup %": "10.8",
-        "sl%slider %": "21.1",
+        "ch%changeup %": "10.9",
+        "sl%slider %": "21.3",
         "cu%curve %": "8.5",
         "max evmax exit velocity": "112.1",
         "hhhard hit": "85",
-        "hh%hard hit %": "42.1",
+        "hh%hard hit %": "41.7",
         "brlbarrels": "19",
-        "brl%barrel %": "9.4",
+        "brl%barrel %": "9.3",
         "ab": "259",
-        "avg": ".255",
-        "h": "66",
-        "1b": "41",
+        "avg": ".251",
+        "h": "65",
+        "1b": "40",
         "2b": "16",
         "3b": "1",
         "hr": "8",
         "so": "61",
-        "bipballs in play": "202",
+        "bipballs in play": "204",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-17 20:14:27.614925"
+        "updated": "2025-06-17 20:14:36.317413"
     },
     "phi @ mia": [
         {
@@ -874,6 +874,21 @@
     ],
     "pit @ det": [
         {
+            "player": "spencer torkelson",
+            "game": "pit @ det",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-06-17 20:14:30",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "88.2",
+            "la": "31",
+            "dist": "298"
+        },
+        {
             "player": "riley greene",
             "game": "pit @ det",
             "hr/park": "",
@@ -1545,10 +1560,10 @@
             "team": "col",
             "start": "6:45 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "85.5",
+            "la": "46",
+            "dist": "270"
         },
         {
             "player": "thairo estrada",
@@ -2222,10 +2237,10 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "94.3",
+            "la": "8",
+            "dist": "169"
         },
         {
             "player": "giancarlo stanton",
@@ -2704,7 +2719,7 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3897,10 +3912,10 @@
             "team": "stl",
             "start": "7:40 PM",
             "in": "2",
-            "result": "Single",
-            "evo": "56.1",
-            "la": "39",
-            "dist": "160"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "masyn winn",
