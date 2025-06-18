@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "75",
         "batters": "216",
-        "pitches": "2772",
+        "pitches": "2783",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "37.2",
         "ff%fourseam fastball %": "33.1",
-        "si%sinker %": "15.3",
+        "si%sinker %": "15.2",
         "fc%cutter %": "7.0",
         "fs%splitter %": "3.7",
-        "ch%changeup %": "10.5",
+        "ch%changeup %": "10.6",
         "sl%slider %": "19.8",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "225",
-        "hh%hard hit %": "42.5",
+        "hh%hard hit %": "42.4",
         "brlbarrels": "49",
         "brl%barrel %": "9.2",
-        "ab": "663",
-        "avg": ".249",
+        "ab": "665",
+        "avg": ".248",
         "h": "165",
         "1b": "101",
         "2b": "34",
         "3b": "2",
         "hr": "28",
         "so": "154",
-        "bipballs in play": "530",
+        "bipballs in play": "531",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-17 21:51:43.045496"
+        "updated": "2025-06-17 21:51:53.500416"
     },
     "phi @ mia": [
         {
@@ -5637,21 +5637,6 @@
     ],
     "min @ cin": [
         {
-            "player": "ty france",
-            "game": "min @ cin",
-            "hr/park": "",
-            "pa": "67",
-            "dt": "2025-06-17 21:50:58",
-            "img": "https://www.mlbstatic.com/team-logos/142.svg",
-            "team": "min",
-            "start": "7:10 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "carlos correa",
             "game": "min @ cin",
             "hr/park": "",
@@ -6644,6 +6629,21 @@
     ],
     "nym @ atl": [
         {
+            "player": "brandon nimmo",
+            "game": "nym @ atl",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-06-17 21:51:46",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:15 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "francisco lindor",
             "game": "nym @ atl",
             "hr/park": "",
@@ -6653,7 +6653,7 @@
             "team": "nym",
             "start": "7:15 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "80.1",
             "la": "-21",
             "dist": "4"
@@ -7465,7 +7465,7 @@
             "team": "bal",
             "start": "7:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8402,6 +8402,21 @@
         }
     ],
     "stl @ chw": [
+        {
+            "player": "willson contreras",
+            "game": "stl @ chw",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-06-17 21:51:46",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ivan herrera",
             "game": "stl @ chw",
@@ -10162,11 +10177,11 @@
     ],
     "mil @ chc": [
         {
-            "player": "nico hoerner",
+            "player": "matt shaw",
             "game": "mil @ chc",
             "hr/park": "",
-            "pa": "54",
-            "dt": "2025-06-17 21:50:44",
+            "pa": "55",
+            "dt": "2025-06-17 21:51:46",
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
             "team": "chc",
             "start": "8:05 PM",
@@ -10175,6 +10190,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "nico hoerner",
+            "game": "mil @ chc",
+            "hr/park": "2/30",
+            "pa": "54",
+            "dt": "2025-06-17 21:50:44",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "8:05 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "92.1",
+            "la": "32",
+            "dist": "337"
         },
         {
             "player": "carson kelly",
