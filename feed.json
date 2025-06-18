@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "30",
         "batters": "175",
-        "pitches": "1314",
+        "pitches": "1321",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "70.5",
-        "ff%fourseam fastball %": "33.9",
+        "ff%fourseam fastball %": "34.1",
         "si%sinker %": "16.5",
-        "fc%cutter %": "4.6",
+        "fc%cutter %": "4.7",
         "fs%splitter %": "5.0",
-        "ch%changeup %": "10.6",
-        "sl%slider %": "20.8",
-        "cu%curve %": "8.5",
+        "ch%changeup %": "10.5",
+        "sl%slider %": "20.7",
+        "cu%curve %": "8.6",
         "max evmax exit velocity": "112.1",
         "hhhard hit": "107",
-        "hh%hard hit %": "43.7",
+        "hh%hard hit %": "43.0",
         "brlbarrels": "25",
-        "brl%barrel %": "10.2",
-        "ab": "313",
-        "avg": ".236",
-        "h": "74",
-        "1b": "43",
+        "brl%barrel %": "10.0",
+        "ab": "315",
+        "avg": ".238",
+        "h": "75",
+        "1b": "44",
         "2b": "17",
         "3b": "2",
         "hr": "12",
         "so": "74",
-        "bipballs in play": "245",
+        "bipballs in play": "249",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-17 20:26:20.432145"
+        "updated": "2025-06-17 20:26:29.426144"
     },
     "phi @ mia": [
         {
@@ -1718,17 +1718,17 @@
         {
             "player": "josh bell",
             "game": "col @ wsh",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "51",
             "dt": "2025-06-17 20:24:44",
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
             "team": "wsh",
             "start": "6:45 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "93.3",
+            "la": "29",
+            "dist": "345"
         },
         {
             "player": "brady house",
@@ -3040,6 +3040,21 @@
     ],
     "ari @ tor": [
         {
+            "player": "ketel marte",
+            "game": "ari @ tor",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-06-17 20:26:29",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:07 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "corbin carroll",
             "game": "ari @ tor",
             "hr/park": "",
@@ -3049,7 +3064,7 @@
             "team": "ari",
             "start": "7:07 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4563,6 +4578,36 @@
     ],
     "stl @ chw": [
         {
+            "player": "lars nootbaar",
+            "game": "stl @ chw",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-06-17 20:26:29",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "nolan arenado",
+            "game": "stl @ chw",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-06-17 20:25:58",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "64.9",
+            "la": "36",
+            "dist": "209"
+        },
+        {
             "player": "alec burleson",
             "game": "stl @ chw",
             "hr/park": "",
@@ -4572,10 +4617,10 @@
             "team": "stl",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "92.7",
+            "la": "59",
+            "dist": "250"
         },
         {
             "player": "michael a taylor",
@@ -4897,7 +4942,7 @@
         {
             "player": "corey seager",
             "game": "kc @ tex",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "9",
             "dt": "2025-06-17 20:25:43",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
@@ -5041,10 +5086,10 @@
             "team": "mil",
             "start": "8:05 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "91.5",
+            "la": "1",
+            "dist": "50"
         },
         {
             "player": "isaac collins",
