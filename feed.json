@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "19",
-        "batters": "128",
-        "pitches": "866",
+        "batters": "129",
+        "pitches": "868",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "70.5",
-        "ff%fourseam fastball %": "33.4",
-        "si%sinker %": "16.1",
+        "ff%fourseam fastball %": "33.5",
+        "si%sinker %": "16.0",
         "fc%cutter %": "4.4",
         "fs%splitter %": "5.3",
-        "ch%changeup %": "10.7",
-        "sl%slider %": "22.9",
-        "cu%curve %": "7.3",
+        "ch%changeup %": "10.5",
+        "sl%slider %": "22.8",
+        "cu%curve %": "7.5",
         "max evmax exit velocity": "112.1",
         "hhhard hit": "72",
-        "hh%hard hit %": "44.7",
+        "hh%hard hit %": "45.0",
         "brlbarrels": "17",
         "brl%barrel %": "10.6",
         "ab": "212",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "8",
         "so": "52",
-        "bipballs in play": "161",
+        "bipballs in play": "160",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-17 20:02:11.348583"
+        "updated": "2025-06-17 20:02:19.770243"
     },
     "phi @ mia": [
         {
@@ -41,7 +41,7 @@
             "team": "mia",
             "start": "6:10 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1401,6 +1401,21 @@
     ],
     "col @ wsh": [
         {
+            "player": "cj abrams",
+            "game": "col @ wsh",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-06-17 20:01:14",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jacob young",
             "game": "col @ wsh",
             "hr/park": "",
@@ -1410,7 +1425,7 @@
             "team": "wsh",
             "start": "6:45 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "39.0",
             "la": "-68",
             "dist": "2"
@@ -1987,36 +2002,6 @@
         }
     ],
     "laa @ nyy": [
-        {
-            "player": "cody bellinger",
-            "game": "laa @ nyy",
-            "hr/park": "",
-            "pa": "27",
-            "dt": "2025-06-17 20:01:58",
-            "img": "https://www.mlbstatic.com/team-logos/147.svg",
-            "team": "nyy",
-            "start": "7:05 PM",
-            "in": "3",
-            "result": "Stolen Base 2B",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
-            "player": "aaron judge",
-            "game": "laa @ nyy",
-            "hr/park": "",
-            "pa": "26",
-            "dt": "2025-06-17 20:00:58",
-            "img": "https://www.mlbstatic.com/team-logos/147.svg",
-            "team": "nyy",
-            "start": "7:05 PM",
-            "in": "3",
-            "result": "Pop Out",
-            "evo": "80.3",
-            "la": "75",
-            "dist": "86"
-        },
         {
             "player": "jasson dominguez",
             "game": "laa @ nyy",
@@ -3301,6 +3286,21 @@
         }
     ],
     "stl @ chw": [
+        {
+            "player": "nolan arenado",
+            "game": "stl @ chw",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-06-17 20:02:14",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "luis robert",
             "game": "stl @ chw",
