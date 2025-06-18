@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "71",
-        "batters": "212",
-        "pitches": "2689",
+        "pitchers": "72",
+        "batters": "213",
+        "pitches": "2693",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "37.2",
         "ff%fourseam fastball %": "32.5",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.1",
         "fs%splitter %": "3.8",
         "ch%changeup %": "10.7",
-        "sl%slider %": "19.8",
-        "cu%curve %": "10.3",
+        "sl%slider %": "19.9",
+        "cu%curve %": "10.2",
         "max evmax exit velocity": "114.7",
-        "hhhard hit": "223",
-        "hh%hard hit %": "42.8",
+        "hhhard hit": "225",
+        "hh%hard hit %": "42.9",
         "brlbarrels": "49",
         "brl%barrel %": "9.4",
-        "ab": "644",
-        "avg": ".253",
+        "ab": "646",
+        "avg": ".252",
         "h": "163",
         "1b": "99",
         "2b": "34",
         "3b": "2",
         "hr": "28",
         "so": "143",
-        "bipballs in play": "521",
+        "bipballs in play": "524",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-17 21:46:57.565626"
+        "updated": "2025-06-17 21:47:07.680771"
     },
     "phi @ mia": [
         {
@@ -5592,6 +5592,21 @@
     ],
     "min @ cin": [
         {
+            "player": "jake fraley",
+            "game": "min @ cin",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-06-17 21:47:00",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "Lineout",
+            "evo": "105.1",
+            "la": "9",
+            "dist": "155"
+        },
+        {
             "player": "spencer steer",
             "game": "min @ cin",
             "hr/park": "",
@@ -5601,10 +5616,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "98.5",
+            "la": "-9",
+            "dist": "15"
         },
         {
             "player": "will benson",
@@ -10764,7 +10779,23 @@
             "dist": "382"
         }
     ],
-    "cle @ sf": [],
+    "cle @ sf": [
+        {
+            "player": "steven kwan",
+            "game": "cle @ sf",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-17 21:47:00",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "9:45 PM",
+            "in": "1",
+            "result": "Flyout",
+            "evo": "88.8",
+            "la": "46",
+            "dist": "280"
+        }
+    ],
     "hou @ ath": [],
     "sd @ lad": []
 }
