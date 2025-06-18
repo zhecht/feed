@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "50",
         "batters": "204",
-        "pitches": "2187",
+        "pitches": "2192",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "37.2",
         "ff%fourseam fastball %": "32.6",
         "si%sinker %": "16.5",
         "fc%cutter %": "6.8",
-        "fs%splitter %": "4.4",
+        "fs%splitter %": "4.5",
         "ch%changeup %": "10.5",
         "sl%slider %": "19.2",
-        "cu%curve %": "9.9",
+        "cu%curve %": "9.8",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "183",
-        "hh%hard hit %": "43.2",
+        "hh%hard hit %": "43.1",
         "brlbarrels": "39",
         "brl%barrel %": "9.2",
-        "ab": "521",
-        "avg": ".248",
+        "ab": "523",
+        "avg": ".247",
         "h": "129",
         "1b": "76",
         "2b": "28",
         "3b": "2",
         "hr": "23",
         "so": "115",
-        "bipballs in play": "424",
+        "bipballs in play": "425",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-17 21:14:25.709814"
+        "updated": "2025-06-17 21:14:35.517636"
     },
     "phi @ mia": [
         {
@@ -4174,7 +4174,7 @@
             "team": "ari",
             "start": "7:07 PM",
             "in": "7",
-            "result": "Strikeout",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5773,6 +5773,21 @@
         }
     ],
     "nym @ atl": [
+        {
+            "player": "brandon nimmo",
+            "game": "nym @ atl",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-06-17 21:14:28",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:15 PM",
+            "in": "5",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "francisco lindor",
             "game": "nym @ atl",
@@ -7670,6 +7685,21 @@
     ],
     "kc @ tex": [
         {
+            "player": "jonathan india",
+            "game": "kc @ tex",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-06-17 21:14:28",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle isbel",
             "game": "kc @ tex",
             "hr/park": "",
@@ -7679,10 +7709,10 @@
             "team": "kc",
             "start": "8:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "82.9",
+            "la": "-17",
+            "dist": "10"
         },
         {
             "player": "jake burger",
