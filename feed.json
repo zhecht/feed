@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "22",
-        "batters": "144",
-        "pitches": "1014",
+        "pitchers": "23",
+        "batters": "145",
+        "pitches": "1022",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "70.5",
-        "ff%fourseam fastball %": "34.9",
-        "si%sinker %": "15.3",
+        "ff%fourseam fastball %": "34.8",
+        "si%sinker %": "15.4",
         "fc%cutter %": "4.1",
         "fs%splitter %": "5.2",
-        "ch%changeup %": "10.6",
-        "sl%slider %": "21.6",
+        "ch%changeup %": "10.7",
+        "sl%slider %": "21.5",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "112.1",
-        "hhhard hit": "82",
-        "hh%hard hit %": "42.5",
+        "hhhard hit": "83",
+        "hh%hard hit %": "42.6",
         "brlbarrels": "19",
-        "brl%barrel %": "9.8",
-        "ab": "245",
-        "avg": ".245",
-        "h": "60",
-        "1b": "36",
+        "brl%barrel %": "9.7",
+        "ab": "248",
+        "avg": ".246",
+        "h": "61",
+        "1b": "37",
         "2b": "15",
         "3b": "1",
         "hr": "8",
-        "so": "57",
-        "bipballs in play": "193",
+        "so": "58",
+        "bipballs in play": "195",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-17 20:11:57.182940"
+        "updated": "2025-06-17 20:12:05.807710"
     },
     "phi @ mia": [
+        {
+            "player": "johan rojas",
+            "game": "phi @ mia",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-06-17 20:12:00",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brandon marsh",
             "game": "phi @ mia",
@@ -41,7 +56,7 @@
             "team": "phi",
             "start": "6:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "79.2",
             "la": "-8",
             "dist": "11"
@@ -2177,10 +2192,10 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "95.6",
+            "la": "-2",
+            "dist": "37"
         },
         {
             "player": "christian moore",
@@ -2635,6 +2650,21 @@
     ],
     "ari @ tor": [
         {
+            "player": "will robertson",
+            "game": "ari @ tor",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-06-17 20:12:00",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ernie clement",
             "game": "ari @ tor",
             "hr/park": "",
@@ -2644,7 +2674,7 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3477,7 +3507,23 @@
             "dist": "143"
         }
     ],
-    "nym @ atl": [],
+    "nym @ atl": [
+        {
+            "player": "francisco lindor",
+            "game": "nym @ atl",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-17 20:12:00",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "bal @ tb": [
         {
             "player": "adley rutschman",
