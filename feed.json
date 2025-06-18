@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "36",
         "batters": "198",
-        "pitches": "1738",
+        "pitches": "1742",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "37.2",
-        "ff%fourseam fastball %": "34.3",
-        "si%sinker %": "16.1",
+        "ff%fourseam fastball %": "34.4",
+        "si%sinker %": "16.0",
         "fc%cutter %": "5.9",
         "fs%splitter %": "4.7",
         "ch%changeup %": "10.8",
-        "sl%slider %": "19.2",
+        "sl%slider %": "19.1",
         "cu%curve %": "9.0",
         "max evmax exit velocity": "114.7",
-        "hhhard hit": "142",
-        "hh%hard hit %": "43.8",
-        "brlbarrels": "33",
-        "brl%barrel %": "10.2",
+        "hhhard hit": "143",
+        "hh%hard hit %": "44.1",
+        "brlbarrels": "34",
+        "brl%barrel %": "10.5",
         "ab": "407",
         "avg": ".248",
         "h": "101",
-        "1b": "58",
+        "1b": "57",
         "2b": "24",
         "3b": "2",
-        "hr": "17",
-        "so": "97",
+        "hr": "18",
+        "so": "96",
         "bipballs in play": "324",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-17 20:47:37.543300"
+        "updated": "2025-06-17 20:47:47.154699"
     },
     "phi @ mia": [
         {
@@ -2018,17 +2018,17 @@
         {
             "player": "sam hilliard",
             "game": "col @ wsh",
-            "hr/park": "",
+            "hr/park": "30/30",
             "pa": "60",
             "dt": "2025-06-17 20:46:29",
             "img": "https://www.mlbstatic.com/team-logos/115.svg",
             "team": "col",
             "start": "6:45 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "110.3",
+            "la": "34",
+            "dist": "434"
         },
         {
             "player": "michael toglia",
@@ -4317,6 +4317,21 @@
     ],
     "min @ cin": [
         {
+            "player": "harrison bader",
+            "game": "min @ cin",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-06-17 20:46:43",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tj friedl",
             "game": "min @ cin",
             "hr/park": "",
@@ -4853,7 +4868,7 @@
             "team": "nym",
             "start": "7:15 PM",
             "in": "3",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "105.9",
             "la": "13",
             "dist": "233"
@@ -5627,21 +5642,6 @@
         }
     ],
     "stl @ chw": [
-        {
-            "player": "luis robert",
-            "game": "stl @ chw",
-            "hr/park": "",
-            "pa": "34",
-            "dt": "2025-06-17 20:47:31",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "start": "7:40 PM",
-            "in": "4",
-            "result": "Pop Out",
-            "evo": "94.0",
-            "la": "60",
-            "dist": "190"
-        },
         {
             "player": "edgar quero",
             "game": "stl @ chw",
@@ -6436,7 +6436,7 @@
             "team": "mil",
             "start": "8:05 PM",
             "in": "3",
-            "result": "Strikeout",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
