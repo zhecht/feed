@@ -1,16 +1,16 @@
 {
     "all": {
         "pitchers": "27",
-        "batters": "158",
-        "pitches": "1149",
+        "batters": "159",
+        "pitches": "1151",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "70.5",
-        "ff%fourseam fastball %": "34.6",
-        "si%sinker %": "15.4",
-        "fc%cutter %": "4.3",
+        "ff%fourseam fastball %": "34.9",
+        "si%sinker %": "15.3",
+        "fc%cutter %": "4.2",
         "fs%splitter %": "5.2",
         "ch%changeup %": "10.5",
-        "sl%slider %": "21.6",
+        "sl%slider %": "21.5",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "112.1",
         "hhhard hit": "95",
@@ -24,13 +24,28 @@
         "2b": "17",
         "3b": "2",
         "hr": "9",
-        "so": "65",
+        "so": "64",
         "bipballs in play": "220",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-17 20:18:42.994259"
+        "updated": "2025-06-17 20:18:51.518688"
     },
     "phi @ mia": [
+        {
+            "player": "jesus sanchez",
+            "game": "phi @ mia",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-06-17 20:18:46",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "otto lopez",
             "game": "phi @ mia",
@@ -2800,21 +2815,6 @@
     ],
     "ari @ tor": [
         {
-            "player": "bo bichette",
-            "game": "ari @ tor",
-            "hr/park": "",
-            "pa": "36",
-            "dt": "2025-06-17 20:18:28",
-            "img": "https://www.mlbstatic.com/team-logos/141.svg",
-            "team": "tor",
-            "start": "7:07 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jonatan clase",
             "game": "ari @ tor",
             "hr/park": "",
@@ -3351,7 +3351,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3828,7 +3828,7 @@
         {
             "player": "josh lowe",
             "game": "bal @ tb",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "21",
             "dt": "2025-06-17 20:16:59",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
@@ -4501,7 +4501,7 @@
             "team": "chc",
             "start": "8:05 PM",
             "in": "1",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
