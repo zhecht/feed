@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "32",
         "batters": "187",
-        "pitches": "1459",
+        "pitches": "1471",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "70.5",
-        "ff%fourseam fastball %": "33.4",
+        "ff%fourseam fastball %": "33.3",
         "si%sinker %": "16.5",
         "fc%cutter %": "5.2",
         "fs%splitter %": "5.0",
@@ -13,22 +13,22 @@
         "sl%slider %": "20.3",
         "cu%curve %": "9.1",
         "max evmax exit velocity": "114.7",
-        "hhhard hit": "119",
-        "hh%hard hit %": "43.6",
+        "hhhard hit": "120",
+        "hh%hard hit %": "43.2",
         "brlbarrels": "28",
-        "brl%barrel %": "10.3",
+        "brl%barrel %": "10.1",
         "ab": "347",
-        "avg": ".239",
-        "h": "83",
-        "1b": "47",
+        "avg": ".242",
+        "h": "84",
+        "1b": "48",
         "2b": "21",
         "3b": "2",
         "hr": "13",
         "so": "81",
-        "bipballs in play": "273",
+        "bipballs in play": "278",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-17 20:33:52.880073"
+        "updated": "2025-06-17 20:34:01.789371"
     },
     "phi @ mia": [
         {
@@ -41,7 +41,7 @@
             "team": "phi",
             "start": "6:10 PM",
             "in": "8",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "74.4",
             "la": "-40",
             "dist": "4"
@@ -1003,7 +1003,7 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1830,7 +1830,7 @@
             "team": "col",
             "start": "6:45 PM",
             "in": "7",
-            "result": "Stolen Base 2B",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2633,6 +2633,21 @@
     ],
     "laa @ nyy": [
         {
+            "player": "jorge soler",
+            "game": "laa @ nyy",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-06-17 20:33:58",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "taylor ward",
             "game": "laa @ nyy",
             "hr/park": "",
@@ -2642,10 +2657,10 @@
             "team": "laa",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "91.0",
+            "la": "47",
+            "dist": "255"
         },
         {
             "player": "jasson dominguez",
@@ -4953,6 +4968,21 @@
     ],
     "stl @ chw": [
         {
+            "player": "austin slater",
+            "game": "stl @ chw",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-06-17 20:33:29",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "Single",
+            "evo": "106.3",
+            "la": "1",
+            "dist": "59"
+        },
+        {
             "player": "chase meidroth",
             "game": "stl @ chw",
             "hr/park": "",
@@ -5355,9 +5385,9 @@
             "start": "8:05 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "87.1",
+            "la": "5",
+            "dist": "90"
         },
         {
             "player": "kyle isbel",
