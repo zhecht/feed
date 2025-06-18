@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "89",
-        "batters": "242",
-        "pitches": "3108",
+        "pitchers": "91",
+        "batters": "243",
+        "pitches": "3117",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "37.2",
         "ff%fourseam fastball %": "33.1",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.4",
         "fs%splitter %": "4.0",
         "ch%changeup %": "10.2",
-        "sl%slider %": "19.9",
-        "cu%curve %": "10.0",
+        "sl%slider %": "20.1",
+        "cu%curve %": "9.9",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "248",
-        "hh%hard hit %": "42.5",
+        "hh%hard hit %": "42.4",
         "brlbarrels": "54",
         "brl%barrel %": "9.2",
-        "ab": "732",
-        "avg": ".246",
+        "ab": "734",
+        "avg": ".245",
         "h": "180",
         "1b": "112",
         "2b": "35",
         "3b": "2",
         "hr": "31",
-        "so": "172",
-        "bipballs in play": "584",
+        "so": "173",
+        "bipballs in play": "585",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-17 22:11:50.907168"
+        "updated": "2025-06-17 22:12:02.364965"
     },
     "phi @ mia": [
         {
@@ -8853,6 +8853,21 @@
     ],
     "stl @ chw": [
         {
+            "player": "miguel vargas",
+            "game": "stl @ chw",
+            "hr/park": "",
+            "pa": "77",
+            "dt": "2025-06-17 22:11:58",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "85.6",
+            "la": "6",
+            "dist": "105"
+        },
+        {
             "player": "masyn winn",
             "game": "stl @ chw",
             "hr/park": "",
@@ -10004,7 +10019,7 @@
             "team": "kc",
             "start": "8:05 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "89.3",
             "la": "13",
             "dist": "162"
@@ -12080,7 +12095,7 @@
             "team": "sf",
             "start": "9:45 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12298,5 +12313,21 @@
             "dist": ""
         }
     ],
-    "sd @ lad": []
+    "sd @ lad": [
+        {
+            "player": "fernando tatis",
+            "game": "sd @ lad",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-17 22:11:58",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "10:10 PM",
+            "in": "1",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ]
 }
