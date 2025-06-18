@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "67",
         "batters": "209",
-        "pitches": "2651",
+        "pitches": "2656",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "37.2",
-        "ff%fourseam fastball %": "32.6",
-        "si%sinker %": "15.7",
+        "ff%fourseam fastball %": "32.5",
+        "si%sinker %": "15.6",
         "fc%cutter %": "6.9",
         "fs%splitter %": "3.8",
-        "ch%changeup %": "10.6",
-        "sl%slider %": "20.1",
-        "cu%curve %": "10.3",
+        "ch%changeup %": "10.7",
+        "sl%slider %": "20.0",
+        "cu%curve %": "10.4",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "222",
         "hh%hard hit %": "43.0",
         "brlbarrels": "48",
         "brl%barrel %": "9.3",
-        "ab": "636",
-        "avg": ".256",
+        "ab": "638",
+        "avg": ".255",
         "h": "163",
         "1b": "99",
         "2b": "34",
         "3b": "2",
         "hr": "28",
-        "so": "143",
+        "so": "144",
         "bipballs in play": "516",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-17 21:43:50.713372"
+        "updated": "2025-06-17 21:44:01.031853"
     },
     "phi @ mia": [
         {
@@ -4542,7 +4542,7 @@
         {
             "player": "ketel marte",
             "game": "ari @ tor",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "69",
             "dt": "2025-06-17 21:41:43",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
@@ -5577,6 +5577,21 @@
     ],
     "min @ cin": [
         {
+            "player": "will benson",
+            "game": "min @ cin",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-06-17 21:43:59",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "christian encarnacion strand",
             "game": "min @ cin",
             "hr/park": "",
@@ -6508,6 +6523,21 @@
         }
     ],
     "nym @ atl": [
+        {
+            "player": "michael harris",
+            "game": "nym @ atl",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-06-17 21:43:59",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "7",
+            "result": "Lineout",
+            "evo": "75.6",
+            "la": "29",
+            "dist": "250"
+        },
         {
             "player": "sean murphy",
             "game": "nym @ atl",
@@ -8187,10 +8217,10 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "7",
-            "result": "Flyout",
-            "evo": "88.9",
-            "la": "34",
-            "dist": "296"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "mike tauchman",
@@ -9841,7 +9871,7 @@
             "team": "mil",
             "start": "8:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10597,7 +10627,23 @@
             "dist": ""
         }
     ],
-    "bos @ sea": [],
+    "bos @ sea": [
+        {
+            "player": "jarren duran",
+            "game": "bos @ sea",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-17 21:43:59",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "cle @ sf": [],
     "hou @ ath": [],
     "sd @ lad": []
