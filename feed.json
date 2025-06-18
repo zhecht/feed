@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "59",
         "batters": "206",
-        "pitches": "2458",
+        "pitches": "2460",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "37.2",
-        "ff%fourseam fastball %": "33.6",
+        "ff%fourseam fastball %": "33.7",
         "si%sinker %": "15.6",
         "fc%cutter %": "6.6",
         "fs%splitter %": "4.0",
@@ -13,8 +13,8 @@
         "sl%slider %": "19.1",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "114.7",
-        "hhhard hit": "213",
-        "hh%hard hit %": "44.0",
+        "hhhard hit": "212",
+        "hh%hard hit %": "43.9",
         "brlbarrels": "46",
         "brl%barrel %": "9.5",
         "ab": "594",
@@ -24,11 +24,11 @@
         "2b": "33",
         "3b": "2",
         "hr": "26",
-        "so": "130",
-        "bipballs in play": "484",
+        "so": "129",
+        "bipballs in play": "483",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-17 21:31:05.731549"
+        "updated": "2025-06-17 21:31:16.194028"
     },
     "phi @ mia": [
         {
@@ -2181,6 +2181,21 @@
     ],
     "col @ wsh": [
         {
+            "player": "james wood",
+            "game": "col @ wsh",
+            "hr/park": "",
+            "pa": "81",
+            "dt": "2025-06-17 21:31:14",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cj abrams",
             "game": "col @ wsh",
             "hr/park": "",
@@ -2190,7 +2205,7 @@
             "team": "wsh",
             "start": "6:45 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "99.7",
             "la": "-2",
             "dist": "35"
@@ -7722,7 +7737,7 @@
             "team": "stl",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8540,21 +8555,6 @@
     ],
     "kc @ tex": [
         {
-            "player": "drew waters",
-            "game": "kc @ tex",
-            "hr/park": "",
-            "pa": "44",
-            "dt": "2025-06-17 21:30:59",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "start": "8:05 PM",
-            "in": "6",
-            "result": "Single",
-            "evo": "98.7",
-            "la": "1",
-            "dist": "54"
-        },
-        {
             "player": "jac caglianone",
             "game": "kc @ tex",
             "hr/park": "",
@@ -8564,7 +8564,7 @@
             "team": "kc",
             "start": "8:05 PM",
             "in": "6",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
