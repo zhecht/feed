@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "91",
-        "batters": "243",
-        "pitches": "3117",
+        "batters": "244",
+        "pitches": "3121",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "37.2",
         "ff%fourseam fastball %": "33.1",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.4",
         "fs%splitter %": "4.0",
         "ch%changeup %": "10.2",
-        "sl%slider %": "20.1",
-        "cu%curve %": "9.9",
+        "sl%slider %": "20.0",
+        "cu%curve %": "10.0",
         "max evmax exit velocity": "114.7",
-        "hhhard hit": "248",
-        "hh%hard hit %": "42.4",
+        "hhhard hit": "249",
+        "hh%hard hit %": "42.6",
         "brlbarrels": "54",
         "brl%barrel %": "9.2",
-        "ab": "734",
+        "ab": "735",
         "avg": ".245",
         "h": "180",
         "1b": "112",
         "2b": "35",
         "3b": "2",
         "hr": "31",
-        "so": "173",
+        "so": "174",
         "bipballs in play": "585",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-17 22:12:24.543694"
+        "updated": "2025-06-17 22:12:35.609535"
     },
     "phi @ mia": [
         {
@@ -6863,10 +6863,10 @@
             "team": "atl",
             "start": "7:15 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "99.5",
+            "la": "65",
+            "dist": "181"
         },
         {
             "player": "marcell ozuna",
@@ -8852,21 +8852,6 @@
         }
     ],
     "stl @ chw": [
-        {
-            "player": "miguel vargas",
-            "game": "stl @ chw",
-            "hr/park": "",
-            "pa": "77",
-            "dt": "2025-06-17 22:11:58",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "start": "7:40 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "85.6",
-            "la": "6",
-            "dist": "105"
-        },
         {
             "player": "masyn winn",
             "game": "stl @ chw",
@@ -10927,6 +10912,21 @@
     ],
     "mil @ chc": [
         {
+            "player": "isaac collins",
+            "game": "mil @ chc",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-06-17 22:12:30",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "seiya suzuki",
             "game": "mil @ chc",
             "hr/park": "",
@@ -11859,6 +11859,21 @@
     ],
     "bos @ sea": [
         {
+            "player": "cole young",
+            "game": "bos @ sea",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-06-17 22:12:30",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "9:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ben williamson",
             "game": "bos @ sea",
             "hr/park": "",
@@ -12095,7 +12110,7 @@
             "team": "sf",
             "start": "9:45 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
