@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "49",
+        "pitchers": "50",
         "batters": "204",
-        "pitches": "2139",
+        "pitches": "2147",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "37.2",
-        "ff%fourseam fastball %": "32.6",
+        "ff%fourseam fastball %": "32.7",
         "si%sinker %": "16.7",
         "fc%cutter %": "6.6",
         "fs%splitter %": "4.5",
         "ch%changeup %": "10.6",
-        "sl%slider %": "19.0",
+        "sl%slider %": "19.1",
         "cu%curve %": "9.8",
         "max evmax exit velocity": "114.7",
-        "hhhard hit": "179",
-        "hh%hard hit %": "43.2",
-        "brlbarrels": "38",
-        "brl%barrel %": "9.2",
-        "ab": "510",
-        "avg": ".249",
+        "hhhard hit": "181",
+        "hh%hard hit %": "43.4",
+        "brlbarrels": "39",
+        "brl%barrel %": "9.4",
+        "ab": "513",
+        "avg": ".248",
         "h": "127",
-        "1b": "75",
+        "1b": "74",
         "2b": "28",
         "3b": "2",
-        "hr": "22",
+        "hr": "23",
         "so": "112",
-        "bipballs in play": "414",
+        "bipballs in play": "417",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-17 21:11:22.929813"
+        "updated": "2025-06-17 21:11:32.419661"
     },
     "phi @ mia": [
         {
@@ -2181,6 +2181,21 @@
     ],
     "col @ wsh": [
         {
+            "player": "brady house",
+            "game": "col @ wsh",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-06-17 21:11:29",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "6:45 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "74.2",
+            "la": "-4",
+            "dist": "24"
+        },
+        {
             "player": "nathaniel lowe",
             "game": "col @ wsh",
             "hr/park": "29/30",
@@ -4105,6 +4120,21 @@
     ],
     "ari @ tor": [
         {
+            "player": "josh naylor",
+            "game": "ari @ tor",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-17 21:11:29",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:07 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "geraldo perdomo",
             "game": "ari @ tor",
             "hr/park": "",
@@ -4114,7 +4144,7 @@
             "team": "ari",
             "start": "7:07 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5699,6 +5729,36 @@
     ],
     "nym @ atl": [
         {
+            "player": "francisco lindor",
+            "game": "nym @ atl",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-06-17 21:11:29",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "tyrone taylor",
+            "game": "nym @ atl",
+            "hr/park": "30/30",
+            "pa": "34",
+            "dt": "2025-06-17 21:11:29",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:15 PM",
+            "in": "5",
+            "result": "Home Run",
+            "evo": "101.8",
+            "la": "29",
+            "dist": "407"
+        },
+        {
             "player": "ronny mauricio",
             "game": "nym @ atl",
             "hr/park": "0/30",
@@ -6195,6 +6255,21 @@
         }
     ],
     "bal @ tb": [
+        {
+            "player": "brandon lowe",
+            "game": "bal @ tb",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-06-17 21:11:29",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:35 PM",
+            "in": "6",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "cedric mullins",
             "game": "bal @ tb",
@@ -6858,9 +6933,24 @@
     ],
     "stl @ chw": [
         {
-            "player": "michael a taylor",
+            "player": "vinny capra",
             "game": "stl @ chw",
             "hr/park": "",
+            "pa": "44",
+            "dt": "2025-06-17 21:11:29",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "Sac Fly",
+            "evo": "100.7",
+            "la": "18",
+            "dist": "355"
+        },
+        {
+            "player": "michael a taylor",
+            "game": "stl @ chw",
+            "hr/park": "0/30",
             "pa": "43",
             "dt": "2025-06-17 21:10:46",
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
@@ -7505,21 +7595,6 @@
     ],
     "kc @ tex": [
         {
-            "player": "jake burger",
-            "game": "kc @ tex",
-            "hr/park": "",
-            "pa": "33",
-            "dt": "2025-06-17 21:10:59",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "8:05 PM",
-            "in": "4",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "alejandro osuna",
             "game": "kc @ tex",
             "hr/park": "",
@@ -7529,7 +7604,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "4",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "76.5",
             "la": "20",
             "dist": "236"
