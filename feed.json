@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "84",
-        "batters": "231",
-        "pitches": "2984",
+        "batters": "232",
+        "pitches": "2991",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "37.2",
-        "ff%fourseam fastball %": "33.2",
+        "ff%fourseam fastball %": "33.3",
         "si%sinker %": "15.5",
         "fc%cutter %": "7.0",
         "fs%splitter %": "3.8",
         "ch%changeup %": "10.3",
         "sl%slider %": "20.0",
-        "cu%curve %": "10.1",
+        "cu%curve %": "10.0",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "238",
-        "hh%hard hit %": "42.3",
+        "hh%hard hit %": "42.2",
         "brlbarrels": "50",
         "brl%barrel %": "8.9",
-        "ab": "703",
+        "ab": "706",
         "avg": ".246",
-        "h": "173",
-        "1b": "109",
+        "h": "174",
+        "1b": "110",
         "2b": "34",
         "3b": "2",
         "hr": "28",
-        "so": "164",
-        "bipballs in play": "562",
+        "so": "165",
+        "bipballs in play": "564",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-17 22:04:22.762792"
+        "updated": "2025-06-17 22:04:34.665557"
     },
     "phi @ mia": [
         {
@@ -4540,6 +4540,21 @@
     ],
     "ari @ tor": [
         {
+            "player": "bo bichette",
+            "game": "ari @ tor",
+            "hr/park": "",
+            "pa": "78",
+            "dt": "2025-06-17 22:04:29",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "davis schneider",
             "game": "ari @ tor",
             "hr/park": "",
@@ -6749,6 +6764,21 @@
     ],
     "nym @ atl": [
         {
+            "player": "austin riley",
+            "game": "nym @ atl",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-06-17 22:04:29",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "matt olson",
             "game": "nym @ atl",
             "hr/park": "",
@@ -7645,10 +7675,10 @@
             "team": "bal",
             "start": "7:35 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "87.5",
+            "la": "20",
+            "dist": "258"
         },
         {
             "player": "dylan carlson",
@@ -11499,6 +11529,21 @@
     ],
     "bos @ sea": [
         {
+            "player": "david hamilton",
+            "game": "bos @ sea",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-06-17 22:04:29",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "9:40 PM",
+            "in": "2",
+            "result": "Groundout",
+            "evo": "84.7",
+            "la": "-19",
+            "dist": "8"
+        },
+        {
             "player": "trevor story",
             "game": "bos @ sea",
             "hr/park": "",
@@ -11508,7 +11553,7 @@
             "team": "bos",
             "start": "9:40 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
