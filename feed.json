@@ -1,19 +1,19 @@
 {
     "all": {
         "pitchers": "78",
-        "batters": "221",
-        "pitches": "2830",
+        "batters": "222",
+        "pitches": "2838",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "37.2",
         "ff%fourseam fastball %": "33.3",
-        "si%sinker %": "15.1",
+        "si%sinker %": "15.3",
         "fc%cutter %": "7.1",
         "fs%splitter %": "3.6",
-        "ch%changeup %": "10.5",
-        "sl%slider %": "20.0",
+        "ch%changeup %": "10.4",
+        "sl%slider %": "19.9",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "114.7",
-        "hhhard hit": "226",
+        "hhhard hit": "227",
         "hh%hard hit %": "42.0",
         "brlbarrels": "49",
         "brl%barrel %": "9.1",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "28",
         "so": "156",
-        "bipballs in play": "538",
+        "bipballs in play": "540",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-17 21:55:07.260480"
+        "updated": "2025-06-17 21:55:18.038564"
     },
     "phi @ mia": [
         {
@@ -6674,21 +6674,6 @@
     ],
     "nym @ atl": [
         {
-            "player": "nick allen",
-            "game": "nym @ atl",
-            "hr/park": "",
-            "pa": "56",
-            "dt": "2025-06-17 21:54:44",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "7:15 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "brandon nimmo",
             "game": "nym @ atl",
             "hr/park": "",
@@ -9485,11 +9470,11 @@
     ],
     "kc @ tex": [
         {
-            "player": "bobby witt",
+            "player": "maikel garcia",
             "game": "kc @ tex",
             "hr/park": "",
-            "pa": "53",
-            "dt": "2025-06-17 21:52:45",
+            "pa": "54",
+            "dt": "2025-06-17 21:54:44",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "start": "8:05 PM",
@@ -9498,6 +9483,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "bobby witt",
+            "game": "kc @ tex",
+            "hr/park": "0/30",
+            "pa": "53",
+            "dt": "2025-06-17 21:52:45",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:05 PM",
+            "in": "7",
+            "result": "Flyout",
+            "evo": "100.3",
+            "la": "38",
+            "dist": "343"
         },
         {
             "player": "alejandro osuna",
@@ -11216,6 +11216,21 @@
     ],
     "cle @ sf": [
         {
+            "player": "willy adames",
+            "game": "cle @ sf",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-06-17 21:54:28",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "9:45 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "68.2",
+            "la": "-56",
+            "dist": "2"
+        },
+        {
             "player": "jung hoo lee",
             "game": "cle @ sf",
             "hr/park": "",
@@ -11225,7 +11240,7 @@
             "team": "sf",
             "start": "9:45 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
