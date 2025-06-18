@@ -1,26 +1,26 @@
 {
     "all": {
         "pitchers": "18",
-        "batters": "97",
-        "pitches": "678",
+        "batters": "98",
+        "pitches": "679",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "70.5",
-        "ff%fourseam fastball %": "29.8",
-        "si%sinker %": "21.7",
+        "ff%fourseam fastball %": "29.7",
+        "si%sinker %": "21.8",
         "fc%cutter %": "13.0",
         "fs%splitter %": "0.3",
-        "ch%changeup %": "10.9",
+        "ch%changeup %": "10.8",
         "sl%slider %": "18.4",
-        "cu%curve %": "5.9",
+        "cu%curve %": "6.0",
         "max evmax exit velocity": "115.2",
         "hhhard hit": "46",
         "hh%hard hit %": "40.0",
         "brlbarrels": "12",
         "brl%barrel %": "10.4",
-        "ab": "156",
-        "avg": ".199",
-        "h": "31",
-        "1b": "18",
+        "ab": "158",
+        "avg": ".190",
+        "h": "30",
+        "1b": "17",
         "2b": "4",
         "3b": "1",
         "hr": "8",
@@ -28,7 +28,7 @@
         "bipballs in play": "115",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-18 19:56:22.499776"
+        "updated": "2025-06-18 19:56:30.663109"
     },
     "bos @ sea": [
         {
@@ -1024,6 +1024,21 @@
     ],
     "phi @ mia": [
         {
+            "player": "javier sanoja",
+            "game": "phi @ mia",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-18 19:56:29",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jack winkler",
             "game": "phi @ mia",
             "hr/park": "",
@@ -1033,7 +1048,7 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "70.9",
             "la": "-17",
             "dist": "9"
@@ -2247,6 +2262,21 @@
     "min @ cin": [],
     "nym @ atl": [
         {
+            "player": "michael harris",
+            "game": "nym @ atl",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-06-18 19:56:29",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ozzie albies",
             "game": "nym @ atl",
             "hr/park": "",
@@ -2483,7 +2513,7 @@
             "team": "bal",
             "start": "7:35 PM",
             "in": "2",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "101.2",
             "la": "5",
             "dist": "102"
