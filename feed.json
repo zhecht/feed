@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "43",
+        "pitchers": "44",
         "batters": "203",
-        "pitches": "2018",
+        "pitches": "2025",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "37.2",
         "ff%fourseam fastball %": "32.9",
         "si%sinker %": "16.8",
         "fc%cutter %": "6.3",
-        "fs%splitter %": "4.7",
+        "fs%splitter %": "4.6",
         "ch%changeup %": "10.7",
-        "sl%slider %": "19.0",
-        "cu%curve %": "9.6",
+        "sl%slider %": "19.1",
+        "cu%curve %": "9.5",
         "max evmax exit velocity": "114.7",
-        "hhhard hit": "167",
-        "hh%hard hit %": "43.9",
-        "brlbarrels": "37",
-        "brl%barrel %": "9.7",
-        "ab": "472",
-        "avg": ".248",
-        "h": "117",
+        "hhhard hit": "168",
+        "hh%hard hit %": "43.8",
+        "brlbarrels": "38",
+        "brl%barrel %": "9.9",
+        "ab": "477",
+        "avg": ".247",
+        "h": "118",
         "1b": "70",
         "2b": "26",
         "3b": "2",
-        "hr": "19",
+        "hr": "20",
         "so": "111",
-        "bipballs in play": "380",
+        "bipballs in play": "384",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-17 21:03:20.161308"
+        "updated": "2025-06-17 21:03:30.026080"
     },
     "phi @ mia": [
         {
@@ -2180,6 +2180,36 @@
         }
     ],
     "col @ wsh": [
+        {
+            "player": "tyler freeman",
+            "game": "col @ wsh",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-06-17 21:03:28",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "6:45 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "mickey moniak",
+            "game": "col @ wsh",
+            "hr/park": "16/30",
+            "pa": "67",
+            "dt": "2025-06-17 21:03:28",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "6:45 PM",
+            "in": "8",
+            "result": "Home Run",
+            "evo": "102.1",
+            "la": "26",
+            "dist": "382"
+        },
         {
             "player": "luis garcia",
             "game": "col @ wsh",
@@ -4782,6 +4812,21 @@
     ],
     "min @ cin": [
         {
+            "player": "ty france",
+            "game": "min @ cin",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-06-17 21:03:28",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "Field Error",
+            "evo": "58.2",
+            "la": "-39",
+            "dist": "4"
+        },
+        {
             "player": "carlos correa",
             "game": "min @ cin",
             "hr/park": "",
@@ -4791,7 +4836,7 @@
             "team": "min",
             "start": "7:10 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "Groundout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5458,6 +5503,21 @@
         }
     ],
     "nym @ atl": [
+        {
+            "player": "francisco alvarez",
+            "game": "nym @ atl",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-06-17 21:02:15",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:15 PM",
+            "in": "4",
+            "result": "Groundout",
+            "evo": "77.1",
+            "la": "-37",
+            "dist": "4"
+        },
         {
             "player": "jared young",
             "game": "nym @ atl",
@@ -7501,7 +7561,7 @@
             "team": "mil",
             "start": "8:05 PM",
             "in": "4",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
