@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "56",
         "batters": "205",
-        "pitches": "2344",
+        "pitches": "2348",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "37.2",
-        "ff%fourseam fastball %": "33.5",
+        "ff%fourseam fastball %": "33.6",
         "si%sinker %": "15.7",
         "fc%cutter %": "6.4",
         "fs%splitter %": "4.2",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "43.3",
         "brlbarrels": "42",
         "brl%barrel %": "9.2",
-        "ab": "564",
+        "ab": "565",
         "avg": ".248",
         "h": "140",
         "1b": "84",
         "2b": "30",
         "3b": "2",
         "hr": "24",
-        "so": "125",
+        "so": "127",
         "bipballs in play": "455",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-17 21:24:06.615861"
+        "updated": "2025-06-17 21:24:17.495274"
     },
     "phi @ mia": [
         {
@@ -2190,7 +2190,7 @@
             "team": "col",
             "start": "6:45 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4272,7 +4272,7 @@
         {
             "player": "bo bichette",
             "game": "ari @ tor",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "61",
             "dt": "2025-06-17 21:23:59",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
@@ -6631,6 +6631,21 @@
     ],
     "bal @ tb": [
         {
+            "player": "adley rutschman",
+            "game": "bal @ tb",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-06-17 21:24:13",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jackson holliday",
             "game": "bal @ tb",
             "hr/park": "",
@@ -6640,7 +6655,7 @@
             "team": "bal",
             "start": "7:35 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
