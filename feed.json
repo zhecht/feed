@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "105",
-        "batters": "285",
-        "pitches": "3654",
+        "batters": "286",
+        "pitches": "3657",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "40.4",
         "ff%fourseam fastball %": "33.3",
-        "si%sinker %": "15.0",
+        "si%sinker %": "15.1",
         "fc%cutter %": "7.4",
         "fs%splitter %": "3.5",
         "ch%changeup %": "10.8",
@@ -14,10 +14,10 @@
         "cu%curve %": "9.4",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "286",
-        "hh%hard hit %": "42.0",
+        "hh%hard hit %": "41.9",
         "brlbarrels": "64",
         "brl%barrel %": "9.4",
-        "ab": "849",
+        "ab": "850",
         "avg": ".244",
         "h": "207",
         "1b": "125",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "35",
         "so": "202",
-        "bipballs in play": "681",
+        "bipballs in play": "682",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-17 23:01:36.462708"
+        "updated": "2025-06-17 23:01:48.328404"
     },
     "phi @ mia": [
         {
@@ -13633,6 +13633,36 @@
     ],
     "hou @ ath": [
         {
+            "player": "lawrence butler",
+            "game": "hou @ ath",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-06-17 23:01:44",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "denzel clarke",
+            "game": "hou @ ath",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-06-17 23:00:59",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "71.4",
+            "la": "-51",
+            "dist": "3"
+        },
+        {
             "player": "luis urias",
             "game": "hou @ ath",
             "hr/park": "",
@@ -13642,7 +13672,7 @@
             "team": "ath",
             "start": "10:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
