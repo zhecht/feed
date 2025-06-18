@@ -2,15 +2,15 @@
     "all": {
         "pitchers": "95",
         "batters": "251",
-        "pitches": "3188",
+        "pitches": "3195",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "37.2",
         "ff%fourseam fastball %": "33.2",
         "si%sinker %": "15.1",
-        "fc%cutter %": "7.3",
-        "fs%splitter %": "4.0",
-        "ch%changeup %": "10.1",
-        "sl%slider %": "20.2",
+        "fc%cutter %": "7.4",
+        "fs%splitter %": "3.9",
+        "ch%changeup %": "10.0",
+        "sl%slider %": "20.3",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "250",
@@ -24,11 +24,11 @@
         "2b": "36",
         "3b": "2",
         "hr": "31",
-        "so": "179",
+        "so": "178",
         "bipballs in play": "592",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-17 22:16:11.409169"
+        "updated": "2025-06-17 22:16:23.820733"
     },
     "phi @ mia": [
         {
@@ -10109,7 +10109,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "8",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12009,6 +12009,21 @@
     ],
     "bos @ sea": [
         {
+            "player": "julio rodriguez",
+            "game": "bos @ sea",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-06-17 22:15:30",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "9:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jp crawford",
             "game": "bos @ sea",
             "hr/park": "",
@@ -12018,7 +12033,7 @@
             "team": "sea",
             "start": "9:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12275,7 +12290,7 @@
             "team": "sf",
             "start": "9:45 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
