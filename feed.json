@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "84",
-        "batters": "230",
-        "pitches": "2957",
+        "batters": "229",
+        "pitches": "2963",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "37.2",
         "ff%fourseam fastball %": "33.3",
-        "si%sinker %": "15.4",
+        "si%sinker %": "15.5",
         "fc%cutter %": "7.0",
-        "fs%splitter %": "3.6",
+        "fs%splitter %": "3.7",
         "ch%changeup %": "10.4",
         "sl%slider %": "20.0",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "114.7",
-        "hhhard hit": "238",
-        "hh%hard hit %": "42.4",
-        "brlbarrels": "50",
-        "brl%barrel %": "8.9",
+        "hhhard hit": "237",
+        "hh%hard hit %": "42.2",
+        "brlbarrels": "49",
+        "brl%barrel %": "8.7",
         "ab": "700",
         "avg": ".247",
         "h": "173",
@@ -28,7 +28,7 @@
         "bipballs in play": "561",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-17 22:02:35.003602"
+        "updated": "2025-06-17 22:02:45.896463"
     },
     "phi @ mia": [
         {
@@ -4549,7 +4549,7 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5706,7 +5706,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6748,6 +6748,21 @@
         }
     ],
     "nym @ atl": [
+        {
+            "player": "matt olson",
+            "game": "nym @ atl",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-06-17 22:02:13",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "alex verdugo",
             "game": "nym @ atl",
@@ -9735,9 +9750,9 @@
             "start": "8:05 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "70.3",
+            "la": "-66",
+            "dist": "1"
         },
         {
             "player": "jake burger",
@@ -11469,21 +11484,6 @@
     ],
     "bos @ sea": [
         {
-            "player": "marcelo mayer",
-            "game": "bos @ sea",
-            "hr/park": "",
-            "pa": "10",
-            "dt": "2025-06-17 22:02:29",
-            "img": "https://www.mlbstatic.com/team-logos/111.svg",
-            "team": "bos",
-            "start": "9:40 PM",
-            "in": "2",
-            "result": "Flyout",
-            "evo": "103.7",
-            "la": "26",
-            "dist": "391"
-        },
-        {
             "player": "randy arozarena",
             "game": "bos @ sea",
             "hr/park": "",
@@ -11630,7 +11630,7 @@
             "team": "sf",
             "start": "9:45 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
