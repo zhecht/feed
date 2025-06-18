@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "95",
-        "batters": "251",
-        "pitches": "3211",
+        "batters": "252",
+        "pitches": "3216",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "37.2",
-        "ff%fourseam fastball %": "33.3",
-        "si%sinker %": "15.0",
+        "ff%fourseam fastball %": "33.2",
+        "si%sinker %": "15.1",
         "fc%cutter %": "7.3",
         "fs%splitter %": "3.9",
         "ch%changeup %": "10.1",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.8",
         "max evmax exit velocity": "114.7",
         "hhhard hit": "251",
-        "hh%hard hit %": "42.3",
-        "brlbarrels": "56",
-        "brl%barrel %": "9.4",
-        "ab": "752",
+        "hh%hard hit %": "42.2",
+        "brlbarrels": "55",
+        "brl%barrel %": "9.2",
+        "ab": "753",
         "avg": ".242",
         "h": "182",
         "1b": "113",
         "2b": "36",
         "3b": "2",
         "hr": "31",
-        "so": "180",
-        "bipballs in play": "594",
+        "so": "181",
+        "bipballs in play": "595",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-17 22:17:09.232304"
+        "updated": "2025-06-17 22:17:20.262397"
     },
     "phi @ mia": [
         {
@@ -5736,7 +5736,7 @@
             "team": "min",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7831,11 +7831,11 @@
     ],
     "bal @ tb": [
         {
-            "player": "jake mangum",
+            "player": "danny jansen",
             "game": "bal @ tb",
             "hr/park": "",
-            "pa": "73",
-            "dt": "2025-06-17 22:15:43",
+            "pa": "74",
+            "dt": "2025-06-17 22:17:14",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "start": "7:35 PM",
@@ -7844,6 +7844,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "jake mangum",
+            "game": "bal @ tb",
+            "hr/park": "0/30",
+            "pa": "73",
+            "dt": "2025-06-17 22:15:43",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:35 PM",
+            "in": "9",
+            "result": "Lineout",
+            "evo": "98.8",
+            "la": "21",
+            "dist": "346"
         },
         {
             "player": "jordan westburg",
@@ -10100,21 +10115,6 @@
     ],
     "kc @ tex": [
         {
-            "player": "corey seager",
-            "game": "kc @ tex",
-            "hr/park": "",
-            "pa": "64",
-            "dt": "2025-06-17 22:16:44",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "8:05 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "wyatt langford",
             "game": "kc @ tex",
             "hr/park": "",
@@ -10124,10 +10124,10 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "8",
-            "result": "Lineout",
-            "evo": "111.4",
-            "la": "14",
-            "dist": "333"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "sam haggerty",
@@ -12048,7 +12048,7 @@
             "team": "sea",
             "start": "9:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12537,6 +12537,21 @@
         }
     ],
     "hou @ ath": [
+        {
+            "player": "yainer diaz",
+            "game": "hou @ ath",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-06-17 22:17:14",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "10:05 PM",
+            "in": "1",
+            "result": "Flyout",
+            "evo": "81.3",
+            "la": "38",
+            "dist": "269"
+        },
         {
             "player": "jose altuve",
             "game": "hou @ ath",
