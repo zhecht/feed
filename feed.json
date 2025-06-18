@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "20",
-        "batters": "137",
-        "pitches": "935",
+        "batters": "138",
+        "pitches": "942",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "70.5",
-        "ff%fourseam fastball %": "33.9",
+        "ff%fourseam fastball %": "34.1",
         "si%sinker %": "15.4",
         "fc%cutter %": "4.5",
-        "fs%splitter %": "5.2",
-        "ch%changeup %": "10.9",
-        "sl%slider %": "21.9",
-        "cu%curve %": "8.1",
+        "fs%splitter %": "5.3",
+        "ch%changeup %": "10.8",
+        "sl%slider %": "22.0",
+        "cu%curve %": "8.0",
         "max evmax exit velocity": "112.1",
         "hhhard hit": "77",
         "hh%hard hit %": "43.8",
         "brlbarrels": "18",
         "brl%barrel %": "10.2",
-        "ab": "229",
-        "avg": ".253",
+        "ab": "231",
+        "avg": ".251",
         "h": "58",
         "1b": "36",
         "2b": "13",
         "3b": "1",
         "hr": "8",
-        "so": "52",
+        "so": "53",
         "bipballs in play": "176",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-17 20:07:05.333075"
+        "updated": "2025-06-17 20:07:13.854775"
     },
     "phi @ mia": [
         {
@@ -838,7 +838,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2093,6 +2093,21 @@
     ],
     "laa @ nyy": [
         {
+            "player": "jo adell",
+            "game": "laa @ nyy",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-06-17 20:07:13",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "7:05 PM",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis rengifo",
             "game": "laa @ nyy",
             "hr/park": "",
@@ -2102,10 +2117,10 @@
             "team": "laa",
             "start": "7:05 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "92.4",
+            "la": "-9",
+            "dist": "16"
         },
         {
             "player": "cody bellinger",
@@ -2982,6 +2997,21 @@
     ],
     "min @ cin": [
         {
+            "player": "jake fraley",
+            "game": "min @ cin",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-06-17 20:07:13",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "spencer steer",
             "game": "min @ cin",
             "hr/park": "",
@@ -3537,9 +3567,9 @@
             "start": "7:40 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "20.9",
-            "la": "18",
-            "dist": "24"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "lars nootbaar",
@@ -3734,7 +3764,7 @@
             "team": "mil",
             "start": "8:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
