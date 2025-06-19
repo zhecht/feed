@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "16",
-        "batters": "89",
-        "pitches": "651",
+        "batters": "90",
+        "pitches": "659",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "72.8",
         "ff%fourseam fastball %": "34.6",
-        "si%sinker %": "13.4",
-        "fc%cutter %": "6.9",
+        "si%sinker %": "13.2",
+        "fc%cutter %": "7.0",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "19.7",
-        "sl%slider %": "18.3",
-        "cu%curve %": "6.8",
+        "ch%changeup %": "19.6",
+        "sl%slider %": "18.5",
+        "cu%curve %": "6.7",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "59",
-        "hh%hard hit %": "47.6",
+        "hh%hard hit %": "47.2",
         "brlbarrels": "15",
-        "brl%barrel %": "12.1",
-        "ab": "155",
-        "avg": ".303",
-        "h": "47",
+        "brl%barrel %": "12.0",
+        "ab": "156",
+        "avg": ".308",
+        "h": "48",
         "1b": "25",
-        "2b": "13",
+        "2b": "14",
         "3b": "0",
         "hr": "9",
         "so": "33",
-        "bipballs in play": "124",
+        "bipballs in play": "125",
         "liveGames": 6,
         "totGames": 16,
-        "updated": "2025-06-19 14:32:51.237576"
+        "updated": "2025-06-19 14:32:59.381258"
     },
     "min @ cin": [
         {
@@ -1538,7 +1538,7 @@
         {
             "player": "nolan schanuel",
             "game": "laa @ nyy",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "37",
             "dt": "2025-06-19 14:32:07",
             "img": "https://www.mlbstatic.com/team-logos/108.svg",
@@ -2093,6 +2093,21 @@
     ],
     "pit @ det": [
         {
+            "player": "spencer torkelson",
+            "game": "pit @ det",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-06-19 14:32:54",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "riley greene",
             "game": "pit @ det",
             "hr/park": "",
@@ -2102,7 +2117,7 @@
             "team": "det",
             "start": "1:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "86.5",
             "la": "19",
             "dist": "277"
@@ -2420,10 +2435,10 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "63.4",
+            "la": "-29",
+            "dist": "4"
         },
         {
             "player": "miguel vargas",
@@ -2579,6 +2594,21 @@
     "stl-gm2 @ chw-gm2": [],
     "mil @ chc": [
         {
+            "player": "seiya suzuki",
+            "game": "mil @ chc",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-06-19 14:32:54",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:20 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle tucker",
             "game": "mil @ chc",
             "hr/park": "",
@@ -2588,7 +2618,7 @@
             "team": "chc",
             "start": "2:20 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
