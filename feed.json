@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "10",
-        "batters": "63",
-        "pitches": "395",
+        "batters": "64",
+        "pitches": "398",
         "max velomax pitch velocity": "98.6",
         "min velomin pitch velocity": "73.8",
         "ff%fourseam fastball %": "33.4",
-        "si%sinker %": "14.7",
+        "si%sinker %": "14.6",
         "fc%cutter %": "7.8",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "19.5",
-        "sl%slider %": "17.2",
+        "ch%changeup %": "19.3",
+        "sl%slider %": "17.3",
         "cu%curve %": "7.3",
         "max evmax exit velocity": "112.0",
-        "hhhard hit": "39",
-        "hh%hard hit %": "49.4",
+        "hhhard hit": "40",
+        "hh%hard hit %": "50.0",
         "brlbarrels": "12",
-        "brl%barrel %": "15.2",
-        "ab": "102",
-        "avg": ".343",
+        "brl%barrel %": "15.0",
+        "ab": "103",
+        "avg": ".340",
         "h": "35",
         "1b": "18",
         "2b": "8",
         "3b": "0",
         "hr": "9",
         "so": "23",
-        "bipballs in play": "79",
+        "bipballs in play": "80",
         "liveGames": 4,
         "totGames": 16,
-        "updated": "2025-06-19 14:07:34.290905"
+        "updated": "2025-06-19 14:07:42.089000"
     },
     "min @ cin": [
         {
@@ -679,6 +679,21 @@
     ],
     "col @ wsh": [
         {
+            "player": "jordan beck",
+            "game": "col @ wsh",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-06-19 14:07:37",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "1:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan ritter",
             "game": "col @ wsh",
             "hr/park": "",
@@ -1193,17 +1208,17 @@
         {
             "player": "taylor ward",
             "game": "laa @ nyy",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "24",
             "dt": "2025-06-19 14:06:23",
             "img": "https://www.mlbstatic.com/team-logos/108.svg",
             "team": "laa",
             "start": "1:05 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "100.0",
+            "la": "23",
+            "dist": "367"
         },
         {
             "player": "mike trout",
@@ -1553,6 +1568,21 @@
     ],
     "pit @ det": [
         {
+            "player": "spencer torkelson",
+            "game": "pit @ det",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-06-19 14:07:37",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "riley greene",
             "game": "pit @ det",
             "hr/park": "0/30",
@@ -1562,7 +1592,7 @@
             "team": "det",
             "start": "1:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Sac Fly",
             "evo": "88.7",
             "la": "31",
             "dist": "313"
