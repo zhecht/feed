@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "27",
+        "pitchers": "28",
         "batters": "130",
-        "pitches": "1205",
+        "pitches": "1210",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "70.4",
         "ff%fourseam fastball %": "28.1",
-        "si%sinker %": "21.5",
+        "si%sinker %": "21.4",
         "fc%cutter %": "12.7",
-        "fs%splitter %": "1.4",
-        "ch%changeup %": "11.0",
+        "fs%splitter %": "1.5",
+        "ch%changeup %": "11.1",
         "sl%slider %": "19.1",
         "cu%curve %": "6.1",
         "max evmax exit velocity": "115.2",
-        "hhhard hit": "85",
+        "hhhard hit": "86",
         "hh%hard hit %": "41.7",
         "brlbarrels": "19",
-        "brl%barrel %": "9.3",
-        "ab": "276",
+        "brl%barrel %": "9.2",
+        "ab": "277",
         "avg": ".217",
         "h": "60",
         "1b": "35",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "13",
         "so": "70",
-        "bipballs in play": "204",
+        "bipballs in play": "206",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-18 20:44:42.401650"
+        "updated": "2025-06-18 20:44:50.925442"
     },
     "bos @ sea": [
         {
@@ -1033,7 +1033,7 @@
             "team": "phi",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "63.1",
             "la": "-27",
             "dist": "5"
@@ -1980,7 +1980,7 @@
             "team": "wsh",
             "start": "6:45 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2047,6 +2047,21 @@
         }
     ],
     "laa @ nyy": [
+        {
+            "player": "luis rengifo",
+            "game": "laa @ nyy",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-06-18 20:44:45",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "logan ohoppe",
             "game": "laa @ nyy",
@@ -3885,6 +3900,21 @@
     ],
     "bal @ tb": [
         {
+            "player": "jake mangum",
+            "game": "bal @ tb",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-06-18 20:44:45",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:35 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "102.9",
+            "la": "",
+            "dist": "43"
+        },
+        {
             "player": "jonathan aranda",
             "game": "bal @ tb",
             "hr/park": "",
@@ -3894,10 +3924,10 @@
             "team": "tb",
             "start": "7:35 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "77.4",
+            "la": "67",
+            "dist": "128"
         },
         {
             "player": "christopher morel",
