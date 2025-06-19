@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "46",
         "batters": "152",
-        "pitches": "1787",
+        "pitches": "1795",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "70.7",
-        "ff%fourseam fastball %": "33.6",
+        "ff%fourseam fastball %": "33.5",
         "si%sinker %": "14.9",
-        "fc%cutter %": "8.3",
+        "fc%cutter %": "8.4",
         "fs%splitter %": "2.3",
-        "ch%changeup %": "14.8",
+        "ch%changeup %": "14.9",
         "sl%slider %": "17.7",
         "cu%curve %": "8.1",
         "max evmax exit velocity": "113.2",
         "hhhard hit": "144",
-        "hh%hard hit %": "43.4",
+        "hh%hard hit %": "43.1",
         "brlbarrels": "36",
         "brl%barrel %": "10.8",
-        "ab": "418",
-        "avg": ".268",
+        "ab": "419",
+        "avg": ".267",
         "h": "112",
         "1b": "66",
         "2b": "23",
         "3b": "1",
         "hr": "22",
-        "so": "93",
-        "bipballs in play": "332",
+        "so": "94",
+        "bipballs in play": "334",
         "liveGames": 8,
         "totGames": 16,
-        "updated": "2025-06-19 16:01:16.673886"
+        "updated": "2025-06-19 16:01:25.952483"
     },
     "min @ cin": [
         {
@@ -3593,6 +3593,21 @@
     ],
     "pit @ det": [
         {
+            "player": "parker meadows",
+            "game": "pit @ det",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-06-19 16:01:22",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "84.6",
+            "la": "-36",
+            "dist": "3"
+        },
+        {
             "player": "javier baez",
             "game": "pit @ det",
             "hr/park": "",
@@ -3602,7 +3617,7 @@
             "team": "det",
             "start": "1:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "102.4",
             "la": "5",
             "dist": "115"
@@ -4580,7 +4595,7 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6085,10 +6100,10 @@
             "team": "kc",
             "start": "2:35 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "82.1",
+            "la": "37",
+            "dist": "288"
         },
         {
             "player": "bobby witt",
