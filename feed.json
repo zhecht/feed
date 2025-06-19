@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "72",
-        "batters": "177",
-        "pitches": "2569",
+        "pitchers": "74",
+        "batters": "178",
+        "pitches": "2575",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "70.7",
         "ff%fourseam fastball %": "32.3",
-        "si%sinker %": "14.9",
+        "si%sinker %": "15.0",
         "fc%cutter %": "9.6",
         "fs%splitter %": "2.3",
-        "ch%changeup %": "12.8",
-        "sl%slider %": "19.6",
-        "cu%curve %": "8.3",
+        "ch%changeup %": "12.7",
+        "sl%slider %": "19.5",
+        "cu%curve %": "8.4",
         "max evmax exit velocity": "113.2",
         "hhhard hit": "190",
         "hh%hard hit %": "39.8",
         "brlbarrels": "48",
         "brl%barrel %": "10.1",
-        "ab": "594",
-        "avg": ".249",
+        "ab": "596",
+        "avg": ".248",
         "h": "148",
         "1b": "90",
         "2b": "28",
@@ -28,7 +28,7 @@
         "bipballs in play": "477",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-06-19 17:47:34.411623"
+        "updated": "2025-06-19 17:47:44.371424"
     },
     "min @ cin": [
         {
@@ -6086,7 +6086,23 @@
             "dist": ""
         }
     ],
-    "stl-gm2 @ chw-gm2": [],
+    "stl-gm2 @ chw-gm2": [
+        {
+            "player": "brendan donovan",
+            "game": "stl-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-19 17:47:37",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "5:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "mil @ chc": [
         {
             "player": "seiya suzuki",
@@ -8298,6 +8314,21 @@
     ],
     "ari @ tor": [
         {
+            "player": "eugenio suarez",
+            "game": "ari @ tor",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-06-19 17:47:37",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "3:07 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh naylor",
             "game": "ari @ tor",
             "hr/park": "",
@@ -9389,7 +9420,7 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout Double Play",
             "evo": "",
             "la": "",
             "dist": ""
