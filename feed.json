@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "55",
         "batters": "177",
-        "pitches": "2032",
+        "pitches": "2036",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "70.4",
-        "ff%fourseam fastball %": "27.5",
-        "si%sinker %": "21.2",
+        "ff%fourseam fastball %": "27.6",
+        "si%sinker %": "21.1",
         "fc%cutter %": "9.2",
         "fs%splitter %": "2.9",
-        "ch%changeup %": "9.9",
+        "ch%changeup %": "9.8",
         "sl%slider %": "22.2",
         "cu%curve %": "7.2",
         "max evmax exit velocity": "116.2",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "44.1",
         "brlbarrels": "34",
         "brl%barrel %": "9.1",
-        "ab": "481",
+        "ab": "482",
         "avg": ".249",
         "h": "120",
         "1b": "77",
         "2b": "20",
         "3b": "5",
         "hr": "18",
-        "so": "114",
+        "so": "115",
         "bipballs in play": "372",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-18 21:53:37.402569"
+        "updated": "2025-06-18 21:53:47.086495"
     },
     "bos @ sea": [
         {
@@ -2196,6 +2196,21 @@
     ],
     "col @ wsh": [
         {
+            "player": "kyle farmer",
+            "game": "col @ wsh",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-06-18 21:53:15",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "6:45 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "james wood",
             "game": "col @ wsh",
             "hr/park": "",
@@ -3799,7 +3814,7 @@
             "team": "ari",
             "start": "7:07 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7972,14 +7987,14 @@
         {
             "player": "carlos santana",
             "game": "cle @ sf",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "4",
             "dt": "2025-06-18 21:51:29",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
             "team": "cle",
             "start": "9:45 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "90.9",
             "la": "27",
             "dist": "342"
