@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "86",
+        "pitchers": "87",
         "batters": "231",
-        "pitches": "3031",
+        "pitches": "3034",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "70.4",
         "ff%fourseam fastball %": "27.9",
@@ -13,22 +13,22 @@
         "sl%slider %": "23.1",
         "cu%curve %": "7.2",
         "max evmax exit velocity": "116.2",
-        "hhhard hit": "242",
-        "hh%hard hit %": "42.2",
+        "hhhard hit": "243",
+        "hh%hard hit %": "42.3",
         "brlbarrels": "46",
         "brl%barrel %": "8.0",
-        "ab": "725",
+        "ab": "727",
         "avg": ".239",
-        "h": "173",
+        "h": "174",
         "1b": "114",
         "2b": "28",
         "3b": "8",
-        "hr": "23",
+        "hr": "24",
         "so": "163",
-        "bipballs in play": "574",
+        "bipballs in play": "575",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-18 23:46:31.416676"
+        "updated": "2025-06-18 23:46:42.090354"
     },
     "bos @ sea": [
         {
@@ -9710,6 +9710,21 @@
     ],
     "cle @ sf": [
         {
+            "player": "jose ramirez",
+            "game": "cle @ sf",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-06-18 23:46:42",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "9:45 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "heliot ramos",
             "game": "cle @ sf",
             "hr/park": "",
@@ -10567,16 +10582,31 @@
     ],
     "hou @ ath": [
         {
-            "player": "jose altuve",
+            "player": "yainer diaz",
             "game": "hou @ ath",
             "hr/park": "",
+            "pa": "51",
+            "dt": "2025-06-18 23:46:42",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "10:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "96.3",
+            "la": "10",
+            "dist": "161"
+        },
+        {
+            "player": "jose altuve",
+            "game": "hou @ ath",
+            "hr/park": "30/30",
             "pa": "50",
             "dt": "2025-06-18 23:44:58",
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
             "team": "hou",
             "start": "10:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Home Run",
             "evo": "106.1",
             "la": "34",
             "dist": "432"
