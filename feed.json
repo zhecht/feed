@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "10",
-        "batters": "66",
-        "pitches": "443",
+        "pitchers": "11",
+        "batters": "67",
+        "pitches": "446",
         "max velomax pitch velocity": "98.6",
         "min velomin pitch velocity": "73.8",
-        "ff%fourseam fastball %": "33.9",
-        "si%sinker %": "14.0",
+        "ff%fourseam fastball %": "34.1",
+        "si%sinker %": "14.1",
         "fc%cutter %": "7.2",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "20.3",
-        "sl%slider %": "17.6",
+        "ch%changeup %": "20.2",
+        "sl%slider %": "17.5",
         "cu%curve %": "6.5",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "43",
         "hh%hard hit %": "48.9",
         "brlbarrels": "12",
         "brl%barrel %": "13.6",
-        "ab": "112",
-        "avg": ".339",
+        "ab": "113",
+        "avg": ".336",
         "h": "38",
         "1b": "19",
         "2b": "10",
@@ -28,7 +28,7 @@
         "bipballs in play": "88",
         "liveGames": 5,
         "totGames": 16,
-        "updated": "2025-06-19 14:13:06.317477"
+        "updated": "2025-06-19 14:13:14.467832"
     },
     "min @ cin": [
         {
@@ -41,7 +41,7 @@
             "team": "min",
             "start": "12:40 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1305,7 +1305,7 @@
             "team": "nyy",
             "start": "1:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "103.0",
             "la": "-21",
             "dist": "6"
@@ -1869,7 +1869,23 @@
         }
     ],
     "pit-gm2 @ det-gm2": [],
-    "stl @ chw": [],
+    "stl @ chw": [
+        {
+            "player": "masyn winn",
+            "game": "stl @ chw",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-19 14:13:09",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "2:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "stl-gm2 @ chw-gm2": [],
     "mil @ chc": [],
     "kc @ tex": [],
