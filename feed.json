@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "91",
         "batters": "232",
-        "pitches": "3111",
+        "pitches": "3116",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "70.4",
-        "ff%fourseam fastball %": "27.4",
+        "ff%fourseam fastball %": "27.3",
         "si%sinker %": "19.6",
         "fc%cutter %": "9.5",
         "fs%splitter %": "2.2",
-        "ch%changeup %": "10.9",
+        "ch%changeup %": "10.8",
         "sl%slider %": "22.8",
         "cu%curve %": "7.7",
         "max evmax exit velocity": "116.2",
-        "hhhard hit": "250",
-        "hh%hard hit %": "42.4",
+        "hhhard hit": "251",
+        "hh%hard hit %": "42.5",
         "brlbarrels": "47",
         "brl%barrel %": "8.0",
-        "ab": "744",
+        "ab": "745",
         "avg": ".242",
         "h": "180",
         "1b": "118",
@@ -25,10 +25,10 @@
         "3b": "8",
         "hr": "25",
         "so": "166",
-        "bipballs in play": "589",
+        "bipballs in play": "590",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-06-19 00:03:11.298493"
+        "updated": "2025-06-19 00:03:22.420277"
     },
     "bos @ sea": [
         {
@@ -9710,6 +9710,21 @@
     ],
     "cle @ sf": [
         {
+            "player": "gabriel arias",
+            "game": "cle @ sf",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-06-19 00:03:15",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nolan jones",
             "game": "cle @ sf",
             "hr/park": "",
@@ -9719,10 +9734,10 @@
             "team": "cle",
             "start": "",
             "in": "9",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "95.3",
+            "la": "-5",
+            "dist": "15"
         },
         {
             "player": "casey schmitt",
@@ -11598,7 +11613,7 @@
             "team": "lad",
             "start": "",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
