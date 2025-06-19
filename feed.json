@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "23",
         "batters": "115",
-        "pitches": "949",
+        "pitches": "951",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "35.6",
+        "ff%fourseam fastball %": "35.5",
         "si%sinker %": "14.1",
         "fc%cutter %": "8.1",
         "fs%splitter %": "0.1",
-        "ch%changeup %": "17.3",
+        "ch%changeup %": "17.5",
         "sl%slider %": "17.5",
         "cu%curve %": "6.8",
         "max evmax exit velocity": "112.0",
-        "hhhard hit": "83",
-        "hh%hard hit %": "46.6",
+        "hhhard hit": "84",
+        "hh%hard hit %": "46.9",
         "brlbarrels": "23",
-        "brl%barrel %": "12.9",
+        "brl%barrel %": "12.8",
         "ab": "225",
         "avg": ".276",
         "h": "62",
@@ -25,27 +25,12 @@
         "3b": "0",
         "hr": "14",
         "so": "47",
-        "bipballs in play": "178",
+        "bipballs in play": "179",
         "liveGames": 7,
         "totGames": 16,
-        "updated": "2025-06-19 14:55:16.125307"
+        "updated": "2025-06-19 14:55:24.546521"
     },
     "min @ cin": [
-        {
-            "player": "matt mclain",
-            "game": "min @ cin",
-            "hr/park": "",
-            "pa": "67",
-            "dt": "2025-06-19 14:54:53",
-            "img": "https://www.mlbstatic.com/team-logos/113.svg",
-            "team": "cin",
-            "start": "12:40 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "santiago espinal",
             "game": "min @ cin",
@@ -3095,7 +3080,7 @@
             "team": "stl",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "87.6",
             "la": "77",
             "dist": "64"
@@ -3389,6 +3374,21 @@
     "stl-gm2 @ chw-gm2": [],
     "mil @ chc": [
         {
+            "player": "jackson chourio",
+            "game": "mil @ chc",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-06-19 14:55:23",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:20 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nico hoerner",
             "game": "mil @ chc",
             "hr/park": "",
@@ -3670,10 +3670,10 @@
             "team": "tex",
             "start": "2:35 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "108.9",
+            "la": "3",
+            "dist": "86"
         },
         {
             "player": "wyatt langford",
