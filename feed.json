@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "6",
         "batters": "37",
-        "pitches": "151",
+        "pitches": "156",
         "max velomax pitch velocity": "98.6",
         "min velomin pitch velocity": "75.1",
-        "ff%fourseam fastball %": "38.4",
-        "si%sinker %": "9.9",
-        "fc%cutter %": "13.9",
+        "ff%fourseam fastball %": "37.8",
+        "si%sinker %": "10.9",
+        "fc%cutter %": "13.5",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "12.6",
-        "sl%slider %": "19.2",
-        "cu%curve %": "6.0",
+        "ch%changeup %": "12.8",
+        "sl%slider %": "18.6",
+        "cu%curve %": "6.4",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "17",
-        "hh%hard hit %": "51.5",
+        "hh%hard hit %": "50.0",
         "brlbarrels": "6",
-        "brl%barrel %": "18.2",
+        "brl%barrel %": "17.6",
         "ab": "42",
         "avg": ".286",
         "h": "12",
@@ -24,11 +24,11 @@
         "2b": "4",
         "3b": "0",
         "hr": "4",
-        "so": "8",
-        "bipballs in play": "33",
+        "so": "9",
+        "bipballs in play": "34",
         "liveGames": 4,
         "totGames": 16,
-        "updated": "2025-06-19 13:27:01.827688"
+        "updated": "2025-06-19 13:27:09.386203"
     },
     "min @ cin": [
         {
@@ -41,7 +41,7 @@
             "team": "min",
             "start": "12:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -418,10 +418,10 @@
             "team": "wsh",
             "start": "1:05 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Groundout",
+            "evo": "79.2",
             "la": "",
-            "dist": ""
+            "dist": "41"
         },
         {
             "player": "nathaniel lowe",
