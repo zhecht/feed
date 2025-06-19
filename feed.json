@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "74",
         "batters": "217",
-        "pitches": "2480",
+        "pitches": "2485",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "70.4",
-        "ff%fourseam fastball %": "28.4",
+        "ff%fourseam fastball %": "28.5",
         "si%sinker %": "20.2",
         "fc%cutter %": "9.0",
         "fs%splitter %": "2.4",
@@ -14,21 +14,21 @@
         "cu%curve %": "7.2",
         "max evmax exit velocity": "116.2",
         "hhhard hit": "205",
-        "hh%hard hit %": "44.8",
+        "hh%hard hit %": "44.7",
         "brlbarrels": "39",
         "brl%barrel %": "8.5",
-        "ab": "593",
-        "avg": ".245",
+        "ab": "594",
+        "avg": ".244",
         "h": "145",
         "1b": "95",
         "2b": "24",
         "3b": "7",
         "hr": "19",
         "so": "136",
-        "bipballs in play": "458",
+        "bipballs in play": "459",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-18 22:30:51.582955"
+        "updated": "2025-06-18 22:31:02.232631"
     },
     "bos @ sea": [
         {
@@ -6961,6 +6961,21 @@
     ],
     "bal @ tb": [
         {
+            "player": "cedric mullins",
+            "game": "bal @ tb",
+            "hr/park": "",
+            "pa": "82",
+            "dt": "2025-06-18 22:30:58",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:35 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "adley rutschman",
             "game": "bal @ tb",
             "hr/park": "",
@@ -6970,10 +6985,10 @@
             "team": "bal",
             "start": "7:35 PM",
             "in": "9",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "90.4",
+            "la": "-8",
+            "dist": "9"
         },
         {
             "player": "taylor walls",
