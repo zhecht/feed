@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "22",
         "batters": "119",
-        "pitches": "998",
+        "pitches": "1000",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "70.4",
-        "ff%fourseam fastball %": "28.0",
-        "si%sinker %": "20.6",
+        "ff%fourseam fastball %": "27.8",
+        "si%sinker %": "20.9",
         "fc%cutter %": "13.1",
         "fs%splitter %": "1.1",
-        "ch%changeup %": "11.7",
+        "ch%changeup %": "11.8",
         "sl%slider %": "19.4",
-        "cu%curve %": "6.0",
+        "cu%curve %": "5.9",
         "max evmax exit velocity": "115.2",
         "hhhard hit": "72",
-        "hh%hard hit %": "42.6",
+        "hh%hard hit %": "42.4",
         "brlbarrels": "18",
-        "brl%barrel %": "10.7",
+        "brl%barrel %": "10.6",
         "ab": "231",
         "avg": ".212",
         "h": "49",
@@ -24,11 +24,11 @@
         "2b": "7",
         "3b": "2",
         "hr": "13",
-        "so": "59",
-        "bipballs in play": "169",
+        "so": "58",
+        "bipballs in play": "170",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-18 20:26:50.242647"
+        "updated": "2025-06-18 20:26:58.858496"
     },
     "bos @ sea": [
         {
@@ -1837,6 +1837,21 @@
     "col @ wsh": [],
     "laa @ nyy": [
         {
+            "player": "anthony volpe",
+            "game": "laa @ nyy",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-06-18 20:26:58",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ben rice",
             "game": "laa @ nyy",
             "hr/park": "",
@@ -1846,10 +1861,10 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "73.5",
+            "la": "-5",
+            "dist": "14"
         },
         {
             "player": "zach neto",
@@ -2364,21 +2379,6 @@
     ],
     "ari @ tor": [
         {
-            "player": "ketel marte",
-            "game": "ari @ tor",
-            "hr/park": "",
-            "pa": "37",
-            "dt": "2025-06-18 20:26:44",
-            "img": "https://www.mlbstatic.com/team-logos/109.svg",
-            "team": "ari",
-            "start": "7:07 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jose herrera",
             "game": "ari @ tor",
             "hr/park": "",
@@ -2388,7 +2388,7 @@
             "team": "ari",
             "start": "7:07 PM",
             "in": "5",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
