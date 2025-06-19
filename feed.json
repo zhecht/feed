@@ -2,16 +2,16 @@
     "all": {
         "pitchers": "27",
         "batters": "125",
-        "pitches": "1102",
+        "pitches": "1104",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "34.9",
-        "si%sinker %": "14.7",
+        "ff%fourseam fastball %": "35.1",
+        "si%sinker %": "14.6",
         "fc%cutter %": "8.1",
         "fs%splitter %": "0.4",
         "ch%changeup %": "16.4",
-        "sl%slider %": "17.7",
-        "cu%curve %": "7.4",
+        "sl%slider %": "17.8",
+        "cu%curve %": "7.3",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "94",
         "hh%hard hit %": "45.4",
@@ -24,11 +24,11 @@
         "2b": "17",
         "3b": "0",
         "hr": "15",
-        "so": "54",
+        "so": "55",
         "bipballs in play": "207",
         "liveGames": 8,
         "totGames": 16,
-        "updated": "2025-06-19 15:07:45.354326"
+        "updated": "2025-06-19 15:07:53.885923"
     },
     "min @ cin": [
         {
@@ -2783,6 +2783,21 @@
     ],
     "pit @ det": [
         {
+            "player": "billy cook",
+            "game": "pit @ det",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-19 15:07:52",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "1:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tommy pham",
             "game": "pit @ det",
             "hr/park": "",
@@ -2792,7 +2807,7 @@
             "team": "pit",
             "start": "1:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "107.3",
             "la": "-5",
             "dist": "21"
@@ -3385,21 +3400,6 @@
     ],
     "pit-gm2 @ det-gm2": [],
     "stl @ chw": [
-        {
-            "player": "nolan arenado",
-            "game": "stl @ chw",
-            "hr/park": "",
-            "pa": "27",
-            "dt": "2025-06-19 15:07:39",
-            "img": "https://www.mlbstatic.com/team-logos/138.svg",
-            "team": "stl",
-            "start": "2:10 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "nolan gorman",
             "game": "stl @ chw",
@@ -4180,7 +4180,7 @@
             "team": "tex",
             "start": "2:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
