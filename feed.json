@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "78",
         "batters": "228",
-        "pitches": "2667",
+        "pitches": "2670",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "70.4",
         "ff%fourseam fastball %": "28.1",
@@ -10,14 +10,14 @@
         "fc%cutter %": "8.9",
         "fs%splitter %": "2.2",
         "ch%changeup %": "10.7",
-        "sl%slider %": "22.6",
+        "sl%slider %": "22.7",
         "cu%curve %": "7.5",
         "max evmax exit velocity": "116.2",
         "hhhard hit": "222",
-        "hh%hard hit %": "43.9",
+        "hh%hard hit %": "43.7",
         "brlbarrels": "41",
         "brl%barrel %": "8.1",
-        "ab": "645",
+        "ab": "646",
         "avg": ".243",
         "h": "157",
         "1b": "102",
@@ -25,10 +25,10 @@
         "3b": "7",
         "hr": "22",
         "so": "146",
-        "bipballs in play": "506",
+        "bipballs in play": "508",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-18 22:47:21.682142"
+        "updated": "2025-06-18 22:47:32.072210"
     },
     "bos @ sea": [
         {
@@ -5467,9 +5467,9 @@
             "start": "7:10 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "90.5",
+            "la": "20",
+            "dist": "310"
         },
         {
             "player": "will benson",
@@ -10012,6 +10012,21 @@
     ],
     "hou @ ath": [
         {
+            "player": "max schuemann",
+            "game": "hou @ ath",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-06-18 22:47:30",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "82.8",
+            "la": "-13",
+            "dist": "9"
+        },
+        {
             "player": "christian walker",
             "game": "hou @ ath",
             "hr/park": "",
@@ -10361,14 +10376,14 @@
         {
             "player": "luis arraez",
             "game": "sd @ lad",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "18",
             "dt": "2025-06-18 22:45:14",
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
             "team": "sd",
             "start": "10:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "88.2",
             "la": "30",
             "dist": "320"
