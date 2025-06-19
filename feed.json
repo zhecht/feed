@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "42",
         "batters": "150",
-        "pitches": "1683",
+        "pitches": "1685",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "72.8",
         "ff%fourseam fastball %": "33.2",
         "si%sinker %": "15.6",
-        "fc%cutter %": "8.3",
+        "fc%cutter %": "8.4",
         "fs%splitter %": "1.8",
         "ch%changeup %": "14.9",
         "sl%slider %": "17.5",
-        "cu%curve %": "8.3",
+        "cu%curve %": "8.2",
         "max evmax exit velocity": "113.2",
         "hhhard hit": "138",
-        "hh%hard hit %": "44.4",
+        "hh%hard hit %": "44.2",
         "brlbarrels": "34",
         "brl%barrel %": "10.9",
         "ab": "393",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "21",
         "so": "87",
-        "bipballs in play": "311",
+        "bipballs in play": "312",
         "liveGames": 8,
         "totGames": 16,
-        "updated": "2025-06-19 15:49:35.562673"
+        "updated": "2025-06-19 15:49:44.499212"
     },
     "min @ cin": [
         {
@@ -1408,7 +1408,7 @@
             "team": "col",
             "start": "1:05 PM",
             "in": "11",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3527,10 +3527,10 @@
             "team": "det",
             "start": "1:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "91.9",
+            "la": "44",
+            "dist": "289"
         },
         {
             "player": "zach mckinstry",
@@ -5138,7 +5138,7 @@
             "team": "chc",
             "start": "2:20 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
