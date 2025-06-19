@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "18",
         "batters": "103",
-        "pitches": "782",
+        "pitches": "783",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "70.4",
-        "ff%fourseam fastball %": "28.8",
-        "si%sinker %": "21.4",
-        "fc%cutter %": "14.1",
+        "ff%fourseam fastball %": "28.9",
+        "si%sinker %": "21.3",
+        "fc%cutter %": "13.9",
         "fs%splitter %": "0.6",
-        "ch%changeup %": "10.5",
+        "ch%changeup %": "10.3",
         "sl%slider %": "18.0",
-        "cu%curve %": "6.6",
+        "cu%curve %": "6.9",
         "max evmax exit velocity": "115.2",
         "hhhard hit": "52",
-        "hh%hard hit %": "40.0",
+        "hh%hard hit %": "39.7",
         "brlbarrels": "14",
-        "brl%barrel %": "10.8",
+        "brl%barrel %": "10.7",
         "ab": "178",
         "avg": ".197",
         "h": "35",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "10",
         "so": "47",
-        "bipballs in play": "130",
+        "bipballs in play": "131",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-18 20:06:06.336850"
+        "updated": "2025-06-18 20:06:14.668458"
     },
     "bos @ sea": [
         {
@@ -1024,6 +1024,21 @@
     ],
     "phi @ mia": [
         {
+            "player": "brandon marsh",
+            "game": "phi @ mia",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-06-18 20:06:13",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "edmundo sosa",
             "game": "phi @ mia",
             "hr/park": "",
@@ -1701,21 +1716,6 @@
     ],
     "col @ wsh": [],
     "laa @ nyy": [
-        {
-            "player": "luis rengifo",
-            "game": "laa @ nyy",
-            "hr/park": "",
-            "pa": "26",
-            "dt": "2025-06-18 20:06:01",
-            "img": "https://www.mlbstatic.com/team-logos/108.svg",
-            "team": "laa",
-            "start": "7:05 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "logan ohoppe",
             "game": "laa @ nyy",
@@ -2769,9 +2769,9 @@
             "start": "7:35 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "72.7",
+            "la": "27",
+            "dist": "240"
         },
         {
             "player": "jordan westburg",
