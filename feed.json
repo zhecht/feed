@@ -2,13 +2,13 @@
     "all": {
         "pitchers": "42",
         "batters": "150",
-        "pitches": "1697",
+        "pitches": "1700",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "72.8",
         "ff%fourseam fastball %": "33.4",
         "si%sinker %": "15.5",
         "fc%cutter %": "8.4",
-        "fs%splitter %": "1.8",
+        "fs%splitter %": "1.9",
         "ch%changeup %": "14.9",
         "sl%slider %": "17.4",
         "cu%curve %": "8.2",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "44.3",
         "brlbarrels": "35",
         "brl%barrel %": "11.1",
-        "ab": "396",
-        "avg": ".278",
+        "ab": "397",
+        "avg": ".277",
         "h": "110",
         "1b": "65",
         "2b": "23",
         "3b": "1",
         "hr": "21",
-        "so": "87",
+        "so": "88",
         "bipballs in play": "316",
         "liveGames": 8,
         "totGames": 16,
-        "updated": "2025-06-19 15:51:16.621169"
+        "updated": "2025-06-19 15:51:25.513680"
     },
     "min @ cin": [
         {
@@ -1408,7 +1408,7 @@
             "team": "col",
             "start": "1:05 PM",
             "in": "11",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5146,7 +5146,7 @@
         {
             "player": "kyle tucker",
             "game": "mil @ chc",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "46",
             "dt": "2025-06-19 15:51:07",
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
@@ -6347,6 +6347,21 @@
         }
     ],
     "ari @ tor": [
+        {
+            "player": "lourdes gurriel",
+            "game": "ari @ tor",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-06-19 15:50:38",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "3:07 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "eugenio suarez",
             "game": "ari @ tor",
