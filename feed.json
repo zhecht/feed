@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "27",
         "batters": "125",
-        "pitches": "1096",
+        "pitches": "1102",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "35.1",
-        "si%sinker %": "14.5",
+        "ff%fourseam fastball %": "34.9",
+        "si%sinker %": "14.7",
         "fc%cutter %": "8.1",
         "fs%splitter %": "0.4",
-        "ch%changeup %": "16.5",
-        "sl%slider %": "17.5",
+        "ch%changeup %": "16.4",
+        "sl%slider %": "17.7",
         "cu%curve %": "7.4",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "94",
-        "hh%hard hit %": "45.9",
+        "hh%hard hit %": "45.4",
         "brlbarrels": "24",
-        "brl%barrel %": "11.7",
-        "ab": "260",
-        "avg": ".281",
+        "brl%barrel %": "11.6",
+        "ab": "262",
+        "avg": ".279",
         "h": "73",
         "1b": "41",
         "2b": "17",
         "3b": "0",
         "hr": "15",
-        "so": "53",
-        "bipballs in play": "205",
+        "so": "54",
+        "bipballs in play": "207",
         "liveGames": 8,
         "totGames": 16,
-        "updated": "2025-06-19 15:07:36.944785"
+        "updated": "2025-06-19 15:07:45.354326"
     },
     "min @ cin": [
         {
@@ -2001,11 +2001,11 @@
     ],
     "laa @ nyy": [
         {
-            "player": "lamonte wade",
+            "player": "kevin newman",
             "game": "laa @ nyy",
             "hr/park": "",
-            "pa": "51",
-            "dt": "2025-06-19 15:05:39",
+            "pa": "52",
+            "dt": "2025-06-19 15:07:39",
             "img": "https://www.mlbstatic.com/team-logos/108.svg",
             "team": "laa",
             "start": "1:05 PM",
@@ -2014,6 +2014,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "lamonte wade",
+            "game": "laa @ nyy",
+            "hr/park": "0/30",
+            "pa": "51",
+            "dt": "2025-06-19 15:05:39",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "1:05 PM",
+            "in": "7",
+            "result": "Flyout",
+            "evo": "89.2",
+            "la": "29",
+            "dist": "316"
         },
         {
             "player": "dj lemahieu",
@@ -3371,6 +3386,21 @@
     "pit-gm2 @ det-gm2": [],
     "stl @ chw": [
         {
+            "player": "nolan arenado",
+            "game": "stl @ chw",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-06-19 15:07:39",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "2:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nolan gorman",
             "game": "stl @ chw",
             "hr/park": "",
@@ -3380,7 +3410,7 @@
             "team": "stl",
             "start": "2:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3774,9 +3804,9 @@
             "start": "2:20 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "88.8",
+            "la": "48",
+            "dist": "255"
         },
         {
             "player": "isaac collins",
