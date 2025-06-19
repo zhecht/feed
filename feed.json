@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "30",
         "batters": "129",
-        "pitches": "1192",
+        "pitches": "1198",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "34.3",
-        "si%sinker %": "14.6",
+        "ff%fourseam fastball %": "34.2",
+        "si%sinker %": "14.8",
         "fc%cutter %": "8.1",
         "fs%splitter %": "0.7",
-        "ch%changeup %": "16.2",
+        "ch%changeup %": "16.1",
         "sl%slider %": "18.0",
         "cu%curve %": "7.7",
         "max evmax exit velocity": "112.0",
-        "hhhard hit": "99",
+        "hhhard hit": "100",
         "hh%hard hit %": "44.4",
         "brlbarrels": "26",
-        "brl%barrel %": "11.7",
-        "ab": "283",
-        "avg": ".279",
-        "h": "79",
-        "1b": "45",
+        "brl%barrel %": "11.6",
+        "ab": "284",
+        "avg": ".282",
+        "h": "80",
+        "1b": "46",
         "2b": "18",
         "3b": "0",
         "hr": "16",
-        "so": "60",
-        "bipballs in play": "223",
+        "so": "61",
+        "bipballs in play": "225",
         "liveGames": 8,
         "totGames": 16,
-        "updated": "2025-06-19 15:14:36.363890"
+        "updated": "2025-06-19 15:14:44.997214"
     },
     "min @ cin": [
         {
@@ -41,10 +41,10 @@
             "team": "min",
             "start": "12:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "107.4",
+            "la": "10",
+            "dist": "185"
         },
         {
             "player": "ryan jeffers",
@@ -2903,6 +2903,21 @@
     ],
     "pit @ det": [
         {
+            "player": "joey bart",
+            "game": "pit @ det",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-06-19 15:14:39",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "1:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andrew mccutchen",
             "game": "pit @ det",
             "hr/park": "",
@@ -2912,10 +2927,10 @@
             "team": "pit",
             "start": "1:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "66.8",
+            "la": "-6",
+            "dist": "18"
         },
         {
             "player": "nick gonzales",
@@ -4677,7 +4692,7 @@
             "team": "ari",
             "start": "3:07 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
