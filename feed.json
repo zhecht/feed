@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "45",
         "batters": "151",
-        "pitches": "1763",
+        "pitches": "1765",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "70.7",
-        "ff%fourseam fastball %": "33.6",
+        "ff%fourseam fastball %": "33.4",
         "si%sinker %": "15.0",
         "fc%cutter %": "8.3",
         "fs%splitter %": "2.3",
-        "ch%changeup %": "14.9",
+        "ch%changeup %": "14.8",
         "sl%slider %": "17.8",
-        "cu%curve %": "8.0",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "142",
+        "hhhard hit": "143",
         "hh%hard hit %": "43.6",
-        "brlbarrels": "35",
-        "brl%barrel %": "10.7",
-        "ab": "411",
-        "avg": ".270",
-        "h": "111",
+        "brlbarrels": "36",
+        "brl%barrel %": "11.0",
+        "ab": "413",
+        "avg": ".271",
+        "h": "112",
         "1b": "66",
         "2b": "23",
         "3b": "1",
-        "hr": "21",
+        "hr": "22",
         "so": "92",
-        "bipballs in play": "326",
+        "bipballs in play": "328",
         "liveGames": 8,
         "totGames": 16,
-        "updated": "2025-06-19 15:58:02.535510"
+        "updated": "2025-06-19 15:58:11.867125"
     },
     "min @ cin": [
         {
@@ -1401,17 +1401,17 @@
         {
             "player": "james wood",
             "game": "col @ wsh",
-            "hr/park": "",
+            "hr/park": "30/30",
             "pa": "83",
             "dt": "2025-06-19 15:57:10",
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
             "team": "wsh",
             "start": "1:05 PM",
             "in": "11",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "110.2",
+            "la": "34",
+            "dist": "428"
         },
         {
             "player": "cj abrams",
@@ -5303,7 +5303,7 @@
             "team": "mil",
             "start": "2:20 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Game Advisory",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6016,6 +6016,21 @@
     ],
     "kc @ tex": [
         {
+            "player": "bobby witt",
+            "game": "kc @ tex",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-06-19 15:58:07",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jonah heim",
             "game": "kc @ tex",
             "hr/park": "",
@@ -6573,6 +6588,21 @@
     ],
     "ari @ tor": [
         {
+            "player": "addison barger",
+            "game": "ari @ tor",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-06-19 15:58:07",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "3:07 PM",
+            "in": "3",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bo bichette",
             "game": "ari @ tor",
             "hr/park": "",
@@ -6582,10 +6612,10 @@
             "team": "tor",
             "start": "3:07 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "66.5",
+            "la": "-7",
+            "dist": "17"
         },
         {
             "player": "jonatan clase",
