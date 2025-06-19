@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "25",
-        "batters": "119",
-        "pitches": "1020",
+        "batters": "120",
+        "pitches": "1023",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "35.1",
+        "ff%fourseam fastball %": "35.2",
         "si%sinker %": "14.8",
-        "fc%cutter %": "8.1",
+        "fc%cutter %": "8.2",
         "fs%splitter %": "0.2",
-        "ch%changeup %": "17.3",
+        "ch%changeup %": "17.2",
         "sl%slider %": "17.4",
-        "cu%curve %": "6.7",
+        "cu%curve %": "6.6",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "92",
         "hh%hard hit %": "46.9",
         "brlbarrels": "24",
         "brl%barrel %": "12.2",
-        "ab": "247",
-        "avg": ".291",
+        "ab": "246",
+        "avg": ".293",
         "h": "72",
         "1b": "40",
         "2b": "17",
@@ -28,7 +28,7 @@
         "bipballs in play": "196",
         "liveGames": 7,
         "totGames": 16,
-        "updated": "2025-06-19 15:01:19.347427"
+        "updated": "2025-06-19 15:01:27.893275"
     },
     "min @ cin": [
         {
@@ -2693,21 +2693,6 @@
     ],
     "pit @ det": [
         {
-            "player": "spencer torkelson",
-            "game": "pit @ det",
-            "hr/park": "",
-            "pa": "38",
-            "dt": "2025-06-19 15:00:52",
-            "img": "https://www.mlbstatic.com/team-logos/116.svg",
-            "team": "det",
-            "start": "1:10 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "riley greene",
             "game": "pit @ det",
             "hr/park": "",
@@ -3614,21 +3599,6 @@
     "stl-gm2 @ chw-gm2": [],
     "mil @ chc": [
         {
-            "player": "isaac collins",
-            "game": "mil @ chc",
-            "hr/park": "",
-            "pa": "24",
-            "dt": "2025-06-19 15:00:52",
-            "img": "https://www.mlbstatic.com/team-logos/158.svg",
-            "team": "mil",
-            "start": "2:20 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "rhys hoskins",
             "game": "mil @ chc",
             "hr/park": "",
@@ -3976,16 +3946,31 @@
     ],
     "kc @ tex": [
         {
-            "player": "freddy fermin",
+            "player": "drew waters",
             "game": "kc @ tex",
             "hr/park": "",
+            "pa": "11",
+            "dt": "2025-06-19 15:01:22",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:35 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "freddy fermin",
+            "game": "kc @ tex",
+            "hr/park": "0/30",
             "pa": "10",
             "dt": "2025-06-19 14:59:07",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "start": "2:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "100.5",
             "la": "21",
             "dist": "368"
