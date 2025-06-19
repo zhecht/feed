@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "88",
-        "batters": "205",
-        "pitches": "3017",
+        "pitchers": "89",
+        "batters": "206",
+        "pitches": "3021",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "70.7",
         "ff%fourseam fastball %": "31.9",
@@ -11,13 +11,13 @@
         "fs%splitter %": "2.3",
         "ch%changeup %": "12.5",
         "sl%slider %": "19.6",
-        "cu%curve %": "8.3",
+        "cu%curve %": "8.2",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "222",
-        "hh%hard hit %": "40.1",
+        "hhhard hit": "223",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "53",
         "brl%barrel %": "9.6",
-        "ab": "706",
+        "ab": "708",
         "avg": ".246",
         "h": "174",
         "1b": "105",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "35",
         "so": "171",
-        "bipballs in play": "553",
+        "bipballs in play": "554",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-06-19 19:17:31.472493"
+        "updated": "2025-06-19 19:17:42.154487"
     },
     "min @ cin": [
         {
@@ -4869,6 +4869,21 @@
         }
     ],
     "pit-gm2 @ det-gm2": [
+        {
+            "player": "andrew mccutchen",
+            "game": "pit-gm2 @ det-gm2",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-06-19 19:17:38",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "5:40 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "97.7",
+            "la": "48",
+            "dist": "285"
+        },
         {
             "player": "wenceel perez",
             "game": "pit-gm2 @ det-gm2",
@@ -11619,21 +11634,6 @@
     ],
     "phi @ mia": [
         {
-            "player": "jesus sanchez",
-            "game": "phi @ mia",
-            "hr/park": "",
-            "pa": "19",
-            "dt": "2025-06-19 19:17:24",
-            "img": "https://www.mlbstatic.com/team-logos/146.svg",
-            "team": "mia",
-            "start": "6:40 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "95.6",
-            "la": "-20",
-            "dist": "7"
-        },
-        {
             "player": "connor norby",
             "game": "phi @ mia",
             "hr/park": "",
@@ -11904,7 +11904,38 @@
             "dist": "6"
         }
     ],
-    "nym @ atl": [],
+    "nym @ atl": [
+        {
+            "player": "brandon nimmo",
+            "game": "nym @ atl",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-06-19 19:17:38",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "francisco lindor",
+            "game": "nym @ atl",
+            "hr/park": "0/30",
+            "pa": "1",
+            "dt": "2025-06-19 19:17:38",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:15 PM",
+            "in": "1",
+            "result": "Lineout",
+            "evo": "97.5",
+            "la": "22",
+            "dist": "347"
+        }
+    ],
     "bal @ tb": [],
     "hou @ ath": [],
     "sd @ lad": []
