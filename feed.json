@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "91",
         "batters": "232",
-        "pitches": "3128",
+        "pitches": "3132",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "70.4",
         "ff%fourseam fastball %": "27.2",
@@ -10,14 +10,14 @@
         "fc%cutter %": "9.5",
         "fs%splitter %": "2.2",
         "ch%changeup %": "10.9",
-        "sl%slider %": "22.8",
+        "sl%slider %": "22.9",
         "cu%curve %": "7.8",
         "max evmax exit velocity": "116.2",
         "hhhard hit": "251",
         "hh%hard hit %": "42.5",
         "brlbarrels": "47",
         "brl%barrel %": "8.0",
-        "ab": "747",
+        "ab": "748",
         "avg": ".241",
         "h": "180",
         "1b": "118",
@@ -28,7 +28,7 @@
         "bipballs in play": "591",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-06-19 00:05:01.131924"
+        "updated": "2025-06-19 00:05:11.894878"
     },
     "bos @ sea": [
         {
@@ -9710,6 +9710,21 @@
     ],
     "cle @ sf": [
         {
+            "player": "bo naylor",
+            "game": "cle @ sf",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-06-19 00:05:11",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gabriel arias",
             "game": "cle @ sf",
             "hr/park": "",
@@ -10717,21 +10732,6 @@
     ],
     "hou @ ath": [
         {
-            "player": "austin wynns",
-            "game": "hou @ ath",
-            "hr/park": "",
-            "pa": "61",
-            "dt": "2025-06-19 00:04:42",
-            "img": "https://www.mlbstatic.com/team-logos/133.svg",
-            "team": "ath",
-            "start": "",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "gio urshela",
             "game": "hou @ ath",
             "hr/park": "",
@@ -11634,6 +11634,21 @@
     ],
     "sd @ lad": [
         {
+            "player": "dalton rushing",
+            "game": "sd @ lad",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-06-19 00:05:11",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "enrique hernandez",
             "game": "sd @ lad",
             "hr/park": "",
@@ -11643,7 +11658,7 @@
             "team": "lad",
             "start": "",
             "in": "7",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "89.4",
             "la": "21",
             "dist": "279"
