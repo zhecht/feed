@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "91",
         "batters": "214",
-        "pitches": "3132",
+        "pitches": "3136",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "70.7",
         "ff%fourseam fastball %": "31.6",
@@ -13,22 +13,22 @@
         "sl%slider %": "19.8",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "229",
-        "hh%hard hit %": "40.0",
+        "hhhard hit": "230",
+        "hh%hard hit %": "40.1",
         "brlbarrels": "53",
-        "brl%barrel %": "9.3",
-        "ab": "732",
-        "avg": ".242",
+        "brl%barrel %": "9.2",
+        "ab": "734",
+        "avg": ".241",
         "h": "177",
         "1b": "108",
         "2b": "33",
         "3b": "1",
         "hr": "35",
         "so": "177",
-        "bipballs in play": "572",
+        "bipballs in play": "574",
         "liveGames": 13,
         "totGames": 16,
-        "updated": "2025-06-19 19:32:44.552022"
+        "updated": "2025-06-19 19:32:55.836243"
     },
     "min @ cin": [
         {
@@ -4870,6 +4870,21 @@
     ],
     "pit-gm2 @ det-gm2": [
         {
+            "player": "gleyber torres",
+            "game": "pit-gm2 @ det-gm2",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-06-19 19:32:54",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "5:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "colt keith",
             "game": "pit-gm2 @ det-gm2",
             "hr/park": "",
@@ -4879,10 +4894,10 @@
             "team": "det",
             "start": "5:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "57.3",
+            "la": "-33",
+            "dist": "6"
         },
         {
             "player": "trey sweeney",
@@ -6703,6 +6718,21 @@
         }
     ],
     "stl-gm2 @ chw-gm2": [
+        {
+            "player": "nolan arenado",
+            "game": "stl-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-06-19 19:32:54",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "5:40 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "97.3",
+            "la": "-21",
+            "dist": "5"
+        },
         {
             "player": "alec burleson",
             "game": "stl-gm2 @ chw-gm2",
@@ -11838,7 +11868,7 @@
             "team": "mia",
             "start": "6:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
