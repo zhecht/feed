@@ -1,22 +1,22 @@
 {
     "all": {
-        "pitchers": "27",
-        "batters": "126",
-        "pitches": "1142",
+        "pitchers": "28",
+        "batters": "127",
+        "pitches": "1148",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "34.7",
-        "si%sinker %": "14.7",
+        "ff%fourseam fastball %": "34.8",
+        "si%sinker %": "14.6",
         "fc%cutter %": "7.9",
         "fs%splitter %": "0.4",
         "ch%changeup %": "16.4",
-        "sl%slider %": "17.9",
-        "cu%curve %": "7.7",
+        "sl%slider %": "17.7",
+        "cu%curve %": "7.8",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "96",
-        "hh%hard hit %": "45.1",
+        "hh%hard hit %": "44.9",
         "brlbarrels": "24",
-        "brl%barrel %": "11.3",
+        "brl%barrel %": "11.2",
         "ab": "272",
         "avg": ".276",
         "h": "75",
@@ -25,27 +25,12 @@
         "3b": "0",
         "hr": "15",
         "so": "58",
-        "bipballs in play": "213",
+        "bipballs in play": "214",
         "liveGames": 8,
         "totGames": 16,
-        "updated": "2025-06-19 15:11:01.650370"
+        "updated": "2025-06-19 15:11:10.159796"
     },
     "min @ cin": [
-        {
-            "player": "brooks lee",
-            "game": "min @ cin",
-            "hr/park": "",
-            "pa": "73",
-            "dt": "2025-06-19 15:10:52",
-            "img": "https://www.mlbstatic.com/team-logos/142.svg",
-            "team": "min",
-            "start": "12:40 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "ty france",
             "game": "min @ cin",
@@ -3908,7 +3893,7 @@
             "team": "chc",
             "start": "2:20 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4531,7 +4516,23 @@
             "dist": "76"
         }
     ],
-    "ari @ tor": [],
+    "ari @ tor": [
+        {
+            "player": "geraldo perdomo",
+            "game": "ari @ tor",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-19 15:11:07",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "3:07 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "75.1",
+            "la": "-12",
+            "dist": "9"
+        }
+    ],
     "cle @ sf": [],
     "phi @ mia": [],
     "nym @ atl": [],
