@@ -1,23 +1,23 @@
 {
     "all": {
         "pitchers": "25",
-        "batters": "127",
-        "pitches": "1133",
+        "batters": "128",
+        "pitches": "1142",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "70.4",
-        "ff%fourseam fastball %": "27.4",
+        "ff%fourseam fastball %": "27.5",
         "si%sinker %": "22.0",
-        "fc%cutter %": "13.2",
-        "fs%splitter %": "1.1",
+        "fc%cutter %": "13.1",
+        "fs%splitter %": "1.2",
         "ch%changeup %": "11.1",
-        "sl%slider %": "18.8",
-        "cu%curve %": "6.4",
+        "sl%slider %": "18.7",
+        "cu%curve %": "6.3",
         "max evmax exit velocity": "115.2",
         "hhhard hit": "82",
         "hh%hard hit %": "42.7",
         "brlbarrels": "19",
         "brl%barrel %": "9.9",
-        "ab": "259",
+        "ab": "260",
         "avg": ".212",
         "h": "55",
         "1b": "31",
@@ -28,7 +28,7 @@
         "bipballs in play": "192",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-18 20:38:50.108147"
+        "updated": "2025-06-18 20:38:58.868724"
     },
     "bos @ sea": [
         {
@@ -1024,6 +1024,21 @@
     ],
     "phi @ mia": [
         {
+            "player": "bryson stott",
+            "game": "phi @ mia",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-06-18 20:38:58",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jack winkler",
             "game": "phi @ mia",
             "hr/park": "",
@@ -1975,7 +1990,7 @@
         {
             "player": "taylor ward",
             "game": "laa @ nyy",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "41",
             "dt": "2025-06-18 20:37:29",
             "img": "https://www.mlbstatic.com/team-logos/108.svg",
@@ -2589,21 +2604,6 @@
         }
     ],
     "ari @ tor": [
-        {
-            "player": "alejandro kirk",
-            "game": "ari @ tor",
-            "hr/park": "",
-            "pa": "41",
-            "dt": "2025-06-18 20:38:44",
-            "img": "https://www.mlbstatic.com/team-logos/141.svg",
-            "team": "tor",
-            "start": "7:07 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "94.7",
-            "la": "-24",
-            "dist": "6"
-        },
         {
             "player": "vladimir guerrero",
             "game": "ari @ tor",
@@ -3705,6 +3705,21 @@
     ],
     "bal @ tb": [
         {
+            "player": "curtis mead",
+            "game": "bal @ tb",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-06-18 20:38:58",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:35 PM",
+            "in": "3",
+            "result": "Walk",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cedric mullins",
             "game": "bal @ tb",
             "hr/park": "",
@@ -4127,6 +4142,21 @@
     ],
     "kc @ tex": [
         {
+            "player": "kyle higashioka",
+            "game": "kc @ tex",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-06-18 20:38:58",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jake burger",
             "game": "kc @ tex",
             "hr/park": "",
@@ -4136,10 +4166,10 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "87.0",
+            "la": "69",
+            "dist": "138"
         },
         {
             "player": "nick loftin",
