@@ -2,16 +2,16 @@
     "all": {
         "pitchers": "106",
         "batters": "242",
-        "pitches": "3727",
+        "pitches": "3730",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "70.7",
-        "ff%fourseam fastball %": "31.1",
-        "si%sinker %": "17.1",
+        "ff%fourseam fastball %": "31.0",
+        "si%sinker %": "17.2",
         "fc%cutter %": "8.3",
         "fs%splitter %": "2.0",
         "ch%changeup %": "12.6",
         "sl%slider %": "20.5",
-        "cu%curve %": "8.2",
+        "cu%curve %": "8.3",
         "max evmax exit velocity": "114.8",
         "hhhard hit": "273",
         "hh%hard hit %": "40.0",
@@ -24,11 +24,11 @@
         "2b": "40",
         "3b": "1",
         "hr": "39",
-        "so": "209",
+        "so": "210",
         "bipballs in play": "683",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-06-19 20:42:48.156158"
+        "updated": "2025-06-19 20:43:00.287684"
     },
     "min @ cin": [
         {
@@ -4869,21 +4869,6 @@
         }
     ],
     "pit-gm2 @ det-gm2": [
-        {
-            "player": "oneil cruz",
-            "game": "pit-gm2 @ det-gm2",
-            "hr/park": "",
-            "pa": "70",
-            "dt": "2025-06-19 20:41:54",
-            "img": "https://www.mlbstatic.com/team-logos/134.svg",
-            "team": "pit",
-            "start": "5:40 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "isiah kiner falefa",
             "game": "pit-gm2 @ det-gm2",
@@ -12761,7 +12746,7 @@
         {
             "player": "otto kemp",
             "game": "phi @ mia",
-            "hr/park": "",
+            "hr/park": "13/30",
             "pa": "62",
             "dt": "2025-06-19 20:41:54",
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
@@ -13691,6 +13676,21 @@
     ],
     "nym @ atl": [
         {
+            "player": "ronald acuna",
+            "game": "nym @ atl",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-06-19 20:42:54",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "juan soto",
             "game": "nym @ atl",
             "hr/park": "",
@@ -14287,7 +14287,7 @@
             "team": "tb",
             "start": "7:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
