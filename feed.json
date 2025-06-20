@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "102",
         "batters": "242",
-        "pitches": "3562",
+        "pitches": "3568",
         "max velomax pitch velocity": "101.2",
         "min velomin pitch velocity": "70.7",
-        "ff%fourseam fastball %": "31.2",
+        "ff%fourseam fastball %": "31.1",
         "si%sinker %": "17.3",
         "fc%cutter %": "8.4",
         "fs%splitter %": "2.0",
-        "ch%changeup %": "12.4",
+        "ch%changeup %": "12.5",
         "sl%slider %": "20.2",
         "cu%curve %": "8.4",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "264",
-        "hh%hard hit %": "40.4",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "59",
         "brl%barrel %": "9.0",
-        "ab": "832",
-        "avg": ".240",
-        "h": "200",
-        "1b": "122",
+        "ab": "834",
+        "avg": ".241",
+        "h": "201",
+        "1b": "123",
         "2b": "40",
         "3b": "1",
         "hr": "37",
         "so": "197",
-        "bipballs in play": "654",
+        "bipballs in play": "656",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-06-19 20:24:46.915127"
+        "updated": "2025-06-19 20:24:58.686598"
     },
     "min @ cin": [
         {
@@ -4870,6 +4870,21 @@
     ],
     "pit-gm2 @ det-gm2": [
         {
+            "player": "jared triolo",
+            "game": "pit-gm2 @ det-gm2",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-06-19 20:24:52",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "5:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "adam frazier",
             "game": "pit-gm2 @ det-gm2",
             "hr/park": "",
@@ -4879,10 +4894,10 @@
             "team": "pit",
             "start": "5:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Groundout",
+            "evo": "70.6",
             "la": "",
-            "dist": ""
+            "dist": "35"
         },
         {
             "player": "nick gonzales",
@@ -7019,6 +7034,21 @@
     ],
     "stl-gm2 @ chw-gm2": [
         {
+            "player": "miguel vargas",
+            "game": "stl-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "77",
+            "dt": "2025-06-19 20:24:52",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "5:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "vinny capra",
             "game": "stl-gm2 @ chw-gm2",
             "hr/park": "",
@@ -7028,7 +7058,7 @@
             "team": "chw",
             "start": "5:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Fielders Choice Out",
             "evo": "83.9",
             "la": "-26",
             "dist": "4"
@@ -13792,10 +13822,10 @@
             "team": "tb",
             "start": "7:35 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "71.8",
+            "la": "8",
+            "dist": "87"
         },
         {
             "player": "kameron misner",
