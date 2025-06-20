@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "23",
         "batters": "81",
-        "pitches": "588",
+        "pitches": "594",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "69.3",
-        "ff%fourseam fastball %": "34.7",
-        "si%sinker %": "13.8",
-        "fc%cutter %": "5.8",
+        "ff%fourseam fastball %": "35.0",
+        "si%sinker %": "13.6",
+        "fc%cutter %": "5.9",
         "fs%splitter %": "1.2",
-        "ch%changeup %": "9.7",
-        "sl%slider %": "24.0",
+        "ch%changeup %": "9.6",
+        "sl%slider %": "23.7",
         "cu%curve %": "10.9",
         "max evmax exit velocity": "112.2",
         "hhhard hit": "48",
-        "hh%hard hit %": "44.4",
+        "hh%hard hit %": "44.0",
         "brlbarrels": "9",
         "brl%barrel %": "8.3",
-        "ab": "139",
-        "avg": ".252",
+        "ab": "138",
+        "avg": ".254",
         "h": "35",
         "1b": "19",
         "2b": "7",
         "3b": "1",
         "hr": "8",
         "so": "31",
-        "bipballs in play": "108",
+        "bipballs in play": "109",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-06-20 19:32:44.377453"
+        "updated": "2025-06-20 19:32:52.370121"
     },
     "sea @ chc": [
         {
@@ -1636,7 +1636,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1749,6 +1749,21 @@
     ],
     "chw @ tor": [
         {
+            "player": "andrew benintendi",
+            "game": "chw @ tor",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-06-20 19:32:02",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:07 PM",
+            "in": "2",
+            "result": "Mound Visit",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "chase meidroth",
             "game": "chw @ tor",
             "hr/park": "",
@@ -1758,7 +1773,7 @@
             "team": "chw",
             "start": "7:07 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2215,9 +2230,9 @@
             "start": "7:15 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "93.6",
+            "la": "55",
+            "dist": "250"
         },
         {
             "player": "trea turner",
