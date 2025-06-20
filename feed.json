@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "23",
-        "batters": "84",
-        "pitches": "607",
+        "batters": "87",
+        "pitches": "614",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "69.3",
-        "ff%fourseam fastball %": "34.8",
+        "ff%fourseam fastball %": "35.0",
         "si%sinker %": "13.7",
-        "fc%cutter %": "5.8",
+        "fc%cutter %": "5.9",
         "fs%splitter %": "1.3",
-        "ch%changeup %": "9.9",
-        "sl%slider %": "23.4",
+        "ch%changeup %": "9.8",
+        "sl%slider %": "23.1",
         "cu%curve %": "11.2",
         "max evmax exit velocity": "112.2",
-        "hhhard hit": "50",
-        "hh%hard hit %": "44.6",
+        "hhhard hit": "51",
+        "hh%hard hit %": "45.1",
         "brlbarrels": "9",
         "brl%barrel %": "8.0",
-        "ab": "142",
-        "avg": ".246",
-        "h": "35",
+        "ab": "145",
+        "avg": ".248",
+        "h": "36",
         "1b": "19",
-        "2b": "7",
+        "2b": "8",
         "3b": "1",
         "hr": "8",
         "so": "31",
-        "bipballs in play": "112",
+        "bipballs in play": "113",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-06-20 19:34:30.324041"
+        "updated": "2025-06-20 19:34:38.388457"
     },
     "sea @ chc": [
         {
@@ -1991,6 +1991,21 @@
     ],
     "atl @ mia": [
         {
+            "player": "dane myers",
+            "game": "atl @ mia",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-06-20 19:34:33",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle stowers",
             "game": "atl @ mia",
             "hr/park": "0/30",
@@ -2000,7 +2015,7 @@
             "team": "mia",
             "start": "7:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "95.2",
             "la": "25",
             "dist": "343"
@@ -2158,11 +2173,11 @@
     ],
     "cin @ stl": [
         {
-            "player": "tyler stephenson",
+            "player": "spencer steer",
             "game": "cin @ stl",
             "hr/park": "",
-            "pa": "8",
-            "dt": "2025-06-20 19:32:02",
+            "pa": "9",
+            "dt": "2025-06-20 19:34:33",
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
             "team": "cin",
             "start": "7:15 PM",
@@ -2171,6 +2186,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "tyler stephenson",
+            "game": "cin @ stl",
+            "hr/park": "0/30",
+            "pa": "8",
+            "dt": "2025-06-20 19:32:02",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:15 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "100.8",
+            "la": "41",
+            "dist": "345"
         },
         {
             "player": "nolan gorman",
@@ -2279,6 +2309,21 @@
         }
     ],
     "nym @ phi": [
+        {
+            "player": "alec bohm",
+            "game": "nym @ phi",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-06-20 19:34:33",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "7:15 PM",
+            "in": "1",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kyle schwarber",
             "game": "nym @ phi",
