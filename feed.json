@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "11",
-        "batters": "19",
-        "pitches": "306",
+        "pitchers": "12",
+        "batters": "20",
+        "pitches": "308",
         "max velomax pitch velocity": "98.4",
         "min velomin pitch velocity": "69.3",
-        "ff%fourseam fastball %": "30.7",
-        "si%sinker %": "19.9",
+        "ff%fourseam fastball %": "31.2",
+        "si%sinker %": "19.8",
         "fc%cutter %": "3.9",
         "fs%splitter %": "1.6",
-        "ch%changeup %": "8.2",
-        "sl%slider %": "23.5",
-        "cu%curve %": "12.1",
+        "ch%changeup %": "8.1",
+        "sl%slider %": "23.4",
+        "cu%curve %": "12.0",
         "max evmax exit velocity": "112.2",
         "hhhard hit": "26",
-        "hh%hard hit %": "44.8",
+        "hh%hard hit %": "44.1",
         "brlbarrels": "5",
-        "brl%barrel %": "8.6",
-        "ab": "73",
-        "avg": ".301",
-        "h": "22",
-        "1b": "10",
+        "brl%barrel %": "8.5",
+        "ab": "74",
+        "avg": ".311",
+        "h": "23",
+        "1b": "11",
         "2b": "6",
         "3b": "0",
         "hr": "6",
         "so": "15",
-        "bipballs in play": "58",
+        "bipballs in play": "59",
         "liveGames": 2,
         "totGames": 15,
-        "updated": "2025-06-20 18:41:43.731373"
+        "updated": "2025-06-20 18:41:51.335058"
     },
     "sea @ chc": [
         {
@@ -109,7 +109,7 @@
         {
             "player": "mitch garver",
             "game": "sea @ chc",
-            "hr/park": "1/30",
+            "hr/park": "12/30",
             "pa": "74",
             "dt": "2025-06-20 17:03:02",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
@@ -119,7 +119,7 @@
             "result": "Home Run",
             "evo": "101.9",
             "la": "38",
-            "dist": "384"
+            "dist": "394"
         },
         {
             "player": "randy arozarena",
@@ -1217,7 +1217,23 @@
             "dist": "16"
         }
     ],
-    "tex @ pit": [],
+    "tex @ pit": [
+        {
+            "player": "josh smith",
+            "game": "tex @ pit",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-20 18:41:46",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "6:40 PM",
+            "in": "1",
+            "result": "Single",
+            "evo": "80.9",
+            "la": "21",
+            "dist": "237"
+        }
+    ],
     "det @ tb": [],
     "bal @ nyy": [],
     "chw @ tor": [],
