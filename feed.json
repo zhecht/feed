@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "27",
         "batters": "126",
-        "pitches": "943",
+        "pitches": "948",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "69.3",
-        "ff%fourseam fastball %": "33.9",
-        "si%sinker %": "12.4",
-        "fc%cutter %": "9.4",
+        "ff%fourseam fastball %": "34.1",
+        "si%sinker %": "12.3",
+        "fc%cutter %": "9.6",
         "fs%splitter %": "1.5",
         "ch%changeup %": "7.6",
-        "sl%slider %": "24.2",
+        "sl%slider %": "24.1",
         "cu%curve %": "10.9",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "73",
-        "hh%hard hit %": "44.0",
+        "hhhard hit": "74",
+        "hh%hard hit %": "44.3",
         "brlbarrels": "14",
         "brl%barrel %": "8.4",
         "ab": "215",
@@ -24,11 +24,11 @@
         "2b": "10",
         "3b": "1",
         "hr": "11",
-        "so": "49",
-        "bipballs in play": "166",
+        "so": "51",
+        "bipballs in play": "167",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-06-20 20:02:57.127843"
+        "updated": "2025-06-20 20:03:05.538202"
     },
     "sea @ chc": [
         {
@@ -1845,7 +1845,7 @@
             "team": "det",
             "start": "7:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2254,7 +2254,7 @@
             "team": "chw",
             "start": "7:07 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2632,9 +2632,9 @@
             "start": "7:10 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "110.8",
+            "la": "8",
+            "dist": "155"
         },
         {
             "player": "liam hicks",
@@ -3361,6 +3361,21 @@
     ],
     "nym @ phi": [
         {
+            "player": "pete alonso",
+            "game": "nym @ phi",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-06-20 20:03:02",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:15 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "juan soto",
             "game": "nym @ phi",
             "hr/park": "",
@@ -3370,7 +3385,7 @@
             "team": "nym",
             "start": "7:15 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
