@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "37",
-        "batters": "161",
-        "pitches": "1546",
+        "pitchers": "38",
+        "batters": "164",
+        "pitches": "1548",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "69.3",
         "ff%fourseam fastball %": "34.8",
@@ -11,24 +11,24 @@
         "fs%splitter %": "1.7",
         "ch%changeup %": "6.8",
         "sl%slider %": "24.7",
-        "cu%curve %": "12.2",
+        "cu%curve %": "12.1",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "115",
+        "hhhard hit": "116",
         "hh%hard hit %": "42.8",
         "brlbarrels": "22",
-        "brl%barrel %": "8.2",
-        "ab": "357",
-        "avg": ".263",
-        "h": "94",
-        "1b": "61",
+        "brl%barrel %": "8.1",
+        "ab": "358",
+        "avg": ".265",
+        "h": "95",
+        "1b": "62",
         "2b": "18",
         "3b": "2",
         "hr": "13",
         "so": "89",
-        "bipballs in play": "269",
+        "bipballs in play": "271",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-20 20:46:29.143678"
+        "updated": "2025-06-20 20:46:38.307242"
     },
     "sea @ chc": [
         {
@@ -1219,6 +1219,21 @@
     ],
     "tex @ pit": [
         {
+            "player": "billy cook",
+            "game": "tex @ pit",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-06-20 20:46:32",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh jung",
             "game": "tex @ pit",
             "hr/park": "",
@@ -2115,7 +2130,7 @@
             "team": "det",
             "start": "7:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3777,21 +3792,6 @@
     ],
     "atl @ mia": [
         {
-            "player": "marcell ozuna",
-            "game": "atl @ mia",
-            "hr/park": "",
-            "pa": "46",
-            "dt": "2025-06-20 20:46:16",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "7:10 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "matt olson",
             "game": "atl @ mia",
             "hr/park": "",
@@ -4468,21 +4468,6 @@
         }
     ],
     "cin @ stl": [
-        {
-            "player": "gavin lux",
-            "game": "cin @ stl",
-            "hr/park": "",
-            "pa": "41",
-            "dt": "2025-06-20 20:44:47",
-            "img": "https://www.mlbstatic.com/team-logos/113.svg",
-            "team": "cin",
-            "start": "7:15 PM",
-            "in": "6",
-            "result": "Strikeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "tj friedl",
             "game": "cin @ stl",
@@ -5900,6 +5885,36 @@
     ],
     "ari @ col": [
         {
+            "player": "eugenio suarez",
+            "game": "ari @ col",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-06-20 20:45:02",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "8:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "74.7",
+            "la": "31",
+            "dist": "271"
+        },
+        {
+            "player": "lourdes gurriel",
+            "game": "ari @ col",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-06-20 20:45:02",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "8:40 PM",
+            "in": "1",
+            "result": "Single",
+            "evo": "102.6",
+            "la": "14",
+            "dist": "244"
+        },
+        {
             "player": "geraldo perdomo",
             "game": "ari @ col",
             "hr/park": "",
@@ -5909,7 +5924,7 @@
             "team": "ari",
             "start": "8:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "91.1",
             "la": "-26",
             "dist": "6"
