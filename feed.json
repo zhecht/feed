@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "34",
-        "batters": "121",
-        "pitches": "1359",
+        "pitchers": "35",
+        "batters": "122",
+        "pitches": "1361",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "37.6",
         "ff%fourseam fastball %": "26.5",
-        "si%sinker %": "21.0",
+        "si%sinker %": "20.9",
         "fc%cutter %": "10.9",
         "fs%splitter %": "1.1",
         "ch%changeup %": "10.2",
-        "sl%slider %": "20.8",
-        "cu%curve %": "9.0",
+        "sl%slider %": "20.7",
+        "cu%curve %": "9.1",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "105",
         "hh%hard hit %": "40.2",
         "brlbarrels": "18",
         "brl%barrel %": "6.9",
-        "ab": "307",
+        "ab": "308",
         "avg": ".231",
         "h": "71",
         "1b": "41",
         "2b": "13",
         "3b": "2",
         "hr": "15",
-        "so": "56",
+        "so": "57",
         "bipballs in play": "261",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-21 16:11:18.841312"
+        "updated": "2025-06-21 16:11:27.928973"
     },
     "det @ tb": [
         {
@@ -5294,21 +5294,6 @@
     ],
     "bos @ sf": [
         {
-            "player": "trevor story",
-            "game": "bos @ sf",
-            "hr/park": "",
-            "pa": "4",
-            "dt": "2025-06-21 16:11:09",
-            "img": "https://www.mlbstatic.com/team-logos/111.svg",
-            "team": "bos",
-            "start": "4:05 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "roman anthony",
             "game": "bos @ sf",
             "hr/park": "",
@@ -5356,6 +5341,21 @@
     ],
     "tex @ pit": [
         {
+            "player": "corey seager",
+            "game": "tex @ pit",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-06-21 16:11:25",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "sam haggerty",
             "game": "tex @ pit",
             "hr/park": "",
@@ -5365,7 +5365,7 @@
             "team": "tex",
             "start": "4:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5386,7 +5386,23 @@
             "dist": "244"
         }
     ],
-    "atl @ mia": [],
+    "atl @ mia": [
+        {
+            "player": "ronald acuna",
+            "game": "atl @ mia",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-21 16:11:25",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "kc @ sd": [],
     "nym @ phi": [],
     "ari @ col": [],
