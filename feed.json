@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "31",
         "batters": "154",
-        "pitches": "1409",
+        "pitches": "1412",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "69.3",
-        "ff%fourseam fastball %": "34.8",
+        "ff%fourseam fastball %": "34.9",
         "si%sinker %": "10.9",
-        "fc%cutter %": "9.1",
+        "fc%cutter %": "9.0",
         "fs%splitter %": "1.7",
         "ch%changeup %": "6.7",
         "sl%slider %": "24.9",
         "cu%curve %": "11.9",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "104",
-        "hh%hard hit %": "43.3",
+        "hhhard hit": "103",
+        "hh%hard hit %": "42.9",
         "brlbarrels": "21",
         "brl%barrel %": "8.8",
-        "ab": "320",
-        "avg": ".272",
+        "ab": "319",
+        "avg": ".273",
         "h": "87",
         "1b": "56",
         "2b": "16",
@@ -28,7 +28,7 @@
         "bipballs in play": "240",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-20 20:36:57.217079"
+        "updated": "2025-06-20 20:37:06.063316"
     },
     "sea @ chc": [
         {
@@ -2070,7 +2070,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4124,16 +4124,31 @@
     ],
     "cin @ stl": [
         {
-            "player": "masyn winn",
+            "player": "alec burleson",
             "game": "cin @ stl",
             "hr/park": "",
+            "pa": "38",
+            "dt": "2025-06-20 20:37:03",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "masyn winn",
+            "game": "cin @ stl",
+            "hr/park": "0/30",
             "pa": "37",
             "dt": "2025-06-20 20:33:47",
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
             "team": "stl",
             "start": "7:15 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "86.0",
             "la": "34",
             "dist": "306"
@@ -4691,9 +4706,9 @@
             "start": "7:15 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "104.2",
-            "la": "-31",
-            "dist": "4"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "bryson stott",
@@ -5202,7 +5217,7 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
