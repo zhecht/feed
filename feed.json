@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "94",
-        "batters": "240",
-        "pitches": "3013",
+        "batters": "243",
+        "pitches": "3026",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "69.3",
-        "ff%fourseam fastball %": "33.9",
+        "ff%fourseam fastball %": "34.0",
         "si%sinker %": "12.4",
         "fc%cutter %": "7.8",
         "fs%splitter %": "2.6",
         "ch%changeup %": "7.2",
-        "sl%slider %": "23.4",
-        "cu%curve %": "12.7",
+        "sl%slider %": "23.3",
+        "cu%curve %": "12.8",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "233",
+        "hhhard hit": "235",
         "hh%hard hit %": "43.9",
         "brlbarrels": "54",
-        "brl%barrel %": "10.2",
-        "ab": "689",
-        "avg": ".273",
-        "h": "188",
-        "1b": "116",
+        "brl%barrel %": "10.1",
+        "ab": "694",
+        "avg": ".272",
+        "h": "189",
+        "1b": "117",
         "2b": "39",
         "3b": "3",
         "hr": "30",
-        "so": "166",
-        "bipballs in play": "531",
+        "so": "167",
+        "bipballs in play": "535",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-20 22:22:42.797070"
+        "updated": "2025-06-20 22:22:53.714503"
     },
     "sea @ chc": [
         {
@@ -9860,6 +9860,36 @@
     ],
     "ari @ col": [
         {
+            "player": "mickey moniak",
+            "game": "ari @ col",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-06-20 22:22:48",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "5",
+            "result": "Single",
+            "evo": "44.5",
+            "la": "-54",
+            "dist": "3"
+        },
+        {
+            "player": "brenton doyle",
+            "game": "ari @ col",
+            "hr/park": "0/30",
+            "pa": "52",
+            "dt": "2025-06-20 22:21:47",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "5",
+            "result": "Lineout",
+            "evo": "101.3",
+            "la": "19",
+            "dist": "337"
+        },
+        {
             "player": "michael toglia",
             "game": "ari @ col",
             "hr/park": "",
@@ -9869,7 +9899,7 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10636,7 +10666,7 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10929,6 +10959,21 @@
     ],
     "kc @ sd": [
         {
+            "player": "elias diaz",
+            "game": "kc @ sd",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-06-20 22:22:02",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "95.6",
+            "la": "34",
+            "dist": "357"
+        },
+        {
             "player": "bobby witt",
             "game": "kc @ sd",
             "hr/park": "",
@@ -11201,6 +11246,21 @@
     ],
     "cle @ ath": [
         {
+            "player": "david fry",
+            "game": "cle @ ath",
+            "hr/park": "0/30",
+            "pa": "9",
+            "dt": "2025-06-20 22:22:02",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "10:05 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "93.1",
+            "la": "46",
+            "dist": "306"
+        },
+        {
             "player": "max muncy",
             "game": "cle @ ath",
             "hr/park": "",
@@ -11323,6 +11383,21 @@
     ],
     "wsh @ lad": [
         {
+            "player": "teoscar hernandez",
+            "game": "wsh @ lad",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-06-20 22:22:48",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "10:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "will smith",
             "game": "wsh @ lad",
             "hr/park": "",
@@ -11332,7 +11407,7 @@
             "team": "lad",
             "start": "10:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "70.8",
             "la": "-80",
             "dist": "2"
