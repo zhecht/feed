@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "95",
-        "batters": "246",
-        "pitches": "3045",
+        "batters": "248",
+        "pitches": "3054",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "69.3",
-        "ff%fourseam fastball %": "33.9",
+        "ff%fourseam fastball %": "34.0",
         "si%sinker %": "12.4",
         "fc%cutter %": "7.8",
         "fs%splitter %": "2.7",
@@ -14,7 +14,7 @@
         "cu%curve %": "12.7",
         "max evmax exit velocity": "114.2",
         "hhhard hit": "237",
-        "hh%hard hit %": "43.8",
+        "hh%hard hit %": "43.7",
         "brlbarrels": "54",
         "brl%barrel %": "10.0",
         "ab": "699",
@@ -24,11 +24,11 @@
         "2b": "39",
         "3b": "3",
         "hr": "31",
-        "so": "168",
-        "bipballs in play": "541",
+        "so": "169",
+        "bipballs in play": "542",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-20 22:24:10.829384"
+        "updated": "2025-06-20 22:24:22.350739"
     },
     "sea @ chc": [
         {
@@ -9905,21 +9905,6 @@
     ],
     "ari @ col": [
         {
-            "player": "orlando arcia",
-            "game": "ari @ col",
-            "hr/park": "",
-            "pa": "54",
-            "dt": "2025-06-20 22:23:49",
-            "img": "https://www.mlbstatic.com/team-logos/115.svg",
-            "team": "col",
-            "start": "8:40 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "mickey moniak",
             "game": "ari @ col",
             "hr/park": "",
@@ -11043,7 +11028,7 @@
             "team": "sd",
             "start": "9:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11345,7 +11330,7 @@
             "team": "cle",
             "start": "10:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "57.3",
             "la": "78",
             "dist": "49"
@@ -11488,6 +11473,21 @@
     ],
     "wsh @ lad": [
         {
+            "player": "teoscar hernandez",
+            "game": "wsh @ lad",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-06-20 22:22:48",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "10:10 PM",
+            "in": "1",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "will smith",
             "game": "wsh @ lad",
             "hr/park": "",
@@ -11497,7 +11497,7 @@
             "team": "lad",
             "start": "10:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "70.8",
             "la": "-80",
             "dist": "2"
@@ -11595,6 +11595,21 @@
     ],
     "bos @ sf": [
         {
+            "player": "rafael devers",
+            "game": "bos @ sf",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-06-20 22:24:18",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "10:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "93.9",
+            "la": "-13",
+            "dist": "14"
+        },
+        {
             "player": "heliot ramos",
             "game": "bos @ sf",
             "hr/park": "",
@@ -11604,7 +11619,7 @@
             "team": "sf",
             "start": "10:15 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "70.6",
             "la": "-29",
             "dist": "5"
