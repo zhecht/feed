@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "51",
         "batters": "171",
-        "pitches": "2084",
+        "pitches": "2088",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "37.6",
-        "ff%fourseam fastball %": "28.0",
+        "ff%fourseam fastball %": "27.9",
         "si%sinker %": "19.2",
         "fc%cutter %": "11.0",
         "fs%splitter %": "1.4",
-        "ch%changeup %": "9.4",
-        "sl%slider %": "20.6",
+        "ch%changeup %": "9.3",
+        "sl%slider %": "20.7",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "174",
+        "hhhard hit": "175",
         "hh%hard hit %": "44.2",
         "brlbarrels": "24",
         "brl%barrel %": "6.1",
-        "ab": "479",
-        "avg": ".230",
+        "ab": "482",
+        "avg": ".228",
         "h": "110",
         "1b": "67",
         "2b": "20",
         "3b": "4",
         "hr": "19",
         "so": "102",
-        "bipballs in play": "394",
+        "bipballs in play": "396",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-21 17:15:47.292291"
+        "updated": "2025-06-21 17:15:56.832106"
     },
     "det @ tb": [
         {
@@ -3437,10 +3437,10 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "10",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "96.2",
+            "la": "-9",
+            "dist": "11"
         },
         {
             "player": "victor scott",
@@ -5727,6 +5727,21 @@
     ],
     "chw @ tor": [
         {
+            "player": "lenyn sosa",
+            "game": "chw @ tor",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-06-21 17:15:55",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "3:07 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis robert",
             "game": "chw @ tor",
             "hr/park": "",
@@ -5736,10 +5751,10 @@
             "team": "chw",
             "start": "3:07 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "91.0",
+            "la": "-21",
+            "dist": "8"
         },
         {
             "player": "andrew benintendi",
@@ -6748,6 +6763,21 @@
         }
     ],
     "bos @ sf": [
+        {
+            "player": "andrew knizner",
+            "game": "bos @ sf",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-06-21 17:15:55",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "david hamilton",
             "game": "bos @ sf",
@@ -7767,7 +7797,7 @@
             "team": "mia",
             "start": "4:10 PM",
             "in": "4",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
