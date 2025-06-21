@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "71",
-        "batters": "175",
-        "pitches": "2605",
+        "pitchers": "72",
+        "batters": "176",
+        "pitches": "2607",
         "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "37.6",
-        "ff%fourseam fastball %": "28.1",
+        "ff%fourseam fastball %": "28.2",
         "si%sinker %": "17.5",
         "fc%cutter %": "11.4",
         "fs%splitter %": "1.8",
@@ -14,10 +14,10 @@
         "cu%curve %": "9.8",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "201",
-        "hh%hard hit %": "41.3",
+        "hh%hard hit %": "41.1",
         "brlbarrels": "28",
         "brl%barrel %": "5.7",
-        "ab": "594",
+        "ab": "595",
         "avg": ".222",
         "h": "132",
         "1b": "85",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "21",
         "so": "131",
-        "bipballs in play": "487",
+        "bipballs in play": "489",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-21 19:19:05.786096"
+        "updated": "2025-06-21 19:19:16.058708"
     },
     "det @ tb": [
         {
@@ -10203,7 +10203,23 @@
             "dist": ""
         }
     ],
-    "kc @ sd": [],
+    "kc @ sd": [
+        {
+            "player": "jonathan india",
+            "game": "kc @ sd",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-21 19:19:10",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:15 PM",
+            "in": "1",
+            "result": "Pop Out",
+            "evo": "83.6",
+            "la": "66",
+            "dist": "145"
+        }
+    ],
     "nym @ phi": [
         {
             "player": "francisco lindor",
@@ -10215,10 +10231,10 @@
             "team": "nym",
             "start": "7:15 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "83.3",
+            "la": "25",
+            "dist": "290"
         }
     ],
     "ari @ col": [],
