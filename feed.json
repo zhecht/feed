@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "30",
-        "batters": "143",
-        "pitches": "1193",
+        "batters": "141",
+        "pitches": "1195",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "69.3",
-        "ff%fourseam fastball %": "33.7",
-        "si%sinker %": "11.7",
+        "ff%fourseam fastball %": "33.6",
+        "si%sinker %": "11.9",
         "fc%cutter %": "9.3",
-        "fs%splitter %": "1.8",
+        "fs%splitter %": "1.9",
         "ch%changeup %": "7.4",
         "sl%slider %": "23.8",
-        "cu%curve %": "12.2",
+        "cu%curve %": "12.0",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "92",
-        "hh%hard hit %": "46.0",
+        "hhhard hit": "91",
+        "hh%hard hit %": "45.3",
         "brlbarrels": "19",
         "brl%barrel %": "9.5",
         "ab": "271",
@@ -24,11 +24,11 @@
         "2b": "12",
         "3b": "1",
         "hr": "13",
-        "so": "70",
-        "bipballs in play": "200",
+        "so": "71",
+        "bipballs in play": "201",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-20 20:20:56.959326"
+        "updated": "2025-06-20 20:21:05.702059"
     },
     "sea @ chc": [
         {
@@ -1956,36 +1956,6 @@
     ],
     "det @ tb": [
         {
-            "player": "matt thaiss",
-            "game": "det @ tb",
-            "hr/park": "",
-            "pa": "12",
-            "dt": "2025-06-20 20:20:17",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "7:05 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "103.7",
-            "la": "10",
-            "dist": "181"
-        },
-        {
-            "player": "josh lowe",
-            "game": "det @ tb",
-            "hr/park": "",
-            "pa": "11",
-            "dt": "2025-06-20 20:19:17",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "7:05 PM",
-            "in": "1",
-            "result": "Strikeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "curtis mead",
             "game": "det @ tb",
             "hr/park": "",
@@ -2138,6 +2108,21 @@
     ],
     "bal @ nyy": [
         {
+            "player": "colton cowser",
+            "game": "bal @ nyy",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-06-20 20:21:02",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "austin wells",
             "game": "bal @ nyy",
             "hr/park": "",
@@ -2147,7 +2132,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2589,6 +2574,21 @@
         }
     ],
     "chw @ tor": [
+        {
+            "player": "vladimir guerrero",
+            "game": "chw @ tor",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-06-20 20:21:02",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "addison barger",
             "game": "chw @ tor",
@@ -3608,7 +3608,7 @@
             "team": "stl",
             "start": "7:15 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4068,17 +4068,17 @@
         {
             "player": "brett baty",
             "game": "nym @ phi",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "29",
             "dt": "2025-06-20 20:18:48",
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
             "team": "nym",
             "start": "7:15 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "85.2",
+            "la": "33",
+            "dist": "302"
         },
         {
             "player": "luis torrens",
