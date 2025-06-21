@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "109",
         "batters": "287",
-        "pitches": "3915",
+        "pitches": "3918",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "53.2",
         "ff%fourseam fastball %": "33.7",
@@ -13,22 +13,22 @@
         "sl%slider %": "23.0",
         "cu%curve %": "12.5",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "299",
-        "hh%hard hit %": "41.9",
+        "hhhard hit": "300",
+        "hh%hard hit %": "42.0",
         "brlbarrels": "64",
         "brl%barrel %": "9.0",
-        "ab": "909",
+        "ab": "910",
         "avg": ".284",
         "h": "258",
         "1b": "165",
         "2b": "52",
         "3b": "3",
         "hr": "38",
-        "so": "211",
-        "bipballs in play": "713",
+        "so": "212",
+        "bipballs in play": "714",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-20 23:28:55.821047"
+        "updated": "2025-06-20 23:29:08.656852"
     },
     "sea @ chc": [
         {
@@ -13415,7 +13415,7 @@
             "team": "ath",
             "start": "10:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -14083,6 +14083,21 @@
     ],
     "wsh @ lad": [
         {
+            "player": "james wood",
+            "game": "wsh @ lad",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-20 23:29:04",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "10:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "amed rosario",
             "game": "wsh @ lad",
             "hr/park": "",
@@ -14092,10 +14107,10 @@
             "team": "wsh",
             "start": "10:10 PM",
             "in": "5",
-            "result": "Wild Pitch",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "107.0",
+            "la": "-2",
+            "dist": "38"
         },
         {
             "player": "cj abrams",
