@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "35",
-        "batters": "158",
-        "pitches": "1497",
+        "batters": "159",
+        "pitches": "1499",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "69.3",
         "ff%fourseam fastball %": "34.8",
-        "si%sinker %": "11.4",
+        "si%sinker %": "11.3",
         "fc%cutter %": "8.6",
         "fs%splitter %": "1.7",
-        "ch%changeup %": "6.5",
-        "sl%slider %": "25.0",
+        "ch%changeup %": "6.6",
+        "sl%slider %": "25.1",
         "cu%curve %": "12.0",
         "max evmax exit velocity": "114.2",
         "hhhard hit": "110",
-        "hh%hard hit %": "43.1",
+        "hh%hard hit %": "42.6",
         "brlbarrels": "21",
-        "brl%barrel %": "8.2",
+        "brl%barrel %": "8.1",
         "ab": "342",
         "avg": ".266",
         "h": "91",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "13",
         "so": "87",
-        "bipballs in play": "255",
+        "bipballs in play": "258",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-20 20:43:25.803510"
+        "updated": "2025-06-20 20:43:35.004618"
     },
     "sea @ chc": [
         {
@@ -2115,10 +2115,10 @@
             "team": "det",
             "start": "7:05 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "68.3",
+            "la": "82",
+            "dist": "15"
         },
         {
             "player": "trey sweeney",
@@ -2447,10 +2447,10 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "87.6",
+            "la": "-2",
+            "dist": "32"
         },
         {
             "player": "jazz chisholm",
@@ -4951,21 +4951,6 @@
     ],
     "nym @ phi": [
         {
-            "player": "tyrone taylor",
-            "game": "nym @ phi",
-            "hr/park": "",
-            "pa": "37",
-            "dt": "2025-06-20 20:43:01",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "7:15 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "trea turner",
             "game": "nym @ phi",
             "hr/park": "",
@@ -5508,6 +5493,21 @@
     ],
     "mil @ min": [
         {
+            "player": "brooks lee",
+            "game": "mil @ min",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-06-20 20:43:32",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "86.0",
+            "la": "35",
+            "dist": "312"
+        },
+        {
             "player": "ryan jeffers",
             "game": "mil @ min",
             "hr/park": "",
@@ -5517,7 +5517,7 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "74.0",
             "la": "71",
             "dist": "125"
