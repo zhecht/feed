@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "43",
+        "pitchers": "44",
         "batters": "169",
-        "pitches": "1726",
+        "pitches": "1729",
         "max velomax pitch velocity": "99.9",
         "min velomin pitch velocity": "37.6",
         "ff%fourseam fastball %": "27.8",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.7",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "150",
-        "hh%hard hit %": "44.2",
+        "hh%hard hit %": "44.1",
         "brlbarrels": "20",
         "brl%barrel %": "5.9",
-        "ab": "402",
-        "avg": ".241",
+        "ab": "404",
+        "avg": ".240",
         "h": "97",
         "1b": "59",
         "2b": "18",
         "3b": "4",
         "hr": "16",
         "so": "79",
-        "bipballs in play": "339",
+        "bipballs in play": "340",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-21 16:42:37.401586"
+        "updated": "2025-06-21 16:42:46.339106"
     },
     "det @ tb": [
         {
@@ -3428,6 +3428,21 @@
     ],
     "cin @ stl": [
         {
+            "player": "willson contreras",
+            "game": "cin @ stl",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-06-21 16:42:40",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "2:15 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alec burleson",
             "game": "cin @ stl",
             "hr/park": "",
@@ -6119,6 +6134,21 @@
     ],
     "bos @ sf": [
         {
+            "player": "mike yastrzemski",
+            "game": "bos @ sf",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-06-21 16:42:40",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andrew knizner",
             "game": "bos @ sf",
             "hr/park": "",
@@ -6128,10 +6158,10 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "3",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Field Error",
+            "evo": "90.8",
+            "la": "-6",
+            "dist": "22"
         },
         {
             "player": "tyler fitzgerald",
