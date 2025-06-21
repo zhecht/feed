@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "59",
-        "batters": "183",
-        "pitches": "2211",
+        "pitchers": "60",
+        "batters": "185",
+        "pitches": "2212",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "69.3",
-        "ff%fourseam fastball %": "33.8",
-        "si%sinker %": "11.7",
+        "ff%fourseam fastball %": "34.0",
+        "si%sinker %": "11.8",
         "fc%cutter %": "7.0",
         "fs%splitter %": "2.0",
         "ch%changeup %": "7.4",
-        "sl%slider %": "25.3",
-        "cu%curve %": "12.8",
+        "sl%slider %": "25.4",
+        "cu%curve %": "12.4",
         "max evmax exit velocity": "114.2",
         "hhhard hit": "161",
-        "hh%hard hit %": "42.4",
+        "hh%hard hit %": "42.1",
         "brlbarrels": "33",
-        "brl%barrel %": "8.7",
-        "ab": "495",
-        "avg": ".265",
-        "h": "131",
-        "1b": "86",
+        "brl%barrel %": "8.6",
+        "ab": "497",
+        "avg": ".268",
+        "h": "133",
+        "1b": "88",
         "2b": "27",
         "3b": "2",
         "hr": "16",
-        "so": "121",
-        "bipballs in play": "380",
+        "so": "120",
+        "bipballs in play": "382",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-20 21:28:54.536487"
+        "updated": "2025-06-20 21:29:05.217128"
     },
     "sea @ chc": [
         {
@@ -1219,6 +1219,21 @@
     ],
     "tex @ pit": [
         {
+            "player": "isiah kiner falefa",
+            "game": "tex @ pit",
+            "hr/park": "",
+            "pa": "81",
+            "dt": "2025-06-20 21:29:03",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "75.2",
+            "la": "-21",
+            "dist": "8"
+        },
+        {
             "player": "alexander canario",
             "game": "tex @ pit",
             "hr/park": "",
@@ -1228,10 +1243,10 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "83.8",
+            "la": "24",
+            "dist": "259"
         },
         {
             "player": "billy cook",
@@ -3910,21 +3925,6 @@
     ],
     "chw @ tor": [
         {
-            "player": "vladimir guerrero",
-            "game": "chw @ tor",
-            "hr/park": "",
-            "pa": "67",
-            "dt": "2025-06-20 21:28:03",
-            "img": "https://www.mlbstatic.com/team-logos/141.svg",
-            "team": "tor",
-            "start": "7:07 PM",
-            "in": "8",
-            "result": "Lineout",
-            "evo": "76.0",
-            "la": "27",
-            "dist": "269"
-        },
-        {
             "player": "addison barger",
             "game": "chw @ tor",
             "hr/park": "",
@@ -4926,7 +4926,7 @@
             "team": "mia",
             "start": "7:10 PM",
             "in": "7",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5848,6 +5848,21 @@
         }
     ],
     "cin @ stl": [
+        {
+            "player": "santiago espinal",
+            "game": "cin @ stl",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-06-20 21:29:03",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:15 PM",
+            "in": "8",
+            "result": "Single",
+            "evo": "84.7",
+            "la": "20",
+            "dist": "270"
+        },
         {
             "player": "jordan walker",
             "game": "cin @ stl",
@@ -7985,6 +8000,21 @@
     ],
     "ari @ col": [
         {
+            "player": "ryan ritter",
+            "game": "ari @ col",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-06-20 21:29:03",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "orlando arcia",
             "game": "ari @ col",
             "hr/park": "",
@@ -7994,7 +8024,7 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "93.1",
             "la": "31",
             "dist": "380"
