@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "108",
         "batters": "286",
-        "pitches": "3847",
+        "pitches": "3859",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "53.2",
-        "ff%fourseam fastball %": "34.0",
-        "si%sinker %": "12.0",
+        "ff%fourseam fastball %": "33.9",
+        "si%sinker %": "11.9",
         "fc%cutter %": "7.0",
         "fs%splitter %": "2.6",
-        "ch%changeup %": "8.2",
-        "sl%slider %": "23.2",
+        "ch%changeup %": "8.3",
+        "sl%slider %": "23.1",
         "cu%curve %": "12.4",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "292",
-        "hh%hard hit %": "41.5",
+        "hhhard hit": "293",
+        "hh%hard hit %": "41.6",
         "brlbarrels": "64",
         "brl%barrel %": "9.1",
-        "ab": "896",
-        "avg": ".283",
-        "h": "254",
-        "1b": "161",
+        "ab": "899",
+        "avg": ".284",
+        "h": "255",
+        "1b": "162",
         "2b": "52",
         "3b": "3",
         "hr": "38",
-        "so": "208",
-        "bipballs in play": "703",
+        "so": "209",
+        "bipballs in play": "705",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-20 23:24:06.795515"
+        "updated": "2025-06-20 23:24:19.387123"
     },
     "sea @ chc": [
         {
@@ -9363,9 +9363,24 @@
     ],
     "mil @ min": [
         {
-            "player": "brooks lee",
+            "player": "harrison bader",
             "game": "mil @ min",
             "hr/park": "",
+            "pa": "85",
+            "dt": "2025-06-20 23:24:19",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "brooks lee",
+            "game": "mil @ min",
+            "hr/park": "0/30",
             "pa": "84",
             "dt": "2025-06-20 23:20:47",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
@@ -9373,9 +9388,9 @@
             "start": "8:10 PM",
             "in": "9",
             "result": "Single",
-            "evo": "72.6",
-            "la": "13",
-            "dist": "142"
+            "evo": "102.5",
+            "la": "20",
+            "dist": "360"
         },
         {
             "player": "dashawn keirsey",
@@ -10612,17 +10627,17 @@
         {
             "player": "ketel marte",
             "game": "ari @ col",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "83",
             "dt": "2025-06-20 23:22:50",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "start": "8:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "88.6",
+            "la": "22",
+            "dist": "319"
         },
         {
             "player": "jordan beck",
@@ -11857,6 +11872,21 @@
     ],
     "hou @ laa": [
         {
+            "player": "jo adell",
+            "game": "hou @ laa",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-06-20 23:24:19",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "travis darnaud",
             "game": "hou @ laa",
             "hr/park": "",
@@ -12558,7 +12588,7 @@
             "team": "sd",
             "start": "9:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -13271,6 +13301,21 @@
     ],
     "cle @ ath": [
         {
+            "player": "jose ramirez",
+            "game": "cle @ ath",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-06-20 23:23:49",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "10:05 PM",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "93.6",
+            "la": "-14",
+            "dist": "9"
+        },
+        {
             "player": "lane thomas",
             "game": "cle @ ath",
             "hr/park": "1/30",
@@ -13280,7 +13325,7 @@
             "team": "cle",
             "start": "10:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "94.5",
             "la": "33",
             "dist": "382"
@@ -14484,7 +14529,7 @@
             "team": "bos",
             "start": "10:15 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "96.3",
             "la": "-1",
             "dist": "41"
