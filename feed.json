@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "63",
         "batters": "186",
-        "pitches": "2280",
+        "pitches": "2288",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "69.3",
         "ff%fourseam fastball %": "33.7",
@@ -10,25 +10,25 @@
         "fc%cutter %": "6.9",
         "fs%splitter %": "2.1",
         "ch%changeup %": "7.4",
-        "sl%slider %": "25.3",
+        "sl%slider %": "25.2",
         "cu%curve %": "12.6",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "165",
-        "hh%hard hit %": "41.9",
-        "brlbarrels": "33",
-        "brl%barrel %": "8.4",
-        "ab": "514",
+        "hhhard hit": "168",
+        "hh%hard hit %": "42.3",
+        "brlbarrels": "34",
+        "brl%barrel %": "8.6",
+        "ab": "517",
         "avg": ".263",
-        "h": "135",
-        "1b": "88",
+        "h": "136",
+        "1b": "89",
         "2b": "29",
         "3b": "2",
         "hr": "16",
         "so": "123",
-        "bipballs in play": "394",
+        "bipballs in play": "397",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-20 21:33:01.584065"
+        "updated": "2025-06-20 21:33:11.239434"
     },
     "sea @ chc": [
         {
@@ -2451,11 +2451,11 @@
     ],
     "det @ tb": [
         {
-            "player": "colt keith",
+            "player": "gleyber torres",
             "game": "det @ tb",
             "hr/park": "",
-            "pa": "44",
-            "dt": "2025-06-20 21:31:03",
+            "pa": "45",
+            "dt": "2025-06-20 21:32:35",
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
             "team": "det",
             "start": "7:05 PM",
@@ -2464,6 +2464,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "colt keith",
+            "game": "det @ tb",
+            "hr/park": "0/30",
+            "pa": "44",
+            "dt": "2025-06-20 21:31:03",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "98.6",
+            "la": "39",
+            "dist": "343"
         },
         {
             "player": "trey sweeney",
@@ -5022,6 +5037,21 @@
     ],
     "atl @ mia": [
         {
+            "player": "austin riley",
+            "game": "atl @ mia",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-06-20 21:33:04",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "109.6",
+            "la": "24",
+            "dist": "430"
+        },
+        {
             "player": "alex verdugo",
             "game": "atl @ mia",
             "hr/park": "",
@@ -5031,7 +5061,7 @@
             "team": "atl",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "71.9",
             "la": "-19",
             "dist": "5"
@@ -8225,6 +8255,21 @@
     ],
     "ari @ col": [
         {
+            "player": "hunter goodman",
+            "game": "ari @ col",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-06-20 21:33:04",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyler freeman",
             "game": "ari @ col",
             "hr/park": "",
@@ -8234,10 +8279,10 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "96.4",
+            "la": "2",
+            "dist": "82"
         },
         {
             "player": "jordan beck",
