@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "73",
-        "batters": "189",
-        "pitches": "2442",
+        "pitchers": "72",
+        "batters": "190",
+        "pitches": "2448",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "69.3",
         "ff%fourseam fastball %": "33.4",
-        "si%sinker %": "12.2",
+        "si%sinker %": "12.1",
         "fc%cutter %": "7.1",
         "fs%splitter %": "2.4",
         "ch%changeup %": "7.2",
         "sl%slider %": "25.3",
-        "cu%curve %": "12.4",
+        "cu%curve %": "12.5",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "179",
-        "hh%hard hit %": "42.4",
-        "brlbarrels": "36",
-        "brl%barrel %": "8.5",
+        "hhhard hit": "181",
+        "hh%hard hit %": "42.9",
+        "brlbarrels": "38",
+        "brl%barrel %": "9.0",
         "ab": "552",
-        "avg": ".266",
-        "h": "147",
+        "avg": ".270",
+        "h": "149",
         "1b": "94",
         "2b": "32",
         "3b": "3",
-        "hr": "18",
-        "so": "134",
+        "hr": "20",
+        "so": "135",
         "bipballs in play": "422",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-20 21:44:07.928744"
+        "updated": "2025-06-20 21:44:18.204172"
     },
     "sea @ chc": [
         {
@@ -2451,11 +2451,11 @@
     ],
     "det @ tb": [
         {
-            "player": "yandy diaz",
+            "player": "brandon lowe",
             "game": "det @ tb",
             "hr/park": "",
-            "pa": "49",
-            "dt": "2025-06-20 21:43:02",
+            "pa": "50",
+            "dt": "2025-06-20 21:44:18",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "start": "7:05 PM",
@@ -2464,6 +2464,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "yandy diaz",
+            "game": "det @ tb",
+            "hr/park": "22/30",
+            "pa": "49",
+            "dt": "2025-06-20 21:43:02",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "Home Run",
+            "evo": "106.9",
+            "la": "23",
+            "dist": "356"
         },
         {
             "player": "kameron misner",
@@ -4134,21 +4149,6 @@
         }
     ],
     "chw @ tor": [
-        {
-            "player": "nathan lukes",
-            "game": "chw @ tor",
-            "hr/park": "",
-            "pa": "75",
-            "dt": "2025-06-20 21:44:03",
-            "img": "https://www.mlbstatic.com/team-logos/141.svg",
-            "team": "tor",
-            "start": "7:07 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "ernie clement",
             "game": "chw @ tor",
@@ -8163,21 +8163,6 @@
     ],
     "mil @ min": [
         {
-            "player": "william contreras",
-            "game": "mil @ min",
-            "hr/park": "",
-            "pa": "38",
-            "dt": "2025-06-20 21:44:03",
-            "img": "https://www.mlbstatic.com/team-logos/158.svg",
-            "team": "mil",
-            "start": "8:10 PM",
-            "in": "6",
-            "result": "Groundout",
-            "evo": "76.1",
-            "la": "-43",
-            "dist": "4"
-        },
-        {
             "player": "christian yelich",
             "game": "mil @ min",
             "hr/park": "",
@@ -9187,11 +9172,11 @@
     ],
     "hou @ laa": [
         {
-            "player": "isaac paredes",
+            "player": "yainer diaz",
             "game": "hou @ laa",
             "hr/park": "",
-            "pa": "2",
-            "dt": "2025-06-20 21:40:48",
+            "pa": "4",
+            "dt": "2025-06-20 21:44:18",
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
             "team": "hou",
             "start": "9:38 PM",
@@ -9200,6 +9185,36 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "jose altuve",
+            "game": "hou @ laa",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-06-20 21:42:33",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "isaac paredes",
+            "game": "hou @ laa",
+            "hr/park": "30/30",
+            "pa": "2",
+            "dt": "2025-06-20 21:40:48",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "Home Run",
+            "evo": "99.8",
+            "la": "32",
+            "dist": "370"
         },
         {
             "player": "jeremy pena",
