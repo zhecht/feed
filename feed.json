@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "57",
         "batters": "182",
-        "pitches": "2104",
+        "pitches": "2117",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "69.3",
-        "ff%fourseam fastball %": "34.1",
-        "si%sinker %": "11.9",
+        "ff%fourseam fastball %": "34.2",
+        "si%sinker %": "11.8",
         "fc%cutter %": "7.7",
         "fs%splitter %": "2.1",
-        "ch%changeup %": "7.1",
-        "sl%slider %": "24.7",
-        "cu%curve %": "12.5",
+        "ch%changeup %": "7.2",
+        "sl%slider %": "24.6",
+        "cu%curve %": "12.4",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "153",
+        "hhhard hit": "154",
         "hh%hard hit %": "42.4",
         "brlbarrels": "33",
         "brl%barrel %": "9.1",
-        "ab": "471",
-        "avg": ".263",
-        "h": "124",
-        "1b": "79",
+        "ab": "474",
+        "avg": ".266",
+        "h": "126",
+        "1b": "81",
         "2b": "27",
         "3b": "2",
         "hr": "16",
         "so": "115",
-        "bipballs in play": "361",
+        "bipballs in play": "363",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-20 21:22:46.822078"
+        "updated": "2025-06-20 21:22:56.568593"
     },
     "sea @ chc": [
         {
@@ -2370,10 +2370,10 @@
             "team": "det",
             "start": "7:05 PM",
             "in": "4",
-            "result": "Groundout",
-            "evo": "103.0",
-            "la": "-10",
-            "dist": "9"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "parker meadows",
@@ -3770,9 +3770,9 @@
             "start": "7:07 PM",
             "in": "8",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "80.0",
+            "la": "55",
+            "dist": "202"
         },
         {
             "player": "tyler heineman",
@@ -7233,6 +7233,21 @@
     ],
     "mil @ min": [
         {
+            "player": "isaac collins",
+            "game": "mil @ min",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-06-20 21:22:49",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "rhys hoskins",
             "game": "mil @ min",
             "hr/park": "",
@@ -7242,10 +7257,10 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "101.5",
+            "la": "12",
+            "dist": "211"
         },
         {
             "player": "willi castro",
@@ -7654,6 +7669,36 @@
         }
     ],
     "ari @ col": [
+        {
+            "player": "eugenio suarez",
+            "game": "ari @ col",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-06-20 21:21:50",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "8:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "lourdes gurriel",
+            "game": "ari @ col",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-06-20 21:20:50",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "8:40 PM",
+            "in": "3",
+            "result": "Single",
+            "evo": "95.0",
+            "la": "10",
+            "dist": "179"
+        },
         {
             "player": "geraldo perdomo",
             "game": "ari @ col",
