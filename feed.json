@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "88",
-        "batters": "224",
-        "pitches": "2860",
+        "batters": "226",
+        "pitches": "2863",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "69.3",
         "ff%fourseam fastball %": "34.1",
@@ -13,22 +13,22 @@
         "sl%slider %": "23.6",
         "cu%curve %": "12.4",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "220",
-        "hh%hard hit %": "43.7",
-        "brlbarrels": "49",
-        "brl%barrel %": "9.7",
-        "ab": "652",
-        "avg": ".278",
-        "h": "181",
+        "hhhard hit": "222",
+        "hh%hard hit %": "43.9",
+        "brlbarrels": "51",
+        "brl%barrel %": "10.1",
+        "ab": "654",
+        "avg": ".280",
+        "h": "183",
         "1b": "113",
         "2b": "38",
         "3b": "3",
-        "hr": "27",
-        "so": "156",
-        "bipballs in play": "504",
+        "hr": "29",
+        "so": "157",
+        "bipballs in play": "506",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-20 22:13:11.539368"
+        "updated": "2025-06-20 22:13:22.567536"
     },
     "sea @ chc": [
         {
@@ -3407,7 +3407,7 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9652,17 +9652,17 @@
         {
             "player": "ildemaro vargas",
             "game": "ari @ col",
-            "hr/park": "",
+            "hr/park": "30/30",
             "pa": "48",
             "dt": "2025-06-20 22:11:32",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "start": "8:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "106.7",
+            "la": "25",
+            "dist": "449"
         },
         {
             "player": "tim tawa",
@@ -10902,6 +10902,36 @@
         }
     ],
     "wsh @ lad": [
+        {
+            "player": "james wood",
+            "game": "wsh @ lad",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-06-20 22:13:19",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "10:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "amed rosario",
+            "game": "wsh @ lad",
+            "hr/park": "30/30",
+            "pa": "2",
+            "dt": "2025-06-20 22:13:19",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "10:10 PM",
+            "in": "1",
+            "result": "Home Run",
+            "evo": "103.0",
+            "la": "32",
+            "dist": "396"
+        },
         {
             "player": "cj abrams",
             "game": "wsh @ lad",
