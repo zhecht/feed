@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "84",
         "batters": "210",
-        "pitches": "2726",
+        "pitches": "2733",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "69.3",
         "ff%fourseam fastball %": "34.1",
@@ -11,24 +11,24 @@
         "fs%splitter %": "2.5",
         "ch%changeup %": "7.4",
         "sl%slider %": "23.9",
-        "cu%curve %": "12.5",
+        "cu%curve %": "12.7",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "203",
+        "hhhard hit": "204",
         "hh%hard hit %": "42.9",
         "brlbarrels": "47",
         "brl%barrel %": "9.9",
-        "ab": "616",
-        "avg": ".274",
-        "h": "169",
+        "ab": "617",
+        "avg": ".276",
+        "h": "170",
         "1b": "105",
-        "2b": "36",
+        "2b": "37",
         "3b": "3",
         "hr": "25",
-        "so": "150",
-        "bipballs in play": "473",
+        "so": "151",
+        "bipballs in play": "475",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-20 22:03:41.296401"
+        "updated": "2025-06-20 22:03:52.217600"
     },
     "sea @ chc": [
         {
@@ -2460,7 +2460,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9380,6 +9380,21 @@
     ],
     "ari @ col": [
         {
+            "player": "ryan mcmahon",
+            "game": "ari @ col",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-06-20 22:03:48",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "hunter goodman",
             "game": "ari @ col",
             "hr/park": "",
@@ -9389,10 +9404,10 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "99.1",
+            "la": "-13",
+            "dist": "10"
         },
         {
             "player": "tyler freeman",
@@ -10021,7 +10036,7 @@
             "team": "hou",
             "start": "9:38 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10196,17 +10211,17 @@
         {
             "player": "freddy fermin",
             "game": "kc @ sd",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "10",
             "dt": "2025-06-20 22:02:03",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "start": "9:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "83.6",
+            "la": "28",
+            "dist": "302"
         },
         {
             "player": "jac caglianone",
