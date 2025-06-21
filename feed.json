@@ -1,13 +1,13 @@
 {
     "all": {
         "pitchers": "28",
-        "batters": "133",
-        "pitches": "1046",
+        "batters": "134",
+        "pitches": "1053",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "69.3",
-        "ff%fourseam fastball %": "33.7",
-        "si%sinker %": "12.0",
-        "fc%cutter %": "9.7",
+        "ff%fourseam fastball %": "33.9",
+        "si%sinker %": "11.9",
+        "fc%cutter %": "9.6",
         "fs%splitter %": "1.6",
         "ch%changeup %": "7.8",
         "sl%slider %": "23.8",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "46.4",
         "brlbarrels": "17",
         "brl%barrel %": "9.4",
-        "ab": "236",
-        "avg": ".271",
+        "ab": "239",
+        "avg": ".268",
         "h": "64",
         "1b": "40",
         "2b": "10",
@@ -28,7 +28,7 @@
         "bipballs in play": "181",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-20 20:11:11.943832"
+        "updated": "2025-06-20 20:11:20.221396"
     },
     "sea @ chc": [
         {
@@ -1896,9 +1896,24 @@
     ],
     "det @ tb": [
         {
-            "player": "yandy diaz",
+            "player": "brandon lowe",
             "game": "det @ tb",
             "hr/park": "",
+            "pa": "7",
+            "dt": "2025-06-20 20:11:17",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "yandy diaz",
+            "game": "det @ tb",
+            "hr/park": "27/30",
             "pa": "6",
             "dt": "2025-06-20 20:08:33",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
@@ -2802,6 +2817,21 @@
     ],
     "atl @ mia": [
         {
+            "player": "marcell ozuna",
+            "game": "atl @ mia",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-06-20 20:11:17",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "matt olson",
             "game": "atl @ mia",
             "hr/park": "",
@@ -3239,6 +3269,21 @@
     ],
     "cin @ stl": [
         {
+            "player": "tyler stephenson",
+            "game": "cin @ stl",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-06-20 20:11:17",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:15 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "elly de la cruz",
             "game": "cin @ stl",
             "hr/park": "",
@@ -3640,7 +3685,7 @@
             "team": "phi",
             "start": "7:15 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
