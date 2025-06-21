@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "83",
-        "batters": "206",
-        "pitches": "2683",
+        "batters": "207",
+        "pitches": "2686",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "69.3",
-        "ff%fourseam fastball %": "34.4",
+        "ff%fourseam fastball %": "34.3",
         "si%sinker %": "12.0",
         "fc%cutter %": "7.6",
         "fs%splitter %": "2.3",
@@ -13,10 +13,10 @@
         "sl%slider %": "24.1",
         "cu%curve %": "12.2",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "201",
-        "hh%hard hit %": "43.0",
+        "hhhard hit": "202",
+        "hh%hard hit %": "43.2",
         "brlbarrels": "47",
-        "brl%barrel %": "10.1",
+        "brl%barrel %": "10.0",
         "ab": "607",
         "avg": ".270",
         "h": "164",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "25",
         "so": "148",
-        "bipballs in play": "467",
+        "bipballs in play": "468",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-20 22:00:29.858104"
+        "updated": "2025-06-20 22:00:40.212915"
     },
     "sea @ chc": [
         {
@@ -2451,21 +2451,6 @@
     ],
     "det @ tb": [
         {
-            "player": "jake mangum",
-            "game": "det @ tb",
-            "hr/park": "",
-            "pa": "57",
-            "dt": "2025-06-20 22:00:17",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "7:05 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "trey sweeney",
             "game": "det @ tb",
             "hr/park": "",
@@ -3307,6 +3292,21 @@
         }
     ],
     "bal @ nyy": [
+        {
+            "player": "gunnar henderson",
+            "game": "bal @ nyy",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-06-20 22:00:33",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "dylan carlson",
             "game": "bal @ nyy",
@@ -8652,10 +8652,10 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "100.2",
+            "la": "7",
+            "dist": "129"
         },
         {
             "player": "rhys hoskins",
@@ -9314,7 +9314,7 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "4",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "94.6",
             "la": "11",
             "dist": "230"
