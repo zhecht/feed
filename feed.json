@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "105",
         "batters": "283",
-        "pitches": "3706",
+        "pitches": "3710",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "53.2",
-        "ff%fourseam fastball %": "34.2",
+        "ff%fourseam fastball %": "34.3",
         "si%sinker %": "11.7",
         "fc%cutter %": "7.2",
         "fs%splitter %": "2.7",
@@ -14,21 +14,21 @@
         "cu%curve %": "12.4",
         "max evmax exit velocity": "114.2",
         "hhhard hit": "285",
-        "hh%hard hit %": "42.3",
+        "hh%hard hit %": "42.2",
         "brlbarrels": "63",
         "brl%barrel %": "9.3",
-        "ab": "860",
+        "ab": "861",
         "avg": ".279",
         "h": "240",
         "1b": "151",
         "2b": "49",
         "3b": "3",
         "hr": "37",
-        "so": "200",
-        "bipballs in play": "674",
+        "so": "201",
+        "bipballs in play": "675",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-20 23:12:10.676375"
+        "updated": "2025-06-20 23:12:22.843881"
     },
     "sea @ chc": [
         {
@@ -10529,15 +10529,15 @@
             "team": "ari",
             "start": "8:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "80.8",
+            "la": "24",
+            "dist": "275"
         },
         {
             "player": "ildemaro vargas",
             "game": "ari @ col",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "76",
             "dt": "2025-06-20 23:11:03",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
@@ -10567,7 +10567,7 @@
         {
             "player": "randal grichuk",
             "game": "ari @ col",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "74",
             "dt": "2025-06-20 23:06:48",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
@@ -13483,6 +13483,21 @@
     ],
     "wsh @ lad": [
         {
+            "player": "enrique hernandez",
+            "game": "wsh @ lad",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-06-20 23:12:18",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "10:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael conforto",
             "game": "wsh @ lad",
             "hr/park": "",
@@ -13492,7 +13507,7 @@
             "team": "lad",
             "start": "10:10 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
