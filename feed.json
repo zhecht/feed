@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "65",
         "batters": "173",
-        "pitches": "2480",
+        "pitches": "2482",
         "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "37.6",
         "ff%fourseam fastball %": "28.1",
-        "si%sinker %": "18.1",
+        "si%sinker %": "18.0",
         "fc%cutter %": "11.6",
         "fs%splitter %": "1.5",
         "ch%changeup %": "9.1",
@@ -14,10 +14,10 @@
         "cu%curve %": "9.9",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "195",
-        "hh%hard hit %": "41.6",
+        "hh%hard hit %": "41.5",
         "brlbarrels": "25",
         "brl%barrel %": "5.3",
-        "ab": "568",
+        "ab": "569",
         "avg": ".227",
         "h": "129",
         "1b": "83",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "20",
         "so": "124",
-        "bipballs in play": "469",
+        "bipballs in play": "470",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-21 18:22:03.480686"
+        "updated": "2025-06-21 18:22:13.524695"
     },
     "det @ tb": [
         {
@@ -8898,6 +8898,21 @@
     ],
     "atl @ mia": [
         {
+            "player": "xavier edwards",
+            "game": "atl @ mia",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-06-21 18:22:10",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "dane myers",
             "game": "atl @ mia",
             "hr/park": "",
@@ -8907,10 +8922,10 @@
             "team": "mia",
             "start": "4:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "87.0",
+            "la": "3",
+            "dist": "73"
         },
         {
             "player": "marcell ozuna",
