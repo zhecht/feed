@@ -1,13 +1,13 @@
 {
     "all": {
         "pitchers": "16",
-        "batters": "79",
-        "pitches": "618",
+        "batters": "80",
+        "pitches": "620",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "75.2",
-        "ff%fourseam fastball %": "30.4",
-        "si%sinker %": "16.2",
-        "fc%cutter %": "14.6",
+        "ff%fourseam fastball %": "30.5",
+        "si%sinker %": "16.3",
+        "fc%cutter %": "14.5",
         "fs%splitter %": "0.2",
         "ch%changeup %": "9.2",
         "sl%slider %": "21.5",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "42.2",
         "brlbarrels": "8",
         "brl%barrel %": "7.3",
-        "ab": "132",
-        "avg": ".258",
-        "h": "34",
-        "1b": "19",
+        "ab": "134",
+        "avg": ".261",
+        "h": "35",
+        "1b": "20",
         "2b": "5",
         "3b": "0",
         "hr": "10",
@@ -28,7 +28,7 @@
         "bipballs in play": "109",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-06-21 14:43:50.062813"
+        "updated": "2025-06-21 14:43:58.382134"
     },
     "det @ tb": [
         {
@@ -1159,9 +1159,24 @@
     ],
     "bal @ nyy": [
         {
-            "player": "anthony volpe",
+            "player": "jc escarra",
             "game": "bal @ nyy",
             "hr/park": "",
+            "pa": "44",
+            "dt": "2025-06-21 14:43:55",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "anthony volpe",
+            "game": "bal @ nyy",
+            "hr/park": "23/30",
             "pa": "43",
             "dt": "2025-06-21 14:41:27",
             "img": "https://www.mlbstatic.com/team-logos/147.svg",
@@ -1806,6 +1821,21 @@
     ],
     "mil @ min": [
         {
+            "player": "joey ortiz",
+            "game": "mil @ min",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-06-21 14:43:55",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "caleb durbin",
             "game": "mil @ min",
             "hr/park": "",
@@ -2012,7 +2042,7 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "96.8",
             "la": "5",
             "dist": "110"
