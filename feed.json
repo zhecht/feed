@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "47",
         "batters": "171",
-        "pitches": "1897",
+        "pitches": "1904",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "37.6",
-        "ff%fourseam fastball %": "27.5",
+        "ff%fourseam fastball %": "27.4",
         "si%sinker %": "20.2",
         "fc%cutter %": "11.2",
         "fs%splitter %": "1.4",
         "ch%changeup %": "9.2",
-        "sl%slider %": "20.2",
+        "sl%slider %": "20.3",
         "cu%curve %": "9.8",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "160",
-        "hh%hard hit %": "43.7",
+        "hhhard hit": "161",
+        "hh%hard hit %": "43.8",
         "brlbarrels": "23",
         "brl%barrel %": "6.3",
-        "ab": "442",
-        "avg": ".235",
+        "ab": "444",
+        "avg": ".234",
         "h": "104",
         "1b": "62",
         "2b": "19",
         "3b": "4",
         "hr": "19",
         "so": "92",
-        "bipballs in play": "366",
+        "bipballs in play": "368",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-21 16:59:03.126946"
+        "updated": "2025-06-21 16:59:12.874851"
     },
     "det @ tb": [
         {
@@ -3437,7 +3437,7 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6458,10 +6458,10 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "90.1",
+            "la": "-1",
+            "dist": "41"
         },
         {
             "player": "wilyer abreu",
@@ -6855,6 +6855,36 @@
         }
     ],
     "tex @ pit": [
+        {
+            "player": "marcus semien",
+            "game": "tex @ pit",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-06-21 16:59:11",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "4:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "corey seager",
+            "game": "tex @ pit",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-06-21 16:59:11",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "4:05 PM",
+            "in": "4",
+            "result": "Groundout",
+            "evo": "99.8",
+            "la": "-1",
+            "dist": "40"
+        },
         {
             "player": "bryan reynolds",
             "game": "tex @ pit",
