@@ -1,15 +1,15 @@
 {
     "all": {
         "pitchers": "44",
-        "batters": "173",
-        "pitches": "1770",
+        "batters": "174",
+        "pitches": "1773",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "69.3",
-        "ff%fourseam fastball %": "35.3",
-        "si%sinker %": "11.0",
+        "ff%fourseam fastball %": "35.4",
+        "si%sinker %": "10.9",
         "fc%cutter %": "8.1",
         "fs%splitter %": "1.9",
-        "ch%changeup %": "7.2",
+        "ch%changeup %": "7.1",
         "sl%slider %": "24.6",
         "cu%curve %": "11.9",
         "max evmax exit velocity": "114.2",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "42.8",
         "brlbarrels": "27",
         "brl%barrel %": "9.0",
-        "ab": "399",
-        "avg": ".261",
-        "h": "104",
-        "1b": "67",
+        "ab": "401",
+        "avg": ".262",
+        "h": "105",
+        "1b": "68",
         "2b": "21",
         "3b": "2",
         "hr": "14",
@@ -28,7 +28,7 @@
         "bipballs in play": "299",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-20 20:59:26.666595"
+        "updated": "2025-06-20 20:59:35.963862"
     },
     "sea @ chc": [
         {
@@ -1219,21 +1219,6 @@
     ],
     "tex @ pit": [
         {
-            "player": "corey seager",
-            "game": "tex @ pit",
-            "hr/park": "",
-            "pa": "67",
-            "dt": "2025-06-20 20:58:47",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "6:40 PM",
-            "in": "8",
-            "result": "GIDP",
-            "evo": "78.7",
-            "la": "4",
-            "dist": "74"
-        },
-        {
             "player": "sam haggerty",
             "game": "tex @ pit",
             "hr/park": "",
@@ -1243,7 +1228,7 @@
             "team": "tex",
             "start": "6:40 PM",
             "in": "8",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5596,6 +5581,21 @@
     ],
     "nym @ phi": [
         {
+            "player": "nick castellanos",
+            "game": "nym @ phi",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-06-20 20:59:32",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "7:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alec bohm",
             "game": "nym @ phi",
             "hr/park": "",
@@ -6515,6 +6515,21 @@
     ],
     "ari @ col": [
         {
+            "player": "tim tawa",
+            "game": "ari @ col",
+            "hr/park": "0/30",
+            "pa": "10",
+            "dt": "2025-06-20 20:59:32",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "8:40 PM",
+            "in": "2",
+            "result": "Lineout",
+            "evo": "94.3",
+            "la": "21",
+            "dist": "350"
+        },
+        {
             "player": "randal grichuk",
             "game": "ari @ col",
             "hr/park": "",
@@ -6524,7 +6539,7 @@
             "team": "ari",
             "start": "8:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "83.0",
             "la": "9",
             "dist": "134"
