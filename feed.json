@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "21",
         "batters": "105",
-        "pitches": "972",
+        "pitches": "980",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "73.7",
-        "ff%fourseam fastball %": "29.7",
+        "ff%fourseam fastball %": "29.6",
         "si%sinker %": "18.7",
         "fc%cutter %": "11.9",
         "fs%splitter %": "1.0",
-        "ch%changeup %": "9.4",
-        "sl%slider %": "20.5",
+        "ch%changeup %": "9.5",
+        "sl%slider %": "20.6",
         "cu%curve %": "8.7",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "77",
-        "hh%hard hit %": "42.3",
+        "hh%hard hit %": "41.8",
         "brlbarrels": "15",
         "brl%barrel %": "8.2",
-        "ab": "215",
-        "avg": ".242",
+        "ab": "217",
+        "avg": ".240",
         "h": "52",
         "1b": "27",
         "2b": "10",
         "3b": "2",
         "hr": "13",
-        "so": "41",
-        "bipballs in play": "182",
+        "so": "42",
+        "bipballs in play": "184",
         "liveGames": 6,
         "totGames": 15,
-        "updated": "2025-06-21 15:28:03.192787"
+        "updated": "2025-06-21 15:28:11.685710"
     },
     "det @ tb": [
         {
@@ -1168,7 +1168,7 @@
             "team": "nyy",
             "start": "1:05 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2091,16 +2091,31 @@
     ],
     "mil @ min": [
         {
-            "player": "jackson chourio",
+            "player": "christian yelich",
             "game": "mil @ min",
             "hr/park": "",
+            "pa": "37",
+            "dt": "2025-06-21 15:28:10",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jackson chourio",
+            "game": "mil @ min",
+            "hr/park": "0/30",
             "pa": "36",
             "dt": "2025-06-21 15:27:25",
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
             "team": "mil",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "85.8",
             "la": "30",
             "dist": "321"
@@ -2633,6 +2648,21 @@
     ],
     "cin @ stl": [
         {
+            "player": "elly de la cruz",
+            "game": "cin @ stl",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-06-21 15:27:25",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "2:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gavin lux",
             "game": "cin @ stl",
             "hr/park": "0/30",
@@ -3155,9 +3185,9 @@
             "start": "2:20 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "43.2",
+            "la": "-81",
+            "dist": "2"
         },
         {
             "player": "jorge polanco",
@@ -3636,10 +3666,10 @@
             "team": "chw",
             "start": "3:07 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "70.6",
+            "la": "-38",
+            "dist": "3"
         },
         {
             "player": "edgar quero",
