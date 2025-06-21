@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "105",
         "batters": "282",
-        "pitches": "3671",
+        "pitches": "3679",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "53.2",
         "ff%fourseam fastball %": "34.4",
@@ -10,14 +10,14 @@
         "fc%cutter %": "7.2",
         "fs%splitter %": "2.7",
         "ch%changeup %": "7.8",
-        "sl%slider %": "23.1",
+        "sl%slider %": "23.2",
         "cu%curve %": "12.4",
         "max evmax exit velocity": "114.2",
         "hhhard hit": "281",
-        "hh%hard hit %": "42.3",
+        "hh%hard hit %": "42.1",
         "brlbarrels": "63",
-        "brl%barrel %": "9.5",
-        "ab": "850",
+        "brl%barrel %": "9.4",
+        "ab": "852",
         "avg": ".276",
         "h": "235",
         "1b": "147",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "37",
         "so": "198",
-        "bipballs in play": "665",
+        "bipballs in play": "667",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-20 23:09:56.895702"
+        "updated": "2025-06-20 23:10:08.684713"
     },
     "sea @ chc": [
         {
@@ -11617,6 +11617,21 @@
     ],
     "hou @ laa": [
         {
+            "player": "jose altuve",
+            "game": "hou @ laa",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-20 23:10:02",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "9:38 PM",
+            "in": "6",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nolan schanuel",
             "game": "hou @ laa",
             "hr/park": "0/30",
@@ -12229,9 +12244,9 @@
             "start": "9:40 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "89.3",
+            "la": "3",
+            "dist": "72"
         },
         {
             "player": "elias diaz",
@@ -12845,7 +12860,7 @@
             "team": "cle",
             "start": "10:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -13372,10 +13387,10 @@
             "team": "wsh",
             "start": "10:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "93.3",
+            "la": "38",
+            "dist": "320"
         },
         {
             "player": "brady house",
@@ -13830,6 +13845,21 @@
     ],
     "bos @ sf": [
         {
+            "player": "ceddanne rafaela",
+            "game": "bos @ sf",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-06-20 23:10:02",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "10:15 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "marcelo mayer",
             "game": "bos @ sf",
             "hr/park": "",
@@ -13839,7 +13869,7 @@
             "team": "bos",
             "start": "10:15 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "103.7",
             "la": "-9",
             "dist": "21"
