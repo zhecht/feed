@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "44",
-        "batters": "173",
-        "pitches": "1747",
+        "batters": "172",
+        "pitches": "1755",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "69.3",
         "ff%fourseam fastball %": "35.3",
         "si%sinker %": "11.1",
         "fc%cutter %": "8.2",
-        "fs%splitter %": "1.8",
-        "ch%changeup %": "7.0",
+        "fs%splitter %": "1.9",
+        "ch%changeup %": "7.1",
         "sl%slider %": "24.7",
-        "cu%curve %": "11.8",
+        "cu%curve %": "11.7",
         "max evmax exit velocity": "114.2",
         "hhhard hit": "127",
-        "hh%hard hit %": "42.9",
+        "hh%hard hit %": "42.6",
         "brlbarrels": "27",
         "brl%barrel %": "9.1",
         "ab": "398",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "14",
         "so": "101",
-        "bipballs in play": "296",
+        "bipballs in play": "298",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-20 20:58:39.850333"
+        "updated": "2025-06-20 20:58:49.346305"
     },
     "sea @ chc": [
         {
@@ -1219,6 +1219,21 @@
     ],
     "tex @ pit": [
         {
+            "player": "corey seager",
+            "game": "tex @ pit",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-06-20 20:58:47",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "GIDP",
+            "evo": "78.7",
+            "la": "4",
+            "dist": "74"
+        },
+        {
             "player": "sam haggerty",
             "game": "tex @ pit",
             "hr/park": "",
@@ -1228,7 +1243,7 @@
             "team": "tex",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2220,7 +2235,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "3",
-            "result": "Walk",
+            "result": "Wild Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2648,6 +2663,21 @@
     ],
     "bal @ nyy": [
         {
+            "player": "anthony volpe",
+            "game": "bal @ nyy",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-06-20 20:58:47",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jasson dominguez",
             "game": "bal @ nyy",
             "hr/park": "",
@@ -2657,7 +2687,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4853,7 +4883,7 @@
             "team": "cin",
             "start": "7:15 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5560,7 +5590,7 @@
             "team": "phi",
             "start": "7:15 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "83.4",
             "la": "-24",
             "dist": "6"
@@ -6183,21 +6213,6 @@
     ],
     "mil @ min": [
         {
-            "player": "kody clemens",
-            "game": "mil @ min",
-            "hr/park": "",
-            "pa": "19",
-            "dt": "2025-06-20 20:58:02",
-            "img": "https://www.mlbstatic.com/team-logos/142.svg",
-            "team": "min",
-            "start": "8:10 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "harrison bader",
             "game": "mil @ min",
             "hr/park": "",
@@ -6480,9 +6495,9 @@
             "start": "8:40 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "83.0",
+            "la": "9",
+            "dist": "134"
         },
         {
             "player": "hunter goodman",
