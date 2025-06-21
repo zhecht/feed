@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "101",
         "batters": "279",
-        "pitches": "3517",
+        "pitches": "3518",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "69.3",
         "ff%fourseam fastball %": "34.3",
@@ -10,11 +10,11 @@
         "fc%cutter %": "7.4",
         "fs%splitter %": "2.8",
         "ch%changeup %": "7.6",
-        "sl%slider %": "23.5",
+        "sl%slider %": "23.6",
         "cu%curve %": "12.4",
         "max evmax exit velocity": "114.2",
         "hhhard hit": "270",
-        "hh%hard hit %": "42.9",
+        "hh%hard hit %": "42.8",
         "brlbarrels": "61",
         "brl%barrel %": "9.7",
         "ab": "811",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "36",
         "so": "191",
-        "bipballs in play": "630",
+        "bipballs in play": "631",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-20 22:57:01.065404"
+        "updated": "2025-06-20 22:57:12.660971"
     },
     "sea @ chc": [
         {
@@ -9365,17 +9365,17 @@
         {
             "player": "kody clemens",
             "game": "mil @ min",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "68",
             "dt": "2025-06-20 22:56:19",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "start": "8:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "94.7",
+            "la": "23",
+            "dist": "347"
         },
         {
             "player": "harrison bader",
@@ -11401,7 +11401,7 @@
             "team": "hou",
             "start": "9:38 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11949,6 +11949,21 @@
     ],
     "kc @ sd": [
         {
+            "player": "jonathan india",
+            "game": "kc @ sd",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-06-20 22:57:04",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "9:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle isbel",
             "game": "kc @ sd",
             "hr/park": "",
@@ -11958,7 +11973,7 @@
             "team": "kc",
             "start": "9:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Sac Bunt",
             "evo": "34.8",
             "la": "-71",
             "dist": "3"
