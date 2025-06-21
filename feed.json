@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "16",
         "batters": "86",
-        "pitches": "658",
+        "pitches": "660",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "73.7",
-        "ff%fourseam fastball %": "30.4",
-        "si%sinker %": "16.6",
+        "ff%fourseam fastball %": "30.5",
+        "si%sinker %": "16.7",
         "fc%cutter %": "13.8",
         "fs%splitter %": "0.5",
         "ch%changeup %": "9.1",
@@ -14,21 +14,21 @@
         "cu%curve %": "7.9",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "50",
-        "hh%hard hit %": "42.7",
+        "hh%hard hit %": "42.4",
         "brlbarrels": "9",
-        "brl%barrel %": "7.7",
-        "ab": "145",
-        "avg": ".255",
+        "brl%barrel %": "7.6",
+        "ab": "146",
+        "avg": ".253",
         "h": "37",
         "1b": "21",
         "2b": "5",
         "3b": "1",
         "hr": "10",
-        "so": "34",
-        "bipballs in play": "117",
+        "so": "35",
+        "bipballs in play": "118",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-06-21 14:49:16.389718"
+        "updated": "2025-06-21 14:49:24.702354"
     },
     "det @ tb": [
         {
@@ -1159,6 +1159,21 @@
     ],
     "bal @ nyy": [
         {
+            "player": "aaron judge",
+            "game": "bal @ nyy",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-06-21 14:49:24",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trent grisham",
             "game": "bal @ nyy",
             "hr/park": "",
@@ -1168,7 +1183,7 @@
             "team": "nyy",
             "start": "1:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1876,9 +1891,9 @@
             "start": "2:10 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "67.4",
+            "la": "-69",
+            "dist": "1"
         },
         {
             "player": "jackson chourio",
