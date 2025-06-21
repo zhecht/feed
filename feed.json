@@ -2,12 +2,12 @@
     "all": {
         "pitchers": "128",
         "batters": "292",
-        "pitches": "4324",
+        "pitches": "4332",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "53.2",
-        "ff%fourseam fastball %": "34.2",
+        "ff%fourseam fastball %": "34.1",
         "si%sinker %": "11.8",
-        "fc%cutter %": "6.5",
+        "fc%cutter %": "6.4",
         "fs%splitter %": "2.7",
         "ch%changeup %": "8.4",
         "sl%slider %": "23.6",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "42.1",
         "brlbarrels": "68",
         "brl%barrel %": "8.6",
-        "ab": "999",
+        "ab": "1000",
         "avg": ".285",
         "h": "285",
         "1b": "184",
@@ -28,7 +28,7 @@
         "bipballs in play": "787",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-06-21 00:14:55.519120"
+        "updated": "2025-06-21 00:15:07.946095"
     },
     "sea @ chc": [
         {
@@ -13023,7 +13023,7 @@
             "team": "kc",
             "start": "",
             "in": "8",
-            "result": "Stolen Base 3B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -14036,6 +14036,21 @@
     ],
     "cle @ ath": [
         {
+            "player": "david fry",
+            "game": "cle @ ath",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-06-21 00:15:03",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "",
+            "in": "9",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose ramirez",
             "game": "cle @ ath",
             "hr/park": "",
@@ -14045,7 +14060,7 @@
             "team": "cle",
             "start": "",
             "in": "9",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "93.1",
             "la": "-5",
             "dist": "14"
@@ -15924,7 +15939,7 @@
             "team": "bos",
             "start": "",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
