@@ -1,15 +1,15 @@
 {
     "all": {
-        "pitchers": "73",
+        "pitchers": "74",
         "batters": "192",
-        "pitches": "2463",
+        "pitches": "2471",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "69.3",
         "ff%fourseam fastball %": "33.5",
         "si%sinker %": "12.1",
-        "fc%cutter %": "7.1",
+        "fc%cutter %": "7.2",
         "fs%splitter %": "2.4",
-        "ch%changeup %": "7.1",
+        "ch%changeup %": "7.2",
         "sl%slider %": "25.3",
         "cu%curve %": "12.4",
         "max evmax exit velocity": "114.2",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "42.5",
         "brlbarrels": "39",
         "brl%barrel %": "9.1",
-        "ab": "558",
-        "avg": ".269",
+        "ab": "560",
+        "avg": ".268",
         "h": "150",
         "1b": "94",
         "2b": "32",
         "3b": "3",
         "hr": "21",
-        "so": "135",
+        "so": "136",
         "bipballs in play": "428",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-20 21:44:59.990151"
+        "updated": "2025-06-20 21:45:10.030982"
     },
     "sea @ chc": [
         {
@@ -2460,7 +2460,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5277,6 +5277,21 @@
     ],
     "atl @ mia": [
         {
+            "player": "ozzie albies",
+            "game": "atl @ mia",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-06-20 21:45:03",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "heriberto hernandez",
             "game": "atl @ mia",
             "hr/park": "",
@@ -6314,6 +6329,21 @@
     ],
     "cin @ stl": [
         {
+            "player": "brendan donovan",
+            "game": "cin @ stl",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-06-20 21:45:03",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:15 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "victor scott",
             "game": "cin @ stl",
             "hr/park": "",
@@ -6323,7 +6353,7 @@
             "team": "stl",
             "start": "7:15 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
