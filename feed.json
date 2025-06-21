@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "18",
-        "batters": "91",
-        "pitches": "708",
+        "batters": "92",
+        "pitches": "711",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "73.7",
-        "ff%fourseam fastball %": "29.7",
+        "ff%fourseam fastball %": "29.5",
         "si%sinker %": "17.4",
-        "fc%cutter %": "13.3",
+        "fc%cutter %": "13.2",
         "fs%splitter %": "0.4",
-        "ch%changeup %": "9.2",
-        "sl%slider %": "22.0",
-        "cu%curve %": "8.1",
+        "ch%changeup %": "9.3",
+        "sl%slider %": "22.1",
+        "cu%curve %": "8.0",
         "max evmax exit velocity": "113.0",
-        "hhhard hit": "58",
-        "hh%hard hit %": "44.3",
+        "hhhard hit": "59",
+        "hh%hard hit %": "44.4",
         "brlbarrels": "11",
-        "brl%barrel %": "8.4",
-        "ab": "159",
-        "avg": ".264",
+        "brl%barrel %": "8.3",
+        "ab": "161",
+        "avg": ".261",
         "h": "42",
         "1b": "24",
         "2b": "6",
         "3b": "2",
         "hr": "10",
         "so": "35",
-        "bipballs in play": "131",
+        "bipballs in play": "133",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-06-21 14:57:18.277726"
+        "updated": "2025-06-21 14:57:26.612966"
     },
     "det @ tb": [
         {
@@ -1941,6 +1941,21 @@
     ],
     "mil @ min": [
         {
+            "player": "matt wallner",
+            "game": "mil @ min",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-06-21 14:57:25",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "99.4",
+            "la": "8",
+            "dist": "179"
+        },
+        {
             "player": "harrison bader",
             "game": "mil @ min",
             "hr/park": "",
@@ -2243,6 +2258,21 @@
     ],
     "cin @ stl": [
         {
+            "player": "masyn winn",
+            "game": "cin @ stl",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-06-21 14:57:25",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "2:15 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brendan donovan",
             "game": "cin @ stl",
             "hr/park": "",
@@ -2252,10 +2282,10 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "80.8",
+            "la": "-17",
+            "dist": "7"
         },
         {
             "player": "victor scott",
@@ -2584,7 +2614,7 @@
             "team": "chc",
             "start": "2:20 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
