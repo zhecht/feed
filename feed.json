@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "50",
+        "pitchers": "51",
         "batters": "180",
-        "pitches": "1910",
+        "pitches": "1914",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "69.3",
-        "ff%fourseam fastball %": "34.9",
-        "si%sinker %": "10.9",
+        "ff%fourseam fastball %": "34.8",
+        "si%sinker %": "11.1",
         "fc%cutter %": "8.0",
         "fs%splitter %": "2.1",
-        "ch%changeup %": "7.1",
+        "ch%changeup %": "6.9",
         "sl%slider %": "24.9",
         "cu%curve %": "12.1",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "139",
-        "hh%hard hit %": "42.0",
-        "brlbarrels": "30",
-        "brl%barrel %": "9.1",
-        "ab": "433",
-        "avg": ".266",
-        "h": "115",
+        "hhhard hit": "141",
+        "hh%hard hit %": "42.2",
+        "brlbarrels": "31",
+        "brl%barrel %": "9.3",
+        "ab": "437",
+        "avg": ".265",
+        "h": "116",
         "1b": "72",
-        "2b": "25",
+        "2b": "26",
         "3b": "2",
         "hr": "16",
-        "so": "105",
-        "bipballs in play": "331",
+        "so": "104",
+        "bipballs in play": "334",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-20 21:09:31.679514"
+        "updated": "2025-06-20 21:09:41.178670"
     },
     "sea @ chc": [
         {
@@ -2813,6 +2813,21 @@
     ],
     "bal @ nyy": [
         {
+            "player": "coby mayo",
+            "game": "bal @ nyy",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-06-20 21:09:35",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gary sanchez",
             "game": "bal @ nyy",
             "hr/park": "",
@@ -3549,21 +3564,6 @@
         }
     ],
     "chw @ tor": [
-        {
-            "player": "ernie clement",
-            "game": "chw @ tor",
-            "hr/park": "",
-            "pa": "57",
-            "dt": "2025-06-20 21:07:03",
-            "img": "https://www.mlbstatic.com/team-logos/141.svg",
-            "team": "tor",
-            "start": "7:07 PM",
-            "in": "7",
-            "result": "Strikeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "andres gimenez",
             "game": "chw @ tor",
@@ -4406,6 +4406,51 @@
         }
     ],
     "atl @ mia": [
+        {
+            "player": "nick allen",
+            "game": "atl @ mia",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-06-20 21:09:35",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "michael harris",
+            "game": "atl @ mia",
+            "hr/park": "21/30",
+            "pa": "54",
+            "dt": "2025-06-20 21:08:19",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "Double",
+            "evo": "108.4",
+            "la": "18",
+            "dist": "380"
+        },
+        {
+            "player": "sean murphy",
+            "game": "atl @ mia",
+            "hr/park": "0/30",
+            "pa": "53",
+            "dt": "2025-06-20 21:07:17",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "Flyout",
+            "evo": "86.0",
+            "la": "36",
+            "dist": "314"
+        },
         {
             "player": "heriberto hernandez",
             "game": "atl @ mia",
@@ -5941,11 +5986,11 @@
     ],
     "nym @ phi": [
         {
-            "player": "jared young",
+            "player": "luis torrens",
             "game": "nym @ phi",
             "hr/park": "",
-            "pa": "47",
-            "dt": "2025-06-20 21:08:01",
+            "pa": "48",
+            "dt": "2025-06-20 21:09:35",
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
             "team": "nym",
             "start": "7:15 PM",
@@ -5954,6 +5999,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "jared young",
+            "game": "nym @ phi",
+            "hr/park": "0/30",
+            "pa": "47",
+            "dt": "2025-06-20 21:08:01",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:15 PM",
+            "in": "6",
+            "result": "Lineout",
+            "evo": "97.9",
+            "la": "23",
+            "dist": "358"
         },
         {
             "player": "jeff mcneil",
