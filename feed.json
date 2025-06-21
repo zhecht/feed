@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "48",
         "batters": "171",
-        "pitches": "1940",
+        "pitches": "1944",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "37.6",
         "ff%fourseam fastball %": "27.6",
-        "si%sinker %": "20.2",
+        "si%sinker %": "20.1",
         "fc%cutter %": "11.2",
         "fs%splitter %": "1.5",
         "ch%changeup %": "9.2",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.8",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "166",
-        "hh%hard hit %": "44.4",
+        "hh%hard hit %": "44.3",
         "brlbarrels": "23",
         "brl%barrel %": "6.1",
-        "ab": "449",
-        "avg": ".236",
-        "h": "106",
-        "1b": "64",
+        "ab": "451",
+        "avg": ".237",
+        "h": "107",
+        "1b": "65",
         "2b": "19",
         "3b": "4",
         "hr": "19",
         "so": "94",
-        "bipballs in play": "374",
+        "bipballs in play": "375",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-21 17:02:33.852584"
+        "updated": "2025-06-21 17:02:43.469355"
     },
     "det @ tb": [
         {
@@ -5562,6 +5562,21 @@
     ],
     "chw @ tor": [
         {
+            "player": "ernie clement",
+            "game": "chw @ tor",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-06-21 17:02:40",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "3:07 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "george springer",
             "game": "chw @ tor",
             "hr/park": "",
@@ -5571,10 +5586,10 @@
             "team": "tor",
             "start": "3:07 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "86.8",
+            "la": "8",
+            "dist": "109"
         },
         {
             "player": "miguel vargas",
@@ -7308,6 +7323,21 @@
     ],
     "atl @ mia": [
         {
+            "player": "drake baldwin",
+            "game": "atl @ mia",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-06-21 17:02:40",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "4:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "marcell ozuna",
             "game": "atl @ mia",
             "hr/park": "",
@@ -7317,7 +7347,7 @@
             "team": "atl",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "103.0",
             "la": "51",
             "dist": "284"
