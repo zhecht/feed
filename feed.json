@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "101",
         "batters": "279",
-        "pitches": "3484",
+        "pitches": "3491",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "69.3",
-        "ff%fourseam fastball %": "34.2",
-        "si%sinker %": "12.0",
+        "ff%fourseam fastball %": "34.3",
+        "si%sinker %": "12.1",
         "fc%cutter %": "7.4",
-        "fs%splitter %": "2.9",
+        "fs%splitter %": "2.8",
         "ch%changeup %": "7.5",
         "sl%slider %": "23.6",
         "cu%curve %": "12.4",
         "max evmax exit velocity": "114.2",
         "hhhard hit": "268",
-        "hh%hard hit %": "43.0",
+        "hh%hard hit %": "42.9",
         "brlbarrels": "61",
         "brl%barrel %": "9.8",
-        "ab": "804",
+        "ab": "806",
         "avg": ".275",
-        "h": "221",
+        "h": "222",
         "1b": "138",
-        "2b": "44",
+        "2b": "45",
         "3b": "3",
         "hr": "36",
         "so": "191",
-        "bipballs in play": "623",
+        "bipballs in play": "625",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-20 22:54:26.617984"
+        "updated": "2025-06-20 22:54:38.548083"
     },
     "sea @ chc": [
         {
@@ -2460,10 +2460,10 @@
             "team": "det",
             "start": "7:05 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "65.0",
+            "la": "65",
+            "dist": "113"
         },
         {
             "player": "jahmai jones",
@@ -11386,10 +11386,10 @@
             "team": "hou",
             "start": "9:38 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "90.2",
+            "la": "27",
+            "dist": "326"
         },
         {
             "player": "cooper hummel",
@@ -11904,6 +11904,21 @@
     ],
     "kc @ sd": [
         {
+            "player": "nick loftin",
+            "game": "kc @ sd",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-06-20 22:54:34",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "9:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "freddy fermin",
             "game": "kc @ sd",
             "hr/park": "",
@@ -12386,6 +12401,21 @@
     ],
     "cle @ ath": [
         {
+            "player": "david fry",
+            "game": "cle @ ath",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-06-20 22:54:34",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "10:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose ramirez",
             "game": "cle @ ath",
             "hr/park": "0/30",
@@ -12395,7 +12425,7 @@
             "team": "cle",
             "start": "10:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "108.7",
             "la": "16",
             "dist": "340"
