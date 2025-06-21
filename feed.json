@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "86",
-        "batters": "218",
-        "pitches": "2819",
+        "batters": "219",
+        "pitches": "2825",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "69.3",
         "ff%fourseam fastball %": "34.2",
-        "si%sinker %": "12.3",
+        "si%sinker %": "12.4",
         "fc%cutter %": "7.5",
         "fs%splitter %": "2.5",
         "ch%changeup %": "7.3",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "26",
         "so": "155",
-        "bipballs in play": "496",
+        "bipballs in play": "497",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-20 22:10:16.072159"
+        "updated": "2025-06-20 22:10:26.662067"
     },
     "sea @ chc": [
         {
@@ -8892,7 +8892,7 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10736,6 +10736,21 @@
     ],
     "cle @ ath": [
         {
+            "player": "jose ramirez",
+            "game": "cle @ ath",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-06-20 22:09:47",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "10:05 PM",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "79.1",
+            "la": "-5",
+            "dist": "21"
+        },
+        {
             "player": "lane thomas",
             "game": "cle @ ath",
             "hr/park": "",
@@ -10745,7 +10760,7 @@
             "team": "cle",
             "start": "10:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "78.2",
             "la": "84",
             "dist": "74"
