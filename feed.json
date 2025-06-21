@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "29",
-        "batters": "135",
-        "pitches": "1132",
+        "pitchers": "30",
+        "batters": "137",
+        "pitches": "1137",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "69.3",
-        "ff%fourseam fastball %": "33.4",
-        "si%sinker %": "12.1",
+        "ff%fourseam fastball %": "33.6",
+        "si%sinker %": "12.0",
         "fc%cutter %": "9.3",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "7.5",
-        "sl%slider %": "24.2",
-        "cu%curve %": "11.7",
+        "ch%changeup %": "7.3",
+        "sl%slider %": "23.9",
+        "cu%curve %": "12.0",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "88",
-        "hh%hard hit %": "46.3",
-        "brlbarrels": "19",
-        "brl%barrel %": "10.0",
-        "ab": "257",
-        "avg": ".272",
-        "h": "70",
+        "hhhard hit": "87",
+        "hh%hard hit %": "45.8",
+        "brlbarrels": "18",
+        "brl%barrel %": "9.5",
+        "ab": "260",
+        "avg": ".265",
+        "h": "69",
         "1b": "44",
-        "2b": "12",
+        "2b": "11",
         "3b": "1",
         "hr": "13",
-        "so": "67",
+        "so": "68",
         "bipballs in play": "190",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-20 20:17:26.571110"
+        "updated": "2025-06-20 20:17:35.231663"
     },
     "sea @ chc": [
         {
@@ -1219,6 +1219,21 @@
     ],
     "tex @ pit": [
         {
+            "player": "josh smith",
+            "game": "tex @ pit",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-06-20 20:17:32",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jonah heim",
             "game": "tex @ pit",
             "hr/park": "0/30",
@@ -1926,6 +1941,21 @@
     ],
     "det @ tb": [
         {
+            "player": "jonathan aranda",
+            "game": "det @ tb",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-06-20 20:16:47",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jake mangum",
             "game": "det @ tb",
             "hr/park": "",
@@ -2057,7 +2087,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2982,6 +3012,21 @@
     ],
     "atl @ mia": [
         {
+            "player": "connor norby",
+            "game": "atl @ mia",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-06-20 20:17:32",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "liam hicks",
             "game": "atl @ mia",
             "hr/park": "",
@@ -2991,10 +3036,10 @@
             "team": "mia",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "64.4",
+            "la": "19",
+            "dist": "168"
         },
         {
             "player": "ozzie albies",
@@ -3464,11 +3509,11 @@
     ],
     "cin @ stl": [
         {
-            "player": "jordan walker",
+            "player": "lars nootbaar",
             "game": "cin @ stl",
             "hr/park": "",
-            "pa": "29",
-            "dt": "2025-06-20 20:17:03",
+            "pa": "28",
+            "dt": "2025-06-20 20:16:02",
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
             "team": "stl",
             "start": "7:15 PM",
@@ -3477,21 +3522,6 @@
             "evo": "",
             "la": "",
             "dist": ""
-        },
-        {
-            "player": "lars nootbaar",
-            "game": "cin @ stl",
-            "hr/park": "22/30",
-            "pa": "28",
-            "dt": "2025-06-20 20:16:02",
-            "img": "https://www.mlbstatic.com/team-logos/138.svg",
-            "team": "stl",
-            "start": "7:15 PM",
-            "in": "4",
-            "result": "Double",
-            "evo": "111.2",
-            "la": "19",
-            "dist": "399"
         },
         {
             "player": "tyler stephenson",
@@ -4321,7 +4351,23 @@
             "dist": "300"
         }
     ],
-    "mil @ min": [],
+    "mil @ min": [
+        {
+            "player": "sal frelick",
+            "game": "mil @ min",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-20 20:17:32",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "ari @ col": [],
     "hou @ laa": [],
     "kc @ sd": [],
