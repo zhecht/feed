@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "50",
+        "pitchers": "49",
         "batters": "179",
-        "pitches": "1891",
+        "pitches": "1894",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "69.3",
-        "ff%fourseam fastball %": "34.8",
-        "si%sinker %": "11.2",
+        "ff%fourseam fastball %": "34.9",
+        "si%sinker %": "11.0",
         "fc%cutter %": "8.0",
         "fs%splitter %": "2.0",
         "ch%changeup %": "7.0",
@@ -28,7 +28,7 @@
         "bipballs in play": "330",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-20 21:07:57.335772"
+        "updated": "2025-06-20 21:08:06.673487"
     },
     "sea @ chc": [
         {
@@ -2310,10 +2310,10 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Fielders Choice",
+            "evo": "23.5",
+            "la": "-25",
+            "dist": "7"
         },
         {
             "player": "taylor walls",
@@ -4362,21 +4362,6 @@
     ],
     "atl @ mia": [
         {
-            "player": "sean murphy",
-            "game": "atl @ mia",
-            "hr/park": "",
-            "pa": "53",
-            "dt": "2025-06-20 21:07:17",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "7:10 PM",
-            "in": "7",
-            "result": "Flyout",
-            "evo": "86.0",
-            "la": "36",
-            "dist": "314"
-        },
-        {
             "player": "heriberto hernandez",
             "game": "atl @ mia",
             "hr/park": "",
@@ -5911,6 +5896,21 @@
     ],
     "nym @ phi": [
         {
+            "player": "jared young",
+            "game": "nym @ phi",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-06-20 21:08:01",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:15 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jeff mcneil",
             "game": "nym @ phi",
             "hr/park": "15/30",
@@ -6603,6 +6603,21 @@
     ],
     "mil @ min": [
         {
+            "player": "william contreras",
+            "game": "mil @ min",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-06-20 21:08:01",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "christian yelich",
             "game": "mil @ min",
             "hr/park": "",
@@ -6944,7 +6959,7 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
