@@ -2,15 +2,15 @@
     "all": {
         "pitchers": "46",
         "batters": "171",
-        "pitches": "1861",
+        "pitches": "1867",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "37.6",
-        "ff%fourseam fastball %": "27.6",
+        "ff%fourseam fastball %": "27.5",
         "si%sinker %": "20.6",
         "fc%cutter %": "11.1",
         "fs%splitter %": "1.2",
-        "ch%changeup %": "9.2",
-        "sl%slider %": "20.0",
+        "ch%changeup %": "9.3",
+        "sl%slider %": "20.1",
         "cu%curve %": "9.8",
         "max evmax exit velocity": "113.5",
         "hhhard hit": "159",
@@ -28,7 +28,7 @@
         "bipballs in play": "364",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-21 16:55:34.938398"
+        "updated": "2025-06-21 16:55:44.185534"
     },
     "det @ tb": [
         {
@@ -5511,7 +5511,7 @@
             "team": "chw",
             "start": "3:07 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6781,6 +6781,21 @@
     ],
     "tex @ pit": [
         {
+            "player": "bryan reynolds",
+            "game": "tex @ pit",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-06-21 16:55:41",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andrew mccutchen",
             "game": "tex @ pit",
             "hr/park": "",
@@ -6790,7 +6805,7 @@
             "team": "pit",
             "start": "4:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "65.4",
             "la": "16",
             "dist": "131"
