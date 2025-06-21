@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "54",
         "batters": "182",
-        "pitches": "2020",
+        "pitches": "2027",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "69.3",
-        "ff%fourseam fastball %": "34.1",
+        "ff%fourseam fastball %": "34.0",
         "si%sinker %": "11.8",
-        "fc%cutter %": "7.9",
+        "fc%cutter %": "7.8",
         "fs%splitter %": "2.1",
         "ch%changeup %": "6.9",
-        "sl%slider %": "24.8",
+        "sl%slider %": "24.9",
         "cu%curve %": "12.4",
         "max evmax exit velocity": "114.2",
         "hhhard hit": "148",
-        "hh%hard hit %": "42.2",
+        "hh%hard hit %": "42.0",
         "brlbarrels": "33",
         "brl%barrel %": "9.4",
         "ab": "456",
@@ -24,11 +24,11 @@
         "2b": "27",
         "3b": "2",
         "hr": "16",
-        "so": "109",
-        "bipballs in play": "351",
+        "so": "110",
+        "bipballs in play": "352",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-20 21:16:08.985807"
+        "updated": "2025-06-20 21:16:18.671154"
     },
     "sea @ chc": [
         {
@@ -1228,7 +1228,7 @@
             "team": "tex",
             "start": "6:40 PM",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3694,7 +3694,7 @@
             "team": "chw",
             "start": "7:07 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4604,14 +4604,14 @@
         {
             "player": "jesus sanchez",
             "game": "atl @ mia",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "58",
             "dt": "2025-06-20 21:15:04",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
             "team": "mia",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "105.6",
             "la": "13",
             "dist": "300"
@@ -5473,6 +5473,21 @@
         }
     ],
     "cin @ stl": [
+        {
+            "player": "nolan gorman",
+            "game": "cin @ stl",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-06-20 21:16:17",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:15 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "alec burleson",
             "game": "cin @ stl",
@@ -7032,10 +7047,10 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Groundout",
+            "evo": "88.0",
             "la": "",
-            "dist": ""
+            "dist": "43"
         },
         {
             "player": "brice turang",
