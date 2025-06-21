@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "30",
-        "batters": "139",
-        "pitches": "1168",
+        "batters": "140",
+        "pitches": "1176",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "69.3",
-        "ff%fourseam fastball %": "33.6",
-        "si%sinker %": "11.9",
-        "fc%cutter %": "9.2",
-        "fs%splitter %": "1.9",
+        "ff%fourseam fastball %": "33.5",
+        "si%sinker %": "11.8",
+        "fc%cutter %": "9.4",
+        "fs%splitter %": "2.0",
         "ch%changeup %": "7.4",
         "sl%slider %": "23.8",
-        "cu%curve %": "12.1",
+        "cu%curve %": "12.2",
         "max evmax exit velocity": "114.2",
         "hhhard hit": "90",
-        "hh%hard hit %": "45.9",
+        "hh%hard hit %": "45.7",
         "brlbarrels": "19",
-        "brl%barrel %": "9.7",
-        "ab": "264",
-        "avg": ".277",
-        "h": "73",
-        "1b": "47",
+        "brl%barrel %": "9.6",
+        "ab": "266",
+        "avg": ".278",
+        "h": "74",
+        "1b": "48",
         "2b": "12",
         "3b": "1",
         "hr": "13",
-        "so": "68",
-        "bipballs in play": "196",
+        "so": "69",
+        "bipballs in play": "197",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-20 20:19:11.477268"
+        "updated": "2025-06-20 20:19:20.063125"
     },
     "sea @ chc": [
         {
@@ -1219,6 +1219,21 @@
     ],
     "tex @ pit": [
         {
+            "player": "sam haggerty",
+            "game": "tex @ pit",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-06-20 20:19:17",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh smith",
             "game": "tex @ pit",
             "hr/park": "",
@@ -1941,6 +1956,21 @@
     ],
     "det @ tb": [
         {
+            "player": "josh lowe",
+            "game": "det @ tb",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-06-20 20:19:17",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "curtis mead",
             "game": "det @ tb",
             "hr/park": "",
@@ -2102,7 +2132,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3051,7 +3081,7 @@
             "team": "mia",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "103.6",
             "la": "13",
             "dist": "203"
@@ -3548,10 +3578,10 @@
             "team": "stl",
             "start": "7:15 PM",
             "in": "4",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "63.0",
+            "la": "54",
+            "dist": "167"
         },
         {
             "player": "lars nootbaar",
