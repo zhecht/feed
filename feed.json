@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "30",
         "batters": "144",
-        "pitches": "1206",
+        "pitches": "1210",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "69.3",
-        "ff%fourseam fastball %": "33.4",
-        "si%sinker %": "11.8",
+        "ff%fourseam fastball %": "33.5",
+        "si%sinker %": "11.7",
         "fc%cutter %": "9.2",
-        "fs%splitter %": "1.9",
-        "ch%changeup %": "7.5",
+        "fs%splitter %": "2.0",
+        "ch%changeup %": "7.4",
         "sl%slider %": "24.0",
         "cu%curve %": "12.3",
         "max evmax exit velocity": "114.2",
         "hhhard hit": "92",
-        "hh%hard hit %": "45.5",
+        "hh%hard hit %": "45.1",
         "brlbarrels": "19",
-        "brl%barrel %": "9.4",
+        "brl%barrel %": "9.3",
         "ab": "274",
         "avg": ".274",
         "h": "75",
@@ -24,11 +24,11 @@
         "2b": "13",
         "3b": "1",
         "hr": "13",
-        "so": "72",
-        "bipballs in play": "202",
+        "so": "73",
+        "bipballs in play": "204",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-20 20:22:24.688204"
+        "updated": "2025-06-20 20:22:33.408002"
     },
     "sea @ chc": [
         {
@@ -1219,6 +1219,21 @@
     ],
     "tex @ pit": [
         {
+            "player": "corey seager",
+            "game": "tex @ pit",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-06-20 20:22:31",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "74.7",
+            "la": "40",
+            "dist": "230"
+        },
+        {
             "player": "sam haggerty",
             "game": "tex @ pit",
             "hr/park": "",
@@ -1228,7 +1243,7 @@
             "team": "tex",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1965,10 +1980,10 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "93.4",
+            "la": "23",
+            "dist": "293"
         },
         {
             "player": "matt thaiss",
@@ -2630,9 +2645,9 @@
             "start": "7:07 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "78.5",
-            "la": "9",
-            "dist": "129"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "addison barger",
@@ -3141,10 +3156,10 @@
             "team": "mia",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "94.2",
+            "la": "58",
+            "dist": "213"
         },
         {
             "player": "connor norby",
@@ -4557,7 +4572,7 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
