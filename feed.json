@@ -1,14 +1,14 @@
 {
     "all": {
-        "pitchers": "16",
+        "pitchers": "17",
         "batters": "68",
-        "pitches": "498",
+        "pitches": "502",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "70.9",
-        "ff%fourseam fastball %": "26.3",
+        "ff%fourseam fastball %": "26.5",
         "si%sinker %": "23.3",
         "fc%cutter %": "6.0",
-        "fs%splitter %": "16.1",
+        "fs%splitter %": "15.9",
         "ch%changeup %": "3.0",
         "sl%slider %": "19.3",
         "cu%curve %": "6.0",
@@ -24,11 +24,11 @@
         "2b": "9",
         "3b": "0",
         "hr": "2",
-        "so": "31",
+        "so": "30",
         "bipballs in play": "99",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-06-22 13:58:35.664307"
+        "updated": "2025-06-22 13:58:43.658410"
     },
     "bal @ nyy": [
         {
@@ -949,6 +949,21 @@
     ],
     "det @ tb": [
         {
+            "player": "jose caballero",
+            "game": "det @ tb",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-06-22 13:58:42",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "12:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "javier baez",
             "game": "det @ tb",
             "hr/park": "",
@@ -1725,7 +1740,7 @@
             "team": "tex",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1862,7 +1877,7 @@
             "team": "chw",
             "start": "1:37 PM",
             "in": "2",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
