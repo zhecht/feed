@@ -2,25 +2,25 @@
     "all": {
         "pitchers": "31",
         "batters": "149",
-        "pitches": "1199",
+        "pitches": "1205",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "67.8",
-        "ff%fourseam fastball %": "24.9",
-        "si%sinker %": "21.3",
+        "ff%fourseam fastball %": "25.0",
+        "si%sinker %": "21.2",
         "fc%cutter %": "6.1",
-        "fs%splitter %": "10.2",
-        "ch%changeup %": "7.8",
-        "sl%slider %": "21.5",
-        "cu%curve %": "8.2",
+        "fs%splitter %": "10.1",
+        "ch%changeup %": "7.9",
+        "sl%slider %": "21.6",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "111.2",
         "hhhard hit": "94",
         "hh%hard hit %": "39.3",
         "brlbarrels": "18",
         "brl%barrel %": "7.5",
-        "ab": "302",
-        "avg": ".281",
-        "h": "85",
-        "1b": "56",
+        "ab": "301",
+        "avg": ".286",
+        "h": "86",
+        "1b": "57",
         "2b": "17",
         "3b": "2",
         "hr": "10",
@@ -28,7 +28,7 @@
         "bipballs in play": "239",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-06-22 14:58:36.648151"
+        "updated": "2025-06-22 14:58:45.270645"
     },
     "bal @ nyy": [
         {
@@ -1168,7 +1168,7 @@
             "team": "det",
             "start": "12:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2195,21 +2195,6 @@
         }
     ],
     "tex @ pit": [
-        {
-            "player": "ezequiel duran",
-            "game": "tex @ pit",
-            "hr/park": "",
-            "pa": "36",
-            "dt": "2025-06-22 14:58:13",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "1:35 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "isiah kiner falefa",
             "game": "tex @ pit",
@@ -3340,6 +3325,21 @@
     ],
     "atl @ mia": [
         {
+            "player": "eric wagaman",
+            "game": "atl @ mia",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-06-22 14:57:57",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "otto lopez",
             "game": "atl @ mia",
             "hr/park": "",
@@ -3349,7 +3349,7 @@
             "team": "mia",
             "start": "1:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "107.8",
             "la": "-5",
             "dist": "20"
