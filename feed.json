@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "66",
-        "batters": "204",
-        "pitches": "2277",
+        "batters": "205",
+        "pitches": "2281",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "67.8",
         "ff%fourseam fastball %": "27.2",
-        "si%sinker %": "17.9",
-        "fc%cutter %": "6.3",
+        "si%sinker %": "17.8",
+        "fc%cutter %": "6.4",
         "fs%splitter %": "7.4",
-        "ch%changeup %": "8.6",
-        "sl%slider %": "24.0",
+        "ch%changeup %": "8.5",
+        "sl%slider %": "23.9",
         "cu%curve %": "8.7",
         "max evmax exit velocity": "111.2",
         "hhhard hit": "164",
-        "hh%hard hit %": "36.9",
+        "hh%hard hit %": "36.8",
         "brlbarrels": "28",
         "brl%barrel %": "6.3",
-        "ab": "558",
-        "avg": ".274",
+        "ab": "560",
+        "avg": ".273",
         "h": "153",
         "1b": "105",
         "2b": "28",
         "3b": "3",
         "hr": "17",
-        "so": "122",
-        "bipballs in play": "445",
+        "so": "123",
+        "bipballs in play": "446",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-22 16:18:49.584089"
+        "updated": "2025-06-22 16:19:00.061329"
     },
     "bal @ nyy": [
         {
@@ -3422,7 +3422,7 @@
             "team": "chw",
             "start": "1:37 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "82.0",
             "la": "4",
             "dist": "62"
@@ -6569,6 +6569,21 @@
     ],
     "cin @ stl": [
         {
+            "player": "jose barrero",
+            "game": "cin @ stl",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-22 16:18:58",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "2:15 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jordan walker",
             "game": "cin @ stl",
             "hr/park": "",
@@ -7420,10 +7435,10 @@
             "team": "sea",
             "start": "2:20 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "73.0",
+            "la": "-5",
+            "dist": "20"
         },
         {
             "player": "reese mcguire",
@@ -8277,7 +8292,7 @@
             "team": "ari",
             "start": "3:10 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8765,6 +8780,21 @@
     ],
     "cle @ ath": [
         {
+            "player": "brent rooker",
+            "game": "cle @ ath",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-06-22 16:18:29",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jacob wilson",
             "game": "cle @ ath",
             "hr/park": "",
@@ -9080,7 +9110,7 @@
             "team": "wsh",
             "start": "4:10 PM",
             "in": "1",
-            "result": "Wild Pitch",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
