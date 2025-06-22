@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "50",
         "batters": "174",
-        "pitches": "2024",
+        "pitches": "2025",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "67.8",
-        "ff%fourseam fastball %": "27.1",
+        "ff%fourseam fastball %": "27.0",
         "si%sinker %": "18.1",
         "fc%cutter %": "6.3",
         "fs%splitter %": "8.1",
@@ -13,22 +13,22 @@
         "sl%slider %": "23.2",
         "cu%curve %": "8.8",
         "max evmax exit velocity": "111.2",
-        "hhhard hit": "148",
-        "hh%hard hit %": "38.1",
-        "brlbarrels": "27",
-        "brl%barrel %": "7.0",
+        "hhhard hit": "149",
+        "hh%hard hit %": "38.3",
+        "brlbarrels": "28",
+        "brl%barrel %": "7.2",
         "ab": "487",
         "avg": ".285",
         "h": "139",
-        "1b": "94",
-        "2b": "26",
+        "1b": "93",
+        "2b": "27",
         "3b": "3",
         "hr": "16",
         "so": "107",
-        "bipballs in play": "388",
+        "bipballs in play": "389",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-22 16:03:18.750632"
+        "updated": "2025-06-22 16:03:28.117681"
     },
     "bal @ nyy": [
         {
@@ -2331,6 +2331,21 @@
     ],
     "tex @ pit": [
         {
+            "player": "spencer horwitz",
+            "game": "tex @ pit",
+            "hr/park": "0/30",
+            "pa": "63",
+            "dt": "2025-06-22 16:03:28",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "Double",
+            "evo": "103.1",
+            "la": "21",
+            "dist": "353"
+        },
+        {
             "player": "joey bart",
             "game": "tex @ pit",
             "hr/park": "",
@@ -2340,7 +2355,7 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "71.7",
             "la": "-10",
             "dist": "15"
@@ -5346,10 +5361,10 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "101.5",
+            "la": "-12",
+            "dist": "12"
         },
         {
             "player": "kody clemens",
@@ -7653,21 +7668,6 @@
     ],
     "ari @ col": [
         {
-            "player": "tim tawa",
-            "game": "ari @ col",
-            "hr/park": "",
-            "pa": "26",
-            "dt": "2025-06-22 16:02:59",
-            "img": "https://www.mlbstatic.com/team-logos/109.svg",
-            "team": "ari",
-            "start": "3:10 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "randal grichuk",
             "game": "ari @ col",
             "hr/park": "",
@@ -7677,10 +7677,10 @@
             "team": "ari",
             "start": "3:10 PM",
             "in": "4",
-            "result": "Single",
-            "evo": "99.3",
-            "la": "10",
-            "dist": "201"
+            "result": "Wild Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "eugenio suarez",
