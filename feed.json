@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "32",
-        "batters": "152",
-        "pitches": "1384",
+        "pitchers": "33",
+        "batters": "153",
+        "pitches": "1388",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "67.8",
         "ff%fourseam fastball %": "24.6",
-        "si%sinker %": "21.0",
-        "fc%cutter %": "5.9",
+        "si%sinker %": "20.9",
+        "fc%cutter %": "5.8",
         "fs%splitter %": "9.5",
         "ch%changeup %": "8.1",
         "sl%slider %": "22.3",
-        "cu%curve %": "8.7",
+        "cu%curve %": "8.6",
         "max evmax exit velocity": "111.2",
         "hhhard hit": "101",
-        "hh%hard hit %": "38.1",
+        "hh%hard hit %": "37.8",
         "brlbarrels": "18",
-        "brl%barrel %": "6.8",
-        "ab": "336",
-        "avg": ".274",
-        "h": "92",
-        "1b": "64",
+        "brl%barrel %": "6.7",
+        "ab": "338",
+        "avg": ".275",
+        "h": "93",
+        "1b": "65",
         "2b": "16",
         "3b": "2",
         "hr": "10",
         "so": "78",
-        "bipballs in play": "265",
+        "bipballs in play": "267",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-22 15:12:38.341649"
+        "updated": "2025-06-22 15:12:47.006850"
     },
     "bal @ nyy": [
         {
@@ -3595,6 +3595,21 @@
     ],
     "atl @ mia": [
         {
+            "player": "alex verdugo",
+            "game": "atl @ mia",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-06-22 15:12:42",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "1:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "93.0",
+            "la": "-48",
+            "dist": "2"
+        },
+        {
             "player": "ozzie albies",
             "game": "atl @ mia",
             "hr/park": "",
@@ -3604,7 +3619,7 @@
             "team": "atl",
             "start": "1:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "100.1",
             "la": "-8",
             "dist": "12"
@@ -4342,9 +4357,9 @@
             "start": "2:10 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "92.2",
+            "la": "-16",
+            "dist": "10"
         },
         {
             "player": "kody clemens",
@@ -5596,7 +5611,23 @@
             "dist": "225"
         }
     ],
-    "ari @ col": [],
+    "ari @ col": [
+        {
+            "player": "geraldo perdomo",
+            "game": "ari @ col",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-22 15:12:42",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "3:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "cle @ ath": [],
     "bos @ sf": [],
     "hou @ laa": [],
