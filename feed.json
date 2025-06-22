@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "95",
-        "batters": "267",
-        "pitches": "3484",
+        "batters": "268",
+        "pitches": "3488",
         "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "37.6",
         "ff%fourseam fastball %": "29.4",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.6",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "265",
+        "hhhard hit": "266",
         "hh%hard hit %": "40.7",
-        "brlbarrels": "46",
-        "brl%barrel %": "7.1",
-        "ab": "801",
-        "avg": ".228",
-        "h": "183",
+        "brlbarrels": "47",
+        "brl%barrel %": "7.2",
+        "ab": "802",
+        "avg": ".229",
+        "h": "184",
         "1b": "113",
         "2b": "33",
         "3b": "4",
-        "hr": "33",
+        "hr": "34",
         "so": "177",
-        "bipballs in play": "651",
+        "bipballs in play": "653",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-21 22:26:53.992028"
+        "updated": "2025-06-21 22:27:05.634378"
     },
     "det @ tb": [
         {
@@ -11236,7 +11236,7 @@
             "team": "nym",
             "start": "7:15 PM",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -13025,10 +13025,10 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "104.1",
+            "la": "34",
+            "dist": "396"
         },
         {
             "player": "taylor ward",
@@ -13402,7 +13402,7 @@
             "team": "cle",
             "start": "10:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -13544,6 +13544,21 @@
         }
     ],
     "wsh @ lad": [
+        {
+            "player": "josh bell",
+            "game": "wsh @ lad",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-06-21 22:26:57",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "10:10 PM",
+            "in": "2",
+            "result": "Pop Out",
+            "evo": "73.4",
+            "la": "67",
+            "dist": "135"
+        },
         {
             "player": "brady house",
             "game": "wsh @ lad",
