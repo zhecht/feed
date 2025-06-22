@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "89",
-        "batters": "250",
-        "pitches": "3348",
+        "pitchers": "90",
+        "batters": "253",
+        "pitches": "3352",
         "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "37.6",
         "ff%fourseam fastball %": "29.6",
         "si%sinker %": "16.1",
         "fc%cutter %": "11.7",
         "fs%splitter %": "1.6",
-        "ch%changeup %": "9.0",
+        "ch%changeup %": "8.9",
         "sl%slider %": "21.5",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "113.5",
-        "hhhard hit": "255",
+        "hhhard hit": "256",
         "hh%hard hit %": "40.8",
         "brlbarrels": "44",
         "brl%barrel %": "7.0",
-        "ab": "765",
-        "avg": ".231",
+        "ab": "768",
+        "avg": ".230",
         "h": "177",
         "1b": "110",
         "2b": "32",
         "3b": "4",
         "hr": "31",
         "so": "167",
-        "bipballs in play": "625",
+        "bipballs in play": "628",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-21 22:12:21.579737"
+        "updated": "2025-06-21 22:12:33.430414"
     },
     "det @ tb": [
         {
@@ -12806,6 +12806,36 @@
     ],
     "hou @ laa": [
         {
+            "player": "christian moore",
+            "game": "hou @ laa",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-06-21 22:12:25",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "2",
+            "result": "Groundout",
+            "evo": "47.6",
+            "la": "2",
+            "dist": "34"
+        },
+        {
+            "player": "gustavo campero",
+            "game": "hou @ laa",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-06-21 22:12:25",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "2",
+            "result": "Groundout",
+            "evo": "92.0",
+            "la": "3",
+            "dist": "61"
+        },
+        {
             "player": "luis rengifo",
             "game": "hou @ laa",
             "hr/park": "30/30",
@@ -13093,5 +13123,21 @@
             "dist": "360"
         }
     ],
-    "wsh @ lad": []
+    "wsh @ lad": [
+        {
+            "player": "cj abrams",
+            "game": "wsh @ lad",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-21 22:12:25",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "10:10 PM",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "106.6",
+            "la": "5",
+            "dist": "122"
+        }
+    ]
 }
