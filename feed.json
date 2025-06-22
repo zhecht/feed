@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "37",
         "batters": "156",
-        "pitches": "1472",
+        "pitches": "1477",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "67.8",
         "ff%fourseam fastball %": "24.7",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.6",
         "max evmax exit velocity": "111.2",
         "hhhard hit": "106",
-        "hh%hard hit %": "37.3",
+        "hh%hard hit %": "37.1",
         "brlbarrels": "19",
-        "brl%barrel %": "6.7",
-        "ab": "361",
-        "avg": ".283",
+        "brl%barrel %": "6.6",
+        "ab": "363",
+        "avg": ".281",
         "h": "102",
         "1b": "72",
         "2b": "17",
         "3b": "2",
         "hr": "11",
-        "so": "81",
-        "bipballs in play": "284",
+        "so": "82",
+        "bipballs in play": "286",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-22 15:19:09.567143"
+        "updated": "2025-06-22 15:19:18.564668"
     },
     "bal @ nyy": [
         {
@@ -2310,7 +2310,7 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2987,7 +2987,7 @@
             "team": "chw",
             "start": "1:37 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5491,6 +5491,36 @@
     ],
     "sea @ chc": [
         {
+            "player": "jp crawford",
+            "game": "sea @ chc",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-06-22 15:19:12",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "2:20 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "miles mastrobuoni",
+            "game": "sea @ chc",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-06-22 15:18:45",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "2:20 PM",
+            "in": "4",
+            "result": "Single",
+            "evo": "94.9",
+            "la": "7",
+            "dist": "142"
+        },
+        {
             "player": "dominic canzone",
             "game": "sea @ chc",
             "hr/park": "",
@@ -5937,7 +5967,7 @@
             "team": "col",
             "start": "3:10 PM",
             "in": "1",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "105.5",
             "la": "1",
             "dist": "68"
