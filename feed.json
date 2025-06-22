@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "71",
-        "batters": "222",
-        "pitches": "2402",
-        "max velomax pitch velocity": "101.8",
+        "batters": "223",
+        "pitches": "2405",
+        "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "67.8",
         "ff%fourseam fastball %": "27.4",
         "si%sinker %": "17.9",
-        "fc%cutter %": "6.5",
+        "fc%cutter %": "6.6",
         "fs%splitter %": "7.0",
-        "ch%changeup %": "8.7",
-        "sl%slider %": "23.8",
+        "ch%changeup %": "8.6",
+        "sl%slider %": "23.9",
         "cu%curve %": "8.6",
         "max evmax exit velocity": "111.2",
-        "hhhard hit": "171",
+        "hhhard hit": "172",
         "hh%hard hit %": "36.9",
         "brlbarrels": "29",
-        "brl%barrel %": "6.3",
-        "ab": "587",
-        "avg": ".273",
-        "h": "160",
-        "1b": "112",
+        "brl%barrel %": "6.2",
+        "ab": "588",
+        "avg": ".274",
+        "h": "161",
+        "1b": "113",
         "2b": "28",
         "3b": "3",
         "hr": "17",
         "so": "129",
-        "bipballs in play": "464",
+        "bipballs in play": "466",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-22 16:24:36.388380"
+        "updated": "2025-06-22 16:24:46.908578"
     },
     "bal @ nyy": [
         {
@@ -3452,7 +3452,7 @@
             "team": "tor",
             "start": "1:37 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8472,10 +8472,10 @@
             "team": "col",
             "start": "3:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "73.6",
+            "la": "20",
+            "dist": "190"
         },
         {
             "player": "brenton doyle",
@@ -9461,6 +9461,21 @@
     ],
     "wsh @ lad": [
         {
+            "player": "freddie freeman",
+            "game": "wsh @ lad",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-06-22 16:24:43",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mookie betts",
             "game": "wsh @ lad",
             "hr/park": "",
@@ -9470,10 +9485,10 @@
             "team": "lad",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "98.3",
+            "la": "-12",
+            "dist": "13"
         },
         {
             "player": "shohei ohtani",
