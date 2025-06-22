@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "84",
-        "batters": "224",
-        "pitches": "3125",
+        "pitchers": "86",
+        "batters": "225",
+        "pitches": "3130",
         "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "37.6",
-        "ff%fourseam fastball %": "30.1",
+        "ff%fourseam fastball %": "30.0",
         "si%sinker %": "15.8",
         "fc%cutter %": "11.0",
         "fs%splitter %": "1.6",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "41.1",
         "brlbarrels": "39",
         "brl%barrel %": "6.6",
-        "ab": "712",
+        "ab": "714",
         "avg": ".230",
         "h": "164",
         "1b": "103",
         "2b": "29",
         "3b": "4",
         "hr": "28",
-        "so": "150",
+        "so": "151",
         "bipballs in play": "589",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-21 21:39:49.737578"
+        "updated": "2025-06-21 21:40:00.762102"
     },
     "det @ tb": [
         {
@@ -10205,6 +10205,21 @@
     ],
     "kc @ sd": [
         {
+            "player": "manny machado",
+            "game": "kc @ sd",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-06-21 21:39:55",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "7:15 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "salvador perez",
             "game": "kc @ sd",
             "hr/park": "",
@@ -12204,7 +12219,23 @@
             "dist": "422"
         }
     ],
-    "hou @ laa": [],
+    "hou @ laa": [
+        {
+            "player": "jeremy pena",
+            "game": "hou @ laa",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-21 21:39:55",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "cle @ ath": [],
     "wsh @ lad": []
 }
