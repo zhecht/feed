@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "90",
         "batters": "273",
-        "pitches": "3246",
+        "pitches": "3253",
         "max velomax pitch velocity": "102.2",
         "min velomin pitch velocity": "67.8",
         "ff%fourseam fastball %": "29.4",
         "si%sinker %": "17.6",
         "fc%cutter %": "6.8",
         "fs%splitter %": "5.5",
-        "ch%changeup %": "9.0",
+        "ch%changeup %": "8.9",
         "sl%slider %": "23.3",
         "cu%curve %": "8.4",
         "max evmax exit velocity": "111.6",
-        "hhhard hit": "230",
-        "hh%hard hit %": "36.5",
+        "hhhard hit": "231",
+        "hh%hard hit %": "36.6",
         "brlbarrels": "38",
         "brl%barrel %": "6.0",
-        "ab": "790",
-        "avg": ".270",
+        "ab": "793",
+        "avg": ".269",
         "h": "213",
         "1b": "147",
         "2b": "36",
         "3b": "3",
         "hr": "27",
         "so": "175",
-        "bipballs in play": "631",
+        "bipballs in play": "632",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-22 17:20:24.496542"
+        "updated": "2025-06-22 17:20:35.984675"
     },
     "bal @ nyy": [
         {
@@ -5751,7 +5751,7 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10762,16 +10762,31 @@
     ],
     "bos @ sf": [
         {
-            "player": "jarren duran",
+            "player": "trevor story",
             "game": "bos @ sf",
             "hr/park": "",
+            "pa": "39",
+            "dt": "2025-06-22 17:20:28",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "4:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jarren duran",
+            "game": "bos @ sf",
+            "hr/park": "0/30",
             "pa": "38",
             "dt": "2025-06-22 17:19:59",
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
             "team": "bos",
             "start": "4:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "87.6",
             "la": "33",
             "dist": "325"
@@ -11966,6 +11981,21 @@
     ],
     "wsh @ lad": [
         {
+            "player": "luis garcia",
+            "game": "wsh @ lad",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-06-22 17:20:28",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "james wood",
             "game": "wsh @ lad",
             "hr/park": "",
@@ -12462,6 +12492,21 @@
         }
     ],
     "kc @ sd": [
+        {
+            "player": "maikel garcia",
+            "game": "kc @ sd",
+            "hr/park": "0/30",
+            "pa": "37",
+            "dt": "2025-06-22 17:20:28",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "4:10 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "98.4",
+            "la": "24",
+            "dist": "349"
+        },
         {
             "player": "jake cronenworth",
             "game": "kc @ sd",
