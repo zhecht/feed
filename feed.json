@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "50",
         "batters": "174",
-        "pitches": "2025",
+        "pitches": "2030",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "67.8",
         "ff%fourseam fastball %": "27.0",
@@ -11,24 +11,24 @@
         "fs%splitter %": "8.1",
         "ch%changeup %": "8.4",
         "sl%slider %": "23.2",
-        "cu%curve %": "8.8",
+        "cu%curve %": "8.9",
         "max evmax exit velocity": "111.2",
-        "hhhard hit": "149",
-        "hh%hard hit %": "38.3",
+        "hhhard hit": "150",
+        "hh%hard hit %": "38.5",
         "brlbarrels": "28",
         "brl%barrel %": "7.2",
-        "ab": "487",
-        "avg": ".285",
-        "h": "139",
-        "1b": "93",
+        "ab": "488",
+        "avg": ".287",
+        "h": "140",
+        "1b": "94",
         "2b": "27",
         "3b": "3",
         "hr": "16",
-        "so": "107",
-        "bipballs in play": "389",
+        "so": "108",
+        "bipballs in play": "390",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-22 16:03:38.040533"
+        "updated": "2025-06-22 16:03:47.565361"
     },
     "bal @ nyy": [
         {
@@ -6188,7 +6188,7 @@
             "team": "cin",
             "start": "2:15 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7668,6 +7668,21 @@
     ],
     "ari @ col": [
         {
+            "player": "tim tawa",
+            "game": "ari @ col",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-06-22 16:02:59",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "3:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "randal grichuk",
             "game": "ari @ col",
             "hr/park": "",
@@ -7677,10 +7692,10 @@
             "team": "ari",
             "start": "3:10 PM",
             "in": "4",
-            "result": "Wild Pitch",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "99.3",
+            "la": "10",
+            "dist": "201"
         },
         {
             "player": "eugenio suarez",
