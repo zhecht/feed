@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "71",
         "batters": "220",
-        "pitches": "2391",
+        "pitches": "2395",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "67.8",
         "ff%fourseam fastball %": "27.3",
         "si%sinker %": "17.9",
         "fc%cutter %": "6.6",
         "fs%splitter %": "7.1",
-        "ch%changeup %": "8.7",
+        "ch%changeup %": "8.6",
         "sl%slider %": "23.8",
-        "cu%curve %": "8.7",
+        "cu%curve %": "8.6",
         "max evmax exit velocity": "111.2",
-        "hhhard hit": "171",
-        "hh%hard hit %": "36.9",
+        "hhhard hit": "172",
+        "hh%hard hit %": "37.1",
         "brlbarrels": "29",
         "brl%barrel %": "6.3",
         "ab": "584",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "17",
         "so": "129",
-        "bipballs in play": "463",
+        "bipballs in play": "464",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-22 16:24:04.717110"
+        "updated": "2025-06-22 16:24:15.196104"
     },
     "bal @ nyy": [
         {
@@ -3452,7 +3452,7 @@
             "team": "tor",
             "start": "1:37 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "92.4",
             "la": "-18",
             "dist": "7"
@@ -9112,6 +9112,21 @@
     ],
     "bos @ sf": [
         {
+            "player": "heliot ramos",
+            "game": "bos @ sf",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-06-22 16:24:13",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "rafael devers",
             "game": "bos @ sf",
             "hr/park": "",
@@ -9233,21 +9248,6 @@
         }
     ],
     "hou @ laa": [
-        {
-            "player": "luis guillorme",
-            "game": "hou @ laa",
-            "hr/park": "",
-            "pa": "12",
-            "dt": "2025-06-22 16:23:58",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "4:07 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "mauricio dubon",
             "game": "hou @ laa",
@@ -9425,10 +9425,10 @@
             "team": "lad",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "98.3",
+            "la": "-12",
+            "dist": "13"
         },
         {
             "player": "shohei ohtani",
