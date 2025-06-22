@@ -1,17 +1,17 @@
 {
     "all": {
         "pitchers": "64",
-        "batters": "202",
-        "pitches": "2239",
+        "batters": "203",
+        "pitches": "2244",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "67.8",
-        "ff%fourseam fastball %": "27.0",
-        "si%sinker %": "17.9",
+        "ff%fourseam fastball %": "27.1",
+        "si%sinker %": "17.8",
         "fc%cutter %": "6.3",
         "fs%splitter %": "7.5",
-        "ch%changeup %": "8.7",
+        "ch%changeup %": "8.6",
         "sl%slider %": "23.9",
-        "cu%curve %": "8.7",
+        "cu%curve %": "8.6",
         "max evmax exit velocity": "111.2",
         "hhhard hit": "161",
         "hh%hard hit %": "36.8",
@@ -24,11 +24,11 @@
         "2b": "28",
         "3b": "3",
         "hr": "17",
-        "so": "119",
+        "so": "120",
         "bipballs in play": "437",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-22 16:16:35.667520"
+        "updated": "2025-06-22 16:16:46.205111"
     },
     "bal @ nyy": [
         {
@@ -5592,21 +5592,6 @@
     ],
     "mil @ min": [
         {
-            "player": "matt wallner",
-            "game": "mil @ min",
-            "hr/park": "",
-            "pa": "63",
-            "dt": "2025-06-22 16:16:29",
-            "img": "https://www.mlbstatic.com/team-logos/142.svg",
-            "team": "min",
-            "start": "2:10 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "byron buxton",
             "game": "mil @ min",
             "hr/park": "30/30",
@@ -6548,7 +6533,7 @@
             "team": "cin",
             "start": "2:15 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "89.7",
             "la": "-10",
             "dist": "17"
@@ -8675,6 +8660,21 @@
     ],
     "cle @ ath": [
         {
+            "player": "jacob wilson",
+            "game": "cle @ ath",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-06-22 16:16:43",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "lawrence butler",
             "game": "cle @ ath",
             "hr/park": "",
@@ -8684,7 +8684,7 @@
             "team": "ath",
             "start": "4:05 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8761,7 +8761,7 @@
             "team": "bos",
             "start": "4:05 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
