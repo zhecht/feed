@@ -1,16 +1,16 @@
 {
     "all": {
-        "pitchers": "52",
+        "pitchers": "53",
         "batters": "175",
-        "pitches": "2069",
+        "pitches": "2074",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "67.8",
-        "ff%fourseam fastball %": "27.1",
-        "si%sinker %": "18.1",
+        "ff%fourseam fastball %": "27.0",
+        "si%sinker %": "18.0",
         "fc%cutter %": "6.4",
         "fs%splitter %": "8.0",
         "ch%changeup %": "8.6",
-        "sl%slider %": "23.0",
+        "sl%slider %": "23.1",
         "cu%curve %": "8.9",
         "max evmax exit velocity": "111.2",
         "hhhard hit": "151",
@@ -24,11 +24,11 @@
         "2b": "28",
         "3b": "3",
         "hr": "16",
-        "so": "109",
+        "so": "110",
         "bipballs in play": "400",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-22 16:07:21.607948"
+        "updated": "2025-06-22 16:07:32.002865"
     },
     "bal @ nyy": [
         {
@@ -3332,7 +3332,7 @@
             "team": "chw",
             "start": "1:37 PM",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4359,6 +4359,21 @@
         }
     ],
     "atl @ mia": [
+        {
+            "player": "alex verdugo",
+            "game": "atl @ mia",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-06-22 16:07:28",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "1:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "connor norby",
             "game": "atl @ mia",
@@ -5436,7 +5451,7 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7842,7 +7857,7 @@
             "team": "col",
             "start": "3:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Game Advisory",
             "evo": "",
             "la": "",
             "dist": ""
