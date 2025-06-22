@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "77",
         "batters": "247",
-        "pitches": "2606",
+        "pitches": "2608",
         "max velomax pitch velocity": "102.2",
         "min velomin pitch velocity": "67.8",
         "ff%fourseam fastball %": "28.0",
@@ -10,14 +10,14 @@
         "fc%cutter %": "6.9",
         "fs%splitter %": "6.5",
         "ch%changeup %": "8.7",
-        "sl%slider %": "23.1",
+        "sl%slider %": "23.2",
         "cu%curve %": "8.6",
         "max evmax exit velocity": "111.2",
         "hhhard hit": "187",
-        "hh%hard hit %": "37.0",
+        "hh%hard hit %": "36.9",
         "brlbarrels": "31",
         "brl%barrel %": "6.1",
-        "ab": "632",
+        "ab": "633",
         "avg": ".275",
         "h": "174",
         "1b": "122",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "20",
         "so": "141",
-        "bipballs in play": "505",
+        "bipballs in play": "507",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-22 16:36:21.610030"
+        "updated": "2025-06-22 16:36:32.798380"
     },
     "bal @ nyy": [
         {
@@ -5751,10 +5751,10 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "45.6",
+            "la": "-28",
+            "dist": "7"
         },
         {
             "player": "jonah bride",
@@ -7756,6 +7756,21 @@
     ],
     "sea @ chc": [
         {
+            "player": "pete crow armstrong",
+            "game": "sea @ chc",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-06-22 16:36:29",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:20 PM",
+            "in": "7",
+            "result": "Flyout",
+            "evo": "85.5",
+            "la": "56",
+            "dist": "245"
+        },
+        {
             "player": "seiya suzuki",
             "game": "sea @ chc",
             "hr/park": "",
@@ -9579,7 +9594,7 @@
         {
             "player": "wilmer flores",
             "game": "bos @ sf",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "14",
             "dt": "2025-06-22 16:35:14",
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
