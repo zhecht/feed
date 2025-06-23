@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "12",
         "batters": "67",
-        "pitches": "348",
+        "pitches": "355",
         "max velomax pitch velocity": "98.0",
         "min velomin pitch velocity": "76.8",
-        "ff%fourseam fastball %": "22.4",
-        "si%sinker %": "26.1",
-        "fc%cutter %": "12.1",
+        "ff%fourseam fastball %": "22.8",
+        "si%sinker %": "25.9",
+        "fc%cutter %": "11.8",
         "fs%splitter %": "0.3",
-        "ch%changeup %": "15.8",
-        "sl%slider %": "14.1",
-        "cu%curve %": "9.2",
+        "ch%changeup %": "16.1",
+        "sl%slider %": "13.8",
+        "cu%curve %": "9.3",
         "max evmax exit velocity": "109.8",
         "hhhard hit": "30",
-        "hh%hard hit %": "44.1",
+        "hh%hard hit %": "43.5",
         "brlbarrels": "5",
-        "brl%barrel %": "7.4",
+        "brl%barrel %": "7.2",
         "ab": "92",
         "avg": ".217",
         "h": "20",
@@ -24,28 +24,13 @@
         "2b": "6",
         "3b": "0",
         "hr": "3",
-        "so": "20",
-        "bipballs in play": "68",
+        "so": "22",
+        "bipballs in play": "69",
         "liveGames": 7,
         "totGames": 9,
-        "updated": "2025-06-23 19:51:22.512235"
+        "updated": "2025-06-23 19:51:30.257784"
     },
     "tex @ bal": [
-        {
-            "player": "justin foscue",
-            "game": "tex @ bal",
-            "hr/park": "",
-            "pa": "39",
-            "dt": "2025-06-23 19:50:57",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "6:35 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "ezequiel duran",
             "game": "tex @ bal",
@@ -618,6 +603,21 @@
         }
     ],
     "atl @ nym": [
+        {
+            "player": "sean murphy",
+            "game": "atl @ nym",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-06-23 19:51:26",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ozzie albies",
             "game": "atl @ nym",
@@ -1202,10 +1202,10 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "66.3",
+            "la": "-15",
+            "dist": "11"
         },
         {
             "player": "byron buxton",
@@ -1279,7 +1279,7 @@
             "team": "ari",
             "start": "7:40 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1341,7 +1341,7 @@
             "team": "pit",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1418,7 +1418,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
