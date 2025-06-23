@@ -43,7 +43,7 @@ def writeFeed(date, loop):
 		times = json.load(fh)
 
 	headers = {"Accept": "application/vnd.github.v3.raw"}
-	url = "https://api.github.com/repos/zhecht/playerprops/contents/static/mlb/schedule.json"
+	url = "https://api.github.com/repos/zhecht/props/contents/static/mlb/schedule.json"
 	response = requests.get(url, headers=headers)
 	schedule = response.json()
 
