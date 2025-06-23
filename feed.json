@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "9",
         "batters": "53",
-        "pitches": "282",
+        "pitches": "287",
         "max velomax pitch velocity": "97.7",
         "min velomin pitch velocity": "76.8",
         "ff%fourseam fastball %": "22.3",
-        "si%sinker %": "26.6",
-        "fc%cutter %": "11.7",
-        "fs%splitter %": "0.4",
+        "si%sinker %": "26.8",
+        "fc%cutter %": "11.5",
+        "fs%splitter %": "0.3",
         "ch%changeup %": "16.0",
-        "sl%slider %": "14.2",
-        "cu%curve %": "8.9",
+        "sl%slider %": "14.3",
+        "cu%curve %": "8.7",
         "max evmax exit velocity": "109.8",
         "hhhard hit": "23",
         "hh%hard hit %": "42.6",
         "brlbarrels": "4",
         "brl%barrel %": "7.4",
-        "ab": "72",
-        "avg": ".222",
+        "ab": "73",
+        "avg": ".219",
         "h": "16",
         "1b": "9",
         "2b": "4",
@@ -28,7 +28,7 @@
         "bipballs in play": "54",
         "liveGames": 7,
         "totGames": 9,
-        "updated": "2025-06-23 19:45:38.555828"
+        "updated": "2025-06-23 19:45:46.182662"
     },
     "tex @ bal": [
         {
@@ -574,6 +574,21 @@
     ],
     "atl @ nym": [
         {
+            "player": "marcell ozuna",
+            "game": "atl @ nym",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-06-23 19:45:42",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "matt olson",
             "game": "atl @ nym",
             "hr/park": "",
@@ -840,7 +855,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "53.2",
             "la": "-33",
             "dist": "5"
