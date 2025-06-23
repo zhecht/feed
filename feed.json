@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "9",
-        "batters": "50",
-        "pitches": "266",
+        "batters": "52",
+        "pitches": "274",
         "max velomax pitch velocity": "97.7",
         "min velomin pitch velocity": "76.8",
-        "ff%fourseam fastball %": "22.6",
-        "si%sinker %": "26.7",
-        "fc%cutter %": "11.3",
+        "ff%fourseam fastball %": "22.3",
+        "si%sinker %": "27.0",
+        "fc%cutter %": "11.7",
         "fs%splitter %": "0.4",
-        "ch%changeup %": "16.2",
-        "sl%slider %": "14.7",
-        "cu%curve %": "8.3",
+        "ch%changeup %": "16.1",
+        "sl%slider %": "14.2",
+        "cu%curve %": "8.4",
         "max evmax exit velocity": "109.8",
         "hhhard hit": "23",
-        "hh%hard hit %": "46.0",
+        "hh%hard hit %": "43.4",
         "brlbarrels": "4",
-        "brl%barrel %": "8.0",
-        "ab": "69",
-        "avg": ".188",
-        "h": "13",
-        "1b": "7",
-        "2b": "3",
+        "brl%barrel %": "7.5",
+        "ab": "71",
+        "avg": ".225",
+        "h": "16",
+        "1b": "9",
+        "2b": "4",
         "3b": "0",
         "hr": "3",
         "so": "17",
-        "bipballs in play": "50",
+        "bipballs in play": "53",
         "liveGames": 6,
         "totGames": 9,
-        "updated": "2025-06-23 19:44:21.024269"
+        "updated": "2025-06-23 19:44:28.717890"
     },
     "tex @ bal": [
         {
@@ -41,10 +41,10 @@
             "team": "bal",
             "start": "6:35 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "74.4",
+            "la": "-50",
+            "dist": "3"
         },
         {
             "player": "jackson holliday",
@@ -583,10 +583,10 @@
             "team": "atl",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "79.4",
+            "la": "15",
+            "dist": "172"
         },
         {
             "player": "ronald acuna",
@@ -840,10 +840,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "79.7",
+            "la": "-54",
+            "dist": "1"
         },
         {
             "player": "paul goldschmidt",
@@ -1052,7 +1052,7 @@
             "team": "sea",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1075,9 +1075,24 @@
     ],
     "ari @ chw": [
         {
-            "player": "geraldo perdomo",
+            "player": "ketel marte",
             "game": "ari @ chw",
             "hr/park": "",
+            "pa": "2",
+            "dt": "2025-06-23 19:44:27",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "geraldo perdomo",
+            "game": "ari @ chw",
+            "hr/park": "0/30",
             "pa": "1",
             "dt": "2025-06-23 19:42:43",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
@@ -1091,6 +1106,21 @@
         }
     ],
     "pit @ mil": [
+        {
+            "player": "andrew mccutchen",
+            "game": "pit @ mil",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-06-23 19:44:27",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "oneil cruz",
             "game": "pit @ mil",
