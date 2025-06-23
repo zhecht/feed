@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "9",
-        "batters": "54",
-        "pitches": "288",
+        "pitchers": "10",
+        "batters": "56",
+        "pitches": "294",
         "max velomax pitch velocity": "97.7",
         "min velomin pitch velocity": "76.8",
-        "ff%fourseam fastball %": "22.2",
-        "si%sinker %": "26.7",
-        "fc%cutter %": "11.8",
+        "ff%fourseam fastball %": "21.8",
+        "si%sinker %": "27.2",
+        "fc%cutter %": "11.6",
         "fs%splitter %": "0.3",
-        "ch%changeup %": "15.6",
-        "sl%slider %": "14.6",
-        "cu%curve %": "8.7",
+        "ch%changeup %": "16.0",
+        "sl%slider %": "14.3",
+        "cu%curve %": "8.8",
         "max evmax exit velocity": "109.8",
-        "hhhard hit": "23",
-        "hh%hard hit %": "42.6",
+        "hhhard hit": "24",
+        "hh%hard hit %": "42.9",
         "brlbarrels": "4",
-        "brl%barrel %": "7.4",
-        "ab": "74",
-        "avg": ".216",
-        "h": "16",
-        "1b": "9",
+        "brl%barrel %": "7.1",
+        "ab": "76",
+        "avg": ".224",
+        "h": "17",
+        "1b": "10",
         "2b": "4",
         "3b": "0",
         "hr": "3",
         "so": "18",
-        "bipballs in play": "54",
+        "bipballs in play": "56",
         "liveGames": 7,
         "totGames": 9,
-        "updated": "2025-06-23 19:46:09.730048"
+        "updated": "2025-06-23 19:46:17.464265"
     },
     "tex @ bal": [
         {
@@ -846,6 +846,21 @@
     ],
     "nyy @ cin": [
         {
+            "player": "tyler stephenson",
+            "game": "nyy @ cin",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-06-23 19:46:12",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "97.4",
+            "la": "-6",
+            "dist": "21"
+        },
+        {
             "player": "gavin lux",
             "game": "nyy @ cin",
             "hr/park": "",
@@ -1129,10 +1144,10 @@
             "team": "ari",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "91.8",
+            "la": "-4",
+            "dist": "21"
         },
         {
             "player": "geraldo perdomo",
@@ -1182,7 +1197,23 @@
             "dist": ""
         }
     ],
-    "chc @ stl": [],
+    "chc @ stl": [
+        {
+            "player": "ian happ",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-23 19:46:12",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:45 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "bos @ laa": [],
     "wsh @ sd": []
 }
