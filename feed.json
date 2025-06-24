@@ -1,51 +1,36 @@
 {
     "all": {
         "pitchers": "18",
-        "batters": "101",
-        "pitches": "594",
+        "batters": "103",
+        "pitches": "597",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "74.7",
         "ff%fourseam fastball %": "42.9",
         "si%sinker %": "6.2",
-        "fc%cutter %": "9.1",
+        "fc%cutter %": "9.0",
         "fs%splitter %": "0.5",
-        "ch%changeup %": "9.8",
+        "ch%changeup %": "9.9",
         "sl%slider %": "19.4",
-        "cu%curve %": "12.0",
+        "cu%curve %": "11.9",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "41",
-        "hh%hard hit %": "43.6",
-        "brlbarrels": "6",
-        "brl%barrel %": "6.4",
-        "ab": "132",
-        "avg": ".189",
+        "hhhard hit": "43",
+        "hh%hard hit %": "44.8",
+        "brlbarrels": "7",
+        "brl%barrel %": "7.3",
+        "ab": "133",
+        "avg": ".188",
         "h": "25",
         "1b": "20",
         "2b": "4",
         "3b": "0",
         "hr": "1",
         "so": "35",
-        "bipballs in play": "94",
+        "bipballs in play": "96",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-24 19:55:31.629480"
+        "updated": "2025-06-24 19:55:39.694539"
     },
     "tex @ bal": [
-        {
-            "player": "gary sanchez",
-            "game": "tex @ bal",
-            "hr/park": "",
-            "pa": "36",
-            "dt": "2025-06-24 19:55:09",
-            "img": "https://www.mlbstatic.com/team-logos/110.svg",
-            "team": "bal",
-            "start": "6:35 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "marcus semien",
             "game": "tex @ bal",
@@ -1147,6 +1132,21 @@
     ],
     "atl @ nym": [
         {
+            "player": "brett baty",
+            "game": "atl @ nym",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-06-24 19:55:37",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "marcell ozuna",
             "game": "atl @ nym",
             "hr/park": "",
@@ -1443,10 +1443,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "3",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "In Progress",
+            "evo": "101.6",
+            "la": "7",
+            "dist": "136"
         },
         {
             "player": "santiago espinal",
@@ -2148,6 +2148,21 @@
         }
     ],
     "chc @ stl": [
+        {
+            "player": "masyn winn",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-06-24 19:55:37",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "1",
+            "result": "Flyout",
+            "evo": "101.5",
+            "la": "27",
+            "dist": "387"
+        },
         {
             "player": "brendan donovan",
             "game": "chc @ stl",
