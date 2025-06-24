@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "10",
-        "batters": "66",
-        "pitches": "377",
+        "pitchers": "11",
+        "batters": "69",
+        "pitches": "388",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "74.8",
-        "ff%fourseam fastball %": "40.6",
-        "si%sinker %": "4.8",
-        "fc%cutter %": "9.8",
+        "ff%fourseam fastball %": "41.2",
+        "si%sinker %": "4.9",
+        "fc%cutter %": "9.5",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "10.3",
-        "sl%slider %": "20.4",
-        "cu%curve %": "14.1",
+        "ch%changeup %": "10.1",
+        "sl%slider %": "20.1",
+        "cu%curve %": "14.2",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "21",
-        "hh%hard hit %": "35.6",
+        "hhhard hit": "22",
+        "hh%hard hit %": "36.7",
         "brlbarrels": "0",
         "brl%barrel %": "0.0",
-        "ab": "84",
-        "avg": ".202",
+        "ab": "87",
+        "avg": ".195",
         "h": "17",
         "1b": "15",
         "2b": "2",
         "3b": "0",
         "hr": "0",
         "so": "23",
-        "bipballs in play": "59",
+        "bipballs in play": "60",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-24 19:43:35.869535"
+        "updated": "2025-06-24 19:43:43.938898"
     },
     "tex @ bal": [
         {
@@ -952,6 +952,21 @@
     ],
     "atl @ nym": [
         {
+            "player": "michael harris",
+            "game": "atl @ nym",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-06-24 19:43:38",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis torrens",
             "game": "atl @ nym",
             "hr/park": "",
@@ -1374,15 +1389,47 @@
             "dist": ""
         }
     ],
-    "tb @ kc": [],
-    "sea @ min": [],
-    "ari @ chw": [
+    "tb @ kc": [
         {
-            "player": "geraldo perdomo",
-            "game": "ari @ chw",
+            "player": "yandy diaz",
+            "game": "tb @ kc",
             "hr/park": "",
             "pa": "1",
-            "dt": "2025-06-24 19:42:37",
+            "dt": "2025-06-24 19:43:38",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
+    "sea @ min": [
+        {
+            "player": "jp crawford",
+            "game": "sea @ min",
+            "hr/park": "0/30",
+            "pa": "1",
+            "dt": "2025-06-24 19:43:38",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "Flyout",
+            "evo": "91.3",
+            "la": "44",
+            "dist": "306"
+        }
+    ],
+    "ari @ chw": [
+        {
+            "player": "ketel marte",
+            "game": "ari @ chw",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-06-24 19:43:38",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "start": "7:40 PM",
@@ -1391,6 +1438,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "geraldo perdomo",
+            "game": "ari @ chw",
+            "hr/park": "0/30",
+            "pa": "1",
+            "dt": "2025-06-24 19:42:37",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "Lineout",
+            "evo": "101.0",
+            "la": "19",
+            "dist": "327"
         }
     ],
     "pit @ mil": [
