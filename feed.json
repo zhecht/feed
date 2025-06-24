@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "12",
-        "batters": "80",
-        "pitches": "446",
+        "pitchers": "13",
+        "batters": "81",
+        "pitches": "453",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "74.8",
         "ff%fourseam fastball %": "41.9",
-        "si%sinker %": "5.4",
-        "fc%cutter %": "8.5",
+        "si%sinker %": "5.1",
+        "fc%cutter %": "8.6",
         "fs%splitter %": "0.4",
-        "ch%changeup %": "10.1",
-        "sl%slider %": "20.4",
-        "cu%curve %": "13.2",
+        "ch%changeup %": "10.2",
+        "sl%slider %": "20.8",
+        "cu%curve %": "13.0",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "28",
-        "hh%hard hit %": "40.0",
+        "hh%hard hit %": "39.4",
         "brlbarrels": "3",
-        "brl%barrel %": "4.3",
+        "brl%barrel %": "4.2",
         "ab": "100",
-        "avg": ".220",
-        "h": "22",
+        "avg": ".210",
+        "h": "21",
         "1b": "17",
-        "2b": "4",
+        "2b": "3",
         "3b": "0",
         "hr": "1",
         "so": "28",
-        "bipballs in play": "70",
+        "bipballs in play": "71",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-24 19:47:06.497828"
+        "updated": "2025-06-24 19:47:14.358397"
     },
     "tex @ bal": [
         {
@@ -41,10 +41,10 @@
             "team": "bal",
             "start": "6:35 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "103.6",
+            "la": "-2",
+            "dist": "33"
         },
         {
             "player": "jackson holliday",
@@ -1006,7 +1006,7 @@
             "team": "atl",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1254,6 +1254,21 @@
     ],
     "nyy @ cin": [
         {
+            "player": "oswald peraza",
+            "game": "nyy @ cin",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-06-24 19:46:22",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "80.7",
+            "la": "-34",
+            "dist": "4"
+        },
+        {
             "player": "austin wells",
             "game": "nyy @ cin",
             "hr/park": "",
@@ -1263,7 +1278,7 @@
             "team": "nyy",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "96.8",
             "la": "-2",
             "dist": "28"
@@ -1481,21 +1496,6 @@
     ],
     "tb @ kc": [
         {
-            "player": "junior caminero",
-            "game": "tb @ kc",
-            "hr/park": "",
-            "pa": "3",
-            "dt": "2025-06-24 19:45:52",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "7:40 PM",
-            "in": "1",
-            "result": "Groundout",
-            "evo": "96.4",
-            "la": "-32",
-            "dist": "6"
-        },
-        {
             "player": "curtis mead",
             "game": "tb @ kc",
             "hr/park": "",
@@ -1646,7 +1646,7 @@
             "team": "pit",
             "start": "7:40 PM",
             "in": "1",
-            "result": "Double",
+            "result": "In Progress",
             "evo": "105.8",
             "la": "15",
             "dist": "272"
@@ -1682,7 +1682,23 @@
             "dist": ""
         }
     ],
-    "chc @ stl": [],
+    "chc @ stl": [
+        {
+            "player": "ian happ",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-24 19:47:09",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:45 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "phi @ hou": [],
     "lad @ col": [],
     "bos @ laa": [],
