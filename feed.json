@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "19",
         "batters": "127",
-        "pitches": "979",
+        "pitches": "988",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "75.1",
-        "ff%fourseam fastball %": "29.2",
-        "si%sinker %": "21.6",
-        "fc%cutter %": "10.0",
+        "ff%fourseam fastball %": "29.1",
+        "si%sinker %": "21.5",
+        "fc%cutter %": "9.9",
         "fs%splitter %": "0.5",
-        "ch%changeup %": "14.5",
+        "ch%changeup %": "14.7",
         "sl%slider %": "14.3",
-        "cu%curve %": "9.9",
+        "cu%curve %": "10.0",
         "max evmax exit velocity": "112.0",
-        "hhhard hit": "91",
+        "hhhard hit": "92",
         "hh%hard hit %": "46.7",
         "brlbarrels": "19",
-        "brl%barrel %": "9.7",
+        "brl%barrel %": "9.6",
         "ab": "249",
         "avg": ".257",
         "h": "64",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "9",
         "so": "61",
-        "bipballs in play": "195",
+        "bipballs in play": "197",
         "liveGames": 7,
         "totGames": 9,
-        "updated": "2025-06-23 20:40:35.563582"
+        "updated": "2025-06-23 20:40:44.028409"
     },
     "tex @ bal": [
         {
@@ -994,6 +994,21 @@
     ],
     "atl @ nym": [
         {
+            "player": "ronald acuna",
+            "game": "atl @ nym",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-06-23 20:40:42",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nick allen",
             "game": "atl @ nym",
             "hr/park": "",
@@ -1665,7 +1680,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2720,9 +2735,9 @@
             "start": "7:40 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "95.1",
+            "la": "2",
+            "dist": "69"
         },
         {
             "player": "vinny capra",
