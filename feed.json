@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "50",
-        "batters": "155",
-        "pitches": "1906",
+        "batters": "156",
+        "pitches": "1914",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "73.5",
         "ff%fourseam fastball %": "30.4",
-        "si%sinker %": "20.3",
+        "si%sinker %": "20.2",
         "fc%cutter %": "9.8",
         "fs%splitter %": "1.4",
         "ch%changeup %": "11.8",
-        "sl%slider %": "17.1",
-        "cu%curve %": "9.3",
+        "sl%slider %": "17.0",
+        "cu%curve %": "9.4",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "154",
-        "hh%hard hit %": "41.8",
+        "hh%hard hit %": "41.7",
         "brlbarrels": "36",
         "brl%barrel %": "9.8",
         "ab": "472",
-        "avg": ".269",
-        "h": "127",
-        "1b": "83",
+        "avg": ".271",
+        "h": "128",
+        "1b": "84",
         "2b": "20",
         "3b": "3",
         "hr": "21",
-        "so": "115",
-        "bipballs in play": "368",
+        "so": "116",
+        "bipballs in play": "369",
         "liveGames": 9,
         "totGames": 9,
-        "updated": "2025-06-23 21:59:18.903935"
+        "updated": "2025-06-23 21:59:28.537915"
     },
     "tex @ bal": [
         {
@@ -4317,7 +4317,7 @@
         {
             "player": "tim tawa",
             "game": "ari @ chw",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "67",
             "dt": "2025-06-23 21:58:27",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
@@ -5331,7 +5331,7 @@
             "team": "pit",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7351,6 +7351,21 @@
     ],
     "bos @ laa": [
         {
+            "player": "lamonte wade",
+            "game": "bos @ laa",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-06-23 21:59:26",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jo adell",
             "game": "bos @ laa",
             "hr/park": "",
@@ -7360,10 +7375,10 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "87.8",
+            "la": "15",
+            "dist": "231"
         },
         {
             "player": "travis darnaud",
@@ -7557,7 +7572,7 @@
             "team": "wsh",
             "start": "9:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
