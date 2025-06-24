@@ -1,17 +1,17 @@
 {
     "all": {
         "pitchers": "8",
-        "batters": "61",
-        "pitches": "332",
+        "batters": "60",
+        "pitches": "333",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "74.8",
-        "ff%fourseam fastball %": "40.7",
+        "ff%fourseam fastball %": "39.9",
         "si%sinker %": "5.4",
-        "fc%cutter %": "10.8",
+        "fc%cutter %": "11.1",
         "fs%splitter %": "0.0",
         "ch%changeup %": "9.3",
-        "sl%slider %": "19.0",
-        "cu%curve %": "14.8",
+        "sl%slider %": "18.9",
+        "cu%curve %": "15.3",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "19",
         "hh%hard hit %": "35.8",
@@ -24,11 +24,11 @@
         "2b": "2",
         "3b": "0",
         "hr": "0",
-        "so": "21",
+        "so": "20",
         "bipballs in play": "53",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-06-24 19:37:32.531520"
+        "updated": "2025-06-24 19:37:40.377059"
     },
     "tex @ bal": [
         {
@@ -470,6 +470,21 @@
     "ath @ det": [],
     "tor @ cle": [
         {
+            "player": "jonatan clase",
+            "game": "tor @ cle",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-06-24 19:37:37",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "davis schneider",
             "game": "tor @ cle",
             "hr/park": "",
@@ -877,21 +892,6 @@
     ],
     "atl @ nym": [
         {
-            "player": "jeff mcneil",
-            "game": "atl @ nym",
-            "hr/park": "",
-            "pa": "13",
-            "dt": "2025-06-24 19:37:23",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "7:10 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "starling marte",
             "game": "atl @ nym",
             "hr/park": "",
@@ -901,7 +901,7 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "2",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
