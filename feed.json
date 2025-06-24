@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "51",
+        "pitchers": "52",
         "batters": "169",
-        "pitches": "2123",
+        "pitches": "2125",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "45.9",
         "ff%fourseam fastball %": "30.2",
@@ -11,24 +11,24 @@
         "fs%splitter %": "1.3",
         "ch%changeup %": "11.4",
         "sl%slider %": "18.1",
-        "cu%curve %": "9.5",
+        "cu%curve %": "9.6",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "169",
-        "hh%hard hit %": "42.1",
-        "brlbarrels": "38",
-        "brl%barrel %": "9.5",
-        "ab": "516",
-        "avg": ".260",
+        "hhhard hit": "170",
+        "hh%hard hit %": "42.3",
+        "brlbarrels": "39",
+        "brl%barrel %": "9.7",
+        "ab": "517",
+        "avg": ".259",
         "h": "134",
         "1b": "87",
         "2b": "22",
         "3b": "3",
         "hr": "22",
         "so": "130",
-        "bipballs in play": "401",
+        "bipballs in play": "402",
         "liveGames": 9,
         "totGames": 9,
-        "updated": "2025-06-23 22:24:47.484695"
+        "updated": "2025-06-23 22:24:57.656475"
     },
     "tex @ bal": [
         {
@@ -5607,6 +5607,21 @@
     ],
     "pit @ mil": [
         {
+            "player": "caleb durbin",
+            "game": "pit @ mil",
+            "hr/park": "",
+            "pa": "75",
+            "dt": "2025-06-23 22:24:57",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "joey bart",
             "game": "pit @ mil",
             "hr/park": "",
@@ -8173,9 +8188,9 @@
             "start": "9:40 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "110.2",
+            "la": "16",
+            "dist": "351"
         },
         {
             "player": "cj abrams",
