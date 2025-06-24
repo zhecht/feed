@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "22",
         "batters": "127",
-        "pitches": "1070",
+        "pitches": "1076",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "75.1",
-        "ff%fourseam fastball %": "30.1",
-        "si%sinker %": "21.1",
+        "ff%fourseam fastball %": "30.0",
+        "si%sinker %": "21.3",
         "fc%cutter %": "9.7",
         "fs%splitter %": "0.6",
         "ch%changeup %": "14.4",
-        "sl%slider %": "14.7",
-        "cu%curve %": "9.4",
+        "sl%slider %": "14.6",
+        "cu%curve %": "9.5",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "96",
-        "hh%hard hit %": "45.7",
+        "hh%hard hit %": "45.5",
         "brlbarrels": "19",
         "brl%barrel %": "9.0",
         "ab": "269",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "9",
         "so": "66",
-        "bipballs in play": "210",
+        "bipballs in play": "211",
         "liveGames": 7,
         "totGames": 9,
-        "updated": "2025-06-23 20:48:34.108081"
+        "updated": "2025-06-23 20:48:42.891080"
     },
     "tex @ bal": [
         {
@@ -1770,7 +1770,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2393,6 +2393,21 @@
     ],
     "sea @ min": [
         {
+            "player": "harrison bader",
+            "game": "sea @ min",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-06-23 20:48:42",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kody clemens",
             "game": "sea @ min",
             "hr/park": "",
@@ -2929,7 +2944,7 @@
             "team": "ari",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3356,21 +3371,6 @@
         }
     ],
     "pit @ mil": [
-        {
-            "player": "brice turang",
-            "game": "pit @ mil",
-            "hr/park": "",
-            "pa": "34",
-            "dt": "2025-06-23 20:48:28",
-            "img": "https://www.mlbstatic.com/team-logos/158.svg",
-            "team": "mil",
-            "start": "7:40 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "william contreras",
             "game": "pit @ mil",
@@ -3869,6 +3869,21 @@
     ],
     "chc @ stl": [
         {
+            "player": "pedro pages",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-06-23 20:48:42",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nolan gorman",
             "game": "chc @ stl",
             "hr/park": "",
@@ -3878,10 +3893,10 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "94.6",
+            "la": "62",
+            "dist": "228"
         },
         {
             "player": "ian happ",
