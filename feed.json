@@ -1,26 +1,26 @@
 {
     "all": {
-        "pitchers": "37",
+        "pitchers": "38",
         "batters": "128",
-        "pitches": "1612",
+        "pitches": "1617",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "74.4",
-        "ff%fourseam fastball %": "31.2",
-        "si%sinker %": "19.7",
-        "fc%cutter %": "9.4",
+        "ff%fourseam fastball %": "31.1",
+        "si%sinker %": "19.6",
+        "fc%cutter %": "9.3",
         "fs%splitter %": "1.0",
-        "ch%changeup %": "12.8",
-        "sl%slider %": "16.6",
-        "cu%curve %": "9.4",
+        "ch%changeup %": "12.9",
+        "sl%slider %": "16.8",
+        "cu%curve %": "9.3",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "133",
         "hh%hard hit %": "42.6",
         "brlbarrels": "33",
         "brl%barrel %": "10.6",
-        "ab": "397",
-        "avg": ".264",
-        "h": "105",
-        "1b": "64",
+        "ab": "399",
+        "avg": ".266",
+        "h": "106",
+        "1b": "65",
         "2b": "19",
         "3b": "3",
         "hr": "19",
@@ -28,7 +28,7 @@
         "bipballs in play": "312",
         "liveGames": 8,
         "totGames": 9,
-        "updated": "2025-06-23 21:38:53.980774"
+        "updated": "2025-06-23 21:39:03.444099"
     },
     "tex @ bal": [
         {
@@ -1038,6 +1038,21 @@
         }
     ],
     "atl @ nym": [
+        {
+            "player": "ronald acuna",
+            "game": "atl @ nym",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-06-23 21:38:57",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "juan soto",
             "game": "atl @ nym",
@@ -4731,7 +4746,7 @@
             "team": "pit",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5564,6 +5579,21 @@
     ],
     "chc @ stl": [
         {
+            "player": "dansby swanson",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-06-23 21:38:57",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:45 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "seiya suzuki",
             "game": "chc @ stl",
             "hr/park": "",
@@ -5573,7 +5603,7 @@
             "team": "chc",
             "start": "7:45 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "75.9",
             "la": "15",
             "dist": "177"
