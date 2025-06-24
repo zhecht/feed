@@ -1,51 +1,36 @@
 {
     "all": {
-        "pitchers": "11",
-        "batters": "72",
-        "pitches": "399",
+        "pitchers": "12",
+        "batters": "74",
+        "pitches": "412",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "74.8",
-        "ff%fourseam fastball %": "41.6",
-        "si%sinker %": "5.0",
-        "fc%cutter %": "9.3",
+        "ff%fourseam fastball %": "42.2",
+        "si%sinker %": "5.1",
+        "fc%cutter %": "9.2",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "10.3",
-        "sl%slider %": "20.6",
-        "cu%curve %": "13.3",
-        "max evmax exit velocity": "112.6",
-        "hhhard hit": "23",
-        "hh%hard hit %": "36.5",
-        "brlbarrels": "1",
-        "brl%barrel %": "1.6",
-        "ab": "90",
-        "avg": ".211",
-        "h": "19",
-        "1b": "16",
+        "ch%changeup %": "10.0",
+        "sl%slider %": "19.9",
+        "cu%curve %": "13.6",
+        "max evmax exit velocity": "114.0",
+        "hhhard hit": "24",
+        "hh%hard hit %": "37.5",
+        "brlbarrels": "2",
+        "brl%barrel %": "3.1",
+        "ab": "93",
+        "avg": ".215",
+        "h": "20",
+        "1b": "17",
         "2b": "2",
         "3b": "0",
         "hr": "1",
-        "so": "25",
-        "bipballs in play": "63",
+        "so": "27",
+        "bipballs in play": "64",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-24 19:44:48.316961"
+        "updated": "2025-06-24 19:44:56.342493"
     },
     "tex @ bal": [
-        {
-            "player": "ramon laureano",
-            "game": "tex @ bal",
-            "hr/park": "",
-            "pa": "31",
-            "dt": "2025-06-24 19:44:37",
-            "img": "https://www.mlbstatic.com/team-logos/110.svg",
-            "team": "bal",
-            "start": "6:35 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "jackson holliday",
             "game": "tex @ bal",
@@ -500,6 +485,21 @@
     "ath @ det": [],
     "tor @ cle": [
         {
+            "player": "carlos santana",
+            "game": "tor @ cle",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-06-24 19:44:52",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "david fry",
             "game": "tor @ cle",
             "hr/park": "",
@@ -509,7 +509,7 @@
             "team": "cle",
             "start": "6:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -966,6 +966,21 @@
         }
     ],
     "atl @ nym": [
+        {
+            "player": "ronald acuna",
+            "game": "atl @ nym",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-06-24 19:44:22",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "nick allen",
             "game": "atl @ nym",
@@ -1430,10 +1445,10 @@
             "team": "tb",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "114.0",
+            "la": "10",
+            "dist": "261"
         }
     ],
     "sea @ min": [
@@ -1517,6 +1532,21 @@
     ],
     "pit @ mil": [
         {
+            "player": "andrew mccutchen",
+            "game": "pit @ mil",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-06-24 19:44:52",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "oneil cruz",
             "game": "pit @ mil",
             "hr/park": "",
@@ -1526,7 +1556,7 @@
             "team": "pit",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
