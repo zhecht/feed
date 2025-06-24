@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "43",
+        "pitchers": "44",
         "batters": "136",
-        "pitches": "1691",
+        "pitches": "1699",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "73.7",
         "ff%fourseam fastball %": "30.7",
         "si%sinker %": "20.2",
-        "fc%cutter %": "9.1",
+        "fc%cutter %": "9.2",
         "fs%splitter %": "0.9",
         "ch%changeup %": "12.5",
         "sl%slider %": "17.1",
         "cu%curve %": "9.5",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "137",
-        "hh%hard hit %": "42.4",
+        "hhhard hit": "138",
+        "hh%hard hit %": "42.3",
         "brlbarrels": "34",
-        "brl%barrel %": "10.5",
-        "ab": "415",
-        "avg": ".270",
-        "h": "112",
-        "1b": "70",
+        "brl%barrel %": "10.4",
+        "ab": "417",
+        "avg": ".271",
+        "h": "113",
+        "1b": "71",
         "2b": "19",
         "3b": "3",
         "hr": "20",
         "so": "102",
-        "bipballs in play": "323",
+        "bipballs in play": "326",
         "liveGames": 9,
         "totGames": 9,
-        "updated": "2025-06-23 21:44:39.390979"
+        "updated": "2025-06-23 21:44:48.573197"
     },
     "tex @ bal": [
         {
@@ -3053,6 +3053,21 @@
     ],
     "sea @ min": [
         {
+            "player": "brooks lee",
+            "game": "sea @ min",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-06-23 21:44:42",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "dylan moore",
             "game": "sea @ min",
             "hr/park": "",
@@ -3995,9 +4010,9 @@
             "start": "7:40 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "70.7",
+            "la": "-33",
+            "dist": "5"
         },
         {
             "player": "lourdes gurriel",
@@ -5729,11 +5744,11 @@
     ],
     "chc @ stl": [
         {
-            "player": "nolan arenado",
+            "player": "nolan gorman",
             "game": "chc @ stl",
             "hr/park": "",
-            "pa": "64",
-            "dt": "2025-06-23 21:44:14",
+            "pa": "65",
+            "dt": "2025-06-23 21:44:42",
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
             "team": "stl",
             "start": "7:45 PM",
@@ -5742,6 +5757,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "nolan arenado",
+            "game": "chc @ stl",
+            "hr/park": "0/30",
+            "pa": "64",
+            "dt": "2025-06-23 21:44:14",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "8",
+            "result": "Flyout",
+            "evo": "88.8",
+            "la": "33",
+            "dist": "310"
         },
         {
             "player": "dansby swanson",
@@ -6700,10 +6730,10 @@
             "team": "bos",
             "start": "9:38 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "102.2",
+            "la": "14",
+            "dist": "278"
         },
         {
             "player": "roman anthony",
