@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "36",
         "batters": "128",
-        "pitches": "1581",
+        "pitches": "1588",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "74.4",
-        "ff%fourseam fastball %": "31.5",
+        "ff%fourseam fastball %": "31.4",
         "si%sinker %": "19.5",
-        "fc%cutter %": "9.5",
+        "fc%cutter %": "9.4",
         "fs%splitter %": "1.0",
         "ch%changeup %": "12.7",
-        "sl%slider %": "16.6",
-        "cu%curve %": "9.2",
+        "sl%slider %": "16.7",
+        "cu%curve %": "9.3",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "131",
-        "hh%hard hit %": "42.8",
+        "hhhard hit": "132",
+        "hh%hard hit %": "42.7",
         "brlbarrels": "33",
-        "brl%barrel %": "10.8",
-        "ab": "390",
-        "avg": ".267",
+        "brl%barrel %": "10.7",
+        "ab": "391",
+        "avg": ".266",
         "h": "104",
         "1b": "63",
         "2b": "19",
         "3b": "3",
         "hr": "19",
-        "so": "95",
-        "bipballs in play": "306",
+        "so": "96",
+        "bipballs in play": "309",
         "liveGames": 7,
         "totGames": 9,
-        "updated": "2025-06-23 21:35:49.527256"
+        "updated": "2025-06-23 21:35:58.675313"
     },
     "tex @ bal": [
         {
@@ -1048,7 +1048,7 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2973,9 +2973,9 @@
             "start": "7:40 PM",
             "in": "8",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "91.3",
+            "la": "63",
+            "dist": "191"
         },
         {
             "player": "matt wallner",
@@ -4664,7 +4664,7 @@
         {
             "player": "jake bauers",
             "game": "pit @ mil",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "55",
             "dt": "2025-06-23 21:33:27",
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
@@ -4672,9 +4672,9 @@
             "start": "7:40 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "99.0",
+            "la": "19",
+            "dist": "321"
         },
         {
             "player": "caleb durbin",
@@ -5489,11 +5489,11 @@
     ],
     "chc @ stl": [
         {
-            "player": "ian happ",
+            "player": "kyle tucker",
             "game": "chc @ stl",
             "hr/park": "",
-            "pa": "60",
-            "dt": "2025-06-23 21:33:42",
+            "pa": "61",
+            "dt": "2025-06-23 21:35:57",
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
             "team": "chc",
             "start": "7:45 PM",
@@ -5502,6 +5502,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "ian happ",
+            "game": "chc @ stl",
+            "hr/park": "0/30",
+            "pa": "60",
+            "dt": "2025-06-23 21:33:42",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:45 PM",
+            "in": "8",
+            "result": "Lineout",
+            "evo": "89.4",
+            "la": "22",
+            "dist": "309"
         },
         {
             "player": "lars nootbaar",
