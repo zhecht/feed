@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "22",
         "batters": "127",
-        "pitches": "1103",
+        "pitches": "1106",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "75.1",
         "ff%fourseam fastball %": "30.6",
@@ -10,25 +10,25 @@
         "fc%cutter %": "9.5",
         "fs%splitter %": "0.5",
         "ch%changeup %": "14.2",
-        "sl%slider %": "14.5",
+        "sl%slider %": "14.6",
         "cu%curve %": "9.3",
         "max evmax exit velocity": "112.0",
-        "hhhard hit": "97",
-        "hh%hard hit %": "45.3",
-        "brlbarrels": "19",
-        "brl%barrel %": "8.9",
+        "hhhard hit": "98",
+        "hh%hard hit %": "45.6",
+        "brlbarrels": "20",
+        "brl%barrel %": "9.3",
         "ab": "274",
-        "avg": ".255",
-        "h": "70",
+        "avg": ".259",
+        "h": "71",
         "1b": "47",
         "2b": "12",
         "3b": "2",
-        "hr": "9",
+        "hr": "10",
         "so": "68",
-        "bipballs in play": "214",
+        "bipballs in play": "215",
         "liveGames": 7,
         "totGames": 9,
-        "updated": "2025-06-23 20:51:09.849929"
+        "updated": "2025-06-23 20:51:18.506577"
     },
     "tex @ bal": [
         {
@@ -1041,17 +1041,17 @@
         {
             "player": "juan soto",
             "game": "atl @ nym",
-            "hr/park": "",
+            "hr/park": "28/30",
             "pa": "49",
             "dt": "2025-06-23 20:49:29",
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
             "team": "nym",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "106.5",
+            "la": "26",
+            "dist": "412"
         },
         {
             "player": "brandon nimmo",
@@ -3959,6 +3959,21 @@
     ],
     "chc @ stl": [
         {
+            "player": "victor scott",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-06-23 20:51:12",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "pedro pages",
             "game": "chc @ stl",
             "hr/park": "",
@@ -3968,7 +3983,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
