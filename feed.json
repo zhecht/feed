@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "33",
         "batters": "128",
-        "pitches": "1510",
+        "pitches": "1512",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "74.4",
         "ff%fourseam fastball %": "31.7",
@@ -13,11 +13,11 @@
         "sl%slider %": "15.6",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "128",
-        "hh%hard hit %": "43.2",
+        "hhhard hit": "129",
+        "hh%hard hit %": "43.4",
         "brlbarrels": "32",
         "brl%barrel %": "10.8",
-        "ab": "374",
+        "ab": "375",
         "avg": ".267",
         "h": "100",
         "1b": "60",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "19",
         "so": "90",
-        "bipballs in play": "296",
+        "bipballs in play": "297",
         "liveGames": 7,
         "totGames": 9,
-        "updated": "2025-06-23 21:28:48.741959"
+        "updated": "2025-06-23 21:28:58.285122"
     },
     "tex @ bal": [
         {
@@ -2015,6 +2015,21 @@
         }
     ],
     "nyy @ cin": [
+        {
+            "player": "aaron judge",
+            "game": "nyy @ cin",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-06-23 21:28:56",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "cody bellinger",
             "game": "nyy @ cin",
@@ -5288,10 +5303,10 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "107.4",
+            "la": "3",
+            "dist": "88"
         },
         {
             "player": "masyn winn",
