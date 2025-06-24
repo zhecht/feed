@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "8",
-        "batters": "61",
-        "pitches": "341",
+        "batters": "62",
+        "pitches": "346",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "74.8",
         "ff%fourseam fastball %": "39.9",
-        "si%sinker %": "5.3",
-        "fc%cutter %": "11.1",
+        "si%sinker %": "5.2",
+        "fc%cutter %": "11.0",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "9.1",
-        "sl%slider %": "19.4",
-        "cu%curve %": "15.2",
+        "ch%changeup %": "9.2",
+        "sl%slider %": "19.7",
+        "cu%curve %": "15.0",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "19",
-        "hh%hard hit %": "34.5",
+        "hh%hard hit %": "33.9",
         "brlbarrels": "0",
         "brl%barrel %": "0.0",
         "ab": "76",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "0",
         "so": "21",
-        "bipballs in play": "55",
+        "bipballs in play": "56",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-06-24 19:38:51.131265"
+        "updated": "2025-06-24 19:38:58.878416"
     },
     "tex @ bal": [
         {
@@ -41,10 +41,10 @@
             "team": "tex",
             "start": "6:35 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "82.8",
+            "la": "-22",
+            "dist": "5"
         },
         {
             "player": "kyle higashioka",
@@ -892,6 +892,21 @@
     ],
     "atl @ nym": [
         {
+            "player": "luis torrens",
+            "game": "atl @ nym",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-06-24 19:38:54",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jeff mcneil",
             "game": "atl @ nym",
             "hr/park": "",
@@ -1098,7 +1113,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
