@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "14",
         "batters": "86",
-        "pitches": "505",
+        "pitches": "506",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "74.8",
-        "ff%fourseam fastball %": "43.4",
-        "si%sinker %": "5.0",
-        "fc%cutter %": "8.3",
+        "ff%fourseam fastball %": "43.1",
+        "si%sinker %": "4.9",
+        "fc%cutter %": "8.5",
         "fs%splitter %": "0.6",
         "ch%changeup %": "9.7",
         "sl%slider %": "20.2",
-        "cu%curve %": "12.9",
+        "cu%curve %": "13.0",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "33",
-        "hh%hard hit %": "41.3",
+        "hh%hard hit %": "40.7",
         "brlbarrels": "5",
-        "brl%barrel %": "6.3",
+        "brl%barrel %": "6.2",
         "ab": "110",
         "avg": ".209",
         "h": "23",
@@ -24,11 +24,11 @@
         "2b": "4",
         "3b": "0",
         "hr": "1",
-        "so": "31",
-        "bipballs in play": "80",
+        "so": "30",
+        "bipballs in play": "81",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-24 19:50:21.229923"
+        "updated": "2025-06-24 19:50:29.209786"
     },
     "tex @ bal": [
         {
@@ -1066,7 +1066,7 @@
             "team": "atl",
             "start": "7:10 PM",
             "in": "3",
-            "result": "Flyout",
+            "result": "In Progress",
             "evo": "100.2",
             "la": "32",
             "dist": "355"
@@ -1595,10 +1595,10 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "1",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "In Progress",
+            "evo": "75.7",
+            "la": "-26",
+            "dist": "6"
         },
         {
             "player": "junior caminero",
@@ -1781,7 +1781,7 @@
             "team": "pit",
             "start": "7:40 PM",
             "in": "1",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
