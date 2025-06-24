@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "28",
         "batters": "127",
-        "pitches": "1368",
+        "pitches": "1370",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "74.4",
-        "ff%fourseam fastball %": "31.3",
-        "si%sinker %": "20.0",
+        "ff%fourseam fastball %": "31.2",
+        "si%sinker %": "20.1",
         "fc%cutter %": "9.6",
         "fs%splitter %": "1.1",
         "ch%changeup %": "12.9",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.7",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "123",
-        "hh%hard hit %": "45.7",
+        "hh%hard hit %": "45.6",
         "brlbarrels": "31",
         "brl%barrel %": "11.5",
-        "ab": "340",
-        "avg": ".268",
+        "ab": "341",
+        "avg": ".267",
         "h": "91",
         "1b": "55",
         "2b": "16",
         "3b": "2",
         "hr": "18",
         "so": "83",
-        "bipballs in play": "269",
+        "bipballs in play": "270",
         "liveGames": 7,
         "totGames": 9,
-        "updated": "2025-06-23 21:16:21.835968"
+        "updated": "2025-06-23 21:16:30.673360"
     },
     "tex @ bal": [
         {
@@ -2738,6 +2738,21 @@
     ],
     "sea @ min": [
         {
+            "player": "harrison bader",
+            "game": "sea @ min",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-06-23 21:16:27",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kody clemens",
             "game": "sea @ min",
             "hr/park": "",
@@ -4191,10 +4206,10 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double Play",
+            "evo": "52.0",
+            "la": "11",
+            "dist": "79"
         },
         {
             "player": "sal frelick",
