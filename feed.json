@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "50",
-        "batters": "153",
-        "pitches": "1882",
+        "batters": "154",
+        "pitches": "1889",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "73.5",
         "ff%fourseam fastball %": "30.3",
-        "si%sinker %": "20.3",
+        "si%sinker %": "20.4",
         "fc%cutter %": "9.6",
         "fs%splitter %": "1.4",
         "ch%changeup %": "11.8",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.4",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "152",
-        "hh%hard hit %": "42.1",
+        "hh%hard hit %": "41.6",
         "brlbarrels": "36",
-        "brl%barrel %": "10.0",
-        "ab": "464",
-        "avg": ".269",
+        "brl%barrel %": "9.9",
+        "ab": "467",
+        "avg": ".268",
         "h": "125",
         "1b": "82",
         "2b": "19",
         "3b": "3",
         "hr": "21",
         "so": "114",
-        "bipballs in play": "361",
+        "bipballs in play": "365",
         "liveGames": 9,
         "totGames": 9,
-        "updated": "2025-06-23 21:57:51.485125"
+        "updated": "2025-06-23 21:58:01.212909"
     },
     "tex @ bal": [
         {
@@ -3227,10 +3227,10 @@
             "team": "sea",
             "start": "7:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "93.9",
+            "la": "-5",
+            "dist": "21"
         },
         {
             "player": "cole young",
@@ -5262,6 +5262,36 @@
     ],
     "pit @ mil": [
         {
+            "player": "isiah kiner falefa",
+            "game": "pit @ mil",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-06-23 21:57:58",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "tommy pham",
+            "game": "pit @ mil",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-06-23 21:57:58",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "Groundout",
+            "evo": "88.9",
+            "la": "-19",
+            "dist": "9"
+        },
+        {
             "player": "kebryan hayes",
             "game": "pit @ mil",
             "hr/park": "",
@@ -5271,10 +5301,10 @@
             "team": "pit",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "91.8",
+            "la": "-2",
+            "dist": "19"
         },
         {
             "player": "jackson chourio",
@@ -7261,6 +7291,36 @@
     ],
     "bos @ laa": [
         {
+            "player": "jo adell",
+            "game": "bos @ laa",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-06-23 21:57:58",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "travis darnaud",
+            "game": "bos @ laa",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-06-23 21:57:58",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "Pop Out",
+            "evo": "54.3",
+            "la": "86",
+            "dist": "42"
+        },
+        {
             "player": "taylor ward",
             "game": "bos @ laa",
             "hr/park": "",
@@ -7427,21 +7487,6 @@
         }
     ],
     "wsh @ sd": [
-        {
-            "player": "josh bell",
-            "game": "wsh @ sd",
-            "hr/park": "",
-            "pa": "10",
-            "dt": "2025-06-23 21:57:45",
-            "img": "https://www.mlbstatic.com/team-logos/120.svg",
-            "team": "wsh",
-            "start": "9:40 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "nathaniel lowe",
             "game": "wsh @ sd",
