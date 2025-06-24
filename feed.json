@@ -1,36 +1,51 @@
 {
     "all": {
         "pitchers": "18",
-        "batters": "99",
-        "pitches": "581",
+        "batters": "101",
+        "pitches": "594",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "74.7",
-        "ff%fourseam fastball %": "43.2",
-        "si%sinker %": "5.9",
-        "fc%cutter %": "9.0",
+        "ff%fourseam fastball %": "42.9",
+        "si%sinker %": "6.2",
+        "fc%cutter %": "9.1",
         "fs%splitter %": "0.5",
-        "ch%changeup %": "9.5",
-        "sl%slider %": "19.6",
-        "cu%curve %": "12.2",
+        "ch%changeup %": "9.8",
+        "sl%slider %": "19.4",
+        "cu%curve %": "12.0",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "39",
-        "hh%hard hit %": "42.9",
+        "hhhard hit": "41",
+        "hh%hard hit %": "43.6",
         "brlbarrels": "6",
-        "brl%barrel %": "6.6",
-        "ab": "128",
-        "avg": ".195",
+        "brl%barrel %": "6.4",
+        "ab": "132",
+        "avg": ".189",
         "h": "25",
         "1b": "20",
         "2b": "4",
         "3b": "0",
         "hr": "1",
         "so": "35",
-        "bipballs in play": "91",
+        "bipballs in play": "94",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-24 19:55:06.800057"
+        "updated": "2025-06-24 19:55:14.950683"
     },
     "tex @ bal": [
+        {
+            "player": "gary sanchez",
+            "game": "tex @ bal",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-06-24 19:55:09",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "marcus semien",
             "game": "tex @ bal",
@@ -1419,6 +1434,21 @@
     ],
     "nyy @ cin": [
         {
+            "player": "tj friedl",
+            "game": "nyy @ cin",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-06-24 19:54:08",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "santiago espinal",
             "game": "nyy @ cin",
             "hr/park": "",
@@ -1706,6 +1736,21 @@
     ],
     "tb @ kc": [
         {
+            "player": "jonathan aranda",
+            "game": "tb @ kc",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-06-24 19:55:09",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "maikel garcia",
             "game": "tb @ kc",
             "hr/park": "",
@@ -1798,6 +1843,21 @@
     ],
     "sea @ min": [
         {
+            "player": "brooks lee",
+            "game": "sea @ min",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-06-24 19:55:09",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trevor larnach",
             "game": "sea @ min",
             "hr/park": "",
@@ -1807,10 +1867,10 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "106.4",
+            "la": "-3",
+            "dist": "24"
         },
         {
             "player": "byron buxton",
@@ -1984,17 +2044,17 @@
         {
             "player": "christian yelich",
             "game": "pit @ mil",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "7",
             "dt": "2025-06-24 19:53:39",
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
             "team": "mil",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "96.4",
+            "la": "20",
+            "dist": "332"
         },
         {
             "player": "jackson chourio",
@@ -2098,10 +2158,10 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "66.8",
+            "la": "6",
+            "dist": "69"
         },
         {
             "player": "seiya suzuki",
