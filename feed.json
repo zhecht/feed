@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "1",
-        "batters": "4",
-        "pitches": "13",
+        "pitchers": "2",
+        "batters": "5",
+        "pitches": "14",
         "max velomax pitch velocity": "96.0",
         "min velomin pitch velocity": "80.9",
-        "ff%fourseam fastball %": "53.8",
-        "si%sinker %": "7.7",
+        "ff%fourseam fastball %": "50.0",
+        "si%sinker %": "14.3",
         "fc%cutter %": "0.0",
         "fs%splitter %": "0.0",
         "ch%changeup %": "0.0",
         "sl%slider %": "0.0",
-        "cu%curve %": "38.5",
+        "cu%curve %": "35.7",
         "max evmax exit velocity": "88.7",
         "hhhard hit": "0",
         "hh%hard hit %": "0.0",
         "brlbarrels": "0",
         "brl%barrel %": "0.0",
-        "ab": "3",
+        "ab": "4",
         "avg": ".000",
         "h": "0",
         "1b": "0",
@@ -28,7 +28,7 @@
         "bipballs in play": "1",
         "liveGames": 3,
         "totGames": 15,
-        "updated": "2025-06-24 18:41:35.313460"
+        "updated": "2025-06-24 18:41:42.688808"
     },
     "tex @ bal": [
         {
@@ -93,7 +93,23 @@
         }
     ],
     "ath @ det": [],
-    "tor @ cle": [],
+    "tor @ cle": [
+        {
+            "player": "bo bichette",
+            "game": "tor @ cle",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-24 18:41:38",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "6:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "atl @ nym": [],
     "nyy @ cin": [],
     "tb @ kc": [],
