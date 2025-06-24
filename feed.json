@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "33",
         "batters": "128",
-        "pitches": "1485",
+        "pitches": "1493",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "74.4",
-        "ff%fourseam fastball %": "31.6",
-        "si%sinker %": "20.1",
-        "fc%cutter %": "9.5",
+        "ff%fourseam fastball %": "31.5",
+        "si%sinker %": "20.0",
+        "fc%cutter %": "9.6",
         "fs%splitter %": "1.1",
         "ch%changeup %": "12.5",
         "sl%slider %": "15.5",
-        "cu%curve %": "9.8",
+        "cu%curve %": "9.7",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "128",
-        "hh%hard hit %": "44.1",
+        "hh%hard hit %": "43.8",
         "brlbarrels": "32",
         "brl%barrel %": "11.0",
-        "ab": "368",
+        "ab": "369",
         "avg": ".266",
         "h": "98",
         "1b": "59",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "19",
         "so": "90",
-        "bipballs in play": "290",
+        "bipballs in play": "292",
         "liveGames": 7,
         "totGames": 9,
-        "updated": "2025-06-23 21:27:27.042658"
+        "updated": "2025-06-23 21:27:35.928162"
     },
     "tex @ bal": [
         {
@@ -1048,10 +1048,10 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "64.5",
+            "la": "-18",
+            "dist": "5"
         },
         {
             "player": "luis torrens",
@@ -5218,6 +5218,21 @@
         }
     ],
     "chc @ stl": [
+        {
+            "player": "masyn winn",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-06-23 21:26:44",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "7",
+            "result": "Flyout",
+            "evo": "70.6",
+            "la": "51",
+            "dist": "201"
+        },
         {
             "player": "matt shaw",
             "game": "chc @ stl",
