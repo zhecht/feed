@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "22",
         "batters": "127",
-        "pitches": "1083",
+        "pitches": "1086",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "75.1",
-        "ff%fourseam fastball %": "30.2",
+        "ff%fourseam fastball %": "30.3",
         "si%sinker %": "21.3",
         "fc%cutter %": "9.7",
         "fs%splitter %": "0.6",
         "ch%changeup %": "14.3",
         "sl%slider %": "14.5",
-        "cu%curve %": "9.4",
+        "cu%curve %": "9.5",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "96",
-        "hh%hard hit %": "45.3",
+        "hh%hard hit %": "45.1",
         "brlbarrels": "19",
-        "brl%barrel %": "9.0",
+        "brl%barrel %": "8.9",
         "ab": "271",
         "avg": ".251",
         "h": "68",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "9",
         "so": "66",
-        "bipballs in play": "212",
+        "bipballs in play": "213",
         "liveGames": 7,
         "totGames": 9,
-        "updated": "2025-06-23 20:49:25.892465"
+        "updated": "2025-06-23 20:49:34.433342"
     },
     "tex @ bal": [
         {
@@ -1039,6 +1039,21 @@
     ],
     "atl @ nym": [
         {
+            "player": "juan soto",
+            "game": "atl @ nym",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-06-23 20:49:29",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brandon nimmo",
             "game": "atl @ nym",
             "hr/park": "",
@@ -1048,7 +1063,7 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2959,10 +2974,10 @@
             "team": "ari",
             "start": "7:40 PM",
             "in": "4",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "84.4",
+            "la": "40",
+            "dist": "292"
         },
         {
             "player": "austin slater",
