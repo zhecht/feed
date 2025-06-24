@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "19",
         "batters": "127",
-        "pitches": "970",
+        "pitches": "971",
         "max velomax pitch velocity": "99.1",
         "min velomin pitch velocity": "75.1",
-        "ff%fourseam fastball %": "29.3",
+        "ff%fourseam fastball %": "29.4",
         "si%sinker %": "21.4",
-        "fc%cutter %": "10.1",
+        "fc%cutter %": "10.0",
         "fs%splitter %": "0.5",
         "ch%changeup %": "14.5",
-        "sl%slider %": "14.2",
+        "sl%slider %": "14.3",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "112.0",
-        "hhhard hit": "89",
-        "hh%hard hit %": "46.8",
+        "hhhard hit": "90",
+        "hh%hard hit %": "47.4",
         "brlbarrels": "19",
         "brl%barrel %": "10.0",
-        "ab": "244",
-        "avg": ".258",
+        "ab": "245",
+        "avg": ".257",
         "h": "63",
         "1b": "40",
         "2b": "12",
@@ -28,7 +28,7 @@
         "bipballs in play": "190",
         "liveGames": 7,
         "totGames": 9,
-        "updated": "2025-06-23 20:39:52.180617"
+        "updated": "2025-06-23 20:40:00.725129"
     },
     "tex @ bal": [
         {
@@ -41,10 +41,10 @@
             "team": "bal",
             "start": "6:35 PM",
             "in": "8",
-            "result": "Single",
-            "evo": "90.4",
-            "la": "-20",
-            "dist": "10"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "chadwick tromp",
@@ -978,21 +978,6 @@
         }
     ],
     "atl @ nym": [
-        {
-            "player": "eli white",
-            "game": "atl @ nym",
-            "hr/park": "",
-            "pa": "43",
-            "dt": "2025-06-23 20:39:42",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "7:10 PM",
-            "in": "6",
-            "result": "Groundout",
-            "evo": "73.2",
-            "la": "-12",
-            "dist": "11"
-        },
         {
             "player": "luis torrens",
             "game": "atl @ nym",
@@ -2213,6 +2198,21 @@
     ],
     "sea @ min": [
         {
+            "player": "ty france",
+            "game": "sea @ min",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-06-23 20:39:29",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "carlos correa",
             "game": "sea @ min",
             "hr/park": "0/30",
@@ -2665,6 +2665,21 @@
     ],
     "ari @ chw": [
         {
+            "player": "chase meidroth",
+            "game": "ari @ chw",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-06-23 20:39:58",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "vinny capra",
             "game": "ari @ chw",
             "hr/park": "",
@@ -2674,10 +2689,10 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "59.5",
+            "la": "63",
+            "dist": "112"
         },
         {
             "player": "michael a taylor",
@@ -3518,10 +3533,10 @@
             "team": "chc",
             "start": "7:45 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "98.0",
+            "la": "-3",
+            "dist": "11"
         },
         {
             "player": "carson kelly",
