@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "51",
         "batters": "167",
-        "pitches": "2034",
+        "pitches": "2035",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "45.9",
         "ff%fourseam fastball %": "30.5",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "41.8",
         "brlbarrels": "38",
         "brl%barrel %": "9.7",
-        "ab": "497",
-        "avg": ".270",
-        "h": "134",
-        "1b": "88",
+        "ab": "498",
+        "avg": ".267",
+        "h": "133",
+        "1b": "87",
         "2b": "21",
         "3b": "3",
         "hr": "22",
@@ -28,7 +28,7 @@
         "bipballs in play": "392",
         "liveGames": 9,
         "totGames": 9,
-        "updated": "2025-06-23 22:12:55.721047"
+        "updated": "2025-06-23 22:13:05.435154"
     },
     "tex @ bal": [
         {
@@ -5541,7 +5541,7 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "8",
-            "result": "Single",
+            "result": "Groundout",
             "evo": "65.6",
             "la": "-76",
             "dist": "2"
@@ -7630,7 +7630,7 @@
             "team": "bos",
             "start": "9:38 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7922,6 +7922,21 @@
         }
     ],
     "wsh @ sd": [
+        {
+            "player": "cj abrams",
+            "game": "wsh @ sd",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-06-23 22:12:59",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "9:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jacob young",
             "game": "wsh @ sd",
