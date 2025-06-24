@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "27",
+        "pitchers": "28",
         "batters": "127",
-        "pitches": "1351",
+        "pitches": "1362",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "74.4",
-        "ff%fourseam fastball %": "31.4",
-        "si%sinker %": "19.9",
-        "fc%cutter %": "9.3",
+        "ff%fourseam fastball %": "31.3",
+        "si%sinker %": "20.0",
+        "fc%cutter %": "9.6",
         "fs%splitter %": "0.9",
         "ch%changeup %": "13.0",
-        "sl%slider %": "15.6",
+        "sl%slider %": "15.5",
         "cu%curve %": "9.8",
         "max evmax exit velocity": "112.6",
-        "hhhard hit": "121",
-        "hh%hard hit %": "45.5",
-        "brlbarrels": "30",
-        "brl%barrel %": "11.3",
-        "ab": "336",
-        "avg": ".271",
+        "hhhard hit": "123",
+        "hh%hard hit %": "45.7",
+        "brlbarrels": "31",
+        "brl%barrel %": "11.5",
+        "ab": "340",
+        "avg": ".268",
         "h": "91",
         "1b": "55",
         "2b": "16",
         "3b": "2",
         "hr": "18",
-        "so": "81",
-        "bipballs in play": "266",
+        "so": "82",
+        "bipballs in play": "269",
         "liveGames": 7,
         "totGames": 9,
-        "updated": "2025-06-23 21:15:19.299627"
+        "updated": "2025-06-23 21:15:28.274939"
     },
     "tex @ bal": [
         {
@@ -1935,7 +1935,7 @@
             "team": "nyy",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2738,6 +2738,36 @@
     ],
     "sea @ min": [
         {
+            "player": "kody clemens",
+            "game": "sea @ min",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-06-23 21:15:28",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "77.7",
+            "la": "36",
+            "dist": "279"
+        },
+        {
+            "player": "ty france",
+            "game": "sea @ min",
+            "hr/park": "0/30",
+            "pa": "50",
+            "dt": "2025-06-23 21:14:42",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "Lineout",
+            "evo": "99.6",
+            "la": "20",
+            "dist": "327"
+        },
+        {
             "player": "carlos correa",
             "game": "sea @ min",
             "hr/park": "28/30",
@@ -3484,7 +3514,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4152,6 +4182,21 @@
     ],
     "pit @ mil": [
         {
+            "player": "jackson chourio",
+            "game": "pit @ mil",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-06-23 21:15:28",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "sal frelick",
             "game": "pit @ mil",
             "hr/park": "",
@@ -4798,6 +4843,21 @@
         }
     ],
     "chc @ stl": [
+        {
+            "player": "brendan donovan",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-06-23 21:15:28",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "102.2",
+            "la": "26",
+            "dist": "406"
+        },
         {
             "player": "victor scott",
             "game": "chc @ stl",
