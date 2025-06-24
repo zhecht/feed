@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "29",
         "batters": "127",
-        "pitches": "1417",
+        "pitches": "1421",
         "max velomax pitch velocity": "99.6",
         "min velomin pitch velocity": "74.4",
         "ff%fourseam fastball %": "31.1",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.7",
         "max evmax exit velocity": "112.6",
         "hhhard hit": "124",
-        "hh%hard hit %": "44.3",
+        "hh%hard hit %": "44.0",
         "brlbarrels": "32",
-        "brl%barrel %": "11.4",
-        "ab": "356",
-        "avg": ".267",
+        "brl%barrel %": "11.3",
+        "ab": "358",
+        "avg": ".265",
         "h": "95",
         "1b": "57",
         "2b": "17",
         "3b": "2",
         "hr": "19",
         "so": "87",
-        "bipballs in play": "280",
+        "bipballs in play": "282",
         "liveGames": 7,
         "totGames": 9,
-        "updated": "2025-06-23 21:21:40.814699"
+        "updated": "2025-06-23 21:21:49.721787"
     },
     "tex @ bal": [
         {
@@ -1048,10 +1048,10 @@
             "team": "atl",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "81.9",
+            "la": "41",
+            "dist": "278"
         },
         {
             "player": "eli white",
@@ -1965,7 +1965,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2798,9 +2798,24 @@
     ],
     "sea @ min": [
         {
-            "player": "jp crawford",
+            "player": "julio rodriguez",
             "game": "sea @ min",
             "hr/park": "",
+            "pa": "55",
+            "dt": "2025-06-23 21:21:43",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jp crawford",
+            "game": "sea @ min",
+            "hr/park": "0/30",
             "pa": "54",
             "dt": "2025-06-23 21:20:58",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
@@ -3609,6 +3624,21 @@
         }
     ],
     "ari @ chw": [
+        {
+            "player": "pavin smith",
+            "game": "ari @ chw",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-06-23 21:21:43",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ketel marte",
             "game": "ari @ chw",
