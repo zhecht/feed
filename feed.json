@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "103",
-        "batters": "272",
-        "pitches": "3423",
+        "batters": "273",
+        "pitches": "3430",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "34.7",
+        "ff%fourseam fastball %": "34.6",
         "si%sinker %": "13.8",
         "fc%cutter %": "7.1",
         "fs%splitter %": "2.0",
@@ -13,22 +13,22 @@
         "sl%slider %": "20.1",
         "cu%curve %": "9.8",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "261",
+        "hhhard hit": "262",
         "hh%hard hit %": "41.4",
         "brlbarrels": "48",
         "brl%barrel %": "7.6",
-        "ab": "787",
-        "avg": ".239",
-        "h": "188",
-        "1b": "133",
+        "ab": "786",
+        "avg": ".240",
+        "h": "189",
+        "1b": "134",
         "2b": "28",
         "3b": "1",
         "hr": "26",
-        "so": "185",
-        "bipballs in play": "631",
+        "so": "186",
+        "bipballs in play": "633",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-24 22:08:52.506999"
+        "updated": "2025-06-24 22:09:04.456081"
     },
     "tex @ bal": [
         {
@@ -1318,7 +1318,7 @@
             "team": "ath",
             "start": "6:40 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4729,10 +4729,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "10",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "54.9",
+            "la": "-46",
+            "dist": "4"
         },
         {
             "player": "tj friedl",
@@ -11988,10 +11988,10 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "105.3",
+            "la": "6",
+            "dist": "166"
         },
         {
             "player": "hunter goodman",
@@ -12686,6 +12686,21 @@
     ],
     "bos @ laa": [
         {
+            "player": "gustavo campero",
+            "game": "bos @ laa",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-06-24 22:07:56",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "2",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jo adell",
             "game": "bos @ laa",
             "hr/park": "",
@@ -12695,7 +12710,7 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12892,7 +12907,7 @@
             "team": "wsh",
             "start": "9:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
