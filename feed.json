@@ -2,49 +2,49 @@
     "all": {
         "pitchers": "33",
         "batters": "200",
-        "pitches": "1648",
+        "pitches": "1655",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "71.6",
-        "ff%fourseam fastball %": "39.6",
-        "si%sinker %": "9.8",
+        "ff%fourseam fastball %": "39.5",
+        "si%sinker %": "9.9",
         "fc%cutter %": "6.6",
         "fs%splitter %": "0.6",
         "ch%changeup %": "13.0",
         "sl%slider %": "20.2",
-        "cu%curve %": "10.0",
+        "cu%curve %": "9.9",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "135",
+        "hhhard hit": "136",
         "hh%hard hit %": "45.2",
-        "brlbarrels": "28",
-        "brl%barrel %": "9.4",
+        "brlbarrels": "29",
+        "brl%barrel %": "9.6",
         "ab": "379",
-        "avg": ".235",
-        "h": "89",
+        "avg": ".240",
+        "h": "91",
         "1b": "64",
-        "2b": "7",
+        "2b": "8",
         "3b": "1",
-        "hr": "17",
-        "so": "88",
-        "bipballs in play": "299",
+        "hr": "18",
+        "so": "89",
+        "bipballs in play": "301",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-24 20:48:18.407340"
+        "updated": "2025-06-24 20:48:28.047336"
     },
     "tex @ bal": [
         {
             "player": "ryan ohearn",
             "game": "tex @ bal",
-            "hr/park": "",
+            "hr/park": "21/30",
             "pa": "59",
             "dt": "2025-06-24 20:46:37",
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
             "team": "bal",
             "start": "6:35 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "104.5",
+            "la": "34",
+            "dist": "406"
         },
         {
             "player": "ramon urias",
@@ -919,6 +919,21 @@
     ],
     "ath @ det": [
         {
+            "player": "riley greene",
+            "game": "ath @ det",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-06-24 20:47:08",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kerry carpenter",
             "game": "ath @ det",
             "hr/park": "",
@@ -928,10 +943,10 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "82.0",
+            "la": "25",
+            "dist": "268"
         },
         {
             "player": "gleyber torres",
@@ -1305,7 +1320,7 @@
             "team": "cle",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3561,7 +3576,7 @@
             "team": "tb",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Field Error",
             "evo": "79.0",
             "la": "-47",
             "dist": "2"
@@ -4073,10 +4088,10 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "106.1",
+            "la": "3",
+            "dist": "68"
         },
         {
             "player": "julio rodriguez",
@@ -4530,21 +4545,6 @@
         }
     ],
     "ari @ chw": [
-        {
-            "player": "jose herrera",
-            "game": "ari @ chw",
-            "hr/park": "",
-            "pa": "32",
-            "dt": "2025-06-24 20:48:08",
-            "img": "https://www.mlbstatic.com/team-logos/109.svg",
-            "team": "ari",
-            "start": "7:40 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "alek thomas",
             "game": "ari @ chw",
@@ -5565,9 +5565,9 @@
             "start": "7:45 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "96.1",
-            "la": "32",
-            "dist": "369"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "nico hoerner",
