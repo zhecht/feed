@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "42",
         "batters": "216",
-        "pitches": "1988",
+        "pitches": "1998",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "71.6",
-        "ff%fourseam fastball %": "37.9",
+        "ff%fourseam fastball %": "37.8",
         "si%sinker %": "11.5",
-        "fc%cutter %": "6.2",
+        "fc%cutter %": "6.3",
         "fs%splitter %": "0.8",
         "ch%changeup %": "13.1",
         "sl%slider %": "20.2",
-        "cu%curve %": "10.1",
+        "cu%curve %": "10.2",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "167",
-        "hh%hard hit %": "46.0",
+        "hhhard hit": "169",
+        "hh%hard hit %": "46.2",
         "brlbarrels": "35",
         "brl%barrel %": "9.6",
-        "ab": "452",
-        "avg": ".250",
+        "ab": "455",
+        "avg": ".248",
         "h": "113",
         "1b": "76",
         "2b": "15",
         "3b": "1",
         "hr": "21",
-        "so": "108",
-        "bipballs in play": "363",
+        "so": "110",
+        "bipballs in play": "366",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-24 21:04:48.593330"
+        "updated": "2025-06-24 21:04:58.302811"
     },
     "tex @ bal": [
         {
@@ -41,7 +41,7 @@
             "team": "tex",
             "start": "6:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5341,6 +5341,36 @@
     ],
     "ari @ chw": [
         {
+            "player": "ketel marte",
+            "game": "ari @ chw",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-06-24 21:04:53",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "geraldo perdomo",
+            "game": "ari @ chw",
+            "hr/park": "2/30",
+            "pa": "38",
+            "dt": "2025-06-24 21:03:38",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "96.5",
+            "la": "26",
+            "dist": "355"
+        },
+        {
             "player": "mike tauchman",
             "game": "ari @ chw",
             "hr/park": "0/30",
@@ -5350,7 +5380,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "100.4",
             "la": "27",
             "dist": "371"
@@ -5908,9 +5938,9 @@
             "start": "7:40 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "87.3",
+            "la": "-16",
+            "dist": "11"
         },
         {
             "player": "christian yelich",
@@ -6530,6 +6560,21 @@
     ],
     "chc @ stl": [
         {
+            "player": "reese mcguire",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-06-24 21:03:53",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:45 PM",
+            "in": "5",
+            "result": "Groundout",
+            "evo": "104.7",
+            "la": "-18",
+            "dist": "7"
+        },
+        {
             "player": "willson contreras",
             "game": "chc @ stl",
             "hr/park": "",
@@ -6539,7 +6584,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
