@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "28",
-        "batters": "191",
-        "pitches": "1326",
+        "batters": "190",
+        "pitches": "1334",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "72.3",
         "ff%fourseam fastball %": "40.6",
@@ -10,25 +10,25 @@
         "fc%cutter %": "6.3",
         "fs%splitter %": "0.6",
         "ch%changeup %": "12.4",
-        "sl%slider %": "20.2",
+        "sl%slider %": "20.3",
         "cu%curve %": "10.0",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "108",
-        "hh%hard hit %": "44.6",
+        "hhhard hit": "109",
+        "hh%hard hit %": "44.7",
         "brlbarrels": "22",
-        "brl%barrel %": "9.1",
-        "ab": "306",
-        "avg": ".245",
-        "h": "75",
+        "brl%barrel %": "9.0",
+        "ab": "308",
+        "avg": ".247",
+        "h": "76",
         "1b": "56",
-        "2b": "6",
+        "2b": "7",
         "3b": "1",
         "hr": "12",
-        "so": "72",
-        "bipballs in play": "242",
+        "so": "74",
+        "bipballs in play": "244",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-24 20:33:14.532162"
+        "updated": "2025-06-24 20:33:23.679033"
     },
     "tex @ bal": [
         {
@@ -853,7 +853,7 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2545,6 +2545,21 @@
     ],
     "nyy @ cin": [
         {
+            "player": "santiago espinal",
+            "game": "nyy @ cin",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-06-24 20:33:23",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "Lineout",
+            "evo": "96.5",
+            "la": "20",
+            "dist": "338"
+        },
+        {
             "player": "christian encarnacion strand",
             "game": "nyy @ cin",
             "hr/park": "",
@@ -2554,7 +2569,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3856,6 +3871,36 @@
     ],
     "ari @ chw": [
         {
+            "player": "jake mccarthy",
+            "game": "ari @ chw",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-06-24 20:32:53",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "lourdes gurriel",
+            "game": "ari @ chw",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-06-24 20:31:52",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "Double",
+            "evo": "77.8",
+            "la": "22",
+            "dist": "240"
+        },
+        {
             "player": "pavin smith",
             "game": "ari @ chw",
             "hr/park": "",
@@ -4212,7 +4257,7 @@
             "team": "pit",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4971,21 +5016,6 @@
         }
     ],
     "phi @ hou": [
-        {
-            "player": "johan rojas",
-            "game": "phi @ hou",
-            "hr/park": "",
-            "pa": "12",
-            "dt": "2025-06-24 20:32:53",
-            "img": "https://www.mlbstatic.com/team-logos/143.svg",
-            "team": "phi",
-            "start": "8:10 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "buddy kennedy",
             "game": "phi @ hou",
