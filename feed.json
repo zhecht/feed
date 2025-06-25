@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "27",
         "batters": "183",
-        "pitches": "1178",
+        "pitches": "1182",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "73.5",
-        "ff%fourseam fastball %": "40.7",
+        "ff%fourseam fastball %": "40.8",
         "si%sinker %": "9.1",
         "fc%cutter %": "6.7",
         "fs%splitter %": "0.7",
-        "ch%changeup %": "12.2",
-        "sl%slider %": "20.2",
+        "ch%changeup %": "12.4",
+        "sl%slider %": "20.1",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "95",
-        "hh%hard hit %": "44.8",
+        "hh%hard hit %": "44.6",
         "brlbarrels": "20",
         "brl%barrel %": "9.4",
-        "ab": "273",
-        "avg": ".238",
+        "ab": "274",
+        "avg": ".237",
         "h": "65",
         "1b": "48",
         "2b": "6",
         "3b": "1",
         "hr": "10",
-        "so": "65",
-        "bipballs in play": "212",
+        "so": "67",
+        "bipballs in play": "213",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-24 20:26:36.778464"
+        "updated": "2025-06-24 20:26:45.635420"
     },
     "tex @ bal": [
         {
@@ -1026,6 +1026,21 @@
     ],
     "tor @ cle": [
         {
+            "player": "angel martinez",
+            "game": "tor @ cle",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-06-24 20:26:40",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "daniel schneemann",
             "game": "tor @ cle",
             "hr/park": "0/30",
@@ -1817,7 +1832,7 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2847,21 +2862,6 @@
     ],
     "tb @ kc": [
         {
-            "player": "jonathan aranda",
-            "game": "tb @ kc",
-            "hr/park": "",
-            "pa": "22",
-            "dt": "2025-06-24 20:26:08",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "7:40 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "kyle isbel",
             "game": "tb @ kc",
             "hr/park": "",
@@ -3526,6 +3526,21 @@
     ],
     "ari @ chw": [
         {
+            "player": "mike tauchman",
+            "game": "ari @ chw",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-06-24 20:26:40",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "67.6",
+            "la": "-18",
+            "dist": "7"
+        },
+        {
             "player": "michael a taylor",
             "game": "ari @ chw",
             "hr/park": "",
@@ -3837,7 +3852,7 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "3",
-            "result": "Flyout",
+            "result": "In Progress",
             "evo": "96.1",
             "la": "24",
             "dist": "374"
@@ -4486,7 +4501,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
