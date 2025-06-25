@@ -1,36 +1,51 @@
 {
     "all": {
         "pitchers": "25",
-        "batters": "169",
-        "pitches": "1069",
+        "batters": "170",
+        "pitches": "1076",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "73.5",
-        "ff%fourseam fastball %": "40.9",
-        "si%sinker %": "9.0",
+        "ff%fourseam fastball %": "40.8",
+        "si%sinker %": "9.1",
         "fc%cutter %": "6.9",
         "fs%splitter %": "0.6",
         "ch%changeup %": "11.7",
         "sl%slider %": "20.5",
-        "cu%curve %": "10.4",
+        "cu%curve %": "10.3",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "86",
-        "hh%hard hit %": "46.5",
+        "hhhard hit": "88",
+        "hh%hard hit %": "46.8",
         "brlbarrels": "16",
-        "brl%barrel %": "8.6",
-        "ab": "241",
-        "avg": ".232",
+        "brl%barrel %": "8.5",
+        "ab": "244",
+        "avg": ".230",
         "h": "56",
         "1b": "42",
         "2b": "6",
         "3b": "1",
         "hr": "7",
         "so": "60",
-        "bipballs in play": "185",
+        "bipballs in play": "188",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-24 20:21:00.522926"
+        "updated": "2025-06-24 20:21:09.364531"
     },
     "tex @ bal": [
+        {
+            "player": "cedric mullins",
+            "game": "tex @ bal",
+            "hr/park": "0/30",
+            "pa": "46",
+            "dt": "2025-06-24 20:20:10",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:35 PM",
+            "in": "6",
+            "result": "Lineout",
+            "evo": "86.7",
+            "la": "26",
+            "dist": "320"
+        },
         {
             "player": "josh smith",
             "game": "tex @ bal",
@@ -2909,6 +2924,21 @@
     ],
     "sea @ min": [
         {
+            "player": "luke raley",
+            "game": "sea @ min",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-06-24 20:21:08",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "randy arozarena",
             "game": "sea @ min",
             "hr/park": "",
@@ -3205,10 +3235,10 @@
             "team": "ari",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "101.5",
+            "la": "-31",
+            "dist": "3"
         },
         {
             "player": "geraldo perdomo",
@@ -4026,6 +4056,21 @@
         }
     ],
     "phi @ hou": [
+        {
+            "player": "jt realmuto",
+            "game": "phi @ hou",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-06-24 20:21:08",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "101.6",
+            "la": "-15",
+            "dist": "8"
+        },
         {
             "player": "nick castellanos",
             "game": "phi @ hou",
