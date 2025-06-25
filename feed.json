@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "43",
         "batters": "216",
-        "pitches": "2010",
+        "pitches": "2018",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "71.6",
         "ff%fourseam fastball %": "37.6",
-        "si%sinker %": "11.4",
-        "fc%cutter %": "6.4",
-        "fs%splitter %": "0.8",
+        "si%sinker %": "11.5",
+        "fc%cutter %": "6.3",
+        "fs%splitter %": "0.9",
         "ch%changeup %": "13.1",
-        "sl%slider %": "20.2",
-        "cu%curve %": "10.2",
+        "sl%slider %": "20.1",
+        "cu%curve %": "10.3",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "169",
-        "hh%hard hit %": "46.0",
-        "brlbarrels": "35",
-        "brl%barrel %": "9.5",
-        "ab": "462",
-        "avg": ".245",
-        "h": "113",
-        "1b": "76",
+        "hhhard hit": "170",
+        "hh%hard hit %": "45.9",
+        "brlbarrels": "36",
+        "brl%barrel %": "9.7",
+        "ab": "463",
+        "avg": ".248",
+        "h": "115",
+        "1b": "78",
         "2b": "15",
         "3b": "1",
         "hr": "21",
         "so": "110",
-        "bipballs in play": "367",
+        "bipballs in play": "370",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-24 21:05:47.550074"
+        "updated": "2025-06-24 21:05:57.276266"
     },
     "tex @ bal": [
         {
@@ -1560,10 +1560,10 @@
             "team": "tor",
             "start": "6:40 PM",
             "in": "8",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Fielders Choice",
+            "evo": "51.6",
+            "la": "-5",
+            "dist": "21"
         },
         {
             "player": "ernie clement",
@@ -4137,6 +4137,21 @@
     ],
     "tb @ kc": [
         {
+            "player": "john rave",
+            "game": "tb @ kc",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-06-24 21:05:52",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "drew waters",
             "game": "tb @ kc",
             "hr/park": "",
@@ -4146,7 +4161,7 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "93.6",
             "la": "-11",
             "dist": "14"
@@ -4266,7 +4281,7 @@
             "team": "tb",
             "start": "7:40 PM",
             "in": "5",
-            "result": "Field Error",
+            "result": "Single",
             "evo": "79.0",
             "la": "-47",
             "dist": "2"
@@ -5410,10 +5425,10 @@
             "team": "ari",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "84.5",
+            "la": "22",
+            "dist": "267"
         },
         {
             "player": "geraldo perdomo",
@@ -7261,10 +7276,10 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "100.5",
+            "la": "27",
+            "dist": "388"
         },
         {
             "player": "johan rojas",
