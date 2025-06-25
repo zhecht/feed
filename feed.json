@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "68",
+        "pitchers": "69",
         "batters": "226",
-        "pitches": "2565",
+        "pitches": "2578",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "71.6",
-        "ff%fourseam fastball %": "35.2",
-        "si%sinker %": "13.3",
+        "ff%fourseam fastball %": "35.0",
+        "si%sinker %": "13.4",
         "fc%cutter %": "6.8",
-        "fs%splitter %": "1.4",
-        "ch%changeup %": "12.7",
-        "sl%slider %": "20.1",
+        "fs%splitter %": "1.5",
+        "ch%changeup %": "12.6",
+        "sl%slider %": "20.2",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "204",
         "hh%hard hit %": "44.0",
         "brlbarrels": "39",
         "brl%barrel %": "8.4",
-        "ab": "588",
-        "avg": ".241",
+        "ab": "587",
+        "avg": ".242",
         "h": "142",
         "1b": "98",
         "2b": "19",
         "3b": "1",
         "hr": "24",
-        "so": "142",
+        "so": "143",
         "bipballs in play": "464",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-24 21:32:50.258240"
+        "updated": "2025-06-24 21:33:00.493822"
     },
     "tex @ bal": [
         {
@@ -1183,10 +1183,10 @@
             "team": "ath",
             "start": "6:40 PM",
             "in": "6",
-            "result": "Mound Visit",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "In Progress",
+            "evo": "105.0",
+            "la": "14",
+            "dist": "278"
         },
         {
             "player": "max muncy",
@@ -3092,7 +3092,7 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4917,6 +4917,21 @@
     ],
     "tb @ kc": [
         {
+            "player": "junior caminero",
+            "game": "tb @ kc",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-06-24 21:30:38",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jac caglianone",
             "game": "tb @ kc",
             "hr/park": "",
@@ -6555,21 +6570,6 @@
         }
     ],
     "ari @ chw": [
-        {
-            "player": "jose herrera",
-            "game": "ari @ chw",
-            "hr/park": "",
-            "pa": "51",
-            "dt": "2025-06-24 21:30:38",
-            "img": "https://www.mlbstatic.com/team-logos/109.svg",
-            "team": "ari",
-            "start": "7:40 PM",
-            "in": "7",
-            "result": "Stolen Base 2B",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "alek thomas",
             "game": "ari @ chw",
@@ -8931,21 +8931,6 @@
         }
     ],
     "phi @ hou": [
-        {
-            "player": "edmundo sosa",
-            "game": "phi @ hou",
-            "hr/park": "",
-            "pa": "40",
-            "dt": "2025-06-24 21:30:38",
-            "img": "https://www.mlbstatic.com/team-logos/143.svg",
-            "team": "phi",
-            "start": "8:10 PM",
-            "in": "6",
-            "result": "GIDP",
-            "evo": "107.3",
-            "la": "-15",
-            "dist": "9"
-        },
         {
             "player": "otto kemp",
             "game": "phi @ hou",
