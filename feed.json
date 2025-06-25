@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "40",
         "batters": "154",
-        "pitches": "1501",
+        "pitches": "1506",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "38.1",
-        "si%sinker %": "7.9",
-        "fc%cutter %": "5.3",
+        "si%sinker %": "7.8",
+        "fc%cutter %": "5.2",
         "fs%splitter %": "1.7",
         "ch%changeup %": "9.6",
         "sl%slider %": "23.4",
         "cu%curve %": "14.1",
         "max evmax exit velocity": "110.9",
         "hhhard hit": "95",
-        "hh%hard hit %": "37.3",
+        "hh%hard hit %": "37.1",
         "brlbarrels": "20",
         "brl%barrel %": "7.8",
         "ab": "352",
@@ -24,11 +24,11 @@
         "2b": "11",
         "3b": "0",
         "hr": "9",
-        "so": "98",
-        "bipballs in play": "255",
+        "so": "99",
+        "bipballs in play": "256",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-25 19:35:55.261440"
+        "updated": "2025-06-25 19:36:04.537908"
     },
     "ari @ chw": [
         {
@@ -4159,7 +4159,7 @@
             "team": "tex",
             "start": "6:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4602,6 +4602,21 @@
     ],
     "ath @ det": [
         {
+            "player": "luis urias",
+            "game": "ath @ det",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-06-25 19:36:00",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyler soderstrom",
             "game": "ath @ det",
             "hr/park": "",
@@ -4611,7 +4626,7 @@
             "team": "ath",
             "start": "6:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5598,6 +5613,21 @@
     ],
     "nyy @ cin": [
         {
+            "player": "trent grisham",
+            "game": "nyy @ cin",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-06-25 19:36:00",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "91.1",
+            "la": "10",
+            "dist": "154"
+        },
+        {
             "player": "dj lemahieu",
             "game": "nyy @ cin",
             "hr/park": "",
@@ -5607,7 +5637,7 @@
             "team": "nyy",
             "start": "7:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
