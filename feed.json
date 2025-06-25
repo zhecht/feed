@@ -1,51 +1,36 @@
 {
     "all": {
         "pitchers": "29",
-        "batters": "194",
-        "pitches": "1437",
+        "batters": "195",
+        "pitches": "1441",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "71.6",
-        "ff%fourseam fastball %": "40.3",
+        "ff%fourseam fastball %": "40.2",
         "si%sinker %": "10.1",
-        "fc%cutter %": "6.3",
+        "fc%cutter %": "6.5",
         "fs%splitter %": "0.6",
         "ch%changeup %": "12.5",
         "sl%slider %": "20.1",
-        "cu%curve %": "10.0",
+        "cu%curve %": "9.9",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "120",
-        "hh%hard hit %": "45.5",
-        "brlbarrels": "24",
-        "brl%barrel %": "9.1",
-        "ab": "333",
-        "avg": ".240",
-        "h": "80",
-        "1b": "59",
+        "hh%hard hit %": "45.3",
+        "brlbarrels": "23",
+        "brl%barrel %": "8.7",
+        "ab": "335",
+        "avg": ".242",
+        "h": "81",
+        "1b": "60",
         "2b": "7",
         "3b": "1",
         "hr": "13",
-        "so": "77",
-        "bipballs in play": "264",
+        "so": "78",
+        "bipballs in play": "265",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-24 20:38:45.778205"
+        "updated": "2025-06-24 20:38:54.870501"
     },
     "tex @ bal": [
-        {
-            "player": "gunnar henderson",
-            "game": "tex @ bal",
-            "hr/park": "",
-            "pa": "56",
-            "dt": "2025-06-24 20:37:37",
-            "img": "https://www.mlbstatic.com/team-logos/110.svg",
-            "team": "bal",
-            "start": "6:35 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "ramon laureano",
             "game": "tex @ bal",
@@ -874,6 +859,21 @@
     ],
     "ath @ det": [
         {
+            "player": "nick kurtz",
+            "game": "ath @ det",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-06-24 20:38:53",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brent rooker",
             "game": "ath @ det",
             "hr/park": "",
@@ -883,7 +883,7 @@
             "team": "ath",
             "start": "6:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "82.0",
             "la": "69",
             "dist": "144"
@@ -2063,6 +2063,21 @@
     ],
     "atl @ nym": [
         {
+            "player": "brandon nimmo",
+            "game": "atl @ nym",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-06-24 20:38:53",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "francisco lindor",
             "game": "atl @ nym",
             "hr/park": "",
@@ -2072,7 +2087,7 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3689,34 +3704,19 @@
     ],
     "sea @ min": [
         {
-            "player": "byron buxton",
-            "game": "sea @ min",
-            "hr/park": "",
-            "pa": "27",
-            "dt": "2025-06-24 20:38:23",
-            "img": "https://www.mlbstatic.com/team-logos/142.svg",
-            "team": "min",
-            "start": "7:40 PM",
-            "in": "3",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "harrison bader",
             "game": "sea @ min",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "26",
             "dt": "2025-06-24 20:35:23",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "start": "7:40 PM",
             "in": "3",
-            "result": "Flyout",
-            "evo": "100.5",
-            "la": "31",
-            "dist": "374"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "ryan jeffers",
@@ -4503,6 +4503,21 @@
     ],
     "pit @ mil": [
         {
+            "player": "brice turang",
+            "game": "pit @ mil",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-06-24 20:38:53",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "Single",
+            "evo": "103.6",
+            "la": "6",
+            "dist": "152"
+        },
+        {
             "player": "william contreras",
             "game": "pit @ mil",
             "hr/park": "",
@@ -4512,7 +4527,7 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "101.8",
             "la": "56",
             "dist": "253"
@@ -4964,7 +4979,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5361,6 +5376,21 @@
         }
     ],
     "phi @ hou": [
+        {
+            "player": "cam smith",
+            "game": "phi @ hou",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-06-24 20:37:54",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jake meyers",
             "game": "phi @ hou",
