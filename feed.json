@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "59",
         "batters": "224",
-        "pitches": "2307",
+        "pitches": "2327",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "71.6",
         "ff%fourseam fastball %": "36.1",
-        "si%sinker %": "12.1",
+        "si%sinker %": "12.0",
         "fc%cutter %": "6.3",
         "fs%splitter %": "1.4",
-        "ch%changeup %": "13.0",
+        "ch%changeup %": "12.9",
         "sl%slider %": "20.6",
         "cu%curve %": "10.4",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "190",
-        "hh%hard hit %": "44.9",
+        "hh%hard hit %": "44.6",
         "brlbarrels": "38",
-        "brl%barrel %": "9.0",
-        "ab": "529",
+        "brl%barrel %": "8.9",
+        "ab": "532",
         "avg": ".250",
-        "h": "132",
-        "1b": "89",
+        "h": "133",
+        "1b": "90",
         "2b": "19",
         "3b": "1",
         "hr": "23",
         "so": "127",
-        "bipballs in play": "423",
+        "bipballs in play": "426",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-24 21:20:31.268547"
+        "updated": "2025-06-24 21:20:41.148845"
     },
     "tex @ bal": [
         {
@@ -1731,6 +1731,21 @@
     ],
     "tor @ cle": [
         {
+            "player": "daniel schneemann",
+            "game": "tor @ cle",
+            "hr/park": "",
+            "pa": "75",
+            "dt": "2025-06-24 21:18:39",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "carlos santana",
             "game": "tor @ cle",
             "hr/park": "",
@@ -1740,10 +1755,10 @@
             "team": "cle",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "90.5",
+            "la": "16",
+            "dist": "222"
         },
         {
             "player": "nathan lukes",
@@ -4527,6 +4542,36 @@
     ],
     "tb @ kc": [
         {
+            "player": "curtis mead",
+            "game": "tb @ kc",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-06-24 21:18:09",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "Pop Out",
+            "evo": "72.0",
+            "la": "65",
+            "dist": "141"
+        },
+        {
+            "player": "yandy diaz",
+            "game": "tb @ kc",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-06-24 21:17:09",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "82.7",
+            "la": "-33",
+            "dist": "6"
+        },
+        {
             "player": "chandler simpson",
             "game": "tb @ kc",
             "hr/park": "",
@@ -5244,9 +5289,9 @@
             "start": "7:40 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "96.0",
-            "la": "32",
-            "dist": "365"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "matt wallner",
@@ -6010,7 +6055,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "73.2",
             "la": "56",
             "dist": "185"
@@ -6702,10 +6747,10 @@
             "team": "pit",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "99.1",
+            "la": "2",
+            "dist": "62"
         },
         {
             "player": "spencer horwitz",
