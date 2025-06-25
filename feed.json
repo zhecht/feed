@@ -1,13 +1,13 @@
 {
     "all": {
         "pitchers": "113",
-        "batters": "283",
-        "pitches": "3639",
+        "batters": "285",
+        "pitches": "3643",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "34.9",
         "si%sinker %": "13.5",
-        "fc%cutter %": "7.0",
+        "fc%cutter %": "7.1",
         "fs%splitter %": "1.9",
         "ch%changeup %": "12.2",
         "sl%slider %": "20.4",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "41.1",
         "brlbarrels": "52",
         "brl%barrel %": "7.7",
-        "ab": "834",
-        "avg": ".242",
+        "ab": "837",
+        "avg": ".241",
         "h": "202",
         "1b": "140",
         "2b": "32",
         "3b": "2",
         "hr": "28",
         "so": "198",
-        "bipballs in play": "671",
+        "bipballs in play": "672",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-24 22:20:03.042585"
+        "updated": "2025-06-24 22:20:15.364731"
     },
     "tex @ bal": [
         {
@@ -3652,6 +3652,21 @@
         }
     ],
     "atl @ nym": [
+        {
+            "player": "ronny mauricio",
+            "game": "atl @ nym",
+            "hr/park": "",
+            "pa": "80",
+            "dt": "2025-06-24 22:20:09",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brett baty",
             "game": "atl @ nym",
@@ -13273,7 +13288,7 @@
         {
             "player": "roman anthony",
             "game": "bos @ laa",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "18",
             "dt": "2025-06-24 22:18:24",
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
@@ -13859,6 +13874,36 @@
         }
     ],
     "mia @ sf": [
+        {
+            "player": "willy adames",
+            "game": "mia @ sf",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-06-24 22:20:09",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "9:45 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jung hoo lee",
+            "game": "mia @ sf",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-06-24 22:20:09",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "9:45 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "87.9",
+            "la": "40",
+            "dist": "296"
+        },
         {
             "player": "dane myers",
             "game": "mia @ sf",
