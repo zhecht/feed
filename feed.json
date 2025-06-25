@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "122",
         "batters": "293",
-        "pitches": "4002",
+        "pitches": "4004",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "34.9",
+        "ff%fourseam fastball %": "35.0",
         "si%sinker %": "13.9",
         "fc%cutter %": "7.3",
         "fs%splitter %": "2.1",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.1",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "299",
-        "hh%hard hit %": "40.1",
+        "hh%hard hit %": "39.9",
         "brlbarrels": "58",
-        "brl%barrel %": "7.8",
-        "ab": "926",
-        "avg": ".243",
-        "h": "225",
-        "1b": "156",
+        "brl%barrel %": "7.7",
+        "ab": "928",
+        "avg": ".244",
+        "h": "226",
+        "1b": "157",
         "2b": "38",
         "3b": "2",
         "hr": "29",
         "so": "219",
-        "bipballs in play": "746",
+        "bipballs in play": "749",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-24 23:05:35.961232"
+        "updated": "2025-06-24 23:05:48.110834"
     },
     "tex @ bal": [
         {
@@ -13775,10 +13775,10 @@
             "team": "bos",
             "start": "9:38 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "94.2",
+            "la": "39",
+            "dist": "316"
         },
         {
             "player": "romy gonzalez",
@@ -14352,6 +14352,36 @@
         }
     ],
     "wsh @ sd": [
+        {
+            "player": "jackson merrill",
+            "game": "wsh @ sd",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-06-24 23:05:42",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "5",
+            "result": "Single",
+            "evo": "79.8",
+            "la": "15",
+            "dist": "162"
+        },
+        {
+            "player": "fernando tatis",
+            "game": "wsh @ sd",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-06-24 23:04:26",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "80.4",
+            "la": "41",
+            "dist": "268"
+        },
         {
             "player": "martin maldonado",
             "game": "wsh @ sd",
