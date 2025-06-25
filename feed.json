@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "102",
-        "batters": "268",
-        "pitches": "3348",
+        "batters": "269",
+        "pitches": "3356",
         "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "34.6",
+        "ff%fourseam fastball %": "34.5",
         "si%sinker %": "13.9",
         "fc%cutter %": "7.1",
-        "fs%splitter %": "1.9",
+        "fs%splitter %": "1.8",
         "ch%changeup %": "12.3",
         "sl%slider %": "19.9",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "256",
-        "hh%hard hit %": "41.6",
+        "hhhard hit": "255",
+        "hh%hard hit %": "41.3",
         "brlbarrels": "48",
         "brl%barrel %": "7.8",
-        "ab": "769",
-        "avg": ".239",
-        "h": "184",
-        "1b": "129",
+        "ab": "772",
+        "avg": ".240",
+        "h": "185",
+        "1b": "130",
         "2b": "28",
         "3b": "1",
         "hr": "26",
         "so": "180",
-        "bipballs in play": "616",
+        "bipballs in play": "618",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-24 22:05:04.504770"
+        "updated": "2025-06-24 22:05:16.201058"
     },
     "tex @ bal": [
         {
@@ -3572,10 +3572,10 @@
             "team": "atl",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "91.5",
+            "la": "17",
+            "dist": "272"
         },
         {
             "player": "ozzie albies",
@@ -4674,6 +4674,21 @@
         }
     ],
     "nyy @ cin": [
+        {
+            "player": "tj friedl",
+            "game": "nyy @ cin",
+            "hr/park": "",
+            "pa": "76",
+            "dt": "2025-06-24 22:05:08",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "10",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "santiago espinal",
             "game": "nyy @ cin",
@@ -6879,9 +6894,9 @@
             "start": "7:40 PM",
             "in": "9",
             "result": "In Progress",
-            "evo": "98.6",
-            "la": "40",
-            "dist": "336"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "jp crawford",
@@ -7945,7 +7960,7 @@
             "team": "ari",
             "start": "7:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9959,7 +9974,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "8",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "86.9",
             "la": "4",
             "dist": "81"
@@ -11814,6 +11829,21 @@
     ],
     "lad @ col": [
         {
+            "player": "andy pages",
+            "game": "lad @ col",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-06-24 22:05:08",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "8:40 PM",
+            "in": "5",
+            "result": "Single",
+            "evo": "62.8",
+            "la": "35",
+            "dist": "192"
+        },
+        {
             "player": "teoscar hernandez",
             "game": "lad @ col",
             "hr/park": "",
@@ -12657,6 +12687,36 @@
         }
     ],
     "wsh @ sd": [
+        {
+            "player": "cj abrams",
+            "game": "wsh @ sd",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-06-24 22:04:10",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "9:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jacob young",
+            "game": "wsh @ sd",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-06-24 22:03:11",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "9:40 PM",
+            "in": "2",
+            "result": "Sac Bunt",
+            "evo": "29.2",
+            "la": "-23",
+            "dist": "7"
+        },
         {
             "player": "riley adams",
             "game": "wsh @ sd",
