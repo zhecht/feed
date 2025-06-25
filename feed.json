@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "94",
-        "batters": "252",
-        "pitches": "3129",
+        "batters": "253",
+        "pitches": "3141",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "34.9",
@@ -13,22 +13,22 @@
         "sl%slider %": "19.9",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "244",
-        "hh%hard hit %": "43.0",
+        "hhhard hit": "245",
+        "hh%hard hit %": "42.8",
         "brlbarrels": "47",
-        "brl%barrel %": "8.3",
-        "ab": "718",
-        "avg": ".237",
-        "h": "170",
-        "1b": "117",
+        "brl%barrel %": "8.2",
+        "ab": "719",
+        "avg": ".238",
+        "h": "171",
+        "1b": "118",
         "2b": "26",
         "3b": "1",
         "hr": "26",
         "so": "171",
-        "bipballs in play": "567",
+        "bipballs in play": "572",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-24 21:55:44.374708"
+        "updated": "2025-06-24 21:55:55.876295"
     },
     "tex @ bal": [
         {
@@ -1273,10 +1273,10 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "87.8",
+            "la": "22",
+            "dist": "276"
         },
         {
             "player": "gleyber torres",
@@ -4495,21 +4495,6 @@
     ],
     "nyy @ cin": [
         {
-            "player": "ben rice",
-            "game": "nyy @ cin",
-            "hr/park": "",
-            "pa": "73",
-            "dt": "2025-06-24 21:54:53",
-            "img": "https://www.mlbstatic.com/team-logos/147.svg",
-            "team": "nyy",
-            "start": "7:10 PM",
-            "in": "10",
-            "result": "Mound Visit",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "trent grisham",
             "game": "nyy @ cin",
             "hr/park": "",
@@ -5601,10 +5586,10 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "72.8",
+            "la": "-44",
+            "dist": "3"
         },
         {
             "player": "junior caminero",
@@ -7600,7 +7585,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8538,6 +8523,21 @@
     ],
     "pit @ mil": [
         {
+            "player": "nick gonzales",
+            "game": "pit @ mil",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-06-24 21:54:53",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "Flyout",
+            "evo": "90.5",
+            "la": "44",
+            "dist": "287"
+        },
+        {
             "player": "bryan reynolds",
             "game": "pit @ mil",
             "hr/park": "",
@@ -8547,10 +8547,10 @@
             "team": "pit",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "97.6",
+            "la": "7",
+            "dist": "124"
         },
         {
             "player": "andrew mccutchen",
@@ -10447,6 +10447,21 @@
     ],
     "phi @ hou": [
         {
+            "player": "cam smith",
+            "game": "phi @ hou",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-06-24 21:55:54",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jake meyers",
             "game": "phi @ hou",
             "hr/park": "",
@@ -11908,6 +11923,21 @@
     ],
     "wsh @ sd": [
         {
+            "player": "luis arraez",
+            "game": "wsh @ sd",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-06-24 21:55:54",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "Single",
+            "evo": "88.2",
+            "la": "15",
+            "dist": "217"
+        },
+        {
             "player": "manny machado",
             "game": "wsh @ sd",
             "hr/park": "",
@@ -12039,7 +12069,7 @@
             "team": "sf",
             "start": "9:45 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
