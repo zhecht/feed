@@ -2,35 +2,50 @@
     "all": {
         "pitchers": "97",
         "batters": "254",
-        "pitches": "3180",
+        "pitches": "3192",
         "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "35.0",
-        "si%sinker %": "14.1",
-        "fc%cutter %": "6.9",
+        "si%sinker %": "14.0",
+        "fc%cutter %": "7.0",
         "fs%splitter %": "1.8",
         "ch%changeup %": "12.5",
-        "sl%slider %": "19.9",
+        "sl%slider %": "19.8",
         "cu%curve %": "9.8",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "245",
+        "hhhard hit": "246",
         "hh%hard hit %": "42.5",
         "brlbarrels": "47",
-        "brl%barrel %": "8.2",
+        "brl%barrel %": "8.1",
         "ab": "729",
-        "avg": ".236",
-        "h": "172",
-        "1b": "119",
+        "avg": ".237",
+        "h": "173",
+        "1b": "120",
         "2b": "26",
         "3b": "1",
         "hr": "26",
         "so": "172",
-        "bipballs in play": "576",
+        "bipballs in play": "579",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-24 21:57:28.560025"
+        "updated": "2025-06-24 21:57:40.324686"
     },
     "tex @ bal": [
+        {
+            "player": "dylan carlson",
+            "game": "tex @ bal",
+            "hr/park": "",
+            "pa": "84",
+            "dt": "2025-06-24 21:57:38",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:35 PM",
+            "in": "10",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "cedric mullins",
             "game": "tex @ bal",
@@ -41,7 +56,7 @@
             "team": "bal",
             "start": "6:35 PM",
             "in": "10",
-            "result": "In Progress",
+            "result": "Sac Bunt",
             "evo": "24.8",
             "la": "-8",
             "dist": "13"
@@ -1288,10 +1303,10 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "104.3",
+            "la": "5",
+            "dist": "131"
         },
         {
             "player": "jahmai jones",
@@ -3497,10 +3512,10 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Groundout",
+            "evo": "86.5",
             "la": "",
-            "dist": ""
+            "dist": "37"
         },
         {
             "player": "brandon nimmo",
@@ -6683,10 +6698,10 @@
             "team": "sea",
             "start": "7:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "94.1",
+            "la": "7",
+            "dist": "134"
         },
         {
             "player": "ty france",
@@ -7681,6 +7696,21 @@
     ],
     "ari @ chw": [
         {
+            "player": "miguel vargas",
+            "game": "ari @ chw",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-06-24 21:57:09",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andrew benintendi",
             "game": "ari @ chw",
             "hr/park": "",
@@ -7690,7 +7720,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
