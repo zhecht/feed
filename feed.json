@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "62",
         "batters": "226",
-        "pitches": "2495",
+        "pitches": "2497",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "71.6",
         "ff%fourseam fastball %": "35.5",
         "si%sinker %": "13.2",
         "fc%cutter %": "6.6",
         "fs%splitter %": "1.4",
-        "ch%changeup %": "12.7",
-        "sl%slider %": "20.1",
-        "cu%curve %": "10.3",
+        "ch%changeup %": "12.8",
+        "sl%slider %": "20.0",
+        "cu%curve %": "10.4",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "198",
-        "hh%hard hit %": "43.9",
+        "hh%hard hit %": "43.7",
         "brlbarrels": "39",
         "brl%barrel %": "8.6",
-        "ab": "571",
-        "avg": ".243",
-        "h": "139",
-        "1b": "95",
+        "ab": "573",
+        "avg": ".244",
+        "h": "140",
+        "1b": "96",
         "2b": "19",
         "3b": "1",
         "hr": "24",
-        "so": "140",
-        "bipballs in play": "451",
+        "so": "138",
+        "bipballs in play": "453",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-24 21:28:58.400492"
+        "updated": "2025-06-24 21:29:08.516880"
     },
     "tex @ bal": [
         {
@@ -41,7 +41,7 @@
             "team": "tex",
             "start": "6:35 PM",
             "in": "9",
-            "result": "Strikeout",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1143,6 +1143,21 @@
         }
     ],
     "ath @ det": [
+        {
+            "player": "max muncy",
+            "game": "ath @ det",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-06-24 21:28:22",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "austin wynns",
             "game": "ath @ det",
@@ -3865,6 +3880,21 @@
     ],
     "nyy @ cin": [
         {
+            "player": "tyler stephenson",
+            "game": "nyy @ cin",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-06-24 21:29:08",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "spencer steer",
             "game": "nyy @ cin",
             "hr/park": "",
@@ -3874,7 +3904,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "75.2",
             "la": "29",
             "dist": "238"
@@ -4782,21 +4812,6 @@
     ],
     "tb @ kc": [
         {
-            "player": "jac caglianone",
-            "game": "tb @ kc",
-            "hr/park": "",
-            "pa": "53",
-            "dt": "2025-06-24 21:27:53",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "start": "7:40 PM",
-            "in": "7",
-            "result": "Strikeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "salvador perez",
             "game": "tb @ kc",
             "hr/park": "",
@@ -5578,6 +5593,21 @@
         }
     ],
     "sea @ min": [
+        {
+            "player": "jp crawford",
+            "game": "sea @ min",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-06-24 21:29:08",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "69.2",
+            "la": "-54",
+            "dist": "2"
+        },
         {
             "player": "ryan jeffers",
             "game": "sea @ min",
@@ -6385,10 +6415,10 @@
             "team": "ari",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Field Error",
+            "evo": "50.9",
+            "la": "-10",
+            "dist": "12"
         },
         {
             "player": "randal grichuk",
@@ -7904,7 +7934,7 @@
             "team": "chc",
             "start": "7:45 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "46.8",
             "la": "66",
             "dist": "77"
@@ -8686,7 +8716,7 @@
             "team": "phi",
             "start": "8:10 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
