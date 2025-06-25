@@ -2,35 +2,50 @@
     "all": {
         "pitchers": "41",
         "batters": "213",
-        "pitches": "1904",
+        "pitches": "1916",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "71.6",
         "ff%fourseam fastball %": "38.3",
-        "si%sinker %": "10.8",
-        "fc%cutter %": "6.5",
+        "si%sinker %": "10.9",
+        "fc%cutter %": "6.4",
         "fs%splitter %": "0.8",
-        "ch%changeup %": "13.3",
-        "sl%slider %": "20.2",
-        "cu%curve %": "9.9",
+        "ch%changeup %": "13.4",
+        "sl%slider %": "20.1",
+        "cu%curve %": "10.0",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "156",
-        "hh%hard hit %": "45.5",
-        "brlbarrels": "33",
-        "brl%barrel %": "9.6",
-        "ab": "433",
-        "avg": ".249",
+        "hhhard hit": "157",
+        "hh%hard hit %": "45.4",
+        "brlbarrels": "34",
+        "brl%barrel %": "9.8",
+        "ab": "437",
+        "avg": ".247",
         "h": "108",
         "1b": "71",
         "2b": "15",
         "3b": "1",
         "hr": "21",
         "so": "103",
-        "bipballs in play": "343",
+        "bipballs in play": "346",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-24 21:00:34.665442"
+        "updated": "2025-06-24 21:00:44.118472"
     },
     "tex @ bal": [
+        {
+            "player": "kyle higashioka",
+            "game": "tex @ bal",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-06-24 21:00:37",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "6:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "sam haggerty",
             "game": "tex @ bal",
@@ -979,6 +994,21 @@
     ],
     "ath @ det": [
         {
+            "player": "max muncy",
+            "game": "ath @ det",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-06-24 21:00:37",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trey sweeney",
             "game": "ath @ det",
             "hr/park": "",
@@ -988,10 +1018,10 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "80.5",
+            "la": "65",
+            "dist": "174"
         },
         {
             "player": "dillon dingler",
@@ -2452,21 +2482,6 @@
         }
     ],
     "atl @ nym": [
-        {
-            "player": "michael harris",
-            "game": "atl @ nym",
-            "hr/park": "",
-            "pa": "47",
-            "dt": "2025-06-24 20:59:53",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "7:10 PM",
-            "in": "6",
-            "result": "Hit By Pitch",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "eli white",
             "game": "atl @ nym",
@@ -5086,6 +5101,21 @@
     ],
     "ari @ chw": [
         {
+            "player": "mike tauchman",
+            "game": "ari @ chw",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-06-24 21:00:37",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael a taylor",
             "game": "ari @ chw",
             "hr/park": "",
@@ -6245,11 +6275,11 @@
     ],
     "chc @ stl": [
         {
-            "player": "alec burleson",
+            "player": "willson contreras",
             "game": "chc @ stl",
             "hr/park": "",
-            "pa": "38",
-            "dt": "2025-06-24 20:59:10",
+            "pa": "39",
+            "dt": "2025-06-24 21:00:37",
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
             "team": "stl",
             "start": "7:45 PM",
@@ -6258,6 +6288,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "alec burleson",
+            "game": "chc @ stl",
+            "hr/park": "1/30",
+            "pa": "38",
+            "dt": "2025-06-24 20:59:10",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "4",
+            "result": "Sac Fly",
+            "evo": "102.9",
+            "la": "26",
+            "dist": "402"
         },
         {
             "player": "masyn winn",
@@ -6817,6 +6862,21 @@
     ],
     "phi @ hou": [
         {
+            "player": "johan rojas",
+            "game": "phi @ hou",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-06-24 20:59:10",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "buddy kennedy",
             "game": "phi @ hou",
             "hr/park": "",
@@ -6826,10 +6886,10 @@
             "team": "phi",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Fielders Choice Out",
+            "evo": "82.2",
+            "la": "-22",
+            "dist": "7"
         },
         {
             "player": "edmundo sosa",
