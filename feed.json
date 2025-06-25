@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "28",
-        "batters": "190",
-        "pitches": "1334",
+        "batters": "191",
+        "pitches": "1342",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "72.3",
-        "ff%fourseam fastball %": "40.6",
-        "si%sinker %": "9.7",
+        "ff%fourseam fastball %": "40.4",
+        "si%sinker %": "9.9",
         "fc%cutter %": "6.3",
         "fs%splitter %": "0.6",
         "ch%changeup %": "12.4",
-        "sl%slider %": "20.3",
+        "sl%slider %": "20.2",
         "cu%curve %": "10.0",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "109",
-        "hh%hard hit %": "44.7",
+        "hh%hard hit %": "44.5",
         "brlbarrels": "22",
         "brl%barrel %": "9.0",
         "ab": "308",
@@ -24,11 +24,11 @@
         "2b": "7",
         "3b": "1",
         "hr": "12",
-        "so": "74",
-        "bipballs in play": "244",
+        "so": "75",
+        "bipballs in play": "245",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-24 20:33:50.930200"
+        "updated": "2025-06-24 20:33:59.942287"
     },
     "tex @ bal": [
         {
@@ -853,7 +853,7 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2547,7 +2547,7 @@
         {
             "player": "santiago espinal",
             "game": "nyy @ cin",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "39",
             "dt": "2025-06-24 20:33:23",
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
@@ -3881,9 +3881,9 @@
             "start": "7:40 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "86.5",
+            "la": "64",
+            "dist": "170"
         },
         {
             "player": "lourdes gurriel",
@@ -5016,6 +5016,21 @@
         }
     ],
     "phi @ hou": [
+        {
+            "player": "johan rojas",
+            "game": "phi @ hou",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-06-24 20:32:53",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "buddy kennedy",
             "game": "phi @ hou",
