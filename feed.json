@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "80",
         "batters": "235",
-        "pitches": "2859",
+        "pitches": "2871",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "34.9",
-        "si%sinker %": "13.7",
+        "ff%fourseam fastball %": "34.8",
+        "si%sinker %": "13.8",
         "fc%cutter %": "6.8",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "12.7",
+        "ch%changeup %": "12.8",
         "sl%slider %": "19.7",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "226",
-        "hh%hard hit %": "43.5",
-        "brlbarrels": "43",
-        "brl%barrel %": "8.3",
+        "hhhard hit": "227",
+        "hh%hard hit %": "43.6",
+        "brlbarrels": "44",
+        "brl%barrel %": "8.4",
         "ab": "656",
-        "avg": ".242",
-        "h": "159",
+        "avg": ".244",
+        "h": "160",
         "1b": "110",
         "2b": "23",
         "3b": "1",
-        "hr": "25",
-        "so": "158",
-        "bipballs in play": "519",
+        "hr": "26",
+        "so": "159",
+        "bipballs in play": "521",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-24 21:45:12.232019"
+        "updated": "2025-06-24 21:45:22.994390"
     },
     "tex @ bal": [
         {
@@ -2016,6 +2016,21 @@
     ],
     "tor @ cle": [
         {
+            "player": "kyle manzardo",
+            "game": "tor @ cle",
+            "hr/park": "",
+            "pa": "86",
+            "dt": "2025-06-24 21:45:23",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "Home Run",
+            "evo": "101.7",
+            "la": "31",
+            "dist": "380"
+        },
+        {
             "player": "jose ramirez",
             "game": "tor @ cle",
             "hr/park": "",
@@ -3302,7 +3317,7 @@
             "team": "atl",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4309,10 +4324,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "77.9",
+            "la": "4",
+            "dist": "70"
         },
         {
             "player": "anthony volpe",
@@ -6248,7 +6263,7 @@
             "team": "sea",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7170,6 +7185,21 @@
         }
     ],
     "ari @ chw": [
+        {
+            "player": "pavin smith",
+            "game": "ari @ chw",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-24 21:44:38",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "michael a taylor",
             "game": "ari @ chw",
@@ -8885,6 +8915,21 @@
     ],
     "chc @ stl": [
         {
+            "player": "pete crow armstrong",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-06-24 21:45:23",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:45 PM",
+            "in": "7",
+            "result": "Sac Bunt",
+            "evo": "23.5",
+            "la": "-17",
+            "dist": "7"
+        },
+        {
             "player": "seiya suzuki",
             "game": "chc @ stl",
             "hr/park": "",
@@ -9771,21 +9816,6 @@
         }
     ],
     "phi @ hou": [
-        {
-            "player": "buddy kennedy",
-            "game": "phi @ hou",
-            "hr/park": "",
-            "pa": "46",
-            "dt": "2025-06-24 21:44:24",
-            "img": "https://www.mlbstatic.com/team-logos/143.svg",
-            "team": "phi",
-            "start": "8:10 PM",
-            "in": "7",
-            "result": "Groundout",
-            "evo": "76.2",
-            "la": "7",
-            "dist": "88"
-        },
         {
             "player": "isaac paredes",
             "game": "phi @ hou",
@@ -10985,7 +11015,7 @@
             "team": "bos",
             "start": "9:38 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
