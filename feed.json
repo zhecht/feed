@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "28",
+        "pitchers": "29",
         "batters": "193",
-        "pitches": "1370",
+        "pitches": "1375",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "72.3",
         "ff%fourseam fastball %": "40.4",
-        "si%sinker %": "9.9",
+        "si%sinker %": "10.0",
         "fc%cutter %": "6.3",
         "fs%splitter %": "0.6",
-        "ch%changeup %": "12.5",
-        "sl%slider %": "20.3",
+        "ch%changeup %": "12.4",
+        "sl%slider %": "20.4",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "115",
-        "hh%hard hit %": "45.6",
+        "hhhard hit": "114",
+        "hh%hard hit %": "44.9",
         "brlbarrels": "22",
         "brl%barrel %": "8.7",
-        "ab": "316",
-        "avg": ".241",
-        "h": "76",
-        "1b": "56",
+        "ab": "318",
+        "avg": ".242",
+        "h": "77",
+        "1b": "57",
         "2b": "7",
         "3b": "1",
         "hr": "12",
         "so": "76",
-        "bipballs in play": "252",
+        "bipballs in play": "254",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-24 20:35:50.716368"
+        "updated": "2025-06-24 20:35:59.914658"
     },
     "tex @ bal": [
+        {
+            "player": "ramon laureano",
+            "game": "tex @ bal",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-06-24 20:35:08",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "josh jung",
             "game": "tex @ bal",
@@ -844,21 +859,6 @@
     ],
     "ath @ det": [
         {
-            "player": "colt keith",
-            "game": "ath @ det",
-            "hr/park": "0/30",
-            "pa": "20",
-            "dt": "2025-06-24 20:34:52",
-            "img": "https://www.mlbstatic.com/team-logos/116.svg",
-            "team": "det",
-            "start": "6:40 PM",
-            "in": "2",
-            "result": "Flyout",
-            "evo": "104.0",
-            "la": "49",
-            "dist": "327"
-        },
-        {
             "player": "trey sweeney",
             "game": "ath @ det",
             "hr/park": "",
@@ -1146,21 +1146,6 @@
     ],
     "tor @ cle": [
         {
-            "player": "george springer",
-            "game": "tor @ cle",
-            "hr/park": "",
-            "pa": "57",
-            "dt": "2025-06-24 20:35:08",
-            "img": "https://www.mlbstatic.com/team-logos/141.svg",
-            "team": "tor",
-            "start": "6:40 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "alejandro kirk",
             "game": "tor @ cle",
             "hr/park": "",
@@ -1170,10 +1155,10 @@
             "team": "tor",
             "start": "6:40 PM",
             "in": "7",
-            "result": "Flyout",
-            "evo": "82.8",
-            "la": "51",
-            "dist": "238"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "vladimir guerrero",
@@ -2574,6 +2559,21 @@
         }
     ],
     "nyy @ cin": [
+        {
+            "player": "cody bellinger",
+            "game": "nyy @ cin",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-06-24 20:35:23",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "santiago espinal",
             "game": "nyy @ cin",
@@ -4774,6 +4774,36 @@
         }
     ],
     "chc @ stl": [
+        {
+            "player": "masyn winn",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-06-24 20:35:54",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "brendan donovan",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-06-24 20:35:08",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "3",
+            "result": "Single",
+            "evo": "90.1",
+            "la": "14",
+            "dist": "214"
+        },
         {
             "player": "dansby swanson",
             "game": "chc @ stl",
