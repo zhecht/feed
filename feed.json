@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "109",
+        "pitchers": "110",
         "batters": "275",
-        "pitches": "3503",
+        "pitches": "3508",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "34.6",
-        "si%sinker %": "13.6",
+        "si%sinker %": "13.7",
         "fc%cutter %": "7.2",
         "fs%splitter %": "2.0",
         "ch%changeup %": "12.2",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "41.1",
         "brlbarrels": "49",
         "brl%barrel %": "7.6",
-        "ab": "807",
+        "ab": "809",
         "avg": ".239",
         "h": "193",
         "1b": "135",
@@ -28,7 +28,7 @@
         "bipballs in play": "649",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-24 22:12:43.279367"
+        "updated": "2025-06-24 22:12:55.998435"
     },
     "tex @ bal": [
         {
@@ -4774,7 +4774,7 @@
             "team": "nyy",
             "start": "7:10 PM",
             "in": "11",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "100.1",
             "la": "-1",
             "dist": "50"
@@ -9168,6 +9168,21 @@
     ],
     "pit @ mil": [
         {
+            "player": "spencer horwitz",
+            "game": "pit @ mil",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-06-24 22:12:54",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jackson chourio",
             "game": "pit @ mil",
             "hr/park": "",
@@ -12219,6 +12234,21 @@
     ],
     "lad @ col": [
         {
+            "player": "ryan mcmahon",
+            "game": "lad @ col",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-06-24 22:12:54",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "thairo estrada",
             "game": "lad @ col",
             "hr/park": "",
@@ -13472,7 +13502,7 @@
         {
             "player": "eric wagaman",
             "game": "mia @ sf",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "10",
             "dt": "2025-06-24 22:07:38",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
