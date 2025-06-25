@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "78",
+        "pitchers": "79",
         "batters": "233",
-        "pitches": "2793",
+        "pitches": "2795",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "34.8",
@@ -10,13 +10,13 @@
         "fc%cutter %": "6.8",
         "fs%splitter %": "1.6",
         "ch%changeup %": "12.8",
-        "sl%slider %": "19.8",
+        "sl%slider %": "19.7",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "218",
-        "hh%hard hit %": "43.2",
-        "brlbarrels": "40",
-        "brl%barrel %": "7.9",
+        "hhhard hit": "219",
+        "hh%hard hit %": "43.3",
+        "brlbarrels": "41",
+        "brl%barrel %": "8.1",
         "ab": "642",
         "avg": ".240",
         "h": "154",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "24",
         "so": "154",
-        "bipballs in play": "505",
+        "bipballs in play": "506",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-24 21:42:15.862962"
+        "updated": "2025-06-24 21:42:26.919398"
     },
     "tex @ bal": [
         {
@@ -2016,11 +2016,11 @@
     ],
     "tor @ cle": [
         {
-            "player": "lane thomas",
+            "player": "jose ramirez",
             "game": "tor @ cle",
             "hr/park": "",
-            "pa": "84",
-            "dt": "2025-06-24 21:41:38",
+            "pa": "85",
+            "dt": "2025-06-24 21:42:23",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
             "team": "cle",
             "start": "6:40 PM",
@@ -2029,6 +2029,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "lane thomas",
+            "game": "tor @ cle",
+            "hr/park": "0/30",
+            "pa": "84",
+            "dt": "2025-06-24 21:41:38",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "Flyout",
+            "evo": "101.9",
+            "la": "25",
+            "dist": "395"
         },
         {
             "player": "bo bichette",
@@ -3287,7 +3302,7 @@
             "team": "atl",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5247,6 +5262,21 @@
     ],
     "tb @ kc": [
         {
+            "player": "drew waters",
+            "game": "tb @ kc",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-06-24 21:42:23",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "taylor walls",
             "game": "tb @ kc",
             "hr/park": "",
@@ -5256,10 +5286,10 @@
             "team": "tb",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "83.0",
+            "la": "61",
+            "dist": "182"
         },
         {
             "player": "danny jansen",
@@ -7878,21 +7908,6 @@
     ],
     "pit @ mil": [
         {
-            "player": "sal frelick",
-            "game": "pit @ mil",
-            "hr/park": "",
-            "pa": "57",
-            "dt": "2025-06-24 21:42:08",
-            "img": "https://www.mlbstatic.com/team-logos/158.svg",
-            "team": "mil",
-            "start": "7:40 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "joey ortiz",
             "game": "pit @ mil",
             "hr/park": "",
@@ -7902,10 +7917,10 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "7",
-            "result": "Groundout",
-            "evo": "82.7",
-            "la": "-46",
-            "dist": "2"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "oneil cruz",
