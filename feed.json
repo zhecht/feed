@@ -2,25 +2,25 @@
     "all": {
         "pitchers": "28",
         "batters": "192",
-        "pitches": "1356",
+        "pitches": "1360",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "72.3",
-        "ff%fourseam fastball %": "40.3",
-        "si%sinker %": "10.0",
-        "fc%cutter %": "6.3",
+        "ff%fourseam fastball %": "40.4",
+        "si%sinker %": "9.9",
+        "fc%cutter %": "6.2",
         "fs%splitter %": "0.6",
-        "ch%changeup %": "12.5",
+        "ch%changeup %": "12.4",
         "sl%slider %": "20.3",
-        "cu%curve %": "9.9",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "112",
-        "hh%hard hit %": "45.2",
+        "hhhard hit": "110",
+        "hh%hard hit %": "44.4",
         "brlbarrels": "22",
         "brl%barrel %": "8.9",
-        "ab": "313",
-        "avg": ".243",
-        "h": "76",
-        "1b": "56",
+        "ab": "315",
+        "avg": ".244",
+        "h": "77",
+        "1b": "57",
         "2b": "7",
         "3b": "1",
         "hr": "12",
@@ -28,9 +28,24 @@
         "bipballs in play": "248",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-24 20:35:04.683134"
+        "updated": "2025-06-24 20:35:13.820683"
     },
     "tex @ bal": [
+        {
+            "player": "ramon laureano",
+            "game": "tex @ bal",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-06-24 20:35:08",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "josh jung",
             "game": "tex @ bal",
@@ -844,21 +859,6 @@
     ],
     "ath @ det": [
         {
-            "player": "colt keith",
-            "game": "ath @ det",
-            "hr/park": "",
-            "pa": "20",
-            "dt": "2025-06-24 20:34:52",
-            "img": "https://www.mlbstatic.com/team-logos/116.svg",
-            "team": "det",
-            "start": "6:40 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "104.0",
-            "la": "49",
-            "dist": "327"
-        },
-        {
             "player": "trey sweeney",
             "game": "ath @ det",
             "hr/park": "",
@@ -1146,6 +1146,21 @@
     ],
     "tor @ cle": [
         {
+            "player": "george springer",
+            "game": "tor @ cle",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-24 20:35:08",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alejandro kirk",
             "game": "tor @ cle",
             "hr/park": "",
@@ -1155,10 +1170,10 @@
             "team": "tor",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "82.8",
+            "la": "51",
+            "dist": "238"
         },
         {
             "player": "vladimir guerrero",
@@ -1987,21 +2002,6 @@
         }
     ],
     "atl @ nym": [
-        {
-            "player": "matt olson",
-            "game": "atl @ nym",
-            "hr/park": "0/30",
-            "pa": "38",
-            "dt": "2025-06-24 20:33:08",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "7:10 PM",
-            "in": "5",
-            "result": "Flyout",
-            "evo": "96.6",
-            "la": "49",
-            "dist": "314"
-        },
         {
             "player": "ronald acuna",
             "game": "atl @ nym",
@@ -3916,6 +3916,21 @@
     ],
     "ari @ chw": [
         {
+            "player": "randal grichuk",
+            "game": "ari @ chw",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-06-24 20:34:07",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jake mccarthy",
             "game": "ari @ chw",
             "hr/park": "",
@@ -3925,7 +3940,7 @@
             "team": "ari",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "86.5",
             "la": "64",
             "dist": "170"
@@ -4729,6 +4744,21 @@
         }
     ],
     "chc @ stl": [
+        {
+            "player": "brendan donovan",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-06-24 20:35:08",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "3",
+            "result": "Single",
+            "evo": "90.1",
+            "la": "14",
+            "dist": "214"
+        },
         {
             "player": "dansby swanson",
             "game": "chc @ stl",
