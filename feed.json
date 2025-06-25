@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "36",
-        "batters": "109",
-        "pitches": "1222",
+        "batters": "111",
+        "pitches": "1225",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "74.9",
         "ff%fourseam fastball %": "39.3",
@@ -10,17 +10,17 @@
         "fc%cutter %": "4.5",
         "fs%splitter %": "2.0",
         "ch%changeup %": "8.9",
-        "sl%slider %": "24.5",
-        "cu%curve %": "14.6",
+        "sl%slider %": "24.4",
+        "cu%curve %": "14.7",
         "max evmax exit velocity": "110.9",
         "hhhard hit": "74",
         "hh%hard hit %": "36.5",
         "brlbarrels": "15",
         "brl%barrel %": "7.4",
-        "ab": "283",
-        "avg": ".201",
-        "h": "57",
-        "1b": "43",
+        "ab": "285",
+        "avg": ".204",
+        "h": "58",
+        "1b": "44",
         "2b": "8",
         "3b": "0",
         "hr": "6",
@@ -28,7 +28,7 @@
         "bipballs in play": "203",
         "liveGames": 7,
         "totGames": 15,
-        "updated": "2025-06-25 19:01:36.766283"
+        "updated": "2025-06-25 19:01:45.156822"
     },
     "ari @ chw": [
         {
@@ -4159,7 +4159,7 @@
             "team": "tex",
             "start": "6:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "100.8",
             "la": "-8",
             "dist": "19"
@@ -4332,6 +4332,21 @@
     ],
     "ath @ det": [
         {
+            "player": "willie maciver",
+            "game": "ath @ det",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-06-25 19:01:45",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "6:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis urias",
             "game": "ath @ det",
             "hr/park": "",
@@ -4341,7 +4356,7 @@
             "team": "ath",
             "start": "6:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "70.5",
             "la": "30",
             "dist": "247"
@@ -4499,6 +4514,21 @@
     ],
     "tor @ cle": [
         {
+            "player": "nathan lukes",
+            "game": "tor @ cle",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-06-25 19:01:45",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "6:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "george springer",
             "game": "tor @ cle",
             "hr/park": "",
@@ -4516,7 +4546,7 @@
         {
             "player": "alejandro kirk",
             "game": "tor @ cle",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "9",
             "dt": "2025-06-25 18:59:59",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
