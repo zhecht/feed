@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "19",
-        "batters": "120",
-        "pitches": "695",
+        "pitchers": "20",
+        "batters": "121",
+        "pitches": "704",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "73.8",
-        "ff%fourseam fastball %": "42.9",
-        "si%sinker %": "6.2",
-        "fc%cutter %": "8.3",
+        "ff%fourseam fastball %": "43.0",
+        "si%sinker %": "6.3",
+        "fc%cutter %": "8.2",
         "fs%splitter %": "0.4",
         "ch%changeup %": "11.4",
         "sl%slider %": "19.0",
-        "cu%curve %": "11.7",
+        "cu%curve %": "11.5",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "51",
         "hh%hard hit %": "45.5",
         "brlbarrels": "8",
         "brl%barrel %": "7.1",
-        "ab": "157",
-        "avg": ".210",
+        "ab": "159",
+        "avg": ".208",
         "h": "33",
         "1b": "26",
         "2b": "4",
@@ -28,7 +28,7 @@
         "bipballs in play": "112",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-24 20:01:29.714481"
+        "updated": "2025-06-24 20:01:38.259259"
     },
     "tex @ bal": [
         {
@@ -602,7 +602,23 @@
             "dist": ""
         }
     ],
-    "ath @ det": [],
+    "ath @ det": [
+        {
+            "player": "jacob wilson",
+            "game": "ath @ det",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-24 20:01:38",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "6:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "tor @ cle": [
         {
             "player": "steven kwan",
@@ -1569,6 +1585,21 @@
     ],
     "nyy @ cin": [
         {
+            "player": "aaron judge",
+            "game": "nyy @ cin",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-06-24 20:01:38",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ben rice",
             "game": "nyy @ cin",
             "hr/park": "30/30",
@@ -1910,7 +1941,7 @@
             "team": "tb",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
