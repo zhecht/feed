@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "112",
         "batters": "283",
-        "pitches": "3580",
+        "pitches": "3594",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "34.7",
-        "si%sinker %": "13.7",
+        "ff%fourseam fastball %": "34.6",
+        "si%sinker %": "13.6",
         "fc%cutter %": "7.1",
         "fs%splitter %": "1.9",
         "ch%changeup %": "12.2",
-        "sl%slider %": "20.4",
-        "cu%curve %": "9.7",
+        "sl%slider %": "20.5",
+        "cu%curve %": "9.6",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "275",
-        "hh%hard hit %": "41.4",
+        "hh%hard hit %": "41.3",
         "brlbarrels": "51",
         "brl%barrel %": "7.7",
-        "ab": "826",
-        "avg": ".242",
+        "ab": "829",
+        "avg": ".241",
         "h": "200",
         "1b": "139",
         "2b": "32",
         "3b": "2",
         "hr": "27",
-        "so": "192",
-        "bipballs in play": "664",
+        "so": "193",
+        "bipballs in play": "666",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-24 22:16:45.869697"
+        "updated": "2025-06-24 22:16:57.732195"
     },
     "tex @ bal": [
         {
@@ -1309,6 +1309,21 @@
     ],
     "ath @ det": [
         {
+            "player": "javier baez",
+            "game": "ath @ det",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-06-24 22:16:53",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "dillon dingler",
             "game": "ath @ det",
             "hr/park": "",
@@ -1318,10 +1333,10 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "91.5",
+            "la": "11",
+            "dist": "154"
         },
         {
             "player": "max muncy",
@@ -4804,10 +4819,10 @@
             "team": "nyy",
             "start": "7:10 PM",
             "in": "11",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "88.9",
+            "la": "60",
+            "dist": "184"
         },
         {
             "player": "paul goldschmidt",
@@ -9243,6 +9258,21 @@
     ],
     "pit @ mil": [
         {
+            "player": "adam frazier",
+            "game": "pit @ mil",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-06-24 22:16:53",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kebryan hayes",
             "game": "pit @ mil",
             "hr/park": "",
@@ -10324,6 +10354,21 @@
         }
     ],
     "chc @ stl": [
+        {
+            "player": "dansby swanson",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "76",
+            "dt": "2025-06-24 22:16:53",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:45 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "pete crow armstrong",
             "game": "chc @ stl",
@@ -11461,7 +11506,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -13417,7 +13462,7 @@
             "team": "sd",
             "start": "9:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
