@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "25",
+        "pitchers": "26",
         "batters": "178",
-        "pitches": "1114",
+        "pitches": "1122",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "73.5",
-        "ff%fourseam fastball %": "40.7",
-        "si%sinker %": "9.2",
+        "ff%fourseam fastball %": "40.6",
+        "si%sinker %": "9.1",
         "fc%cutter %": "6.9",
         "fs%splitter %": "0.7",
-        "ch%changeup %": "12.0",
-        "sl%slider %": "20.4",
+        "ch%changeup %": "12.1",
+        "sl%slider %": "20.5",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "90",
-        "hh%hard hit %": "45.2",
+        "hh%hard hit %": "44.8",
         "brlbarrels": "18",
         "brl%barrel %": "9.0",
-        "ab": "257",
-        "avg": ".237",
-        "h": "61",
-        "1b": "45",
+        "ab": "259",
+        "avg": ".239",
+        "h": "62",
+        "1b": "46",
         "2b": "6",
         "3b": "1",
         "hr": "9",
         "so": "62",
-        "bipballs in play": "199",
+        "bipballs in play": "201",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-24 20:23:21.858328"
+        "updated": "2025-06-24 20:23:30.624043"
     },
     "tex @ bal": [
         {
@@ -41,10 +41,10 @@
             "team": "bal",
             "start": "6:35 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "90.5",
+            "la": "-13",
+            "dist": "12"
         },
         {
             "player": "dylan carlson",
@@ -754,9 +754,24 @@
     ],
     "ath @ det": [
         {
-            "player": "denzel clarke",
+            "player": "jacob wilson",
             "game": "ath @ det",
             "hr/park": "",
+            "pa": "16",
+            "dt": "2025-06-24 20:23:24",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "6:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "denzel clarke",
+            "game": "ath @ det",
+            "hr/park": "28/30",
             "pa": "15",
             "dt": "2025-06-24 20:22:37",
             "img": "https://www.mlbstatic.com/team-logos/133.svg",
@@ -1747,6 +1762,21 @@
         }
     ],
     "atl @ nym": [
+        {
+            "player": "ronny mauricio",
+            "game": "atl @ nym",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-06-24 20:23:24",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brett baty",
             "game": "atl @ nym",
@@ -3376,21 +3406,6 @@
     ],
     "ari @ chw": [
         {
-            "player": "michael a taylor",
-            "game": "ari @ chw",
-            "hr/park": "",
-            "pa": "20",
-            "dt": "2025-06-24 20:22:52",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "start": "7:40 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "ketel marte",
             "game": "ari @ chw",
             "hr/park": "",
@@ -3687,10 +3702,10 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "73.3",
+            "la": "18",
+            "dist": "179"
         },
         {
             "player": "isaac collins",
@@ -4281,6 +4296,21 @@
         }
     ],
     "phi @ hou": [
+        {
+            "player": "jeremy pena",
+            "game": "phi @ hou",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-06-24 20:23:24",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "91.6",
+            "la": "-15",
+            "dist": "11"
+        },
         {
             "player": "jt realmuto",
             "game": "phi @ hou",
