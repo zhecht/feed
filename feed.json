@@ -1,36 +1,51 @@
 {
     "all": {
         "pitchers": "23",
-        "batters": "155",
-        "pitches": "941",
+        "batters": "156",
+        "pitches": "948",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "73.5",
-        "ff%fourseam fastball %": "42.0",
-        "si%sinker %": "8.0",
+        "ff%fourseam fastball %": "41.6",
+        "si%sinker %": "8.1",
         "fc%cutter %": "7.8",
         "fs%splitter %": "0.5",
-        "ch%changeup %": "11.7",
-        "sl%slider %": "19.9",
-        "cu%curve %": "10.1",
+        "ch%changeup %": "11.8",
+        "sl%slider %": "20.0",
+        "cu%curve %": "10.0",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "77",
-        "hh%hard hit %": "47.5",
+        "hhhard hit": "78",
+        "hh%hard hit %": "47.6",
         "brlbarrels": "14",
-        "brl%barrel %": "8.6",
-        "ab": "215",
-        "avg": ".237",
+        "brl%barrel %": "8.5",
+        "ab": "218",
+        "avg": ".234",
         "h": "51",
         "1b": "38",
         "2b": "6",
         "3b": "1",
         "hr": "6",
         "so": "53",
-        "bipballs in play": "162",
+        "bipballs in play": "164",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-24 20:14:36.043347"
+        "updated": "2025-06-24 20:14:44.569735"
     },
     "tex @ bal": [
+        {
+            "player": "kyle higashioka",
+            "game": "tex @ bal",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-06-24 20:12:52",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "6:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "alejandro osuna",
             "game": "tex @ bal",
@@ -679,6 +694,21 @@
     ],
     "ath @ det": [
         {
+            "player": "wenceel perez",
+            "game": "ath @ det",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-06-24 20:14:38",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "riley greene",
             "game": "ath @ det",
             "hr/park": "",
@@ -815,21 +845,6 @@
         }
     ],
     "tor @ cle": [
-        {
-            "player": "andres gimenez",
-            "game": "tor @ cle",
-            "hr/park": "",
-            "pa": "48",
-            "dt": "2025-06-24 20:13:22",
-            "img": "https://www.mlbstatic.com/team-logos/141.svg",
-            "team": "tor",
-            "start": "6:40 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "myles straw",
             "game": "tor @ cle",
@@ -1547,7 +1562,7 @@
             "team": "nym",
             "start": "7:10 PM",
             "in": "4",
-            "result": "Stolen Base 2B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2427,6 +2442,21 @@
     ],
     "tb @ kc": [
         {
+            "player": "junior caminero",
+            "game": "tb @ kc",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-06-24 20:14:38",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "curtis mead",
             "game": "tb @ kc",
             "hr/park": "0/30",
@@ -2683,6 +2713,21 @@
         }
     ],
     "sea @ min": [
+        {
+            "player": "jp crawford",
+            "game": "sea @ min",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-06-24 20:14:38",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "32.9",
+            "la": "-20",
+            "dist": "5"
+        },
         {
             "player": "cole young",
             "game": "sea @ min",
@@ -3367,17 +3412,17 @@
         {
             "player": "pedro pages",
             "game": "chc @ stl",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "14",
             "dt": "2025-06-24 20:12:07",
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
             "team": "stl",
             "start": "7:45 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "100.7",
+            "la": "20",
+            "dist": "343"
         },
         {
             "player": "nolan gorman",
