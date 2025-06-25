@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "36",
         "batters": "208",
-        "pitches": "1745",
+        "pitches": "1750",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "71.6",
         "ff%fourseam fastball %": "39.2",
-        "si%sinker %": "10.0",
-        "fc%cutter %": "6.8",
+        "si%sinker %": "10.1",
+        "fc%cutter %": "6.7",
         "fs%splitter %": "0.6",
-        "ch%changeup %": "13.5",
-        "sl%slider %": "20.1",
+        "ch%changeup %": "13.4",
+        "sl%slider %": "20.0",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "143",
-        "hh%hard hit %": "45.7",
+        "hhhard hit": "145",
+        "hh%hard hit %": "45.9",
         "brlbarrels": "31",
-        "brl%barrel %": "9.9",
+        "brl%barrel %": "9.8",
         "ab": "401",
         "avg": ".244",
         "h": "98",
@@ -24,11 +24,11 @@
         "2b": "11",
         "3b": "1",
         "hr": "19",
-        "so": "96",
-        "bipballs in play": "313",
+        "so": "95",
+        "bipballs in play": "316",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-24 20:52:48.913677"
+        "updated": "2025-06-24 20:52:58.706268"
     },
     "tex @ bal": [
         {
@@ -933,6 +933,21 @@
         }
     ],
     "ath @ det": [
+        {
+            "player": "zach mckinstry",
+            "game": "ath @ det",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-06-24 20:52:52",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "wenceel perez",
             "game": "ath @ det",
@@ -3666,7 +3681,7 @@
             "team": "tb",
             "start": "7:40 PM",
             "in": "5",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4193,7 +4208,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4696,6 +4711,21 @@
     ],
     "ari @ chw": [
         {
+            "player": "edgar quero",
+            "game": "ari @ chw",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-06-24 20:52:52",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "97.3",
+            "la": "23",
+            "dist": "335"
+        },
+        {
             "player": "luis robert",
             "game": "ari @ chw",
             "hr/park": "",
@@ -4705,10 +4735,10 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "96.1",
+            "la": "50",
+            "dist": "278"
         },
         {
             "player": "jose herrera",
@@ -5774,7 +5804,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
