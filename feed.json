@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "20",
-        "batters": "127",
-        "pitches": "746",
+        "batters": "128",
+        "pitches": "752",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "73.5",
-        "ff%fourseam fastball %": "42.8",
-        "si%sinker %": "6.7",
-        "fc%cutter %": "8.2",
+        "ff%fourseam fastball %": "43.1",
+        "si%sinker %": "6.4",
+        "fc%cutter %": "8.0",
         "fs%splitter %": "0.4",
-        "ch%changeup %": "11.7",
+        "ch%changeup %": "11.8",
         "sl%slider %": "18.9",
         "cu%curve %": "11.3",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "55",
-        "hh%hard hit %": "45.1",
+        "hhhard hit": "56",
+        "hh%hard hit %": "45.9",
         "brlbarrels": "10",
         "brl%barrel %": "8.2",
-        "ab": "168",
-        "avg": ".208",
+        "ab": "169",
+        "avg": ".207",
         "h": "35",
         "1b": "27",
         "2b": "4",
@@ -28,7 +28,7 @@
         "bipballs in play": "122",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-24 20:04:02.343397"
+        "updated": "2025-06-24 20:04:10.827291"
     },
     "tex @ bal": [
         {
@@ -1313,21 +1313,6 @@
     ],
     "atl @ nym": [
         {
-            "player": "drake baldwin",
-            "game": "atl @ nym",
-            "hr/park": "",
-            "pa": "24",
-            "dt": "2025-06-24 20:03:22",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "7:10 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "austin riley",
             "game": "atl @ nym",
             "hr/park": "",
@@ -1337,10 +1322,10 @@
             "team": "atl",
             "start": "7:10 PM",
             "in": "4",
-            "result": "Lineout",
-            "evo": "85.2",
-            "la": "25",
-            "dist": "286"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "francisco lindor",
@@ -1674,6 +1659,21 @@
         }
     ],
     "nyy @ cin": [
+        {
+            "player": "cody bellinger",
+            "game": "nyy @ cin",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-06-24 20:02:52",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "aaron judge",
             "game": "nyy @ cin",
@@ -2341,6 +2341,21 @@
     ],
     "ari @ chw": [
         {
+            "player": "ildemaro vargas",
+            "game": "ari @ chw",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-06-24 20:04:08",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "randal grichuk",
             "game": "ari @ chw",
             "hr/park": "",
@@ -2684,10 +2699,10 @@
             "team": "chc",
             "start": "7:45 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "100.4",
+            "la": "4",
+            "dist": "89"
         },
         {
             "player": "dansby swanson",
