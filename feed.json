@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "80",
         "batters": "235",
-        "pitches": "2889",
+        "pitches": "2894",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "34.9",
-        "si%sinker %": "13.7",
+        "si%sinker %": "13.8",
         "fc%cutter %": "6.8",
         "fs%splitter %": "1.8",
         "ch%changeup %": "12.8",
         "sl%slider %": "19.7",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "226",
-        "hh%hard hit %": "43.5",
-        "brlbarrels": "43",
-        "brl%barrel %": "8.3",
-        "ab": "658",
+        "hhhard hit": "228",
+        "hh%hard hit %": "43.6",
+        "brlbarrels": "44",
+        "brl%barrel %": "8.4",
+        "ab": "661",
         "avg": ".242",
-        "h": "159",
+        "h": "160",
         "1b": "110",
         "2b": "23",
         "3b": "1",
-        "hr": "25",
+        "hr": "26",
         "so": "161",
-        "bipballs in play": "520",
+        "bipballs in play": "523",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-24 21:46:18.411562"
+        "updated": "2025-06-24 21:46:29.199339"
     },
     "tex @ bal": [
         {
@@ -2030,6 +2030,36 @@
         }
     ],
     "tor @ cle": [
+        {
+            "player": "carlos santana",
+            "game": "tor @ cle",
+            "hr/park": "",
+            "pa": "87",
+            "dt": "2025-06-24 21:45:52",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "Pop Out",
+            "evo": "70.4",
+            "la": "63",
+            "dist": "136"
+        },
+        {
+            "player": "kyle manzardo",
+            "game": "tor @ cle",
+            "hr/park": "30/30",
+            "pa": "86",
+            "dt": "2025-06-24 21:45:23",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "Home Run",
+            "evo": "101.7",
+            "la": "31",
+            "dist": "380"
+        },
         {
             "player": "jose ramirez",
             "game": "tor @ cle",
@@ -4315,6 +4345,21 @@
     ],
     "nyy @ cin": [
         {
+            "player": "christian encarnacion strand",
+            "game": "nyy @ cin",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-06-24 21:46:23",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose trevino",
             "game": "nyy @ cin",
             "hr/park": "",
@@ -4324,10 +4369,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "103.1",
+            "la": "8",
+            "dist": "144"
         },
         {
             "player": "rece hinds",
