@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "31",
-        "batters": "79",
-        "pitches": "1069",
+        "batters": "80",
+        "pitches": "1070",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "76.9",
         "ff%fourseam fastball %": "38.8",
         "si%sinker %": "6.6",
         "fc%cutter %": "4.1",
         "fs%splitter %": "2.1",
-        "ch%changeup %": "7.8",
+        "ch%changeup %": "7.9",
         "sl%slider %": "25.5",
-        "cu%curve %": "15.1",
+        "cu%curve %": "15.0",
         "max evmax exit velocity": "110.9",
         "hhhard hit": "66",
-        "hh%hard hit %": "36.3",
+        "hh%hard hit %": "36.1",
         "brlbarrels": "14",
         "brl%barrel %": "7.7",
         "ab": "251",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "6",
         "so": "72",
-        "bipballs in play": "182",
+        "bipballs in play": "183",
         "liveGames": 7,
         "totGames": 15,
-        "updated": "2025-06-25 18:41:24.520819"
+        "updated": "2025-06-25 18:41:32.922707"
     },
     "ari @ chw": [
         {
@@ -2151,21 +2151,6 @@
     ],
     "bos @ laa": [
         {
-            "player": "scott kingery",
-            "game": "bos @ laa",
-            "hr/park": "",
-            "pa": "66",
-            "dt": "2025-06-25 18:40:45",
-            "img": "https://www.mlbstatic.com/team-logos/108.svg",
-            "team": "laa",
-            "start": "4:07 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "abraham toro",
             "game": "bos @ laa",
             "hr/park": "0/30",
@@ -4084,10 +4069,10 @@
             "team": "tex",
             "start": "6:35 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "87.0",
+            "la": "-26",
+            "dist": "6"
         },
         {
             "player": "sam haggerty",
@@ -4120,7 +4105,23 @@
             "dist": "13"
         }
     ],
-    "ath @ det": [],
+    "ath @ det": [
+        {
+            "player": "lawrence butler",
+            "game": "ath @ det",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-25 18:41:30",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "6:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "tor @ cle": [],
     "atl @ nym": [],
     "nyy @ cin": [],
