@@ -1,36 +1,66 @@
 {
     "all": {
-        "pitchers": "70",
+        "pitchers": "71",
         "batters": "228",
-        "pitches": "2690",
+        "pitches": "2703",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "34.7",
-        "si%sinker %": "13.6",
-        "fc%cutter %": "6.9",
-        "fs%splitter %": "1.5",
+        "si%sinker %": "13.5",
+        "fc%cutter %": "6.8",
+        "fs%splitter %": "1.6",
         "ch%changeup %": "12.9",
         "sl%slider %": "19.9",
-        "cu%curve %": "10.3",
+        "cu%curve %": "10.4",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "215",
-        "hh%hard hit %": "43.6",
+        "hhhard hit": "216",
+        "hh%hard hit %": "43.8",
         "brlbarrels": "40",
         "brl%barrel %": "8.1",
-        "ab": "621",
+        "ab": "623",
         "avg": ".246",
         "h": "153",
         "1b": "107",
         "2b": "21",
         "3b": "1",
         "hr": "24",
-        "so": "148",
+        "so": "149",
         "bipballs in play": "493",
-        "liveGames": 12,
+        "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-24 21:37:57.715667"
+        "updated": "2025-06-24 21:38:08.745283"
     },
     "tex @ bal": [
+        {
+            "player": "sam haggerty",
+            "game": "tex @ bal",
+            "hr/park": "",
+            "pa": "79",
+            "dt": "2025-06-24 21:37:24",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "6:35 PM",
+            "in": "10",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "josh jung",
+            "game": "tex @ bal",
+            "hr/park": "",
+            "pa": "78",
+            "dt": "2025-06-24 21:37:24",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "6:35 PM",
+            "in": "10",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "luis vazquez",
             "game": "tex @ bal",
@@ -1198,7 +1228,7 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "6",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "104.5",
             "la": "7",
             "dist": "161"
@@ -3188,21 +3218,6 @@
     ],
     "atl @ nym": [
         {
-            "player": "nick allen",
-            "game": "atl @ nym",
-            "hr/park": "",
-            "pa": "64",
-            "dt": "2025-06-24 21:37:54",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "7:10 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "stuart fairchild",
             "game": "atl @ nym",
             "hr/park": "",
@@ -3212,7 +3227,7 @@
             "team": "atl",
             "start": "7:10 PM",
             "in": "8",
-            "result": "Strikeout",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5142,6 +5157,21 @@
     ],
     "tb @ kc": [
         {
+            "player": "taylor walls",
+            "game": "tb @ kc",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-06-24 21:38:08",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "danny jansen",
             "game": "tb @ kc",
             "hr/park": "",
@@ -5151,7 +5181,7 @@
             "team": "tb",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6023,7 +6053,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Mound Visit",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7707,10 +7737,10 @@
             "team": "pit",
             "start": "7:40 PM",
             "in": "7",
-            "result": "GIDP",
-            "evo": "81.2",
-            "la": "-6",
-            "dist": "26"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "isiah kiner falefa",
@@ -10023,10 +10053,10 @@
             "team": "lad",
             "start": "8:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "103.2",
+            "la": "3",
+            "dist": "80"
         },
         {
             "player": "will smith",
