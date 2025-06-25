@@ -1,51 +1,36 @@
 {
     "all": {
-        "pitchers": "88",
-        "batters": "243",
-        "pitches": "3023",
+        "pitchers": "91",
+        "batters": "245",
+        "pitches": "3030",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "35.0",
-        "si%sinker %": "13.9",
+        "si%sinker %": "14.0",
         "fc%cutter %": "6.5",
-        "fs%splitter %": "1.8",
+        "fs%splitter %": "1.7",
         "ch%changeup %": "12.8",
-        "sl%slider %": "19.9",
-        "cu%curve %": "10.0",
+        "sl%slider %": "19.8",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "239",
+        "hhhard hit": "240",
         "hh%hard hit %": "43.6",
         "brlbarrels": "46",
         "brl%barrel %": "8.4",
-        "ab": "693",
-        "avg": ".242",
+        "ab": "697",
+        "avg": ".241",
         "h": "168",
         "1b": "116",
         "2b": "25",
         "3b": "1",
         "hr": "26",
-        "so": "167",
-        "bipballs in play": "548",
+        "so": "168",
+        "bipballs in play": "550",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-24 21:51:43.238090"
+        "updated": "2025-06-24 21:51:54.538088"
     },
     "tex @ bal": [
-        {
-            "player": "wyatt langford",
-            "game": "tex @ bal",
-            "hr/park": "",
-            "pa": "82",
-            "dt": "2025-06-24 21:51:24",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "6:35 PM",
-            "in": "10",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "ezequiel duran",
             "game": "tex @ bal",
@@ -56,7 +41,7 @@
             "team": "tex",
             "start": "6:35 PM",
             "in": "10",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5526,10 +5511,10 @@
             "team": "tb",
             "start": "7:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "97.5",
+            "la": "47",
+            "dist": "324"
         },
         {
             "player": "yandy diaz",
@@ -8373,6 +8358,21 @@
     ],
     "pit @ mil": [
         {
+            "player": "andrew mccutchen",
+            "game": "pit @ mil",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-06-24 21:51:09",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "Groundout",
+            "evo": "78.3",
+            "la": "-23",
+            "dist": "6"
+        },
+        {
             "player": "william contreras",
             "game": "pit @ mil",
             "hr/park": "",
@@ -8382,7 +8382,7 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "92.6",
             "la": "-22",
             "dist": "7"
@@ -9275,9 +9275,24 @@
     ],
     "chc @ stl": [
         {
-            "player": "alec burleson",
+            "player": "willson contreras",
             "game": "chc @ stl",
             "hr/park": "",
+            "pa": "63",
+            "dt": "2025-06-24 21:51:54",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "alec burleson",
+            "game": "chc @ stl",
+            "hr/park": "0/30",
             "pa": "62",
             "dt": "2025-06-24 21:50:53",
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
@@ -10953,7 +10968,7 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11501,6 +11516,21 @@
     ],
     "bos @ laa": [
         {
+            "player": "zach neto",
+            "game": "bos @ laa",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-06-24 21:51:54",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "carlos narvaez",
             "game": "bos @ laa",
             "hr/park": "",
@@ -11562,6 +11592,21 @@
         }
     ],
     "wsh @ sd": [
+        {
+            "player": "fernando tatis",
+            "game": "wsh @ sd",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-06-24 21:51:54",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "josh bell",
             "game": "wsh @ sd",
