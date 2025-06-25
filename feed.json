@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "22",
-        "batters": "154",
-        "pitches": "940",
+        "pitchers": "23",
+        "batters": "155",
+        "pitches": "941",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "73.5",
         "ff%fourseam fastball %": "42.0",
@@ -10,42 +10,27 @@
         "fc%cutter %": "7.8",
         "fs%splitter %": "0.5",
         "ch%changeup %": "11.7",
-        "sl%slider %": "19.8",
+        "sl%slider %": "19.9",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "75",
-        "hh%hard hit %": "46.9",
+        "hhhard hit": "77",
+        "hh%hard hit %": "47.5",
         "brlbarrels": "14",
-        "brl%barrel %": "8.8",
-        "ab": "214",
-        "avg": ".234",
-        "h": "50",
+        "brl%barrel %": "8.6",
+        "ab": "215",
+        "avg": ".237",
+        "h": "51",
         "1b": "38",
-        "2b": "5",
+        "2b": "6",
         "3b": "1",
         "hr": "6",
         "so": "53",
-        "bipballs in play": "160",
+        "bipballs in play": "162",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-24 20:14:18.867764"
+        "updated": "2025-06-24 20:14:27.267541"
     },
     "tex @ bal": [
-        {
-            "player": "kyle higashioka",
-            "game": "tex @ bal",
-            "hr/park": "",
-            "pa": "44",
-            "dt": "2025-06-24 20:12:52",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "6:35 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "alejandro osuna",
             "game": "tex @ bal",
@@ -1999,10 +1984,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "104.0",
+            "la": "18",
+            "dist": "297"
         },
         {
             "player": "elly de la cruz",
@@ -2441,6 +2426,21 @@
         }
     ],
     "tb @ kc": [
+        {
+            "player": "curtis mead",
+            "game": "tb @ kc",
+            "hr/park": "0/30",
+            "pa": "17",
+            "dt": "2025-06-24 20:13:22",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "Lineout",
+            "evo": "102.7",
+            "la": "17",
+            "dist": "330"
+        },
         {
             "player": "yandy diaz",
             "game": "tb @ kc",
@@ -3575,7 +3575,23 @@
             "dist": "379"
         }
     ],
-    "phi @ hou": [],
+    "phi @ hou": [
+        {
+            "player": "trea turner",
+            "game": "phi @ hou",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-24 20:14:23",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "lad @ col": [],
     "bos @ laa": [],
     "wsh @ sd": [],
