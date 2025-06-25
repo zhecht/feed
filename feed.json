@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "92",
-        "batters": "247",
-        "pitches": "3101",
+        "pitchers": "94",
+        "batters": "252",
+        "pitches": "3118",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "34.9",
         "si%sinker %": "14.0",
-        "fc%cutter %": "6.6",
+        "fc%cutter %": "6.7",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "12.7",
+        "ch%changeup %": "12.6",
         "sl%slider %": "19.9",
-        "cu%curve %": "10.0",
+        "cu%curve %": "9.9",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "243",
+        "hhhard hit": "245",
         "hh%hard hit %": "43.2",
         "brlbarrels": "47",
         "brl%barrel %": "8.3",
-        "ab": "711",
-        "avg": ".238",
-        "h": "169",
-        "1b": "116",
+        "ab": "717",
+        "avg": ".237",
+        "h": "170",
+        "1b": "117",
         "2b": "26",
         "3b": "1",
         "hr": "26",
-        "so": "170",
-        "bipballs in play": "563",
+        "so": "171",
+        "bipballs in play": "567",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-24 21:54:46.132677"
+        "updated": "2025-06-24 21:54:57.755709"
     },
     "tex @ bal": [
         {
@@ -4495,6 +4495,21 @@
     ],
     "nyy @ cin": [
         {
+            "player": "ben rice",
+            "game": "nyy @ cin",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-06-24 21:54:53",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:10 PM",
+            "in": "10",
+            "result": "Mound Visit",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trent grisham",
             "game": "nyy @ cin",
             "hr/park": "",
@@ -8508,6 +8523,21 @@
     ],
     "pit @ mil": [
         {
+            "player": "nick gonzales",
+            "game": "pit @ mil",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-06-24 21:54:53",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bryan reynolds",
             "game": "pit @ mil",
             "hr/park": "",
@@ -8517,10 +8547,10 @@
             "team": "pit",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "97.6",
+            "la": "7",
+            "dist": "124"
         },
         {
             "player": "andrew mccutchen",
@@ -10411,10 +10441,10 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "57.0",
+            "la": "75",
+            "dist": "65"
         },
         {
             "player": "jose altuve",
@@ -11169,21 +11199,6 @@
     ],
     "lad @ col": [
         {
-            "player": "ryan ritter",
-            "game": "lad @ col",
-            "hr/park": "",
-            "pa": "39",
-            "dt": "2025-06-24 21:54:23",
-            "img": "https://www.mlbstatic.com/team-logos/115.svg",
-            "team": "col",
-            "start": "8:40 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "kyle farmer",
             "game": "lad @ col",
             "hr/park": "",
@@ -11756,6 +11771,51 @@
     ],
     "bos @ laa": [
         {
+            "player": "mike trout",
+            "game": "bos @ laa",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-06-24 21:54:53",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "luis rengifo",
+            "game": "bos @ laa",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-06-24 21:54:53",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "100.1",
+            "la": "-29",
+            "dist": "6"
+        },
+        {
+            "player": "zach neto",
+            "game": "bos @ laa",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-06-24 21:51:54",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "carlos narvaez",
             "game": "bos @ laa",
             "hr/park": "",
@@ -11817,6 +11877,21 @@
         }
     ],
     "wsh @ sd": [
+        {
+            "player": "manny machado",
+            "game": "wsh @ sd",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-06-24 21:54:53",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "Single",
+            "evo": "88.3",
+            "la": "13",
+            "dist": "206"
+        },
         {
             "player": "jackson merrill",
             "game": "wsh @ sd",
@@ -11924,6 +11999,21 @@
         }
     ],
     "mia @ sf": [
+        {
+            "player": "mike yastrzemski",
+            "game": "mia @ sf",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-06-24 21:54:53",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "9:45 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "otto lopez",
             "game": "mia @ sf",
