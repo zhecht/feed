@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "44",
-        "batters": "218",
-        "pitches": "2086",
+        "batters": "219",
+        "pitches": "2089",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "71.6",
         "ff%fourseam fastball %": "37.1",
@@ -10,25 +10,25 @@
         "fc%cutter %": "6.4",
         "fs%splitter %": "1.0",
         "ch%changeup %": "13.1",
-        "sl%slider %": "20.3",
+        "sl%slider %": "20.4",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "174",
-        "hh%hard hit %": "45.5",
+        "hh%hard hit %": "45.7",
         "brlbarrels": "36",
         "brl%barrel %": "9.4",
-        "ab": "477",
-        "avg": ".247",
+        "ab": "476",
+        "avg": ".248",
         "h": "118",
         "1b": "80",
         "2b": "16",
         "3b": "1",
         "hr": "21",
-        "so": "114",
-        "bipballs in play": "382",
+        "so": "115",
+        "bipballs in play": "381",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-24 21:08:44.348563"
+        "updated": "2025-06-24 21:08:54.021346"
     },
     "tex @ bal": [
         {
@@ -1605,7 +1605,7 @@
             "team": "tor",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2663,6 +2663,21 @@
     ],
     "atl @ nym": [
         {
+            "player": "matt olson",
+            "game": "atl @ nym",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-06-24 21:08:52",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ronald acuna",
             "game": "atl @ nym",
             "hr/park": "",
@@ -2672,7 +2687,7 @@
             "team": "atl",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4199,7 +4214,7 @@
         {
             "player": "kyle isbel",
             "game": "tb @ kc",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "44",
             "dt": "2025-06-24 21:06:53",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
@@ -5536,36 +5551,6 @@
     ],
     "ari @ chw": [
         {
-            "player": "lourdes gurriel",
-            "game": "ari @ chw",
-            "hr/park": "",
-            "pa": "41",
-            "dt": "2025-06-24 21:07:10",
-            "img": "https://www.mlbstatic.com/team-logos/109.svg",
-            "team": "ari",
-            "start": "7:40 PM",
-            "in": "6",
-            "result": "Flyout",
-            "evo": "82.0",
-            "la": "48",
-            "dist": "236"
-        },
-        {
-            "player": "pavin smith",
-            "game": "ari @ chw",
-            "hr/park": "0/30",
-            "pa": "40",
-            "dt": "2025-06-24 21:06:23",
-            "img": "https://www.mlbstatic.com/team-logos/109.svg",
-            "team": "ari",
-            "start": "7:40 PM",
-            "in": "6",
-            "result": "Lineout",
-            "evo": "101.5",
-            "la": "20",
-            "dist": "322"
-        },
-        {
             "player": "ketel marte",
             "game": "ari @ chw",
             "hr/park": "",
@@ -6810,9 +6795,9 @@
             "start": "7:45 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "108.6",
+            "la": "8",
+            "dist": "163"
         },
         {
             "player": "kyle tucker",
@@ -7883,6 +7868,21 @@
         }
     ],
     "lad @ col": [
+        {
+            "player": "kyle farmer",
+            "game": "lad @ col",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-06-24 21:08:52",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brenton doyle",
             "game": "lad @ col",
