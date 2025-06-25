@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "94",
+        "pitchers": "97",
         "batters": "254",
-        "pitches": "3145",
-        "max velomax pitch velocity": "100.6",
+        "pitches": "3160",
+        "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "34.9",
-        "si%sinker %": "14.1",
-        "fc%cutter %": "6.7",
+        "ff%fourseam fastball %": "35.0",
+        "si%sinker %": "14.0",
+        "fc%cutter %": "6.8",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "12.6",
+        "ch%changeup %": "12.5",
         "sl%slider %": "19.9",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "245",
-        "hh%hard hit %": "42.9",
+        "hh%hard hit %": "42.7",
         "brlbarrels": "47",
         "brl%barrel %": "8.2",
-        "ab": "722",
-        "avg": ".237",
+        "ab": "728",
+        "avg": ".235",
         "h": "171",
         "1b": "118",
         "2b": "26",
         "3b": "1",
         "hr": "26",
-        "so": "171",
-        "bipballs in play": "571",
+        "so": "172",
+        "bipballs in play": "574",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-24 21:56:30.900364"
+        "updated": "2025-06-24 21:56:41.954453"
     },
     "tex @ bal": [
+        {
+            "player": "cedric mullins",
+            "game": "tex @ bal",
+            "hr/park": "",
+            "pa": "83",
+            "dt": "2025-06-24 21:56:38",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:35 PM",
+            "in": "10",
+            "result": "In Progress",
+            "evo": "24.8",
+            "la": "-8",
+            "dist": "13"
+        },
         {
             "player": "wyatt langford",
             "game": "tex @ bal",
@@ -1264,6 +1279,21 @@
     ],
     "ath @ det": [
         {
+            "player": "riley greene",
+            "game": "ath @ det",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-06-24 21:56:38",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jahmai jones",
             "game": "ath @ det",
             "hr/park": "",
@@ -1273,10 +1303,10 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "7",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "87.8",
+            "la": "22",
+            "dist": "276"
         },
         {
             "player": "gleyber torres",
@@ -3457,6 +3487,36 @@
         }
     ],
     "atl @ nym": [
+        {
+            "player": "juan soto",
+            "game": "atl @ nym",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-06-24 21:56:38",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "brandon nimmo",
+            "game": "atl @ nym",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-06-24 21:56:38",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "Groundout",
+            "evo": "60.7",
+            "la": "-34",
+            "dist": "5"
+        },
         {
             "player": "drake baldwin",
             "game": "atl @ nym",
@@ -6614,6 +6674,21 @@
     ],
     "sea @ min": [
         {
+            "player": "dominic canzone",
+            "game": "sea @ min",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-06-24 21:56:38",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ty france",
             "game": "sea @ min",
             "hr/park": "",
@@ -9500,6 +9575,21 @@
     ],
     "chc @ stl": [
         {
+            "player": "nico hoerner",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-06-24 21:56:38",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:45 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael busch",
             "game": "chc @ stl",
             "hr/park": "",
@@ -9509,7 +9599,7 @@
             "team": "chc",
             "start": "7:45 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
