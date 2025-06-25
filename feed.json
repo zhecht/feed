@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "22",
-        "batters": "153",
-        "pitches": "916",
+        "batters": "154",
+        "pitches": "930",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "73.5",
-        "ff%fourseam fastball %": "42.0",
-        "si%sinker %": "7.8",
-        "fc%cutter %": "8.0",
+        "ff%fourseam fastball %": "42.2",
+        "si%sinker %": "7.6",
+        "fc%cutter %": "7.8",
         "fs%splitter %": "0.5",
-        "ch%changeup %": "11.8",
-        "sl%slider %": "19.4",
-        "cu%curve %": "10.4",
+        "ch%changeup %": "11.6",
+        "sl%slider %": "19.9",
+        "cu%curve %": "10.2",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "73",
-        "hh%hard hit %": "46.5",
-        "brlbarrels": "13",
-        "brl%barrel %": "8.3",
-        "ab": "211",
-        "avg": ".223",
-        "h": "47",
+        "hhhard hit": "77",
+        "hh%hard hit %": "47.8",
+        "brlbarrels": "15",
+        "brl%barrel %": "9.3",
+        "ab": "215",
+        "avg": ".228",
+        "h": "49",
         "1b": "36",
-        "2b": "4",
+        "2b": "5",
         "3b": "1",
-        "hr": "6",
+        "hr": "7",
         "so": "53",
-        "bipballs in play": "157",
+        "bipballs in play": "161",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-24 20:13:18.453709"
+        "updated": "2025-06-24 20:13:27.081372"
     },
     "tex @ bal": [
         {
@@ -816,6 +816,21 @@
     ],
     "tor @ cle": [
         {
+            "player": "andres gimenez",
+            "game": "tor @ cle",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-06-24 20:13:22",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "myles straw",
             "game": "tor @ cle",
             "hr/park": "",
@@ -1522,6 +1537,36 @@
         }
     ],
     "atl @ nym": [
+        {
+            "player": "pete alonso",
+            "game": "atl @ nym",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-06-24 20:13:22",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "juan soto",
+            "game": "atl @ nym",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-06-24 20:12:22",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "Walk",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brandon nimmo",
             "game": "atl @ nym",
@@ -2382,19 +2427,34 @@
     ],
     "tb @ kc": [
         {
-            "player": "yandy diaz",
+            "player": "curtis mead",
             "game": "tb @ kc",
             "hr/park": "",
+            "pa": "17",
+            "dt": "2025-06-24 20:13:22",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "102.7",
+            "la": "17",
+            "dist": "330"
+        },
+        {
+            "player": "yandy diaz",
+            "game": "tb @ kc",
+            "hr/park": "0/30",
             "pa": "16",
             "dt": "2025-06-24 20:11:22",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "113.4",
+            "la": "16",
+            "dist": "364"
         },
         {
             "player": "chandler simpson",
@@ -2634,9 +2694,9 @@
             "start": "7:40 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "99.5",
+            "la": "14",
+            "dist": "230"
         },
         {
             "player": "ben williamson",
@@ -2850,6 +2910,21 @@
         }
     ],
     "ari @ chw": [
+        {
+            "player": "luis robert",
+            "game": "ari @ chw",
+            "hr/park": "17/30",
+            "pa": "14",
+            "dt": "2025-06-24 20:13:22",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "Home Run",
+            "evo": "101.7",
+            "la": "27",
+            "dist": "357"
+        },
         {
             "player": "ryan noda",
             "game": "ari @ chw",
@@ -3314,7 +3389,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
