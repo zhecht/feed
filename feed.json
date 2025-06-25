@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "18",
         "batters": "116",
-        "pitches": "677",
+        "pitches": "679",
         "max velomax pitch velocity": "100.1",
-        "min velomin pitch velocity": "74.7",
+        "min velomin pitch velocity": "73.8",
         "ff%fourseam fastball %": "43.0",
-        "si%sinker %": "6.2",
-        "fc%cutter %": "8.4",
+        "si%sinker %": "6.0",
+        "fc%cutter %": "8.5",
         "fs%splitter %": "0.4",
         "ch%changeup %": "11.2",
-        "sl%slider %": "18.8",
-        "cu%curve %": "11.8",
+        "sl%slider %": "18.7",
+        "cu%curve %": "11.9",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "50",
         "hh%hard hit %": "45.5",
-        "brlbarrels": "7",
-        "brl%barrel %": "6.4",
-        "ab": "151",
-        "avg": ".205",
+        "brlbarrels": "8",
+        "brl%barrel %": "7.3",
+        "ab": "153",
+        "avg": ".203",
         "h": "31",
         "1b": "25",
         "2b": "4",
         "3b": "0",
         "hr": "2",
-        "so": "42",
+        "so": "43",
         "bipballs in play": "110",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-24 20:00:47.803165"
+        "updated": "2025-06-24 20:00:55.963619"
     },
     "tex @ bal": [
         {
@@ -41,7 +41,7 @@
             "team": "bal",
             "start": "6:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1207,6 +1207,21 @@
     ],
     "atl @ nym": [
         {
+            "player": "austin riley",
+            "game": "atl @ nym",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-06-24 20:00:53",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "francisco lindor",
             "game": "atl @ nym",
             "hr/park": "",
@@ -1539,6 +1554,21 @@
     ],
     "nyy @ cin": [
         {
+            "player": "ben rice",
+            "game": "nyy @ cin",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-06-24 20:00:53",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "107.9",
+            "la": "31",
+            "dist": "427"
+        },
+        {
             "player": "matt mclain",
             "game": "nyy @ cin",
             "hr/park": "",
@@ -1855,6 +1885,21 @@
         }
     ],
     "tb @ kc": [
+        {
+            "player": "taylor walls",
+            "game": "tb @ kc",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-06-24 20:00:53",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "danny jansen",
             "game": "tb @ kc",
@@ -2404,21 +2449,6 @@
     ],
     "chc @ stl": [
         {
-            "player": "dansby swanson",
-            "game": "chc @ stl",
-            "hr/park": "",
-            "pa": "8",
-            "dt": "2025-06-24 20:00:08",
-            "img": "https://www.mlbstatic.com/team-logos/112.svg",
-            "team": "chc",
-            "start": "7:45 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "pete crow armstrong",
             "game": "chc @ stl",
             "hr/park": "",
@@ -2428,10 +2458,10 @@
             "team": "chc",
             "start": "7:45 PM",
             "in": "2",
-            "result": "Groundout",
-            "evo": "105.5",
-            "la": "-6",
-            "dist": "20"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "alec burleson",
