@@ -1,23 +1,23 @@
 {
     "all": {
         "pitchers": "73",
-        "batters": "228",
-        "pitches": "2721",
+        "batters": "229",
+        "pitches": "2732",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "34.6",
         "si%sinker %": "13.6",
         "fc%cutter %": "6.8",
-        "fs%splitter %": "1.6",
+        "fs%splitter %": "1.7",
         "ch%changeup %": "12.9",
-        "sl%slider %": "19.9",
+        "sl%slider %": "19.8",
         "cu%curve %": "10.4",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "218",
-        "hh%hard hit %": "43.9",
+        "hh%hard hit %": "43.8",
         "brlbarrels": "40",
         "brl%barrel %": "8.0",
-        "ab": "630",
+        "ab": "631",
         "avg": ".244",
         "h": "154",
         "1b": "108",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "24",
         "so": "151",
-        "bipballs in play": "497",
+        "bipballs in play": "498",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-24 21:39:34.624805"
+        "updated": "2025-06-24 21:39:45.421999"
     },
     "tex @ bal": [
         {
@@ -41,7 +41,7 @@
             "team": "tex",
             "start": "6:35 PM",
             "in": "10",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1219,6 +1219,21 @@
     ],
     "ath @ det": [
         {
+            "player": "javier baez",
+            "game": "ath @ det",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-06-24 21:39:38",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "dillon dingler",
             "game": "ath @ det",
             "hr/park": "",
@@ -1228,10 +1243,10 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "56.0",
+            "la": "-11",
+            "dist": "12"
         },
         {
             "player": "parker meadows",
@@ -5196,7 +5211,7 @@
             "team": "tb",
             "start": "7:40 PM",
             "in": "8",
-            "result": "Wild Pitch",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6073,6 +6088,21 @@
         }
     ],
     "sea @ min": [
+        {
+            "player": "brooks lee",
+            "game": "sea @ min",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-06-24 21:39:38",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "trevor larnach",
             "game": "sea @ min",
@@ -9481,7 +9511,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
