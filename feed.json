@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "44",
         "batters": "217",
-        "pitches": "2036",
+        "pitches": "2039",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "71.6",
-        "ff%fourseam fastball %": "37.4",
-        "si%sinker %": "11.6",
+        "ff%fourseam fastball %": "37.5",
+        "si%sinker %": "11.5",
         "fc%cutter %": "6.3",
         "fs%splitter %": "0.9",
-        "ch%changeup %": "13.2",
-        "sl%slider %": "20.1",
+        "ch%changeup %": "13.1",
+        "sl%slider %": "20.2",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "171",
         "hh%hard hit %": "45.8",
-        "brlbarrels": "36",
-        "brl%barrel %": "9.7",
+        "brlbarrels": "35",
+        "brl%barrel %": "9.4",
         "ab": "468",
         "avg": ".250",
         "h": "117",
@@ -28,7 +28,7 @@
         "bipballs in play": "373",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-24 21:06:47.113963"
+        "updated": "2025-06-24 21:06:57.075015"
     },
     "tex @ bal": [
         {
@@ -2627,7 +2627,7 @@
             "team": "atl",
             "start": "7:10 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4152,6 +4152,21 @@
     ],
     "tb @ kc": [
         {
+            "player": "kyle isbel",
+            "game": "tb @ kc",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-06-24 21:06:53",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "john rave",
             "game": "tb @ kc",
             "hr/park": "",
@@ -4161,7 +4176,7 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4799,36 +4814,6 @@
     ],
     "sea @ min": [
         {
-            "player": "brooks lee",
-            "game": "sea @ min",
-            "hr/park": "",
-            "pa": "44",
-            "dt": "2025-06-24 21:06:40",
-            "img": "https://www.mlbstatic.com/team-logos/142.svg",
-            "team": "min",
-            "start": "7:40 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
-            "player": "trevor larnach",
-            "game": "sea @ min",
-            "hr/park": "",
-            "pa": "43",
-            "dt": "2025-06-24 21:06:10",
-            "img": "https://www.mlbstatic.com/team-logos/142.svg",
-            "team": "min",
-            "start": "7:40 PM",
-            "in": "5",
-            "result": "Groundout",
-            "evo": "92.4",
-            "la": "-3",
-            "dist": "20"
-        },
-        {
             "player": "luke raley",
             "game": "sea @ min",
             "hr/park": "",
@@ -5461,6 +5446,21 @@
     ],
     "ari @ chw": [
         {
+            "player": "pavin smith",
+            "game": "ari @ chw",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-06-24 21:06:23",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "Lineout",
+            "evo": "101.5",
+            "la": "20",
+            "dist": "322"
+        },
+        {
             "player": "ketel marte",
             "game": "ari @ chw",
             "hr/park": "",
@@ -6057,7 +6057,7 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "5",
-            "result": "Wild Pitch",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6695,6 +6695,36 @@
     ],
     "chc @ stl": [
         {
+            "player": "seiya suzuki",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-06-24 21:06:53",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "kyle tucker",
+            "game": "chc @ stl",
+            "hr/park": "0/30",
+            "pa": "42",
+            "dt": "2025-06-24 21:06:53",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:45 PM",
+            "in": "5",
+            "result": "Lineout",
+            "evo": "88.0",
+            "la": "25",
+            "dist": "334"
+        },
+        {
             "player": "ian happ",
             "game": "chc @ stl",
             "hr/park": "",
@@ -7312,11 +7342,11 @@
     ],
     "phi @ hou": [
         {
-            "player": "isaac paredes",
+            "player": "jeremy pena",
             "game": "phi @ hou",
             "hr/park": "",
-            "pa": "29",
-            "dt": "2025-06-24 21:06:40",
+            "pa": "28",
+            "dt": "2025-06-24 21:05:22",
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
             "team": "hou",
             "start": "8:10 PM",
@@ -7325,21 +7355,6 @@
             "evo": "",
             "la": "",
             "dist": ""
-        },
-        {
-            "player": "jeremy pena",
-            "game": "phi @ hou",
-            "hr/park": "0/30",
-            "pa": "28",
-            "dt": "2025-06-24 21:05:22",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "8:10 PM",
-            "in": "4",
-            "result": "Flyout",
-            "evo": "100.5",
-            "la": "27",
-            "dist": "388"
         },
         {
             "player": "johan rojas",
