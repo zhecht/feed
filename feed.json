@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "29",
+        "pitchers": "28",
         "batters": "193",
-        "pitches": "1363",
+        "pitches": "1370",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "72.3",
         "ff%fourseam fastball %": "40.4",
-        "si%sinker %": "10.0",
-        "fc%cutter %": "6.2",
+        "si%sinker %": "9.9",
+        "fc%cutter %": "6.3",
         "fs%splitter %": "0.6",
-        "ch%changeup %": "12.4",
-        "sl%slider %": "20.4",
+        "ch%changeup %": "12.5",
+        "sl%slider %": "20.3",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "113",
-        "hh%hard hit %": "45.4",
+        "hhhard hit": "115",
+        "hh%hard hit %": "45.6",
         "brlbarrels": "22",
-        "brl%barrel %": "8.8",
-        "ab": "315",
+        "brl%barrel %": "8.7",
+        "ab": "316",
         "avg": ".241",
         "h": "76",
         "1b": "56",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "12",
         "so": "76",
-        "bipballs in play": "249",
+        "bipballs in play": "252",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-24 20:35:32.850262"
+        "updated": "2025-06-24 20:35:41.896672"
     },
     "tex @ bal": [
         {
@@ -1146,6 +1146,21 @@
     ],
     "tor @ cle": [
         {
+            "player": "george springer",
+            "game": "tor @ cle",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-24 20:35:08",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alejandro kirk",
             "game": "tor @ cle",
             "hr/park": "",
@@ -1155,10 +1170,10 @@
             "team": "tor",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "82.8",
+            "la": "51",
+            "dist": "238"
         },
         {
             "player": "vladimir guerrero",
@@ -1988,6 +2003,21 @@
     ],
     "atl @ nym": [
         {
+            "player": "matt olson",
+            "game": "atl @ nym",
+            "hr/park": "0/30",
+            "pa": "38",
+            "dt": "2025-06-24 20:33:08",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "96.6",
+            "la": "49",
+            "dist": "314"
+        },
+        {
             "player": "ronald acuna",
             "game": "atl @ nym",
             "hr/park": "",
@@ -2544,21 +2574,6 @@
         }
     ],
     "nyy @ cin": [
-        {
-            "player": "cody bellinger",
-            "game": "nyy @ cin",
-            "hr/park": "",
-            "pa": "40",
-            "dt": "2025-06-24 20:35:23",
-            "img": "https://www.mlbstatic.com/team-logos/147.svg",
-            "team": "nyy",
-            "start": "7:10 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "santiago espinal",
             "game": "nyy @ cin",
@@ -3940,10 +3955,10 @@
             "team": "ari",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "97.3",
+            "la": "-8",
+            "dist": "17"
         },
         {
             "player": "jake mccarthy",
