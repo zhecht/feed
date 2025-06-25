@@ -1,36 +1,51 @@
 {
     "all": {
         "pitchers": "69",
-        "batters": "226",
-        "pitches": "2578",
+        "batters": "227",
+        "pitches": "2596",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "71.6",
-        "ff%fourseam fastball %": "35.0",
-        "si%sinker %": "13.4",
+        "ff%fourseam fastball %": "35.1",
+        "si%sinker %": "13.3",
         "fc%cutter %": "6.8",
         "fs%splitter %": "1.5",
-        "ch%changeup %": "12.6",
-        "sl%slider %": "20.2",
+        "ch%changeup %": "12.7",
+        "sl%slider %": "20.1",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "204",
-        "hh%hard hit %": "44.0",
-        "brlbarrels": "39",
-        "brl%barrel %": "8.4",
-        "ab": "587",
-        "avg": ".242",
-        "h": "142",
+        "hhhard hit": "208",
+        "hh%hard hit %": "44.3",
+        "brlbarrels": "40",
+        "brl%barrel %": "8.5",
+        "ab": "595",
+        "avg": ".240",
+        "h": "143",
         "1b": "98",
-        "2b": "19",
+        "2b": "20",
         "3b": "1",
         "hr": "24",
-        "so": "143",
-        "bipballs in play": "464",
+        "so": "145",
+        "bipballs in play": "469",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-24 21:33:00.493822"
+        "updated": "2025-06-24 21:33:10.690440"
     },
     "tex @ bal": [
+        {
+            "player": "luis vazquez",
+            "game": "tex @ bal",
+            "hr/park": "",
+            "pa": "77",
+            "dt": "2025-06-24 21:33:09",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:35 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ryan ohearn",
             "game": "tex @ bal",
@@ -1895,6 +1910,36 @@
         }
     ],
     "tor @ cle": [
+        {
+            "player": "myles straw",
+            "game": "tor @ cle",
+            "hr/park": "",
+            "pa": "81",
+            "dt": "2025-06-24 21:33:09",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jonatan clase",
+            "game": "tor @ cle",
+            "hr/park": "",
+            "pa": "80",
+            "dt": "2025-06-24 21:33:09",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "95.3",
+            "la": "-15",
+            "dist": "8"
+        },
         {
             "player": "steven kwan",
             "game": "tor @ cle",
@@ -4917,11 +4962,11 @@
     ],
     "tb @ kc": [
         {
-            "player": "junior caminero",
+            "player": "jonathan aranda",
             "game": "tb @ kc",
             "hr/park": "",
-            "pa": "54",
-            "dt": "2025-06-24 21:30:38",
+            "pa": "55",
+            "dt": "2025-06-24 21:33:09",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "start": "7:40 PM",
@@ -4930,6 +4975,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "junior caminero",
+            "game": "tb @ kc",
+            "hr/park": "5/30",
+            "pa": "54",
+            "dt": "2025-06-24 21:30:38",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "Double",
+            "evo": "98.0",
+            "la": "25",
+            "dist": "384"
         },
         {
             "player": "jac caglianone",
@@ -5738,7 +5798,7 @@
             "team": "sea",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6570,6 +6630,21 @@
         }
     ],
     "ari @ chw": [
+        {
+            "player": "jose herrera",
+            "game": "ari @ chw",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-06-24 21:30:38",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "99.6",
+            "la": "25",
+            "dist": "391"
+        },
         {
             "player": "alek thomas",
             "game": "ari @ chw",
@@ -8135,6 +8210,21 @@
     ],
     "chc @ stl": [
         {
+            "player": "victor scott",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-06-24 21:33:09",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "pedro pages",
             "game": "chc @ stl",
             "hr/park": "",
@@ -8144,10 +8234,10 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "90.0",
+            "la": "46",
+            "dist": "288"
         },
         {
             "player": "reese mcguire",
@@ -8932,6 +9022,36 @@
     ],
     "phi @ hou": [
         {
+            "player": "yainer diaz",
+            "game": "phi @ hou",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-24 21:33:09",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "edmundo sosa",
+            "game": "phi @ hou",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-06-24 21:30:38",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "GIDP",
+            "evo": "107.3",
+            "la": "-15",
+            "dist": "9"
+        },
+        {
             "player": "otto kemp",
             "game": "phi @ hou",
             "hr/park": "",
@@ -9528,7 +9648,7 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
