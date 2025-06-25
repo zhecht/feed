@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "110",
-        "batters": "275",
-        "pitches": "3523",
+        "pitchers": "111",
+        "batters": "276",
+        "pitches": "3529",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "34.6",
@@ -13,22 +13,22 @@
         "sl%slider %": "20.2",
         "cu%curve %": "9.8",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "268",
-        "hh%hard hit %": "41.0",
+        "hhhard hit": "269",
+        "hh%hard hit %": "41.1",
         "brlbarrels": "49",
         "brl%barrel %": "7.5",
-        "ab": "811",
-        "avg": ".238",
-        "h": "193",
+        "ab": "813",
+        "avg": ".239",
+        "h": "194",
         "1b": "135",
         "2b": "30",
-        "3b": "1",
+        "3b": "2",
         "hr": "27",
         "so": "188",
-        "bipballs in play": "653",
+        "bipballs in play": "655",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-24 22:13:32.092709"
+        "updated": "2025-06-24 22:13:44.450039"
     },
     "tex @ bal": [
         {
@@ -1308,6 +1308,21 @@
         }
     ],
     "ath @ det": [
+        {
+            "player": "dillon dingler",
+            "game": "ath @ det",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-06-24 22:13:38",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "max muncy",
             "game": "ath @ det",
@@ -4774,7 +4789,7 @@
             "team": "nyy",
             "start": "7:10 PM",
             "in": "11",
-            "result": "In Progress",
+            "result": "Wild Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7028,10 +7043,10 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "65.8",
+            "la": "-18",
+            "dist": "12"
         },
         {
             "player": "ryan jeffers",
@@ -13016,6 +13031,21 @@
     ],
     "bos @ laa": [
         {
+            "player": "nate eaton",
+            "game": "bos @ laa",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-06-24 22:13:38",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "9:38 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "marcelo mayer",
             "game": "bos @ laa",
             "hr/park": "",
@@ -13025,10 +13055,10 @@
             "team": "bos",
             "start": "9:38 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Triple",
+            "evo": "102.4",
+            "la": "3",
+            "dist": "80"
         },
         {
             "player": "gustavo campero",
