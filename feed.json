@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "20",
-        "batters": "133",
-        "pitches": "790",
+        "batters": "134",
+        "pitches": "794",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "73.5",
-        "ff%fourseam fastball %": "42.5",
-        "si%sinker %": "6.6",
+        "ff%fourseam fastball %": "42.7",
+        "si%sinker %": "6.7",
         "fc%cutter %": "8.2",
         "fs%splitter %": "0.6",
-        "ch%changeup %": "12.2",
-        "sl%slider %": "18.4",
-        "cu%curve %": "11.4",
+        "ch%changeup %": "12.0",
+        "sl%slider %": "18.5",
+        "cu%curve %": "11.2",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "57",
-        "hh%hard hit %": "44.2",
+        "hhhard hit": "59",
+        "hh%hard hit %": "45.0",
         "brlbarrels": "10",
-        "brl%barrel %": "7.8",
-        "ab": "175",
-        "avg": ".200",
+        "brl%barrel %": "7.6",
+        "ab": "176",
+        "avg": ".199",
         "h": "35",
         "1b": "27",
         "2b": "4",
         "3b": "0",
         "hr": "4",
         "so": "46",
-        "bipballs in play": "129",
+        "bipballs in play": "131",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-24 20:06:18.438804"
+        "updated": "2025-06-24 20:06:26.746667"
     },
     "tex @ bal": [
         {
@@ -619,6 +619,21 @@
     ],
     "ath @ det": [
         {
+            "player": "max muncy",
+            "game": "ath @ det",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-06-24 20:06:24",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "6:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "austin wynns",
             "game": "ath @ det",
             "hr/park": "",
@@ -680,21 +695,6 @@
         }
     ],
     "tor @ cle": [
-        {
-            "player": "jose ramirez",
-            "game": "tor @ cle",
-            "hr/park": "",
-            "pa": "44",
-            "dt": "2025-06-24 20:04:52",
-            "img": "https://www.mlbstatic.com/team-logos/114.svg",
-            "team": "cle",
-            "start": "6:40 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "lane thomas",
             "game": "tor @ cle",
@@ -1352,10 +1352,10 @@
             "team": "atl",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "97.5",
+            "la": "60",
+            "dist": "203"
         },
         {
             "player": "drake baldwin",
@@ -1719,6 +1719,21 @@
         }
     ],
     "nyy @ cin": [
+        {
+            "player": "paul goldschmidt",
+            "game": "nyy @ cin",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-06-24 20:06:24",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "Pop Out",
+            "evo": "95.1",
+            "la": "64",
+            "dist": "169"
+        },
         {
             "player": "cody bellinger",
             "game": "nyy @ cin",
@@ -2288,7 +2303,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
