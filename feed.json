@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "102",
         "batters": "270",
-        "pitches": "3381",
+        "pitches": "3386",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "34.6",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.1",
         "fs%splitter %": "1.9",
         "ch%changeup %": "12.3",
-        "sl%slider %": "20.0",
+        "sl%slider %": "20.1",
         "cu%curve %": "9.8",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "258",
+        "hhhard hit": "259",
         "hh%hard hit %": "41.5",
         "brlbarrels": "48",
         "brl%barrel %": "7.7",
-        "ab": "778",
+        "ab": "777",
         "avg": ".239",
         "h": "186",
         "1b": "131",
         "2b": "28",
         "3b": "1",
         "hr": "26",
-        "so": "181",
-        "bipballs in play": "622",
+        "so": "183",
+        "bipballs in play": "624",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-24 22:06:16.108860"
+        "updated": "2025-06-24 22:06:28.225737"
     },
     "tex @ bal": [
         {
@@ -4699,10 +4699,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "10",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "81.3",
+            "la": "68",
+            "dist": "140"
         },
         {
             "player": "santiago espinal",
@@ -8988,21 +8988,6 @@
     ],
     "pit @ mil": [
         {
-            "player": "sal frelick",
-            "game": "pit @ mil",
-            "hr/park": "",
-            "pa": "69",
-            "dt": "2025-06-24 22:06:10",
-            "img": "https://www.mlbstatic.com/team-logos/158.svg",
-            "team": "mil",
-            "start": "7:40 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "joey ortiz",
             "game": "pit @ mil",
             "hr/park": "",
@@ -11077,6 +11062,21 @@
     ],
     "phi @ hou": [
         {
+            "player": "jt realmuto",
+            "game": "phi @ hou",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-06-24 22:06:24",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "8:10 PM",
+            "in": "8",
+            "result": "Flyout",
+            "evo": "95.0",
+            "la": "49",
+            "dist": "273"
+        },
+        {
             "player": "nick castellanos",
             "game": "phi @ hou",
             "hr/park": "",
@@ -11086,7 +11086,7 @@
             "team": "phi",
             "start": "8:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12787,7 +12787,7 @@
             "team": "wsh",
             "start": "9:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -13014,7 +13014,7 @@
             "team": "mia",
             "start": "9:45 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
