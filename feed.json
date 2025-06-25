@@ -1,23 +1,23 @@
 {
     "all": {
         "pitchers": "34",
-        "batters": "203",
-        "pitches": "1672",
+        "batters": "204",
+        "pitches": "1676",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "71.6",
-        "ff%fourseam fastball %": "39.4",
-        "si%sinker %": "9.9",
+        "ff%fourseam fastball %": "39.3",
+        "si%sinker %": "10.0",
         "fc%cutter %": "6.6",
         "fs%splitter %": "0.6",
         "ch%changeup %": "13.2",
-        "sl%slider %": "20.3",
-        "cu%curve %": "9.9",
+        "sl%slider %": "20.2",
+        "cu%curve %": "9.8",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "138",
-        "hh%hard hit %": "45.1",
+        "hh%hard hit %": "45.0",
         "brlbarrels": "30",
         "brl%barrel %": "9.8",
-        "ab": "385",
+        "ab": "386",
         "avg": ".236",
         "h": "91",
         "1b": "64",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "18",
         "so": "90",
-        "bipballs in play": "306",
+        "bipballs in play": "307",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-24 20:49:15.621926"
+        "updated": "2025-06-24 20:49:25.465053"
     },
     "tex @ bal": [
         {
@@ -4578,17 +4578,17 @@
         {
             "player": "jose herrera",
             "game": "ari @ chw",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "32",
             "dt": "2025-06-24 20:48:08",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "start": "7:40 PM",
             "in": "5",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "89.0",
+            "la": "26",
+            "dist": "304"
         },
         {
             "player": "alek thomas",
@@ -6081,6 +6081,21 @@
         }
     ],
     "phi @ hou": [
+        {
+            "player": "cooper hummel",
+            "game": "phi @ hou",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-06-24 20:49:23",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "yainer diaz",
             "game": "phi @ hou",
