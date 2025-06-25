@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "80",
-        "batters": "235",
-        "pitches": "2894",
+        "pitchers": "81",
+        "batters": "236",
+        "pitches": "2909",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "34.9",
-        "si%sinker %": "13.8",
+        "ff%fourseam fastball %": "34.8",
+        "si%sinker %": "13.7",
         "fc%cutter %": "6.8",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "12.8",
-        "sl%slider %": "19.7",
-        "cu%curve %": "10.2",
+        "ch%changeup %": "12.9",
+        "sl%slider %": "19.8",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "228",
-        "hh%hard hit %": "43.6",
+        "hhhard hit": "231",
+        "hh%hard hit %": "43.8",
         "brlbarrels": "44",
-        "brl%barrel %": "8.4",
-        "ab": "661",
-        "avg": ".242",
-        "h": "160",
-        "1b": "110",
-        "2b": "23",
+        "brl%barrel %": "8.3",
+        "ab": "666",
+        "avg": ".245",
+        "h": "163",
+        "1b": "112",
+        "2b": "24",
         "3b": "1",
         "hr": "26",
-        "so": "161",
-        "bipballs in play": "523",
+        "so": "162",
+        "bipballs in play": "528",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-24 21:46:40.382936"
+        "updated": "2025-06-24 21:46:51.194593"
     },
     "tex @ bal": [
         {
@@ -41,7 +41,7 @@
             "team": "tex",
             "start": "6:35 PM",
             "in": "10",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1233,6 +1233,36 @@
         }
     ],
     "ath @ det": [
+        {
+            "player": "denzel clarke",
+            "game": "ath @ det",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-06-24 21:46:44",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "tyler soderstrom",
+            "game": "ath @ det",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-06-24 21:46:44",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "Single",
+            "evo": "105.1",
+            "la": "18",
+            "dist": "343"
+        },
         {
             "player": "colt keith",
             "game": "ath @ det",
@@ -6323,10 +6353,10 @@
             "team": "sea",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "82.8",
+            "la": "59",
+            "dist": "191"
         },
         {
             "player": "luke raley",
@@ -7260,6 +7290,36 @@
         }
     ],
     "ari @ chw": [
+        {
+            "player": "lourdes gurriel",
+            "game": "ari @ chw",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-06-24 21:46:44",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "Forceout",
+            "evo": "76.8",
+            "la": "-40",
+            "dist": "2"
+        },
+        {
+            "player": "pavin smith",
+            "game": "ari @ chw",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-24 21:44:38",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "Single",
+            "evo": "99.1",
+            "la": "11",
+            "dist": "188"
+        },
         {
             "player": "michael a taylor",
             "game": "ari @ chw",
@@ -10569,6 +10629,21 @@
     ],
     "lad @ col": [
         {
+            "player": "mookie betts",
+            "game": "lad @ col",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-06-24 21:46:44",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "8:40 PM",
+            "in": "4",
+            "result": "Double",
+            "evo": "97.8",
+            "la": "4",
+            "dist": "87"
+        },
+        {
             "player": "shohei ohtani",
             "game": "lad @ col",
             "hr/park": "",
@@ -11081,6 +11156,21 @@
     ],
     "bos @ laa": [
         {
+            "player": "romy gonzalez",
+            "game": "bos @ laa",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-06-24 21:46:44",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "roman anthony",
             "game": "bos @ laa",
             "hr/park": "",
@@ -11122,7 +11212,7 @@
             "team": "wsh",
             "start": "9:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
