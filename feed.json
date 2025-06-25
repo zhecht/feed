@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "37",
         "batters": "208",
-        "pitches": "1774",
+        "pitches": "1779",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "71.6",
-        "ff%fourseam fastball %": "38.8",
-        "si%sinker %": "10.3",
-        "fc%cutter %": "6.7",
+        "ff%fourseam fastball %": "39.0",
+        "si%sinker %": "10.2",
+        "fc%cutter %": "6.6",
         "fs%splitter %": "0.6",
-        "ch%changeup %": "13.4",
-        "sl%slider %": "20.3",
+        "ch%changeup %": "13.5",
+        "sl%slider %": "20.2",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "147",
-        "hh%hard hit %": "45.9",
-        "brlbarrels": "32",
-        "brl%barrel %": "10.0",
-        "ab": "408",
-        "avg": ".245",
-        "h": "100",
+        "hhhard hit": "146",
+        "hh%hard hit %": "45.5",
+        "brlbarrels": "31",
+        "brl%barrel %": "9.7",
+        "ab": "409",
+        "avg": ".242",
+        "h": "99",
         "1b": "67",
         "2b": "12",
         "3b": "1",
-        "hr": "20",
-        "so": "96",
-        "bipballs in play": "320",
+        "hr": "19",
+        "so": "97",
+        "bipballs in play": "321",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-24 20:54:07.068219"
+        "updated": "2025-06-24 20:54:16.372994"
     },
     "tex @ bal": [
         {
@@ -42,9 +42,9 @@
             "start": "6:35 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "84.3",
+            "la": "-19",
+            "dist": "10"
         },
         {
             "player": "coby mayo",
@@ -1403,17 +1403,17 @@
         {
             "player": "lane thomas",
             "game": "tor @ cle",
-            "hr/park": "30/30",
+            "hr/park": "",
             "pa": "64",
             "dt": "2025-06-24 20:52:23",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
             "team": "cle",
             "start": "6:40 PM",
             "in": "7",
-            "result": "Home Run",
-            "evo": "104.7",
-            "la": "29",
-            "dist": "389"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "steven kwan",
@@ -2372,7 +2372,7 @@
             "team": "atl",
             "start": "7:10 PM",
             "in": "6",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3025,6 +3025,21 @@
     ],
     "nyy @ cin": [
         {
+            "player": "oswald peraza",
+            "game": "nyy @ cin",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-06-24 20:54:10",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "austin wells",
             "game": "nyy @ cin",
             "hr/park": "",
@@ -3034,7 +3049,7 @@
             "team": "nyy",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3732,21 +3747,6 @@
     ],
     "tb @ kc": [
         {
-            "player": "vinnie pasquantino",
-            "game": "tb @ kc",
-            "hr/park": "",
-            "pa": "36",
-            "dt": "2025-06-24 20:53:37",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "start": "7:40 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jake mangum",
             "game": "tb @ kc",
             "hr/park": "",
@@ -4274,21 +4274,6 @@
     ],
     "sea @ min": [
         {
-            "player": "ty france",
-            "game": "sea @ min",
-            "hr/park": "",
-            "pa": "35",
-            "dt": "2025-06-24 20:53:37",
-            "img": "https://www.mlbstatic.com/team-logos/142.svg",
-            "team": "min",
-            "start": "7:40 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "matt wallner",
             "game": "sea @ min",
             "hr/park": "",
@@ -4298,7 +4283,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "4",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6769,9 +6754,9 @@
             "start": "8:40 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "66.0",
+            "la": "-50",
+            "dist": "3"
         },
         {
             "player": "michael toglia",
