@@ -1,17 +1,17 @@
 {
     "all": {
-        "pitchers": "106",
+        "pitchers": "107",
         "batters": "274",
-        "pitches": "3449",
+        "pitches": "3458",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "34.7",
+        "ff%fourseam fastball %": "34.6",
         "si%sinker %": "13.7",
         "fc%cutter %": "7.2",
         "fs%splitter %": "2.0",
-        "ch%changeup %": "12.2",
+        "ch%changeup %": "12.3",
         "sl%slider %": "20.0",
-        "cu%curve %": "9.8",
+        "cu%curve %": "9.9",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "263",
         "hh%hard hit %": "41.3",
@@ -24,11 +24,11 @@
         "2b": "28",
         "3b": "1",
         "hr": "26",
-        "so": "187",
+        "so": "188",
         "bipballs in play": "637",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-24 22:10:05.932175"
+        "updated": "2025-06-24 22:10:17.906115"
     },
     "tex @ bal": [
         {
@@ -3608,36 +3608,6 @@
     ],
     "atl @ nym": [
         {
-            "player": "jeff mcneil",
-            "game": "atl @ nym",
-            "hr/park": "",
-            "pa": "77",
-            "dt": "2025-06-24 22:09:53",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "7:10 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
-            "player": "starling marte",
-            "game": "atl @ nym",
-            "hr/park": "",
-            "pa": "76",
-            "dt": "2025-06-24 22:09:53",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "7:10 PM",
-            "in": "9",
-            "result": "Flyout",
-            "evo": "83.1",
-            "la": "30",
-            "dist": "301"
-        },
-        {
             "player": "stuart fairchild",
             "game": "atl @ nym",
             "hr/park": "",
@@ -6998,7 +6968,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9108,6 +9078,21 @@
     ],
     "pit @ mil": [
         {
+            "player": "jackson chourio",
+            "game": "pit @ mil",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-06-24 22:09:25",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "Groundout",
+            "evo": "82.6",
+            "la": "-14",
+            "dist": "7"
+        },
+        {
             "player": "sal frelick",
             "game": "pit @ mil",
             "hr/park": "",
@@ -10144,6 +10129,21 @@
         }
     ],
     "chc @ stl": [
+        {
+            "player": "ian happ",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-06-24 22:10:09",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:45 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "pedro pages",
             "game": "chc @ stl",
