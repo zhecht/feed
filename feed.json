@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "115",
         "batters": "286",
-        "pitches": "3676",
+        "pitches": "3683",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "34.9",
-        "si%sinker %": "13.5",
+        "si%sinker %": "13.6",
         "fc%cutter %": "7.0",
         "fs%splitter %": "1.9",
         "ch%changeup %": "12.1",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.6",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "278",
-        "hh%hard hit %": "41.1",
+        "hh%hard hit %": "40.9",
         "brlbarrels": "52",
         "brl%barrel %": "7.7",
-        "ab": "846",
-        "avg": ".242",
-        "h": "205",
-        "1b": "142",
+        "ab": "847",
+        "avg": ".243",
+        "h": "206",
+        "1b": "143",
         "2b": "33",
         "3b": "2",
         "hr": "28",
         "so": "199",
-        "bipballs in play": "677",
+        "bipballs in play": "679",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-24 22:22:31.192379"
+        "updated": "2025-06-24 22:22:43.406538"
     },
     "tex @ bal": [
         {
@@ -1319,9 +1319,9 @@
             "start": "6:40 PM",
             "in": "8",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "61.2",
+            "la": "-18",
+            "dist": "9"
         },
         {
             "player": "colt keith",
@@ -3668,21 +3668,6 @@
     ],
     "atl @ nym": [
         {
-            "player": "francisco lindor",
-            "game": "atl @ nym",
-            "hr/park": "",
-            "pa": "81",
-            "dt": "2025-06-24 22:22:24",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "7:10 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "ronny mauricio",
             "game": "atl @ nym",
             "hr/park": "0/30",
@@ -4884,6 +4869,21 @@
         }
     ],
     "nyy @ cin": [
+        {
+            "player": "tyler stephenson",
+            "game": "nyy @ cin",
+            "hr/park": "",
+            "pa": "83",
+            "dt": "2025-06-24 22:22:39",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "11",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "spencer steer",
             "game": "nyy @ cin",
@@ -13663,6 +13663,21 @@
     ],
     "wsh @ sd": [
         {
+            "player": "daylen lile",
+            "game": "wsh @ sd",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-06-24 22:22:39",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "9:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brady house",
             "game": "wsh @ sd",
             "hr/park": "",
@@ -13672,10 +13687,10 @@
             "team": "wsh",
             "start": "9:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "69.5",
+            "la": "32",
+            "dist": "216"
         },
         {
             "player": "josh bell",
