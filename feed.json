@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "28",
         "batters": "192",
-        "pitches": "1351",
+        "pitches": "1356",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "72.3",
-        "ff%fourseam fastball %": "40.4",
-        "si%sinker %": "9.9",
+        "ff%fourseam fastball %": "40.3",
+        "si%sinker %": "10.0",
         "fc%cutter %": "6.3",
         "fs%splitter %": "0.6",
         "ch%changeup %": "12.5",
-        "sl%slider %": "20.2",
+        "sl%slider %": "20.3",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "109",
-        "hh%hard hit %": "44.3",
+        "hhhard hit": "112",
+        "hh%hard hit %": "45.2",
         "brlbarrels": "22",
         "brl%barrel %": "8.9",
         "ab": "313",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "12",
         "so": "76",
-        "bipballs in play": "246",
+        "bipballs in play": "248",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-24 20:34:45.983120"
+        "updated": "2025-06-24 20:34:55.276893"
     },
     "tex @ bal": [
         {
@@ -844,6 +844,21 @@
     ],
     "ath @ det": [
         {
+            "player": "colt keith",
+            "game": "ath @ det",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-06-24 20:34:52",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "104.0",
+            "la": "49",
+            "dist": "327"
+        },
+        {
             "player": "trey sweeney",
             "game": "ath @ det",
             "hr/park": "",
@@ -853,7 +868,7 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1141,9 +1156,9 @@
             "start": "6:40 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "82.8",
-            "la": "51",
-            "dist": "238"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "vladimir guerrero",
@@ -1975,17 +1990,17 @@
         {
             "player": "matt olson",
             "game": "atl @ nym",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "38",
             "dt": "2025-06-24 20:33:08",
             "img": "https://www.mlbstatic.com/team-logos/144.svg",
             "team": "atl",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "96.6",
+            "la": "49",
+            "dist": "314"
         },
         {
             "player": "ronald acuna",
@@ -3901,21 +3916,6 @@
     ],
     "ari @ chw": [
         {
-            "player": "randal grichuk",
-            "game": "ari @ chw",
-            "hr/park": "",
-            "pa": "26",
-            "dt": "2025-06-24 20:34:07",
-            "img": "https://www.mlbstatic.com/team-logos/109.svg",
-            "team": "ari",
-            "start": "7:40 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jake mccarthy",
             "game": "ari @ chw",
             "hr/park": "",
@@ -3925,7 +3925,7 @@
             "team": "ari",
             "start": "7:40 PM",
             "in": "4",
-            "result": "Pop Out",
+            "result": "In Progress",
             "evo": "86.5",
             "la": "64",
             "dist": "170"
@@ -5076,6 +5076,21 @@
         }
     ],
     "phi @ hou": [
+        {
+            "player": "trea turner",
+            "game": "phi @ hou",
+            "hr/park": "0/30",
+            "pa": "13",
+            "dt": "2025-06-24 20:34:52",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "95.2",
+            "la": "32",
+            "dist": "342"
+        },
         {
             "player": "johan rojas",
             "game": "phi @ hou",
