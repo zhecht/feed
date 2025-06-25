@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "25",
         "batters": "163",
-        "pitches": "1023",
+        "pitches": "1025",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "73.5",
-        "ff%fourseam fastball %": "41.5",
+        "ff%fourseam fastball %": "41.4",
         "si%sinker %": "8.2",
         "fc%cutter %": "7.2",
         "fs%splitter %": "0.5",
         "ch%changeup %": "11.9",
-        "sl%slider %": "20.6",
-        "cu%curve %": "9.9",
+        "sl%slider %": "20.8",
+        "cu%curve %": "10.0",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "84",
-        "hh%hard hit %": "47.2",
+        "hh%hard hit %": "46.9",
         "brlbarrels": "16",
-        "brl%barrel %": "9.0",
-        "ab": "234",
-        "avg": ".226",
-        "h": "53",
-        "1b": "39",
+        "brl%barrel %": "8.9",
+        "ab": "233",
+        "avg": ".232",
+        "h": "54",
+        "1b": "40",
         "2b": "6",
         "3b": "1",
         "hr": "7",
-        "so": "57",
-        "bipballs in play": "178",
+        "so": "58",
+        "bipballs in play": "179",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-24 20:18:30.851561"
+        "updated": "2025-06-24 20:18:39.391231"
     },
     "tex @ bal": [
         {
@@ -885,7 +885,7 @@
             "team": "tor",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1613,21 +1613,6 @@
     ],
     "atl @ nym": [
         {
-            "player": "jeff mcneil",
-            "game": "atl @ nym",
-            "hr/park": "",
-            "pa": "31",
-            "dt": "2025-06-24 20:17:38",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "7:10 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "starling marte",
             "game": "atl @ nym",
             "hr/park": "",
@@ -2089,10 +2074,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "74.1",
+            "la": "-15",
+            "dist": "7"
         },
         {
             "player": "tyler stephenson",
@@ -2834,6 +2819,21 @@
     ],
     "sea @ min": [
         {
+            "player": "randy arozarena",
+            "game": "sea @ min",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-06-24 20:18:38",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cal raleigh",
             "game": "sea @ min",
             "hr/park": "",
@@ -2843,7 +2843,7 @@
             "team": "sea",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "77.4",
             "la": "22",
             "dist": "218"
@@ -2873,7 +2873,7 @@
             "team": "sea",
             "start": "7:40 PM",
             "in": "3",
-            "result": "Official Scorer Ruling Pending",
+            "result": "Sac Bunt",
             "evo": "32.9",
             "la": "-20",
             "dist": "5"
