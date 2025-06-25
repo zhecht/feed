@@ -1,51 +1,36 @@
 {
     "all": {
-        "pitchers": "92",
-        "batters": "246",
-        "pitches": "3053",
+        "pitchers": "91",
+        "batters": "245",
+        "pitches": "3056",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "35.0",
+        "ff%fourseam fastball %": "34.9",
         "si%sinker %": "14.0",
-        "fc%cutter %": "6.6",
-        "fs%splitter %": "1.8",
+        "fc%cutter %": "6.5",
+        "fs%splitter %": "1.7",
         "ch%changeup %": "12.7",
-        "sl%slider %": "19.9",
+        "sl%slider %": "20.0",
         "cu%curve %": "10.0",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "240",
-        "hh%hard hit %": "43.6",
-        "brlbarrels": "46",
-        "brl%barrel %": "8.3",
-        "ab": "701",
+        "hhhard hit": "241",
+        "hh%hard hit %": "43.5",
+        "brlbarrels": "47",
+        "brl%barrel %": "8.5",
+        "ab": "703",
         "avg": ".240",
-        "h": "168",
+        "h": "169",
         "1b": "116",
-        "2b": "25",
+        "2b": "26",
         "3b": "1",
         "hr": "26",
         "so": "169",
-        "bipballs in play": "551",
+        "bipballs in play": "554",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-24 21:52:28.693247"
+        "updated": "2025-06-24 21:52:40.227022"
     },
     "tex @ bal": [
-        {
-            "player": "wyatt langford",
-            "game": "tex @ bal",
-            "hr/park": "",
-            "pa": "82",
-            "dt": "2025-06-24 21:51:24",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "6:35 PM",
-            "in": "10",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "ezequiel duran",
             "game": "tex @ bal",
@@ -56,7 +41,7 @@
             "team": "tex",
             "start": "6:35 PM",
             "in": "10",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3437,10 +3422,10 @@
             "team": "atl",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "93.0",
+            "la": "9",
+            "dist": "157"
         },
         {
             "player": "austin riley",
@@ -4465,11 +4450,11 @@
     ],
     "nyy @ cin": [
         {
-            "player": "jasson dominguez",
+            "player": "trent grisham",
             "game": "nyy @ cin",
             "hr/park": "",
-            "pa": "71",
-            "dt": "2025-06-24 21:52:23",
+            "pa": "72",
+            "dt": "2025-06-24 21:52:38",
             "img": "https://www.mlbstatic.com/team-logos/147.svg",
             "team": "nyy",
             "start": "7:10 PM",
@@ -4478,6 +4463,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "jasson dominguez",
+            "game": "nyy @ cin",
+            "hr/park": "0/30",
+            "pa": "71",
+            "dt": "2025-06-24 21:52:23",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:10 PM",
+            "in": "10",
+            "result": "Lineout",
+            "evo": "91.9",
+            "la": "20",
+            "dist": "304"
         },
         {
             "player": "austin wells",
@@ -5531,6 +5531,21 @@
         }
     ],
     "tb @ kc": [
+        {
+            "player": "junior caminero",
+            "game": "tb @ kc",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-06-24 21:52:38",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:40 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "58.3",
+            "la": "-45",
+            "dist": "5"
+        },
         {
             "player": "curtis mead",
             "game": "tb @ kc",
@@ -7510,10 +7525,10 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "107.8",
+            "la": "17",
+            "dist": "284"
         },
         {
             "player": "randal grichuk",
@@ -8417,6 +8432,21 @@
         }
     ],
     "pit @ mil": [
+        {
+            "player": "bryan reynolds",
+            "game": "pit @ mil",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-06-24 21:52:38",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "andrew mccutchen",
             "game": "pit @ mil",
@@ -11667,21 +11697,6 @@
         }
     ],
     "wsh @ sd": [
-        {
-            "player": "fernando tatis",
-            "game": "wsh @ sd",
-            "hr/park": "",
-            "pa": "6",
-            "dt": "2025-06-24 21:51:54",
-            "img": "https://www.mlbstatic.com/team-logos/135.svg",
-            "team": "sd",
-            "start": "9:40 PM",
-            "in": "1",
-            "result": "Pop Out",
-            "evo": "92.0",
-            "la": "64",
-            "dist": "164"
-        },
         {
             "player": "josh bell",
             "game": "wsh @ sd",
