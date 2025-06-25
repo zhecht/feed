@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "16",
-        "batters": "47",
-        "pitches": "510",
+        "batters": "48",
+        "pitches": "513",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "77.5",
-        "ff%fourseam fastball %": "42.7",
+        "ff%fourseam fastball %": "42.9",
         "si%sinker %": "8.0",
         "fc%cutter %": "3.9",
         "fs%splitter %": "0.8",
         "ch%changeup %": "8.2",
         "sl%slider %": "21.6",
-        "cu%curve %": "14.7",
+        "cu%curve %": "14.6",
         "max evmax exit velocity": "109.4",
         "hhhard hit": "40",
         "hh%hard hit %": "42.6",
         "brlbarrels": "8",
         "brl%barrel %": "8.5",
-        "ab": "123",
-        "avg": ".228",
+        "ab": "125",
+        "avg": ".224",
         "h": "28",
         "1b": "20",
         "2b": "5",
@@ -28,9 +28,24 @@
         "bipballs in play": "94",
         "liveGames": 4,
         "totGames": 15,
-        "updated": "2025-06-25 16:20:39.541097"
+        "updated": "2025-06-25 16:20:47.561237"
     },
     "ari @ chw": [
+        {
+            "player": "lourdes gurriel",
+            "game": "ari @ chw",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-06-25 16:20:44",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "josh naylor",
             "game": "ari @ chw",
@@ -41,7 +56,7 @@
             "team": "ari",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1988,6 +2003,21 @@
     ],
     "wsh @ sd": [
         {
+            "player": "jackson merrill",
+            "game": "wsh @ sd",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-06-25 16:20:44",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "manny machado",
             "game": "wsh @ sd",
             "hr/park": "",
@@ -1997,7 +2027,7 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "85.0",
             "la": "35",
             "dist": "297"
