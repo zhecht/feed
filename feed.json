@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "46",
-        "batters": "219",
-        "pitches": "2120",
+        "batters": "218",
+        "pitches": "2125",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "71.6",
         "ff%fourseam fastball %": "36.7",
-        "si%sinker %": "11.9",
-        "fc%cutter %": "6.4",
+        "si%sinker %": "12.0",
+        "fc%cutter %": "6.3",
         "fs%splitter %": "1.1",
         "ch%changeup %": "13.2",
         "sl%slider %": "20.5",
         "cu%curve %": "10.0",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "175",
-        "hh%hard hit %": "45.6",
+        "hhhard hit": "178",
+        "hh%hard hit %": "45.8",
         "brlbarrels": "36",
-        "brl%barrel %": "9.4",
+        "brl%barrel %": "9.3",
         "ab": "483",
-        "avg": ".246",
-        "h": "119",
-        "1b": "81",
-        "2b": "16",
+        "avg": ".253",
+        "h": "122",
+        "1b": "83",
+        "2b": "17",
         "3b": "1",
         "hr": "21",
-        "so": "116",
-        "bipballs in play": "384",
+        "so": "114",
+        "bipballs in play": "389",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-24 21:10:52.010417"
+        "updated": "2025-06-24 21:11:01.666448"
     },
     "tex @ bal": [
         {
@@ -2718,9 +2718,9 @@
             "start": "7:10 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "109.1",
+            "la": "11",
+            "dist": "201"
         },
         {
             "player": "ronald acuna",
@@ -4272,19 +4272,34 @@
     ],
     "tb @ kc": [
         {
-            "player": "kyle isbel",
+            "player": "jonathan india",
             "game": "tb @ kc",
             "hr/park": "",
+            "pa": "45",
+            "dt": "2025-06-24 21:09:23",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "Double",
+            "evo": "101.6",
+            "la": "21",
+            "dist": "328"
+        },
+        {
+            "player": "kyle isbel",
+            "game": "tb @ kc",
+            "hr/park": "0/30",
             "pa": "44",
             "dt": "2025-06-24 21:06:53",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "90.8",
+            "la": "28",
+            "dist": "318"
         },
         {
             "player": "john rave",
@@ -4312,9 +4327,9 @@
             "start": "7:40 PM",
             "in": "6",
             "result": "Groundout",
-            "evo": "93.6",
-            "la": "-11",
-            "dist": "14"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "taylor walls",
@@ -4933,21 +4948,6 @@
         }
     ],
     "sea @ min": [
-        {
-            "player": "donovan solano",
-            "game": "sea @ min",
-            "hr/park": "",
-            "pa": "46",
-            "dt": "2025-06-24 21:10:38",
-            "img": "https://www.mlbstatic.com/team-logos/136.svg",
-            "team": "sea",
-            "start": "7:40 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "carlos correa",
             "game": "sea @ min",
@@ -5626,6 +5626,21 @@
     ],
     "ari @ chw": [
         {
+            "player": "chase meidroth",
+            "game": "ari @ chw",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-06-24 21:10:55",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "Single",
+            "evo": "95.8",
+            "la": "",
+            "dist": "44"
+        },
+        {
             "player": "lourdes gurriel",
             "game": "ari @ chw",
             "hr/park": "",
@@ -6252,10 +6267,10 @@
             "team": "pit",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "69.4",
+            "la": "19",
+            "dist": "153"
         },
         {
             "player": "brice turang",
@@ -8004,21 +8019,6 @@
     ],
     "lad @ col": [
         {
-            "player": "kyle farmer",
-            "game": "lad @ col",
-            "hr/park": "",
-            "pa": "15",
-            "dt": "2025-06-24 21:08:52",
-            "img": "https://www.mlbstatic.com/team-logos/115.svg",
-            "team": "col",
-            "start": "8:40 PM",
-            "in": "2",
-            "result": "Strikeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "brenton doyle",
             "game": "lad @ col",
             "hr/park": "",
@@ -8028,7 +8028,7 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "2",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
