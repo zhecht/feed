@@ -1,17 +1,17 @@
 {
     "all": {
         "pitchers": "103",
-        "batters": "273",
-        "pitches": "3419",
+        "batters": "272",
+        "pitches": "3423",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "34.6",
+        "ff%fourseam fastball %": "34.7",
         "si%sinker %": "13.8",
-        "fc%cutter %": "7.2",
-        "fs%splitter %": "1.9",
+        "fc%cutter %": "7.1",
+        "fs%splitter %": "2.0",
         "ch%changeup %": "12.2",
         "sl%slider %": "20.1",
-        "cu%curve %": "9.9",
+        "cu%curve %": "9.8",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "261",
         "hh%hard hit %": "41.4",
@@ -28,7 +28,7 @@
         "bipballs in play": "631",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-24 22:08:28.680325"
+        "updated": "2025-06-24 22:08:40.713082"
     },
     "tex @ bal": [
         {
@@ -1318,7 +1318,7 @@
             "team": "ath",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4729,7 +4729,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "10",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12686,21 +12686,6 @@
     ],
     "bos @ laa": [
         {
-            "player": "gustavo campero",
-            "game": "bos @ laa",
-            "hr/park": "",
-            "pa": "14",
-            "dt": "2025-06-24 22:07:56",
-            "img": "https://www.mlbstatic.com/team-logos/108.svg",
-            "team": "laa",
-            "start": "9:38 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jo adell",
             "game": "bos @ laa",
             "hr/park": "",
@@ -12710,7 +12695,7 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "2",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
