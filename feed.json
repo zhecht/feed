@@ -1,36 +1,51 @@
 {
     "all": {
         "pitchers": "85",
-        "batters": "239",
-        "pitches": "2958",
+        "batters": "242",
+        "pitches": "2972",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "34.9",
         "si%sinker %": "13.9",
         "fc%cutter %": "6.7",
-        "fs%splitter %": "1.8",
+        "fs%splitter %": "1.7",
         "ch%changeup %": "12.8",
-        "sl%slider %": "19.7",
-        "cu%curve %": "10.1",
+        "sl%slider %": "19.8",
+        "cu%curve %": "10.0",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "235",
+        "hhhard hit": "236",
         "hh%hard hit %": "43.8",
         "brlbarrels": "45",
-        "brl%barrel %": "8.4",
-        "ab": "678",
-        "avg": ".243",
-        "h": "165",
-        "1b": "114",
+        "brl%barrel %": "8.3",
+        "ab": "681",
+        "avg": ".244",
+        "h": "166",
+        "1b": "115",
         "2b": "24",
         "3b": "1",
         "hr": "26",
-        "so": "164",
-        "bipballs in play": "536",
+        "so": "165",
+        "bipballs in play": "539",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-24 21:49:04.416350"
+        "updated": "2025-06-24 21:49:15.588633"
     },
     "tex @ bal": [
+        {
+            "player": "ezequiel duran",
+            "game": "tex @ bal",
+            "hr/park": "",
+            "pa": "81",
+            "dt": "2025-06-24 21:47:53",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "6:35 PM",
+            "in": "10",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kyle higashioka",
             "game": "tex @ bal",
@@ -1243,10 +1258,10 @@
             "team": "ath",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "74.0",
+            "la": "15",
+            "dist": "188"
         },
         {
             "player": "tyler soderstrom",
@@ -3368,21 +3383,6 @@
     ],
     "atl @ nym": [
         {
-            "player": "austin riley",
-            "game": "atl @ nym",
-            "hr/park": "",
-            "pa": "68",
-            "dt": "2025-06-24 21:48:23",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "7:10 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "marcell ozuna",
             "game": "atl @ nym",
             "hr/park": "",
@@ -5436,10 +5436,10 @@
             "team": "tb",
             "start": "7:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "96.3",
+            "la": "-2",
+            "dist": "35"
         },
         {
             "player": "kyle isbel",
@@ -6373,6 +6373,21 @@
         }
     ],
     "sea @ min": [
+        {
+            "player": "carlos correa",
+            "game": "sea @ min",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-06-24 21:49:08",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "donovan solano",
             "game": "sea @ min",
@@ -8218,9 +8233,9 @@
             "start": "7:40 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "92.6",
+            "la": "-22",
+            "dist": "7"
         },
         {
             "player": "christian yelich",
@@ -9119,7 +9134,7 @@
             "team": "chc",
             "start": "7:45 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "85.6",
             "la": "50",
             "dist": "265"
@@ -11353,6 +11368,21 @@
     ],
     "wsh @ sd": [
         {
+            "player": "josh bell",
+            "game": "wsh @ sd",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-06-24 21:49:08",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nathaniel lowe",
             "game": "wsh @ sd",
             "hr/park": "",
@@ -11362,7 +11392,7 @@
             "team": "wsh",
             "start": "9:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11415,9 +11445,24 @@
     ],
     "mia @ sf": [
         {
-            "player": "xavier edwards",
+            "player": "jesus sanchez",
             "game": "mia @ sf",
             "hr/park": "",
+            "pa": "2",
+            "dt": "2025-06-24 21:49:08",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "9:45 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "xavier edwards",
+            "game": "mia @ sf",
+            "hr/park": "0/30",
             "pa": "1",
             "dt": "2025-06-24 21:47:22",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
