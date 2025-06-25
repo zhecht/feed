@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "27",
-        "batters": "184",
-        "pitches": "1237",
+        "batters": "185",
+        "pitches": "1241",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "73.5",
-        "ff%fourseam fastball %": "40.8",
+        "ff%fourseam fastball %": "40.9",
         "si%sinker %": "9.0",
-        "fc%cutter %": "6.5",
+        "fc%cutter %": "6.4",
         "fs%splitter %": "0.6",
-        "ch%changeup %": "12.4",
-        "sl%slider %": "20.4",
-        "cu%curve %": "10.3",
+        "ch%changeup %": "12.2",
+        "sl%slider %": "20.5",
+        "cu%curve %": "10.2",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "100",
-        "hh%hard hit %": "44.8",
-        "brlbarrels": "20",
-        "brl%barrel %": "9.0",
+        "hh%hard hit %": "44.6",
+        "brlbarrels": "21",
+        "brl%barrel %": "9.4",
         "ab": "285",
-        "avg": ".239",
-        "h": "68",
+        "avg": ".242",
+        "h": "69",
         "1b": "51",
         "2b": "6",
         "3b": "1",
-        "hr": "10",
-        "so": "68",
-        "bipballs in play": "223",
+        "hr": "11",
+        "so": "69",
+        "bipballs in play": "224",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-24 20:29:18.748397"
+        "updated": "2025-06-24 20:29:27.767779"
     },
     "tex @ bal": [
         {
@@ -813,6 +813,21 @@
         }
     ],
     "ath @ det": [
+        {
+            "player": "dillon dingler",
+            "game": "ath @ det",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-06-24 20:29:23",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "parker meadows",
             "game": "ath @ det",
@@ -2937,21 +2952,6 @@
     ],
     "tb @ kc": [
         {
-            "player": "jose caballero",
-            "game": "tb @ kc",
-            "hr/park": "",
-            "pa": "24",
-            "dt": "2025-06-24 20:28:54",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "7:40 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jake mangum",
             "game": "tb @ kc",
             "hr/park": "",
@@ -3308,7 +3308,7 @@
             "team": "sea",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3655,10 +3655,10 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "3",
-            "result": "Groundout",
-            "evo": "98.1",
-            "la": "-27",
-            "dist": "4"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "mike tauchman",
@@ -3987,10 +3987,10 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "83.0",
+            "la": "37",
+            "dist": "286"
         },
         {
             "player": "jackson chourio",
@@ -4379,10 +4379,10 @@
             "team": "chc",
             "start": "7:45 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "110.2",
+            "la": "19",
+            "dist": "404"
         },
         {
             "player": "kyle tucker",
