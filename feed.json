@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "47",
-        "batters": "181",
-        "pitches": "1755",
+        "batters": "182",
+        "pitches": "1759",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "71.8",
-        "ff%fourseam fastball %": "37.1",
+        "ff%fourseam fastball %": "37.2",
         "si%sinker %": "8.5",
         "fc%cutter %": "6.4",
-        "fs%splitter %": "1.7",
+        "fs%splitter %": "1.6",
         "ch%changeup %": "9.2",
         "sl%slider %": "23.8",
-        "cu%curve %": "13.3",
+        "cu%curve %": "13.2",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "113",
-        "hh%hard hit %": "37.9",
+        "hh%hard hit %": "37.5",
         "brlbarrels": "24",
-        "brl%barrel %": "8.1",
-        "ab": "409",
-        "avg": ".203",
-        "h": "83",
-        "1b": "59",
+        "brl%barrel %": "8.0",
+        "ab": "411",
+        "avg": ".204",
+        "h": "84",
+        "1b": "60",
         "2b": "13",
         "3b": "0",
         "hr": "11",
         "so": "114",
-        "bipballs in play": "298",
+        "bipballs in play": "301",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-25 19:56:26.297646"
+        "updated": "2025-06-25 19:56:35.833614"
     },
     "ari @ chw": [
         {
@@ -5279,6 +5279,21 @@
     ],
     "tor @ cle": [
         {
+            "player": "jose ramirez",
+            "game": "tor @ cle",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-06-25 19:56:31",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle manzardo",
             "game": "tor @ cle",
             "hr/park": "",
@@ -5288,10 +5303,10 @@
             "team": "cle",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "90.4",
+            "la": "17",
+            "dist": "256"
         },
         {
             "player": "steven kwan",
@@ -6714,6 +6729,21 @@
     ],
     "chc @ stl": [
         {
+            "player": "masyn winn",
+            "game": "chc @ stl",
+            "hr/park": "0/30",
+            "pa": "6",
+            "dt": "2025-06-25 19:56:31",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "1",
+            "result": "Flyout",
+            "evo": "86.7",
+            "la": "36",
+            "dist": "310"
+        },
+        {
             "player": "brendan donovan",
             "game": "chc @ stl",
             "hr/park": "",
@@ -6723,10 +6753,10 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "79.4",
+            "la": "-32",
+            "dist": "3"
         },
         {
             "player": "pete crow armstrong",
