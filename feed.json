@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "69",
         "batters": "227",
-        "pitches": "2646",
+        "pitches": "2654",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "71.6",
         "ff%fourseam fastball %": "34.9",
@@ -11,24 +11,24 @@
         "fs%splitter %": "1.5",
         "ch%changeup %": "12.9",
         "sl%slider %": "19.9",
-        "cu%curve %": "10.4",
+        "cu%curve %": "10.3",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "212",
-        "hh%hard hit %": "43.9",
+        "hhhard hit": "214",
+        "hh%hard hit %": "44.0",
         "brlbarrels": "40",
-        "brl%barrel %": "8.3",
-        "ab": "606",
-        "avg": ".246",
-        "h": "149",
-        "1b": "103",
+        "brl%barrel %": "8.2",
+        "ab": "610",
+        "avg": ".249",
+        "h": "152",
+        "1b": "106",
         "2b": "21",
         "3b": "1",
         "hr": "24",
-        "so": "145",
-        "bipballs in play": "483",
+        "so": "146",
+        "bipballs in play": "486",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-24 21:35:50.554470"
+        "updated": "2025-06-24 21:36:01.115076"
     },
     "tex @ bal": [
         {
@@ -1198,7 +1198,7 @@
             "team": "ath",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1925,6 +1925,21 @@
         }
     ],
     "tor @ cle": [
+        {
+            "player": "andres gimenez",
+            "game": "tor @ cle",
+            "hr/park": "",
+            "pa": "82",
+            "dt": "2025-06-24 21:35:54",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "myles straw",
             "game": "tor @ cle",
@@ -4075,6 +4090,36 @@
     ],
     "nyy @ cin": [
         {
+            "player": "jazz chisholm",
+            "game": "nyy @ cin",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-06-24 21:35:24",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "paul goldschmidt",
+            "game": "nyy @ cin",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-06-24 21:34:53",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "Flyout",
+            "evo": "97.9",
+            "la": "41",
+            "dist": "332"
+        },
+        {
             "player": "cody bellinger",
             "game": "nyy @ cin",
             "hr/park": "",
@@ -5888,10 +5933,10 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "57.3",
+            "la": "40",
+            "dist": "169"
         },
         {
             "player": "cal raleigh",
@@ -6745,7 +6790,7 @@
             "team": "ari",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "94.2",
             "la": "12",
             "dist": "190"
@@ -7528,9 +7573,9 @@
             "start": "7:40 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "81.2",
-            "la": "-6",
-            "dist": "26"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "isiah kiner falefa",
@@ -8345,6 +8390,21 @@
     ],
     "chc @ stl": [
         {
+            "player": "masyn winn",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-06-24 21:35:54",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brendan donovan",
             "game": "chc @ stl",
             "hr/park": "",
@@ -8354,10 +8414,10 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "105.0",
+            "la": "-2",
+            "dist": "38"
         },
         {
             "player": "victor scott",
@@ -9181,10 +9241,10 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "78.8",
+            "la": "24",
+            "dist": "248"
         },
         {
             "player": "yainer diaz",
