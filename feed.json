@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "43",
         "batters": "216",
-        "pitches": "2018",
+        "pitches": "2019",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "71.6",
-        "ff%fourseam fastball %": "37.6",
+        "ff%fourseam fastball %": "37.5",
         "si%sinker %": "11.5",
         "fc%cutter %": "6.3",
-        "fs%splitter %": "0.9",
-        "ch%changeup %": "13.1",
+        "fs%splitter %": "0.8",
+        "ch%changeup %": "13.2",
         "sl%slider %": "20.1",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "170",
-        "hh%hard hit %": "45.9",
+        "hhhard hit": "171",
+        "hh%hard hit %": "46.0",
         "brlbarrels": "36",
         "brl%barrel %": "9.7",
-        "ab": "463",
-        "avg": ".248",
-        "h": "115",
-        "1b": "78",
+        "ab": "464",
+        "avg": ".250",
+        "h": "116",
+        "1b": "79",
         "2b": "15",
         "3b": "1",
         "hr": "21",
         "so": "110",
-        "bipballs in play": "370",
+        "bipballs in play": "372",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-24 21:06:07.338285"
+        "updated": "2025-06-24 21:06:17.048551"
     },
     "tex @ bal": [
         {
@@ -1560,10 +1560,10 @@
             "team": "tor",
             "start": "6:40 PM",
             "in": "8",
-            "result": "Fielders Choice",
-            "evo": "51.6",
-            "la": "-5",
-            "dist": "21"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "ernie clement",
@@ -3350,9 +3350,9 @@
             "start": "7:10 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "85.6",
+            "la": "22",
+            "dist": "244"
         },
         {
             "player": "jose trevino",
@@ -4783,6 +4783,21 @@
         }
     ],
     "sea @ min": [
+        {
+            "player": "trevor larnach",
+            "game": "sea @ min",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-06-24 21:06:10",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "92.4",
+            "la": "-3",
+            "dist": "20"
+        },
         {
             "player": "luke raley",
             "game": "sea @ min",
@@ -6659,10 +6674,10 @@
             "team": "chc",
             "start": "7:45 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "102.3",
+            "la": "13",
+            "dist": "231"
         },
         {
             "player": "reese mcguire",
