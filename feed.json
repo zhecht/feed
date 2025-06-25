@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "50",
+        "pitchers": "52",
         "batters": "223",
-        "pitches": "2222",
+        "pitches": "2231",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "71.6",
-        "ff%fourseam fastball %": "36.4",
-        "si%sinker %": "12.2",
+        "ff%fourseam fastball %": "36.6",
+        "si%sinker %": "12.0",
         "fc%cutter %": "6.3",
         "fs%splitter %": "1.3",
         "ch%changeup %": "13.0",
-        "sl%slider %": "20.4",
-        "cu%curve %": "10.3",
+        "sl%slider %": "20.5",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "185",
-        "hh%hard hit %": "45.3",
+        "hh%hard hit %": "45.5",
         "brlbarrels": "38",
         "brl%barrel %": "9.3",
-        "ab": "507",
-        "avg": ".254",
+        "ab": "510",
+        "avg": ".253",
         "h": "129",
         "1b": "87",
         "2b": "18",
         "3b": "1",
         "hr": "23",
-        "so": "120",
-        "bipballs in play": "408",
+        "so": "122",
+        "bipballs in play": "407",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-24 21:15:59.691030"
+        "updated": "2025-06-24 21:16:10.853753"
     },
     "tex @ bal": [
         {
@@ -41,7 +41,7 @@
             "team": "bal",
             "start": "6:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1083,6 +1083,21 @@
         }
     ],
     "ath @ det": [
+        {
+            "player": "brent rooker",
+            "game": "ath @ det",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-24 21:16:09",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jacob wilson",
             "game": "ath @ det",
@@ -2792,7 +2807,7 @@
             "team": "atl",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3564,6 +3579,36 @@
         }
     ],
     "nyy @ cin": [
+        {
+            "player": "ben rice",
+            "game": "nyy @ cin",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-24 21:16:09",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "trent grisham",
+            "game": "nyy @ cin",
+            "hr/park": "0/30",
+            "pa": "56",
+            "dt": "2025-06-24 21:16:09",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "Flyout",
+            "evo": "100.7",
+            "la": "37",
+            "dist": "376"
+        },
         {
             "player": "tj friedl",
             "game": "nyy @ cin",
@@ -4391,6 +4436,21 @@
         }
     ],
     "tb @ kc": [
+        {
+            "player": "chandler simpson",
+            "game": "tb @ kc",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-06-24 21:16:09",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "bobby witt",
             "game": "tb @ kc",
@@ -7175,6 +7235,21 @@
     ],
     "chc @ stl": [
         {
+            "player": "lars nootbaar",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-06-24 21:15:08",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "5",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "pete crow armstrong",
             "game": "chc @ stl",
             "hr/park": "",
@@ -7836,36 +7911,6 @@
         }
     ],
     "phi @ hou": [
-        {
-            "player": "alec bohm",
-            "game": "phi @ hou",
-            "hr/park": "",
-            "pa": "33",
-            "dt": "2025-06-24 21:14:08",
-            "img": "https://www.mlbstatic.com/team-logos/143.svg",
-            "team": "phi",
-            "start": "8:10 PM",
-            "in": "5",
-            "result": "Groundout",
-            "evo": "102.9",
-            "la": "1",
-            "dist": "57"
-        },
-        {
-            "player": "kyle schwarber",
-            "game": "phi @ hou",
-            "hr/park": "",
-            "pa": "32",
-            "dt": "2025-06-24 21:13:38",
-            "img": "https://www.mlbstatic.com/team-logos/143.svg",
-            "team": "phi",
-            "start": "8:10 PM",
-            "in": "5",
-            "result": "Pop Out",
-            "evo": "59.6",
-            "la": "56",
-            "dist": "144"
-        },
         {
             "player": "trea turner",
             "game": "phi @ hou",
