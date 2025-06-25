@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "48",
         "batters": "220",
-        "pitches": "2170",
+        "pitches": "2178",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "71.6",
-        "ff%fourseam fastball %": "36.6",
-        "si%sinker %": "12.1",
+        "ff%fourseam fastball %": "36.5",
+        "si%sinker %": "12.0",
         "fc%cutter %": "6.4",
         "fs%splitter %": "1.3",
         "ch%changeup %": "13.0",
-        "sl%slider %": "20.3",
+        "sl%slider %": "20.4",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "181",
-        "hh%hard hit %": "45.4",
+        "hhhard hit": "180",
+        "hh%hard hit %": "45.0",
         "brlbarrels": "37",
         "brl%barrel %": "9.3",
-        "ab": "497",
-        "avg": ".249",
-        "h": "124",
-        "1b": "84",
+        "ab": "500",
+        "avg": ".252",
+        "h": "126",
+        "1b": "86",
         "2b": "17",
         "3b": "1",
         "hr": "22",
         "so": "118",
-        "bipballs in play": "399",
+        "bipballs in play": "400",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-24 21:13:20.499016"
+        "updated": "2025-06-24 21:13:30.229828"
     },
     "tex @ bal": [
         {
@@ -3529,10 +3529,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "7",
-            "result": "Groundout",
-            "evo": "95.1",
-            "la": "1",
-            "dist": "55"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "santiago espinal",
@@ -4346,6 +4346,21 @@
         }
     ],
     "tb @ kc": [
+        {
+            "player": "bobby witt",
+            "game": "tb @ kc",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-06-24 21:11:55",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jonathan india",
             "game": "tb @ kc",
@@ -6408,6 +6423,36 @@
     ],
     "pit @ mil": [
         {
+            "player": "nick gonzales",
+            "game": "pit @ mil",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-06-24 21:13:23",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "bryan reynolds",
+            "game": "pit @ mil",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-06-24 21:11:38",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "Single",
+            "evo": "75.0",
+            "la": "19",
+            "dist": "150"
+        },
+        {
             "player": "andrew mccutchen",
             "game": "pit @ mil",
             "hr/park": "",
@@ -6417,10 +6462,10 @@
             "team": "pit",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "69.4",
+            "la": "19",
+            "dist": "153"
         },
         {
             "player": "brice turang",
