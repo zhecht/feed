@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "28",
         "batters": "191",
-        "pitches": "1324",
+        "pitches": "1326",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "72.3",
         "ff%fourseam fastball %": "40.6",
-        "si%sinker %": "9.9",
-        "fc%cutter %": "6.1",
+        "si%sinker %": "9.7",
+        "fc%cutter %": "6.3",
         "fs%splitter %": "0.6",
-        "ch%changeup %": "12.5",
+        "ch%changeup %": "12.4",
         "sl%slider %": "20.2",
         "cu%curve %": "10.0",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "107",
-        "hh%hard hit %": "44.2",
+        "hhhard hit": "108",
+        "hh%hard hit %": "44.6",
         "brlbarrels": "22",
         "brl%barrel %": "9.1",
-        "ab": "307",
-        "avg": ".244",
+        "ab": "306",
+        "avg": ".245",
         "h": "75",
         "1b": "56",
-        "2b": "7",
+        "2b": "6",
         "3b": "1",
-        "hr": "11",
+        "hr": "12",
         "so": "72",
         "bipballs in play": "242",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-24 20:33:05.700895"
+        "updated": "2025-06-24 20:33:14.532162"
     },
     "tex @ bal": [
         {
@@ -1131,6 +1131,21 @@
     ],
     "tor @ cle": [
         {
+            "player": "alejandro kirk",
+            "game": "tor @ cle",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-06-24 20:32:23",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "vladimir guerrero",
             "game": "tor @ cle",
             "hr/park": "",
@@ -1957,6 +1972,21 @@
         }
     ],
     "atl @ nym": [
+        {
+            "player": "matt olson",
+            "game": "atl @ nym",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-06-24 20:33:08",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ronald acuna",
             "game": "atl @ nym",
@@ -3087,21 +3117,6 @@
     ],
     "tb @ kc": [
         {
-            "player": "taylor walls",
-            "game": "tb @ kc",
-            "hr/park": "",
-            "pa": "26",
-            "dt": "2025-06-24 20:32:53",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "7:40 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "danny jansen",
             "game": "tb @ kc",
             "hr/park": "0/30",
@@ -3481,17 +3496,17 @@
         {
             "player": "kody clemens",
             "game": "sea @ min",
-            "hr/park": "",
+            "hr/park": "22/30",
             "pa": "24",
             "dt": "2025-06-24 20:31:23",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "102.3",
+            "la": "42",
+            "dist": "353"
         },
         {
             "player": "ben williamson",
@@ -3840,36 +3855,6 @@
         }
     ],
     "ari @ chw": [
-        {
-            "player": "jake mccarthy",
-            "game": "ari @ chw",
-            "hr/park": "",
-            "pa": "25",
-            "dt": "2025-06-24 20:32:53",
-            "img": "https://www.mlbstatic.com/team-logos/109.svg",
-            "team": "ari",
-            "start": "7:40 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
-            "player": "lourdes gurriel",
-            "game": "ari @ chw",
-            "hr/park": "",
-            "pa": "24",
-            "dt": "2025-06-24 20:31:52",
-            "img": "https://www.mlbstatic.com/team-logos/109.svg",
-            "team": "ari",
-            "start": "7:40 PM",
-            "in": "4",
-            "result": "Double",
-            "evo": "77.8",
-            "la": "22",
-            "dist": "240"
-        },
         {
             "player": "pavin smith",
             "game": "ari @ chw",
