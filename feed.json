@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "60",
-        "batters": "225",
-        "pitches": "2404",
+        "batters": "226",
+        "pitches": "2410",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "71.6",
-        "ff%fourseam fastball %": "35.8",
-        "si%sinker %": "12.5",
+        "ff%fourseam fastball %": "35.9",
+        "si%sinker %": "12.6",
         "fc%cutter %": "6.4",
         "fs%splitter %": "1.4",
         "ch%changeup %": "12.8",
         "sl%slider %": "20.5",
         "cu%curve %": "10.4",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "195",
+        "hhhard hit": "196",
         "hh%hard hit %": "44.3",
-        "brlbarrels": "38",
-        "brl%barrel %": "8.6",
-        "ab": "552",
-        "avg": ".245",
+        "brlbarrels": "39",
+        "brl%barrel %": "8.8",
+        "ab": "555",
+        "avg": ".243",
         "h": "135",
         "1b": "92",
         "2b": "19",
         "3b": "1",
         "hr": "23",
-        "so": "131",
-        "bipballs in play": "440",
+        "so": "132",
+        "bipballs in play": "442",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-24 21:24:43.505381"
+        "updated": "2025-06-24 21:24:53.891743"
     },
     "tex @ bal": [
         {
@@ -41,10 +41,10 @@
             "team": "tex",
             "start": "6:35 PM",
             "in": "9",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "83.5",
+            "la": "-39",
+            "dist": "5"
         },
         {
             "player": "marcus semien",
@@ -1775,6 +1775,21 @@
         }
     ],
     "tor @ cle": [
+        {
+            "player": "nolan jones",
+            "game": "tor @ cle",
+            "hr/park": "",
+            "pa": "77",
+            "dt": "2025-06-24 21:24:08",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "107.4",
+            "la": "18",
+            "dist": "372"
+        },
         {
             "player": "angel martinez",
             "game": "tor @ cle",
@@ -8437,6 +8452,21 @@
     ],
     "phi @ hou": [
         {
+            "player": "jt realmuto",
+            "game": "phi @ hou",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-06-24 21:24:53",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nick castellanos",
             "game": "phi @ hou",
             "hr/park": "",
@@ -8994,6 +9024,21 @@
     ],
     "lad @ col": [
         {
+            "player": "jordan beck",
+            "game": "lad @ col",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-06-24 21:24:53",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "hunter goodman",
             "game": "lad @ col",
             "hr/park": "",
@@ -9003,7 +9048,7 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
