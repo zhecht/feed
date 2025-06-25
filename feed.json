@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "33",
-        "batters": "202",
-        "pitches": "1678",
+        "pitchers": "34",
+        "batters": "204",
+        "pitches": "1693",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "71.6",
         "ff%fourseam fastball %": "39.2",
@@ -13,22 +13,22 @@
         "sl%slider %": "20.2",
         "cu%curve %": "9.8",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "137",
+        "hhhard hit": "139",
         "hh%hard hit %": "45.1",
         "brlbarrels": "30",
-        "brl%barrel %": "9.9",
-        "ab": "382",
-        "avg": ".238",
-        "h": "91",
-        "1b": "64",
-        "2b": "8",
+        "brl%barrel %": "9.7",
+        "ab": "387",
+        "avg": ".243",
+        "h": "94",
+        "1b": "66",
+        "2b": "9",
         "3b": "1",
         "hr": "18",
-        "so": "90",
-        "bipballs in play": "304",
+        "so": "92",
+        "bipballs in play": "308",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-24 20:50:03.528918"
+        "updated": "2025-06-24 20:50:13.230582"
     },
     "tex @ bal": [
         {
@@ -919,6 +919,21 @@
     ],
     "ath @ det": [
         {
+            "player": "wenceel perez",
+            "game": "ath @ det",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-06-24 20:50:08",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "riley greene",
             "game": "ath @ det",
             "hr/park": "19/30",
@@ -1320,7 +1335,7 @@
             "team": "cle",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2267,7 +2282,7 @@
             "team": "atl",
             "start": "7:10 PM",
             "in": "6",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2914,7 +2929,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4094,6 +4109,36 @@
     ],
     "sea @ min": [
         {
+            "player": "carlos correa",
+            "game": "sea @ min",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-06-24 20:50:08",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "brooks lee",
+            "game": "sea @ min",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-06-24 20:49:09",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "Single",
+            "evo": "92.8",
+            "la": "12",
+            "dist": "234"
+        },
+        {
             "player": "trevor larnach",
             "game": "sea @ min",
             "hr/park": "",
@@ -4103,10 +4148,10 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "106.1",
+            "la": "3",
+            "dist": "68"
         },
         {
             "player": "julio rodriguez",
@@ -5052,7 +5097,7 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6383,6 +6428,36 @@
         }
     ],
     "lad @ col": [
+        {
+            "player": "hunter goodman",
+            "game": "lad @ col",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-06-24 20:49:09",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "1",
+            "result": "Single",
+            "evo": "96.9",
+            "la": "13",
+            "dist": "194"
+        },
+        {
+            "player": "tyler freeman",
+            "game": "lad @ col",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-06-24 20:49:09",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "1",
+            "result": "Flyout",
+            "evo": "83.4",
+            "la": "48",
+            "dist": "293"
+        },
         {
             "player": "freddie freeman",
             "game": "lad @ col",
