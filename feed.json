@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "80",
+        "pitchers": "79",
         "batters": "234",
-        "pitches": "2837",
+        "pitches": "2854",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "35.0",
+        "ff%fourseam fastball %": "34.9",
         "si%sinker %": "13.7",
-        "fc%cutter %": "6.9",
+        "fc%cutter %": "6.8",
         "fs%splitter %": "1.7",
-        "ch%changeup %": "12.8",
+        "ch%changeup %": "12.7",
         "sl%slider %": "19.7",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "223",
-        "hh%hard hit %": "43.5",
-        "brlbarrels": "42",
-        "brl%barrel %": "8.2",
-        "ab": "651",
-        "avg": ".240",
-        "h": "156",
-        "1b": "109",
-        "2b": "22",
+        "hhhard hit": "226",
+        "hh%hard hit %": "43.7",
+        "brlbarrels": "43",
+        "brl%barrel %": "8.3",
+        "ab": "656",
+        "avg": ".242",
+        "h": "159",
+        "1b": "110",
+        "2b": "23",
         "3b": "1",
-        "hr": "24",
-        "so": "155",
-        "bipballs in play": "513",
+        "hr": "25",
+        "so": "156",
+        "bipballs in play": "517",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-24 21:44:27.813155"
+        "updated": "2025-06-24 21:44:38.947902"
     },
     "tex @ bal": [
         {
@@ -1243,7 +1243,7 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3308,6 +3308,21 @@
     ],
     "atl @ nym": [
         {
+            "player": "marcell ozuna",
+            "game": "atl @ nym",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-06-24 21:44:38",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "matt olson",
             "game": "atl @ nym",
             "hr/park": "0/30",
@@ -3317,7 +3332,7 @@
             "team": "atl",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "108.2",
             "la": "12",
             "dist": "300"
@@ -4299,21 +4314,6 @@
         }
     ],
     "nyy @ cin": [
-        {
-            "player": "rece hinds",
-            "game": "nyy @ cin",
-            "hr/park": "",
-            "pa": "67",
-            "dt": "2025-06-24 21:44:24",
-            "img": "https://www.mlbstatic.com/team-logos/113.svg",
-            "team": "cin",
-            "start": "7:10 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "anthony volpe",
             "game": "nyy @ cin",
@@ -5306,6 +5306,36 @@
         }
     ],
     "tb @ kc": [
+        {
+            "player": "kyle isbel",
+            "game": "tb @ kc",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-06-24 21:44:09",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "john rave",
+            "game": "tb @ kc",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-06-24 21:42:54",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "Groundout",
+            "evo": "74.2",
+            "la": "-45",
+            "dist": "4"
+        },
         {
             "player": "drew waters",
             "game": "tb @ kc",
@@ -7141,6 +7171,21 @@
     ],
     "ari @ chw": [
         {
+            "player": "pavin smith",
+            "game": "ari @ chw",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-24 21:44:38",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael a taylor",
             "game": "ari @ chw",
             "hr/park": "2/30",
@@ -8864,10 +8909,10 @@
             "team": "chc",
             "start": "7:45 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "113.9",
+            "la": "6",
+            "dist": "147"
         },
         {
             "player": "kyle tucker",
@@ -10434,11 +10479,11 @@
     ],
     "lad @ col": [
         {
-            "player": "michael conforto",
+            "player": "shohei ohtani",
             "game": "lad @ col",
             "hr/park": "",
-            "pa": "32",
-            "dt": "2025-06-24 21:41:25",
+            "pa": "34",
+            "dt": "2025-06-24 21:44:38",
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
             "team": "lad",
             "start": "8:40 PM",
@@ -10447,6 +10492,36 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "tommy edman",
+            "game": "lad @ col",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-06-24 21:43:08",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "8:40 PM",
+            "in": "4",
+            "result": "Field Error",
+            "evo": "100.9",
+            "la": "1",
+            "dist": "63"
+        },
+        {
+            "player": "michael conforto",
+            "game": "lad @ col",
+            "hr/park": "30/30",
+            "pa": "32",
+            "dt": "2025-06-24 21:41:25",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "8:40 PM",
+            "in": "4",
+            "result": "Home Run",
+            "evo": "102.9",
+            "la": "30",
+            "dist": "420"
         },
         {
             "player": "andy pages",
