@@ -1,15 +1,15 @@
 {
     "all": {
         "pitchers": "22",
-        "batters": "145",
-        "pitches": "869",
+        "batters": "148",
+        "pitches": "876",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "73.5",
         "ff%fourseam fastball %": "42.0",
         "si%sinker %": "7.8",
         "fc%cutter %": "8.1",
         "fs%splitter %": "0.6",
-        "ch%changeup %": "12.0",
+        "ch%changeup %": "11.9",
         "sl%slider %": "18.9",
         "cu%curve %": "10.6",
         "max evmax exit velocity": "114.0",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "45.0",
         "brlbarrels": "12",
         "brl%barrel %": "8.1",
-        "ab": "198",
-        "avg": ".212",
+        "ab": "201",
+        "avg": ".209",
         "h": "42",
         "1b": "32",
         "2b": "4",
@@ -28,7 +28,7 @@
         "bipballs in play": "149",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-24 20:11:00.635287"
+        "updated": "2025-06-24 20:11:09.264838"
     },
     "tex @ bal": [
         {
@@ -664,16 +664,31 @@
     ],
     "ath @ det": [
         {
-            "player": "gleyber torres",
+            "player": "kerry carpenter",
             "game": "ath @ det",
             "hr/park": "",
+            "pa": "8",
+            "dt": "2025-06-24 20:11:07",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "gleyber torres",
+            "game": "ath @ det",
+            "hr/park": "0/30",
             "pa": "7",
             "dt": "2025-06-24 20:10:38",
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
             "team": "det",
             "start": "6:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "95.9",
             "la": "41",
             "dist": "332"
@@ -2716,6 +2731,21 @@
     ],
     "ari @ chw": [
         {
+            "player": "ryan noda",
+            "game": "ari @ chw",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-06-24 20:11:07",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alek thomas",
             "game": "ari @ chw",
             "hr/park": "",
@@ -3125,6 +3155,21 @@
     ],
     "chc @ stl": [
         {
+            "player": "nolan gorman",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-06-24 20:11:07",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nolan arenado",
             "game": "chc @ stl",
             "hr/park": "",
@@ -3134,7 +3179,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "72.2",
             "la": "65",
             "dist": "141"
