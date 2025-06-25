@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "101",
-        "batters": "267",
-        "pitches": "3341",
+        "pitchers": "102",
+        "batters": "268",
+        "pitches": "3348",
         "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "34.6",
-        "si%sinker %": "14.0",
+        "si%sinker %": "13.9",
         "fc%cutter %": "7.1",
-        "fs%splitter %": "1.8",
-        "ch%changeup %": "12.4",
-        "sl%slider %": "19.8",
+        "fs%splitter %": "1.9",
+        "ch%changeup %": "12.3",
+        "sl%slider %": "19.9",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "255",
-        "hh%hard hit %": "41.7",
+        "hhhard hit": "256",
+        "hh%hard hit %": "41.6",
         "brlbarrels": "48",
         "brl%barrel %": "7.8",
-        "ab": "767",
-        "avg": ".240",
+        "ab": "769",
+        "avg": ".239",
         "h": "184",
         "1b": "129",
         "2b": "28",
         "3b": "1",
         "hr": "26",
         "so": "180",
-        "bipballs in play": "612",
+        "bipballs in play": "616",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-24 22:04:29.815005"
+        "updated": "2025-06-24 22:04:41.306554"
     },
     "tex @ bal": [
         {
@@ -1318,10 +1318,10 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "82.9",
+            "la": "32",
+            "dist": "297"
         },
         {
             "player": "zach mckinstry",
@@ -4684,10 +4684,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "10",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "78.0",
+            "la": "70",
+            "dist": "128"
         },
         {
             "player": "aaron judge",
@@ -6879,9 +6879,9 @@
             "start": "7:40 PM",
             "in": "9",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "98.6",
+            "la": "40",
+            "dist": "336"
         },
         {
             "player": "jp crawford",
@@ -9950,6 +9950,21 @@
     ],
     "chc @ stl": [
         {
+            "player": "nolan arenado",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-06-24 22:04:39",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "8",
+            "result": "Groundout",
+            "evo": "86.9",
+            "la": "4",
+            "dist": "81"
+        },
+        {
             "player": "carson kelly",
             "game": "chc @ stl",
             "hr/park": "",
@@ -12446,6 +12461,36 @@
     ],
     "bos @ laa": [
         {
+            "player": "jo adell",
+            "game": "bos @ laa",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-06-24 22:04:39",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "logan ohoppe",
+            "game": "bos @ laa",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-06-24 22:03:54",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "2",
+            "result": "GIDP",
+            "evo": "94.9",
+            "la": "-13",
+            "dist": "13"
+        },
+        {
             "player": "taylor ward",
             "game": "bos @ laa",
             "hr/park": "",
@@ -12612,36 +12657,6 @@
         }
     ],
     "wsh @ sd": [
-        {
-            "player": "cj abrams",
-            "game": "wsh @ sd",
-            "hr/park": "",
-            "pa": "15",
-            "dt": "2025-06-24 22:04:10",
-            "img": "https://www.mlbstatic.com/team-logos/120.svg",
-            "team": "wsh",
-            "start": "9:40 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
-            "player": "jacob young",
-            "game": "wsh @ sd",
-            "hr/park": "",
-            "pa": "14",
-            "dt": "2025-06-24 22:03:11",
-            "img": "https://www.mlbstatic.com/team-logos/120.svg",
-            "team": "wsh",
-            "start": "9:40 PM",
-            "in": "2",
-            "result": "Sac Bunt",
-            "evo": "29.2",
-            "la": "-23",
-            "dist": "7"
-        },
         {
             "player": "riley adams",
             "game": "wsh @ sd",
