@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "50",
-        "batters": "221",
-        "pitches": "2185",
+        "pitchers": "49",
+        "batters": "220",
+        "pitches": "2192",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "71.6",
-        "ff%fourseam fastball %": "36.6",
-        "si%sinker %": "12.0",
-        "fc%cutter %": "6.4",
+        "ff%fourseam fastball %": "36.5",
+        "si%sinker %": "12.1",
+        "fc%cutter %": "6.3",
         "fs%splitter %": "1.3",
-        "ch%changeup %": "13.0",
-        "sl%slider %": "20.4",
+        "ch%changeup %": "13.1",
+        "sl%slider %": "20.3",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "114.0",
-        "hhhard hit": "181",
-        "hh%hard hit %": "45.1",
+        "hhhard hit": "182",
+        "hh%hard hit %": "45.2",
         "brlbarrels": "37",
         "brl%barrel %": "9.2",
-        "ab": "504",
+        "ab": "503",
         "avg": ".250",
         "h": "126",
         "1b": "86",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "22",
         "so": "118",
-        "bipballs in play": "401",
+        "bipballs in play": "403",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-24 21:14:00.338799"
+        "updated": "2025-06-24 21:14:10.029683"
     },
     "tex @ bal": [
         {
@@ -1686,21 +1686,6 @@
     ],
     "tor @ cle": [
         {
-            "player": "nathan lukes",
-            "game": "tor @ cle",
-            "hr/park": "",
-            "pa": "73",
-            "dt": "2025-06-24 21:13:38",
-            "img": "https://www.mlbstatic.com/team-logos/141.svg",
-            "team": "tor",
-            "start": "6:40 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "george springer",
             "game": "tor @ cle",
             "hr/park": "29/30",
@@ -2792,7 +2777,7 @@
             "team": "atl",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3559,10 +3544,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "95.1",
+            "la": "1",
+            "dist": "55"
         },
         {
             "player": "santiago espinal",
@@ -4379,7 +4364,7 @@
         {
             "player": "bobby witt",
             "game": "tb @ kc",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "46",
             "dt": "2025-06-24 21:11:55",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
@@ -7822,6 +7807,21 @@
     ],
     "phi @ hou": [
         {
+            "player": "alec bohm",
+            "game": "phi @ hou",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-06-24 21:14:08",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle schwarber",
             "game": "phi @ hou",
             "hr/park": "",
@@ -7831,10 +7831,10 @@
             "team": "phi",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "59.6",
+            "la": "56",
+            "dist": "144"
         },
         {
             "player": "trea turner",
