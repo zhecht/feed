@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "109",
         "batters": "275",
-        "pitches": "3493",
+        "pitches": "3503",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "34.6",
-        "si%sinker %": "13.7",
+        "si%sinker %": "13.6",
         "fc%cutter %": "7.2",
         "fs%splitter %": "2.0",
         "ch%changeup %": "12.2",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.8",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "267",
-        "hh%hard hit %": "41.3",
+        "hh%hard hit %": "41.1",
         "brlbarrels": "49",
         "brl%barrel %": "7.6",
-        "ab": "805",
-        "avg": ".237",
-        "h": "191",
-        "1b": "134",
-        "2b": "29",
+        "ab": "807",
+        "avg": ".239",
+        "h": "193",
+        "1b": "135",
+        "2b": "30",
         "3b": "1",
         "hr": "27",
         "so": "188",
-        "bipballs in play": "647",
+        "bipballs in play": "649",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-24 22:12:31.322624"
+        "updated": "2025-06-24 22:12:43.279367"
     },
     "tex @ bal": [
         {
@@ -7013,7 +7013,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "9",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "48.5",
             "la": "-18",
             "dist": "9"
@@ -10220,6 +10220,21 @@
     ],
     "chc @ stl": [
         {
+            "player": "seiya suzuki",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "74",
+            "dt": "2025-06-24 22:12:39",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:45 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle tucker",
             "game": "chc @ stl",
             "hr/park": "",
@@ -10229,7 +10244,7 @@
             "team": "chc",
             "start": "7:45 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "105.6",
             "la": "12",
             "dist": "272"
@@ -11317,6 +11332,21 @@
     ],
     "phi @ hou": [
         {
+            "player": "mauricio dubon",
+            "game": "phi @ hou",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-06-24 22:12:39",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cooper hummel",
             "game": "phi @ hou",
             "hr/park": "21/30",
@@ -12189,6 +12219,21 @@
     ],
     "lad @ col": [
         {
+            "player": "thairo estrada",
+            "game": "lad @ col",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-06-24 22:12:39",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "5",
+            "result": "Sac Fly",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael toglia",
             "game": "lad @ col",
             "hr/park": "",
@@ -12198,10 +12243,10 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "84.1",
+            "la": "15",
+            "dist": "195"
         },
         {
             "player": "jordan beck",
@@ -13427,7 +13472,7 @@
         {
             "player": "eric wagaman",
             "game": "mia @ sf",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "10",
             "dt": "2025-06-24 22:07:38",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
