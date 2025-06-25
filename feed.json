@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "45",
-        "batters": "218",
-        "pitches": "2098",
+        "batters": "219",
+        "pitches": "2105",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "71.6",
         "ff%fourseam fastball %": "36.9",
@@ -11,24 +11,24 @@
         "fs%splitter %": "1.0",
         "ch%changeup %": "13.1",
         "sl%slider %": "20.5",
-        "cu%curve %": "10.0",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "175",
-        "hh%hard hit %": "45.7",
+        "hh%hard hit %": "45.6",
         "brlbarrels": "36",
         "brl%barrel %": "9.4",
-        "ab": "481",
-        "avg": ".247",
+        "ab": "480",
+        "avg": ".248",
         "h": "119",
         "1b": "81",
         "2b": "16",
         "3b": "1",
         "hr": "21",
-        "so": "114",
-        "bipballs in play": "383",
+        "so": "115",
+        "bipballs in play": "384",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-24 21:09:33.326521"
+        "updated": "2025-06-24 21:09:43.072647"
     },
     "tex @ bal": [
         {
@@ -41,7 +41,7 @@
             "team": "bal",
             "start": "6:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1063,10 +1063,10 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "4",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "84.6",
+            "la": "8",
+            "dist": "123"
         },
         {
             "player": "gleyber torres",
@@ -1610,21 +1610,6 @@
         }
     ],
     "tor @ cle": [
-        {
-            "player": "george springer",
-            "game": "tor @ cle",
-            "hr/park": "",
-            "pa": "72",
-            "dt": "2025-06-24 21:09:23",
-            "img": "https://www.mlbstatic.com/team-logos/141.svg",
-            "team": "tor",
-            "start": "6:40 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "alejandro kirk",
             "game": "tor @ cle",
@@ -7531,7 +7516,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7959,6 +7944,21 @@
     ],
     "lad @ col": [
         {
+            "player": "kyle farmer",
+            "game": "lad @ col",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-06-24 21:08:52",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brenton doyle",
             "game": "lad @ col",
             "hr/park": "",
@@ -7968,7 +7968,7 @@
             "team": "col",
             "start": "8:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
