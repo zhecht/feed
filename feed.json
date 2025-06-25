@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "18",
-        "batters": "116",
-        "pitches": "679",
+        "batters": "118",
+        "pitches": "687",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "73.8",
-        "ff%fourseam fastball %": "43.0",
-        "si%sinker %": "6.0",
-        "fc%cutter %": "8.5",
+        "ff%fourseam fastball %": "42.8",
+        "si%sinker %": "6.1",
+        "fc%cutter %": "8.4",
         "fs%splitter %": "0.4",
-        "ch%changeup %": "11.2",
-        "sl%slider %": "18.7",
-        "cu%curve %": "11.9",
+        "ch%changeup %": "11.4",
+        "sl%slider %": "18.9",
+        "cu%curve %": "11.8",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "50",
-        "hh%hard hit %": "45.5",
+        "hh%hard hit %": "45.0",
         "brlbarrels": "8",
-        "brl%barrel %": "7.3",
-        "ab": "153",
-        "avg": ".203",
-        "h": "31",
-        "1b": "25",
+        "brl%barrel %": "7.2",
+        "ab": "154",
+        "avg": ".208",
+        "h": "32",
+        "1b": "26",
         "2b": "4",
         "3b": "0",
         "hr": "2",
         "so": "43",
-        "bipballs in play": "110",
+        "bipballs in play": "111",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-24 20:01:04.555642"
+        "updated": "2025-06-24 20:01:12.865897"
     },
     "tex @ bal": [
         {
@@ -1207,21 +1207,6 @@
     ],
     "atl @ nym": [
         {
-            "player": "austin riley",
-            "game": "atl @ nym",
-            "hr/park": "",
-            "pa": "23",
-            "dt": "2025-06-24 20:00:53",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "7:10 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "francisco lindor",
             "game": "atl @ nym",
             "hr/park": "",
@@ -1556,14 +1541,14 @@
         {
             "player": "ben rice",
             "game": "nyy @ cin",
-            "hr/park": "",
+            "hr/park": "30/30",
             "pa": "22",
             "dt": "2025-06-24 20:00:53",
             "img": "https://www.mlbstatic.com/team-logos/147.svg",
             "team": "nyy",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Home Run",
             "evo": "107.9",
             "la": "31",
             "dist": "427"
@@ -1886,11 +1871,11 @@
     ],
     "tb @ kc": [
         {
-            "player": "taylor walls",
+            "player": "danny jansen",
             "game": "tb @ kc",
             "hr/park": "",
-            "pa": "11",
-            "dt": "2025-06-24 20:00:53",
+            "pa": "10",
+            "dt": "2025-06-24 20:00:22",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "start": "7:40 PM",
@@ -1899,21 +1884,6 @@
             "evo": "",
             "la": "",
             "dist": ""
-        },
-        {
-            "player": "danny jansen",
-            "game": "tb @ kc",
-            "hr/park": "29/30",
-            "pa": "10",
-            "dt": "2025-06-24 20:00:22",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "7:40 PM",
-            "in": "2",
-            "result": "Home Run",
-            "evo": "98.2",
-            "la": "31",
-            "dist": "372"
         },
         {
             "player": "jose caballero",
@@ -2052,6 +2022,21 @@
         }
     ],
     "sea @ min": [
+        {
+            "player": "dominic canzone",
+            "game": "sea @ min",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-06-24 20:01:07",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "donovan solano",
             "game": "sea @ min",
@@ -2312,6 +2297,21 @@
     ],
     "pit @ mil": [
         {
+            "player": "adam frazier",
+            "game": "pit @ mil",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-06-24 19:59:38",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "Single",
+            "evo": "91.4",
+            "la": "14",
+            "dist": "217"
+        },
+        {
             "player": "kebryan hayes",
             "game": "pit @ mil",
             "hr/park": "",
@@ -2449,6 +2449,21 @@
     ],
     "chc @ stl": [
         {
+            "player": "dansby swanson",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-06-24 20:00:08",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:45 PM",
+            "in": "2",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "pete crow armstrong",
             "game": "chc @ stl",
             "hr/park": "",
@@ -2458,10 +2473,10 @@
             "team": "chc",
             "start": "7:45 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "105.5",
+            "la": "-6",
+            "dist": "20"
         },
         {
             "player": "alec burleson",
