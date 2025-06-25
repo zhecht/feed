@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "97",
         "batters": "254",
-        "pitches": "3192",
+        "pitches": "3195",
         "max velomax pitch velocity": "100.7",
         "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "35.0",
-        "si%sinker %": "14.0",
+        "ff%fourseam fastball %": "34.9",
+        "si%sinker %": "14.1",
         "fc%cutter %": "7.0",
         "fs%splitter %": "1.8",
         "ch%changeup %": "12.5",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.8",
         "max evmax exit velocity": "114.0",
         "hhhard hit": "246",
-        "hh%hard hit %": "42.5",
+        "hh%hard hit %": "42.2",
         "brlbarrels": "47",
         "brl%barrel %": "8.1",
-        "ab": "729",
+        "ab": "731",
         "avg": ".237",
         "h": "173",
         "1b": "120",
         "2b": "26",
         "3b": "1",
         "hr": "26",
-        "so": "172",
-        "bipballs in play": "579",
+        "so": "173",
+        "bipballs in play": "583",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-24 21:57:51.900001"
+        "updated": "2025-06-24 21:58:03.460715"
     },
     "tex @ bal": [
         {
@@ -1303,10 +1303,10 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "7",
-            "result": "Single",
-            "evo": "104.3",
-            "la": "5",
-            "dist": "131"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "jahmai jones",
@@ -5667,6 +5667,21 @@
     ],
     "tb @ kc": [
         {
+            "player": "maikel garcia",
+            "game": "tb @ kc",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-06-24 21:57:55",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "102.0",
+            "la": "11",
+            "dist": "249"
+        },
+        {
             "player": "bobby witt",
             "game": "tb @ kc",
             "hr/park": "",
@@ -7696,21 +7711,6 @@
     ],
     "ari @ chw": [
         {
-            "player": "miguel vargas",
-            "game": "ari @ chw",
-            "hr/park": "",
-            "pa": "64",
-            "dt": "2025-06-24 21:57:09",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "start": "7:40 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "andrew benintendi",
             "game": "ari @ chw",
             "hr/park": "",
@@ -7720,7 +7720,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "8",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8657,6 +8657,21 @@
         }
     ],
     "pit @ mil": [
+        {
+            "player": "brice turang",
+            "game": "pit @ mil",
+            "hr/park": "0/30",
+            "pa": "64",
+            "dt": "2025-06-24 21:57:55",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "Flyout",
+            "evo": "94.9",
+            "la": "43",
+            "dist": "314"
+        },
         {
             "player": "nick gonzales",
             "game": "pit @ mil",
@@ -9614,10 +9629,10 @@
             "team": "chc",
             "start": "7:45 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "91.4",
+            "la": "1",
+            "dist": "52"
         },
         {
             "player": "michael busch",
@@ -11990,7 +12005,7 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12090,17 +12105,17 @@
         {
             "player": "gavin sheets",
             "game": "wsh @ sd",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "10",
             "dt": "2025-06-24 21:56:11",
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
             "team": "sd",
             "start": "9:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "89.7",
+            "la": "38",
+            "dist": "301"
         },
         {
             "player": "luis arraez",
@@ -12249,10 +12264,10 @@
             "team": "sf",
             "start": "9:45 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "79.4",
+            "la": "68",
+            "dist": "146"
         },
         {
             "player": "otto lopez",
