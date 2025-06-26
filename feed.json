@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "21",
         "batters": "112",
-        "pitches": "1062",
+        "pitches": "1064",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "70.6",
         "ff%fourseam fastball %": "29.4",
@@ -11,10 +11,10 @@
         "fs%splitter %": "5.5",
         "ch%changeup %": "12.1",
         "sl%slider %": "18.6",
-        "cu%curve %": "9.2",
+        "cu%curve %": "9.3",
         "max evmax exit velocity": "109.6",
-        "hhhard hit": "65",
-        "hh%hard hit %": "33.5",
+        "hhhard hit": "66",
+        "hh%hard hit %": "33.8",
         "brlbarrels": "14",
         "brl%barrel %": "7.2",
         "ab": "250",
@@ -24,11 +24,11 @@
         "2b": "7",
         "3b": "3",
         "hr": "6",
-        "so": "60",
-        "bipballs in play": "194",
+        "so": "61",
+        "bipballs in play": "195",
         "liveGames": 7,
         "totGames": 9,
-        "updated": "2025-06-26 15:42:02.351616"
+        "updated": "2025-06-26 15:42:10.797942"
     },
     "ath @ det": [
         {
@@ -2673,7 +2673,7 @@
             "team": "phi",
             "start": "2:10 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3245,10 +3245,10 @@
             "team": "chc",
             "start": "2:15 PM",
             "in": "5",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "95.0",
+            "la": "-16",
+            "dist": "11"
         },
         {
             "player": "pete crow armstrong",
