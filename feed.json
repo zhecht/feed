@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "100",
         "batters": "270",
-        "pitches": "3560",
+        "pitches": "3563",
         "max velomax pitch velocity": "102.8",
         "min velomin pitch velocity": "69.6",
-        "ff%fourseam fastball %": "32.2",
+        "ff%fourseam fastball %": "32.3",
         "si%sinker %": "13.0",
         "fc%cutter %": "8.5",
         "fs%splitter %": "2.7",
         "ch%changeup %": "8.6",
         "sl%slider %": "24.0",
-        "cu%curve %": "11.0",
+        "cu%curve %": "10.9",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "241",
         "hh%hard hit %": "37.9",
         "brlbarrels": "45",
         "brl%barrel %": "7.1",
-        "ab": "846",
+        "ab": "847",
         "avg": ".207",
         "h": "175",
         "1b": "127",
@@ -28,7 +28,7 @@
         "bipballs in play": "636",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-25 21:54:51.567104"
+        "updated": "2025-06-25 21:55:03.569288"
     },
     "ari @ chw": [
         {
@@ -7435,10 +7435,10 @@
             "team": "atl",
             "start": "7:10 PM",
             "in": "9",
-            "result": "Forceout",
-            "evo": "76.9",
-            "la": "8",
-            "dist": "93"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "matt olson",
@@ -8577,7 +8577,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "83.0",
             "la": "-17",
             "dist": "6"
@@ -9710,6 +9710,21 @@
     ],
     "tb @ kc": [
         {
+            "player": "salvador perez",
+            "game": "tb @ kc",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-06-25 21:54:57",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "vinnie pasquantino",
             "game": "tb @ kc",
             "hr/park": "",
@@ -9719,10 +9734,10 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Field Error",
+            "evo": "90.7",
+            "la": "-25",
+            "dist": "5"
         },
         {
             "player": "maikel garcia",
