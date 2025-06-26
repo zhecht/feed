@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "23",
         "batters": "112",
-        "pitches": "1093",
+        "pitches": "1097",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "70.6",
-        "ff%fourseam fastball %": "29.7",
+        "ff%fourseam fastball %": "29.9",
         "si%sinker %": "15.8",
-        "fc%cutter %": "9.0",
+        "fc%cutter %": "8.9",
         "fs%splitter %": "5.6",
-        "ch%changeup %": "12.1",
+        "ch%changeup %": "12.0",
         "sl%slider %": "18.5",
         "cu%curve %": "9.3",
         "max evmax exit velocity": "109.6",
         "hhhard hit": "67",
-        "hh%hard hit %": "33.7",
+        "hh%hard hit %": "33.5",
         "brlbarrels": "14",
         "brl%barrel %": "7.0",
-        "ab": "256",
-        "avg": ".203",
+        "ab": "257",
+        "avg": ".202",
         "h": "52",
         "1b": "36",
         "2b": "7",
         "3b": "3",
         "hr": "6",
-        "so": "61",
-        "bipballs in play": "199",
+        "so": "62",
+        "bipballs in play": "200",
         "liveGames": 8,
         "totGames": 9,
-        "updated": "2025-06-26 15:45:24.850606"
+        "updated": "2025-06-26 15:45:33.020729"
     },
     "ath @ det": [
         {
@@ -1024,6 +1024,21 @@
     ],
     "tor @ cle": [
         {
+            "player": "nolan jones",
+            "game": "tor @ cle",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-06-26 15:45:27",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "1:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle manzardo",
             "game": "tor @ cle",
             "hr/park": "",
@@ -2017,21 +2032,6 @@
     "sea @ min": [],
     "tb @ kc": [
         {
-            "player": "chandler simpson",
-            "game": "tb @ kc",
-            "hr/park": "",
-            "pa": "46",
-            "dt": "2025-06-26 15:44:55",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "2:10 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "taylor walls",
             "game": "tb @ kc",
             "hr/park": "",
@@ -2718,7 +2718,7 @@
             "team": "phi",
             "start": "2:10 PM",
             "in": "6",
-            "result": "Mound Visit",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3296,11 +3296,11 @@
     ],
     "chc @ stl": [
         {
-            "player": "thomas saggese",
+            "player": "nolan gorman",
             "game": "chc @ stl",
             "hr/park": "",
-            "pa": "38",
-            "dt": "2025-06-26 15:44:12",
+            "pa": "39",
+            "dt": "2025-06-26 15:45:27",
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
             "team": "stl",
             "start": "2:15 PM",
@@ -3309,6 +3309,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "thomas saggese",
+            "game": "chc @ stl",
+            "hr/park": "0/30",
+            "pa": "38",
+            "dt": "2025-06-26 15:44:12",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "2:15 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "89.4",
+            "la": "40",
+            "dist": "330"
         },
         {
             "player": "dansby swanson",
@@ -3877,7 +3892,7 @@
             "team": "lad",
             "start": "3:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "88.6",
             "la": "-30",
             "dist": "6"
