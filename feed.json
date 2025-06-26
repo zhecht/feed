@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "65",
         "batters": "240",
-        "pitches": "2616",
+        "pitches": "2628",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "71.8",
         "ff%fourseam fastball %": "33.4",
         "si%sinker %": "11.5",
-        "fc%cutter %": "7.6",
+        "fc%cutter %": "7.7",
         "fs%splitter %": "1.8",
         "ch%changeup %": "9.1",
-        "sl%slider %": "25.0",
-        "cu%curve %": "11.7",
+        "sl%slider %": "24.9",
+        "cu%curve %": "11.6",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "181",
         "hh%hard hit %": "38.2",
         "brlbarrels": "35",
         "brl%barrel %": "7.4",
-        "ab": "618",
-        "avg": ".222",
+        "ab": "619",
+        "avg": ".221",
         "h": "137",
         "1b": "98",
         "2b": "20",
         "3b": "1",
         "hr": "18",
-        "so": "156",
+        "so": "157",
         "bipballs in play": "474",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-25 20:50:56.746996"
+        "updated": "2025-06-25 20:51:07.336603"
     },
     "ari @ chw": [
         {
@@ -5129,7 +5129,7 @@
         {
             "player": "gleyber torres",
             "game": "ath @ det",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "63",
             "dt": "2025-06-25 20:49:45",
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
@@ -7737,7 +7737,7 @@
             "team": "nyy",
             "start": "7:10 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8420,6 +8420,21 @@
     ],
     "tb @ kc": [
         {
+            "player": "jac caglianone",
+            "game": "tb @ kc",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-06-25 20:50:29",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jonathan aranda",
             "game": "tb @ kc",
             "hr/park": "",
@@ -8977,6 +8992,21 @@
     ],
     "sea @ min": [
         {
+            "player": "miles mastrobuoni",
+            "game": "sea @ min",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-06-25 20:51:00",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cole young",
             "game": "sea @ min",
             "hr/park": "",
@@ -8986,7 +9016,7 @@
             "team": "sea",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9453,7 +9483,7 @@
             "team": "chc",
             "start": "7:45 PM",
             "in": "4",
-            "result": "Stolen Base 2B",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
