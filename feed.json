@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "49",
         "batters": "209",
-        "pitches": "2009",
+        "pitches": "2020",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "71.8",
         "ff%fourseam fastball %": "35.7",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.4",
         "fs%splitter %": "1.6",
         "ch%changeup %": "9.2",
-        "sl%slider %": "24.1",
-        "cu%curve %": "12.6",
+        "sl%slider %": "24.0",
+        "cu%curve %": "12.7",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "137",
-        "hh%hard hit %": "39.0",
+        "hh%hard hit %": "38.8",
         "brlbarrels": "28",
-        "brl%barrel %": "8.0",
-        "ab": "471",
-        "avg": ".210",
-        "h": "99",
-        "1b": "69",
+        "brl%barrel %": "7.9",
+        "ab": "472",
+        "avg": ".212",
+        "h": "100",
+        "1b": "70",
         "2b": "14",
         "3b": "0",
         "hr": "16",
         "so": "124",
-        "bipballs in play": "351",
+        "bipballs in play": "353",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-25 20:13:06.951999"
+        "updated": "2025-06-25 20:13:16.982532"
     },
     "ari @ chw": [
         {
@@ -5519,6 +5519,21 @@
     ],
     "tor @ cle": [
         {
+            "player": "george springer",
+            "game": "tor @ cle",
+            "hr/park": "0/30",
+            "pa": "45",
+            "dt": "2025-06-25 20:13:15",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "Single",
+            "evo": "87.7",
+            "la": "27",
+            "dist": "308"
+        },
+        {
             "player": "alejandro kirk",
             "game": "tor @ cle",
             "hr/park": "",
@@ -6627,7 +6642,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "4",
-            "result": "Game Advisory",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7351,7 +7366,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7775,10 +7790,10 @@
             "team": "phi",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "76.1",
+            "la": "58",
+            "dist": "165"
         }
     ],
     "lad @ col": [],
