@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "101",
         "batters": "270",
-        "pitches": "3577",
+        "pitches": "3583",
         "max velomax pitch velocity": "102.8",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "32.2",
-        "si%sinker %": "13.0",
+        "si%sinker %": "13.1",
         "fc%cutter %": "8.5",
         "fs%splitter %": "2.7",
         "ch%changeup %": "8.6",
@@ -14,21 +14,21 @@
         "cu%curve %": "11.0",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "242",
-        "hh%hard hit %": "37.9",
+        "hh%hard hit %": "37.8",
         "brlbarrels": "45",
         "brl%barrel %": "7.0",
-        "ab": "850",
+        "ab": "851",
         "avg": ".206",
         "h": "175",
         "1b": "127",
         "2b": "26",
         "3b": "1",
         "hr": "21",
-        "so": "226",
-        "bipballs in play": "639",
+        "so": "227",
+        "bipballs in play": "641",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-25 21:56:39.624636"
+        "updated": "2025-06-25 21:56:51.412679"
     },
     "ari @ chw": [
         {
@@ -8577,10 +8577,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "9",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "89.7",
+            "la": "-18",
+            "dist": "10"
         },
         {
             "player": "elly de la cruz",
@@ -9725,6 +9725,21 @@
     ],
     "tb @ kc": [
         {
+            "player": "jac caglianone",
+            "game": "tb @ kc",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-06-25 21:56:43",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "salvador perez",
             "game": "tb @ kc",
             "hr/park": "",
@@ -9734,10 +9749,10 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "83.6",
+            "la": "79",
+            "dist": "43"
         },
         {
             "player": "vinnie pasquantino",
@@ -11673,7 +11688,7 @@
             "team": "chc",
             "start": "7:45 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -13929,7 +13944,7 @@
             "team": "sf",
             "start": "9:45 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "92.7",
             "la": "72",
             "dist": "155"
