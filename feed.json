@@ -1,13 +1,13 @@
 {
     "all": {
-        "pitchers": "72",
+        "pitchers": "73",
         "batters": "252",
-        "pitches": "2862",
+        "pitches": "2868",
         "max velomax pitch velocity": "102.8",
         "min velomin pitch velocity": "69.6",
         "ff%fourseam fastball %": "32.8",
-        "si%sinker %": "12.4",
-        "fc%cutter %": "7.4",
+        "si%sinker %": "12.3",
+        "fc%cutter %": "7.6",
         "fs%splitter %": "2.1",
         "ch%changeup %": "9.1",
         "sl%slider %": "25.0",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "38.2",
         "brlbarrels": "36",
         "brl%barrel %": "6.9",
-        "ab": "679",
-        "avg": ".212",
+        "ab": "681",
+        "avg": ".211",
         "h": "144",
         "1b": "104",
         "2b": "21",
         "3b": "1",
         "hr": "18",
         "so": "176",
-        "bipballs in play": "518",
+        "bipballs in play": "519",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-25 21:05:32.736466"
+        "updated": "2025-06-25 21:05:43.372245"
     },
     "ari @ chw": [
         {
@@ -5181,7 +5181,7 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6223,6 +6223,36 @@
         }
     ],
     "tor @ cle": [
+        {
+            "player": "bo bichette",
+            "game": "tor @ cle",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-06-25 21:05:43",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "andres gimenez",
+            "game": "tor @ cle",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-06-25 21:05:14",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "87.0",
+            "la": "-13",
+            "dist": "8"
+        },
         {
             "player": "lane thomas",
             "game": "tor @ cle",
@@ -10113,7 +10143,7 @@
             "team": "chc",
             "start": "7:45 PM",
             "in": "5",
-            "result": "Field Error",
+            "result": "In Progress",
             "evo": "42.5",
             "la": "-66",
             "dist": "1"
