@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "67",
+        "pitchers": "68",
         "batters": "242",
-        "pitches": "2652",
+        "pitches": "2664",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "71.8",
-        "ff%fourseam fastball %": "33.3",
-        "si%sinker %": "11.5",
-        "fc%cutter %": "7.8",
-        "fs%splitter %": "1.9",
-        "ch%changeup %": "9.2",
+        "ff%fourseam fastball %": "33.4",
+        "si%sinker %": "11.6",
+        "fc%cutter %": "7.7",
+        "fs%splitter %": "2.0",
+        "ch%changeup %": "9.0",
         "sl%slider %": "24.8",
-        "cu%curve %": "11.5",
+        "cu%curve %": "11.4",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "182",
-        "hh%hard hit %": "38.2",
+        "hh%hard hit %": "38.0",
         "brlbarrels": "36",
         "brl%barrel %": "7.5",
-        "ab": "624",
+        "ab": "626",
         "avg": ".220",
-        "h": "137",
-        "1b": "98",
+        "h": "138",
+        "1b": "99",
         "2b": "20",
         "3b": "1",
         "hr": "18",
-        "so": "160",
-        "bipballs in play": "477",
+        "so": "161",
+        "bipballs in play": "479",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-25 20:52:43.103499"
+        "updated": "2025-06-25 20:52:53.798621"
     },
     "ari @ chw": [
         {
@@ -4159,7 +4159,7 @@
             "team": "bal",
             "start": "6:35 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7051,6 +7051,21 @@
     ],
     "atl @ nym": [
         {
+            "player": "drake baldwin",
+            "game": "atl @ nym",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-06-25 20:52:46",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ronny mauricio",
             "game": "atl @ nym",
             "hr/park": "",
@@ -7782,10 +7797,10 @@
             "team": "nyy",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "94.4",
+            "la": "-8",
+            "dist": "15"
         },
         {
             "player": "dj lemahieu",
@@ -9052,11 +9067,11 @@
     ],
     "sea @ min": [
         {
-            "player": "miles mastrobuoni",
+            "player": "jp crawford",
             "game": "sea @ min",
             "hr/park": "",
-            "pa": "32",
-            "dt": "2025-06-25 20:51:00",
+            "pa": "33",
+            "dt": "2025-06-25 20:52:46",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "start": "7:40 PM",
@@ -9065,6 +9080,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "miles mastrobuoni",
+            "game": "sea @ min",
+            "hr/park": "0/30",
+            "pa": "32",
+            "dt": "2025-06-25 20:51:00",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "91.2",
+            "la": "30",
+            "dist": "340"
         },
         {
             "player": "cole young",
