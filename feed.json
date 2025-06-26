@@ -2,16 +2,16 @@
     "all": {
         "pitchers": "19",
         "batters": "108",
-        "pitches": "947",
+        "pitches": "951",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "73.0",
-        "ff%fourseam fastball %": "28.9",
-        "si%sinker %": "17.0",
+        "ff%fourseam fastball %": "28.8",
+        "si%sinker %": "17.2",
         "fc%cutter %": "8.4",
         "fs%splitter %": "5.5",
-        "ch%changeup %": "12.9",
-        "sl%slider %": "18.9",
-        "cu%curve %": "8.3",
+        "ch%changeup %": "12.8",
+        "sl%slider %": "18.8",
+        "cu%curve %": "8.4",
         "max evmax exit velocity": "109.6",
         "hhhard hit": "60",
         "hh%hard hit %": "33.3",
@@ -24,11 +24,11 @@
         "2b": "6",
         "3b": "3",
         "hr": "6",
-        "so": "53",
+        "so": "54",
         "bipballs in play": "180",
         "liveGames": 7,
         "totGames": 9,
-        "updated": "2025-06-26 15:30:34.484367"
+        "updated": "2025-06-26 15:30:42.972556"
     },
     "ath @ det": [
         {
@@ -41,7 +41,7 @@
             "team": "det",
             "start": "1:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "88.6",
             "la": "-16",
             "dist": "11"
@@ -979,6 +979,21 @@
     ],
     "tor @ cle": [
         {
+            "player": "andres gimenez",
+            "game": "tor @ cle",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-06-26 15:30:40",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:10 PM",
+            "in": "9",
+            "result": "Mound Visit",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ernie clement",
             "game": "tor @ cle",
             "hr/park": "",
@@ -988,7 +1003,7 @@
             "team": "tor",
             "start": "1:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1891,7 +1906,7 @@
             "team": "tb",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
