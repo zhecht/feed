@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "49",
-        "batters": "210",
-        "pitches": "2027",
+        "batters": "209",
+        "pitches": "2028",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "71.8",
         "ff%fourseam fastball %": "35.8",
         "si%sinker %": "9.4",
-        "fc%cutter %": "7.4",
+        "fc%cutter %": "7.3",
         "fs%splitter %": "1.6",
-        "ch%changeup %": "9.2",
-        "sl%slider %": "24.0",
+        "ch%changeup %": "9.3",
+        "sl%slider %": "23.9",
         "cu%curve %": "12.7",
         "max evmax exit velocity": "112.0",
-        "hhhard hit": "138",
-        "hh%hard hit %": "38.9",
-        "brlbarrels": "28",
-        "brl%barrel %": "7.9",
-        "ab": "477",
-        "avg": ".210",
-        "h": "100",
+        "hhhard hit": "137",
+        "hh%hard hit %": "38.7",
+        "brlbarrels": "27",
+        "brl%barrel %": "7.6",
+        "ab": "476",
+        "avg": ".208",
+        "h": "99",
         "1b": "70",
         "2b": "14",
         "3b": "0",
-        "hr": "16",
+        "hr": "15",
         "so": "124",
-        "bipballs in play": "355",
+        "bipballs in play": "354",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-25 20:13:56.383801"
+        "updated": "2025-06-25 20:14:06.111566"
     },
     "ari @ chw": [
         {
@@ -4150,9 +4150,24 @@
     ],
     "tex @ bal": [
         {
-            "player": "sam haggerty",
+            "player": "corey seager",
             "game": "tex @ bal",
             "hr/park": "",
+            "pa": "48",
+            "dt": "2025-06-25 20:14:01",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "6:35 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "87.1",
+            "la": "-12",
+            "dist": "12"
+        },
+        {
+            "player": "sam haggerty",
+            "game": "tex @ bal",
+            "hr/park": "0/30",
             "pa": "47",
             "dt": "2025-06-25 20:13:00",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
@@ -5549,6 +5564,21 @@
     ],
     "tor @ cle": [
         {
+            "player": "nathan lukes",
+            "game": "tor @ cle",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-06-25 20:14:01",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "george springer",
             "game": "tor @ cle",
             "hr/park": "0/30",
@@ -6225,36 +6255,6 @@
         }
     ],
     "atl @ nym": [
-        {
-            "player": "pete alonso",
-            "game": "atl @ nym",
-            "hr/park": "",
-            "pa": "30",
-            "dt": "2025-06-25 20:13:45",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "7:10 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
-            "player": "juan soto",
-            "game": "atl @ nym",
-            "hr/park": "24/30",
-            "pa": "29",
-            "dt": "2025-06-25 20:13:00",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "7:10 PM",
-            "in": "4",
-            "result": "Home Run",
-            "evo": "108.8",
-            "la": "26",
-            "dist": "413"
-        },
         {
             "player": "michael harris",
             "game": "atl @ nym",
@@ -7841,21 +7841,6 @@
     ],
     "phi @ hou": [
         {
-            "player": "kyle schwarber",
-            "game": "phi @ hou",
-            "hr/park": "",
-            "pa": "2",
-            "dt": "2025-06-25 20:13:45",
-            "img": "https://www.mlbstatic.com/team-logos/143.svg",
-            "team": "phi",
-            "start": "8:10 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "trea turner",
             "game": "phi @ hou",
             "hr/park": "",
@@ -7865,10 +7850,10 @@
             "team": "phi",
             "start": "8:10 PM",
             "in": "1",
-            "result": "Pop Out",
-            "evo": "76.1",
-            "la": "58",
-            "dist": "165"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         }
     ],
     "lad @ col": [],
