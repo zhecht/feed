@@ -1,15 +1,15 @@
 {
     "all": {
         "pitchers": "49",
-        "batters": "213",
-        "pitches": "2067",
+        "batters": "212",
+        "pitches": "2070",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "71.8",
-        "ff%fourseam fastball %": "35.8",
+        "ff%fourseam fastball %": "35.7",
         "si%sinker %": "9.5",
-        "fc%cutter %": "7.5",
+        "fc%cutter %": "7.4",
         "fs%splitter %": "1.6",
-        "ch%changeup %": "9.2",
+        "ch%changeup %": "9.3",
         "sl%slider %": "23.8",
         "cu%curve %": "12.6",
         "max evmax exit velocity": "112.0",
@@ -18,17 +18,17 @@
         "brlbarrels": "28",
         "brl%barrel %": "7.7",
         "ab": "486",
-        "avg": ".214",
-        "h": "104",
-        "1b": "73",
+        "avg": ".212",
+        "h": "103",
+        "1b": "72",
         "2b": "15",
         "3b": "0",
         "hr": "16",
-        "so": "124",
+        "so": "125",
         "bipballs in play": "364",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-25 20:16:13.554518"
+        "updated": "2025-06-25 20:16:23.168514"
     },
     "ari @ chw": [
         {
@@ -6301,6 +6301,21 @@
     ],
     "atl @ nym": [
         {
+            "player": "jeff mcneil",
+            "game": "atl @ nym",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-06-25 20:16:16",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "pete alonso",
             "game": "atl @ nym",
             "hr/park": "",
@@ -7244,7 +7259,7 @@
             "team": "tb",
             "start": "7:40 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7531,7 +7546,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "93.0",
             "la": "19",
             "dist": "297"
@@ -7758,10 +7773,10 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "89.4",
+            "la": "48",
+            "dist": "279"
         },
         {
             "player": "ian happ",
@@ -7976,21 +7991,6 @@
     ],
     "phi @ hou": [
         {
-            "player": "alec bohm",
-            "game": "phi @ hou",
-            "hr/park": "",
-            "pa": "3",
-            "dt": "2025-06-25 20:15:47",
-            "img": "https://www.mlbstatic.com/team-logos/143.svg",
-            "team": "phi",
-            "start": "8:10 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "kyle schwarber",
             "game": "phi @ hou",
             "hr/park": "",
@@ -8000,10 +8000,10 @@
             "team": "phi",
             "start": "8:10 PM",
             "in": "1",
-            "result": "Single",
-            "evo": "52.2",
-            "la": "-5",
-            "dist": "18"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "trea turner",
