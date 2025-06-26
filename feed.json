@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "47",
-        "batters": "204",
-        "pitches": "1965",
+        "batters": "205",
+        "pitches": "1969",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "71.8",
         "ff%fourseam fastball %": "36.0",
-        "si%sinker %": "9.3",
+        "si%sinker %": "9.4",
         "fc%cutter %": "7.2",
         "fs%splitter %": "1.7",
         "ch%changeup %": "9.2",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "38.6",
         "brlbarrels": "27",
         "brl%barrel %": "7.8",
-        "ab": "460",
-        "avg": ".211",
+        "ab": "462",
+        "avg": ".210",
         "h": "97",
         "1b": "69",
         "2b": "14",
@@ -26,9 +26,9 @@
         "hr": "14",
         "so": "122",
         "bipballs in play": "345",
-        "liveGames": 12,
+        "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-25 20:09:50.918824"
+        "updated": "2025-06-25 20:10:00.646993"
     },
     "ari @ chw": [
         {
@@ -5474,6 +5474,21 @@
     ],
     "tor @ cle": [
         {
+            "player": "alejandro kirk",
+            "game": "tor @ cle",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-06-25 20:08:47",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "Mound Visit",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "vladimir guerrero",
             "game": "tor @ cle",
             "hr/park": "",
@@ -6980,6 +6995,21 @@
     ],
     "tb @ kc": [
         {
+            "player": "salvador perez",
+            "game": "tb @ kc",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-06-25 20:10:00",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "vinnie pasquantino",
             "game": "tb @ kc",
             "hr/park": "",
@@ -6989,7 +7019,7 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "79.9",
             "la": "51",
             "dist": "233"
