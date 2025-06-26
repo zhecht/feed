@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "12",
         "batters": "89",
-        "pitches": "558",
+        "pitches": "562",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "74.3",
-        "ff%fourseam fastball %": "34.1",
-        "si%sinker %": "14.2",
+        "ff%fourseam fastball %": "34.0",
+        "si%sinker %": "14.1",
         "fc%cutter %": "9.3",
         "fs%splitter %": "5.0",
-        "ch%changeup %": "15.4",
-        "sl%slider %": "15.8",
-        "cu%curve %": "6.3",
+        "ch%changeup %": "15.3",
+        "sl%slider %": "16.0",
+        "cu%curve %": "6.4",
         "max evmax exit velocity": "109.6",
-        "hhhard hit": "34",
-        "hh%hard hit %": "33.0",
+        "hhhard hit": "35",
+        "hh%hard hit %": "33.7",
         "brlbarrels": "8",
-        "brl%barrel %": "7.8",
-        "ab": "135",
-        "avg": ".170",
+        "brl%barrel %": "7.7",
+        "ab": "137",
+        "avg": ".168",
         "h": "23",
         "1b": "17",
         "2b": "4",
         "3b": "0",
         "hr": "2",
         "so": "35",
-        "bipballs in play": "103",
+        "bipballs in play": "104",
         "liveGames": 6,
         "totGames": 9,
-        "updated": "2025-06-26 14:52:16.373727"
+        "updated": "2025-06-26 14:52:26.792978"
     },
     "ath @ det": [
         {
@@ -41,10 +41,10 @@
             "team": "det",
             "start": "1:10 PM",
             "in": "6",
-            "result": "Stolen Base 2B",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "In Progress",
+            "evo": "98.5",
+            "la": "-5",
+            "dist": "18"
         },
         {
             "player": "zach mckinstry",
@@ -708,6 +708,21 @@
         }
     ],
     "tor @ cle": [
+        {
+            "player": "steven kwan",
+            "game": "tor @ cle",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-06-26 14:52:25",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "1:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "andres gimenez",
             "game": "tor @ cle",
@@ -1961,6 +1976,21 @@
     ],
     "chc @ stl": [
         {
+            "player": "kyle tucker",
+            "game": "chc @ stl",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-06-26 14:52:25",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:15 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ian happ",
             "game": "chc @ stl",
             "hr/park": "",
@@ -1970,7 +2000,7 @@
             "team": "chc",
             "start": "2:15 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "84.3",
             "la": "-23",
             "dist": "7"
