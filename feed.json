@@ -2,18 +2,18 @@
     "all": {
         "pitchers": "69",
         "batters": "246",
-        "pitches": "2694",
+        "pitches": "2698",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "71.8",
-        "ff%fourseam fastball %": "33.5",
-        "si%sinker %": "11.7",
-        "fc%cutter %": "7.6",
+        "ff%fourseam fastball %": "33.4",
+        "si%sinker %": "11.6",
+        "fc%cutter %": "7.8",
         "fs%splitter %": "2.0",
-        "ch%changeup %": "9.1",
-        "sl%slider %": "24.8",
+        "ch%changeup %": "8.9",
+        "sl%slider %": "24.9",
         "cu%curve %": "11.3",
         "max evmax exit velocity": "112.0",
-        "hhhard hit": "187",
+        "hhhard hit": "188",
         "hh%hard hit %": "38.5",
         "brlbarrels": "36",
         "brl%barrel %": "7.4",
@@ -24,11 +24,11 @@
         "2b": "21",
         "3b": "1",
         "hr": "18",
-        "so": "161",
-        "bipballs in play": "486",
+        "so": "162",
+        "bipballs in play": "488",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-25 20:54:51.592184"
+        "updated": "2025-06-25 20:55:02.257009"
     },
     "ari @ chw": [
         {
@@ -4159,10 +4159,10 @@
             "team": "bal",
             "start": "6:35 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "99.5",
+            "la": "-24",
+            "dist": "7"
         },
         {
             "player": "jordan westburg",
@@ -5171,6 +5171,21 @@
         }
     ],
     "ath @ det": [
+        {
+            "player": "denzel clarke",
+            "game": "ath @ det",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-06-25 20:55:00",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "colt keith",
             "game": "ath @ det",
@@ -7081,10 +7096,10 @@
     ],
     "atl @ nym": [
         {
-            "player": "alex verdugo",
+            "player": "ozzie albies",
             "game": "atl @ nym",
             "hr/park": "",
-            "pa": "51",
+            "pa": "50",
             "dt": "2025-06-25 20:54:30",
             "img": "https://www.mlbstatic.com/team-logos/144.svg",
             "team": "atl",
@@ -7094,21 +7109,6 @@
             "evo": "",
             "la": "",
             "dist": ""
-        },
-        {
-            "player": "ozzie albies",
-            "game": "atl @ nym",
-            "hr/park": "0/30",
-            "pa": "50",
-            "dt": "2025-06-25 20:54:30",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "7:10 PM",
-            "in": "6",
-            "result": "Flyout",
-            "evo": "92.4",
-            "la": "44",
-            "dist": "315"
         },
         {
             "player": "drake baldwin",
@@ -8555,6 +8555,21 @@
     ],
     "tb @ kc": [
         {
+            "player": "kyle isbel",
+            "game": "tb @ kc",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-25 20:55:00",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "Groundout",
+            "evo": "83.8",
+            "la": "-21",
+            "dist": "8"
+        },
+        {
             "player": "john rave",
             "game": "tb @ kc",
             "hr/park": "",
@@ -9166,7 +9181,7 @@
             "team": "sea",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
