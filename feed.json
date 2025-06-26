@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "58",
-        "batters": "232",
-        "pitches": "2434",
+        "batters": "231",
+        "pitches": "2439",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "71.8",
-        "ff%fourseam fastball %": "34.2",
-        "si%sinker %": "10.7",
+        "ff%fourseam fastball %": "34.1",
+        "si%sinker %": "10.8",
         "fc%cutter %": "7.7",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "9.0",
-        "sl%slider %": "24.8",
-        "cu%curve %": "11.7",
+        "ch%changeup %": "8.9",
+        "sl%slider %": "24.7",
+        "cu%curve %": "11.8",
         "max evmax exit velocity": "112.0",
         "hhhard hit": "168",
-        "hh%hard hit %": "38.3",
+        "hh%hard hit %": "38.1",
         "brlbarrels": "32",
         "brl%barrel %": "7.3",
         "ab": "573",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "18",
         "so": "146",
-        "bipballs in play": "439",
+        "bipballs in play": "441",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-25 20:40:25.531342"
+        "updated": "2025-06-25 20:40:36.436446"
     },
     "ari @ chw": [
         {
@@ -5919,9 +5919,9 @@
             "start": "6:40 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "69.5",
+            "la": "-27",
+            "dist": "5"
         },
         {
             "player": "bo naylor",
@@ -7392,7 +7392,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8015,6 +8015,21 @@
     ],
     "tb @ kc": [
         {
+            "player": "salvador perez",
+            "game": "tb @ kc",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-06-25 20:39:15",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "Pop Out",
+            "evo": "74.6",
+            "la": "75",
+            "dist": "81"
+        },
+        {
             "player": "vinnie pasquantino",
             "game": "tb @ kc",
             "hr/park": "",
@@ -8506,7 +8521,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "4",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "78.6",
             "la": "7",
             "dist": "88"
@@ -8898,7 +8913,7 @@
             "team": "chc",
             "start": "7:45 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9311,21 +9326,6 @@
     ],
     "phi @ hou": [
         {
-            "player": "edmundo sosa",
-            "game": "phi @ hou",
-            "hr/park": "",
-            "pa": "12",
-            "dt": "2025-06-25 20:39:30",
-            "img": "https://www.mlbstatic.com/team-logos/143.svg",
-            "team": "phi",
-            "start": "8:10 PM",
-            "in": "2",
-            "result": "Strikeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "bryson stott",
             "game": "phi @ hou",
             "hr/park": "",
@@ -9335,7 +9335,7 @@
             "team": "phi",
             "start": "8:10 PM",
             "in": "2",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "67.6",
             "la": "-9",
             "dist": "13"
