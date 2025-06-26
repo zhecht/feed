@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "74",
         "batters": "255",
-        "pitches": "2906",
+        "pitches": "2917",
         "max velomax pitch velocity": "102.8",
         "min velomin pitch velocity": "69.6",
-        "ff%fourseam fastball %": "32.7",
-        "si%sinker %": "12.5",
+        "ff%fourseam fastball %": "32.6",
+        "si%sinker %": "12.6",
         "fc%cutter %": "7.6",
         "fs%splitter %": "2.1",
         "ch%changeup %": "9.1",
-        "sl%slider %": "24.8",
-        "cu%curve %": "11.2",
+        "sl%slider %": "24.9",
+        "cu%curve %": "11.1",
         "max evmax exit velocity": "112.0",
-        "hhhard hit": "204",
-        "hh%hard hit %": "38.6",
+        "hhhard hit": "206",
+        "hh%hard hit %": "38.8",
         "brlbarrels": "36",
         "brl%barrel %": "6.8",
-        "ab": "695",
+        "ab": "698",
         "avg": ".212",
-        "h": "147",
-        "1b": "106",
+        "h": "148",
+        "1b": "107",
         "2b": "22",
         "3b": "1",
         "hr": "18",
         "so": "179",
-        "bipballs in play": "528",
+        "bipballs in play": "531",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-25 21:08:46.062869"
+        "updated": "2025-06-25 21:08:56.575302"
     },
     "ari @ chw": [
         {
@@ -6226,7 +6226,7 @@
         {
             "player": "vladimir guerrero",
             "game": "tor @ cle",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "71",
             "dt": "2025-06-25 21:08:12",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
@@ -8148,6 +8148,21 @@
     ],
     "nyy @ cin": [
         {
+            "player": "anthony volpe",
+            "game": "nyy @ cin",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-06-25 21:08:56",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jasson dominguez",
             "game": "nyy @ cin",
             "hr/park": "",
@@ -8157,10 +8172,10 @@
             "team": "nyy",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "105.8",
+            "la": "-5",
+            "dist": "21"
         },
         {
             "player": "elly de la cruz",
@@ -8969,10 +8984,10 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "103.7",
+            "la": "-3",
+            "dist": "28"
         },
         {
             "player": "danny jansen",
@@ -10856,19 +10871,34 @@
     ],
     "phi @ hou": [
         {
-            "player": "nick castellanos",
+            "player": "jt realmuto",
             "game": "phi @ hou",
             "hr/park": "",
+            "pa": "27",
+            "dt": "2025-06-25 21:08:56",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "nick castellanos",
+            "game": "phi @ hou",
+            "hr/park": "0/30",
             "pa": "26",
             "dt": "2025-06-25 21:08:12",
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "90.0",
+            "la": "36",
+            "dist": "319"
         },
         {
             "player": "alec bohm",
@@ -11248,9 +11278,24 @@
     ],
     "lad @ col": [
         {
-            "player": "dalton rushing",
+            "player": "shohei ohtani",
             "game": "lad @ col",
             "hr/park": "",
+            "pa": "16",
+            "dt": "2025-06-25 21:08:56",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "8:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "dalton rushing",
+            "game": "lad @ col",
+            "hr/park": "1/30",
             "pa": "15",
             "dt": "2025-06-25 21:08:27",
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
