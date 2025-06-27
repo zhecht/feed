@@ -1,51 +1,36 @@
 {
     "all": {
         "pitchers": "15",
-        "batters": "90",
-        "pitches": "390",
+        "batters": "92",
+        "pitches": "397",
         "max velomax pitch velocity": "98.0",
         "min velomin pitch velocity": "77.3",
-        "ff%fourseam fastball %": "29.2",
-        "si%sinker %": "17.7",
-        "fc%cutter %": "10.3",
-        "fs%splitter %": "2.6",
-        "ch%changeup %": "7.4",
-        "sl%slider %": "26.2",
-        "cu%curve %": "6.7",
+        "ff%fourseam fastball %": "29.0",
+        "si%sinker %": "17.9",
+        "fc%cutter %": "10.6",
+        "fs%splitter %": "2.5",
+        "ch%changeup %": "7.6",
+        "sl%slider %": "25.4",
+        "cu%curve %": "7.1",
         "max evmax exit velocity": "111.7",
         "hhhard hit": "30",
-        "hh%hard hit %": "46.9",
+        "hh%hard hit %": "45.5",
         "brlbarrels": "8",
-        "brl%barrel %": "12.5",
-        "ab": "89",
-        "avg": ".236",
-        "h": "21",
-        "1b": "11",
+        "brl%barrel %": "12.1",
+        "ab": "90",
+        "avg": ".244",
+        "h": "22",
+        "1b": "12",
         "2b": "5",
         "3b": "0",
         "hr": "5",
         "so": "21",
-        "bipballs in play": "64",
+        "bipballs in play": "66",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-27 19:44:10.352688"
+        "updated": "2025-06-27 19:44:18.221624"
     },
     "nym @ pit": [
-        {
-            "player": "hayden senger",
-            "game": "nym @ pit",
-            "hr/park": "",
-            "pa": "21",
-            "dt": "2025-06-27 19:43:45",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "6:40 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "bryan reynolds",
             "game": "nym @ pit",
@@ -349,6 +334,21 @@
     ],
     "tb @ bal": [
         {
+            "player": "ramon laureano",
+            "game": "tb @ bal",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-06-27 19:44:15",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "junior caminero",
             "game": "tb @ bal",
             "hr/park": "0/30",
@@ -600,10 +600,10 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "72.5",
+            "la": "64",
+            "dist": "118"
         },
         {
             "player": "paul goldschmidt",
@@ -833,6 +833,21 @@
     ],
     "sd @ cin": [
         {
+            "player": "gavin sheets",
+            "game": "sd @ cin",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-06-27 19:44:15",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "7:10 PM",
+            "in": "2",
+            "result": "Groundout",
+            "evo": "85.6",
+            "la": "-39",
+            "dist": "3"
+        },
+        {
             "player": "gavin lux",
             "game": "sd @ cin",
             "hr/park": "",
@@ -979,10 +994,10 @@
             "team": "stl",
             "start": "7:10 PM",
             "in": "3",
-            "result": "Forceout",
-            "evo": "63.5",
-            "la": "-38",
-            "dist": "4"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "brendan donovan",
@@ -1227,6 +1242,21 @@
     ],
     "tor @ bos": [
         {
+            "player": "andres gimenez",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-06-27 19:44:15",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:10 PM",
+            "in": "2",
+            "result": "Single",
+            "evo": "91.3",
+            "la": "5",
+            "dist": "88"
+        },
+        {
             "player": "ernie clement",
             "game": "tor @ bos",
             "hr/park": "",
@@ -1236,7 +1266,7 @@
             "team": "tor",
             "start": "7:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1496,7 +1526,7 @@
             "team": "sf",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Mound Visit",
             "evo": "",
             "la": "",
             "dist": ""
