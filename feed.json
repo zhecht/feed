@@ -1,17 +1,17 @@
 {
     "all": {
-        "pitchers": "6",
-        "batters": "22",
-        "pitches": "98",
+        "pitchers": "7",
+        "batters": "23",
+        "pitches": "101",
         "max velomax pitch velocity": "98.0",
         "min velomin pitch velocity": "77.7",
-        "ff%fourseam fastball %": "29.6",
-        "si%sinker %": "28.6",
-        "fc%cutter %": "7.1",
-        "fs%splitter %": "4.1",
-        "ch%changeup %": "3.1",
-        "sl%slider %": "23.5",
-        "cu%curve %": "4.1",
+        "ff%fourseam fastball %": "30.7",
+        "si%sinker %": "27.7",
+        "fc%cutter %": "6.9",
+        "fs%splitter %": "4.0",
+        "ch%changeup %": "3.0",
+        "sl%slider %": "23.8",
+        "cu%curve %": "4.0",
         "max evmax exit velocity": "109.4",
         "hhhard hit": "3",
         "hh%hard hit %": "25.0",
@@ -28,7 +28,7 @@
         "bipballs in play": "12",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-06-27 19:18:23.625992"
+        "updated": "2025-06-27 19:18:31.127145"
     },
     "nym @ pit": [
         {
@@ -139,6 +139,21 @@
     ],
     "tb @ bal": [
         {
+            "player": "jackson holliday",
+            "game": "tb @ bal",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-06-27 19:18:29",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "junior caminero",
             "game": "tb @ bal",
             "hr/park": "",
@@ -195,7 +210,7 @@
             "team": "ath",
             "start": "7:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -320,7 +335,7 @@
             "team": "tor",
             "start": "7:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
