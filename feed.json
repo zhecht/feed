@@ -1,47 +1,47 @@
 {
     "all": {
         "pitchers": "16",
-        "batters": "127",
-        "pitches": "619",
+        "batters": "128",
+        "pitches": "623",
         "max velomax pitch velocity": "98.0",
         "min velomin pitch velocity": "74.9",
-        "ff%fourseam fastball %": "30.0",
-        "si%sinker %": "18.1",
-        "fc%cutter %": "9.4",
+        "ff%fourseam fastball %": "30.3",
+        "si%sinker %": "18.5",
+        "fc%cutter %": "9.3",
         "fs%splitter %": "1.9",
-        "ch%changeup %": "9.5",
-        "sl%slider %": "23.7",
-        "cu%curve %": "7.3",
+        "ch%changeup %": "9.6",
+        "sl%slider %": "23.4",
+        "cu%curve %": "6.9",
         "max evmax exit velocity": "111.7",
-        "hhhard hit": "50",
-        "hh%hard hit %": "45.9",
+        "hhhard hit": "51",
+        "hh%hard hit %": "45.5",
         "brlbarrels": "11",
-        "brl%barrel %": "10.1",
-        "ab": "140",
-        "avg": ".243",
+        "brl%barrel %": "9.8",
+        "ab": "142",
+        "avg": ".239",
         "h": "34",
         "1b": "20",
         "2b": "7",
         "3b": "0",
         "hr": "7",
-        "so": "31",
-        "bipballs in play": "109",
+        "so": "32",
+        "bipballs in play": "112",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-27 19:58:44.130685"
+        "updated": "2025-06-27 19:58:52.183480"
     },
     "nym @ pit": [
         {
             "player": "alexander canario",
             "game": "nym @ pit",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "28",
             "dt": "2025-06-27 19:58:15",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
             "team": "pit",
             "start": "6:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "96.7",
             "la": "26",
             "dist": "328"
@@ -454,6 +454,21 @@
     ],
     "tb @ bal": [
         {
+            "player": "ramon urias",
+            "game": "tb @ bal",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-06-27 19:58:46",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "95.0",
+            "la": "21",
+            "dist": "296"
+        },
+        {
             "player": "jackson holliday",
             "game": "tb @ bal",
             "hr/park": "",
@@ -463,7 +478,7 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1142,10 +1157,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "71.6",
+            "la": "-15",
+            "dist": "11"
         },
         {
             "player": "christian encarnacion strand",
@@ -1390,21 +1405,6 @@
     ],
     "stl @ cle": [
         {
-            "player": "bo naylor",
-            "game": "stl @ cle",
-            "hr/park": "",
-            "pa": "22",
-            "dt": "2025-06-27 19:57:30",
-            "img": "https://www.mlbstatic.com/team-logos/114.svg",
-            "team": "cle",
-            "start": "7:10 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "gabriel arias",
             "game": "stl @ cle",
             "hr/park": "",
@@ -1414,7 +1414,7 @@
             "team": "cle",
             "start": "7:10 PM",
             "in": "3",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "67.2",
             "la": "-25",
             "dist": "9"
@@ -1722,6 +1722,21 @@
     ],
     "tor @ bos": [
         {
+            "player": "george springer",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-06-27 19:58:46",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alejandro kirk",
             "game": "tor @ bos",
             "hr/park": "",
@@ -2024,6 +2039,21 @@
     ],
     "min @ det": [
         {
+            "player": "kody clemens",
+            "game": "min @ det",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-06-27 19:58:46",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "parker meadows",
             "game": "min @ det",
             "hr/park": "",
@@ -2246,10 +2276,10 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "79.4",
+            "la": "-4",
+            "dist": "22"
         },
         {
             "player": "kyle teel",
