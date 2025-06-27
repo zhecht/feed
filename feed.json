@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "16",
         "batters": "117",
-        "pitches": "558",
+        "pitches": "563",
         "max velomax pitch velocity": "98.0",
-        "min velomin pitch velocity": "74.9",
-        "ff%fourseam fastball %": "30.1",
-        "si%sinker %": "18.6",
-        "fc%cutter %": "8.6",
-        "fs%splitter %": "2.2",
-        "ch%changeup %": "9.0",
-        "sl%slider %": "24.4",
-        "cu%curve %": "7.2",
+        "min velomin pitch velocity": "76.5",
+        "ff%fourseam fastball %": "30.4",
+        "si%sinker %": "18.3",
+        "fc%cutter %": "8.9",
+        "fs%splitter %": "2.1",
+        "ch%changeup %": "8.9",
+        "sl%slider %": "24.5",
+        "cu%curve %": "6.9",
         "max evmax exit velocity": "111.7",
-        "hhhard hit": "42",
-        "hh%hard hit %": "44.2",
+        "hhhard hit": "45",
+        "hh%hard hit %": "45.9",
         "brlbarrels": "10",
-        "brl%barrel %": "10.5",
-        "ab": "125",
-        "avg": ".240",
-        "h": "30",
-        "1b": "17",
+        "brl%barrel %": "10.2",
+        "ab": "124",
+        "avg": ".250",
+        "h": "31",
+        "1b": "18",
         "2b": "6",
         "3b": "0",
         "hr": "7",
-        "so": "27",
-        "bipballs in play": "95",
+        "so": "28",
+        "bipballs in play": "98",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-27 19:54:38.447382"
+        "updated": "2025-06-27 19:54:46.553390"
     },
     "nym @ pit": [
         {
@@ -41,7 +41,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -735,7 +735,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1053,9 +1053,9 @@
             "start": "7:10 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "107.6",
+            "la": "12",
+            "dist": "233"
         },
         {
             "player": "spencer steer",
@@ -1279,7 +1279,7 @@
             "team": "stl",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "96.3",
             "la": "-8",
             "dist": "18"
@@ -1581,10 +1581,10 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "2",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "100.9",
+            "la": "-12",
+            "dist": "8"
         },
         {
             "player": "wilyer abreu",
@@ -1844,6 +1844,21 @@
     ],
     "min @ det": [
         {
+            "player": "dillon dingler",
+            "game": "min @ det",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-06-27 19:54:45",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:10 PM",
+            "in": "2",
+            "result": "Single",
+            "evo": "106.3",
+            "la": "10",
+            "dist": "213"
+        },
+        {
             "player": "wenceel perez",
             "game": "min @ det",
             "hr/park": "",
@@ -2026,21 +2041,6 @@
     ],
     "phi @ atl": [],
     "sf @ chw": [
-        {
-            "player": "andrew benintendi",
-            "game": "sf @ chw",
-            "hr/park": "",
-            "pa": "7",
-            "dt": "2025-06-27 19:53:45",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "start": "7:40 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "chase meidroth",
             "game": "sf @ chw",
