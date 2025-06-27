@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "5",
         "batters": "15",
-        "pitches": "74",
+        "pitches": "75",
         "max velomax pitch velocity": "98.0",
         "min velomin pitch velocity": "77.7",
-        "ff%fourseam fastball %": "31.1",
-        "si%sinker %": "23.0",
-        "fc%cutter %": "6.8",
-        "fs%splitter %": "5.4",
+        "ff%fourseam fastball %": "32.0",
+        "si%sinker %": "20.0",
+        "fc%cutter %": "8.0",
+        "fs%splitter %": "5.3",
         "ch%changeup %": "2.7",
-        "sl%slider %": "25.7",
-        "cu%curve %": "5.4",
+        "sl%slider %": "26.7",
+        "cu%curve %": "5.3",
         "max evmax exit velocity": "109.4",
         "hhhard hit": "3",
-        "hh%hard hit %": "42.9",
+        "hh%hard hit %": "50.0",
         "brlbarrels": "0",
         "brl%barrel %": "0.0",
         "ab": "14",
@@ -24,11 +24,11 @@
         "2b": "0",
         "3b": "0",
         "hr": "0",
-        "so": "5",
-        "bipballs in play": "7",
+        "so": "6",
+        "bipballs in play": "6",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-06-27 19:16:13.249339"
+        "updated": "2025-06-27 19:16:20.812832"
     },
     "nym @ pit": [
         {
@@ -198,10 +198,10 @@
             "team": "stl",
             "start": "7:10 PM",
             "in": "1",
-            "result": "Field Error",
-            "evo": "51.0",
-            "la": "-50",
-            "dist": "2"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "masyn winn",
@@ -245,7 +245,7 @@
             "team": "tor",
             "start": "7:10 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
