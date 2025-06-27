@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "15",
-        "batters": "103",
-        "pitches": "491",
+        "batters": "104",
+        "pitches": "496",
         "max velomax pitch velocity": "98.0",
         "min velomin pitch velocity": "76.5",
-        "ff%fourseam fastball %": "28.5",
-        "si%sinker %": "19.1",
-        "fc%cutter %": "9.6",
+        "ff%fourseam fastball %": "28.8",
+        "si%sinker %": "19.0",
+        "fc%cutter %": "9.7",
         "fs%splitter %": "2.4",
-        "ch%changeup %": "8.8",
-        "sl%slider %": "24.4",
+        "ch%changeup %": "8.5",
+        "sl%slider %": "24.6",
         "cu%curve %": "7.1",
         "max evmax exit velocity": "111.7",
         "hhhard hit": "36",
         "hh%hard hit %": "42.9",
         "brlbarrels": "10",
         "brl%barrel %": "11.9",
-        "ab": "109",
-        "avg": ".248",
+        "ab": "112",
+        "avg": ".241",
         "h": "27",
         "1b": "15",
         "2b": "6",
@@ -28,7 +28,7 @@
         "bipballs in play": "84",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-27 19:49:55.825980"
+        "updated": "2025-06-27 19:50:03.932458"
     },
     "nym @ pit": [
         {
@@ -388,7 +388,7 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "2",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -968,6 +968,21 @@
     ],
     "sd @ cin": [
         {
+            "player": "tyler stephenson",
+            "game": "sd @ cin",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-06-27 19:48:45",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jake cronenworth",
             "game": "sd @ cin",
             "hr/park": "",
@@ -1437,6 +1452,21 @@
     ],
     "tor @ bos": [
         {
+            "player": "vladimir guerrero",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-06-27 19:50:00",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:10 PM",
+            "in": "2",
+            "result": "Groundout",
+            "evo": "73.0",
+            "la": "-25",
+            "dist": "7"
+        },
+        {
             "player": "addison barger",
             "game": "tor @ bos",
             "hr/park": "",
@@ -1674,9 +1704,9 @@
             "start": "7:10 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "75.0",
-            "la": "73",
-            "dist": "88"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "matt wallner",
