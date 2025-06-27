@@ -1,15 +1,15 @@
 {
     "all": {
         "pitchers": "15",
-        "batters": "103",
-        "pitches": "484",
+        "batters": "104",
+        "pitches": "488",
         "max velomax pitch velocity": "98.0",
         "min velomin pitch velocity": "76.5",
-        "ff%fourseam fastball %": "28.7",
-        "si%sinker %": "19.0",
-        "fc%cutter %": "9.7",
+        "ff%fourseam fastball %": "29.1",
+        "si%sinker %": "18.9",
+        "fc%cutter %": "9.6",
         "fs%splitter %": "2.5",
-        "ch%changeup %": "8.5",
+        "ch%changeup %": "8.4",
         "sl%slider %": "24.4",
         "cu%curve %": "7.2",
         "max evmax exit velocity": "111.7",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "43.4",
         "brlbarrels": "10",
         "brl%barrel %": "12.0",
-        "ab": "108",
-        "avg": ".241",
-        "h": "26",
-        "1b": "14",
+        "ab": "110",
+        "avg": ".245",
+        "h": "27",
+        "1b": "15",
         "2b": "6",
         "3b": "0",
         "hr": "6",
@@ -28,7 +28,7 @@
         "bipballs in play": "83",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-27 19:49:23.540198"
+        "updated": "2025-06-27 19:49:31.551448"
     },
     "nym @ pit": [
         {
@@ -953,6 +953,21 @@
     ],
     "sd @ cin": [
         {
+            "player": "tyler stephenson",
+            "game": "sd @ cin",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-06-27 19:48:45",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jake cronenworth",
             "game": "sd @ cin",
             "hr/park": "",
@@ -1144,7 +1159,7 @@
             "team": "stl",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "45.8",
             "la": "5",
             "dist": "45"
@@ -1152,7 +1167,7 @@
         {
             "player": "alec burleson",
             "game": "stl @ cle",
-            "hr/park": "9/30",
+            "hr/park": "12/30",
             "pa": "18",
             "dt": "2025-06-27 19:44:45",
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
@@ -1162,7 +1177,7 @@
             "result": "Home Run",
             "evo": "105.4",
             "la": "22",
-            "dist": "359"
+            "dist": "368"
         },
         {
             "player": "masyn winn",
@@ -1422,6 +1437,21 @@
     ],
     "tor @ bos": [
         {
+            "player": "addison barger",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-06-27 19:49:30",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:10 PM",
+            "in": "2",
+            "result": "Groundout",
+            "evo": "74.9",
+            "la": "-39",
+            "dist": "3"
+        },
+        {
             "player": "bo bichette",
             "game": "tor @ bos",
             "hr/park": "",
@@ -1644,9 +1674,9 @@
             "start": "7:10 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "75.0",
-            "la": "73",
-            "dist": "88"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "matt wallner",
