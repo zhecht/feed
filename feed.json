@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "15",
         "batters": "103",
-        "pitches": "481",
+        "pitches": "484",
         "max velomax pitch velocity": "98.0",
         "min velomin pitch velocity": "76.5",
-        "ff%fourseam fastball %": "28.9",
-        "si%sinker %": "18.9",
-        "fc%cutter %": "9.6",
+        "ff%fourseam fastball %": "28.7",
+        "si%sinker %": "19.0",
+        "fc%cutter %": "9.7",
         "fs%splitter %": "2.5",
-        "ch%changeup %": "8.3",
-        "sl%slider %": "24.5",
-        "cu%curve %": "7.3",
+        "ch%changeup %": "8.5",
+        "sl%slider %": "24.4",
+        "cu%curve %": "7.2",
         "max evmax exit velocity": "111.7",
-        "hhhard hit": "34",
-        "hh%hard hit %": "42.5",
+        "hhhard hit": "36",
+        "hh%hard hit %": "43.4",
         "brlbarrels": "10",
-        "brl%barrel %": "12.5",
-        "ab": "107",
-        "avg": ".234",
-        "h": "25",
-        "1b": "13",
+        "brl%barrel %": "12.0",
+        "ab": "108",
+        "avg": ".241",
+        "h": "26",
+        "1b": "14",
         "2b": "6",
         "3b": "0",
         "hr": "6",
-        "so": "24",
-        "bipballs in play": "80",
+        "so": "26",
+        "bipballs in play": "83",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-27 19:49:07.239119"
+        "updated": "2025-06-27 19:49:15.167689"
     },
     "nym @ pit": [
         {
@@ -41,10 +41,10 @@
             "team": "nym",
             "start": "6:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "101.5",
+            "la": "-14",
+            "dist": "8"
         },
         {
             "player": "francisco lindor",
@@ -666,6 +666,21 @@
     ],
     "ath @ nyy": [
         {
+            "player": "brent rooker",
+            "game": "ath @ nyy",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-06-27 19:49:15",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "7:05 PM",
+            "in": "3",
+            "result": "Single",
+            "evo": "97.8",
+            "la": "8",
+            "dist": "177"
+        },
+        {
             "player": "jacob wilson",
             "game": "ath @ nyy",
             "hr/park": "",
@@ -675,7 +690,7 @@
             "team": "ath",
             "start": "7:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -937,21 +952,6 @@
         }
     ],
     "sd @ cin": [
-        {
-            "player": "tyler stephenson",
-            "game": "sd @ cin",
-            "hr/park": "",
-            "pa": "13",
-            "dt": "2025-06-27 19:48:45",
-            "img": "https://www.mlbstatic.com/team-logos/113.svg",
-            "team": "cin",
-            "start": "7:10 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "jake cronenworth",
             "game": "sd @ cin",
@@ -1634,6 +1634,21 @@
     ],
     "min @ det": [
         {
+            "player": "brooks lee",
+            "game": "min @ det",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-06-27 19:49:15",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "75.0",
+            "la": "73",
+            "dist": "88"
+        },
+        {
             "player": "matt wallner",
             "game": "min @ det",
             "hr/park": "",
@@ -1643,7 +1658,7 @@
             "team": "min",
             "start": "7:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
