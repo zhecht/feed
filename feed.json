@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "16",
-        "batters": "128",
-        "pitches": "623",
+        "batters": "130",
+        "pitches": "632",
         "max velomax pitch velocity": "98.0",
         "min velomin pitch velocity": "74.9",
-        "ff%fourseam fastball %": "30.3",
-        "si%sinker %": "18.5",
-        "fc%cutter %": "9.3",
+        "ff%fourseam fastball %": "30.2",
+        "si%sinker %": "18.0",
+        "fc%cutter %": "9.2",
         "fs%splitter %": "1.9",
-        "ch%changeup %": "9.6",
-        "sl%slider %": "23.4",
-        "cu%curve %": "6.9",
+        "ch%changeup %": "9.5",
+        "sl%slider %": "23.9",
+        "cu%curve %": "7.3",
         "max evmax exit velocity": "111.7",
-        "hhhard hit": "51",
-        "hh%hard hit %": "45.5",
+        "hhhard hit": "52",
+        "hh%hard hit %": "46.0",
         "brlbarrels": "11",
-        "brl%barrel %": "9.8",
-        "ab": "142",
-        "avg": ".239",
-        "h": "34",
-        "1b": "20",
+        "brl%barrel %": "9.7",
+        "ab": "146",
+        "avg": ".247",
+        "h": "36",
+        "1b": "22",
         "2b": "7",
         "3b": "0",
         "hr": "7",
-        "so": "32",
-        "bipballs in play": "112",
+        "so": "33",
+        "bipballs in play": "113",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-06-27 19:59:08.663931"
+        "updated": "2025-06-27 19:59:16.945087"
     },
     "nym @ pit": [
         {
@@ -454,6 +454,21 @@
     ],
     "tb @ bal": [
         {
+            "player": "gunnar henderson",
+            "game": "tb @ bal",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-06-27 19:59:15",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ramon urias",
             "game": "tb @ bal",
             "hr/park": "",
@@ -463,7 +478,7 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "95.0",
             "la": "21",
             "dist": "296"
@@ -800,6 +815,21 @@
         }
     ],
     "ath @ nyy": [
+        {
+            "player": "cody bellinger",
+            "game": "ath @ nyy",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-06-27 19:59:15",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "trent grisham",
             "game": "ath @ nyy",
@@ -1405,6 +1435,36 @@
     ],
     "stl @ cle": [
         {
+            "player": "angel martinez",
+            "game": "stl @ cle",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-06-27 19:59:15",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "90.2",
+            "la": "-5",
+            "dist": "22"
+        },
+        {
+            "player": "bo naylor",
+            "game": "stl @ cle",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-06-27 19:57:30",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gabriel arias",
             "game": "stl @ cle",
             "hr/park": "",
@@ -1414,7 +1474,7 @@
             "team": "cle",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "67.2",
             "la": "-25",
             "dist": "9"
@@ -1731,10 +1791,10 @@
             "team": "tor",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "96.2",
+            "la": "-6",
+            "dist": "18"
         },
         {
             "player": "alejandro kirk",
@@ -2276,10 +2336,10 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "1",
-            "result": "Forceout",
-            "evo": "79.4",
-            "la": "-4",
-            "dist": "22"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "kyle teel",
