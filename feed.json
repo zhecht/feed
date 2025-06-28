@@ -1,36 +1,51 @@
 {
     "all": {
         "pitchers": "25",
-        "batters": "171",
-        "pitches": "1090",
+        "batters": "173",
+        "pitches": "1094",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "74.7",
-        "ff%fourseam fastball %": "27.6",
+        "ff%fourseam fastball %": "27.9",
         "si%sinker %": "16.9",
-        "fc%cutter %": "10.8",
+        "fc%cutter %": "10.9",
         "fs%splitter %": "2.2",
-        "ch%changeup %": "9.4",
-        "sl%slider %": "24.9",
-        "cu%curve %": "8.3",
+        "ch%changeup %": "9.3",
+        "sl%slider %": "24.6",
+        "cu%curve %": "8.2",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "83",
-        "hh%hard hit %": "43.9",
+        "hhhard hit": "82",
+        "hh%hard hit %": "43.6",
         "brlbarrels": "19",
         "brl%barrel %": "10.1",
-        "ab": "258",
-        "avg": ".217",
-        "h": "56",
-        "1b": "36",
+        "ab": "259",
+        "avg": ".220",
+        "h": "57",
+        "1b": "37",
         "2b": "11",
         "3b": "0",
         "hr": "9",
-        "so": "63",
-        "bipballs in play": "189",
+        "so": "64",
+        "bipballs in play": "188",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 20:24:10.389792"
+        "updated": "2025-06-27 20:24:19.098569"
     },
     "nym @ pit": [
+        {
+            "player": "kebryan hayes",
+            "game": "nym @ pit",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-06-27 20:24:16",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "joey bart",
             "game": "nym @ pit",
@@ -41,7 +56,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1185,7 +1200,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2652,21 +2667,6 @@
     ],
     "tor @ bos": [
         {
-            "player": "roman anthony",
-            "game": "tor @ bos",
-            "hr/park": "",
-            "pa": "33",
-            "dt": "2025-06-27 20:22:15",
-            "img": "https://www.mlbstatic.com/team-logos/111.svg",
-            "team": "bos",
-            "start": "7:10 PM",
-            "in": "4",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "abraham toro",
             "game": "tor @ bos",
             "hr/park": "",
@@ -2676,7 +2676,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "4",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4011,6 +4011,21 @@
     ],
     "chc @ hou": [
         {
+            "player": "jake meyers",
+            "game": "chc @ hou",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-06-27 20:24:16",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cam smith",
             "game": "chc @ hou",
             "hr/park": "",
@@ -4020,7 +4035,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4127,10 +4142,10 @@
             "team": "kc",
             "start": "8:10 PM",
             "in": "1",
-            "result": "Lineout",
-            "evo": "97.9",
-            "la": "21",
-            "dist": "329"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "jonathan india",
@@ -4210,6 +4225,21 @@
     ],
     "col @ mil": [
         {
+            "player": "jackson chourio",
+            "game": "col @ mil",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-06-27 20:24:16",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "sal frelick",
             "game": "col @ mil",
             "hr/park": "",
@@ -4219,7 +4249,7 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "60.3",
             "la": "-29",
             "dist": "4"
