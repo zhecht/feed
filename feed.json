@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "84",
         "batters": "235",
-        "pitches": "3245",
+        "pitches": "3248",
         "max velomax pitch velocity": "101.7",
         "min velomin pitch velocity": "34.6",
         "ff%fourseam fastball %": "28.2",
@@ -10,13 +10,13 @@
         "fc%cutter %": "10.1",
         "fs%splitter %": "2.8",
         "ch%changeup %": "8.9",
-        "sl%slider %": "22.7",
+        "sl%slider %": "22.8",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "114.8",
         "hhhard hit": "247",
-        "hh%hard hit %": "40.0",
+        "hh%hard hit %": "39.9",
         "brlbarrels": "56",
-        "brl%barrel %": "9.1",
+        "brl%barrel %": "9.0",
         "ab": "771",
         "avg": ".278",
         "h": "214",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "30",
         "so": "172",
-        "bipballs in play": "618",
+        "bipballs in play": "619",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-28 18:51:18.915471"
+        "updated": "2025-06-28 18:51:30.753916"
     },
     "ath @ nyy": [
         {
@@ -2333,7 +2333,7 @@
         {
             "player": "francisco lindor",
             "game": "nym @ pit",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "36",
             "dt": "2025-06-28 18:50:59",
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
@@ -8673,6 +8673,21 @@
     ],
     "tor @ bos": [
         {
+            "player": "roman anthony",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "79",
+            "dt": "2025-06-28 18:51:26",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "4:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jarren duran",
             "game": "tor @ bos",
             "hr/park": "",
@@ -8682,7 +8697,7 @@
             "team": "bos",
             "start": "4:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
