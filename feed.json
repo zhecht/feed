@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "17",
         "batters": "138",
-        "pitches": "722",
+        "pitches": "726",
         "max velomax pitch velocity": "98.0",
         "min velomin pitch velocity": "74.9",
-        "ff%fourseam fastball %": "28.8",
-        "si%sinker %": "17.7",
-        "fc%cutter %": "10.7",
+        "ff%fourseam fastball %": "28.7",
+        "si%sinker %": "18.2",
+        "fc%cutter %": "10.6",
         "fs%splitter %": "1.7",
-        "ch%changeup %": "10.0",
-        "sl%slider %": "23.8",
-        "cu%curve %": "7.3",
+        "ch%changeup %": "10.1",
+        "sl%slider %": "23.4",
+        "cu%curve %": "7.4",
         "max evmax exit velocity": "111.7",
         "hhhard hit": "59",
-        "hh%hard hit %": "45.0",
+        "hh%hard hit %": "44.4",
         "brlbarrels": "12",
-        "brl%barrel %": "9.2",
+        "brl%barrel %": "9.0",
         "ab": "170",
         "avg": ".247",
         "h": "42",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "8",
         "so": "38",
-        "bipballs in play": "131",
+        "bipballs in play": "133",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-06-27 20:06:27.257201"
+        "updated": "2025-06-27 20:06:35.485120"
     },
     "nym @ pit": [
         {
@@ -906,6 +906,21 @@
     ],
     "ath @ nyy": [
         {
+            "player": "gio urshela",
+            "game": "ath @ nyy",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-06-27 20:06:30",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "7:05 PM",
+            "in": "4",
+            "result": "Lineout",
+            "evo": "88.0",
+            "la": "26",
+            "dist": "293"
+        },
+        {
             "player": "tyler soderstrom",
             "game": "ath @ nyy",
             "hr/park": "",
@@ -1307,10 +1322,10 @@
             "team": "sd",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "87.2",
+            "la": "-13",
+            "dist": "8"
         },
         {
             "player": "martin maldonado",
@@ -1599,21 +1614,6 @@
         }
     ],
     "stl @ cle": [
-        {
-            "player": "pedro pages",
-            "game": "stl @ cle",
-            "hr/park": "",
-            "pa": "26",
-            "dt": "2025-06-27 20:04:17",
-            "img": "https://www.mlbstatic.com/team-logos/138.svg",
-            "team": "stl",
-            "start": "7:10 PM",
-            "in": "4",
-            "result": "Groundout",
-            "evo": "77.8",
-            "la": "-18",
-            "dist": "7"
-        },
         {
             "player": "nolan gorman",
             "game": "stl @ cle",
@@ -2001,7 +2001,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2393,10 +2393,10 @@
             "team": "min",
             "start": "7:10 PM",
             "in": "3",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "In Progress",
+            "evo": "81.5",
+            "la": "-7",
+            "dist": "15"
         },
         {
             "player": "christian vazquez",
