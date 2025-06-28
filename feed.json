@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "55",
+        "pitchers": "58",
         "batters": "223",
-        "pitches": "2624",
+        "pitches": "2640",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "73.0",
         "ff%fourseam fastball %": "28.6",
-        "si%sinker %": "17.6",
+        "si%sinker %": "17.7",
         "fc%cutter %": "9.2",
         "fs%splitter %": "3.8",
-        "ch%changeup %": "9.8",
-        "sl%slider %": "22.9",
+        "ch%changeup %": "9.7",
+        "sl%slider %": "23.1",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "207",
-        "hh%hard hit %": "42.9",
-        "brlbarrels": "44",
-        "brl%barrel %": "9.1",
-        "ab": "611",
-        "avg": ".250",
+        "hhhard hit": "209",
+        "hh%hard hit %": "42.8",
+        "brlbarrels": "45",
+        "brl%barrel %": "9.2",
+        "ab": "617",
+        "avg": ".248",
         "h": "153",
         "1b": "95",
         "2b": "33",
         "3b": "4",
         "hr": "21",
-        "so": "138",
-        "bipballs in play": "483",
+        "so": "139",
+        "bipballs in play": "488",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 21:37:14.133861"
+        "updated": "2025-06-27 21:37:24.883233"
     },
     "nym @ pit": [
+        {
+            "player": "kebryan hayes",
+            "game": "nym @ pit",
+            "hr/park": "",
+            "pa": "74",
+            "dt": "2025-06-27 21:37:17",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "joey bart",
             "game": "nym @ pit",
@@ -41,10 +56,10 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "81.3",
+            "la": "-2",
+            "dist": "30"
         },
         {
             "player": "nick gonzales",
@@ -1138,7 +1153,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "101.9",
             "la": "-14",
             "dist": "10"
@@ -4992,6 +5007,21 @@
     ],
     "tor @ bos": [
         {
+            "player": "myles straw",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-06-27 21:37:17",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "george springer",
             "game": "tor @ bos",
             "hr/park": "",
@@ -6895,7 +6925,7 @@
             "team": "phi",
             "start": "7:15 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6917,6 +6947,21 @@
         }
     ],
     "sf @ chw": [
+        {
+            "player": "mike tauchman",
+            "game": "sf @ chw",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-27 21:37:17",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "michael a taylor",
             "game": "sf @ chw",
@@ -7760,6 +7805,36 @@
     ],
     "sea @ tex": [
         {
+            "player": "cal raleigh",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-06-27 21:37:17",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "8:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "100.1",
+            "la": "9",
+            "dist": "169"
+        },
+        {
+            "player": "julio rodriguez",
+            "game": "sea @ tex",
+            "hr/park": "23/30",
+            "pa": "47",
+            "dt": "2025-06-27 21:37:17",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "8:05 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "107.8",
+            "la": "26",
+            "dist": "416"
+        },
+        {
             "player": "jp crawford",
             "game": "sea @ tex",
             "hr/park": "",
@@ -8421,6 +8496,21 @@
         }
     ],
     "chc @ hou": [
+        {
+            "player": "christian walker",
+            "game": "chc @ hou",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-06-27 21:37:17",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "Lineout",
+            "evo": "67.3",
+            "la": "11",
+            "dist": "117"
+        },
         {
             "player": "ian happ",
             "game": "chc @ hou",
@@ -9655,6 +9745,21 @@
         }
     ],
     "col @ mil": [
+        {
+            "player": "william contreras",
+            "game": "col @ mil",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-06-27 21:37:17",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "63.3",
+            "la": "-60",
+            "dist": "2"
+        },
         {
             "player": "michael toglia",
             "game": "col @ mil",
