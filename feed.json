@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "82",
+        "pitchers": "84",
         "batters": "235",
-        "pitches": "5336",
+        "pitches": "3244",
         "max velomax pitch velocity": "101.7",
         "min velomin pitch velocity": "34.6",
-        "ff%fourseam fastball %": "27.8",
-        "si%sinker %": "17.7",
-        "fc%cutter %": "10.4",
-        "fs%splitter %": "2.9",
-        "ch%changeup %": "8.5",
-        "sl%slider %": "22.8",
-        "cu%curve %": "9.9",
+        "ff%fourseam fastball %": "28.2",
+        "si%sinker %": "17.5",
+        "fc%cutter %": "10.1",
+        "fs%splitter %": "2.8",
+        "ch%changeup %": "8.9",
+        "sl%slider %": "22.7",
+        "cu%curve %": "9.6",
         "max evmax exit velocity": "114.8",
-        "hhhard hit": "415",
-        "hh%hard hit %": "40.6",
-        "brlbarrels": "93",
+        "hhhard hit": "247",
+        "hh%hard hit %": "40.0",
+        "brlbarrels": "56",
         "brl%barrel %": "9.1",
-        "ab": "1272",
-        "avg": ".291",
-        "h": "370",
-        "1b": "249",
-        "2b": "67",
-        "3b": "4",
-        "hr": "50",
-        "so": "283",
-        "bipballs in play": "1022",
+        "ab": "771",
+        "avg": ".278",
+        "h": "214",
+        "1b": "145",
+        "2b": "37",
+        "3b": "2",
+        "hr": "30",
+        "so": "171",
+        "bipballs in play": "618",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-28 18:50:32.389673"
+        "updated": "2025-06-28 18:51:06.832869"
     },
     "ath @ nyy": [
         {
@@ -176,7 +176,7 @@
             "team": "nyy",
             "start": "1:05 PM",
             "in": "8",
-            "result": "Pop Out",
+            "result": "Flyout",
             "evo": "80.8",
             "la": "58",
             "dist": "192"
@@ -2331,6 +2331,21 @@
     ],
     "nym @ pit": [
         {
+            "player": "francisco lindor",
+            "game": "nym @ pit",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-06-28 18:50:59",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "4:05 PM",
+            "in": "4",
+            "result": "Flyout",
+            "evo": "93.3",
+            "la": "46",
+            "dist": "300"
+        },
+        {
             "player": "luis torrens",
             "game": "nym @ pit",
             "hr/park": "",
@@ -2340,7 +2355,7 @@
             "team": "nym",
             "start": "4:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Fielders Choice Out",
             "evo": "69.7",
             "la": "-61",
             "dist": "1"
@@ -4075,6 +4090,21 @@
     ],
     "sea @ tex": [
         {
+            "player": "josh jung",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-06-28 18:50:59",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "4:05 PM",
+            "in": "9",
+            "result": "Mound Visit",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "evan carter",
             "game": "sea @ tex",
             "hr/park": "",
@@ -4084,10 +4114,10 @@
             "team": "tex",
             "start": "4:05 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "68.3",
+            "la": "-10",
+            "dist": "13"
         },
         {
             "player": "jonah heim",
@@ -5091,10 +5121,10 @@
             "team": "lad",
             "start": "4:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "46.2",
+            "la": "-7",
+            "dist": "17"
         },
         {
             "player": "andy pages",
@@ -6314,6 +6344,21 @@
     ],
     "sd @ cin": [
         {
+            "player": "will benson",
+            "game": "sd @ cin",
+            "hr/park": "",
+            "pa": "74",
+            "dt": "2025-06-28 18:50:59",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "4:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "rece hinds",
             "game": "sd @ cin",
             "hr/park": "",
@@ -6323,10 +6368,10 @@
             "team": "cin",
             "start": "4:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "103.5",
+            "la": "-3",
+            "dist": "38"
         },
         {
             "player": "tyler stephenson",
@@ -7411,19 +7456,34 @@
     ],
     "stl @ cle": [
         {
-            "player": "steven kwan",
+            "player": "kyle manzardo",
             "game": "stl @ cle",
             "hr/park": "",
+            "pa": "81",
+            "dt": "2025-06-28 18:50:59",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "4:10 PM",
+            "in": "9",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "steven kwan",
+            "game": "stl @ cle",
+            "hr/park": "0/30",
             "pa": "80",
             "dt": "2025-06-28 18:48:41",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
             "team": "cle",
             "start": "4:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "89.0",
+            "la": "43",
+            "dist": "302"
         },
         {
             "player": "nolan gorman",
@@ -8613,6 +8673,21 @@
     ],
     "tor @ bos": [
         {
+            "player": "jarren duran",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "78",
+            "dt": "2025-06-28 18:50:59",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "4:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jonatan clase",
             "game": "tor @ bos",
             "hr/park": "",
@@ -8622,10 +8697,10 @@
             "team": "tor",
             "start": "4:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "57.0",
+            "la": "-21",
+            "dist": "7"
         },
         {
             "player": "alejandro kirk",
@@ -8772,7 +8847,7 @@
             "team": "tor",
             "start": "4:10 PM",
             "in": "7",
-            "result": "Field Error",
+            "result": "Single",
             "evo": "75.9",
             "la": "11",
             "dist": "145"
@@ -10701,6 +10776,36 @@
         }
     ],
     "mia @ ari": [
+        {
+            "player": "ketel marte",
+            "game": "mia @ ari",
+            "hr/park": "",
+            "pa": "78",
+            "dt": "2025-06-28 18:50:59",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "4:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "geraldo perdomo",
+            "game": "mia @ ari",
+            "hr/park": "",
+            "pa": "77",
+            "dt": "2025-06-28 18:50:59",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "4:10 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "72.1",
+            "la": "-4",
+            "dist": "22"
+        },
         {
             "player": "otto lopez",
             "game": "mia @ ari",
