@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "43",
         "batters": "219",
-        "pitches": "2093",
+        "pitches": "2102",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "73.0",
         "ff%fourseam fastball %": "27.7",
         "si%sinker %": "17.4",
-        "fc%cutter %": "9.1",
-        "fs%splitter %": "4.0",
+        "fc%cutter %": "9.2",
+        "fs%splitter %": "3.9",
         "ch%changeup %": "9.3",
-        "sl%slider %": "24.7",
+        "sl%slider %": "24.6",
         "cu%curve %": "7.8",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "167",
-        "hh%hard hit %": "44.4",
+        "hhhard hit": "168",
+        "hh%hard hit %": "44.3",
         "brlbarrels": "37",
         "brl%barrel %": "9.8",
-        "ab": "489",
-        "avg": ".235",
-        "h": "115",
-        "1b": "69",
+        "ab": "490",
+        "avg": ".237",
+        "h": "116",
+        "1b": "70",
         "2b": "26",
         "3b": "2",
         "hr": "18",
         "so": "115",
-        "bipballs in play": "376",
+        "bipballs in play": "379",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 21:11:22.143553"
+        "updated": "2025-06-27 21:11:32.214287"
     },
     "nym @ pit": [
         {
@@ -5816,7 +5816,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6975,10 +6975,10 @@
             "team": "chc",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "76.7",
+            "la": "22",
+            "dist": "234"
         },
         {
             "player": "kyle tucker",
@@ -7418,6 +7418,21 @@
     ],
     "lad @ kc": [
         {
+            "player": "jac caglianone",
+            "game": "lad @ kc",
+            "hr/park": "0/30",
+            "pa": "28",
+            "dt": "2025-06-27 21:10:16",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "95.0",
+            "la": "45",
+            "dist": "316"
+        },
+        {
             "player": "salvador perez",
             "game": "lad @ kc",
             "hr/park": "",
@@ -7427,10 +7442,10 @@
             "team": "kc",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "93.5",
+            "la": "56",
+            "dist": "247"
         },
         {
             "player": "vinnie pasquantino",
