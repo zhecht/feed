@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "28",
-        "batters": "99",
-        "pitches": "811",
+        "batters": "101",
+        "pitches": "815",
         "max velomax pitch velocity": "100.1",
         "min velomin pitch velocity": "71.3",
-        "ff%fourseam fastball %": "32.2",
-        "si%sinker %": "14.2",
-        "fc%cutter %": "10.1",
+        "ff%fourseam fastball %": "32.1",
+        "si%sinker %": "14.1",
+        "fc%cutter %": "10.2",
         "fs%splitter %": "3.8",
-        "ch%changeup %": "10.1",
-        "sl%slider %": "24.4",
-        "cu%curve %": "5.2",
+        "ch%changeup %": "9.9",
+        "sl%slider %": "24.5",
+        "cu%curve %": "5.3",
         "max evmax exit velocity": "111.1",
         "hhhard hit": "61",
         "hh%hard hit %": "41.8",
         "brlbarrels": "16",
         "brl%barrel %": "11.0",
-        "ab": "189",
-        "avg": ".286",
+        "ab": "190",
+        "avg": ".284",
         "h": "54",
         "1b": "38",
         "2b": "6",
@@ -28,7 +28,7 @@
         "bipballs in play": "146",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-28 16:23:11.610694"
+        "updated": "2025-06-28 16:23:20.119950"
     },
     "ath @ nyy": [
         {
@@ -2468,6 +2468,21 @@
     ],
     "tb @ bal": [
         {
+            "player": "ramon urias",
+            "game": "tb @ bal",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-06-28 16:23:20",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jackson holliday",
             "game": "tb @ bal",
             "hr/park": "",
@@ -2808,17 +2823,17 @@
         {
             "player": "steven kwan",
             "game": "stl @ cle",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "7",
             "dt": "2025-06-28 16:22:06",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
             "team": "cle",
             "start": "4:10 PM",
             "in": "1",
-            "result": "Flyout",
-            "evo": "91.0",
-            "la": "32",
-            "dist": "337"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "nolan arenado",
@@ -2922,10 +2937,10 @@
             "team": "bos",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "89.0",
+            "la": "-14",
+            "dist": "11"
         },
         {
             "player": "jarren duran",
@@ -3082,6 +3097,21 @@
     ],
     "mia @ ari": [
         {
+            "player": "liam hicks",
+            "game": "mia @ ari",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-06-28 16:23:20",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "eric wagaman",
             "game": "mia @ ari",
             "hr/park": "",
@@ -3183,7 +3213,7 @@
             "team": "mil",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
