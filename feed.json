@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "30",
         "batters": "212",
-        "pitches": "1642",
+        "pitches": "1650",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "73.6",
         "ff%fourseam fastball %": "27.0",
-        "si%sinker %": "18.0",
+        "si%sinker %": "17.9",
         "fc%cutter %": "10.2",
-        "fs%splitter %": "3.5",
+        "fs%splitter %": "3.6",
         "ch%changeup %": "9.0",
         "sl%slider %": "23.8",
-        "cu%curve %": "8.5",
+        "cu%curve %": "8.4",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "130",
-        "hh%hard hit %": "44.7",
+        "hhhard hit": "131",
+        "hh%hard hit %": "44.6",
         "brlbarrels": "29",
-        "brl%barrel %": "10.0",
+        "brl%barrel %": "9.9",
         "ab": "384",
-        "avg": ".234",
-        "h": "90",
+        "avg": ".237",
+        "h": "91",
         "1b": "56",
-        "2b": "19",
+        "2b": "20",
         "3b": "2",
         "hr": "13",
         "so": "91",
-        "bipballs in play": "291",
+        "bipballs in play": "294",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 20:49:42.845798"
+        "updated": "2025-06-27 20:49:52.284706"
     },
     "nym @ pit": [
         {
@@ -41,7 +41,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "6",
-            "result": "Stolen Base 2B",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2212,6 +2212,21 @@
         }
     ],
     "sd @ cin": [
+        {
+            "player": "gavin lux",
+            "game": "sd @ cin",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-06-27 20:49:46",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "austin hays",
             "game": "sd @ cin",
@@ -5331,17 +5346,17 @@
         {
             "player": "randy arozarena",
             "game": "sea @ tex",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "21",
             "dt": "2025-06-27 20:48:45",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "start": "8:05 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Sac Fly",
+            "evo": "87.7",
+            "la": "38",
+            "dist": "303"
         },
         {
             "player": "jorge polanco",
@@ -6190,6 +6205,21 @@
     ],
     "col @ mil": [
         {
+            "player": "mickey moniak",
+            "game": "col @ mil",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-06-27 20:49:46",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "90.8",
+            "la": "53",
+            "dist": "241"
+        },
+        {
             "player": "ryan ritter",
             "game": "col @ mil",
             "hr/park": "",
@@ -6199,10 +6229,10 @@
             "team": "col",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "96.6",
+            "la": "9",
+            "dist": "148"
         },
         {
             "player": "brice turang",
