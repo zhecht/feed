@@ -1,19 +1,19 @@
 {
     "all": {
-        "pitchers": "59",
-        "batters": "224",
-        "pitches": "2674",
+        "pitchers": "60",
+        "batters": "225",
+        "pitches": "2679",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.9",
-        "ff%fourseam fastball %": "28.5",
+        "ff%fourseam fastball %": "28.4",
         "si%sinker %": "17.7",
-        "fc%cutter %": "9.3",
+        "fc%cutter %": "9.2",
         "fs%splitter %": "3.7",
         "ch%changeup %": "9.7",
-        "sl%slider %": "23.2",
-        "cu%curve %": "8.0",
+        "sl%slider %": "23.1",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "209",
+        "hhhard hit": "210",
         "hh%hard hit %": "42.5",
         "brlbarrels": "45",
         "brl%barrel %": "9.1",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "21",
         "so": "142",
-        "bipballs in play": "492",
+        "bipballs in play": "494",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-27 21:39:44.721109"
+        "updated": "2025-06-27 21:39:55.516079"
     },
     "nym @ pit": [
         {
@@ -3182,7 +3182,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5047,9 +5047,9 @@
             "start": "7:10 PM",
             "in": "8",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "33.6",
+            "la": "11",
+            "dist": "40"
         },
         {
             "player": "myles straw",
@@ -7904,7 +7904,7 @@
             "team": "sea",
             "start": "8:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8602,6 +8602,21 @@
     ],
     "chc @ hou": [
         {
+            "player": "taylor trammell",
+            "game": "chc @ hou",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-06-27 21:39:48",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "yainer diaz",
             "game": "chc @ hou",
             "hr/park": "",
@@ -9279,21 +9294,6 @@
     ],
     "lad @ kc": [
         {
-            "player": "freddie freeman",
-            "game": "lad @ kc",
-            "hr/park": "",
-            "pa": "42",
-            "dt": "2025-06-27 21:39:15",
-            "img": "https://www.mlbstatic.com/team-logos/119.svg",
-            "team": "lad",
-            "start": "8:10 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "teoscar hernandez",
             "game": "lad @ kc",
             "hr/park": "",
@@ -9303,7 +9303,7 @@
             "team": "lad",
             "start": "8:10 PM",
             "in": "5",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10556,6 +10556,22 @@
             "dist": "13"
         }
     ],
-    "wsh @ laa": [],
+    "wsh @ laa": [
+        {
+            "player": "cj abrams",
+            "game": "wsh @ laa",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-27 21:39:48",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "98.3",
+            "la": "-22",
+            "dist": "8"
+        }
+    ],
     "mia @ ari": []
 }
