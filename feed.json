@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "50",
+        "pitchers": "51",
         "batters": "215",
-        "pitches": "2498",
+        "pitches": "2504",
         "max velomax pitch velocity": "101.7",
         "min velomin pitch velocity": "65.2",
-        "ff%fourseam fastball %": "29.7",
+        "ff%fourseam fastball %": "29.9",
         "si%sinker %": "16.5",
         "fc%cutter %": "10.2",
         "fs%splitter %": "3.0",
@@ -14,21 +14,21 @@
         "cu%curve %": "10.0",
         "max evmax exit velocity": "114.8",
         "hhhard hit": "189",
-        "hh%hard hit %": "41.3",
+        "hh%hard hit %": "41.1",
         "brlbarrels": "46",
         "brl%barrel %": "10.0",
-        "ab": "579",
+        "ab": "582",
         "avg": ".273",
-        "h": "158",
-        "1b": "107",
+        "h": "159",
+        "1b": "108",
         "2b": "27",
         "3b": "1",
         "hr": "23",
         "so": "137",
-        "bipballs in play": "458",
+        "bipballs in play": "460",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-28 18:02:48.133829"
+        "updated": "2025-06-28 18:02:58.798148"
     },
     "ath @ nyy": [
         {
@@ -4934,6 +4934,21 @@
     ],
     "sd @ cin": [
         {
+            "player": "jake cronenworth",
+            "game": "sd @ cin",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-06-28 18:02:51",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "4:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose iglesias",
             "game": "sd @ cin",
             "hr/park": "",
@@ -4943,7 +4958,7 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "85.5",
             "la": "12",
             "dist": "209"
@@ -5685,6 +5700,21 @@
         }
     ],
     "stl @ cle": [
+        {
+            "player": "willson contreras",
+            "game": "stl @ cle",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-06-28 18:02:51",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "austin hedges",
             "game": "stl @ cle",
@@ -6542,6 +6572,21 @@
         }
     ],
     "tor @ bos": [
+        {
+            "player": "wilyer abreu",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-06-28 18:02:51",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "Groundout",
+            "evo": "61.0",
+            "la": "10",
+            "dist": "85"
+        },
         {
             "player": "carlos narvaez",
             "game": "tor @ bos",
@@ -9003,10 +9048,10 @@
             "team": "mil",
             "start": "4:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "93.2",
+            "la": "-10",
+            "dist": "9"
         },
         {
             "player": "rhys hoskins",
