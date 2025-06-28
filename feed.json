@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "41",
-        "batters": "213",
-        "pitches": "2263",
+        "batters": "214",
+        "pitches": "2272",
         "max velomax pitch velocity": "101.7",
         "min velomin pitch velocity": "65.2",
         "ff%fourseam fastball %": "29.8",
-        "si%sinker %": "16.0",
+        "si%sinker %": "16.1",
         "fc%cutter %": "10.4",
         "fs%splitter %": "3.1",
         "ch%changeup %": "9.0",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.9",
         "max evmax exit velocity": "114.8",
         "hhhard hit": "171",
-        "hh%hard hit %": "41.8",
+        "hh%hard hit %": "41.7",
         "brlbarrels": "44",
-        "brl%barrel %": "10.8",
-        "ab": "523",
+        "brl%barrel %": "10.7",
+        "ab": "524",
         "avg": ".275",
         "h": "144",
         "1b": "98",
         "2b": "23",
         "3b": "1",
         "hr": "22",
-        "so": "125",
-        "bipballs in play": "409",
+        "so": "124",
+        "bipballs in play": "410",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-28 17:48:03.191302"
+        "updated": "2025-06-28 17:48:13.311770"
     },
     "ath @ nyy": [
         {
@@ -2543,6 +2543,21 @@
     ],
     "tb @ bal": [
         {
+            "player": "christopher morel",
+            "game": "tb @ bal",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-06-28 17:48:06",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "4:05 PM",
+            "in": "6",
+            "result": "Mound Visit",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "curtis mead",
             "game": "tb @ bal",
             "hr/park": "",
@@ -2552,7 +2567,7 @@
             "team": "tb",
             "start": "4:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3876,7 +3891,7 @@
             "team": "lad",
             "start": "4:10 PM",
             "in": "6",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6003,11 +6018,11 @@
     ],
     "tor @ bos": [
         {
-            "player": "myles straw",
+            "player": "bo bichette",
             "game": "tor @ bos",
             "hr/park": "",
-            "pa": "45",
-            "dt": "2025-06-28 17:46:05",
+            "pa": "46",
+            "dt": "2025-06-28 17:48:06",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "start": "4:10 PM",
@@ -6016,6 +6031,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "myles straw",
+            "game": "tor @ bos",
+            "hr/park": "0/30",
+            "pa": "45",
+            "dt": "2025-06-28 17:46:05",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "90.0",
+            "la": "37",
+            "dist": "316"
         },
         {
             "player": "ceddanne rafaela",
@@ -6689,7 +6719,7 @@
             "team": "sf",
             "start": "4:10 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
