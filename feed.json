@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "81",
-        "batters": "264",
-        "pitches": "3197",
+        "batters": "265",
+        "pitches": "3200",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "54.2",
         "ff%fourseam fastball %": "27.8",
@@ -10,14 +10,14 @@
         "fc%cutter %": "9.1",
         "fs%splitter %": "3.8",
         "ch%changeup %": "9.3",
-        "sl%slider %": "23.9",
+        "sl%slider %": "24.0",
         "cu%curve %": "7.9",
         "max evmax exit velocity": "113.3",
         "hhhard hit": "244",
-        "hh%hard hit %": "42.5",
+        "hh%hard hit %": "42.4",
         "brlbarrels": "51",
         "brl%barrel %": "8.9",
-        "ab": "737",
+        "ab": "739",
         "avg": ".244",
         "h": "180",
         "1b": "113",
@@ -25,10 +25,10 @@
         "3b": "5",
         "hr": "23",
         "so": "174",
-        "bipballs in play": "574",
+        "bipballs in play": "576",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-27 22:03:23.016138"
+        "updated": "2025-06-27 22:03:35.270100"
     },
     "nym @ pit": [
         {
@@ -1213,10 +1213,10 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "76.4",
+            "la": "1",
+            "dist": "39"
         },
         {
             "player": "cedric mullins",
@@ -8870,6 +8870,21 @@
     ],
     "sea @ tex": [
         {
+            "player": "donovan solano",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-06-27 22:03:31",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "8:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ben williamson",
             "game": "sea @ tex",
             "hr/park": "",
@@ -8879,7 +8894,7 @@
             "team": "sea",
             "start": "8:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Field Error",
             "evo": "96.9",
             "la": "-6",
             "dist": "23"
@@ -9741,6 +9756,21 @@
         }
     ],
     "chc @ hou": [
+        {
+            "player": "matt shaw",
+            "game": "chc @ hou",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-06-27 22:03:31",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "8:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "michael busch",
             "game": "chc @ hou",
@@ -10624,9 +10654,9 @@
             "start": "8:10 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "83.0",
+            "la": "58",
+            "dist": "199"
         },
         {
             "player": "max muncy",
