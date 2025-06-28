@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "39",
         "batters": "218",
-        "pitches": "1997",
+        "pitches": "2008",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "73.0",
         "ff%fourseam fastball %": "27.4",
@@ -14,21 +14,21 @@
         "cu%curve %": "7.8",
         "max evmax exit velocity": "113.3",
         "hhhard hit": "160",
-        "hh%hard hit %": "44.9",
+        "hh%hard hit %": "44.7",
         "brlbarrels": "36",
         "brl%barrel %": "10.1",
-        "ab": "464",
-        "avg": ".237",
-        "h": "110",
-        "1b": "66",
+        "ab": "465",
+        "avg": ".239",
+        "h": "111",
+        "1b": "67",
         "2b": "25",
         "3b": "2",
         "hr": "17",
-        "so": "108",
-        "bipballs in play": "356",
+        "so": "109",
+        "bipballs in play": "358",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 21:06:44.485305"
+        "updated": "2025-06-27 21:06:54.178016"
     },
     "nym @ pit": [
         {
@@ -2582,7 +2582,7 @@
             "team": "sd",
             "start": "7:10 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3274,10 +3274,10 @@
             "team": "cle",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "84.5",
+            "la": "42",
+            "dist": "288"
         },
         {
             "player": "nolan gorman",
@@ -4918,6 +4918,21 @@
         }
     ],
     "min @ det": [
+        {
+            "player": "gleyber torres",
+            "game": "min @ det",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-06-27 21:04:01",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "Single",
+            "evo": "73.9",
+            "la": "5",
+            "dist": "75"
+        },
         {
             "player": "colt keith",
             "game": "min @ det",
@@ -6705,7 +6720,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7474,7 +7489,7 @@
             "team": "col",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "83.1",
             "la": "-14",
             "dist": "10"
