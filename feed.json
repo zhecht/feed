@@ -2,16 +2,16 @@
     "all": {
         "pitchers": "37",
         "batters": "212",
-        "pitches": "2008",
+        "pitches": "2011",
         "max velomax pitch velocity": "101.7",
         "min velomin pitch velocity": "65.2",
         "ff%fourseam fastball %": "30.4",
-        "si%sinker %": "15.5",
-        "fc%cutter %": "10.0",
+        "si%sinker %": "15.6",
+        "fc%cutter %": "9.9",
         "fs%splitter %": "3.3",
         "ch%changeup %": "8.7",
         "sl%slider %": "22.3",
-        "cu%curve %": "9.8",
+        "cu%curve %": "9.7",
         "max evmax exit velocity": "114.8",
         "hhhard hit": "150",
         "hh%hard hit %": "41.7",
@@ -28,7 +28,7 @@
         "bipballs in play": "360",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-28 17:32:48.570272"
+        "updated": "2025-06-28 17:32:58.150225"
     },
     "ath @ nyy": [
         {
@@ -3144,21 +3144,6 @@
         }
     ],
     "sea @ tex": [
-        {
-            "player": "miles mastrobuoni",
-            "game": "sea @ tex",
-            "hr/park": "",
-            "pa": "34",
-            "dt": "2025-06-28 17:32:35",
-            "img": "https://www.mlbstatic.com/team-logos/136.svg",
-            "team": "sea",
-            "start": "4:05 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "alejandro osuna",
             "game": "sea @ tex",
@@ -6637,16 +6622,31 @@
     ],
     "mia @ ari": [
         {
-            "player": "otto lopez",
+            "player": "agustin ramirez",
             "game": "mia @ ari",
             "hr/park": "",
+            "pa": "44",
+            "dt": "2025-06-28 17:32:51",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "otto lopez",
+            "game": "mia @ ari",
+            "hr/park": "17/30",
             "pa": "43",
             "dt": "2025-06-28 17:32:35",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
             "team": "mia",
             "start": "4:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "103.7",
             "la": "29",
             "dist": "410"
