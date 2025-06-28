@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "84",
         "batters": "235",
-        "pitches": "3261",
+        "pitches": "3265",
         "max velomax pitch velocity": "102.2",
         "min velomin pitch velocity": "34.6",
-        "ff%fourseam fastball %": "28.2",
+        "ff%fourseam fastball %": "28.1",
         "si%sinker %": "17.4",
         "fc%cutter %": "10.1",
         "fs%splitter %": "2.8",
@@ -13,8 +13,8 @@
         "sl%slider %": "23.0",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "114.8",
-        "hhhard hit": "248",
-        "hh%hard hit %": "40.0",
+        "hhhard hit": "249",
+        "hh%hard hit %": "40.1",
         "brlbarrels": "57",
         "brl%barrel %": "9.2",
         "ab": "774",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "30",
         "so": "174",
-        "bipballs in play": "620",
+        "bipballs in play": "621",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-28 18:52:40.951318"
+        "updated": "2025-06-28 18:52:52.654365"
     },
     "ath @ nyy": [
         {
@@ -4114,7 +4114,7 @@
             "team": "tex",
             "start": "4:05 PM",
             "in": "9",
-            "result": "Mound Visit",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7473,17 +7473,17 @@
         {
             "player": "jose ramirez",
             "game": "stl @ cle",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "82",
             "dt": "2025-06-28 18:51:42",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
             "team": "cle",
             "start": "4:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "101.1",
+            "la": "17",
+            "dist": "318"
         },
         {
             "player": "kyle manzardo",
@@ -8703,9 +8703,24 @@
     ],
     "tor @ bos": [
         {
-            "player": "roman anthony",
+            "player": "abraham toro",
             "game": "tor @ bos",
             "hr/park": "",
+            "pa": "80",
+            "dt": "2025-06-28 18:52:44",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "4:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "roman anthony",
+            "game": "tor @ bos",
+            "hr/park": "1/30",
             "pa": "79",
             "dt": "2025-06-28 18:51:26",
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
