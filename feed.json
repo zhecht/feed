@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "27",
-        "batters": "201",
-        "pitches": "1413",
+        "batters": "202",
+        "pitches": "1417",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "74.7",
-        "ff%fourseam fastball %": "28.0",
+        "ff%fourseam fastball %": "27.9",
         "si%sinker %": "17.4",
         "fc%cutter %": "10.2",
-        "fs%splitter %": "2.8",
-        "ch%changeup %": "9.1",
-        "sl%slider %": "24.4",
-        "cu%curve %": "8.1",
+        "fs%splitter %": "2.7",
+        "ch%changeup %": "9.0",
+        "sl%slider %": "24.6",
+        "cu%curve %": "8.3",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "111",
-        "hh%hard hit %": "44.4",
+        "hhhard hit": "110",
+        "hh%hard hit %": "43.8",
         "brlbarrels": "27",
         "brl%barrel %": "10.8",
-        "ab": "337",
-        "avg": ".234",
-        "h": "79",
+        "ab": "340",
+        "avg": ".229",
+        "h": "78",
         "1b": "48",
         "2b": "17",
-        "3b": "2",
+        "3b": "1",
         "hr": "12",
-        "so": "80",
-        "bipballs in play": "250",
+        "so": "82",
+        "bipballs in play": "251",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 20:39:10.584531"
+        "updated": "2025-06-27 20:39:19.423432"
     },
     "nym @ pit": [
         {
@@ -739,11 +739,11 @@
     ],
     "tb @ bal": [
         {
-            "player": "ryan ohearn",
+            "player": "gunnar henderson",
             "game": "tb @ bal",
             "hr/park": "",
-            "pa": "43",
-            "dt": "2025-06-27 20:38:46",
+            "pa": "42",
+            "dt": "2025-06-27 20:36:47",
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
             "team": "bal",
             "start": "7:05 PM",
@@ -752,21 +752,6 @@
             "evo": "",
             "la": "",
             "dist": ""
-        },
-        {
-            "player": "gunnar henderson",
-            "game": "tb @ bal",
-            "hr/park": "0/30",
-            "pa": "42",
-            "dt": "2025-06-27 20:36:47",
-            "img": "https://www.mlbstatic.com/team-logos/110.svg",
-            "team": "bal",
-            "start": "7:05 PM",
-            "in": "4",
-            "result": "Triple",
-            "evo": "107.5",
-            "la": "14",
-            "dist": "334"
         },
         {
             "player": "ramon urias",
@@ -2027,7 +2012,7 @@
             "team": "sd",
             "start": "7:10 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2530,6 +2515,36 @@
     ],
     "stl @ cle": [
         {
+            "player": "steven kwan",
+            "game": "stl @ cle",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-06-27 20:39:18",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "64.2",
+            "la": "-9",
+            "dist": "15"
+        },
+        {
+            "player": "angel martinez",
+            "game": "stl @ cle",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-06-27 20:39:18",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bo naylor",
             "game": "stl @ cle",
             "hr/park": "",
@@ -2539,7 +2554,7 @@
             "team": "cle",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3161,6 +3176,21 @@
         }
     ],
     "tor @ bos": [
+        {
+            "player": "connor wong",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-06-27 20:39:18",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "david hamilton",
             "game": "tor @ bos",
@@ -5001,6 +5031,21 @@
     ],
     "chc @ hou": [
         {
+            "player": "taylor trammell",
+            "game": "chc @ hou",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-06-27 20:39:18",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "yainer diaz",
             "game": "chc @ hou",
             "hr/park": "",
@@ -5010,10 +5055,10 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "51.5",
+            "la": "-28",
+            "dist": "7"
         },
         {
             "player": "christian walker",
