@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "62",
         "batters": "228",
-        "pitches": "2729",
+        "pitches": "2737",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "28.3",
+        "ff%fourseam fastball %": "28.4",
         "si%sinker %": "17.7",
         "fc%cutter %": "9.3",
         "fs%splitter %": "3.7",
@@ -14,23 +14,38 @@
         "cu%curve %": "8.1",
         "max evmax exit velocity": "113.3",
         "hhhard hit": "211",
-        "hh%hard hit %": "42.0",
+        "hh%hard hit %": "41.8",
         "brlbarrels": "45",
-        "brl%barrel %": "9.0",
-        "ab": "641",
+        "brl%barrel %": "8.9",
+        "ab": "644",
         "avg": ".248",
-        "h": "159",
-        "1b": "99",
+        "h": "160",
+        "1b": "100",
         "2b": "34",
         "3b": "5",
         "hr": "21",
         "so": "146",
-        "bipballs in play": "502",
+        "bipballs in play": "505",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-27 21:41:56.602569"
+        "updated": "2025-06-27 21:42:07.409350"
     },
     "nym @ pit": [
+        {
+            "player": "ronny mauricio",
+            "game": "nym @ pit",
+            "hr/park": "",
+            "pa": "77",
+            "dt": "2025-06-27 21:42:01",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brett baty",
             "game": "nym @ pit",
@@ -41,10 +56,10 @@
             "team": "nym",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Field Error",
+            "evo": "88.0",
+            "la": "6",
+            "dist": "115"
         },
         {
             "player": "mark vientos",
@@ -1183,7 +1198,7 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3218,6 +3233,21 @@
     ],
     "sd @ cin": [
         {
+            "player": "santiago espinal",
+            "game": "sd @ cin",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-06-27 21:42:01",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "will benson",
             "game": "sd @ cin",
             "hr/park": "",
@@ -3227,7 +3257,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5106,10 +5136,10 @@
             "team": "tor",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "84.4",
+            "la": "19",
+            "dist": "255"
         },
         {
             "player": "ernie clement",
@@ -7090,7 +7120,7 @@
             "team": "phi",
             "start": "7:15 PM",
             "in": "1",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7142,6 +7172,36 @@
         }
     ],
     "sf @ chw": [
+        {
+            "player": "mike yastrzemski",
+            "game": "sf @ chw",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-06-27 21:42:01",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "wilmer flores",
+            "game": "sf @ chw",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-06-27 21:40:32",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "Pop Out",
+            "evo": "78.4",
+            "la": "62",
+            "dist": "158"
+        },
         {
             "player": "mike tauchman",
             "game": "sf @ chw",
@@ -8009,7 +8069,7 @@
             "team": "sea",
             "start": "8:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Wild Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10070,7 +10130,7 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "91.5",
             "la": "-23",
             "dist": "7"
@@ -10768,21 +10828,6 @@
     ],
     "wsh @ laa": [
         {
-            "player": "luis garcia",
-            "game": "wsh @ laa",
-            "hr/park": "",
-            "pa": "3",
-            "dt": "2025-06-27 21:41:45",
-            "img": "https://www.mlbstatic.com/team-logos/120.svg",
-            "team": "wsh",
-            "start": "9:38 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "james wood",
             "game": "wsh @ laa",
             "hr/park": "",
@@ -10792,7 +10837,7 @@
             "team": "wsh",
             "start": "9:38 PM",
             "in": "1",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
