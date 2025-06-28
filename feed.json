@@ -2,16 +2,16 @@
     "all": {
         "pitchers": "30",
         "batters": "210",
-        "pitches": "1613",
+        "pitches": "1616",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "73.6",
         "ff%fourseam fastball %": "27.0",
-        "si%sinker %": "17.9",
+        "si%sinker %": "18.0",
         "fc%cutter %": "10.1",
-        "fs%splitter %": "3.5",
-        "ch%changeup %": "8.9",
+        "fs%splitter %": "3.4",
+        "ch%changeup %": "9.1",
         "sl%slider %": "23.9",
-        "cu%curve %": "8.6",
+        "cu%curve %": "8.5",
         "max evmax exit velocity": "113.3",
         "hhhard hit": "126",
         "hh%hard hit %": "44.7",
@@ -28,7 +28,7 @@
         "bipballs in play": "282",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 20:47:50.904581"
+        "updated": "2025-06-27 20:48:00.446338"
     },
     "nym @ pit": [
         {
@@ -4148,10 +4148,10 @@
             "team": "min",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "94.2",
+            "la": "42",
+            "dist": "326"
         },
         {
             "player": "willi castro",
@@ -4727,6 +4727,21 @@
     "phi @ atl": [],
     "sf @ chw": [
         {
+            "player": "josh rojas",
+            "game": "sf @ chw",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-06-27 20:48:00",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan noda",
             "game": "sf @ chw",
             "hr/park": "",
@@ -5253,21 +5268,6 @@
         }
     ],
     "sea @ tex": [
-        {
-            "player": "jorge polanco",
-            "game": "sea @ tex",
-            "hr/park": "",
-            "pa": "20",
-            "dt": "2025-06-27 20:47:01",
-            "img": "https://www.mlbstatic.com/team-logos/136.svg",
-            "team": "sea",
-            "start": "8:05 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "80.7",
-            "la": "-5",
-            "dist": "21"
-        },
         {
             "player": "julio rodriguez",
             "game": "sea @ tex",
@@ -6079,7 +6079,7 @@
             "team": "col",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
