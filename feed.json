@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "52",
+        "pitchers": "53",
         "batters": "221",
-        "pitches": "2581",
+        "pitches": "2588",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "73.0",
         "ff%fourseam fastball %": "28.7",
-        "si%sinker %": "17.3",
+        "si%sinker %": "17.5",
         "fc%cutter %": "9.3",
         "fs%splitter %": "3.8",
-        "ch%changeup %": "9.8",
+        "ch%changeup %": "9.6",
         "sl%slider %": "23.0",
         "cu%curve %": "8.1",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "202",
-        "hh%hard hit %": "42.8",
-        "brlbarrels": "42",
-        "brl%barrel %": "8.9",
-        "ab": "602",
-        "avg": ".246",
-        "h": "148",
-        "1b": "92",
+        "hhhard hit": "204",
+        "hh%hard hit %": "42.9",
+        "brlbarrels": "43",
+        "brl%barrel %": "9.1",
+        "ab": "606",
+        "avg": ".248",
+        "h": "150",
+        "1b": "93",
         "2b": "32",
-        "3b": "3",
+        "3b": "4",
         "hr": "21",
         "so": "136",
-        "bipballs in play": "472",
+        "bipballs in play": "475",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 21:34:23.495878"
+        "updated": "2025-06-27 21:34:33.914633"
     },
     "nym @ pit": [
+        {
+            "player": "joey bart",
+            "game": "nym @ pit",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-06-27 21:34:30",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "nick gonzales",
             "game": "nym @ pit",
@@ -2121,21 +2136,6 @@
     ],
     "ath @ nyy": [
         {
-            "player": "jj bleday",
-            "game": "ath @ nyy",
-            "hr/park": "",
-            "pa": "68",
-            "dt": "2025-06-27 21:33:16",
-            "img": "https://www.mlbstatic.com/team-logos/133.svg",
-            "team": "ath",
-            "start": "7:05 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "gio urshela",
             "game": "ath @ nyy",
             "hr/park": "",
@@ -2145,10 +2145,10 @@
             "team": "ath",
             "start": "7:05 PM",
             "in": "9",
-            "result": "Groundout",
-            "evo": "98.7",
-            "la": "2",
-            "dist": "54"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "tyler soderstrom",
@@ -3113,6 +3113,21 @@
     ],
     "sd @ cin": [
         {
+            "player": "jake cronenworth",
+            "game": "sd @ cin",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-06-27 21:34:30",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "xander bogaerts",
             "game": "sd @ cin",
             "hr/park": "",
@@ -3122,10 +3137,10 @@
             "team": "sd",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "62.1",
+            "la": "-7",
+            "dist": "22"
         },
         {
             "player": "gavin sheets",
@@ -4947,6 +4962,21 @@
     ],
     "tor @ bos": [
         {
+            "player": "george springer",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-06-27 21:34:30",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "Single",
+            "evo": "104.2",
+            "la": "10",
+            "dist": "199"
+        },
+        {
             "player": "alejandro kirk",
             "game": "tor @ bos",
             "hr/park": "",
@@ -5909,6 +5939,21 @@
     ],
     "min @ det": [
         {
+            "player": "harrison bader",
+            "game": "min @ det",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-06-27 21:34:30",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kody clemens",
             "game": "min @ det",
             "hr/park": "",
@@ -5918,7 +5963,7 @@
             "team": "min",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "93.1",
             "la": "55",
             "dist": "247"
@@ -6811,6 +6856,21 @@
     ],
     "phi @ atl": [],
     "sf @ chw": [
+        {
+            "player": "michael a taylor",
+            "game": "sf @ chw",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-06-27 21:34:30",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "josh rojas",
             "game": "sf @ chw",
@@ -8295,10 +8355,10 @@
             "team": "chc",
             "start": "8:10 PM",
             "in": "5",
-            "result": "Mound Visit",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "105.0",
+            "la": "3",
+            "dist": "79"
         },
         {
             "player": "matt shaw",
@@ -8942,10 +9002,10 @@
             "team": "lad",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Triple",
+            "evo": "112.4",
+            "la": "13",
+            "dist": "234"
         },
         {
             "player": "enrique hernandez",
