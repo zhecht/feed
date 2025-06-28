@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "32",
-        "batters": "216",
-        "pitches": "1732",
+        "pitchers": "33",
+        "batters": "215",
+        "pitches": "1740",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "73.0",
         "ff%fourseam fastball %": "27.0",
         "si%sinker %": "18.0",
-        "fc%cutter %": "9.8",
+        "fc%cutter %": "9.9",
         "fs%splitter %": "3.6",
-        "ch%changeup %": "9.1",
-        "sl%slider %": "24.3",
+        "ch%changeup %": "9.0",
+        "sl%slider %": "24.4",
         "cu%curve %": "8.1",
         "max evmax exit velocity": "113.3",
         "hhhard hit": "140",
-        "hh%hard hit %": "45.3",
-        "brlbarrels": "33",
-        "brl%barrel %": "10.7",
-        "ab": "409",
-        "avg": ".244",
-        "h": "100",
-        "1b": "59",
+        "hh%hard hit %": "45.0",
+        "brlbarrels": "34",
+        "brl%barrel %": "10.9",
+        "ab": "407",
+        "avg": ".241",
+        "h": "98",
+        "1b": "57",
         "2b": "23",
         "3b": "2",
         "hr": "16",
         "so": "98",
-        "bipballs in play": "309",
+        "bipballs in play": "311",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 20:53:58.555627"
+        "updated": "2025-06-27 20:54:07.983630"
     },
     "nym @ pit": [
         {
@@ -41,7 +41,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1611,6 +1611,36 @@
     ],
     "ath @ nyy": [
         {
+            "player": "ben rice",
+            "game": "ath @ nyy",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-06-27 20:53:00",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "101.7",
+            "la": "34",
+            "dist": "365"
+        },
+        {
+            "player": "paul goldschmidt",
+            "game": "ath @ nyy",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-06-27 20:52:17",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "82.0",
+            "la": "35",
+            "dist": "256"
+        },
+        {
             "player": "jj bleday",
             "game": "ath @ nyy",
             "hr/park": "",
@@ -2935,6 +2965,21 @@
     ],
     "stl @ cle": [
         {
+            "player": "masyn winn",
+            "game": "stl @ cle",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-06-27 20:54:01",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "david fry",
             "game": "stl @ cle",
             "hr/park": "0/30",
@@ -3686,21 +3731,6 @@
         }
     ],
     "tor @ bos": [
-        {
-            "player": "jarren duran",
-            "game": "tor @ bos",
-            "hr/park": "",
-            "pa": "48",
-            "dt": "2025-06-27 20:52:45",
-            "img": "https://www.mlbstatic.com/team-logos/111.svg",
-            "team": "bos",
-            "start": "7:10 PM",
-            "in": "6",
-            "result": "Single",
-            "evo": "81.0",
-            "la": "20",
-            "dist": "237"
-        },
         {
             "player": "bo bichette",
             "game": "tor @ bos",
@@ -5012,36 +5042,6 @@
     "phi @ atl": [],
     "sf @ chw": [
         {
-            "player": "wilmer flores",
-            "game": "sf @ chw",
-            "hr/park": "",
-            "pa": "39",
-            "dt": "2025-06-27 20:53:30",
-            "img": "https://www.mlbstatic.com/team-logos/137.svg",
-            "team": "sf",
-            "start": "7:40 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
-            "player": "rafael devers",
-            "game": "sf @ chw",
-            "hr/park": "",
-            "pa": "38",
-            "dt": "2025-06-27 20:52:17",
-            "img": "https://www.mlbstatic.com/team-logos/137.svg",
-            "team": "sf",
-            "start": "7:40 PM",
-            "in": "5",
-            "result": "Single",
-            "evo": "97.5",
-            "la": "11",
-            "dist": "210"
-        },
-        {
             "player": "michael a taylor",
             "game": "sf @ chw",
             "hr/park": "",
@@ -5598,21 +5598,6 @@
         }
     ],
     "sea @ tex": [
-        {
-            "player": "alejandro osuna",
-            "game": "sea @ tex",
-            "hr/park": "",
-            "pa": "24",
-            "dt": "2025-06-27 20:53:30",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "8:05 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "jonah heim",
             "game": "sea @ tex",
@@ -6265,17 +6250,17 @@
         {
             "player": "maikel garcia",
             "game": "lad @ kc",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "21",
             "dt": "2025-06-27 20:53:30",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "93.2",
+            "la": "22",
+            "dist": "355"
         },
         {
             "player": "bobby witt",
@@ -6589,10 +6574,10 @@
             "team": "col",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "65.8",
+            "la": "60",
+            "dist": "153"
         },
         {
             "player": "jordan beck",
