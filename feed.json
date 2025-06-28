@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "91",
         "batters": "287",
-        "pitches": "3476",
+        "pitches": "3483",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "54.2",
         "ff%fourseam fastball %": "27.8",
@@ -10,25 +10,25 @@
         "fc%cutter %": "8.7",
         "fs%splitter %": "3.5",
         "ch%changeup %": "9.2",
-        "sl%slider %": "24.4",
+        "sl%slider %": "24.5",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "266",
+        "hhhard hit": "267",
         "hh%hard hit %": "42.4",
-        "brlbarrels": "58",
-        "brl%barrel %": "9.3",
-        "ab": "803",
-        "avg": ".250",
-        "h": "201",
+        "brlbarrels": "59",
+        "brl%barrel %": "9.4",
+        "ab": "805",
+        "avg": ".251",
+        "h": "202",
         "1b": "125",
-        "2b": "43",
+        "2b": "44",
         "3b": "5",
         "hr": "28",
         "so": "188",
-        "bipballs in play": "627",
+        "bipballs in play": "630",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-27 22:21:40.574840"
+        "updated": "2025-06-27 22:21:51.635811"
     },
     "nym @ pit": [
         {
@@ -1213,10 +1213,10 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "94.2",
+            "la": "-6",
+            "dist": "27"
         },
         {
             "player": "ryan ohearn",
@@ -7803,17 +7803,17 @@
         {
             "player": "brandon marsh",
             "game": "phi @ atl",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "26",
             "dt": "2025-06-27 22:20:42",
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "start": "7:15 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "109.0",
+            "la": "19",
+            "dist": "365"
         },
         {
             "player": "otto kemp",
@@ -11274,11 +11274,11 @@
     ],
     "lad @ kc": [
         {
-            "player": "bobby witt",
+            "player": "maikel garcia",
             "game": "lad @ kc",
             "hr/park": "",
-            "pa": "58",
-            "dt": "2025-06-27 22:19:27",
+            "pa": "59",
+            "dt": "2025-06-27 22:21:44",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "start": "8:10 PM",
@@ -11287,6 +11287,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "bobby witt",
+            "game": "lad @ kc",
+            "hr/park": "0/30",
+            "pa": "58",
+            "dt": "2025-06-27 22:19:27",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:10 PM",
+            "in": "7",
+            "result": "Flyout",
+            "evo": "93.4",
+            "la": "31",
+            "dist": "359"
         },
         {
             "player": "mookie betts",
@@ -13072,7 +13087,7 @@
             "team": "wsh",
             "start": "9:38 PM",
             "in": "3",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -13374,7 +13389,7 @@
             "team": "ari",
             "start": "9:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
