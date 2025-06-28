@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "33",
         "batters": "209",
-        "pitches": "1471",
+        "pitches": "1479",
         "max velomax pitch velocity": "101.7",
         "min velomin pitch velocity": "67.2",
         "ff%fourseam fastball %": "30.9",
         "si%sinker %": "15.8",
         "fc%cutter %": "9.7",
-        "fs%splitter %": "3.7",
+        "fs%splitter %": "3.8",
         "ch%changeup %": "8.5",
-        "sl%slider %": "23.2",
+        "sl%slider %": "23.1",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "114.8",
         "hhhard hit": "103",
-        "hh%hard hit %": "39.5",
+        "hh%hard hit %": "39.3",
         "brlbarrels": "23",
         "brl%barrel %": "8.8",
-        "ab": "338",
-        "avg": ".263",
+        "ab": "337",
+        "avg": ".264",
         "h": "89",
         "1b": "65",
         "2b": "12",
         "3b": "0",
         "hr": "12",
-        "so": "82",
-        "bipballs in play": "261",
+        "so": "83",
+        "bipballs in play": "262",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-28 17:00:12.823661"
+        "updated": "2025-06-28 17:00:22.329151"
     },
     "ath @ nyy": [
         {
@@ -2552,7 +2552,7 @@
             "team": "tb",
             "start": "4:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2959,7 +2959,7 @@
             "team": "tex",
             "start": "4:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3970,7 +3970,7 @@
             "team": "stl",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5424,6 +5424,21 @@
     ],
     "col @ mil": [
         {
+            "player": "ryan mcmahon",
+            "game": "col @ mil",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-06-28 17:00:20",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "thairo estrada",
             "game": "col @ mil",
             "hr/park": "",
@@ -5433,10 +5448,10 @@
             "team": "col",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "63.0",
+            "la": "-64",
+            "dist": "3"
         },
         {
             "player": "jordan beck",
