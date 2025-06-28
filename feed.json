@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "34",
         "batters": "216",
-        "pitches": "1776",
+        "pitches": "1782",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "73.0",
         "ff%fourseam fastball %": "26.9",
-        "si%sinker %": "18.1",
-        "fc%cutter %": "9.7",
+        "si%sinker %": "18.2",
+        "fc%cutter %": "9.8",
         "fs%splitter %": "3.6",
-        "ch%changeup %": "9.1",
-        "sl%slider %": "24.7",
+        "ch%changeup %": "9.0",
+        "sl%slider %": "24.5",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "145",
-        "hh%hard hit %": "45.3",
+        "hhhard hit": "148",
+        "hh%hard hit %": "45.7",
         "brlbarrels": "35",
-        "brl%barrel %": "10.9",
+        "brl%barrel %": "10.8",
         "ab": "421",
-        "avg": ".240",
-        "h": "101",
-        "1b": "59",
+        "avg": ".245",
+        "h": "103",
+        "1b": "61",
         "2b": "23",
         "3b": "2",
         "hr": "17",
-        "so": "98",
-        "bipballs in play": "320",
+        "so": "99",
+        "bipballs in play": "324",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 20:56:12.181160"
+        "updated": "2025-06-27 20:56:21.732991"
     },
     "nym @ pit": [
         {
@@ -874,6 +874,21 @@
     ],
     "tb @ bal": [
         {
+            "player": "jackson holliday",
+            "game": "tb @ bal",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-06-27 20:56:18",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "coby mayo",
             "game": "tb @ bal",
             "hr/park": "",
@@ -1665,10 +1680,10 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "101.2",
+            "la": "-16",
+            "dist": "7"
         },
         {
             "player": "ben rice",
@@ -4574,6 +4589,36 @@
     ],
     "min @ det": [
         {
+            "player": "kody clemens",
+            "game": "min @ det",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-06-27 20:56:18",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "brooks lee",
+            "game": "min @ det",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-27 20:55:30",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "Single",
+            "evo": "100.0",
+            "la": "13",
+            "dist": "265"
+        },
+        {
             "player": "ty france",
             "game": "min @ det",
             "hr/park": "",
@@ -5176,21 +5221,6 @@
     ],
     "phi @ atl": [],
     "sf @ chw": [
-        {
-            "player": "mike yastrzemski",
-            "game": "sf @ chw",
-            "hr/park": "",
-            "pa": "40",
-            "dt": "2025-06-27 20:56:00",
-            "img": "https://www.mlbstatic.com/team-logos/137.svg",
-            "team": "sf",
-            "start": "7:40 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "wilmer flores",
             "game": "sf @ chw",
@@ -6120,7 +6150,7 @@
             "team": "chc",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6427,21 +6457,6 @@
         }
     ],
     "lad @ kc": [
-        {
-            "player": "shohei ohtani",
-            "game": "lad @ kc",
-            "hr/park": "",
-            "pa": "22",
-            "dt": "2025-06-27 20:56:00",
-            "img": "https://www.mlbstatic.com/team-logos/119.svg",
-            "team": "lad",
-            "start": "8:10 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "maikel garcia",
             "game": "lad @ kc",
@@ -6769,10 +6784,10 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "97.3",
+            "la": "12",
+            "dist": "220"
         },
         {
             "player": "thairo estrada",
