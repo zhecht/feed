@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "25",
         "batters": "174",
-        "pitches": "1110",
+        "pitches": "1111",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "74.7",
-        "ff%fourseam fastball %": "27.7",
-        "si%sinker %": "16.8",
+        "ff%fourseam fastball %": "27.6",
+        "si%sinker %": "17.0",
         "fc%cutter %": "10.7",
         "fs%splitter %": "2.2",
-        "ch%changeup %": "9.4",
+        "ch%changeup %": "9.3",
         "sl%slider %": "25.0",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "84",
-        "hh%hard hit %": "44.0",
+        "hhhard hit": "85",
+        "hh%hard hit %": "44.5",
         "brlbarrels": "20",
         "brl%barrel %": "10.5",
-        "ab": "262",
-        "avg": ".225",
+        "ab": "263",
+        "avg": ".224",
         "h": "59",
         "1b": "38",
         "2b": "11",
@@ -28,7 +28,7 @@
         "bipballs in play": "191",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 20:24:54.864948"
+        "updated": "2025-06-27 20:25:03.479365"
     },
     "nym @ pit": [
         {
@@ -1727,10 +1727,10 @@
             "team": "sd",
             "start": "7:10 PM",
             "in": "4",
-            "result": "Flyout",
-            "evo": "74.6",
-            "la": "32",
-            "dist": "261"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "jackson merrill",
@@ -4056,21 +4056,6 @@
     ],
     "chc @ hou": [
         {
-            "player": "jake meyers",
-            "game": "chc @ hou",
-            "hr/park": "",
-            "pa": "8",
-            "dt": "2025-06-27 20:24:16",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "8:10 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "cam smith",
             "game": "chc @ hou",
             "hr/park": "",
@@ -4080,7 +4065,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "1",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4178,11 +4163,11 @@
     ],
     "lad @ kc": [
         {
-            "player": "bobby witt",
+            "player": "maikel garcia",
             "game": "lad @ kc",
             "hr/park": "",
-            "pa": "6",
-            "dt": "2025-06-27 20:22:46",
+            "pa": "7",
+            "dt": "2025-06-27 20:25:00",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "start": "8:10 PM",
@@ -4191,6 +4176,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "bobby witt",
+            "game": "lad @ kc",
+            "hr/park": "0/30",
+            "pa": "6",
+            "dt": "2025-06-27 20:22:46",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "Lineout",
+            "evo": "97.9",
+            "la": "21",
+            "dist": "329"
         },
         {
             "player": "jonathan india",
