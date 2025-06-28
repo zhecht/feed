@@ -1,10 +1,10 @@
 {
     "all": {
         "pitchers": "62",
-        "batters": "227",
-        "pitches": "2722",
+        "batters": "228",
+        "pitches": "2729",
         "max velomax pitch velocity": "99.2",
-        "min velomin pitch velocity": "71.9",
+        "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "28.3",
         "si%sinker %": "17.7",
         "fc%cutter %": "9.3",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.1",
         "max evmax exit velocity": "113.3",
         "hhhard hit": "211",
-        "hh%hard hit %": "42.1",
+        "hh%hard hit %": "42.0",
         "brlbarrels": "45",
         "brl%barrel %": "9.0",
-        "ab": "640",
-        "avg": ".250",
-        "h": "160",
-        "1b": "100",
+        "ab": "641",
+        "avg": ".248",
+        "h": "159",
+        "1b": "99",
         "2b": "34",
         "3b": "5",
         "hr": "21",
-        "so": "144",
-        "bipballs in play": "501",
+        "so": "146",
+        "bipballs in play": "502",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-27 21:41:34.078942"
+        "updated": "2025-06-27 21:41:45.638549"
     },
     "nym @ pit": [
         {
@@ -5106,10 +5106,10 @@
             "team": "tor",
             "start": "7:10 PM",
             "in": "8",
-            "result": "Single",
-            "evo": "84.4",
-            "la": "19",
-            "dist": "255"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "ernie clement",
@@ -7090,7 +7090,7 @@
             "team": "phi",
             "start": "7:15 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7142,21 +7142,6 @@
         }
     ],
     "sf @ chw": [
-        {
-            "player": "wilmer flores",
-            "game": "sf @ chw",
-            "hr/park": "",
-            "pa": "58",
-            "dt": "2025-06-27 21:40:32",
-            "img": "https://www.mlbstatic.com/team-logos/137.svg",
-            "team": "sf",
-            "start": "7:40 PM",
-            "in": "7",
-            "result": "Pop Out",
-            "evo": "78.4",
-            "la": "62",
-            "dist": "158"
-        },
         {
             "player": "mike tauchman",
             "game": "sf @ chw",
@@ -8737,6 +8722,21 @@
     ],
     "chc @ hou": [
         {
+            "player": "taylor trammell",
+            "game": "chc @ hou",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-06-27 21:39:48",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "Forceout",
+            "evo": "78.4",
+            "la": "-12",
+            "dist": "10"
+        },
+        {
             "player": "yainer diaz",
             "game": "chc @ hou",
             "hr/park": "",
@@ -9423,10 +9423,10 @@
             "team": "lad",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "91.6",
+            "la": "72",
+            "dist": "96"
         },
         {
             "player": "freddie freeman",
@@ -10071,9 +10071,9 @@
             "start": "8:10 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "91.5",
+            "la": "-23",
+            "dist": "7"
         },
         {
             "player": "rhys hoskins",
@@ -10768,6 +10768,21 @@
     ],
     "wsh @ laa": [
         {
+            "player": "luis garcia",
+            "game": "wsh @ laa",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-06-27 21:41:45",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "james wood",
             "game": "wsh @ laa",
             "hr/park": "",
@@ -10777,7 +10792,7 @@
             "team": "wsh",
             "start": "9:38 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
