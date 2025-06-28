@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "81",
         "batters": "234",
-        "pitches": "3190",
+        "pitches": "5314",
         "max velomax pitch velocity": "101.7",
         "min velomin pitch velocity": "34.6",
-        "ff%fourseam fastball %": "28.4",
-        "si%sinker %": "17.6",
-        "fc%cutter %": "10.3",
+        "ff%fourseam fastball %": "27.8",
+        "si%sinker %": "17.8",
+        "fc%cutter %": "10.4",
         "fs%splitter %": "2.9",
-        "ch%changeup %": "8.7",
-        "sl%slider %": "22.4",
-        "cu%curve %": "9.6",
+        "ch%changeup %": "8.4",
+        "sl%slider %": "22.8",
+        "cu%curve %": "9.8",
         "max evmax exit velocity": "114.8",
-        "hhhard hit": "246",
-        "hh%hard hit %": "40.4",
-        "brlbarrels": "56",
-        "brl%barrel %": "9.2",
-        "ab": "758",
-        "avg": ".280",
-        "h": "212",
-        "1b": "143",
-        "2b": "37",
-        "3b": "2",
-        "hr": "30",
-        "so": "167",
-        "bipballs in play": "609",
+        "hhhard hit": "415",
+        "hh%hard hit %": "40.6",
+        "brlbarrels": "93",
+        "brl%barrel %": "9.1",
+        "ab": "1269",
+        "avg": ".292",
+        "h": "370",
+        "1b": "249",
+        "2b": "67",
+        "3b": "4",
+        "hr": "50",
+        "so": "281",
+        "bipballs in play": "1022",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-28 18:47:26.587406"
+        "updated": "2025-06-28 18:48:33.496238"
     },
     "ath @ nyy": [
         {
@@ -2341,9 +2341,9 @@
             "start": "4:05 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "69.7",
+            "la": "-61",
+            "dist": "1"
         },
         {
             "player": "brett baty",
@@ -2867,7 +2867,7 @@
             "team": "bal",
             "start": "4:05 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4084,7 +4084,7 @@
             "team": "tex",
             "start": "4:05 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5066,6 +5066,21 @@
         }
     ],
     "lad @ kc": [
+        {
+            "player": "andy pages",
+            "game": "lad @ kc",
+            "hr/park": "",
+            "pa": "81",
+            "dt": "2025-06-28 18:47:40",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "4:10 PM",
+            "in": "9",
+            "result": "Single",
+            "evo": "76.9",
+            "la": "22",
+            "dist": "235"
+        },
         {
             "player": "enrique hernandez",
             "game": "lad @ kc",
@@ -6269,6 +6284,21 @@
     ],
     "sd @ cin": [
         {
+            "player": "rece hinds",
+            "game": "sd @ cin",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-06-28 18:47:40",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "4:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyler stephenson",
             "game": "sd @ cin",
             "hr/park": "",
@@ -6278,7 +6308,7 @@
             "team": "cin",
             "start": "4:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8547,7 +8577,7 @@
             "team": "tor",
             "start": "4:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
