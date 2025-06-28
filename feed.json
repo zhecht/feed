@@ -2,13 +2,13 @@
     "all": {
         "pitchers": "59",
         "batters": "223",
-        "pitches": "2699",
+        "pitches": "2701",
         "max velomax pitch velocity": "101.7",
         "min velomin pitch velocity": "65.2",
         "ff%fourseam fastball %": "29.2",
         "si%sinker %": "17.3",
         "fc%cutter %": "10.0",
-        "fs%splitter %": "3.0",
+        "fs%splitter %": "3.1",
         "ch%changeup %": "8.8",
         "sl%slider %": "21.6",
         "cu%curve %": "10.0",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "40.6",
         "brlbarrels": "50",
         "brl%barrel %": "9.9",
-        "ab": "633",
-        "avg": ".278",
-        "h": "176",
-        "1b": "119",
+        "ab": "634",
+        "avg": ".281",
+        "h": "178",
+        "1b": "120",
         "2b": "32",
         "3b": "1",
-        "hr": "24",
+        "hr": "25",
         "so": "142",
         "bipballs in play": "507",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-28 18:13:49.770712"
+        "updated": "2025-06-28 18:14:00.220150"
     },
     "ath @ nyy": [
         {
@@ -2340,7 +2340,7 @@
             "team": "pit",
             "start": "4:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "77.5",
             "la": "6",
             "dist": "87"
@@ -2642,7 +2642,7 @@
             "team": "bal",
             "start": "4:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5249,6 +5249,21 @@
     ],
     "sd @ cin": [
         {
+            "player": "tj friedl",
+            "game": "sd @ cin",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-28 18:13:53",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "4:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "santiago espinal",
             "game": "sd @ cin",
             "hr/park": "",
@@ -6091,21 +6106,6 @@
     ],
     "stl @ cle": [
         {
-            "player": "kyle manzardo",
-            "game": "stl @ cle",
-            "hr/park": "",
-            "pa": "63",
-            "dt": "2025-06-28 18:13:37",
-            "img": "https://www.mlbstatic.com/team-logos/114.svg",
-            "team": "cle",
-            "start": "4:10 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "steven kwan",
             "game": "stl @ cle",
             "hr/park": "",
@@ -6115,7 +6115,7 @@
             "team": "cle",
             "start": "4:10 PM",
             "in": "7",
-            "result": "Bunt Pop Out",
+            "result": "In Progress",
             "evo": "41.3",
             "la": "31",
             "dist": "100"
@@ -7038,16 +7038,31 @@
     ],
     "tor @ bos": [
         {
-            "player": "ceddanne rafaela",
+            "player": "jarren duran",
             "game": "tor @ bos",
             "hr/park": "",
+            "pa": "61",
+            "dt": "2025-06-28 18:13:53",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "4:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "ceddanne rafaela",
+            "game": "tor @ bos",
+            "hr/park": "30/30",
             "pa": "60",
             "dt": "2025-06-28 18:13:37",
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
             "team": "bos",
             "start": "4:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Home Run",
             "evo": "105.0",
             "la": "27",
             "dist": "400"
