@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "70",
         "batters": "246",
-        "pitches": "2983",
+        "pitches": "2986",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "28.1",
-        "si%sinker %": "17.7",
+        "si%sinker %": "17.6",
         "fc%cutter %": "9.1",
         "fs%splitter %": "3.8",
-        "ch%changeup %": "9.6",
-        "sl%slider %": "23.7",
-        "cu%curve %": "8.1",
+        "ch%changeup %": "9.5",
+        "sl%slider %": "23.9",
+        "cu%curve %": "8.0",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "225",
-        "hh%hard hit %": "41.7",
-        "brlbarrels": "47",
-        "brl%barrel %": "8.7",
+        "hhhard hit": "227",
+        "hh%hard hit %": "42.0",
+        "brlbarrels": "48",
+        "brl%barrel %": "8.9",
         "ab": "694",
         "avg": ".244",
         "h": "169",
@@ -24,11 +24,11 @@
         "2b": "36",
         "3b": "5",
         "hr": "21",
-        "so": "161",
-        "bipballs in play": "539",
+        "so": "162",
+        "bipballs in play": "540",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-27 21:52:56.312447"
+        "updated": "2025-06-27 21:53:08.055566"
     },
     "nym @ pit": [
         {
@@ -3347,7 +3347,7 @@
             "team": "sd",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5301,10 +5301,10 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "97.9",
+            "la": "7",
+            "dist": "117"
         },
         {
             "player": "connor wong",
@@ -7410,6 +7410,21 @@
         }
     ],
     "phi @ atl": [
+        {
+            "player": "matt olson",
+            "game": "phi @ atl",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-06-27 21:53:02",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "7:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ronald acuna",
             "game": "phi @ atl",
@@ -11618,9 +11633,9 @@
             "start": "9:38 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "102.8",
+            "la": "27",
+            "dist": "402"
         },
         {
             "player": "mike trout",
@@ -11715,21 +11730,6 @@
     ],
     "mia @ ari": [
         {
-            "player": "ketel marte",
-            "game": "mia @ ari",
-            "hr/park": "",
-            "pa": "5",
-            "dt": "2025-06-27 21:51:32",
-            "img": "https://www.mlbstatic.com/team-logos/109.svg",
-            "team": "ari",
-            "start": "9:40 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "geraldo perdomo",
             "game": "mia @ ari",
             "hr/park": "",
@@ -11739,10 +11739,10 @@
             "team": "ari",
             "start": "9:40 PM",
             "in": "1",
-            "result": "Pop Out",
-            "evo": "67.5",
-            "la": "70",
-            "dist": "118"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "otto lopez",
