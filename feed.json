@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "27",
         "batters": "195",
-        "pitches": "1366",
+        "pitches": "1373",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "74.7",
-        "ff%fourseam fastball %": "28.0",
+        "ff%fourseam fastball %": "27.9",
         "si%sinker %": "17.7",
-        "fc%cutter %": "10.0",
+        "fc%cutter %": "10.1",
         "fs%splitter %": "2.5",
-        "ch%changeup %": "8.9",
+        "ch%changeup %": "9.0",
         "sl%slider %": "24.7",
-        "cu%curve %": "8.1",
+        "cu%curve %": "8.2",
         "max evmax exit velocity": "113.3",
         "hhhard hit": "109",
         "hh%hard hit %": "44.7",
         "brlbarrels": "27",
         "brl%barrel %": "11.1",
-        "ab": "325",
-        "avg": ".231",
-        "h": "75",
-        "1b": "45",
+        "ab": "327",
+        "avg": ".232",
+        "h": "76",
+        "1b": "46",
         "2b": "17",
         "3b": "1",
         "hr": "12",
-        "so": "78",
+        "so": "79",
         "bipballs in play": "244",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 20:36:43.896655"
+        "updated": "2025-06-27 20:36:53.125624"
     },
     "nym @ pit": [
         {
@@ -738,6 +738,21 @@
         }
     ],
     "tb @ bal": [
+        {
+            "player": "gunnar henderson",
+            "game": "tb @ bal",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-06-27 20:36:47",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ramon urias",
             "game": "tb @ bal",
@@ -3087,16 +3102,31 @@
     ],
     "tor @ bos": [
         {
-            "player": "ceddanne rafaela",
+            "player": "david hamilton",
             "game": "tor @ bos",
             "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-27 20:36:47",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "ceddanne rafaela",
+            "game": "tor @ bos",
+            "hr/park": "0/30",
             "pa": "40",
             "dt": "2025-06-27 20:35:16",
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
             "team": "bos",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "109.7",
             "la": "16",
             "dist": "321"
@@ -3698,7 +3728,7 @@
             "team": "min",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4639,21 +4669,6 @@
     ],
     "sea @ tex": [
         {
-            "player": "evan carter",
-            "game": "sea @ tex",
-            "hr/park": "",
-            "pa": "15",
-            "dt": "2025-06-27 20:36:15",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "8:05 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "adolis garcia",
             "game": "sea @ tex",
             "hr/park": "",
@@ -4663,10 +4678,10 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "2",
-            "result": "Groundout",
-            "evo": "92.3",
-            "la": "-6",
-            "dist": "11"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "cole young",
@@ -4866,6 +4881,21 @@
     ],
     "chc @ hou": [
         {
+            "player": "victor caratini",
+            "game": "chc @ hou",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-06-27 20:36:47",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "85.6",
+            "la": "28",
+            "dist": "311"
+        },
+        {
             "player": "nico hoerner",
             "game": "chc @ hou",
             "hr/park": "",
@@ -5050,7 +5080,7 @@
         {
             "player": "andy pages",
             "game": "lad @ kc",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "12",
             "dt": "2025-06-27 20:35:29",
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
@@ -5239,7 +5269,7 @@
             "team": "col",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
