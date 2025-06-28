@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "14",
-        "batters": "43",
-        "pitches": "595",
+        "pitchers": "15",
+        "batters": "45",
+        "pitches": "602",
         "max velomax pitch velocity": "97.3",
         "min velomin pitch velocity": "75.6",
-        "ff%fourseam fastball %": "31.1",
-        "si%sinker %": "11.9",
-        "fc%cutter %": "10.8",
+        "ff%fourseam fastball %": "31.2",
+        "si%sinker %": "12.1",
+        "fc%cutter %": "10.6",
         "fs%splitter %": "4.7",
-        "ch%changeup %": "10.9",
+        "ch%changeup %": "10.8",
         "sl%slider %": "26.6",
         "cu%curve %": "4.0",
         "max evmax exit velocity": "109.6",
-        "hhhard hit": "46",
-        "hh%hard hit %": "42.2",
+        "hhhard hit": "47",
+        "hh%hard hit %": "42.0",
         "brlbarrels": "14",
-        "brl%barrel %": "12.8",
-        "ab": "137",
-        "avg": ".270",
+        "brl%barrel %": "12.5",
+        "ab": "139",
+        "avg": ".266",
         "h": "37",
         "1b": "24",
         "2b": "5",
         "3b": "0",
         "hr": "8",
         "so": "31",
-        "bipballs in play": "109",
+        "bipballs in play": "112",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-28 16:11:30.076960"
+        "updated": "2025-06-28 16:11:38.044412"
     },
     "ath @ nyy": [
         {
@@ -2340,10 +2340,10 @@
             "team": "nym",
             "start": "4:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "102.9",
+            "la": "-1",
+            "dist": "52"
         },
         {
             "player": "francisco lindor",
@@ -2363,6 +2363,21 @@
     ],
     "tb @ bal": [
         {
+            "player": "jonathan aranda",
+            "game": "tb @ bal",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-06-28 16:11:35",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "yandy diaz",
             "game": "tb @ bal",
             "hr/park": "",
@@ -2372,10 +2387,10 @@
             "team": "tb",
             "start": "4:05 PM",
             "in": "1",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "84.8",
+            "la": "-3",
+            "dist": "27"
         },
         {
             "player": "brandon lowe",
@@ -2429,7 +2444,23 @@
     "sd @ cin": [],
     "stl @ cle": [],
     "tor @ bos": [],
-    "sf @ chw": [],
+    "sf @ chw": [
+        {
+            "player": "christian koss",
+            "game": "sf @ chw",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-28 16:11:35",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "71.1",
+            "la": "8",
+            "dist": "99"
+        }
+    ],
     "mia @ ari": [],
     "col @ mil": [],
     "chc @ hou": [],
