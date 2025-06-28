@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "54",
-        "batters": "221",
-        "pitches": "2618",
+        "pitchers": "55",
+        "batters": "222",
+        "pitches": "2622",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "73.0",
-        "ff%fourseam fastball %": "28.7",
+        "ff%fourseam fastball %": "28.6",
         "si%sinker %": "17.6",
         "fc%cutter %": "9.2",
         "fs%splitter %": "3.8",
         "ch%changeup %": "9.8",
         "sl%slider %": "22.9",
-        "cu%curve %": "8.1",
+        "cu%curve %": "8.0",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "205",
-        "hh%hard hit %": "42.7",
-        "brlbarrels": "43",
-        "brl%barrel %": "9.0",
-        "ab": "608",
-        "avg": ".248",
-        "h": "151",
-        "1b": "94",
-        "2b": "32",
+        "hhhard hit": "207",
+        "hh%hard hit %": "42.9",
+        "brlbarrels": "44",
+        "brl%barrel %": "9.1",
+        "ab": "610",
+        "avg": ".251",
+        "h": "153",
+        "1b": "95",
+        "2b": "33",
         "3b": "4",
         "hr": "21",
         "so": "138",
-        "bipballs in play": "480",
+        "bipballs in play": "482",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 21:36:09.640706"
+        "updated": "2025-06-27 21:36:20.483368"
     },
     "nym @ pit": [
         {
@@ -41,10 +41,10 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "8",
-            "result": "Groundout",
-            "evo": "81.3",
-            "la": "-2",
-            "dist": "30"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "nick gonzales",
@@ -1128,6 +1128,21 @@
         }
     ],
     "tb @ bal": [
+        {
+            "player": "josh lowe",
+            "game": "tb @ bal",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-06-27 21:36:16",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "101.9",
+            "la": "-14",
+            "dist": "10"
+        },
         {
             "player": "jake mangum",
             "game": "tb @ bal",
@@ -6869,7 +6884,23 @@
             "dist": "293"
         }
     ],
-    "phi @ atl": [],
+    "phi @ atl": [
+        {
+            "player": "trea turner",
+            "game": "phi @ atl",
+            "hr/park": "25/30",
+            "pa": "1",
+            "dt": "2025-06-27 21:36:16",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "7:15 PM",
+            "in": "1",
+            "result": "Double",
+            "evo": "104.2",
+            "la": "21",
+            "dist": "394"
+        }
+    ],
     "sf @ chw": [
         {
             "player": "michael a taylor",
@@ -6881,7 +6912,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7723,10 +7754,10 @@
             "team": "sea",
             "start": "8:05 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Single",
+            "evo": "88.9",
             "la": "",
-            "dist": ""
+            "dist": "52"
         },
         {
             "player": "alejandro osuna",
