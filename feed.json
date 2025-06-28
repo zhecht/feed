@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "40",
         "batters": "218",
-        "pitches": "2040",
+        "pitches": "2043",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "73.0",
         "ff%fourseam fastball %": "27.4",
@@ -10,11 +10,11 @@
         "fc%cutter %": "9.2",
         "fs%splitter %": "4.1",
         "ch%changeup %": "9.2",
-        "sl%slider %": "24.7",
+        "sl%slider %": "24.8",
         "cu%curve %": "7.9",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "164",
-        "hh%hard hit %": "44.7",
+        "hhhard hit": "165",
+        "hh%hard hit %": "44.8",
         "brlbarrels": "37",
         "brl%barrel %": "10.1",
         "ab": "473",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "18",
         "so": "109",
-        "bipballs in play": "367",
+        "bipballs in play": "368",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 21:08:14.000347"
+        "updated": "2025-06-27 21:08:23.575072"
     },
     "nym @ pit": [
         {
@@ -1790,21 +1790,6 @@
         }
     ],
     "ath @ nyy": [
-        {
-            "player": "dj lemahieu",
-            "game": "ath @ nyy",
-            "hr/park": "",
-            "pa": "55",
-            "dt": "2025-06-27 21:08:00",
-            "img": "https://www.mlbstatic.com/team-logos/147.svg",
-            "team": "nyy",
-            "start": "7:05 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "lawrence butler",
             "game": "ath @ nyy",
@@ -6349,6 +6334,21 @@
     ],
     "sea @ tex": [
         {
+            "player": "julio rodriguez",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-06-27 21:08:17",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "8:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jp crawford",
             "game": "sea @ tex",
             "hr/park": "",
@@ -6795,7 +6795,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "107.3",
             "la": "-2",
             "dist": "35"
@@ -7218,9 +7218,9 @@
             "start": "8:10 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "95.8",
+            "la": "8",
+            "dist": "137"
         },
         {
             "player": "freddie freeman",
