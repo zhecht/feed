@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "62",
-        "batters": "229",
-        "pitches": "2743",
+        "batters": "230",
+        "pitches": "2753",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "71.5",
         "ff%fourseam fastball %": "28.3",
@@ -10,25 +10,25 @@
         "fc%cutter %": "9.3",
         "fs%splitter %": "3.6",
         "ch%changeup %": "9.6",
-        "sl%slider %": "23.3",
-        "cu%curve %": "8.2",
+        "sl%slider %": "23.4",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "211",
+        "hhhard hit": "212",
         "hh%hard hit %": "41.7",
         "brlbarrels": "45",
         "brl%barrel %": "8.9",
-        "ab": "646",
+        "ab": "648",
         "avg": ".248",
-        "h": "160",
-        "1b": "100",
+        "h": "161",
+        "1b": "101",
         "2b": "34",
         "3b": "5",
         "hr": "21",
-        "so": "147",
-        "bipballs in play": "506",
+        "so": "148",
+        "bipballs in play": "508",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-27 21:42:39.668541"
+        "updated": "2025-06-27 21:42:50.845070"
     },
     "nym @ pit": [
         {
@@ -1198,7 +1198,7 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "7",
-            "result": "Strikeout",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3233,6 +3233,21 @@
     ],
     "sd @ cin": [
         {
+            "player": "santiago espinal",
+            "game": "sd @ cin",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-06-27 21:42:01",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "will benson",
             "game": "sd @ cin",
             "hr/park": "",
@@ -5121,7 +5136,7 @@
             "team": "tor",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Wild Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6158,10 +6173,10 @@
             "team": "det",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "79.0",
+            "la": "15",
+            "dist": "183"
         },
         {
             "player": "colt keith",
@@ -7197,7 +7212,7 @@
             "team": "sf",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8075,6 +8090,21 @@
     ],
     "sea @ tex": [
         {
+            "player": "luke raley",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-06-27 21:42:45",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "8:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "103.8",
+            "la": "-25",
+            "dist": "5"
+        },
+        {
             "player": "randy arozarena",
             "game": "sea @ tex",
             "hr/park": "",
@@ -8084,7 +8114,7 @@
             "team": "sea",
             "start": "8:05 PM",
             "in": "6",
-            "result": "Wild Pitch",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8806,7 +8836,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "5",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "89.2",
             "la": "-16",
             "dist": "11"
