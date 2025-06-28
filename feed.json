@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "39",
         "batters": "218",
-        "pitches": "2008",
+        "pitches": "2018",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "73.0",
         "ff%fourseam fastball %": "27.4",
         "si%sinker %": "17.5",
-        "fc%cutter %": "9.3",
+        "fc%cutter %": "9.2",
         "fs%splitter %": "4.1",
         "ch%changeup %": "9.2",
-        "sl%slider %": "24.8",
-        "cu%curve %": "7.8",
+        "sl%slider %": "24.7",
+        "cu%curve %": "7.9",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "160",
-        "hh%hard hit %": "44.7",
-        "brlbarrels": "36",
-        "brl%barrel %": "10.1",
-        "ab": "465",
-        "avg": ".239",
-        "h": "111",
-        "1b": "67",
+        "hhhard hit": "163",
+        "hh%hard hit %": "45.2",
+        "brlbarrels": "37",
+        "brl%barrel %": "10.2",
+        "ab": "467",
+        "avg": ".242",
+        "h": "113",
+        "1b": "68",
         "2b": "25",
         "3b": "2",
-        "hr": "17",
-        "so": "109",
-        "bipballs in play": "358",
+        "hr": "18",
+        "so": "110",
+        "bipballs in play": "361",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 21:06:54.178016"
+        "updated": "2025-06-27 21:07:04.015729"
     },
     "nym @ pit": [
         {
@@ -41,7 +41,7 @@
             "team": "nym",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -943,10 +943,10 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "95.1",
+            "la": "58",
+            "dist": "194"
         },
         {
             "player": "danny jansen",
@@ -5627,6 +5627,21 @@
     "phi @ atl": [],
     "sf @ chw": [
         {
+            "player": "miguel vargas",
+            "game": "sf @ chw",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-06-27 21:05:48",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "Single",
+            "evo": "109.0",
+            "la": "-9",
+            "dist": "8"
+        },
+        {
             "player": "andrew benintendi",
             "game": "sf @ chw",
             "hr/park": "",
@@ -5636,7 +5651,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6711,6 +6726,21 @@
     ],
     "chc @ hou": [
         {
+            "player": "yainer diaz",
+            "game": "chc @ hou",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-06-27 21:07:00",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "Home Run",
+            "evo": "106.3",
+            "la": "22",
+            "dist": "377"
+        },
+        {
             "player": "christian walker",
             "game": "chc @ hou",
             "hr/park": "",
@@ -7102,6 +7132,21 @@
         }
     ],
     "lad @ kc": [
+        {
+            "player": "vinnie pasquantino",
+            "game": "lad @ kc",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-06-27 21:06:17",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "freddie freeman",
             "game": "lad @ kc",
