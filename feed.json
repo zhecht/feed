@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "26",
         "batters": "187",
-        "pitches": "1268",
+        "pitches": "1270",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "74.7",
-        "ff%fourseam fastball %": "28.1",
-        "si%sinker %": "17.6",
-        "fc%cutter %": "10.5",
+        "ff%fourseam fastball %": "28.2",
+        "si%sinker %": "17.4",
+        "fc%cutter %": "10.4",
         "fs%splitter %": "2.4",
         "ch%changeup %": "8.7",
         "sl%slider %": "25.1",
-        "cu%curve %": "7.6",
+        "cu%curve %": "7.7",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "103",
-        "hh%hard hit %": "45.6",
+        "hhhard hit": "102",
+        "hh%hard hit %": "45.1",
         "brlbarrels": "25",
         "brl%barrel %": "11.1",
         "ab": "301",
@@ -24,11 +24,11 @@
         "2b": "17",
         "3b": "1",
         "hr": "11",
-        "so": "71",
+        "so": "72",
         "bipballs in play": "226",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 20:32:12.145205"
+        "updated": "2025-06-27 20:32:21.023082"
     },
     "nym @ pit": [
         {
@@ -41,7 +41,7 @@
             "team": "nym",
             "start": "6:40 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1295,6 +1295,21 @@
         }
     ],
     "ath @ nyy": [
+        {
+            "player": "lawrence butler",
+            "game": "ath @ nyy",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-06-27 20:32:15",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "max schuemann",
             "game": "ath @ nyy",
@@ -2946,7 +2961,7 @@
             "team": "tor",
             "start": "7:10 PM",
             "in": "5",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "105.7",
             "la": "-4",
             "dist": "17"
@@ -3518,10 +3533,10 @@
             "team": "min",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "81.5",
+            "la": "42",
+            "dist": "291"
         },
         {
             "player": "harrison bader",
@@ -3992,21 +4007,6 @@
     "phi @ atl": [],
     "sf @ chw": [
         {
-            "player": "andrew benintendi",
-            "game": "sf @ chw",
-            "hr/park": "",
-            "pa": "26",
-            "dt": "2025-06-27 20:31:14",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "start": "7:40 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "chase meidroth",
             "game": "sf @ chw",
             "hr/park": "",
@@ -4016,10 +4016,10 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "3",
-            "result": "Lineout",
-            "evo": "98.8",
-            "la": "7",
-            "dist": "135"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "willy adames",
@@ -4393,7 +4393,7 @@
             "team": "sea",
             "start": "8:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
