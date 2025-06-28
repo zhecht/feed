@@ -2,35 +2,50 @@
     "all": {
         "pitchers": "23",
         "batters": "165",
-        "pitches": "1025",
+        "pitches": "1026",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "74.7",
         "ff%fourseam fastball %": "27.9",
         "si%sinker %": "17.0",
-        "fc%cutter %": "10.7",
+        "fc%cutter %": "11.0",
         "fs%splitter %": "2.3",
-        "ch%changeup %": "9.5",
-        "sl%slider %": "24.4",
-        "cu%curve %": "8.2",
+        "ch%changeup %": "9.4",
+        "sl%slider %": "24.2",
+        "cu%curve %": "8.3",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "79",
-        "hh%hard hit %": "43.2",
-        "brlbarrels": "18",
-        "brl%barrel %": "9.8",
-        "ab": "240",
-        "avg": ".229",
-        "h": "55",
+        "hhhard hit": "80",
+        "hh%hard hit %": "43.5",
+        "brlbarrels": "19",
+        "brl%barrel %": "10.3",
+        "ab": "241",
+        "avg": ".224",
+        "h": "54",
         "1b": "36",
-        "2b": "10",
+        "2b": "9",
         "3b": "0",
         "hr": "9",
-        "so": "54",
-        "bipballs in play": "183",
+        "so": "56",
+        "bipballs in play": "184",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 20:21:41.459334"
+        "updated": "2025-06-27 20:21:49.960146"
     },
     "nym @ pit": [
+        {
+            "player": "joey bart",
+            "game": "nym @ pit",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-06-27 20:21:45",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "nick gonzales",
             "game": "nym @ pit",
@@ -41,10 +56,10 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "93.5",
+            "la": "8",
+            "dist": "143"
         },
         {
             "player": "bryan reynolds",
@@ -1652,7 +1667,7 @@
             "team": "sd",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2532,6 +2547,21 @@
     ],
     "tor @ bos": [
         {
+            "player": "abraham toro",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-06-27 20:21:45",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "addison barger",
             "game": "tor @ bos",
             "hr/park": "0/30",
@@ -2999,21 +3029,6 @@
     ],
     "min @ det": [
         {
-            "player": "kody clemens",
-            "game": "min @ det",
-            "hr/park": "",
-            "pa": "27",
-            "dt": "2025-06-27 20:21:01",
-            "img": "https://www.mlbstatic.com/team-logos/142.svg",
-            "team": "min",
-            "start": "7:10 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "brooks lee",
             "game": "min @ det",
             "hr/park": "",
@@ -3023,7 +3038,7 @@
             "team": "min",
             "start": "7:10 PM",
             "in": "4",
-            "result": "Double",
+            "result": "In Progress",
             "evo": "94.9",
             "la": "2",
             "dist": "61"
@@ -3818,7 +3833,7 @@
         {
             "player": "jeremy pena",
             "game": "chc @ hou",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "4",
             "dt": "2025-06-27 20:19:32",
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
@@ -3826,9 +3841,9 @@
             "start": "8:10 PM",
             "in": "1",
             "result": "Flyout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "102.8",
+            "la": "27",
+            "dist": "388"
         },
         {
             "player": "seiya suzuki",
@@ -3877,21 +3892,6 @@
         }
     ],
     "lad @ kc": [
-        {
-            "player": "jonathan india",
-            "game": "lad @ kc",
-            "hr/park": "",
-            "pa": "5",
-            "dt": "2025-06-27 20:19:32",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "start": "8:10 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "freddie freeman",
             "game": "lad @ kc",
@@ -3954,6 +3954,21 @@
         }
     ],
     "col @ mil": [
+        {
+            "player": "sal frelick",
+            "game": "col @ mil",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-06-27 20:20:00",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kyle farmer",
             "game": "col @ mil",
