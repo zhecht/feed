@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "39",
+        "pitchers": "40",
         "batters": "218",
-        "pitches": "2044",
+        "pitches": "2054",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "73.0",
-        "ff%fourseam fastball %": "27.4",
+        "ff%fourseam fastball %": "27.5",
         "si%sinker %": "17.5",
         "fc%cutter %": "9.1",
-        "fs%splitter %": "4.1",
+        "fs%splitter %": "4.0",
         "ch%changeup %": "9.2",
         "sl%slider %": "24.8",
         "cu%curve %": "7.9",
         "max evmax exit velocity": "113.3",
         "hhhard hit": "165",
-        "hh%hard hit %": "44.7",
+        "hh%hard hit %": "44.6",
         "brlbarrels": "37",
         "brl%barrel %": "10.0",
-        "ab": "473",
-        "avg": ".241",
+        "ab": "477",
+        "avg": ".239",
         "h": "114",
         "1b": "68",
         "2b": "26",
         "3b": "2",
         "hr": "18",
-        "so": "109",
-        "bipballs in play": "369",
+        "so": "110",
+        "bipballs in play": "370",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 21:08:43.694903"
+        "updated": "2025-06-27 21:08:53.683105"
     },
     "nym @ pit": [
         {
@@ -41,7 +41,7 @@
             "team": "nym",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -934,6 +934,21 @@
     ],
     "tb @ bal": [
         {
+            "player": "ramon urias",
+            "game": "tb @ bal",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-27 21:08:00",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "yandy diaz",
             "game": "tb @ bal",
             "hr/park": "",
@@ -1775,6 +1790,21 @@
         }
     ],
     "ath @ nyy": [
+        {
+            "player": "dj lemahieu",
+            "game": "ath @ nyy",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-06-27 21:08:00",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "92.1",
+            "la": "-31",
+            "dist": "5"
+        },
         {
             "player": "lawrence butler",
             "game": "ath @ nyy",
@@ -3265,6 +3295,21 @@
     ],
     "stl @ cle": [
         {
+            "player": "gabriel arias",
+            "game": "stl @ cle",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-06-27 21:08:46",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nolan jones",
             "game": "stl @ cle",
             "hr/park": "",
@@ -4136,6 +4181,21 @@
         }
     ],
     "tor @ bos": [
+        {
+            "player": "george springer",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-06-27 21:08:46",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "alejandro kirk",
             "game": "tor @ bos",
@@ -6780,7 +6840,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "107.3",
             "la": "-2",
             "dist": "35"
