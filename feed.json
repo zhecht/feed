@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "46",
         "batters": "220",
-        "pitches": "2259",
+        "pitches": "2272",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "73.0",
-        "ff%fourseam fastball %": "27.9",
+        "ff%fourseam fastball %": "28.0",
         "si%sinker %": "17.3",
         "fc%cutter %": "9.3",
         "fs%splitter %": "3.9",
@@ -13,22 +13,22 @@
         "sl%slider %": "24.3",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "177",
-        "hh%hard hit %": "43.5",
+        "hhhard hit": "178",
+        "hh%hard hit %": "43.3",
         "brlbarrels": "37",
-        "brl%barrel %": "9.1",
-        "ab": "524",
-        "avg": ".237",
+        "brl%barrel %": "9.0",
+        "ab": "526",
+        "avg": ".236",
         "h": "124",
         "1b": "76",
         "2b": "28",
         "3b": "2",
         "hr": "18",
         "so": "121",
-        "bipballs in play": "407",
+        "bipballs in play": "411",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 21:18:44.953205"
+        "updated": "2025-06-27 21:18:55.216325"
     },
     "nym @ pit": [
         {
@@ -5384,6 +5384,36 @@
     ],
     "min @ det": [
         {
+            "player": "carlos correa",
+            "game": "min @ det",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-06-27 21:18:48",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "89.4",
+            "la": "10",
+            "dist": "146"
+        },
+        {
+            "player": "willi castro",
+            "game": "min @ det",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-06-27 21:18:48",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "Sac Bunt",
+            "evo": "26.0",
+            "la": "-33",
+            "dist": "5"
+        },
+        {
             "player": "trevor larnach",
             "game": "min @ det",
             "hr/park": "",
@@ -5393,10 +5423,10 @@
             "team": "min",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "103.5",
+            "la": "-21",
+            "dist": "6"
         },
         {
             "player": "byron buxton",
@@ -6137,6 +6167,21 @@
     "phi @ atl": [],
     "sf @ chw": [
         {
+            "player": "christian koss",
+            "game": "sf @ chw",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-06-27 21:18:48",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jung hoo lee",
             "game": "sf @ chw",
             "hr/park": "",
@@ -6146,10 +6191,10 @@
             "team": "sf",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "86.3",
+            "la": "46",
+            "dist": "270"
         },
         {
             "player": "willy adames",
