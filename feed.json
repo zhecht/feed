@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "32",
-        "batters": "197",
-        "pitches": "1287",
+        "batters": "198",
+        "pitches": "1296",
         "max velomax pitch velocity": "101.7",
         "min velomin pitch velocity": "67.2",
-        "ff%fourseam fastball %": "31.1",
-        "si%sinker %": "15.2",
-        "fc%cutter %": "9.2",
+        "ff%fourseam fastball %": "30.9",
+        "si%sinker %": "15.4",
+        "fc%cutter %": "9.3",
         "fs%splitter %": "3.8",
-        "ch%changeup %": "8.7",
-        "sl%slider %": "23.9",
-        "cu%curve %": "8.0",
+        "ch%changeup %": "8.6",
+        "sl%slider %": "23.8",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "114.8",
-        "hhhard hit": "91",
-        "hh%hard hit %": "41.4",
+        "hhhard hit": "93",
+        "hh%hard hit %": "41.7",
         "brlbarrels": "20",
-        "brl%barrel %": "9.1",
-        "ab": "291",
-        "avg": ".265",
+        "brl%barrel %": "9.0",
+        "ab": "293",
+        "avg": ".263",
         "h": "77",
         "1b": "56",
         "2b": "9",
         "3b": "0",
         "hr": "12",
         "so": "75",
-        "bipballs in play": "220",
+        "bipballs in play": "223",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-28 16:49:28.243676"
+        "updated": "2025-06-28 16:49:37.146433"
     },
     "ath @ nyy": [
         {
@@ -2552,10 +2552,10 @@
             "team": "tb",
             "start": "4:05 PM",
             "in": "3",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "In Progress",
+            "evo": "89.2",
+            "la": "67",
+            "dist": "125"
         },
         {
             "player": "jonathan aranda",
@@ -4190,6 +4190,21 @@
     ],
     "sf @ chw": [
         {
+            "player": "rafael devers",
+            "game": "sf @ chw",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-06-28 16:48:34",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:10 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "112.0",
+            "la": "1",
+            "dist": "69"
+        },
+        {
             "player": "christian koss",
             "game": "sf @ chw",
             "hr/park": "",
@@ -4462,11 +4477,11 @@
     ],
     "mia @ ari": [
         {
-            "player": "jake mccarthy",
+            "player": "james mccann",
             "game": "mia @ ari",
             "hr/park": "",
-            "pa": "18",
-            "dt": "2025-06-28 16:48:21",
+            "pa": "19",
+            "dt": "2025-06-28 16:49:35",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "start": "4:10 PM",
@@ -4475,6 +4490,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "jake mccarthy",
+            "game": "mia @ ari",
+            "hr/park": "0/30",
+            "pa": "18",
+            "dt": "2025-06-28 16:48:21",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "95.2",
+            "la": "35",
+            "dist": "360"
         },
         {
             "player": "randal grichuk",
