@@ -1,23 +1,23 @@
 {
     "all": {
         "pitchers": "82",
-        "batters": "266",
-        "pitches": "3218",
+        "batters": "267",
+        "pitches": "3227",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "54.2",
         "ff%fourseam fastball %": "27.9",
-        "si%sinker %": "18.2",
+        "si%sinker %": "18.1",
         "fc%cutter %": "9.1",
-        "fs%splitter %": "3.8",
+        "fs%splitter %": "3.7",
         "ch%changeup %": "9.3",
-        "sl%slider %": "23.9",
+        "sl%slider %": "24.0",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "113.3",
         "hhhard hit": "246",
-        "hh%hard hit %": "42.5",
+        "hh%hard hit %": "42.3",
         "brlbarrels": "51",
         "brl%barrel %": "8.8",
-        "ab": "744",
+        "ab": "745",
         "avg": ".243",
         "h": "181",
         "1b": "114",
@@ -25,10 +25,10 @@
         "3b": "5",
         "hr": "23",
         "so": "176",
-        "bipballs in play": "579",
+        "bipballs in play": "581",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-27 22:05:10.097808"
+        "updated": "2025-06-27 22:05:21.550636"
     },
     "nym @ pit": [
         {
@@ -5382,6 +5382,21 @@
     ],
     "tor @ bos": [
         {
+            "player": "nate eaton",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "80",
+            "dt": "2025-06-27 22:05:15",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "78.7",
+            "la": "-40",
+            "dist": "4"
+        },
+        {
             "player": "abraham toro",
             "game": "tor @ bos",
             "hr/park": "",
@@ -5391,10 +5406,10 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "79.4",
+            "la": "48",
+            "dist": "221"
         },
         {
             "player": "jarren duran",
@@ -7660,7 +7675,7 @@
             "team": "phi",
             "start": "7:15 PM",
             "in": "2",
-            "result": "Game Advisory",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12504,7 +12519,7 @@
             "team": "ari",
             "start": "9:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
