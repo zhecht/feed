@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "49",
         "batters": "220",
-        "pitches": "2369",
+        "pitches": "2374",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "73.0",
-        "ff%fourseam fastball %": "28.4",
+        "ff%fourseam fastball %": "28.3",
         "si%sinker %": "17.1",
         "fc%cutter %": "9.4",
         "fs%splitter %": "3.8",
@@ -13,22 +13,22 @@
         "sl%slider %": "23.8",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "187",
-        "hh%hard hit %": "43.2",
+        "hhhard hit": "188",
+        "hh%hard hit %": "43.3",
         "brlbarrels": "39",
         "brl%barrel %": "9.0",
         "ab": "556",
-        "avg": ".243",
-        "h": "135",
-        "1b": "83",
+        "avg": ".241",
+        "h": "134",
+        "1b": "82",
         "2b": "29",
         "3b": "3",
         "hr": "20",
         "so": "128",
-        "bipballs in play": "433",
+        "bipballs in play": "434",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 21:24:13.131288"
+        "updated": "2025-06-27 21:24:23.394530"
     },
     "nym @ pit": [
         {
@@ -41,7 +41,7 @@
             "team": "nym",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4692,6 +4692,21 @@
     ],
     "tor @ bos": [
         {
+            "player": "wilyer abreu",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-06-27 21:21:35",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "Lineout",
+            "evo": "100.7",
+            "la": "20",
+            "dist": "299"
+        },
+        {
             "player": "trevor story",
             "game": "tor @ bos",
             "hr/park": "",
@@ -7174,6 +7189,21 @@
     ],
     "sea @ tex": [
         {
+            "player": "ben williamson",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-27 21:24:16",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "8:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "dominic canzone",
             "game": "sea @ tex",
             "hr/park": "",
@@ -7183,7 +7213,7 @@
             "team": "sea",
             "start": "8:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "93.7",
             "la": "59",
             "dist": "211"
@@ -8800,21 +8830,6 @@
     ],
     "col @ mil": [
         {
-            "player": "braxton fulford",
-            "game": "col @ mil",
-            "hr/park": "",
-            "pa": "38",
-            "dt": "2025-06-27 21:24:00",
-            "img": "https://www.mlbstatic.com/team-logos/115.svg",
-            "team": "col",
-            "start": "8:10 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "brenton doyle",
             "game": "col @ mil",
             "hr/park": "",
@@ -8824,10 +8839,10 @@
             "team": "col",
             "start": "8:10 PM",
             "in": "5",
-            "result": "Single",
-            "evo": "70.1",
-            "la": "33",
-            "dist": "238"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "christian yelich",
