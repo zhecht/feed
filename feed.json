@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "39",
         "batters": "218",
-        "pitches": "1994",
+        "pitches": "1995",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "73.0",
         "ff%fourseam fastball %": "27.4",
-        "si%sinker %": "17.7",
-        "fc%cutter %": "9.2",
-        "fs%splitter %": "4.2",
-        "ch%changeup %": "8.9",
-        "sl%slider %": "24.7",
-        "cu%curve %": "7.9",
+        "si%sinker %": "17.6",
+        "fc%cutter %": "9.3",
+        "fs%splitter %": "4.1",
+        "ch%changeup %": "9.0",
+        "sl%slider %": "24.8",
+        "cu%curve %": "7.8",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "160",
-        "hh%hard hit %": "45.1",
+        "hhhard hit": "159",
+        "hh%hard hit %": "45.0",
         "brlbarrels": "36",
-        "brl%barrel %": "10.1",
-        "ab": "462",
+        "brl%barrel %": "10.2",
+        "ab": "461",
         "avg": ".236",
         "h": "109",
         "1b": "65",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "17",
         "so": "108",
-        "bipballs in play": "355",
+        "bipballs in play": "353",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 21:05:54.525664"
+        "updated": "2025-06-27 21:06:04.459312"
     },
     "nym @ pit": [
         {
@@ -943,10 +943,10 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "6",
-            "result": "Flyout",
-            "evo": "95.1",
-            "la": "58",
-            "dist": "194"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "danny jansen",
@@ -2582,7 +2582,7 @@
             "team": "sd",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3264,6 +3264,21 @@
         }
     ],
     "stl @ cle": [
+        {
+            "player": "daniel schneemann",
+            "game": "stl @ cle",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-27 21:06:01",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "nolan gorman",
             "game": "stl @ cle",
@@ -6690,7 +6705,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7449,36 +7464,6 @@
         }
     ],
     "col @ mil": [
-        {
-            "player": "kyle farmer",
-            "game": "col @ mil",
-            "hr/park": "",
-            "pa": "26",
-            "dt": "2025-06-27 21:05:48",
-            "img": "https://www.mlbstatic.com/team-logos/115.svg",
-            "team": "col",
-            "start": "8:10 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
-            "player": "michael toglia",
-            "game": "col @ mil",
-            "hr/park": "",
-            "pa": "25",
-            "dt": "2025-06-27 21:05:48",
-            "img": "https://www.mlbstatic.com/team-logos/115.svg",
-            "team": "col",
-            "start": "8:10 PM",
-            "in": "4",
-            "result": "Groundout",
-            "evo": "66.8",
-            "la": "-24",
-            "dist": "7"
-        },
         {
             "player": "christian yelich",
             "game": "col @ mil",
