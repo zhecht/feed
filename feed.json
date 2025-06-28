@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "83",
-        "batters": "269",
-        "pitches": "3250",
+        "batters": "270",
+        "pitches": "3254",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "54.2",
         "ff%fourseam fastball %": "27.8",
         "si%sinker %": "18.1",
-        "fc%cutter %": "9.1",
+        "fc%cutter %": "9.2",
         "fs%splitter %": "3.7",
         "ch%changeup %": "9.2",
         "sl%slider %": "23.9",
         "cu%curve %": "8.1",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "246",
-        "hh%hard hit %": "41.9",
-        "brlbarrels": "51",
-        "brl%barrel %": "8.7",
-        "ab": "750",
-        "avg": ".244",
-        "h": "183",
-        "1b": "115",
+        "hhhard hit": "248",
+        "hh%hard hit %": "42.1",
+        "brlbarrels": "52",
+        "brl%barrel %": "8.8",
+        "ab": "752",
+        "avg": ".245",
+        "h": "184",
+        "1b": "116",
         "2b": "40",
         "3b": "5",
         "hr": "23",
         "so": "176",
-        "bipballs in play": "587",
+        "bipballs in play": "589",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-27 22:06:54.564868"
+        "updated": "2025-06-27 22:07:06.066653"
     },
     "nym @ pit": [
         {
@@ -1203,6 +1203,21 @@
         }
     ],
     "tb @ bal": [
+        {
+            "player": "danny jansen",
+            "game": "tb @ bal",
+            "hr/park": "",
+            "pa": "81",
+            "dt": "2025-06-27 22:07:02",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "chandler simpson",
             "game": "tb @ bal",
@@ -7690,7 +7705,7 @@
             "team": "phi",
             "start": "7:15 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "66.0",
             "la": "31",
             "dist": "211"
@@ -10758,10 +10773,10 @@
             "team": "kc",
             "start": "8:10 PM",
             "in": "6",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "99.8",
+            "la": "-16",
+            "dist": "11"
         },
         {
             "player": "freddy fermin",
@@ -12390,7 +12405,7 @@
         {
             "player": "jo adell",
             "game": "wsh @ laa",
-            "hr/park": "",
+            "hr/park": "13/30",
             "pa": "13",
             "dt": "2025-06-27 22:05:48",
             "img": "https://www.mlbstatic.com/team-logos/108.svg",
@@ -12398,9 +12413,9 @@
             "start": "9:38 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "104.3",
+            "la": "33",
+            "dist": "372"
         },
         {
             "player": "riley adams",
@@ -12585,6 +12600,21 @@
     ],
     "mia @ ari": [
         {
+            "player": "lourdes gurriel",
+            "game": "mia @ ari",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-06-27 22:07:02",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "9:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "eugenio suarez",
             "game": "mia @ ari",
             "hr/park": "",
@@ -12594,7 +12624,7 @@
             "team": "ari",
             "start": "9:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "89.9",
             "la": "-10",
             "dist": "17"
