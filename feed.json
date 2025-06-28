@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "68",
         "batters": "223",
-        "pitches": "2795",
+        "pitches": "2801",
         "max velomax pitch velocity": "101.7",
         "min velomin pitch velocity": "35.7",
         "ff%fourseam fastball %": "28.7",
@@ -14,7 +14,7 @@
         "cu%curve %": "9.9",
         "max evmax exit velocity": "114.8",
         "hhhard hit": "213",
-        "hh%hard hit %": "40.3",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "52",
         "brl%barrel %": "9.8",
         "ab": "660",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "26",
         "so": "145",
-        "bipballs in play": "528",
+        "bipballs in play": "530",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-28 18:20:00.502534"
+        "updated": "2025-06-28 18:20:11.751782"
     },
     "ath @ nyy": [
         {
@@ -2678,21 +2678,6 @@
     ],
     "tb @ bal": [
         {
-            "player": "jonathan aranda",
-            "game": "tb @ bal",
-            "hr/park": "",
-            "pa": "65",
-            "dt": "2025-06-28 18:19:53",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "4:05 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "yandy diaz",
             "game": "tb @ bal",
             "hr/park": "",
@@ -4467,6 +4452,21 @@
     ],
     "lad @ kc": [
         {
+            "player": "drew waters",
+            "game": "lad @ kc",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-06-28 18:19:36",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nick loftin",
             "game": "lad @ kc",
             "hr/park": "",
@@ -4476,7 +4476,7 @@
             "team": "kc",
             "start": "4:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10179,11 +10179,11 @@
     ],
     "col @ mil": [
         {
-            "player": "thairo estrada",
+            "player": "ryan mcmahon",
             "game": "col @ mil",
             "hr/park": "",
-            "pa": "67",
-            "dt": "2025-06-28 18:19:36",
+            "pa": "68",
+            "dt": "2025-06-28 18:20:06",
             "img": "https://www.mlbstatic.com/team-logos/115.svg",
             "team": "col",
             "start": "4:10 PM",
@@ -10192,6 +10192,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "thairo estrada",
+            "game": "col @ mil",
+            "hr/park": "0/30",
+            "pa": "67",
+            "dt": "2025-06-28 18:19:36",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:10 PM",
+            "in": "9",
+            "result": "Flyout",
+            "evo": "89.6",
+            "la": "40",
+            "dist": "314"
         },
         {
             "player": "sal frelick",
