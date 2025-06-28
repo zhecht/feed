@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "34",
         "batters": "212",
-        "pitches": "1752",
+        "pitches": "1757",
         "max velomax pitch velocity": "101.7",
         "min velomin pitch velocity": "67.2",
         "ff%fourseam fastball %": "30.2",
-        "si%sinker %": "16.0",
-        "fc%cutter %": "9.8",
+        "si%sinker %": "16.1",
+        "fc%cutter %": "9.7",
         "fs%splitter %": "3.5",
         "ch%changeup %": "8.7",
-        "sl%slider %": "22.6",
+        "sl%slider %": "22.5",
         "cu%curve %": "9.1",
         "max evmax exit velocity": "114.8",
-        "hhhard hit": "126",
-        "hh%hard hit %": "41.0",
+        "hhhard hit": "127",
+        "hh%hard hit %": "40.8",
         "brlbarrels": "33",
-        "brl%barrel %": "10.7",
-        "ab": "400",
-        "avg": ".260",
-        "h": "104",
-        "1b": "70",
+        "brl%barrel %": "10.6",
+        "ab": "401",
+        "avg": ".262",
+        "h": "105",
+        "1b": "71",
         "2b": "17",
         "3b": "0",
         "hr": "17",
         "so": "101",
-        "bipballs in play": "307",
+        "bipballs in play": "311",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-28 17:17:01.997623"
+        "updated": "2025-06-28 17:17:11.236197"
     },
     "ath @ nyy": [
         {
@@ -2552,7 +2552,7 @@
             "team": "tb",
             "start": "4:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3049,7 +3049,7 @@
             "team": "sea",
             "start": "4:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3959,6 +3959,21 @@
     ],
     "sd @ cin": [
         {
+            "player": "xander bogaerts",
+            "game": "sd @ cin",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-06-28 17:17:05",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "4:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "fernando tatis",
             "game": "sd @ cin",
             "hr/park": "",
@@ -3968,10 +3983,10 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "94.6",
+            "la": "72",
+            "dist": "102"
         },
         {
             "player": "rece hinds",
@@ -4395,6 +4410,21 @@
         }
     ],
     "stl @ cle": [
+        {
+            "player": "austin hedges",
+            "game": "stl @ cle",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-06-28 17:17:05",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "4:10 PM",
+            "in": "4",
+            "result": "Single",
+            "evo": "91.2",
+            "la": "10",
+            "dist": "179"
+        },
         {
             "player": "gabriel arias",
             "game": "stl @ cle",
@@ -5362,17 +5392,17 @@
         {
             "player": "mike yastrzemski",
             "game": "sf @ chw",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "31",
             "dt": "2025-06-28 17:16:20",
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
             "team": "sf",
             "start": "4:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "106.6",
+            "la": "15",
+            "dist": "343"
         },
         {
             "player": "michael a taylor",
