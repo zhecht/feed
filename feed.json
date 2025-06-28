@@ -1,20 +1,20 @@
 {
     "all": {
-        "pitchers": "38",
+        "pitchers": "39",
         "batters": "218",
-        "pitches": "1914",
+        "pitches": "1921",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "73.0",
-        "ff%fourseam fastball %": "26.9",
+        "ff%fourseam fastball %": "27.1",
         "si%sinker %": "17.9",
-        "fc%cutter %": "9.5",
+        "fc%cutter %": "9.4",
         "fs%splitter %": "4.1",
         "ch%changeup %": "8.8",
         "sl%slider %": "25.0",
         "cu%curve %": "7.8",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "156",
-        "hh%hard hit %": "45.5",
+        "hhhard hit": "157",
+        "hh%hard hit %": "45.6",
         "brlbarrels": "35",
         "brl%barrel %": "10.2",
         "ab": "448",
@@ -25,12 +25,27 @@
         "3b": "2",
         "hr": "17",
         "so": "104",
-        "bipballs in play": "343",
+        "bipballs in play": "344",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 21:02:08.417778"
+        "updated": "2025-06-27 21:02:18.111762"
     },
     "nym @ pit": [
+        {
+            "player": "brett baty",
+            "game": "nym @ pit",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-06-27 21:01:33",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "Field Error",
+            "evo": "101.4",
+            "la": "52",
+            "dist": "277"
+        },
         {
             "player": "kebryan hayes",
             "game": "nym @ pit",
@@ -2527,21 +2542,6 @@
         }
     ],
     "sd @ cin": [
-        {
-            "player": "trenton brooks",
-            "game": "sd @ cin",
-            "hr/park": "",
-            "pa": "44",
-            "dt": "2025-06-27 21:02:02",
-            "img": "https://www.mlbstatic.com/team-logos/135.svg",
-            "team": "sd",
-            "start": "7:10 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "christian encarnacion strand",
             "game": "sd @ cin",
@@ -6079,6 +6079,21 @@
     ],
     "sea @ tex": [
         {
+            "player": "dominic canzone",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-06-27 21:02:16",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "8:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "sam haggerty",
             "game": "sea @ tex",
             "hr/park": "",
@@ -6465,7 +6480,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
