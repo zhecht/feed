@@ -2,12 +2,12 @@
     "all": {
         "pitchers": "62",
         "batters": "227",
-        "pitches": "2712",
+        "pitches": "2714",
         "max velomax pitch velocity": "99.2",
-        "min velomin pitch velocity": "71.5",
-        "ff%fourseam fastball %": "28.4",
-        "si%sinker %": "17.7",
-        "fc%cutter %": "9.2",
+        "min velomin pitch velocity": "71.9",
+        "ff%fourseam fastball %": "28.3",
+        "si%sinker %": "17.6",
+        "fc%cutter %": "9.3",
         "fs%splitter %": "3.7",
         "ch%changeup %": "9.6",
         "sl%slider %": "23.3",
@@ -24,11 +24,11 @@
         "2b": "34",
         "3b": "5",
         "hr": "21",
-        "so": "145",
+        "so": "144",
         "bipballs in play": "500",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-06-27 21:41:12.226568"
+        "updated": "2025-06-27 21:41:22.838733"
     },
     "nym @ pit": [
         {
@@ -41,7 +41,7 @@
             "team": "nym",
             "start": "6:40 PM",
             "in": "9",
-            "result": "Pop Out",
+            "result": "In Progress",
             "evo": "64.5",
             "la": "37",
             "dist": "205"
@@ -1158,6 +1158,21 @@
         }
     ],
     "tb @ bal": [
+        {
+            "player": "coby mayo",
+            "game": "tb @ bal",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-06-27 21:41:15",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jose caballero",
             "game": "tb @ bal",
@@ -7113,6 +7128,21 @@
     ],
     "sf @ chw": [
         {
+            "player": "wilmer flores",
+            "game": "sf @ chw",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-06-27 21:40:32",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "Pop Out",
+            "evo": "78.4",
+            "la": "62",
+            "dist": "158"
+        },
+        {
             "player": "mike tauchman",
             "game": "sf @ chw",
             "hr/park": "",
@@ -7970,21 +8000,6 @@
     ],
     "sea @ tex": [
         {
-            "player": "randy arozarena",
-            "game": "sea @ tex",
-            "hr/park": "",
-            "pa": "50",
-            "dt": "2025-06-27 21:40:46",
-            "img": "https://www.mlbstatic.com/team-logos/136.svg",
-            "team": "sea",
-            "start": "8:05 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jorge polanco",
             "game": "sea @ tex",
             "hr/park": "",
@@ -8691,21 +8706,6 @@
         }
     ],
     "chc @ hou": [
-        {
-            "player": "taylor trammell",
-            "game": "chc @ hou",
-            "hr/park": "",
-            "pa": "46",
-            "dt": "2025-06-27 21:39:48",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "8:10 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "78.4",
-            "la": "-12",
-            "dist": "10"
-        },
         {
             "player": "yainer diaz",
             "game": "chc @ hou",
@@ -10732,7 +10732,7 @@
             "team": "wsh",
             "start": "9:38 PM",
             "in": "1",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
