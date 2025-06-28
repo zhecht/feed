@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "27",
-        "batters": "191",
-        "pitches": "1317",
+        "batters": "192",
+        "pitches": "1329",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "74.7",
-        "ff%fourseam fastball %": "28.0",
+        "ff%fourseam fastball %": "28.3",
         "si%sinker %": "17.5",
-        "fc%cutter %": "10.3",
+        "fc%cutter %": "10.2",
         "fs%splitter %": "2.4",
         "ch%changeup %": "9.0",
-        "sl%slider %": "24.7",
+        "sl%slider %": "24.6",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "113.3",
         "hhhard hit": "107",
-        "hh%hard hit %": "45.9",
+        "hh%hard hit %": "45.3",
         "brlbarrels": "26",
-        "brl%barrel %": "11.2",
-        "ab": "313",
-        "avg": ".236",
+        "brl%barrel %": "11.0",
+        "ab": "318",
+        "avg": ".233",
         "h": "74",
         "1b": "44",
         "2b": "17",
         "3b": "1",
         "hr": "12",
-        "so": "75",
-        "bipballs in play": "233",
+        "so": "77",
+        "bipballs in play": "236",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 20:34:36.903219"
+        "updated": "2025-06-27 20:34:45.971160"
     },
     "nym @ pit": [
         {
@@ -41,7 +41,7 @@
             "team": "nym",
             "start": "6:40 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -724,6 +724,21 @@
     ],
     "tb @ bal": [
         {
+            "player": "ramon urias",
+            "game": "tb @ bal",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-27 20:34:45",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jackson holliday",
             "game": "tb @ bal",
             "hr/park": "",
@@ -733,10 +748,10 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "81.7",
+            "la": "54",
+            "dist": "224"
         },
         {
             "player": "junior caminero",
@@ -1326,6 +1341,36 @@
     ],
     "ath @ nyy": [
         {
+            "player": "brent rooker",
+            "game": "ath @ nyy",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-27 20:34:45",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jacob wilson",
+            "game": "ath @ nyy",
+            "hr/park": "0/30",
+            "pa": "40",
+            "dt": "2025-06-27 20:33:45",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "94.0",
+            "la": "42",
+            "dist": "302"
+        },
+        {
             "player": "lawrence butler",
             "game": "ath @ nyy",
             "hr/park": "",
@@ -1335,7 +1380,7 @@
             "team": "ath",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3021,7 +3066,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3598,6 +3643,21 @@
         }
     ],
     "min @ det": [
+        {
+            "player": "trevor larnach",
+            "game": "min @ det",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-06-27 20:34:45",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "byron buxton",
             "game": "min @ det",
@@ -4504,6 +4564,21 @@
     ],
     "sea @ tex": [
         {
+            "player": "adolis garcia",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-06-27 20:34:45",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cole young",
             "game": "sea @ tex",
             "hr/park": "",
@@ -4892,10 +4967,10 @@
             "team": "lad",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "86.4",
+            "la": "43",
+            "dist": "291"
         },
         {
             "player": "jac caglianone",
