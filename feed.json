@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "29",
-        "batters": "207",
-        "pitches": "1573",
+        "pitchers": "30",
+        "batters": "209",
+        "pitches": "1589",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "73.6",
-        "ff%fourseam fastball %": "27.6",
-        "si%sinker %": "17.5",
+        "ff%fourseam fastball %": "27.5",
+        "si%sinker %": "17.6",
         "fc%cutter %": "10.2",
         "fs%splitter %": "3.2",
-        "ch%changeup %": "9.0",
-        "sl%slider %": "24.0",
-        "cu%curve %": "8.6",
+        "ch%changeup %": "8.9",
+        "sl%slider %": "24.1",
+        "cu%curve %": "8.5",
         "max evmax exit velocity": "113.3",
-        "hhhard hit": "125",
-        "hh%hard hit %": "45.3",
+        "hhhard hit": "124",
+        "hh%hard hit %": "44.9",
         "brlbarrels": "29",
         "brl%barrel %": "10.5",
-        "ab": "366",
-        "avg": ".230",
+        "ab": "370",
+        "avg": ".227",
         "h": "84",
-        "1b": "51",
-        "2b": "18",
+        "1b": "52",
+        "2b": "17",
         "3b": "2",
         "hr": "13",
         "so": "91",
         "bipballs in play": "276",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 20:46:26.767702"
+        "updated": "2025-06-27 20:46:35.874038"
     },
     "nym @ pit": [
+        {
+            "player": "isiah kiner falefa",
+            "game": "nym @ pit",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-06-27 20:45:30",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "alexander canario",
             "game": "nym @ pit",
@@ -793,10 +808,10 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "76.4",
+            "la": "-24",
+            "dist": "5"
         },
         {
             "player": "jonathan aranda",
@@ -2122,6 +2137,21 @@
         }
     ],
     "sd @ cin": [
+        {
+            "player": "elly de la cruz",
+            "game": "sd @ cin",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-06-27 20:46:31",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jake cronenworth",
             "game": "sd @ cin",
@@ -4049,6 +4079,21 @@
     ],
     "min @ det": [
         {
+            "player": "willi castro",
+            "game": "min @ det",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-06-27 20:45:30",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "parker meadows",
             "game": "min @ det",
             "hr/park": "",
@@ -4616,7 +4661,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "98.4",
             "la": "14",
             "dist": "226"
@@ -5128,10 +5173,10 @@
             "team": "sea",
             "start": "8:05 PM",
             "in": "3",
-            "result": "Double",
-            "evo": "108.8",
-            "la": "6",
-            "dist": "145"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "jp crawford",
@@ -5662,6 +5707,36 @@
         }
     ],
     "lad @ kc": [
+        {
+            "player": "freddy fermin",
+            "game": "lad @ kc",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-06-27 20:46:31",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "john rave",
+            "game": "lad @ kc",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-06-27 20:43:45",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "Walk",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "enrique hernandez",
             "game": "lad @ kc",
