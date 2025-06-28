@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "49",
         "batters": "220",
-        "pitches": "2396",
+        "pitches": "2400",
         "max velomax pitch velocity": "99.2",
         "min velomin pitch velocity": "73.0",
         "ff%fourseam fastball %": "28.3",
@@ -10,25 +10,25 @@
         "fc%cutter %": "9.3",
         "fs%splitter %": "3.8",
         "ch%changeup %": "9.5",
-        "sl%slider %": "23.8",
+        "sl%slider %": "23.9",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "113.3",
         "hhhard hit": "190",
-        "hh%hard hit %": "43.5",
+        "hh%hard hit %": "43.3",
         "brlbarrels": "40",
-        "brl%barrel %": "9.2",
-        "ab": "561",
-        "avg": ".241",
+        "brl%barrel %": "9.1",
+        "ab": "562",
+        "avg": ".240",
         "h": "135",
         "1b": "83",
         "2b": "29",
         "3b": "3",
         "hr": "20",
         "so": "130",
-        "bipballs in play": "437",
+        "bipballs in play": "439",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-27 21:25:05.386669"
+        "updated": "2025-06-27 21:25:15.968594"
     },
     "nym @ pit": [
         {
@@ -3739,10 +3739,10 @@
             "team": "cle",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "84.7",
+            "la": "33",
+            "dist": "299"
         },
         {
             "player": "angel martinez",
@@ -6452,21 +6452,6 @@
     "phi @ atl": [],
     "sf @ chw": [
         {
-            "player": "rafael devers",
-            "game": "sf @ chw",
-            "hr/park": "",
-            "pa": "53",
-            "dt": "2025-06-27 21:25:02",
-            "img": "https://www.mlbstatic.com/team-logos/137.svg",
-            "team": "sf",
-            "start": "7:40 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "heliot ramos",
             "game": "sf @ chw",
             "hr/park": "",
@@ -6476,7 +6461,7 @@
             "team": "sf",
             "start": "7:40 PM",
             "in": "6",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7249,6 +7234,21 @@
     ],
     "sea @ tex": [
         {
+            "player": "ben williamson",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-27 21:24:16",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "8:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "63.5",
+            "la": "-33",
+            "dist": "6"
+        },
+        {
             "player": "dominic canzone",
             "game": "sea @ tex",
             "hr/park": "",
@@ -7258,7 +7258,7 @@
             "team": "sea",
             "start": "8:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "93.7",
             "la": "59",
             "dist": "211"
