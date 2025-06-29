@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "25",
+        "pitchers": "26",
         "batters": "149",
-        "pitches": "1019",
+        "pitches": "1027",
         "max velomax pitch velocity": "99.8",
         "min velomin pitch velocity": "69.7",
-        "ff%fourseam fastball %": "29.2",
-        "si%sinker %": "17.2",
-        "fc%cutter %": "11.0",
+        "ff%fourseam fastball %": "29.1",
+        "si%sinker %": "17.1",
+        "fc%cutter %": "11.1",
         "fs%splitter %": "1.1",
-        "ch%changeup %": "9.1",
-        "sl%slider %": "23.3",
+        "ch%changeup %": "8.9",
+        "sl%slider %": "23.7",
         "cu%curve %": "8.7",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "72",
         "hh%hard hit %": "42.6",
         "brlbarrels": "13",
         "brl%barrel %": "7.7",
-        "ab": "228",
-        "avg": ".246",
+        "ab": "229",
+        "avg": ".245",
         "h": "56",
         "1b": "36",
         "2b": "9",
@@ -28,7 +28,7 @@
         "bipballs in play": "169",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-29 14:39:57.690092"
+        "updated": "2025-06-29 14:40:06.187611"
     },
     "stl @ cle": [
         {
@@ -1943,6 +1943,21 @@
     ],
     "tor @ bos": [
         {
+            "player": "bo bichette",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-06-29 14:40:00",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyler heineman",
             "game": "tor @ bos",
             "hr/park": "",
@@ -1952,7 +1967,7 @@
             "team": "tor",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2877,6 +2892,21 @@
     ],
     "ath @ nyy": [
         {
+            "player": "max muncy",
+            "game": "ath @ nyy",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-06-29 14:40:00",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nick kurtz",
             "game": "ath @ nyy",
             "hr/park": "",
@@ -3781,21 +3811,6 @@
     ],
     "chc @ hou": [
         {
-            "player": "carson kelly",
-            "game": "chc @ hou",
-            "hr/park": "",
-            "pa": "11",
-            "dt": "2025-06-29 14:39:27",
-            "img": "https://www.mlbstatic.com/team-logos/112.svg",
-            "team": "chc",
-            "start": "2:10 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "pete crow armstrong",
             "game": "chc @ hou",
             "hr/park": "",
@@ -4326,7 +4341,23 @@
             "dist": ""
         }
     ],
-    "sea @ tex": [],
+    "sea @ tex": [
+        {
+            "player": "jp crawford",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-29 14:40:00",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "2:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "wsh @ laa": [],
     "mia @ ari": [],
     "min @ det": []
