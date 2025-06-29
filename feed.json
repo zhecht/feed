@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "50",
         "batters": "218",
-        "pitches": "2192",
+        "pitches": "2197",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "69.7",
         "ff%fourseam fastball %": "30.7",
         "si%sinker %": "15.7",
         "fc%cutter %": "10.8",
-        "fs%splitter %": "1.2",
+        "fs%splitter %": "1.3",
         "ch%changeup %": "9.5",
         "sl%slider %": "23.1",
-        "cu%curve %": "8.7",
+        "cu%curve %": "8.6",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "164",
-        "hh%hard hit %": "44.3",
+        "hhhard hit": "167",
+        "hh%hard hit %": "44.8",
         "brlbarrels": "30",
-        "brl%barrel %": "8.1",
-        "ab": "485",
-        "avg": ".254",
-        "h": "123",
+        "brl%barrel %": "8.0",
+        "ab": "487",
+        "avg": ".257",
+        "h": "125",
         "1b": "81",
         "2b": "26",
-        "3b": "1",
-        "hr": "15",
+        "3b": "2",
+        "hr": "16",
         "so": "120",
-        "bipballs in play": "370",
+        "bipballs in play": "373",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-29 15:41:24.695596"
+        "updated": "2025-06-29 15:41:34.801143"
     },
     "stl @ cle": [
         {
@@ -2843,6 +2843,21 @@
     ],
     "tor @ bos": [
         {
+            "player": "ceddanne rafaela",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-06-29 15:41:27",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jarren duran",
             "game": "tor @ bos",
             "hr/park": "",
@@ -2852,10 +2867,10 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Triple",
+            "evo": "107.9",
             "la": "",
-            "dist": ""
+            "dist": "53"
         },
         {
             "player": "trevor story",
@@ -6271,9 +6286,24 @@
     ],
     "chc @ hou": [
         {
-            "player": "jake meyers",
+            "player": "jose altuve",
             "game": "chc @ hou",
             "hr/park": "",
+            "pa": "40",
+            "dt": "2025-06-29 15:41:27",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "Home Run",
+            "evo": "103.1",
+            "la": "44",
+            "dist": "347"
+        },
+        {
+            "player": "jake meyers",
+            "game": "chc @ hou",
+            "hr/park": "0/30",
             "pa": "39",
             "dt": "2025-06-29 15:40:44",
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
@@ -8283,10 +8313,10 @@
             "team": "tex",
             "start": "2:35 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "99.2",
+            "la": "-9",
+            "dist": "13"
         },
         {
             "player": "evan carter",
