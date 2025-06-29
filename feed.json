@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "31",
-        "batters": "180",
-        "pitches": "1357",
+        "batters": "181",
+        "pitches": "1362",
         "max velomax pitch velocity": "99.8",
         "min velomin pitch velocity": "69.7",
         "ff%fourseam fastball %": "29.4",
-        "si%sinker %": "16.9",
-        "fc%cutter %": "11.3",
+        "si%sinker %": "17.0",
+        "fc%cutter %": "11.4",
         "fs%splitter %": "1.5",
-        "ch%changeup %": "9.1",
+        "ch%changeup %": "9.0",
         "sl%slider %": "22.4",
-        "cu%curve %": "9.1",
+        "cu%curve %": "9.0",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "97",
-        "hh%hard hit %": "42.9",
+        "hhhard hit": "98",
+        "hh%hard hit %": "43.2",
         "brlbarrels": "18",
-        "brl%barrel %": "8.0",
-        "ab": "303",
-        "avg": ".241",
+        "brl%barrel %": "7.9",
+        "ab": "305",
+        "avg": ".239",
         "h": "73",
         "1b": "47",
         "2b": "13",
         "3b": "1",
         "hr": "12",
         "so": "77",
-        "bipballs in play": "226",
+        "bipballs in play": "227",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-29 14:56:50.460723"
+        "updated": "2025-06-29 14:56:59.581996"
     },
     "stl @ cle": [
         {
@@ -1745,6 +1745,21 @@
         }
     ],
     "tb @ bal": [
+        {
+            "player": "coby mayo",
+            "game": "tb @ bal",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-06-29 14:56:58",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "cedric mullins",
             "game": "tb @ bal",
@@ -3486,7 +3501,7 @@
             "team": "nyy",
             "start": "1:35 PM",
             "in": "4",
-            "result": "Walk",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4058,10 +4073,10 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "100.1",
+            "la": "-35",
+            "dist": "5"
         },
         {
             "player": "spencer steer",
