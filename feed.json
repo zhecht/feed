@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "118",
         "batters": "274",
-        "pitches": "3918",
+        "pitches": "3919",
         "max velomax pitch velocity": "102.2",
         "min velomin pitch velocity": "41.7",
         "ff%fourseam fastball %": "32.2",
-        "si%sinker %": "17.0",
+        "si%sinker %": "17.1",
         "fc%cutter %": "8.8",
         "fs%splitter %": "2.0",
         "ch%changeup %": "8.5",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "40.6",
         "brlbarrels": "52",
         "brl%barrel %": "7.6",
-        "ab": "886",
+        "ab": "887",
         "avg": ".230",
         "h": "204",
         "1b": "132",
@@ -28,7 +28,7 @@
         "bipballs in play": "688",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-29 18:08:20.610526"
+        "updated": "2025-06-29 18:08:33.357318"
     },
     "stl @ cle": [
         {
@@ -14683,16 +14683,31 @@
     ],
     "mia @ ari": [
         {
-            "player": "lourdes gurriel",
+            "player": "javier sanoja",
             "game": "mia @ ari",
             "hr/park": "",
+            "pa": "50",
+            "dt": "2025-06-29 18:08:29",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "lourdes gurriel",
+            "game": "mia @ ari",
+            "hr/park": "0/30",
             "pa": "49",
             "dt": "2025-06-29 18:04:58",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "start": "4:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "86.2",
             "la": "33",
             "dist": "320"
