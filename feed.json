@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "71",
+        "pitchers": "72",
         "batters": "228",
-        "pitches": "2701",
+        "pitches": "2702",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "41.7",
         "ff%fourseam fastball %": "31.1",
@@ -10,14 +10,14 @@
         "fc%cutter %": "9.3",
         "fs%splitter %": "1.3",
         "ch%changeup %": "9.5",
-        "sl%slider %": "23.2",
+        "sl%slider %": "23.1",
         "cu%curve %": "8.7",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "213",
-        "hh%hard hit %": "45.6",
+        "hhhard hit": "214",
+        "hh%hard hit %": "45.7",
         "brlbarrels": "40",
-        "brl%barrel %": "8.6",
-        "ab": "602",
+        "brl%barrel %": "8.5",
+        "ab": "601",
         "avg": ".241",
         "h": "145",
         "1b": "92",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "21",
         "so": "144",
-        "bipballs in play": "467",
+        "bipballs in play": "468",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-06-29 16:08:33.117066"
+        "updated": "2025-06-29 16:08:44.384208"
     },
     "stl @ cle": [
         {
@@ -1198,7 +1198,7 @@
             "team": "nym",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "91.7",
             "la": "41",
             "dist": "309"
@@ -5352,21 +5352,6 @@
     ],
     "ath @ nyy": [
         {
-            "player": "nick kurtz",
-            "game": "ath @ nyy",
-            "hr/park": "",
-            "pa": "67",
-            "dt": "2025-06-29 16:08:27",
-            "img": "https://www.mlbstatic.com/team-logos/133.svg",
-            "team": "ath",
-            "start": "1:35 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "brent rooker",
             "game": "ath @ nyy",
             "hr/park": "",
@@ -6358,6 +6343,21 @@
         }
     ],
     "sd @ cin": [
+        {
+            "player": "jackson merrill",
+            "game": "sd @ cin",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-06-29 16:08:44",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "1:40 PM",
+            "in": "9",
+            "result": "Pop Out",
+            "evo": "97.2",
+            "la": "72",
+            "dist": "99"
+        },
         {
             "player": "matt mclain",
             "game": "sd @ cin",
@@ -8118,21 +8118,6 @@
     ],
     "lad @ kc": [
         {
-            "player": "bobby witt",
-            "game": "lad @ kc",
-            "hr/park": "",
-            "pa": "24",
-            "dt": "2025-06-29 16:08:27",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "start": "2:10 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jonathan india",
             "game": "lad @ kc",
             "hr/park": "",
@@ -8142,7 +8127,7 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "3",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10083,7 +10068,7 @@
             "team": "sea",
             "start": "2:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
