@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "49",
         "batters": "216",
-        "pitches": "2093",
+        "pitches": "2102",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "69.7",
         "ff%fourseam fastball %": "30.4",
         "si%sinker %": "15.9",
         "fc%cutter %": "11.1",
         "fs%splitter %": "1.2",
-        "ch%changeup %": "9.7",
-        "sl%slider %": "22.4",
-        "cu%curve %": "9.1",
+        "ch%changeup %": "9.8",
+        "sl%slider %": "22.5",
+        "cu%curve %": "9.0",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "156",
-        "hh%hard hit %": "43.8",
+        "hhhard hit": "157",
+        "hh%hard hit %": "44.0",
         "brlbarrels": "30",
         "brl%barrel %": "8.4",
-        "ab": "468",
-        "avg": ".250",
+        "ab": "470",
+        "avg": ".249",
         "h": "117",
         "1b": "76",
         "2b": "25",
         "3b": "1",
         "hr": "15",
-        "so": "116",
-        "bipballs in play": "356",
+        "so": "117",
+        "bipballs in play": "357",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-29 15:36:20.670665"
+        "updated": "2025-06-29 15:36:30.799818"
     },
     "stl @ cle": [
         {
@@ -3574,7 +3574,7 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4481,6 +4481,21 @@
         }
     ],
     "ath @ nyy": [
+        {
+            "player": "willie maciver",
+            "game": "ath @ nyy",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-06-29 15:36:29",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "luis urias",
             "game": "ath @ nyy",
@@ -6160,7 +6175,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7477,6 +7492,21 @@
     ],
     "col @ mil": [
         {
+            "player": "caleb durbin",
+            "game": "col @ mil",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-06-29 15:36:29",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "isaac collins",
             "game": "col @ mil",
             "hr/park": "",
@@ -7486,10 +7516,10 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "95.5",
+            "la": "-17",
+            "dist": "7"
         },
         {
             "player": "rhys hoskins",
