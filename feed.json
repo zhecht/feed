@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "77",
-        "batters": "233",
-        "pitches": "2771",
+        "batters": "234",
+        "pitches": "2780",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "41.7",
-        "ff%fourseam fastball %": "31.1",
+        "ff%fourseam fastball %": "31.2",
         "si%sinker %": "16.9",
-        "fc%cutter %": "9.2",
-        "fs%splitter %": "1.3",
+        "fc%cutter %": "9.1",
+        "fs%splitter %": "1.4",
         "ch%changeup %": "9.6",
         "sl%slider %": "23.1",
         "cu%curve %": "8.7",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "219",
-        "hh%hard hit %": "45.6",
+        "hhhard hit": "221",
+        "hh%hard hit %": "45.9",
         "brlbarrels": "41",
         "brl%barrel %": "8.5",
-        "ab": "619",
-        "avg": ".242",
+        "ab": "622",
+        "avg": ".241",
         "h": "150",
         "1b": "97",
         "2b": "30",
         "3b": "2",
         "hr": "21",
         "so": "149",
-        "bipballs in play": "480",
+        "bipballs in play": "482",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-29 16:13:16.809762"
+        "updated": "2025-06-29 16:13:27.996074"
     },
     "stl @ cle": [
         {
@@ -6404,6 +6404,21 @@
     ],
     "sd @ cin": [
         {
+            "player": "gavin sheets",
+            "game": "sd @ cin",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-06-29 16:13:28",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "1:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyler wade",
             "game": "sd @ cin",
             "hr/park": "",
@@ -7441,6 +7456,21 @@
     ],
     "chc @ hou": [
         {
+            "player": "vidal brujan",
+            "game": "chc @ hou",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-06-29 16:13:28",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "justin turner",
             "game": "chc @ hou",
             "hr/park": "",
@@ -8232,10 +8262,10 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "108.3",
+            "la": "-7",
+            "dist": "17"
         },
         {
             "player": "maikel garcia",
@@ -8615,11 +8645,11 @@
     ],
     "sf @ chw": [
         {
-            "player": "mike yastrzemski",
+            "player": "willy adames",
             "game": "sf @ chw",
             "hr/park": "",
-            "pa": "57",
-            "dt": "2025-06-29 16:12:43",
+            "pa": "58",
+            "dt": "2025-06-29 16:13:28",
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
             "team": "sf",
             "start": "2:10 PM",
@@ -8628,6 +8658,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "mike yastrzemski",
+            "game": "sf @ chw",
+            "hr/park": "0/30",
+            "pa": "57",
+            "dt": "2025-06-29 16:12:43",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "Flyout",
+            "evo": "100.4",
+            "la": "44",
+            "dist": "326"
         },
         {
             "player": "wilmer flores",
@@ -10970,7 +11015,7 @@
             "team": "wsh",
             "start": "4:07 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "105.9",
             "la": "-7",
             "dist": "17"
