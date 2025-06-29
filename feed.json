@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "47",
-        "batters": "211",
-        "pitches": "2025",
+        "batters": "214",
+        "pitches": "2032",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "69.7",
-        "ff%fourseam fastball %": "29.9",
+        "ff%fourseam fastball %": "29.8",
         "si%sinker %": "16.0",
         "fc%cutter %": "11.3",
         "fs%splitter %": "1.2",
-        "ch%changeup %": "9.7",
+        "ch%changeup %": "9.8",
         "sl%slider %": "22.5",
-        "cu%curve %": "9.2",
+        "cu%curve %": "9.1",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "149",
-        "hh%hard hit %": "43.2",
+        "hhhard hit": "150",
+        "hh%hard hit %": "43.1",
         "brlbarrels": "29",
-        "brl%barrel %": "8.4",
-        "ab": "449",
-        "avg": ".256",
+        "brl%barrel %": "8.3",
+        "ab": "453",
+        "avg": ".254",
         "h": "115",
         "1b": "74",
         "2b": "25",
         "3b": "1",
         "hr": "15",
-        "so": "111",
-        "bipballs in play": "345",
+        "so": "112",
+        "bipballs in play": "348",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-29 15:33:09.598994"
+        "updated": "2025-06-29 15:33:19.360328"
     },
     "stl @ cle": [
         {
@@ -1986,6 +1986,21 @@
     ],
     "tb @ bal": [
         {
+            "player": "curtis mead",
+            "game": "tb @ bal",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-06-29 15:33:14",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "Flyout",
+            "evo": "96.3",
+            "la": "33",
+            "dist": "352"
+        },
+        {
             "player": "jake mangum",
             "game": "tb @ bal",
             "hr/park": "",
@@ -2737,6 +2752,21 @@
         }
     ],
     "tor @ bos": [
+        {
+            "player": "tyler heineman",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-06-29 15:33:14",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "Pop Out",
+            "evo": "74.3",
+            "la": "49",
+            "dist": "177"
+        },
         {
             "player": "myles straw",
             "game": "tor @ bos",
@@ -6528,6 +6558,36 @@
     ],
     "lad @ kc": [
         {
+            "player": "salvador perez",
+            "game": "lad @ kc",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-06-29 15:32:27",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "1",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "vinnie pasquantino",
+            "game": "lad @ kc",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-06-29 15:31:44",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "1",
+            "result": "Pop Out",
+            "evo": "90.1",
+            "la": "62",
+            "dist": "183"
+        },
+        {
             "player": "maikel garcia",
             "game": "lad @ kc",
             "hr/park": "",
@@ -6537,7 +6597,7 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "99.0",
             "la": "1",
             "dist": "56"
