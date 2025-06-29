@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "45",
         "batters": "208",
-        "pitches": "1988",
+        "pitches": "1995",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "69.7",
-        "ff%fourseam fastball %": "30.1",
+        "ff%fourseam fastball %": "30.0",
         "si%sinker %": "15.8",
         "fc%cutter %": "11.5",
         "fs%splitter %": "1.3",
         "ch%changeup %": "9.5",
-        "sl%slider %": "22.5",
+        "sl%slider %": "22.6",
         "cu%curve %": "9.2",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "144",
-        "hh%hard hit %": "43.4",
+        "hh%hard hit %": "43.2",
         "brlbarrels": "29",
         "brl%barrel %": "8.7",
-        "ab": "438",
-        "avg": ".258",
-        "h": "113",
-        "1b": "73",
+        "ab": "440",
+        "avg": ".259",
+        "h": "114",
+        "1b": "74",
         "2b": "24",
         "3b": "1",
         "hr": "15",
-        "so": "109",
-        "bipballs in play": "332",
+        "so": "110",
+        "bipballs in play": "333",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-29 15:30:39.803701"
+        "updated": "2025-06-29 15:30:49.742730"
     },
     "stl @ cle": [
         {
@@ -1198,10 +1198,10 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "6",
-            "result": "GIDP",
-            "evo": "100.1",
-            "la": "1",
-            "dist": "58"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "andrew mccutchen",
@@ -4317,6 +4317,21 @@
     ],
     "ath @ nyy": [
         {
+            "player": "max muncy",
+            "game": "ath @ nyy",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-06-29 15:30:13",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nick kurtz",
             "game": "ath @ nyy",
             "hr/park": "",
@@ -4326,10 +4341,10 @@
             "team": "ath",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "88.1",
+            "la": "11",
+            "dist": "153"
         },
         {
             "player": "brent rooker",
@@ -6433,9 +6448,9 @@
             "start": "2:10 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "99.0",
+            "la": "1",
+            "dist": "56"
         },
         {
             "player": "bobby witt",
@@ -7072,6 +7087,21 @@
     ],
     "col @ mil": [
         {
+            "player": "jordan beck",
+            "game": "col @ mil",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-06-29 15:29:42",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "sam hilliard",
             "game": "col @ mil",
             "hr/park": "",
@@ -7081,7 +7111,7 @@
             "team": "col",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
