@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "16",
-        "batters": "100",
-        "pitches": "522",
+        "batters": "101",
+        "pitches": "529",
         "max velomax pitch velocity": "97.9",
         "min velomin pitch velocity": "69.7",
-        "ff%fourseam fastball %": "31.2",
-        "si%sinker %": "15.5",
+        "ff%fourseam fastball %": "31.0",
+        "si%sinker %": "15.7",
         "fc%cutter %": "7.9",
         "fs%splitter %": "1.3",
-        "ch%changeup %": "9.0",
-        "sl%slider %": "26.8",
-        "cu%curve %": "7.5",
+        "ch%changeup %": "8.9",
+        "sl%slider %": "26.7",
+        "cu%curve %": "7.8",
         "max evmax exit velocity": "112.1",
         "hhhard hit": "39",
-        "hh%hard hit %": "40.2",
+        "hh%hard hit %": "39.8",
         "brlbarrels": "9",
-        "brl%barrel %": "9.3",
-        "ab": "133",
-        "avg": ".256",
+        "brl%barrel %": "9.2",
+        "ab": "135",
+        "avg": ".252",
         "h": "34",
         "1b": "21",
         "2b": "4",
         "3b": "0",
         "hr": "9",
         "so": "29",
-        "bipballs in play": "97",
+        "bipballs in play": "98",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-29 14:11:10.795841"
+        "updated": "2025-06-29 14:11:18.807306"
     },
     "stl @ cle": [
         {
@@ -41,7 +41,7 @@
             "team": "cle",
             "start": "12:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "70.8",
             "la": "-26",
             "dist": "5"
@@ -1185,7 +1185,7 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1418,6 +1418,21 @@
     ],
     "tor @ bos": [
         {
+            "player": "addison barger",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-06-29 14:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:35 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bo bichette",
             "game": "tor @ bos",
             "hr/park": "",
@@ -1427,10 +1442,10 @@
             "team": "tor",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "68.2",
+            "la": "-14",
+            "dist": "9"
         },
         {
             "player": "tyler heineman",
@@ -1705,6 +1720,21 @@
     ],
     "phi @ atl": [
         {
+            "player": "stuart fairchild",
+            "game": "phi @ atl",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-06-29 14:11:13",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "1:35 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "eli white",
             "game": "phi @ atl",
             "hr/park": "",
@@ -1714,7 +1744,7 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "60.5",
             "la": "-21",
             "dist": "7"
@@ -1956,7 +1986,7 @@
             "team": "ath",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
