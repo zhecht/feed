@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "77",
         "batters": "236",
-        "pitches": "2820",
+        "pitches": "2823",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "41.7",
         "ff%fourseam fastball %": "31.1",
-        "si%sinker %": "16.9",
+        "si%sinker %": "17.0",
         "fc%cutter %": "9.1",
         "fs%splitter %": "1.5",
         "ch%changeup %": "9.4",
         "sl%slider %": "23.2",
         "cu%curve %": "8.6",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "222",
-        "hh%hard hit %": "45.8",
+        "hhhard hit": "223",
+        "hh%hard hit %": "45.9",
         "brlbarrels": "41",
-        "brl%barrel %": "8.5",
+        "brl%barrel %": "8.4",
         "ab": "629",
         "avg": ".238",
         "h": "150",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "21",
         "so": "152",
-        "bipballs in play": "485",
+        "bipballs in play": "486",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-29 16:15:42.452478"
+        "updated": "2025-06-29 16:15:53.592227"
     },
     "stl @ cle": [
         {
@@ -3323,6 +3323,21 @@
     ],
     "tor @ bos": [
         {
+            "player": "jarren duran",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-06-29 16:15:46",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trevor story",
             "game": "tor @ bos",
             "hr/park": "",
@@ -3332,7 +3347,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "65.4",
             "la": "2",
             "dist": "44"
@@ -7471,21 +7486,6 @@
     ],
     "chc @ hou": [
         {
-            "player": "ian happ",
-            "game": "chc @ hou",
-            "hr/park": "",
-            "pa": "54",
-            "dt": "2025-06-29 16:15:14",
-            "img": "https://www.mlbstatic.com/team-logos/112.svg",
-            "team": "chc",
-            "start": "2:10 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "vidal brujan",
             "game": "chc @ hou",
             "hr/park": "",
@@ -7495,7 +7495,7 @@
             "team": "chc",
             "start": "2:10 PM",
             "in": "7",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8699,7 +8699,7 @@
             "team": "sf",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9571,10 +9571,10 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "109.1",
+            "la": "-19",
+            "dist": "7"
         },
         {
             "player": "rhys hoskins",
