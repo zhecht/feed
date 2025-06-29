@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "74",
+        "pitchers": "75",
         "batters": "232",
-        "pitches": "2752",
+        "pitches": "2758",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "41.7",
         "ff%fourseam fastball %": "31.1",
@@ -11,24 +11,24 @@
         "fs%splitter %": "1.3",
         "ch%changeup %": "9.6",
         "sl%slider %": "23.0",
-        "cu%curve %": "8.8",
+        "cu%curve %": "8.7",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "216",
-        "hh%hard hit %": "45.4",
+        "hhhard hit": "218",
+        "hh%hard hit %": "45.6",
         "brlbarrels": "41",
         "brl%barrel %": "8.6",
-        "ab": "613",
-        "avg": ".241",
+        "ab": "616",
+        "avg": ".240",
         "h": "148",
         "1b": "95",
         "2b": "30",
         "3b": "2",
         "hr": "21",
         "so": "149",
-        "bipballs in play": "476",
+        "bipballs in play": "478",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-29 16:12:11.332283"
+        "updated": "2025-06-29 16:12:22.027889"
     },
     "stl @ cle": [
         {
@@ -7426,6 +7426,21 @@
     ],
     "chc @ hou": [
         {
+            "player": "justin turner",
+            "game": "chc @ hou",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-06-29 16:12:14",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "Pop Out",
+            "evo": "100.6",
+            "la": "76",
+            "dist": "59"
+        },
+        {
             "player": "nico hoerner",
             "game": "chc @ hou",
             "hr/park": "",
@@ -8192,6 +8207,21 @@
         }
     ],
     "lad @ kc": [
+        {
+            "player": "vinnie pasquantino",
+            "game": "lad @ kc",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-06-29 16:12:14",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "maikel garcia",
             "game": "lad @ kc",
@@ -10179,6 +10209,21 @@
     ],
     "sea @ tex": [
         {
+            "player": "mitch garver",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-06-29 16:12:15",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "2:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "98.1",
+            "la": "13",
+            "dist": "200"
+        },
+        {
             "player": "dominic canzone",
             "game": "sea @ tex",
             "hr/park": "0/30",
@@ -10188,7 +10233,7 @@
             "team": "sea",
             "start": "2:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "100.2",
             "la": "31",
             "dist": "389"
