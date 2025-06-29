@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "37",
         "batters": "201",
-        "pitches": "1770",
+        "pitches": "1775",
         "max velomax pitch velocity": "99.8",
         "min velomin pitch velocity": "69.7",
-        "ff%fourseam fastball %": "29.9",
+        "ff%fourseam fastball %": "30.0",
         "si%sinker %": "15.5",
         "fc%cutter %": "11.7",
         "fs%splitter %": "1.4",
-        "ch%changeup %": "9.4",
+        "ch%changeup %": "9.5",
         "sl%slider %": "22.4",
         "cu%curve %": "9.3",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "119",
-        "hh%hard hit %": "41.8",
-        "brlbarrels": "23",
-        "brl%barrel %": "8.1",
-        "ab": "388",
-        "avg": ".247",
-        "h": "96",
-        "1b": "60",
+        "hhhard hit": "121",
+        "hh%hard hit %": "42.0",
+        "brlbarrels": "24",
+        "brl%barrel %": "8.3",
+        "ab": "390",
+        "avg": ".249",
+        "h": "97",
+        "1b": "61",
         "2b": "21",
         "3b": "1",
         "hr": "14",
         "so": "101",
-        "bipballs in play": "285",
+        "bipballs in play": "288",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-29 15:18:34.593923"
+        "updated": "2025-06-29 15:18:44.233635"
     },
     "stl @ cle": [
         {
@@ -1905,10 +1905,10 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "100.9",
+            "la": "-2",
+            "dist": "33"
         },
         {
             "player": "ryan ohearn",
@@ -4026,7 +4026,7 @@
             "team": "nyy",
             "start": "1:35 PM",
             "in": "5",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4733,10 +4733,10 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "99.9",
+            "la": "25",
+            "dist": "386"
         },
         {
             "player": "christian encarnacion strand",
@@ -5446,11 +5446,11 @@
     ],
     "chc @ hou": [
         {
-            "player": "yainer diaz",
+            "player": "christian walker",
             "game": "chc @ hou",
             "hr/park": "",
-            "pa": "29",
-            "dt": "2025-06-29 15:16:28",
+            "pa": "30",
+            "dt": "2025-06-29 15:18:42",
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
             "team": "hou",
             "start": "2:10 PM",
@@ -5459,6 +5459,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "yainer diaz",
+            "game": "chc @ hou",
+            "hr/park": "0/30",
+            "pa": "29",
+            "dt": "2025-06-29 15:16:28",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "4",
+            "result": "Flyout",
+            "evo": "90.5",
+            "la": "39",
+            "dist": "305"
         },
         {
             "player": "carson kelly",
