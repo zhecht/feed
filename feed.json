@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "38",
         "batters": "202",
-        "pitches": "1814",
+        "pitches": "1824",
         "max velomax pitch velocity": "99.8",
         "min velomin pitch velocity": "69.7",
         "ff%fourseam fastball %": "30.2",
         "si%sinker %": "15.3",
-        "fc%cutter %": "11.6",
+        "fc%cutter %": "11.7",
         "fs%splitter %": "1.4",
         "ch%changeup %": "9.5",
         "sl%slider %": "22.3",
         "cu%curve %": "9.4",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "124",
-        "hh%hard hit %": "42.0",
+        "hhhard hit": "126",
+        "hh%hard hit %": "42.3",
         "brlbarrels": "25",
-        "brl%barrel %": "8.5",
-        "ab": "398",
+        "brl%barrel %": "8.4",
+        "ab": "401",
         "avg": ".249",
-        "h": "99",
-        "1b": "62",
+        "h": "100",
+        "1b": "63",
         "2b": "21",
         "3b": "1",
         "hr": "15",
-        "so": "102",
-        "bipballs in play": "295",
+        "so": "103",
+        "bipballs in play": "298",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-29 15:20:49.537090"
+        "updated": "2025-06-29 15:20:59.082401"
     },
     "stl @ cle": [
         {
@@ -1920,10 +1920,10 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "95.2",
+            "la": "26",
+            "dist": "317"
         },
         {
             "player": "ramon laureano",
@@ -2587,6 +2587,21 @@
         }
     ],
     "tor @ bos": [
+        {
+            "player": "carlos narvaez",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-06-29 15:20:59",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "wilyer abreu",
             "game": "tor @ bos",
@@ -3279,6 +3294,21 @@
         }
     ],
     "phi @ atl": [
+        {
+            "player": "eli white",
+            "game": "phi @ atl",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-06-29 15:20:59",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "sean murphy",
             "game": "phi @ atl",
@@ -4793,10 +4823,10 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "92.4",
+            "la": "-17",
+            "dist": "7"
         },
         {
             "player": "tj friedl",
@@ -6044,7 +6074,7 @@
             "team": "sf",
             "start": "2:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6502,6 +6532,21 @@
     ],
     "col @ mil": [
         {
+            "player": "brice turang",
+            "game": "col @ mil",
+            "hr/park": "0/30",
+            "pa": "30",
+            "dt": "2025-06-29 15:20:59",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:10 PM",
+            "in": "4",
+            "result": "Flyout",
+            "evo": "101.1",
+            "la": "46",
+            "dist": "325"
+        },
+        {
             "player": "william contreras",
             "game": "col @ mil",
             "hr/park": "",
@@ -6948,7 +6993,7 @@
             "team": "sea",
             "start": "2:35 PM",
             "in": "3",
-            "result": "Pop Out",
+            "result": "In Progress",
             "evo": "90.1",
             "la": "71",
             "dist": "139"
