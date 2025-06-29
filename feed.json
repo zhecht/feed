@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "14",
-        "batters": "50",
-        "pitches": "292",
+        "batters": "51",
+        "pitches": "303",
         "max velomax pitch velocity": "97.9",
         "min velomin pitch velocity": "74.0",
-        "ff%fourseam fastball %": "34.9",
-        "si%sinker %": "12.0",
+        "ff%fourseam fastball %": "35.0",
+        "si%sinker %": "11.9",
         "fc%cutter %": "7.9",
         "fs%splitter %": "0.7",
-        "ch%changeup %": "10.6",
+        "ch%changeup %": "10.9",
         "sl%slider %": "25.7",
-        "cu%curve %": "7.2",
+        "cu%curve %": "6.9",
         "max evmax exit velocity": "110.5",
         "hhhard hit": "17",
-        "hh%hard hit %": "34.0",
+        "hh%hard hit %": "32.7",
         "brlbarrels": "4",
-        "brl%barrel %": "8.0",
-        "ab": "74",
-        "avg": ".216",
+        "brl%barrel %": "7.7",
+        "ab": "76",
+        "avg": ".211",
         "h": "16",
         "1b": "12",
         "2b": "1",
         "3b": "0",
         "hr": "3",
-        "so": "17",
-        "bipballs in play": "50",
+        "so": "18",
+        "bipballs in play": "52",
         "liveGames": 7,
         "totGames": 15,
-        "updated": "2025-06-29 13:50:38.747652"
+        "updated": "2025-06-29 13:50:46.519095"
     },
     "stl @ cle": [
         {
@@ -968,6 +968,21 @@
     ],
     "tor @ bos": [
         {
+            "player": "andres gimenez",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-06-29 13:50:42",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:35 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "71.2",
+            "la": "13",
+            "dist": "126"
+        },
+        {
             "player": "ernie clement",
             "game": "tor @ bos",
             "hr/park": "",
@@ -977,10 +992,10 @@
             "team": "tor",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "86.0",
+            "la": "-14",
+            "dist": "10"
         },
         {
             "player": "rob refsnyder",
@@ -1221,7 +1236,7 @@
             "team": "nyy",
             "start": "1:35 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1313,7 +1328,7 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "",
             "la": "",
             "dist": ""
