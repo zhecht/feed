@@ -1,22 +1,22 @@
 {
     "all": {
-        "pitchers": "62",
+        "pitchers": "63",
         "batters": "224",
-        "pitches": "2468",
+        "pitches": "2480",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "69.7",
-        "ff%fourseam fastball %": "31.6",
-        "si%sinker %": "15.6",
+        "ff%fourseam fastball %": "31.7",
+        "si%sinker %": "15.7",
         "fc%cutter %": "9.8",
         "fs%splitter %": "1.4",
         "ch%changeup %": "9.4",
         "sl%slider %": "23.3",
         "cu%curve %": "8.6",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "187",
-        "hh%hard hit %": "44.4",
+        "hhhard hit": "189",
+        "hh%hard hit %": "44.5",
         "brlbarrels": "37",
-        "brl%barrel %": "8.8",
+        "brl%barrel %": "8.7",
         "ab": "551",
         "avg": ".245",
         "h": "135",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "20",
         "so": "135",
-        "bipballs in play": "421",
+        "bipballs in play": "425",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-29 15:55:17.511208"
+        "updated": "2025-06-29 15:55:28.276072"
     },
     "stl @ cle": [
         {
@@ -2160,10 +2160,10 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "104.5",
+            "la": "4",
+            "dist": "89"
         },
         {
             "player": "ramon laureano",
@@ -3068,6 +3068,21 @@
     ],
     "tor @ bos": [
         {
+            "player": "romy gonzalez",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-06-29 15:55:28",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "george springer",
             "game": "tor @ bos",
             "hr/park": "",
@@ -3964,10 +3979,10 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "95.3",
+            "la": "33",
+            "dist": "373"
         },
         {
             "player": "eli white",
@@ -5031,10 +5046,10 @@
             "team": "nyy",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "81.6",
+            "la": "40",
+            "dist": "282"
         },
         {
             "player": "jazz chisholm",
@@ -6880,10 +6895,10 @@
             "team": "chc",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "67.8",
+            "la": "-14",
+            "dist": "15"
         },
         {
             "player": "dansby swanson",
@@ -8581,7 +8596,7 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
