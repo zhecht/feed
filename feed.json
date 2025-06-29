@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "17",
-        "batters": "103",
-        "pitches": "546",
+        "batters": "104",
+        "pitches": "552",
         "max velomax pitch velocity": "97.9",
         "min velomin pitch velocity": "69.7",
-        "ff%fourseam fastball %": "30.6",
+        "ff%fourseam fastball %": "30.4",
         "si%sinker %": "16.1",
-        "fc%cutter %": "8.2",
+        "fc%cutter %": "8.5",
         "fs%splitter %": "1.3",
-        "ch%changeup %": "9.2",
-        "sl%slider %": "26.0",
-        "cu%curve %": "7.9",
+        "ch%changeup %": "9.1",
+        "sl%slider %": "26.1",
+        "cu%curve %": "7.8",
         "max evmax exit velocity": "112.1",
-        "hhhard hit": "39",
-        "hh%hard hit %": "39.0",
+        "hhhard hit": "40",
+        "hh%hard hit %": "39.6",
         "brlbarrels": "9",
-        "brl%barrel %": "9.0",
-        "ab": "136",
-        "avg": ".257",
+        "brl%barrel %": "8.9",
+        "ab": "137",
+        "avg": ".255",
         "h": "35",
         "1b": "21",
         "2b": "5",
         "3b": "0",
         "hr": "9",
-        "so": "30",
-        "bipballs in play": "100",
+        "so": "31",
+        "bipballs in play": "101",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-29 14:12:56.214530"
+        "updated": "2025-06-29 14:13:04.223381"
     },
     "stl @ cle": [
         {
@@ -921,14 +921,14 @@
         {
             "player": "andrew mccutchen",
             "game": "nym @ pit",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "17",
             "dt": "2025-06-29 14:10:27",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
             "team": "pit",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Sac Fly",
             "evo": "87.1",
             "la": "39",
             "dist": "311"
@@ -1729,10 +1729,10 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Groundout",
+            "evo": "95.0",
             "la": "",
-            "dist": ""
+            "dist": "49"
         },
         {
             "player": "eli white",
@@ -1977,6 +1977,21 @@
     ],
     "ath @ nyy": [
         {
+            "player": "lawrence butler",
+            "game": "ath @ nyy",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-06-29 14:12:59",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "1:35 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "denzel clarke",
             "game": "ath @ nyy",
             "hr/park": "",
@@ -1986,7 +2001,7 @@
             "team": "ath",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2248,6 +2263,21 @@
         }
     ],
     "sd @ cin": [
+        {
+            "player": "manny machado",
+            "game": "sd @ cin",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-06-29 14:12:59",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "1:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "luis arraez",
             "game": "sd @ cin",
