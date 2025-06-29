@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "18",
-        "batters": "109",
-        "pitches": "584",
+        "pitchers": "19",
+        "batters": "111",
+        "pitches": "585",
         "max velomax pitch velocity": "97.9",
         "min velomin pitch velocity": "69.7",
-        "ff%fourseam fastball %": "29.8",
-        "si%sinker %": "16.8",
-        "fc%cutter %": "9.1",
+        "ff%fourseam fastball %": "29.9",
+        "si%sinker %": "16.9",
+        "fc%cutter %": "8.9",
         "fs%splitter %": "1.4",
         "ch%changeup %": "8.9",
-        "sl%slider %": "25.9",
+        "sl%slider %": "25.8",
         "cu%curve %": "7.5",
         "max evmax exit velocity": "112.1",
         "hhhard hit": "44",
         "hh%hard hit %": "41.9",
         "brlbarrels": "9",
         "brl%barrel %": "8.6",
-        "ab": "143",
-        "avg": ".266",
+        "ab": "144",
+        "avg": ".264",
         "h": "38",
         "1b": "24",
         "2b": "5",
@@ -28,7 +28,7 @@
         "bipballs in play": "105",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-29 14:15:25.664865"
+        "updated": "2025-06-29 14:15:33.749738"
     },
     "stl @ cle": [
         {
@@ -1463,21 +1463,6 @@
     ],
     "tor @ bos": [
         {
-            "player": "romy gonzalez",
-            "game": "tor @ bos",
-            "hr/park": "",
-            "pa": "21",
-            "dt": "2025-06-29 14:14:43",
-            "img": "https://www.mlbstatic.com/team-logos/111.svg",
-            "team": "bos",
-            "start": "1:35 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "addison barger",
             "game": "tor @ bos",
             "hr/park": "",
@@ -2339,6 +2324,21 @@
     ],
     "sd @ cin": [
         {
+            "player": "fernando tatis",
+            "game": "sd @ cin",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-06-29 14:15:28",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "1:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jackson merrill",
             "game": "sd @ cin",
             "hr/park": "",
@@ -2624,7 +2624,23 @@
             "dist": ""
         }
     ],
-    "chc @ hou": [],
+    "chc @ hou": [
+        {
+            "player": "ian happ",
+            "game": "chc @ hou",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-29 14:15:28",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "lad @ kc": [],
     "sf @ chw": [
         {
@@ -2637,7 +2653,7 @@
             "team": "sf",
             "start": "2:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
