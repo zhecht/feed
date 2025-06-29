@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "34",
-        "batters": "195",
-        "pitches": "1679",
+        "pitchers": "35",
+        "batters": "196",
+        "pitches": "1689",
         "max velomax pitch velocity": "99.8",
         "min velomin pitch velocity": "69.7",
-        "ff%fourseam fastball %": "29.7",
-        "si%sinker %": "16.3",
+        "ff%fourseam fastball %": "29.8",
+        "si%sinker %": "16.2",
         "fc%cutter %": "11.7",
         "fs%splitter %": "1.4",
-        "ch%changeup %": "9.1",
+        "ch%changeup %": "9.2",
         "sl%slider %": "22.3",
         "cu%curve %": "9.3",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "115",
-        "hh%hard hit %": "42.4",
+        "hh%hard hit %": "42.3",
         "brlbarrels": "22",
         "brl%barrel %": "8.1",
-        "ab": "367",
-        "avg": ".245",
+        "ab": "369",
+        "avg": ".244",
         "h": "90",
         "1b": "57",
         "2b": "18",
         "3b": "1",
         "hr": "14",
         "so": "94",
-        "bipballs in play": "271",
+        "bipballs in play": "272",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-29 15:13:40.975125"
+        "updated": "2025-06-29 15:13:50.082890"
     },
     "stl @ cle": [
         {
@@ -4643,10 +4643,10 @@
             "team": "sd",
             "start": "1:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "76.8",
+            "la": "82",
+            "dist": "53"
         },
         {
             "player": "luis arraez",
@@ -5320,7 +5320,7 @@
             "team": "chc",
             "start": "2:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "80.3",
             "la": "-52",
             "dist": "3"
@@ -5716,7 +5716,23 @@
             "dist": ""
         }
     ],
-    "lad @ kc": [],
+    "lad @ kc": [
+        {
+            "player": "shohei ohtani",
+            "game": "lad @ kc",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-29 15:13:44",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "2:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "sf @ chw": [
         {
             "player": "kyle teel",
@@ -6140,6 +6156,21 @@
         }
     ],
     "col @ mil": [
+        {
+            "player": "michael toglia",
+            "game": "col @ mil",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-06-29 15:13:44",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "2:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brenton doyle",
             "game": "col @ mil",
