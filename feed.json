@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "24",
-        "batters": "131",
-        "pitches": "798",
+        "batters": "132",
+        "pitches": "808",
         "max velomax pitch velocity": "98.5",
         "min velomin pitch velocity": "69.7",
         "ff%fourseam fastball %": "29.7",
-        "si%sinker %": "17.2",
+        "si%sinker %": "17.0",
         "fc%cutter %": "9.5",
-        "fs%splitter %": "1.3",
-        "ch%changeup %": "9.1",
-        "sl%slider %": "24.6",
-        "cu%curve %": "8.1",
+        "fs%splitter %": "1.4",
+        "ch%changeup %": "9.0",
+        "sl%slider %": "24.5",
+        "cu%curve %": "8.4",
         "max evmax exit velocity": "112.1",
         "hhhard hit": "58",
-        "hh%hard hit %": "42.3",
+        "hh%hard hit %": "41.7",
         "brlbarrels": "11",
-        "brl%barrel %": "8.0",
-        "ab": "185",
-        "avg": ".238",
-        "h": "44",
-        "1b": "27",
+        "brl%barrel %": "7.9",
+        "ab": "186",
+        "avg": ".242",
+        "h": "45",
+        "1b": "28",
         "2b": "7",
         "3b": "0",
         "hr": "10",
-        "so": "44",
-        "bipballs in play": "137",
+        "so": "45",
+        "bipballs in play": "139",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-29 14:27:49.605257"
+        "updated": "2025-06-29 14:27:57.955339"
     },
     "stl @ cle": [
         {
@@ -41,10 +41,10 @@
             "team": "stl",
             "start": "12:05 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "91.0",
+            "la": "-18",
+            "dist": "7"
         },
         {
             "player": "garrett hampson",
@@ -1018,7 +1018,7 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1386,6 +1386,21 @@
     ],
     "tb @ bal": [
         {
+            "player": "ramon urias",
+            "game": "tb @ bal",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-06-29 14:27:13",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "3",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jackson holliday",
             "game": "tb @ bal",
             "hr/park": "",
@@ -1713,9 +1728,9 @@
             "start": "1:35 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "86.6",
+            "la": "-6",
+            "dist": "18"
         },
         {
             "player": "vladimir guerrero",
@@ -3196,6 +3211,21 @@
     ],
     "chc @ hou": [
         {
+            "player": "jake meyers",
+            "game": "chc @ hou",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-06-29 14:27:57",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "isaac paredes",
             "game": "chc @ hou",
             "hr/park": "",
@@ -3205,7 +3235,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "61.4",
             "la": "39",
             "dist": "173"
