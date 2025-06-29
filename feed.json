@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "77",
         "batters": "235",
-        "pitches": "2800",
+        "pitches": "2805",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "41.7",
         "ff%fourseam fastball %": "31.1",
-        "si%sinker %": "17.0",
-        "fc%cutter %": "9.1",
-        "fs%splitter %": "1.4",
+        "si%sinker %": "16.9",
+        "fc%cutter %": "9.2",
+        "fs%splitter %": "1.5",
         "ch%changeup %": "9.5",
         "sl%slider %": "23.1",
         "cu%curve %": "8.6",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "221",
-        "hh%hard hit %": "45.9",
+        "hh%hard hit %": "45.8",
         "brlbarrels": "41",
         "brl%barrel %": "8.5",
         "ab": "625",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "21",
         "so": "150",
-        "bipballs in play": "482",
+        "bipballs in play": "483",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-29 16:14:35.589690"
+        "updated": "2025-06-29 16:14:46.786674"
     },
     "stl @ cle": [
         {
@@ -3332,7 +3332,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "8",
-            "result": "Mound Visit",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5406,7 +5406,7 @@
             "team": "nyy",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6428,10 +6428,10 @@
             "team": "sd",
             "start": "1:40 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "77.4",
+            "la": "-10",
+            "dist": "15"
         },
         {
             "player": "tyler wade",
@@ -8669,7 +8669,7 @@
             "team": "sf",
             "start": "2:10 PM",
             "in": "7",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10323,7 +10323,7 @@
             "team": "sea",
             "start": "2:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
