@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "94",
+        "pitchers": "93",
         "batters": "259",
-        "pitches": "3217",
+        "pitches": "3218",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "41.7",
         "ff%fourseam fastball %": "31.4",
-        "si%sinker %": "17.4",
+        "si%sinker %": "17.3",
         "fc%cutter %": "8.7",
         "fs%splitter %": "1.7",
         "ch%changeup %": "9.2",
@@ -14,7 +14,7 @@
         "cu%curve %": "8.1",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "242",
-        "hh%hard hit %": "43.5",
+        "hh%hard hit %": "43.4",
         "brlbarrels": "44",
         "brl%barrel %": "7.9",
         "ab": "723",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "22",
         "so": "180",
-        "bipballs in play": "556",
+        "bipballs in play": "557",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-29 16:39:54.235343"
+        "updated": "2025-06-29 16:40:05.965088"
     },
     "stl @ cle": [
         {
@@ -7846,21 +7846,6 @@
     ],
     "chc @ hou": [
         {
-            "player": "pete crow armstrong",
-            "game": "chc @ hou",
-            "hr/park": "",
-            "pa": "65",
-            "dt": "2025-06-29 16:39:45",
-            "img": "https://www.mlbstatic.com/team-logos/112.svg",
-            "team": "chc",
-            "start": "2:10 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "christian walker",
             "game": "chc @ hou",
             "hr/park": "",
@@ -10462,6 +10447,21 @@
     ],
     "col @ mil": [
         {
+            "player": "braxton fulford",
+            "game": "col @ mil",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-06-29 16:39:58",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "2:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle farmer",
             "game": "col @ mil",
             "hr/park": "",
@@ -10471,7 +10471,7 @@
             "team": "col",
             "start": "2:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "86.8",
             "la": "55",
             "dist": "214"
@@ -12305,10 +12305,10 @@
             "team": "laa",
             "start": "4:07 PM",
             "in": "2",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "93.2",
+            "la": "-30",
+            "dist": "4"
         },
         {
             "player": "drew millas",
