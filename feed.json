@@ -1,17 +1,17 @@
 {
     "all": {
         "pitchers": "11",
-        "batters": "41",
-        "pitches": "243",
+        "batters": "42",
+        "pitches": "251",
         "max velomax pitch velocity": "97.9",
         "min velomin pitch velocity": "74.3",
-        "ff%fourseam fastball %": "34.6",
-        "si%sinker %": "12.3",
-        "fc%cutter %": "9.1",
+        "ff%fourseam fastball %": "34.3",
+        "si%sinker %": "12.7",
+        "fc%cutter %": "8.8",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "12.8",
-        "sl%slider %": "22.2",
-        "cu%curve %": "8.2",
+        "ch%changeup %": "12.4",
+        "sl%slider %": "23.1",
+        "cu%curve %": "8.0",
         "max evmax exit velocity": "110.5",
         "hhhard hit": "17",
         "hh%hard hit %": "37.8",
@@ -24,11 +24,11 @@
         "2b": "1",
         "3b": "0",
         "hr": "3",
-        "so": "15",
+        "so": "16",
         "bipballs in play": "45",
         "liveGames": 7,
         "totGames": 15,
-        "updated": "2025-06-29 13:45:41.379315"
+        "updated": "2025-06-29 13:45:49.028386"
     },
     "stl @ cle": [
         {
@@ -848,6 +848,21 @@
     ],
     "tor @ bos": [
         {
+            "player": "rob refsnyder",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-06-29 13:45:44",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "roman anthony",
             "game": "tor @ bos",
             "hr/park": "",
@@ -857,7 +872,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "97.2",
             "la": "-11",
             "dist": "17"
@@ -964,7 +979,7 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1041,7 +1056,7 @@
             "team": "nyy",
             "start": "1:35 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
