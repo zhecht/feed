@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "98",
-        "batters": "263",
-        "pitches": "3282",
+        "pitchers": "99",
+        "batters": "264",
+        "pitches": "3292",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "41.7",
         "ff%fourseam fastball %": "31.6",
-        "si%sinker %": "17.4",
+        "si%sinker %": "17.3",
         "fc%cutter %": "8.7",
         "fs%splitter %": "1.8",
         "ch%changeup %": "9.1",
         "sl%slider %": "23.2",
         "cu%curve %": "8.1",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "243",
-        "hh%hard hit %": "42.6",
-        "brlbarrels": "44",
-        "brl%barrel %": "7.7",
-        "ab": "741",
-        "avg": ".229",
-        "h": "170",
-        "1b": "111",
+        "hhhard hit": "244",
+        "hh%hard hit %": "42.5",
+        "brlbarrels": "45",
+        "brl%barrel %": "7.8",
+        "ab": "743",
+        "avg": ".231",
+        "h": "172",
+        "1b": "112",
         "2b": "33",
-        "3b": "3",
+        "3b": "4",
         "hr": "23",
-        "so": "181",
-        "bipballs in play": "571",
+        "so": "182",
+        "bipballs in play": "574",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-29 16:44:35.177236"
+        "updated": "2025-06-29 16:44:46.732815"
     },
     "stl @ cle": [
         {
@@ -9539,10 +9539,10 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "87.9",
+            "la": "20",
+            "dist": "250"
         },
         {
             "player": "heliot ramos",
@@ -10612,6 +10612,21 @@
     ],
     "col @ mil": [
         {
+            "player": "william contreras",
+            "game": "col @ mil",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-06-29 16:44:44",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:10 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "94.1",
+            "la": "-2",
+            "dist": "28"
+        },
+        {
             "player": "sam hilliard",
             "game": "col @ mil",
             "hr/park": "",
@@ -11619,6 +11634,21 @@
     ],
     "sea @ tex": [
         {
+            "player": "randy arozarena",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-06-29 16:44:44",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "2:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luke raley",
             "game": "sea @ tex",
             "hr/park": "",
@@ -11628,7 +11658,7 @@
             "team": "sea",
             "start": "2:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12530,7 +12560,7 @@
             "team": "laa",
             "start": "4:07 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12778,11 +12808,11 @@
     ],
     "mia @ ari": [
         {
-            "player": "jake mccarthy",
+            "player": "randal grichuk",
             "game": "mia @ ari",
             "hr/park": "",
-            "pa": "14",
-            "dt": "2025-06-29 16:41:45",
+            "pa": "15",
+            "dt": "2025-06-29 16:44:44",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "start": "4:10 PM",
@@ -12791,6 +12821,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "jake mccarthy",
+            "game": "mia @ ari",
+            "hr/park": "25/30",
+            "pa": "14",
+            "dt": "2025-06-29 16:41:45",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "Triple",
+            "evo": "105.9",
+            "la": "25",
+            "dist": "418"
         },
         {
             "player": "lourdes gurriel",
