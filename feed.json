@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "15",
         "batters": "60",
-        "pitches": "341",
+        "pitches": "344",
         "max velomax pitch velocity": "97.9",
         "min velomin pitch velocity": "74.0",
-        "ff%fourseam fastball %": "34.6",
-        "si%sinker %": "12.9",
-        "fc%cutter %": "8.2",
-        "fs%splitter %": "1.2",
-        "ch%changeup %": "10.0",
-        "sl%slider %": "25.8",
-        "cu%curve %": "6.2",
+        "ff%fourseam fastball %": "34.0",
+        "si%sinker %": "13.1",
+        "fc%cutter %": "8.1",
+        "fs%splitter %": "0.9",
+        "ch%changeup %": "10.2",
+        "sl%slider %": "26.5",
+        "cu%curve %": "6.1",
         "max evmax exit velocity": "110.5",
-        "hhhard hit": "20",
-        "hh%hard hit %": "32.8",
+        "hhhard hit": "21",
+        "hh%hard hit %": "33.9",
         "brlbarrels": "5",
-        "brl%barrel %": "8.2",
+        "brl%barrel %": "8.1",
         "ab": "87",
         "avg": ".230",
         "h": "20",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "4",
         "so": "20",
-        "bipballs in play": "61",
+        "bipballs in play": "62",
         "liveGames": 7,
         "totGames": 15,
-        "updated": "2025-06-29 13:54:34.625028"
+        "updated": "2025-06-29 13:54:42.611148"
     },
     "stl @ cle": [
         {
@@ -844,21 +844,6 @@
     ],
     "nym @ pit": [
         {
-            "player": "spencer horwitz",
-            "game": "nym @ pit",
-            "hr/park": "",
-            "pa": "7",
-            "dt": "2025-06-29 13:54:29",
-            "img": "https://www.mlbstatic.com/team-logos/134.svg",
-            "team": "pit",
-            "start": "1:35 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "bryan reynolds",
             "game": "nym @ pit",
             "hr/park": "",
@@ -1042,6 +1027,21 @@
         }
     ],
     "tor @ bos": [
+        {
+            "player": "carlos narvaez",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-06-29 13:54:42",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jonatan clase",
             "game": "tor @ bos",
@@ -1349,17 +1349,17 @@
         {
             "player": "nick kurtz",
             "game": "ath @ nyy",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "8",
             "dt": "2025-06-29 13:53:42",
             "img": "https://www.mlbstatic.com/team-logos/133.svg",
             "team": "ath",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "101.4",
+            "la": "41",
+            "dist": "363"
         },
         {
             "player": "ben rice",
