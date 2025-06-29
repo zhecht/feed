@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "27",
-        "batters": "156",
-        "pitches": "1093",
+        "batters": "157",
+        "pitches": "1095",
         "max velomax pitch velocity": "99.8",
         "min velomin pitch velocity": "69.7",
-        "ff%fourseam fastball %": "28.9",
+        "ff%fourseam fastball %": "29.1",
         "si%sinker %": "16.8",
         "fc%cutter %": "11.3",
         "fs%splitter %": "1.3",
         "ch%changeup %": "8.7",
-        "sl%slider %": "23.6",
-        "cu%curve %": "9.1",
+        "sl%slider %": "23.5",
+        "cu%curve %": "8.9",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "78",
-        "hh%hard hit %": "43.1",
+        "hhhard hit": "79",
+        "hh%hard hit %": "43.2",
         "brlbarrels": "13",
-        "brl%barrel %": "7.2",
-        "ab": "243",
-        "avg": ".247",
+        "brl%barrel %": "7.1",
+        "ab": "245",
+        "avg": ".245",
         "h": "60",
         "1b": "39",
         "2b": "10",
         "3b": "1",
         "hr": "10",
-        "so": "62",
-        "bipballs in play": "181",
+        "so": "60",
+        "bipballs in play": "183",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-29 14:44:20.738405"
+        "updated": "2025-06-29 14:44:29.336004"
     },
     "stl @ cle": [
         {
@@ -41,7 +41,7 @@
             "team": "stl",
             "start": "12:05 PM",
             "in": "9",
-            "result": "Strikeout",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1113,6 +1113,21 @@
         }
     ],
     "nym @ pit": [
+        {
+            "player": "henry davis",
+            "game": "nym @ pit",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-06-29 14:44:27",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "100.9",
+            "la": "20",
+            "dist": "346"
+        },
         {
             "player": "jared triolo",
             "game": "nym @ pit",
@@ -4006,6 +4021,21 @@
     ],
     "chc @ hou": [
         {
+            "player": "christian walker",
+            "game": "chc @ hou",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-06-29 14:43:58",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "65.0",
+            "la": "-11",
+            "dist": "12"
+        },
+        {
             "player": "nico hoerner",
             "game": "chc @ hou",
             "hr/park": "",
@@ -4395,7 +4425,7 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "2",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
