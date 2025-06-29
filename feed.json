@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "31",
-        "batters": "180",
-        "pitches": "1340",
+        "batters": "179",
+        "pitches": "1348",
         "max velomax pitch velocity": "99.8",
         "min velomin pitch velocity": "69.7",
-        "ff%fourseam fastball %": "29.4",
+        "ff%fourseam fastball %": "29.5",
         "si%sinker %": "16.8",
-        "fc%cutter %": "11.2",
+        "fc%cutter %": "11.1",
         "fs%splitter %": "1.6",
         "ch%changeup %": "9.0",
         "sl%slider %": "22.6",
-        "cu%curve %": "9.1",
+        "cu%curve %": "9.2",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "95",
         "hh%hard hit %": "43.0",
         "brlbarrels": "18",
         "brl%barrel %": "8.1",
-        "ab": "300",
-        "avg": ".240",
+        "ab": "299",
+        "avg": ".241",
         "h": "72",
         "1b": "46",
         "2b": "13",
@@ -28,7 +28,7 @@
         "bipballs in play": "221",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-29 14:55:56.141274"
+        "updated": "2025-06-29 14:56:05.245245"
     },
     "stl @ cle": [
         {
@@ -41,10 +41,10 @@
             "team": "cle",
             "start": "12:05 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "94.4",
+            "la": "35",
+            "dist": "331"
         },
         {
             "player": "johnathan rodriguez",
@@ -1730,21 +1730,6 @@
         }
     ],
     "tb @ bal": [
-        {
-            "player": "cedric mullins",
-            "game": "tb @ bal",
-            "hr/park": "",
-            "pa": "35",
-            "dt": "2025-06-29 14:54:43",
-            "img": "https://www.mlbstatic.com/team-logos/110.svg",
-            "team": "bal",
-            "start": "1:35 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "35.0",
-            "la": "-67",
-            "dist": "2"
-        },
         {
             "player": "gary sanchez",
             "game": "tb @ bal",
@@ -3456,7 +3441,7 @@
             "team": "nyy",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4019,6 +4004,21 @@
     ],
     "sd @ cin": [
         {
+            "player": "jose trevino",
+            "game": "sd @ cin",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-06-29 14:55:59",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "1:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "spencer steer",
             "game": "sd @ cin",
             "hr/park": "",
@@ -4028,7 +4028,7 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4591,6 +4591,21 @@
     ],
     "chc @ hou": [
         {
+            "player": "kyle tucker",
+            "game": "chc @ hou",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-06-29 14:55:59",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ian happ",
             "game": "chc @ hou",
             "hr/park": "",
@@ -4600,7 +4615,7 @@
             "team": "chc",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "98.8",
             "la": "-4",
             "dist": "28"
@@ -5462,7 +5477,7 @@
             "team": "tex",
             "start": "2:35 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
