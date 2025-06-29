@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "80",
         "batters": "240",
-        "pitches": "2884",
+        "pitches": "2886",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "41.7",
         "ff%fourseam fastball %": "31.1",
-        "si%sinker %": "16.9",
-        "fc%cutter %": "9.0",
+        "si%sinker %": "16.8",
+        "fc%cutter %": "9.1",
         "fs%splitter %": "1.5",
-        "ch%changeup %": "9.5",
+        "ch%changeup %": "9.6",
         "sl%slider %": "23.3",
         "cu%curve %": "8.5",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "224",
-        "hh%hard hit %": "45.2",
+        "hhhard hit": "226",
+        "hh%hard hit %": "45.6",
         "brlbarrels": "42",
         "brl%barrel %": "8.5",
-        "ab": "645",
+        "ab": "644",
         "avg": ".236",
         "h": "152",
         "1b": "98",
@@ -28,7 +28,7 @@
         "bipballs in play": "496",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-29 16:19:25.734972"
+        "updated": "2025-06-29 16:19:36.913894"
     },
     "stl @ cle": [
         {
@@ -3325,17 +3325,17 @@
         {
             "player": "ceddanne rafaela",
             "game": "tor @ bos",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "69",
             "dt": "2025-06-29 16:17:42",
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
             "team": "bos",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "95.8",
+            "la": "20",
+            "dist": "310"
         },
         {
             "player": "jarren duran",
@@ -6488,7 +6488,7 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8360,17 +8360,17 @@
         {
             "player": "max muncy",
             "game": "lad @ kc",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "29",
             "dt": "2025-06-29 16:17:29",
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
             "team": "lad",
             "start": "2:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "96.8",
+            "la": "24",
+            "dist": "352"
         },
         {
             "player": "andy pages",
@@ -8795,21 +8795,6 @@
     ],
     "sf @ chw": [
         {
-            "player": "mike tauchman",
-            "game": "sf @ chw",
-            "hr/park": "",
-            "pa": "60",
-            "dt": "2025-06-29 16:18:59",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "start": "2:10 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "85.4",
-            "la": "17",
-            "dist": "232"
-        },
-        {
             "player": "josh rojas",
             "game": "sf @ chw",
             "hr/park": "",
@@ -8819,10 +8804,10 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "7",
-            "result": "Lineout",
-            "evo": "94.6",
-            "la": "20",
-            "dist": "283"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "willy adames",
@@ -11378,9 +11363,9 @@
             "start": "4:10 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "58.2",
+            "la": "-54",
+            "dist": "4"
         },
         {
             "player": "heriberto hernandez",
