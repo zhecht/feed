@@ -1,22 +1,22 @@
 {
     "all": {
-        "pitchers": "26",
+        "pitchers": "25",
         "batters": "149",
-        "pitches": "1027",
+        "pitches": "1035",
         "max velomax pitch velocity": "99.8",
         "min velomin pitch velocity": "69.7",
-        "ff%fourseam fastball %": "29.1",
-        "si%sinker %": "17.1",
-        "fc%cutter %": "11.1",
+        "ff%fourseam fastball %": "28.8",
+        "si%sinker %": "17.0",
+        "fc%cutter %": "11.2",
         "fs%splitter %": "1.1",
-        "ch%changeup %": "8.9",
+        "ch%changeup %": "9.0",
         "sl%slider %": "23.7",
-        "cu%curve %": "8.7",
+        "cu%curve %": "8.9",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "72",
-        "hh%hard hit %": "42.6",
+        "hhhard hit": "73",
+        "hh%hard hit %": "42.9",
         "brlbarrels": "13",
-        "brl%barrel %": "7.7",
+        "brl%barrel %": "7.6",
         "ab": "229",
         "avg": ".245",
         "h": "56",
@@ -24,11 +24,11 @@
         "2b": "9",
         "3b": "1",
         "hr": "10",
-        "so": "54",
-        "bipballs in play": "169",
+        "so": "56",
+        "bipballs in play": "170",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-29 14:40:06.187611"
+        "updated": "2025-06-29 14:40:15.162016"
     },
     "stl @ cle": [
         {
@@ -41,7 +41,7 @@
             "team": "cle",
             "start": "12:05 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1535,6 +1535,21 @@
         }
     ],
     "tb @ bal": [
+        {
+            "player": "ryan ohearn",
+            "game": "tb @ bal",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-06-29 14:40:13",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "curtis mead",
             "game": "tb @ bal",
@@ -3811,6 +3826,21 @@
     ],
     "chc @ hou": [
         {
+            "player": "carson kelly",
+            "game": "chc @ hou",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-06-29 14:39:27",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "pete crow armstrong",
             "game": "chc @ hou",
             "hr/park": "",
@@ -4170,10 +4200,10 @@
             "team": "col",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "97.2",
+            "la": "21",
+            "dist": "354"
         },
         {
             "player": "braxton fulford",
