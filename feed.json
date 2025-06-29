@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "45",
-        "batters": "206",
-        "pitches": "1926",
+        "batters": "207",
+        "pitches": "1934",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "69.7",
-        "ff%fourseam fastball %": "30.3",
-        "si%sinker %": "15.5",
+        "ff%fourseam fastball %": "30.2",
+        "si%sinker %": "15.6",
         "fc%cutter %": "11.7",
         "fs%splitter %": "1.3",
         "ch%changeup %": "9.6",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.3",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "138",
-        "hh%hard hit %": "43.0",
+        "hh%hard hit %": "42.9",
         "brlbarrels": "27",
         "brl%barrel %": "8.4",
-        "ab": "426",
-        "avg": ".254",
-        "h": "108",
-        "1b": "70",
+        "ab": "428",
+        "avg": ".255",
+        "h": "109",
+        "1b": "71",
         "2b": "22",
         "3b": "1",
         "hr": "15",
         "so": "107",
-        "bipballs in play": "321",
+        "bipballs in play": "322",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-29 15:27:10.621666"
+        "updated": "2025-06-29 15:27:20.527178"
     },
     "stl @ cle": [
         {
@@ -3402,7 +3402,7 @@
         {
             "player": "alec bohm",
             "game": "phi @ atl",
-            "hr/park": "",
+            "hr/park": "22/30",
             "pa": "56",
             "dt": "2025-06-29 15:25:45",
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
@@ -4242,6 +4242,21 @@
     ],
     "ath @ nyy": [
         {
+            "player": "brent rooker",
+            "game": "ath @ nyy",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-06-29 15:27:13",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jj bleday",
             "game": "ath @ nyy",
             "hr/park": "",
@@ -4251,7 +4266,7 @@
             "team": "ath",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6273,6 +6288,21 @@
     ],
     "lad @ kc": [
         {
+            "player": "bobby witt",
+            "game": "lad @ kc",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-06-29 15:26:28",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jonathan india",
             "game": "lad @ kc",
             "hr/park": "",
@@ -6282,10 +6312,10 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "74.0",
+            "la": "19",
+            "dist": "202"
         },
         {
             "player": "will smith",
@@ -7373,6 +7403,21 @@
         }
     ],
     "sea @ tex": [
+        {
+            "player": "jonah heim",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-06-29 15:27:13",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "2:35 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "adolis garcia",
             "game": "sea @ tex",
