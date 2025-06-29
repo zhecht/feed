@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "11",
-        "batters": "42",
-        "pitches": "251",
+        "batters": "43",
+        "pitches": "255",
         "max velomax pitch velocity": "97.9",
-        "min velomin pitch velocity": "74.3",
-        "ff%fourseam fastball %": "34.3",
-        "si%sinker %": "12.7",
-        "fc%cutter %": "8.8",
-        "fs%splitter %": "0.0",
-        "ch%changeup %": "12.4",
-        "sl%slider %": "23.1",
-        "cu%curve %": "8.0",
+        "min velomin pitch velocity": "74.0",
+        "ff%fourseam fastball %": "34.1",
+        "si%sinker %": "12.9",
+        "fc%cutter %": "8.6",
+        "fs%splitter %": "0.4",
+        "ch%changeup %": "12.2",
+        "sl%slider %": "22.7",
+        "cu%curve %": "8.2",
         "max evmax exit velocity": "110.5",
         "hhhard hit": "17",
         "hh%hard hit %": "37.8",
         "brlbarrels": "4",
         "brl%barrel %": "8.9",
-        "ab": "65",
-        "avg": ".215",
+        "ab": "66",
+        "avg": ".212",
         "h": "14",
         "1b": "10",
         "2b": "1",
@@ -28,7 +28,7 @@
         "bipballs in play": "45",
         "liveGames": 7,
         "totGames": 15,
-        "updated": "2025-06-29 13:46:19.958652"
+        "updated": "2025-06-29 13:46:27.752066"
     },
     "stl @ cle": [
         {
@@ -763,7 +763,7 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -825,7 +825,7 @@
             "team": "tb",
             "start": "1:35 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -857,7 +857,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1047,6 +1047,21 @@
     ],
     "ath @ nyy": [
         {
+            "player": "cody bellinger",
+            "game": "ath @ nyy",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-06-29 13:46:27",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trent grisham",
             "game": "ath @ nyy",
             "hr/park": "",
@@ -1109,6 +1124,21 @@
     ],
     "sd @ cin": [
         {
+            "player": "jackson merrill",
+            "game": "sd @ cin",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-06-29 13:46:27",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "1:40 PM",
+            "in": "1",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "manny machado",
             "game": "sd @ cin",
             "hr/park": "",
@@ -1118,7 +1148,7 @@
             "team": "sd",
             "start": "1:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "",
             "la": "",
             "dist": ""
