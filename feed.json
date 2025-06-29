@@ -1,51 +1,36 @@
 {
     "all": {
         "pitchers": "27",
-        "batters": "157",
-        "pitches": "1098",
+        "batters": "158",
+        "pitches": "1103",
         "max velomax pitch velocity": "99.8",
         "min velomin pitch velocity": "69.7",
-        "ff%fourseam fastball %": "28.9",
-        "si%sinker %": "16.8",
-        "fc%cutter %": "11.4",
+        "ff%fourseam fastball %": "29.2",
+        "si%sinker %": "16.7",
+        "fc%cutter %": "11.3",
         "fs%splitter %": "1.3",
         "ch%changeup %": "8.7",
-        "sl%slider %": "23.6",
+        "sl%slider %": "23.5",
         "cu%curve %": "9.0",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "78",
+        "hhhard hit": "79",
         "hh%hard hit %": "42.9",
         "brlbarrels": "13",
         "brl%barrel %": "7.1",
-        "ab": "246",
-        "avg": ".244",
+        "ab": "249",
+        "avg": ".241",
         "h": "60",
         "1b": "39",
         "2b": "10",
         "3b": "1",
         "hr": "10",
-        "so": "62",
-        "bipballs in play": "182",
+        "so": "61",
+        "bipballs in play": "184",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-29 14:44:55.749770"
+        "updated": "2025-06-29 14:45:04.279163"
     },
     "stl @ cle": [
-        {
-            "player": "willson contreras",
-            "game": "stl @ cle",
-            "hr/park": "",
-            "pa": "74",
-            "dt": "2025-06-29 14:44:42",
-            "img": "https://www.mlbstatic.com/team-logos/138.svg",
-            "team": "stl",
-            "start": "12:05 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "masyn winn",
             "game": "stl @ cle",
@@ -56,7 +41,7 @@
             "team": "stl",
             "start": "12:05 PM",
             "in": "9",
-            "result": "Strikeout",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1129,6 +1114,21 @@
     ],
     "nym @ pit": [
         {
+            "player": "henry davis",
+            "game": "nym @ pit",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-06-29 14:44:27",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jared triolo",
             "game": "nym @ pit",
             "hr/park": "",
@@ -2063,6 +2063,21 @@
     ],
     "tor @ bos": [
         {
+            "player": "trevor story",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-06-29 14:44:58",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bo bichette",
             "game": "tor @ bos",
             "hr/park": "",
@@ -2544,6 +2559,21 @@
         }
     ],
     "phi @ atl": [
+        {
+            "player": "trea turner",
+            "game": "phi @ atl",
+            "hr/park": "0/30",
+            "pa": "35",
+            "dt": "2025-06-29 14:44:58",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "Sac Fly",
+            "evo": "91.5",
+            "la": "37",
+            "dist": "332"
+        },
         {
             "player": "brandon marsh",
             "game": "phi @ atl",
@@ -3056,6 +3086,21 @@
         }
     ],
     "ath @ nyy": [
+        {
+            "player": "oswald peraza",
+            "game": "ath @ nyy",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-06-29 14:44:58",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "tyler soderstrom",
             "game": "ath @ nyy",
@@ -4036,6 +4081,21 @@
     ],
     "chc @ hou": [
         {
+            "player": "cooper hummel",
+            "game": "chc @ hou",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-06-29 14:44:58",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "christian walker",
             "game": "chc @ hou",
             "hr/park": "",
@@ -4045,7 +4105,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "65.0",
             "la": "-11",
             "dist": "12"
@@ -4638,9 +4698,9 @@
             "start": "2:35 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "95.0",
+            "la": "72",
+            "dist": "109"
         },
         {
             "player": "cal raleigh",
