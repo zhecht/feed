@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "39",
         "batters": "203",
-        "pitches": "1843",
+        "pitches": "1846",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "69.7",
         "ff%fourseam fastball %": "30.3",
@@ -10,7 +10,7 @@
         "fc%cutter %": "11.6",
         "fs%splitter %": "1.4",
         "ch%changeup %": "9.5",
-        "sl%slider %": "22.4",
+        "sl%slider %": "22.3",
         "cu%curve %": "9.4",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "128",
@@ -28,7 +28,7 @@
         "bipballs in play": "303",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-29 15:22:26.955259"
+        "updated": "2025-06-29 15:22:36.702839"
     },
     "stl @ cle": [
         {
@@ -3310,6 +3310,21 @@
     ],
     "phi @ atl": [
         {
+            "player": "stuart fairchild",
+            "game": "phi @ atl",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-06-29 15:22:30",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "eli white",
             "game": "phi @ atl",
             "hr/park": "",
@@ -3319,7 +3334,7 @@
             "team": "atl",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "50.7",
             "la": "48",
             "dist": "134"
@@ -5590,7 +5605,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
