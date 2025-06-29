@@ -2,25 +2,25 @@
     "all": {
         "pitchers": "62",
         "batters": "223",
-        "pitches": "2421",
+        "pitches": "2427",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "69.7",
         "ff%fourseam fastball %": "31.6",
-        "si%sinker %": "15.4",
-        "fc%cutter %": "10.0",
+        "si%sinker %": "15.5",
+        "fc%cutter %": "9.9",
         "fs%splitter %": "1.4",
-        "ch%changeup %": "9.5",
-        "sl%slider %": "23.3",
-        "cu%curve %": "8.6",
+        "ch%changeup %": "9.4",
+        "sl%slider %": "23.2",
+        "cu%curve %": "8.7",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "186",
         "hh%hard hit %": "44.8",
         "brlbarrels": "37",
         "brl%barrel %": "8.9",
-        "ab": "540",
-        "avg": ".248",
-        "h": "134",
-        "1b": "85",
+        "ab": "542",
+        "avg": ".249",
+        "h": "135",
+        "1b": "86",
         "2b": "27",
         "3b": "2",
         "hr": "20",
@@ -28,7 +28,7 @@
         "bipballs in play": "415",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-29 15:53:21.941041"
+        "updated": "2025-06-29 15:53:32.334049"
     },
     "stl @ cle": [
         {
@@ -1189,6 +1189,21 @@
     ],
     "nym @ pit": [
         {
+            "player": "francisco lindor",
+            "game": "nym @ pit",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-06-29 15:53:28",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jared triolo",
             "game": "nym @ pit",
             "hr/park": "",
@@ -2120,21 +2135,6 @@
         }
     ],
     "tb @ bal": [
-        {
-            "player": "ramon laureano",
-            "game": "tb @ bal",
-            "hr/park": "",
-            "pa": "60",
-            "dt": "2025-06-29 15:52:45",
-            "img": "https://www.mlbstatic.com/team-logos/110.svg",
-            "team": "bal",
-            "start": "1:35 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "josh lowe",
             "game": "tb @ bal",
@@ -5888,7 +5888,7 @@
             "team": "sd",
             "start": "1:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "104.2",
             "la": "-9",
             "dist": "14"
@@ -6781,6 +6781,21 @@
     ],
     "chc @ hou": [
         {
+            "player": "pete crow armstrong",
+            "game": "chc @ hou",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-06-29 15:53:28",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "dansby swanson",
             "game": "chc @ hou",
             "hr/park": "",
@@ -7452,7 +7467,7 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8422,6 +8437,21 @@
     ],
     "col @ mil": [
         {
+            "player": "william contreras",
+            "game": "col @ mil",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-06-29 15:53:28",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "christian yelich",
             "game": "col @ mil",
             "hr/park": "27/30",
@@ -9108,7 +9138,7 @@
             "team": "sea",
             "start": "2:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "103.3",
             "la": "2",
             "dist": "69"
