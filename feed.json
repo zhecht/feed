@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "23",
-        "batters": "130",
-        "pitches": "790",
+        "pitchers": "24",
+        "batters": "131",
+        "pitches": "798",
         "max velomax pitch velocity": "98.5",
         "min velomin pitch velocity": "69.7",
-        "ff%fourseam fastball %": "29.5",
-        "si%sinker %": "17.3",
-        "fc%cutter %": "9.6",
+        "ff%fourseam fastball %": "29.7",
+        "si%sinker %": "17.2",
+        "fc%cutter %": "9.5",
         "fs%splitter %": "1.3",
         "ch%changeup %": "9.1",
-        "sl%slider %": "24.7",
-        "cu%curve %": "8.0",
+        "sl%slider %": "24.6",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "112.1",
-        "hhhard hit": "57",
-        "hh%hard hit %": "41.9",
-        "brlbarrels": "10",
-        "brl%barrel %": "7.4",
-        "ab": "182",
-        "avg": ".236",
-        "h": "43",
+        "hhhard hit": "58",
+        "hh%hard hit %": "42.3",
+        "brlbarrels": "11",
+        "brl%barrel %": "8.0",
+        "ab": "185",
+        "avg": ".238",
+        "h": "44",
         "1b": "27",
         "2b": "7",
         "3b": "0",
-        "hr": "9",
+        "hr": "10",
         "so": "44",
-        "bipballs in play": "136",
+        "bipballs in play": "137",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-29 14:27:24.445505"
+        "updated": "2025-06-29 14:27:32.809020"
     },
     "stl @ cle": [
         {
@@ -1386,21 +1386,6 @@
     ],
     "tb @ bal": [
         {
-            "player": "ramon urias",
-            "game": "tb @ bal",
-            "hr/park": "",
-            "pa": "22",
-            "dt": "2025-06-29 14:27:13",
-            "img": "https://www.mlbstatic.com/team-logos/110.svg",
-            "team": "bal",
-            "start": "1:35 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jackson holliday",
             "game": "tb @ bal",
             "hr/park": "",
@@ -1718,6 +1703,21 @@
     ],
     "tor @ bos": [
         {
+            "player": "george springer",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-06-29 14:26:57",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "vladimir guerrero",
             "game": "tor @ bos",
             "hr/park": "",
@@ -1727,7 +1727,7 @@
             "team": "tor",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "76.6",
             "la": "27",
             "dist": "267"
@@ -2819,11 +2819,11 @@
     ],
     "sd @ cin": [
         {
-            "player": "xander bogaerts",
+            "player": "gavin sheets",
             "game": "sd @ cin",
             "hr/park": "",
-            "pa": "24",
-            "dt": "2025-06-29 14:24:58",
+            "pa": "25",
+            "dt": "2025-06-29 14:26:28",
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
             "team": "sd",
             "start": "1:40 PM",
@@ -2832,6 +2832,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "xander bogaerts",
+            "game": "sd @ cin",
+            "hr/park": "30/30",
+            "pa": "24",
+            "dt": "2025-06-29 14:24:58",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "1:40 PM",
+            "in": "4",
+            "result": "Home Run",
+            "evo": "99.8",
+            "la": "27",
+            "dist": "389"
         },
         {
             "player": "tj friedl",
@@ -3380,6 +3395,21 @@
         }
     ],
     "col @ mil": [
+        {
+            "player": "sal frelick",
+            "game": "col @ mil",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-06-29 14:27:28",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brenton doyle",
             "game": "col @ mil",
