@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "6",
-        "batters": "32",
-        "pitches": "205",
-        "max velomax pitch velocity": "97.0",
+        "pitchers": "7",
+        "batters": "34",
+        "pitches": "209",
+        "max velomax pitch velocity": "97.9",
         "min velomin pitch velocity": "74.3",
-        "ff%fourseam fastball %": "33.2",
-        "si%sinker %": "13.2",
-        "fc%cutter %": "10.2",
+        "ff%fourseam fastball %": "34.0",
+        "si%sinker %": "12.9",
+        "fc%cutter %": "10.0",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "13.7",
-        "sl%slider %": "21.5",
-        "cu%curve %": "8.3",
+        "ch%changeup %": "13.4",
+        "sl%slider %": "21.1",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "110.5",
         "hhhard hit": "15",
         "hh%hard hit %": "40.5",
         "brlbarrels": "4",
         "brl%barrel %": "10.8",
-        "ab": "53",
-        "avg": ".226",
+        "ab": "54",
+        "avg": ".222",
         "h": "12",
         "1b": "8",
         "2b": "1",
@@ -28,7 +28,7 @@
         "bipballs in play": "37",
         "liveGames": 7,
         "totGames": 15,
-        "updated": "2025-06-29 13:41:25.964596"
+        "updated": "2025-06-29 13:41:33.727412"
     },
     "stl @ cle": [
         {
@@ -709,6 +709,21 @@
     ],
     "nym @ pit": [
         {
+            "player": "juan soto",
+            "game": "nym @ pit",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-06-29 13:41:28",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "1:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brandon nimmo",
             "game": "nym @ pit",
             "hr/park": "",
@@ -739,7 +754,23 @@
             "dist": "253"
         }
     ],
-    "tb @ bal": [],
+    "tb @ bal": [
+        {
+            "player": "josh lowe",
+            "game": "tb @ bal",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-29 13:41:28",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "1:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "tor @ bos": [
         {
             "player": "nathan lukes",
@@ -751,7 +782,7 @@
             "team": "tor",
             "start": "1:35 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "85.5",
             "la": "8",
             "dist": "98"
