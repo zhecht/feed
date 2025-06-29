@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "25",
-        "batters": "137",
-        "pitches": "876",
+        "batters": "138",
+        "pitches": "883",
         "max velomax pitch velocity": "99.3",
         "min velomin pitch velocity": "69.7",
-        "ff%fourseam fastball %": "30.1",
-        "si%sinker %": "17.0",
-        "fc%cutter %": "9.4",
-        "fs%splitter %": "1.3",
-        "ch%changeup %": "8.7",
-        "sl%slider %": "24.3",
+        "ff%fourseam fastball %": "30.2",
+        "si%sinker %": "16.9",
+        "fc%cutter %": "9.5",
+        "fs%splitter %": "1.2",
+        "ch%changeup %": "8.6",
+        "sl%slider %": "24.2",
         "cu%curve %": "8.8",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "63",
-        "hh%hard hit %": "41.7",
+        "hh%hard hit %": "41.4",
         "brlbarrels": "12",
         "brl%barrel %": "7.9",
-        "ab": "202",
-        "avg": ".252",
+        "ab": "204",
+        "avg": ".250",
         "h": "51",
         "1b": "33",
         "2b": "7",
         "3b": "1",
         "hr": "10",
-        "so": "46",
-        "bipballs in play": "151",
+        "so": "47",
+        "bipballs in play": "152",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-29 14:32:20.503693"
+        "updated": "2025-06-29 14:32:29.028909"
     },
     "stl @ cle": [
         {
@@ -1823,6 +1823,21 @@
     ],
     "tor @ bos": [
         {
+            "player": "andres gimenez",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-06-29 14:32:27",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ernie clement",
             "game": "tor @ bos",
             "hr/park": "",
@@ -3466,6 +3481,21 @@
     ],
     "chc @ hou": [
         {
+            "player": "cam smith",
+            "game": "chc @ hou",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-06-29 14:32:27",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose altuve",
             "game": "chc @ hou",
             "hr/park": "",
@@ -3475,7 +3505,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3720,10 +3750,10 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "85.2",
+            "la": "-34",
+            "dist": "3"
         },
         {
             "player": "jackson chourio",
