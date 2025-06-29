@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "71",
+        "pitchers": "70",
         "batters": "228",
-        "pitches": "2616",
+        "pitches": "2631",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "41.7",
-        "ff%fourseam fastball %": "31.3",
+        "ff%fourseam fastball %": "31.2",
         "si%sinker %": "16.2",
         "fc%cutter %": "9.4",
         "fs%splitter %": "1.3",
         "ch%changeup %": "9.6",
         "sl%slider %": "23.4",
-        "cu%curve %": "8.6",
+        "cu%curve %": "8.7",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "207",
-        "hh%hard hit %": "45.6",
+        "hhhard hit": "208",
+        "hh%hard hit %": "45.4",
         "brlbarrels": "40",
-        "brl%barrel %": "8.8",
-        "ab": "585",
-        "avg": ".246",
+        "brl%barrel %": "8.7",
+        "ab": "588",
+        "avg": ".245",
         "h": "144",
         "1b": "92",
         "2b": "29",
         "3b": "2",
         "hr": "21",
         "so": "139",
-        "bipballs in play": "454",
+        "bipballs in play": "458",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-29 16:04:24.441494"
+        "updated": "2025-06-29 16:04:35.144255"
     },
     "stl @ cle": [
         {
@@ -1189,6 +1189,21 @@
     ],
     "nym @ pit": [
         {
+            "player": "kebryan hayes",
+            "game": "nym @ pit",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-06-29 16:04:27",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "GIDP",
+            "evo": "88.0",
+            "la": "-2",
+            "dist": "42"
+        },
+        {
             "player": "spencer horwitz",
             "game": "nym @ pit",
             "hr/park": "0/30",
@@ -2256,6 +2271,21 @@
     ],
     "tb @ bal": [
         {
+            "player": "jonathan aranda",
+            "game": "tb @ bal",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-06-29 16:04:27",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "yandy diaz",
             "game": "tb @ bal",
             "hr/park": "",
@@ -3218,6 +3248,21 @@
     ],
     "tor @ bos": [
         {
+            "player": "andres gimenez",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-06-29 16:04:27",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ernie clement",
             "game": "tor @ bos",
             "hr/park": "",
@@ -3227,10 +3272,10 @@
             "team": "tor",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "73.9",
+            "la": "40",
+            "dist": "240"
         },
         {
             "player": "nathan lukes",
@@ -5247,21 +5292,6 @@
     ],
     "ath @ nyy": [
         {
-            "player": "jj bleday",
-            "game": "ath @ nyy",
-            "hr/park": "",
-            "pa": "65",
-            "dt": "2025-06-29 16:03:59",
-            "img": "https://www.mlbstatic.com/team-logos/133.svg",
-            "team": "ath",
-            "start": "1:35 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "oswald peraza",
             "game": "ath @ nyy",
             "hr/park": "",
@@ -6224,6 +6254,21 @@
     ],
     "sd @ cin": [
         {
+            "player": "matt mclain",
+            "game": "sd @ cin",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-06-29 16:04:27",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "1:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tj friedl",
             "game": "sd @ cin",
             "hr/park": "",
@@ -6233,10 +6278,10 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "74.5",
+            "la": "-34",
+            "dist": "5"
         },
         {
             "player": "christian encarnacion strand",
@@ -9106,7 +9151,7 @@
             "team": "col",
             "start": "2:10 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9843,10 +9888,10 @@
             "team": "tex",
             "start": "2:35 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "96.0",
+            "la": "56",
+            "dist": "232"
         },
         {
             "player": "corey seager",
