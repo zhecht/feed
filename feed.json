@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "12",
-        "batters": "44",
-        "pitches": "270",
+        "batters": "45",
+        "pitches": "275",
         "max velomax pitch velocity": "97.9",
         "min velomin pitch velocity": "74.0",
-        "ff%fourseam fastball %": "34.8",
-        "si%sinker %": "12.6",
-        "fc%cutter %": "8.1",
+        "ff%fourseam fastball %": "35.3",
+        "si%sinker %": "12.4",
+        "fc%cutter %": "8.0",
         "fs%splitter %": "0.4",
-        "ch%changeup %": "11.5",
-        "sl%slider %": "24.1",
-        "cu%curve %": "7.8",
+        "ch%changeup %": "11.3",
+        "sl%slider %": "24.4",
+        "cu%curve %": "7.6",
         "max evmax exit velocity": "110.5",
         "hhhard hit": "17",
-        "hh%hard hit %": "35.4",
+        "hh%hard hit %": "34.0",
         "brlbarrels": "4",
-        "brl%barrel %": "8.3",
-        "ab": "68",
-        "avg": ".221",
+        "brl%barrel %": "8.0",
+        "ab": "69",
+        "avg": ".217",
         "h": "15",
         "1b": "11",
         "2b": "1",
         "3b": "0",
         "hr": "3",
         "so": "16",
-        "bipballs in play": "48",
+        "bipballs in play": "50",
         "liveGames": 7,
         "totGames": 15,
-        "updated": "2025-06-29 13:47:53.674030"
+        "updated": "2025-06-29 13:48:01.367620"
     },
     "stl @ cle": [
         {
@@ -42,9 +42,9 @@
             "start": "12:05 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "92.5",
+            "la": "12",
+            "dist": "230"
         },
         {
             "player": "lane thomas",
@@ -769,6 +769,21 @@
     ],
     "nym @ pit": [
         {
+            "player": "andrew mccutchen",
+            "game": "nym @ pit",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-06-29 13:47:57",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "1:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "adam frazier",
             "game": "nym @ pit",
             "hr/park": "",
@@ -830,6 +845,36 @@
         }
     ],
     "tb @ bal": [
+        {
+            "player": "jonathan aranda",
+            "game": "tb @ bal",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-06-29 13:47:57",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "1:35 PM",
+            "in": "1",
+            "result": "Flyout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "yandy diaz",
+            "game": "tb @ bal",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-06-29 13:46:57",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "1:35 PM",
+            "in": "1",
+            "result": "Single",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brandon lowe",
             "game": "tb @ bal",
@@ -994,10 +1039,10 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "89.6",
+            "la": "-14",
+            "dist": "14"
         },
         {
             "player": "max kepler",
