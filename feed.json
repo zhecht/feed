@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "22",
+        "pitchers": "23",
         "batters": "129",
-        "pitches": "744",
+        "pitches": "749",
         "max velomax pitch velocity": "98.5",
         "min velomin pitch velocity": "69.7",
-        "ff%fourseam fastball %": "29.7",
-        "si%sinker %": "17.6",
-        "fc%cutter %": "9.8",
+        "ff%fourseam fastball %": "29.6",
+        "si%sinker %": "17.8",
+        "fc%cutter %": "9.6",
         "fs%splitter %": "1.1",
-        "ch%changeup %": "9.3",
-        "sl%slider %": "23.8",
-        "cu%curve %": "8.2",
+        "ch%changeup %": "9.1",
+        "sl%slider %": "24.2",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "112.1",
-        "hhhard hit": "55",
-        "hh%hard hit %": "42.6",
+        "hhhard hit": "56",
+        "hh%hard hit %": "42.7",
         "brlbarrels": "10",
-        "brl%barrel %": "7.8",
-        "ab": "177",
-        "avg": ".237",
+        "brl%barrel %": "7.6",
+        "ab": "178",
+        "avg": ".236",
         "h": "42",
         "1b": "26",
         "2b": "7",
         "3b": "0",
         "hr": "9",
         "so": "42",
-        "bipballs in play": "129",
+        "bipballs in play": "131",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-29 14:24:35.320093"
+        "updated": "2025-06-29 14:24:43.880670"
     },
     "stl @ cle": [
+        {
+            "player": "garrett hampson",
+            "game": "stl @ cle",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-06-29 14:24:42",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "12:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "pedro pages",
             "game": "stl @ cle",
@@ -979,6 +994,21 @@
     ],
     "nym @ pit": [
         {
+            "player": "kebryan hayes",
+            "game": "nym @ pit",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-06-29 14:24:42",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "1:35 PM",
+            "in": "3",
+            "result": "Lineout",
+            "evo": "105.6",
+            "la": "9",
+            "dist": "184"
+        },
+        {
             "player": "spencer horwitz",
             "game": "nym @ pit",
             "hr/park": "",
@@ -1628,6 +1658,21 @@
     ],
     "tor @ bos": [
         {
+            "player": "vladimir guerrero",
+            "game": "tor @ bos",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-06-29 14:24:42",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "carlos narvaez",
             "game": "tor @ bos",
             "hr/park": "",
@@ -1989,21 +2034,6 @@
         }
     ],
     "phi @ atl": [
-        {
-            "player": "marcell ozuna",
-            "game": "phi @ atl",
-            "hr/park": "",
-            "pa": "24",
-            "dt": "2025-06-29 14:24:29",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "1:35 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "matt olson",
             "game": "phi @ atl",
@@ -3133,10 +3163,10 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Sac Fly",
+            "evo": "92.0",
+            "la": "46",
+            "dist": "287"
         },
         {
             "player": "chase meidroth",
@@ -3240,7 +3270,7 @@
             "team": "col",
             "start": "2:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
