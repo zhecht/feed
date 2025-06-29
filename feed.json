@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "38",
         "batters": "202",
-        "pitches": "1806",
+        "pitches": "1811",
         "max velomax pitch velocity": "99.8",
         "min velomin pitch velocity": "69.7",
         "ff%fourseam fastball %": "30.2",
-        "si%sinker %": "15.3",
-        "fc%cutter %": "11.6",
+        "si%sinker %": "15.4",
+        "fc%cutter %": "11.7",
         "fs%splitter %": "1.4",
-        "ch%changeup %": "9.6",
+        "ch%changeup %": "9.5",
         "sl%slider %": "22.4",
-        "cu%curve %": "9.2",
+        "cu%curve %": "9.3",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "124",
-        "hh%hard hit %": "42.2",
+        "hh%hard hit %": "42.0",
         "brlbarrels": "25",
         "brl%barrel %": "8.5",
-        "ab": "397",
+        "ab": "398",
         "avg": ".249",
         "h": "99",
         "1b": "62",
         "2b": "21",
         "3b": "1",
         "hr": "15",
-        "so": "103",
-        "bipballs in play": "294",
+        "so": "102",
+        "bipballs in play": "295",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-29 15:20:20.735866"
+        "updated": "2025-06-29 15:20:30.484780"
     },
     "stl @ cle": [
         {
@@ -1911,6 +1911,21 @@
     ],
     "tb @ bal": [
         {
+            "player": "colton cowser",
+            "game": "tb @ bal",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-06-29 15:19:58",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ramon laureano",
             "game": "tb @ bal",
             "hr/park": "",
@@ -2582,10 +2597,10 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "5",
-            "result": "Pickoff Error 2B",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "81.2",
+            "la": "76",
+            "dist": "53"
         },
         {
             "player": "roman anthony",
@@ -6029,7 +6044,7 @@
             "team": "sf",
             "start": "2:10 PM",
             "in": "4",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6933,7 +6948,7 @@
             "team": "sea",
             "start": "2:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "90.1",
             "la": "71",
             "dist": "139"
