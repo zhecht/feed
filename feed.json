@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "75",
-        "batters": "232",
-        "pitches": "2760",
+        "pitchers": "77",
+        "batters": "233",
+        "pitches": "2764",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "41.7",
-        "ff%fourseam fastball %": "31.1",
+        "ff%fourseam fastball %": "31.2",
         "si%sinker %": "16.9",
         "fc%cutter %": "9.2",
         "fs%splitter %": "1.3",
@@ -13,22 +13,22 @@
         "sl%slider %": "23.0",
         "cu%curve %": "8.7",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "218",
-        "hh%hard hit %": "45.6",
+        "hhhard hit": "219",
+        "hh%hard hit %": "45.7",
         "brlbarrels": "41",
         "brl%barrel %": "8.6",
-        "ab": "616",
-        "avg": ".242",
+        "ab": "619",
+        "avg": ".241",
         "h": "149",
         "1b": "96",
         "2b": "30",
         "3b": "2",
         "hr": "21",
         "so": "149",
-        "bipballs in play": "478",
+        "bipballs in play": "479",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-29 16:12:33.267642"
+        "updated": "2025-06-29 16:12:43.785659"
     },
     "stl @ cle": [
         {
@@ -8600,6 +8600,21 @@
     ],
     "sf @ chw": [
         {
+            "player": "mike yastrzemski",
+            "game": "sf @ chw",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-06-29 16:12:43",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "wilmer flores",
             "game": "sf @ chw",
             "hr/park": "",
@@ -9441,6 +9456,21 @@
         }
     ],
     "col @ mil": [
+        {
+            "player": "rhys hoskins",
+            "game": "col @ mil",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-06-29 16:12:43",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "sam hilliard",
             "game": "col @ mil",
@@ -10926,9 +10956,9 @@
             "start": "4:07 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "105.9",
+            "la": "-7",
+            "dist": "17"
         },
         {
             "player": "james wood",
@@ -10961,6 +10991,22 @@
             "dist": "175"
         }
     ],
-    "mia @ ari": [],
+    "mia @ ari": [
+        {
+            "player": "otto lopez",
+            "game": "mia @ ari",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-29 16:12:43",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "min @ det": []
 }
