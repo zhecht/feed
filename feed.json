@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "70",
         "batters": "227",
-        "pitches": "2593",
+        "pitches": "2602",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "41.7",
-        "ff%fourseam fastball %": "31.4",
+        "ff%fourseam fastball %": "31.3",
         "si%sinker %": "16.2",
         "fc%cutter %": "9.5",
         "fs%splitter %": "1.3",
         "ch%changeup %": "9.6",
         "sl%slider %": "23.4",
-        "cu%curve %": "8.5",
+        "cu%curve %": "8.6",
         "max evmax exit velocity": "113.1",
         "hhhard hit": "205",
-        "hh%hard hit %": "45.6",
+        "hh%hard hit %": "45.5",
         "brlbarrels": "40",
         "brl%barrel %": "8.9",
-        "ab": "579",
+        "ab": "578",
         "avg": ".247",
         "h": "143",
         "1b": "91",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "21",
         "so": "139",
-        "bipballs in play": "450",
+        "bipballs in play": "451",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-29 16:02:57.404642"
+        "updated": "2025-06-29 16:03:08.062367"
     },
     "stl @ cle": [
         {
@@ -1198,7 +1198,7 @@
             "team": "pit",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2250,7 +2250,7 @@
             "team": "tb",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3203,11 +3203,11 @@
     ],
     "tor @ bos": [
         {
-            "player": "nathan lukes",
+            "player": "ernie clement",
             "game": "tor @ bos",
             "hr/park": "",
-            "pa": "63",
-            "dt": "2025-06-29 16:01:29",
+            "pa": "64",
+            "dt": "2025-06-29 16:03:01",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "start": "1:35 PM",
@@ -3216,6 +3216,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "nathan lukes",
+            "game": "tor @ bos",
+            "hr/park": "0/30",
+            "pa": "63",
+            "dt": "2025-06-29 16:01:29",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "Flyout",
+            "evo": "90.7",
+            "la": "27",
+            "dist": "315"
         },
         {
             "player": "wilyer abreu",
@@ -6188,7 +6203,7 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "8",
-            "result": "Flyout",
+            "result": "In Progress",
             "evo": "99.4",
             "la": "34",
             "dist": "377"
