@@ -2,25 +2,25 @@
     "all": {
         "pitchers": "32",
         "batters": "186",
-        "pitches": "1446",
+        "pitches": "1453",
         "max velomax pitch velocity": "99.8",
         "min velomin pitch velocity": "69.7",
-        "ff%fourseam fastball %": "30.2",
-        "si%sinker %": "16.3",
+        "ff%fourseam fastball %": "30.0",
+        "si%sinker %": "16.4",
         "fc%cutter %": "11.7",
-        "fs%splitter %": "1.5",
+        "fs%splitter %": "1.6",
         "ch%changeup %": "8.9",
         "sl%slider %": "22.0",
         "cu%curve %": "9.2",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "101",
-        "hh%hard hit %": "42.4",
+        "hhhard hit": "102",
+        "hh%hard hit %": "42.9",
         "brlbarrels": "19",
         "brl%barrel %": "8.0",
-        "ab": "317",
-        "avg": ".243",
-        "h": "77",
-        "1b": "50",
+        "ab": "319",
+        "avg": ".245",
+        "h": "78",
+        "1b": "51",
         "2b": "14",
         "3b": "1",
         "hr": "12",
@@ -28,7 +28,7 @@
         "bipballs in play": "238",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-29 15:01:33.844346"
+        "updated": "2025-06-29 15:01:42.843875"
     },
     "stl @ cle": [
         {
@@ -2357,10 +2357,10 @@
             "team": "tor",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "101.4",
+            "la": "3",
+            "dist": "98"
         },
         {
             "player": "george springer",
@@ -2959,10 +2959,10 @@
             "team": "phi",
             "start": "1:35 PM",
             "in": "6",
-            "result": "GIDP",
-            "evo": "86.7",
-            "la": "-13",
-            "dist": "12"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "max kepler",
@@ -3612,6 +3612,21 @@
     ],
     "ath @ nyy": [
         {
+            "player": "luis urias",
+            "game": "ath @ nyy",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-06-29 15:00:28",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "paul goldschmidt",
             "game": "ath @ nyy",
             "hr/park": "0/30",
@@ -4198,6 +4213,21 @@
         }
     ],
     "sd @ cin": [
+        {
+            "player": "jose iglesias",
+            "game": "sd @ cin",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-06-29 15:01:42",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "1:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "gavin sheets",
             "game": "sd @ cin",
@@ -5777,7 +5807,7 @@
             "team": "sea",
             "start": "2:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
