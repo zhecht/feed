@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "87",
         "batters": "249",
-        "pitches": "3010",
+        "pitches": "3020",
         "max velomax pitch velocity": "100.8",
         "min velomin pitch velocity": "41.7",
         "ff%fourseam fastball %": "31.4",
@@ -10,13 +10,13 @@
         "fc%cutter %": "8.9",
         "fs%splitter %": "1.6",
         "ch%changeup %": "9.4",
-        "sl%slider %": "23.0",
+        "sl%slider %": "23.1",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "113.1",
-        "hhhard hit": "233",
+        "hhhard hit": "234",
         "hh%hard hit %": "44.8",
         "brlbarrels": "44",
-        "brl%barrel %": "8.5",
+        "brl%barrel %": "8.4",
         "ab": "677",
         "avg": ".232",
         "h": "157",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "22",
         "so": "164",
-        "bipballs in play": "520",
+        "bipballs in play": "522",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-06-29 16:27:09.558622"
+        "updated": "2025-06-29 16:27:20.677412"
     },
     "stl @ cle": [
         {
@@ -3332,10 +3332,10 @@
             "team": "tor",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "47.5",
+            "la": "24",
+            "dist": "79"
         },
         {
             "player": "tyler heineman",
@@ -8553,6 +8553,21 @@
     ],
     "lad @ kc": [
         {
+            "player": "enrique hernandez",
+            "game": "lad @ kc",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-06-29 16:27:13",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mark canha",
             "game": "lad @ kc",
             "hr/park": "",
@@ -9044,7 +9059,7 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9982,21 +9997,6 @@
     ],
     "col @ mil": [
         {
-            "player": "brenton doyle",
-            "game": "col @ mil",
-            "hr/park": "",
-            "pa": "59",
-            "dt": "2025-06-29 16:26:43",
-            "img": "https://www.mlbstatic.com/team-logos/115.svg",
-            "team": "col",
-            "start": "2:10 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "ryan mcmahon",
             "game": "col @ mil",
             "hr/park": "",
@@ -10006,7 +10006,7 @@
             "team": "col",
             "start": "2:10 PM",
             "in": "8",
-            "result": "Official Scorer Ruling Pending",
+            "result": "In Progress",
             "evo": "102.3",
             "la": "-14",
             "dist": "8"
@@ -11835,7 +11835,7 @@
         {
             "player": "pavin smith",
             "game": "mia @ ari",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "8",
             "dt": "2025-06-29 16:26:29",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
@@ -11843,9 +11843,9 @@
             "start": "4:10 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "103.7",
+            "la": "46",
+            "dist": "329"
         },
         {
             "player": "ketel marte",
