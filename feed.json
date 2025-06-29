@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "16",
-        "batters": "101",
-        "pitches": "535",
+        "pitchers": "17",
+        "batters": "102",
+        "pitches": "540",
         "max velomax pitch velocity": "97.9",
         "min velomin pitch velocity": "69.7",
-        "ff%fourseam fastball %": "31.0",
+        "ff%fourseam fastball %": "30.9",
         "si%sinker %": "15.9",
-        "fc%cutter %": "7.9",
+        "fc%cutter %": "8.0",
         "fs%splitter %": "1.3",
-        "ch%changeup %": "9.0",
-        "sl%slider %": "26.4",
-        "cu%curve %": "7.9",
+        "ch%changeup %": "8.9",
+        "sl%slider %": "26.3",
+        "cu%curve %": "8.0",
         "max evmax exit velocity": "112.1",
         "hhhard hit": "39",
-        "hh%hard hit %": "39.8",
+        "hh%hard hit %": "39.0",
         "brlbarrels": "9",
-        "brl%barrel %": "9.2",
-        "ab": "134",
-        "avg": ".254",
-        "h": "34",
+        "brl%barrel %": "9.0",
+        "ab": "135",
+        "avg": ".259",
+        "h": "35",
         "1b": "21",
-        "2b": "4",
+        "2b": "5",
         "3b": "0",
         "hr": "9",
         "so": "30",
-        "bipballs in play": "98",
+        "bipballs in play": "100",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-06-29 14:12:07.225054"
+        "updated": "2025-06-29 14:12:15.203740"
     },
     "stl @ cle": [
         {
@@ -929,9 +929,9 @@
             "start": "1:35 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "87.1",
+            "la": "39",
+            "dist": "311"
         },
         {
             "player": "adam frazier",
@@ -2243,10 +2243,10 @@
             "team": "sd",
             "start": "1:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "87.0",
+            "la": "21",
+            "dist": "258"
         },
         {
             "player": "elias diaz",
@@ -2492,7 +2492,23 @@
     "chc @ hou": [],
     "lad @ kc": [],
     "sf @ chw": [],
-    "col @ mil": [],
+    "col @ mil": [
+        {
+            "player": "tyler freeman",
+            "game": "col @ mil",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-06-29 14:12:12",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "2:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "sea @ tex": [],
     "wsh @ laa": [],
     "mia @ ari": [],
