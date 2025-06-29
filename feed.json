@@ -2,12 +2,12 @@
     "all": {
         "pitchers": "47",
         "batters": "214",
-        "pitches": "2032",
+        "pitches": "2041",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "69.7",
         "ff%fourseam fastball %": "29.8",
-        "si%sinker %": "16.0",
-        "fc%cutter %": "11.3",
+        "si%sinker %": "16.1",
+        "fc%cutter %": "11.2",
         "fs%splitter %": "1.2",
         "ch%changeup %": "9.8",
         "sl%slider %": "22.5",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "43.1",
         "brlbarrels": "29",
         "brl%barrel %": "8.3",
-        "ab": "453",
-        "avg": ".254",
+        "ab": "454",
+        "avg": ".253",
         "h": "115",
         "1b": "74",
         "2b": "25",
         "3b": "1",
         "hr": "15",
-        "so": "112",
+        "so": "113",
         "bipballs in play": "348",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-06-29 15:33:19.360328"
+        "updated": "2025-06-29 15:33:29.475567"
     },
     "stl @ cle": [
         {
@@ -1188,6 +1188,21 @@
         }
     ],
     "nym @ pit": [
+        {
+            "player": "mark vientos",
+            "game": "nym @ pit",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-06-29 15:33:27",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "bryan reynolds",
             "game": "nym @ pit",
@@ -6704,7 +6719,7 @@
             "team": "sf",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7779,6 +7794,21 @@
     ],
     "sea @ tex": [
         {
+            "player": "dominic canzone",
+            "game": "sea @ tex",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-06-29 15:33:27",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "2:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "randy arozarena",
             "game": "sea @ tex",
             "hr/park": "",
@@ -7788,7 +7818,7 @@
             "team": "sea",
             "start": "2:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Field Error",
             "evo": "105.1",
             "la": "1",
             "dist": "69"
