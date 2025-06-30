@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "8",
-        "batters": "48",
-        "pitches": "246",
+        "batters": "49",
+        "pitches": "248",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "44.9",
-        "ff%fourseam fastball %": "39.4",
+        "ff%fourseam fastball %": "39.5",
         "si%sinker %": "9.3",
-        "fc%cutter %": "5.7",
+        "fc%cutter %": "5.6",
         "fs%splitter %": "0.4",
-        "ch%changeup %": "4.5",
-        "sl%slider %": "15.9",
-        "cu%curve %": "3.7",
+        "ch%changeup %": "4.8",
+        "sl%slider %": "15.7",
+        "cu%curve %": "3.6",
         "max evmax exit velocity": "109.8",
         "hhhard hit": "16",
-        "hh%hard hit %": "43.2",
+        "hh%hard hit %": "42.1",
         "brlbarrels": "4",
-        "brl%barrel %": "10.8",
+        "brl%barrel %": "10.5",
         "ab": "57",
         "avg": ".211",
         "h": "12",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "1",
         "so": "18",
-        "bipballs in play": "37",
+        "bipballs in play": "38",
         "liveGames": 5,
         "totGames": 8,
-        "updated": "2025-06-30 19:40:18.886499"
+        "updated": "2025-06-30 19:40:26.439892"
     },
     "sd @ phi": [
         {
@@ -41,7 +41,7 @@
             "team": "phi",
             "start": "6:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -500,6 +500,21 @@
     "stl @ pit": [],
     "nyy @ tor": [
         {
+            "player": "jc escarra",
+            "game": "nyy @ tor",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-06-30 19:40:23",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:07 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "anthony volpe",
             "game": "nyy @ tor",
             "hr/park": "",
@@ -736,10 +751,10 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "74.3",
+            "la": "13",
+            "dist": "170"
         },
         {
             "player": "abraham toro",
