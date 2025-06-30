@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "9",
         "batters": "60",
-        "pitches": "313",
+        "pitches": "317",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "73.3",
-        "ff%fourseam fastball %": "41.2",
-        "si%sinker %": "9.3",
-        "fc%cutter %": "6.4",
+        "ff%fourseam fastball %": "41.0",
+        "si%sinker %": "9.5",
+        "fc%cutter %": "6.3",
         "fs%splitter %": "0.3",
-        "ch%changeup %": "4.5",
-        "sl%slider %": "15.7",
+        "ch%changeup %": "5.0",
+        "sl%slider %": "15.5",
         "cu%curve %": "3.2",
         "max evmax exit velocity": "111.1",
         "hhhard hit": "19",
         "hh%hard hit %": "36.5",
         "brlbarrels": "5",
         "brl%barrel %": "9.6",
-        "ab": "73",
-        "avg": ".219",
+        "ab": "74",
+        "avg": ".216",
         "h": "16",
         "1b": "9",
         "2b": "5",
@@ -28,7 +28,7 @@
         "bipballs in play": "52",
         "liveGames": 5,
         "totGames": 8,
-        "updated": "2025-06-30 19:49:45.766454"
+        "updated": "2025-06-30 19:49:53.422788"
     },
     "sd @ phi": [
         {
@@ -545,6 +545,21 @@
     "stl @ pit": [],
     "nyy @ tor": [
         {
+            "player": "vladimir guerrero",
+            "game": "nyy @ tor",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-06-30 19:49:53",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "george springer",
             "game": "nyy @ tor",
             "hr/park": "",
@@ -856,7 +871,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
