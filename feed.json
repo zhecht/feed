@@ -1,26 +1,26 @@
 {
     "all": {
         "pitchers": "8",
-        "batters": "45",
-        "pitches": "218",
+        "batters": "46",
+        "pitches": "220",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "75.4",
-        "ff%fourseam fastball %": "37.2",
-        "si%sinker %": "9.6",
-        "fc%cutter %": "4.6",
+        "ff%fourseam fastball %": "37.7",
+        "si%sinker %": "9.5",
+        "fc%cutter %": "4.5",
         "fs%splitter %": "0.5",
-        "ch%changeup %": "3.7",
-        "sl%slider %": "17.4",
+        "ch%changeup %": "3.6",
+        "sl%slider %": "17.3",
         "cu%curve %": "4.1",
         "max evmax exit velocity": "108.9",
         "hhhard hit": "14",
         "hh%hard hit %": "40.0",
         "brlbarrels": "4",
         "brl%barrel %": "11.4",
-        "ab": "52",
-        "avg": ".192",
-        "h": "10",
-        "1b": "5",
+        "ab": "54",
+        "avg": ".204",
+        "h": "11",
+        "1b": "6",
         "2b": "4",
         "3b": "0",
         "hr": "1",
@@ -28,7 +28,7 @@
         "bipballs in play": "35",
         "liveGames": 5,
         "totGames": 8,
-        "updated": "2025-06-30 19:37:32.082000"
+        "updated": "2025-06-30 19:37:39.539674"
     },
     "sd @ phi": [
         {
@@ -485,6 +485,21 @@
     "stl @ pit": [],
     "nyy @ tor": [
         {
+            "player": "anthony volpe",
+            "game": "nyy @ tor",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-06-30 19:37:39",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:07 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jonatan clase",
             "game": "nyy @ tor",
             "hr/park": "",
@@ -697,6 +712,21 @@
     ],
     "cin @ bos": [
         {
+            "player": "abraham toro",
+            "game": "cin @ bos",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-06-30 19:37:39",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "roman anthony",
             "game": "cin @ bos",
             "hr/park": "",
@@ -706,7 +736,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "108.9",
             "la": "-9",
             "dist": "18"
