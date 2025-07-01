@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "46",
-        "batters": "132",
-        "pitches": "1576",
+        "batters": "133",
+        "pitches": "1580",
         "max velomax pitch velocity": "100.5",
         "min velomin pitch velocity": "52.1",
-        "ff%fourseam fastball %": "30.7",
+        "ff%fourseam fastball %": "30.8",
         "si%sinker %": "19.2",
         "fc%cutter %": "9.9",
         "fs%splitter %": "1.7",
@@ -14,21 +14,21 @@
         "cu%curve %": "6.9",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "115",
-        "hh%hard hit %": "38.6",
+        "hh%hard hit %": "38.5",
         "brlbarrels": "19",
         "brl%barrel %": "6.4",
-        "ab": "387",
-        "avg": ".248",
+        "ab": "388",
+        "avg": ".247",
         "h": "96",
         "1b": "65",
         "2b": "17",
         "3b": "2",
         "hr": "12",
-        "so": "90",
-        "bipballs in play": "298",
+        "so": "91",
+        "bipballs in play": "299",
         "liveGames": 8,
         "totGames": 8,
-        "updated": "2025-06-30 21:57:17.362361"
+        "updated": "2025-06-30 21:57:25.994146"
     },
     "sd @ phi": [
         {
@@ -1078,7 +1078,7 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6149,6 +6149,21 @@
     ],
     "kc @ sea": [
         {
+            "player": "salvador perez",
+            "game": "kc @ sea",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-06-30 21:57:24",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "9:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "vinnie pasquantino",
             "game": "kc @ sea",
             "hr/park": "",
@@ -6158,10 +6173,10 @@
             "team": "kc",
             "start": "9:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "71.0",
+            "la": "64",
+            "dist": "126"
         },
         {
             "player": "cal raleigh",
