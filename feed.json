@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "27",
         "batters": "113",
-        "pitches": "1151",
+        "pitches": "1155",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "73.1",
         "ff%fourseam fastball %": "31.5",
-        "si%sinker %": "18.9",
+        "si%sinker %": "19.0",
         "fc%cutter %": "10.6",
         "fs%splitter %": "1.1",
         "ch%changeup %": "8.1",
@@ -14,7 +14,7 @@
         "cu%curve %": "5.4",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "85",
-        "hh%hard hit %": "38.5",
+        "hh%hard hit %": "38.3",
         "brlbarrels": "14",
         "brl%barrel %": "6.3",
         "ab": "282",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "9",
         "so": "60",
-        "bipballs in play": "221",
+        "bipballs in play": "222",
         "liveGames": 6,
         "totGames": 8,
-        "updated": "2025-06-30 21:12:35.828300"
+        "updated": "2025-06-30 21:12:44.513987"
     },
     "sd @ phi": [
         {
@@ -2582,10 +2582,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "88.0",
+            "la": "-20",
+            "dist": "11"
         },
         {
             "player": "elly de la cruz",
@@ -3520,6 +3520,21 @@
     ],
     "ath @ tb": [
         {
+            "player": "jake mangum",
+            "game": "ath @ tb",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-06-30 21:12:39",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh lowe",
             "game": "ath @ tb",
             "hr/park": "",
@@ -4251,7 +4266,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
