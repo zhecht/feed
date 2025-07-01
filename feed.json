@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "55",
         "batters": "158",
-        "pitches": "2023",
+        "pitches": "2026",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.1",
         "ff%fourseam fastball %": "31.3",
@@ -10,15 +10,15 @@
         "fc%cutter %": "9.7",
         "fs%splitter %": "1.6",
         "ch%changeup %": "9.5",
-        "sl%slider %": "19.4",
+        "sl%slider %": "19.5",
         "cu%curve %": "6.4",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "148",
         "hh%hard hit %": "39.3",
         "brlbarrels": "28",
         "brl%barrel %": "7.4",
-        "ab": "494",
-        "avg": ".245",
+        "ab": "495",
+        "avg": ".244",
         "h": "121",
         "1b": "81",
         "2b": "21",
@@ -28,7 +28,7 @@
         "bipballs in play": "377",
         "liveGames": 8,
         "totGames": 8,
-        "updated": "2025-06-30 23:12:51.760650"
+        "updated": "2025-06-30 23:13:01.237902"
     },
     "sd @ phi": [
         {
@@ -5502,16 +5502,31 @@
     ],
     "bal @ tex": [
         {
-            "player": "corey seager",
+            "player": "marcus semien",
             "game": "bal @ tex",
             "hr/park": "",
+            "pa": "82",
+            "dt": "2025-06-30 23:12:55",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:05 PM",
+            "in": "10",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "corey seager",
+            "game": "bal @ tex",
+            "hr/park": "0/30",
             "pa": "81",
             "dt": "2025-06-30 23:12:38",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
             "start": "8:05 PM",
             "in": "10",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "101.5",
             "la": "24",
             "dist": "359"
@@ -6728,7 +6743,7 @@
             "team": "sea",
             "start": "9:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
