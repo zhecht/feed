@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "19",
         "batters": "111",
-        "pitches": "940",
+        "pitches": "944",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "73.3",
-        "ff%fourseam fastball %": "34.6",
+        "ff%fourseam fastball %": "34.5",
         "si%sinker %": "17.7",
         "fc%cutter %": "10.2",
         "fs%splitter %": "0.4",
-        "ch%changeup %": "7.1",
-        "sl%slider %": "16.4",
-        "cu%curve %": "5.2",
+        "ch%changeup %": "7.2",
+        "sl%slider %": "16.3",
+        "cu%curve %": "5.3",
         "max evmax exit velocity": "111.1",
         "hhhard hit": "67",
         "hh%hard hit %": "37.2",
         "brlbarrels": "13",
         "brl%barrel %": "7.2",
-        "ab": "225",
-        "avg": ".253",
+        "ab": "227",
+        "avg": ".251",
         "h": "57",
         "1b": "35",
         "2b": "13",
@@ -28,9 +28,24 @@
         "bipballs in play": "180",
         "liveGames": 6,
         "totGames": 8,
-        "updated": "2025-06-30 20:50:21.704411"
+        "updated": "2025-06-30 20:50:29.869630"
     },
     "sd @ phi": [
+        {
+            "player": "jackson merrill",
+            "game": "sd @ phi",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-06-30 20:50:24",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "6:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "manny machado",
             "game": "sd @ phi",
@@ -41,7 +56,7 @@
             "team": "sd",
             "start": "6:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "66.5",
             "la": "-61",
             "dist": "3"
@@ -948,6 +963,21 @@
         }
     ],
     "stl @ pit": [
+        {
+            "player": "nolan arenado",
+            "game": "stl @ pit",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-06-30 20:50:24",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "willson contreras",
             "game": "stl @ pit",
@@ -2117,7 +2147,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "84.9",
             "la": "58",
             "dist": "201"
