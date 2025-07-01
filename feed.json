@@ -1,26 +1,26 @@
 {
     "all": {
         "pitchers": "19",
-        "batters": "107",
-        "pitches": "862",
+        "batters": "108",
+        "pitches": "868",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "73.3",
         "ff%fourseam fastball %": "34.7",
-        "si%sinker %": "17.5",
-        "fc%cutter %": "10.0",
+        "si%sinker %": "17.4",
+        "fc%cutter %": "10.1",
         "fs%splitter %": "0.5",
         "ch%changeup %": "6.8",
-        "sl%slider %": "16.0",
+        "sl%slider %": "16.1",
         "cu%curve %": "5.3",
         "max evmax exit velocity": "111.1",
         "hhhard hit": "64",
         "hh%hard hit %": "38.8",
         "brlbarrels": "12",
         "brl%barrel %": "7.3",
-        "ab": "209",
-        "avg": ".244",
-        "h": "51",
-        "1b": "32",
+        "ab": "211",
+        "avg": ".246",
+        "h": "52",
+        "1b": "33",
         "2b": "11",
         "3b": "1",
         "hr": "7",
@@ -28,7 +28,7 @@
         "bipballs in play": "165",
         "liveGames": 6,
         "totGames": 8,
-        "updated": "2025-06-30 20:43:03.462092"
+        "updated": "2025-06-30 20:43:11.466841"
     },
     "sd @ phi": [
         {
@@ -41,7 +41,7 @@
             "team": "phi",
             "start": "6:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1320,7 +1320,7 @@
             "team": "nyy",
             "start": "7:07 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "109.2",
             "la": "5",
             "dist": "105"
@@ -2002,6 +2002,21 @@
         }
     ],
     "cin @ bos": [
+        {
+            "player": "austin hays",
+            "game": "cin @ bos",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-06-30 20:43:08",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ceddanne rafaela",
             "game": "cin @ bos",
@@ -3267,6 +3282,21 @@
     ],
     "bal @ tex": [
         {
+            "player": "josh jung",
+            "game": "bal @ tex",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-06-30 20:43:08",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "justin foscue",
             "game": "bal @ tex",
             "hr/park": "",
@@ -3276,7 +3306,7 @@
             "team": "tex",
             "start": "8:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "75.1",
             "la": "83",
             "dist": "49"
