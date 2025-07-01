@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "11",
-        "batters": "74",
-        "pitches": "407",
+        "batters": "75",
+        "pitches": "409",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "44.9",
-        "ff%fourseam fastball %": "41.3",
-        "si%sinker %": "11.5",
-        "fc%cutter %": "6.6",
+        "ff%fourseam fastball %": "40.8",
+        "si%sinker %": "11.7",
+        "fc%cutter %": "7.1",
         "fs%splitter %": "0.2",
         "ch%changeup %": "4.9",
-        "sl%slider %": "16.0",
+        "sl%slider %": "15.9",
         "cu%curve %": "3.7",
         "max evmax exit velocity": "111.1",
-        "hhhard hit": "25",
-        "hh%hard hit %": "34.7",
+        "hhhard hit": "27",
+        "hh%hard hit %": "37.0",
         "brlbarrels": "7",
-        "brl%barrel %": "9.7",
+        "brl%barrel %": "9.6",
         "ab": "97",
         "avg": ".196",
         "h": "19",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "3",
         "so": "24",
-        "bipballs in play": "72",
+        "bipballs in play": "73",
         "liveGames": 5,
         "totGames": 8,
-        "updated": "2025-06-30 20:00:53.197512"
+        "updated": "2025-06-30 20:01:01.036239"
     },
     "sd @ phi": [
         {
@@ -42,9 +42,9 @@
             "start": "6:35 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "101.3",
+            "la": "8",
+            "dist": "157"
         },
         {
             "player": "bryce johnson",
@@ -619,6 +619,21 @@
     ],
     "stl @ pit": [
         {
+            "player": "andrew mccutchen",
+            "game": "stl @ pit",
+            "hr/park": "0/30",
+            "pa": "5",
+            "dt": "2025-06-30 20:00:56",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "104.4",
+            "la": "18",
+            "dist": "300"
+        },
+        {
             "player": "spencer horwitz",
             "game": "stl @ pit",
             "hr/park": "29/30",
@@ -1058,21 +1073,6 @@
     ],
     "cin @ bos": [
         {
-            "player": "ceddanne rafaela",
-            "game": "cin @ bos",
-            "hr/park": "",
-            "pa": "27",
-            "dt": "2025-06-30 20:00:40",
-            "img": "https://www.mlbstatic.com/team-logos/111.svg",
-            "team": "bos",
-            "start": "7:10 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "david hamilton",
             "game": "cin @ bos",
             "hr/park": "",
@@ -1082,10 +1082,10 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "3",
-            "result": "Flyout",
-            "evo": "81.1",
-            "la": "44",
-            "dist": "279"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "santiago espinal",
