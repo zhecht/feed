@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "16",
         "batters": "104",
-        "pitches": "782",
+        "pitches": "785",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "73.3",
         "ff%fourseam fastball %": "36.2",
-        "si%sinker %": "16.1",
+        "si%sinker %": "16.2",
         "fc%cutter %": "9.8",
         "fs%splitter %": "0.5",
         "ch%changeup %": "7.0",
         "sl%slider %": "16.1",
-        "cu%curve %": "4.1",
+        "cu%curve %": "4.2",
         "max evmax exit velocity": "111.1",
         "hhhard hit": "59",
         "hh%hard hit %": "40.4",
         "brlbarrels": "11",
         "brl%barrel %": "7.5",
-        "ab": "189",
-        "avg": ".243",
+        "ab": "190",
+        "avg": ".242",
         "h": "46",
         "1b": "29",
         "2b": "10",
@@ -28,7 +28,7 @@
         "bipballs in play": "146",
         "liveGames": 6,
         "totGames": 8,
-        "updated": "2025-06-30 20:35:08.303172"
+        "updated": "2025-06-30 20:35:16.460268"
     },
     "sd @ phi": [
         {
@@ -844,6 +844,21 @@
     ],
     "stl @ pit": [
         {
+            "player": "alec burleson",
+            "game": "stl @ pit",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-06-30 20:35:11",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "masyn winn",
             "game": "stl @ pit",
             "hr/park": "",
@@ -853,7 +868,7 @@
             "team": "stl",
             "start": "6:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "107.7",
             "la": "-25",
             "dist": "5"
