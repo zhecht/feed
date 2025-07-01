@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "13",
-        "batters": "87",
-        "pitches": "557",
+        "batters": "88",
+        "pitches": "571",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "44.9",
-        "ff%fourseam fastball %": "39.0",
-        "si%sinker %": "13.6",
-        "fc%cutter %": "8.6",
+        "ff%fourseam fastball %": "38.2",
+        "si%sinker %": "14.2",
+        "fc%cutter %": "9.1",
         "fs%splitter %": "0.2",
-        "ch%changeup %": "5.6",
+        "ch%changeup %": "5.8",
         "sl%slider %": "15.4",
-        "cu%curve %": "3.8",
+        "cu%curve %": "3.7",
         "max evmax exit velocity": "111.1",
         "hhhard hit": "40",
-        "hh%hard hit %": "40.4",
+        "hh%hard hit %": "39.6",
         "brlbarrels": "10",
-        "brl%barrel %": "10.1",
-        "ab": "129",
-        "avg": ".240",
-        "h": "31",
-        "1b": "17",
+        "brl%barrel %": "9.9",
+        "ab": "132",
+        "avg": ".242",
+        "h": "32",
+        "1b": "18",
         "2b": "8",
         "3b": "1",
         "hr": "5",
-        "so": "29",
-        "bipballs in play": "99",
+        "so": "32",
+        "bipballs in play": "101",
         "liveGames": 6,
         "totGames": 8,
-        "updated": "2025-06-30 20:14:35.370459"
+        "updated": "2025-06-30 20:14:43.267763"
     },
     "sd @ phi": [
         {
@@ -41,7 +41,7 @@
             "team": "phi",
             "start": "6:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -694,6 +694,21 @@
     ],
     "stl @ pit": [
         {
+            "player": "tommy pham",
+            "game": "stl @ pit",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-06-30 20:14:39",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kebryan hayes",
             "game": "stl @ pit",
             "hr/park": "",
@@ -703,10 +718,10 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "75.0",
+            "la": "66",
+            "dist": "124"
         },
         {
             "player": "nolan gorman",
@@ -876,6 +891,21 @@
     ],
     "nyy @ tor": [
         {
+            "player": "will wagner",
+            "game": "nyy @ tor",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-06-30 20:14:39",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jonatan clase",
             "game": "nyy @ tor",
             "hr/park": "",
@@ -885,7 +915,7 @@
             "team": "tor",
             "start": "7:07 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "77.6",
             "la": "25",
             "dist": "263"
@@ -1343,9 +1373,24 @@
     ],
     "cin @ bos": [
         {
-            "player": "austin hays",
+            "player": "spencer steer",
             "game": "cin @ bos",
             "hr/park": "",
+            "pa": "33",
+            "dt": "2025-06-30 20:14:39",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "Groundout",
+            "evo": "94.8",
+            "la": "-18",
+            "dist": "8"
+        },
+        {
+            "player": "austin hays",
+            "game": "cin @ bos",
+            "hr/park": "12/30",
             "pa": "32",
             "dt": "2025-06-30 20:12:23",
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
@@ -1834,7 +1879,7 @@
             "team": "tb",
             "start": "7:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2166,7 +2211,7 @@
             "team": "bal",
             "start": "8:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
