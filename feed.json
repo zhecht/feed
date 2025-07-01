@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "16",
-        "batters": "102",
-        "pitches": "743",
+        "batters": "101",
+        "pitches": "745",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "73.3",
         "ff%fourseam fastball %": "37.0",
-        "si%sinker %": "15.1",
-        "fc%cutter %": "10.1",
+        "si%sinker %": "15.2",
+        "fc%cutter %": "9.8",
         "fs%splitter %": "0.4",
-        "ch%changeup %": "7.1",
+        "ch%changeup %": "7.2",
         "sl%slider %": "16.0",
-        "cu%curve %": "3.8",
+        "cu%curve %": "3.9",
         "max evmax exit velocity": "111.1",
         "hhhard hit": "56",
-        "hh%hard hit %": "40.6",
+        "hh%hard hit %": "40.9",
         "brlbarrels": "11",
         "brl%barrel %": "8.0",
         "ab": "178",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "6",
         "so": "42",
-        "bipballs in play": "138",
+        "bipballs in play": "137",
         "liveGames": 6,
         "totGames": 8,
-        "updated": "2025-06-30 20:31:04.621765"
+        "updated": "2025-06-30 20:31:12.673137"
     },
     "sd @ phi": [
         {
@@ -1130,6 +1130,21 @@
         }
     ],
     "nyy @ tor": [
+        {
+            "player": "alejandro kirk",
+            "game": "nyy @ tor",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-06-30 20:30:38",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "vladimir guerrero",
             "game": "nyy @ tor",
@@ -2817,21 +2832,6 @@
     ],
     "bal @ tex": [
         {
-            "player": "colton cowser",
-            "game": "bal @ tex",
-            "hr/park": "",
-            "pa": "11",
-            "dt": "2025-06-30 20:30:53",
-            "img": "https://www.mlbstatic.com/team-logos/110.svg",
-            "team": "bal",
-            "start": "8:05 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "ramon urias",
             "game": "bal @ tex",
             "hr/park": "",
@@ -2841,10 +2841,10 @@
             "team": "bal",
             "start": "8:05 PM",
             "in": "2",
-            "result": "Lineout",
-            "evo": "91.7",
-            "la": "10",
-            "dist": "149"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "jonah heim",
