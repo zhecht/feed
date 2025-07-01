@@ -1,22 +1,22 @@
 {
     "all": {
-        "pitchers": "17",
+        "pitchers": "16",
         "batters": "55",
-        "pitches": "453",
+        "pitches": "456",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "71.9",
-        "ff%fourseam fastball %": "32.7",
-        "si%sinker %": "13.5",
+        "ff%fourseam fastball %": "32.0",
+        "si%sinker %": "13.4",
         "fc%cutter %": "7.7",
-        "fs%splitter %": "10.4",
-        "ch%changeup %": "6.6",
-        "sl%slider %": "20.5",
-        "cu%curve %": "8.4",
+        "fs%splitter %": "10.5",
+        "ch%changeup %": "6.8",
+        "sl%slider %": "20.4",
+        "cu%curve %": "9.0",
         "max evmax exit velocity": "107.3",
-        "hhhard hit": "33",
-        "hh%hard hit %": "41.3",
-        "brlbarrels": "6",
-        "brl%barrel %": "7.5",
+        "hhhard hit": "34",
+        "hh%hard hit %": "42.0",
+        "brlbarrels": "7",
+        "brl%barrel %": "8.6",
         "ab": "102",
         "avg": ".206",
         "h": "21",
@@ -24,11 +24,11 @@
         "2b": "3",
         "3b": "0",
         "hr": "4",
-        "so": "18",
-        "bipballs in play": "80",
+        "so": "19",
+        "bipballs in play": "81",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-07-01 19:12:16.307436"
+        "updated": "2025-07-01 19:12:24.148225"
     },
     "nyy @ tor": [
         {
@@ -1476,6 +1476,21 @@
     ],
     "min @ mia": [
         {
+            "player": "royce lewis",
+            "game": "min @ mia",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-07-01 19:12:19",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ty france",
             "game": "min @ mia",
             "hr/park": "",
@@ -1538,7 +1553,7 @@
         {
             "player": "kyle stowers",
             "game": "min @ mia",
-            "hr/park": "",
+            "hr/park": "25/30",
             "pa": "11",
             "dt": "2025-07-01 19:01:19",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
@@ -1546,9 +1561,9 @@
             "start": "6:40 PM",
             "in": "2",
             "result": "Home Run",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "99.2",
+            "la": "31",
+            "dist": "369"
         },
         {
             "player": "brooks lee",
@@ -1712,7 +1727,7 @@
             "team": "ath",
             "start": "7:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
