@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "16",
         "batters": "103",
-        "pitches": "776",
+        "pitches": "777",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "73.3",
-        "ff%fourseam fastball %": "36.2",
-        "si%sinker %": "16.0",
+        "ff%fourseam fastball %": "36.0",
+        "si%sinker %": "16.2",
         "fc%cutter %": "9.9",
         "fs%splitter %": "0.5",
         "ch%changeup %": "7.1",
         "sl%slider %": "16.1",
         "cu%curve %": "4.0",
         "max evmax exit velocity": "111.1",
-        "hhhard hit": "58",
-        "hh%hard hit %": "40.0",
+        "hhhard hit": "59",
+        "hh%hard hit %": "40.4",
         "brlbarrels": "11",
-        "brl%barrel %": "7.6",
-        "ab": "187",
-        "avg": ".241",
-        "h": "45",
-        "1b": "28",
+        "brl%barrel %": "7.5",
+        "ab": "188",
+        "avg": ".245",
+        "h": "46",
+        "1b": "29",
         "2b": "10",
         "3b": "1",
         "hr": "6",
         "so": "43",
-        "bipballs in play": "145",
+        "bipballs in play": "146",
         "liveGames": 6,
         "totGames": 8,
-        "updated": "2025-06-30 20:34:35.594324"
+        "updated": "2025-06-30 20:34:43.787560"
     },
     "sd @ phi": [
         {
@@ -853,7 +853,7 @@
             "team": "stl",
             "start": "6:40 PM",
             "in": "4",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "107.7",
             "la": "-25",
             "dist": "5"
@@ -1807,6 +1807,21 @@
         }
     ],
     "cin @ bos": [
+        {
+            "player": "wilyer abreu",
+            "game": "cin @ bos",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-06-30 20:34:38",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "elly de la cruz",
             "game": "cin @ bos",
@@ -2961,10 +2976,10 @@
             "team": "bal",
             "start": "8:05 PM",
             "in": "2",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "106.6",
+            "la": "12",
+            "dist": "247"
         },
         {
             "player": "colton cowser",
