@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "16",
         "batters": "100",
-        "pitches": "709",
+        "pitches": "713",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "73.3",
-        "ff%fourseam fastball %": "38.2",
-        "si%sinker %": "14.2",
+        "ff%fourseam fastball %": "38.1",
+        "si%sinker %": "14.6",
         "fc%cutter %": "9.7",
         "fs%splitter %": "0.4",
-        "ch%changeup %": "6.8",
-        "sl%slider %": "15.9",
-        "cu%curve %": "3.7",
+        "ch%changeup %": "6.7",
+        "sl%slider %": "15.8",
+        "cu%curve %": "3.6",
         "max evmax exit velocity": "111.1",
-        "hhhard hit": "51",
-        "hh%hard hit %": "39.8",
+        "hhhard hit": "52",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "10",
-        "brl%barrel %": "7.8",
-        "ab": "167",
-        "avg": ".228",
-        "h": "38",
-        "1b": "22",
+        "brl%barrel %": "7.7",
+        "ab": "169",
+        "avg": ".231",
+        "h": "39",
+        "1b": "23",
         "2b": "10",
         "3b": "1",
         "hr": "5",
         "so": "41",
-        "bipballs in play": "128",
+        "bipballs in play": "130",
         "liveGames": 6,
         "totGames": 8,
-        "updated": "2025-06-30 20:28:22.276512"
+        "updated": "2025-06-30 20:28:30.293614"
     },
     "sd @ phi": [
         {
@@ -799,6 +799,21 @@
     ],
     "stl @ pit": [
         {
+            "player": "andrew mccutchen",
+            "game": "stl @ pit",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-06-30 20:28:25",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "spencer horwitz",
             "game": "stl @ pit",
             "hr/park": "",
@@ -808,10 +823,10 @@
             "team": "pit",
             "start": "6:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "99.6",
+            "la": "-13",
+            "dist": "11"
         },
         {
             "player": "isiah kiner falefa",
@@ -1085,6 +1100,21 @@
         }
     ],
     "nyy @ tor": [
+        {
+            "player": "ernie clement",
+            "game": "nyy @ tor",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-06-30 20:28:25",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:07 PM",
+            "in": "5",
+            "result": "Single",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "dj lemahieu",
             "game": "nyy @ tor",
@@ -1637,7 +1667,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "5",
-            "result": "Official Scorer Ruling Pending",
+            "result": "In Progress",
             "evo": "99.8",
             "la": "-33",
             "dist": "3"
