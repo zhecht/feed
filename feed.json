@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "21",
-        "batters": "89",
-        "pitches": "651",
+        "batters": "90",
+        "pitches": "654",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "71.9",
-        "ff%fourseam fastball %": "35.2",
-        "si%sinker %": "13.4",
-        "fc%cutter %": "6.5",
+        "ff%fourseam fastball %": "35.5",
+        "si%sinker %": "13.3",
+        "fc%cutter %": "6.4",
         "fs%splitter %": "8.6",
-        "ch%changeup %": "7.7",
-        "sl%slider %": "21.5",
+        "ch%changeup %": "7.6",
+        "sl%slider %": "21.4",
         "cu%curve %": "7.2",
         "max evmax exit velocity": "113.4",
-        "hhhard hit": "45",
-        "hh%hard hit %": "40.5",
+        "hhhard hit": "46",
+        "hh%hard hit %": "40.7",
         "brlbarrels": "8",
-        "brl%barrel %": "7.2",
-        "ab": "145",
-        "avg": ".200",
-        "h": "29",
-        "1b": "18",
+        "brl%barrel %": "7.1",
+        "ab": "147",
+        "avg": ".204",
+        "h": "30",
+        "1b": "19",
         "2b": "6",
         "3b": "0",
         "hr": "5",
         "so": "31",
-        "bipballs in play": "111",
+        "bipballs in play": "113",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-07-01 19:36:42.925651"
+        "updated": "2025-07-01 19:36:50.929909"
     },
     "nyy @ tor": [
         {
@@ -1258,10 +1258,10 @@
             "team": "stl",
             "start": "6:40 PM",
             "in": "4",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "103.4",
+            "la": "13",
+            "dist": "250"
         },
         {
             "player": "willson contreras",
@@ -2042,7 +2042,7 @@
             "team": "tb",
             "start": "7:05 PM",
             "in": "2",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2260,6 +2260,21 @@
     ],
     "cin @ bos": [
         {
+            "player": "spencer steer",
+            "game": "cin @ bos",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-07-01 19:36:49",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gavin lux",
             "game": "cin @ bos",
             "hr/park": "",
@@ -2269,10 +2284,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "81.4",
+            "la": "25",
+            "dist": "252"
         },
         {
             "player": "marcelo mayer",
