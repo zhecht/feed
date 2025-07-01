@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "17",
+        "pitchers": "18",
         "batters": "106",
-        "pitches": "808",
+        "pitches": "812",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "73.3",
-        "ff%fourseam fastball %": "35.8",
-        "si%sinker %": "16.6",
-        "fc%cutter %": "9.8",
+        "ff%fourseam fastball %": "35.7",
+        "si%sinker %": "16.9",
+        "fc%cutter %": "9.7",
         "fs%splitter %": "0.5",
         "ch%changeup %": "6.9",
-        "sl%slider %": "16.1",
+        "sl%slider %": "16.0",
         "cu%curve %": "4.6",
         "max evmax exit velocity": "111.1",
         "hhhard hit": "62",
-        "hh%hard hit %": "40.3",
+        "hh%hard hit %": "39.7",
         "brlbarrels": "12",
-        "brl%barrel %": "7.8",
-        "ab": "195",
-        "avg": ".256",
+        "brl%barrel %": "7.7",
+        "ab": "197",
+        "avg": ".254",
         "h": "50",
         "1b": "31",
         "2b": "11",
         "3b": "1",
         "hr": "7",
         "so": "44",
-        "bipballs in play": "154",
+        "bipballs in play": "156",
         "liveGames": 6,
         "totGames": 8,
-        "updated": "2025-06-30 20:37:51.350216"
+        "updated": "2025-06-30 20:37:59.344235"
     },
     "sd @ phi": [
         {
@@ -1223,17 +1223,17 @@
         {
             "player": "cody bellinger",
             "game": "nyy @ tor",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "43",
             "dt": "2025-06-30 20:37:09",
             "img": "https://www.mlbstatic.com/team-logos/147.svg",
             "team": "nyy",
             "start": "7:07 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "94.2",
+            "la": "23",
+            "dist": "329"
         },
         {
             "player": "jasson dominguez",
@@ -1868,9 +1868,24 @@
     ],
     "cin @ bos": [
         {
-            "player": "trevor story",
+            "player": "marcelo mayer",
             "game": "cin @ bos",
             "hr/park": "",
+            "pa": "46",
+            "dt": "2025-06-30 20:37:54",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "89.9",
+            "la": "28",
+            "dist": "312"
+        },
+        {
+            "player": "trevor story",
+            "game": "cin @ bos",
+            "hr/park": "0/30",
             "pa": "45",
             "dt": "2025-06-30 20:36:41",
             "img": "https://www.mlbstatic.com/team-logos/111.svg",
@@ -2544,6 +2559,21 @@
         }
     ],
     "ath @ tb": [
+        {
+            "player": "danny jansen",
+            "game": "ath @ tb",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-06-30 20:37:54",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jose caballero",
             "game": "ath @ tb",
