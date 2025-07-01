@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "20",
         "batters": "78",
-        "pitches": "576",
+        "pitches": "578",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "71.9",
-        "ff%fourseam fastball %": "34.0",
-        "si%sinker %": "14.1",
+        "ff%fourseam fastball %": "33.7",
+        "si%sinker %": "14.2",
         "fc%cutter %": "6.4",
         "fs%splitter %": "9.5",
-        "ch%changeup %": "7.1",
-        "sl%slider %": "20.8",
+        "ch%changeup %": "7.3",
+        "sl%slider %": "20.9",
         "cu%curve %": "8.0",
         "max evmax exit velocity": "113.4",
-        "hhhard hit": "43",
-        "hh%hard hit %": "42.2",
+        "hhhard hit": "44",
+        "hh%hard hit %": "42.7",
         "brlbarrels": "7",
-        "brl%barrel %": "6.9",
+        "brl%barrel %": "6.8",
         "ab": "131",
         "avg": ".206",
         "h": "27",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "4",
         "so": "26",
-        "bipballs in play": "102",
+        "bipballs in play": "103",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-07-01 19:27:56.947775"
+        "updated": "2025-07-01 19:28:04.939078"
     },
     "nyy @ tor": [
         {
@@ -1581,6 +1581,21 @@
     ],
     "min @ mia": [
         {
+            "player": "carlos correa",
+            "game": "min @ mia",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-07-01 19:26:49",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "6:40 PM",
+            "in": "4",
+            "result": "Groundout",
+            "evo": "99.2",
+            "la": "-28",
+            "dist": "5"
+        },
+        {
             "player": "willi castro",
             "game": "min @ mia",
             "hr/park": "",
@@ -1937,7 +1952,7 @@
             "team": "ath",
             "start": "7:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "57.9",
             "la": "-3",
             "dist": "23"
@@ -2104,7 +2119,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
