@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "16",
         "batters": "101",
-        "pitches": "734",
+        "pitches": "740",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "73.3",
-        "ff%fourseam fastball %": "37.5",
+        "ff%fourseam fastball %": "37.2",
         "si%sinker %": "15.1",
-        "fc%cutter %": "9.7",
+        "fc%cutter %": "9.9",
         "fs%splitter %": "0.4",
         "ch%changeup %": "7.2",
-        "sl%slider %": "15.7",
+        "sl%slider %": "15.9",
         "cu%curve %": "3.8",
         "max evmax exit velocity": "111.1",
-        "hhhard hit": "55",
-        "hh%hard hit %": "40.7",
+        "hhhard hit": "56",
+        "hh%hard hit %": "40.6",
         "brlbarrels": "11",
-        "brl%barrel %": "8.1",
-        "ab": "175",
-        "avg": ".240",
-        "h": "42",
-        "1b": "25",
+        "brl%barrel %": "8.0",
+        "ab": "176",
+        "avg": ".244",
+        "h": "43",
+        "1b": "26",
         "2b": "10",
         "3b": "1",
         "hr": "6",
         "so": "42",
-        "bipballs in play": "135",
+        "bipballs in play": "138",
         "liveGames": 6,
         "totGames": 8,
-        "updated": "2025-06-30 20:30:15.532350"
+        "updated": "2025-06-30 20:30:23.755753"
     },
     "sd @ phi": [
         {
@@ -813,6 +813,21 @@
         }
     ],
     "stl @ pit": [
+        {
+            "player": "bryan reynolds",
+            "game": "stl @ pit",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-06-30 20:30:23",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "6:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "84.3",
+            "la": "-12",
+            "dist": "10"
+        },
         {
             "player": "andrew mccutchen",
             "game": "stl @ pit",
@@ -1705,17 +1720,17 @@
         {
             "player": "matt mclain",
             "game": "cin @ bos",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "42",
             "dt": "2025-06-30 20:29:39",
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
             "team": "cin",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "95.0",
+            "la": "22",
+            "dist": "326"
         },
         {
             "player": "tj friedl",
@@ -1742,7 +1757,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "5",
-            "result": "Official Scorer Ruling Pending",
+            "result": "Field Error",
             "evo": "99.8",
             "la": "-33",
             "dist": "3"
@@ -2796,10 +2811,10 @@
             "team": "bal",
             "start": "8:05 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "91.7",
+            "la": "10",
+            "dist": "149"
         },
         {
             "player": "jonah heim",
