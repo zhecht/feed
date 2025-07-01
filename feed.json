@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "12",
         "batters": "84",
-        "pitches": "533",
+        "pitches": "534",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "44.9",
         "ff%fourseam fastball %": "38.6",
@@ -10,25 +10,25 @@
         "fc%cutter %": "8.4",
         "fs%splitter %": "0.2",
         "ch%changeup %": "5.8",
-        "sl%slider %": "15.2",
+        "sl%slider %": "15.4",
         "cu%curve %": "3.9",
         "max evmax exit velocity": "111.1",
         "hhhard hit": "38",
-        "hh%hard hit %": "40.0",
+        "hh%hard hit %": "39.6",
         "brlbarrels": "9",
-        "brl%barrel %": "9.5",
-        "ab": "124",
-        "avg": ".226",
-        "h": "28",
-        "1b": "16",
+        "brl%barrel %": "9.4",
+        "ab": "125",
+        "avg": ".232",
+        "h": "29",
+        "1b": "17",
         "2b": "7",
         "3b": "0",
         "hr": "5",
         "so": "29",
-        "bipballs in play": "95",
+        "bipballs in play": "96",
         "liveGames": 6,
         "totGames": 8,
-        "updated": "2025-06-30 20:12:19.728923"
+        "updated": "2025-06-30 20:12:27.627237"
     },
     "sd @ phi": [
         {
@@ -1298,6 +1298,21 @@
     ],
     "cin @ bos": [
         {
+            "player": "austin hays",
+            "game": "cin @ bos",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-06-30 20:12:23",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "elly de la cruz",
             "game": "cin @ bos",
             "hr/park": "",
@@ -1307,10 +1322,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "74.6",
+            "la": "-49",
+            "dist": "5"
         },
         {
             "player": "matt mclain",
