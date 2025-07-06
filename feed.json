@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "90",
         "batters": "241",
-        "pitches": "3136",
+        "pitches": "3142",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "69.9",
         "ff%fourseam fastball %": "34.2",
         "si%sinker %": "14.3",
         "fc%cutter %": "7.8",
         "fs%splitter %": "3.2",
-        "ch%changeup %": "10.8",
-        "sl%slider %": "21.6",
+        "ch%changeup %": "10.9",
+        "sl%slider %": "21.5",
         "cu%curve %": "8.1",
         "max evmax exit velocity": "118.0",
         "hhhard hit": "200",
-        "hh%hard hit %": "36.4",
+        "hh%hard hit %": "36.3",
         "brlbarrels": "34",
         "brl%barrel %": "6.2",
-        "ab": "733",
+        "ab": "734",
         "avg": ".228",
         "h": "167",
         "1b": "117",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "21",
         "so": "206",
-        "bipballs in play": "549",
+        "bipballs in play": "551",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-06 17:49:31.778342"
+        "updated": "2025-07-06 17:49:43.226661"
     },
     "bal @ atl": [
         {
@@ -9027,10 +9027,10 @@
             "team": "chw",
             "start": "LIVE",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "88.8",
+            "la": "22",
+            "dist": "306"
         },
         {
             "player": "ryan ritter",
@@ -10109,10 +10109,10 @@
             "team": "kc",
             "start": "LIVE",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "84.8",
+            "la": "-6",
+            "dist": "25"
         },
         {
             "player": "nick loftin",
@@ -11499,9 +11499,24 @@
     ],
     "pit @ sea": [
         {
-            "player": "jorge polanco",
+            "player": "randy arozarena",
             "game": "pit @ sea",
             "hr/park": "",
+            "pa": "45",
+            "dt": "2025-07-06 17:49:41",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "LIVE",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jorge polanco",
+            "game": "pit @ sea",
+            "hr/park": "0/30",
             "pa": "44",
             "dt": "2025-07-06 17:48:41",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
