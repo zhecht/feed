@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "94",
         "batters": "242",
-        "pitches": "3293",
+        "pitches": "3295",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "69.9",
-        "ff%fourseam fastball %": "34.5",
+        "ff%fourseam fastball %": "34.4",
         "si%sinker %": "14.0",
-        "fc%cutter %": "7.7",
+        "fc%cutter %": "7.6",
         "fs%splitter %": "3.1",
-        "ch%changeup %": "11.1",
-        "sl%slider %": "21.8",
+        "ch%changeup %": "11.0",
+        "sl%slider %": "21.9",
         "cu%curve %": "7.9",
         "max evmax exit velocity": "118.0",
         "hhhard hit": "211",
-        "hh%hard hit %": "36.3",
+        "hh%hard hit %": "36.2",
         "brlbarrels": "37",
-        "brl%barrel %": "6.4",
-        "ab": "771",
+        "brl%barrel %": "6.3",
+        "ab": "772",
         "avg": ".228",
         "h": "176",
         "1b": "121",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "24",
         "so": "214",
-        "bipballs in play": "582",
+        "bipballs in play": "583",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-06 18:17:20.697890"
+        "updated": "2025-07-06 18:17:32.321092"
     },
     "bal @ atl": [
         {
@@ -10147,17 +10147,17 @@
         {
             "player": "jose herrera",
             "game": "kc @ ari",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "60",
             "dt": "2025-07-06 18:16:09",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "start": "LIVE",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "89.5",
+            "la": "37",
+            "dist": "329"
         },
         {
             "player": "alek thomas",
@@ -11047,6 +11047,21 @@
     ],
     "hou @ lad": [
         {
+            "player": "zack short",
+            "game": "hou @ lad",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-07-06 18:17:26",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "LIVE",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mauricio dubon",
             "game": "hou @ lad",
             "hr/park": "",
@@ -11056,7 +11071,7 @@
             "team": "hou",
             "start": "LIVE",
             "in": "8",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "64.9",
             "la": "38",
             "dist": "191"
