@@ -2,13 +2,13 @@
     "all": {
         "pitchers": "87",
         "batters": "239",
-        "pitches": "3079",
+        "pitches": "3082",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "69.9",
         "ff%fourseam fastball %": "34.1",
         "si%sinker %": "14.2",
         "fc%cutter %": "7.9",
-        "fs%splitter %": "3.2",
+        "fs%splitter %": "3.1",
         "ch%changeup %": "10.9",
         "sl%slider %": "21.6",
         "cu%curve %": "8.1",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "36.3",
         "brlbarrels": "34",
         "brl%barrel %": "6.3",
-        "ab": "720",
+        "ab": "721",
         "avg": ".229",
         "h": "165",
         "1b": "115",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "21",
         "so": "201",
-        "bipballs in play": "542",
+        "bipballs in play": "543",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-06 17:41:31.081761"
+        "updated": "2025-07-06 17:41:43.078650"
     },
     "bal @ atl": [
         {
@@ -9027,7 +9027,7 @@
             "team": "col",
             "start": "LIVE",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10054,6 +10054,21 @@
         }
     ],
     "kc @ ari": [
+        {
+            "player": "jose herrera",
+            "game": "kc @ ari",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-07-06 17:41:41",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "LIVE",
+            "in": "6",
+            "result": "Lineout",
+            "evo": "78.8",
+            "la": "9",
+            "dist": "136"
+        },
         {
             "player": "jac caglianone",
             "game": "kc @ ari",
