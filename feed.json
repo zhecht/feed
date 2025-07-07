@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "112",
-        "batters": "281",
-        "pitches": "3815",
+        "pitchers": "113",
+        "batters": "282",
+        "pitches": "3820",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "69.9",
         "ff%fourseam fastball %": "34.0",
         "si%sinker %": "14.7",
-        "fc%cutter %": "7.2",
+        "fc%cutter %": "7.1",
         "fs%splitter %": "2.7",
         "ch%changeup %": "11.2",
         "sl%slider %": "22.5",
-        "cu%curve %": "7.8",
+        "cu%curve %": "7.7",
         "max evmax exit velocity": "118.0",
         "hhhard hit": "240",
         "hh%hard hit %": "36.0",
         "brlbarrels": "42",
         "brl%barrel %": "6.3",
-        "ab": "883",
+        "ab": "885",
         "avg": ".232",
         "h": "205",
         "1b": "142",
@@ -28,7 +28,7 @@
         "bipballs in play": "667",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-06 22:07:06.657486"
+        "updated": "2025-07-06 22:07:19.170697"
     },
     "bal @ atl": [
         {
@@ -13280,7 +13280,7 @@
             "team": "stl",
             "start": "6:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "104.8",
             "la": "-28",
             "dist": "5"
@@ -14308,6 +14308,21 @@
     ],
     "tex @ sd": [
         {
+            "player": "adolis garcia",
+            "game": "tex @ sd",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-07-06 22:07:10",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "9:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "marcus semien",
             "game": "tex @ sd",
             "hr/park": "",
@@ -14623,5 +14638,21 @@
             "dist": "237"
         }
     ],
-    "sf @ ath": []
+    "sf @ ath": [
+        {
+            "player": "heliot ramos",
+            "game": "sf @ ath",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-07-06 22:07:10",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "10:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ]
 }
