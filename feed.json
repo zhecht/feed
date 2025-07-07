@@ -1,23 +1,23 @@
 {
     "all": {
         "pitchers": "115",
-        "batters": "291",
-        "pitches": "3894",
+        "batters": "292",
+        "pitches": "3896",
         "max velomax pitch velocity": "101.1",
         "min velomin pitch velocity": "69.9",
         "ff%fourseam fastball %": "33.9",
         "si%sinker %": "14.5",
         "fc%cutter %": "7.2",
         "fs%splitter %": "2.6",
-        "ch%changeup %": "11.4",
+        "ch%changeup %": "11.3",
         "sl%slider %": "22.7",
         "cu%curve %": "7.7",
         "max evmax exit velocity": "118.0",
-        "hhhard hit": "244",
-        "hh%hard hit %": "35.9",
+        "hhhard hit": "245",
+        "hh%hard hit %": "36.0",
         "brlbarrels": "42",
         "brl%barrel %": "6.2",
-        "ab": "901",
+        "ab": "902",
         "avg": ".232",
         "h": "209",
         "1b": "145",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "26",
         "so": "250",
-        "bipballs in play": "679",
+        "bipballs in play": "680",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-06 22:21:02.132643"
+        "updated": "2025-07-06 22:21:14.450911"
     },
     "bal @ atl": [
         {
@@ -13280,10 +13280,10 @@
             "team": "stl",
             "start": "6:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "98.6",
+            "la": "49",
+            "dist": "225"
         },
         {
             "player": "yohel pozo",
@@ -14820,16 +14820,31 @@
     ],
     "sf @ ath": [
         {
-            "player": "lawrence butler",
+            "player": "jacob wilson",
             "game": "sf @ ath",
             "hr/park": "",
+            "pa": "9",
+            "dt": "2025-07-06 22:21:09",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "lawrence butler",
+            "game": "sf @ ath",
+            "hr/park": "0/30",
             "pa": "8",
             "dt": "2025-07-06 22:20:40",
             "img": "https://www.mlbstatic.com/team-logos/133.svg",
             "team": "ath",
             "start": "10:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "100.1",
             "la": "16",
             "dist": "357"
