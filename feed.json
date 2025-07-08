@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "58",
         "batters": "192",
-        "pitches": "2248",
+        "pitches": "2250",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "61.4",
-        "ff%fourseam fastball %": "33.1",
+        "ff%fourseam fastball %": "33.2",
         "si%sinker %": "14.1",
         "fc%cutter %": "5.8",
         "fs%splitter %": "1.9",
         "ch%changeup %": "9.6",
         "sl%slider %": "23.1",
-        "cu%curve %": "12.1",
+        "cu%curve %": "12.0",
         "max evmax exit velocity": "113.2",
         "hhhard hit": "176",
-        "hh%hard hit %": "40.9",
+        "hh%hard hit %": "40.8",
         "brlbarrels": "31",
         "brl%barrel %": "7.2",
         "ab": "525",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "23",
         "so": "111",
-        "bipballs in play": "430",
+        "bipballs in play": "431",
         "liveGames": 10,
         "totGames": 10,
-        "updated": "2025-07-07 22:38:00.462184"
+        "updated": "2025-07-07 22:38:10.970376"
     },
     "tb @ det": [
         {
@@ -6564,9 +6564,9 @@
             "start": "8:10 PM",
             "in": "9",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "91.0",
+            "la": "54",
+            "dist": "234"
         },
         {
             "player": "yainer diaz",
@@ -7561,6 +7561,21 @@
     ],
     "tex @ laa": [
         {
+            "player": "mike trout",
+            "game": "tex @ laa",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-07-07 22:38:09",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nolan schanuel",
             "game": "tex @ laa",
             "hr/park": "",
@@ -7570,7 +7585,7 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "59.8",
             "la": "-7",
             "dist": "16"
@@ -8369,7 +8384,7 @@
             "team": "phi",
             "start": "9:45 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
