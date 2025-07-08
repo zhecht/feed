@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "16",
-        "batters": "93",
-        "pitches": "533",
+        "batters": "94",
+        "pitches": "538",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "73.0",
-        "ff%fourseam fastball %": "36.4",
-        "si%sinker %": "8.3",
+        "ff%fourseam fastball %": "36.2",
+        "si%sinker %": "8.2",
         "fc%cutter %": "8.4",
         "fs%splitter %": "1.1",
-        "ch%changeup %": "11.1",
-        "sl%slider %": "18.2",
-        "cu%curve %": "15.9",
+        "ch%changeup %": "11.2",
+        "sl%slider %": "18.4",
+        "cu%curve %": "16.0",
         "max evmax exit velocity": "108.9",
         "hhhard hit": "43",
         "hh%hard hit %": "43.9",
         "brlbarrels": "4",
         "brl%barrel %": "4.1",
-        "ab": "131",
-        "avg": ".221",
+        "ab": "132",
+        "avg": ".220",
         "h": "29",
         "1b": "16",
         "2b": "10",
@@ -28,7 +28,7 @@
         "bipballs in play": "98",
         "liveGames": 7,
         "totGames": 10,
-        "updated": "2025-07-07 20:19:30.523127"
+        "updated": "2025-07-07 20:19:38.636194"
     },
     "tb @ det": [
         {
@@ -41,7 +41,7 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1328,6 +1328,21 @@
     ],
     "pit @ kc": [
         {
+            "player": "isiah kiner falefa",
+            "game": "pit @ kc",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-07-07 20:19:38",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jared triolo",
             "game": "pit @ kc",
             "hr/park": "",
@@ -1337,7 +1352,7 @@
             "team": "pit",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "61.5",
             "la": "15",
             "dist": "116"
