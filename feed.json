@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "72",
-        "batters": "197",
-        "pitches": "2719",
+        "batters": "198",
+        "pitches": "2720",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "61.4",
-        "ff%fourseam fastball %": "31.8",
-        "si%sinker %": "15.3",
+        "ff%fourseam fastball %": "31.7",
+        "si%sinker %": "15.4",
         "fc%cutter %": "5.6",
         "fs%splitter %": "2.2",
         "ch%changeup %": "10.2",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "41.8",
         "brlbarrels": "35",
         "brl%barrel %": "6.9",
-        "ab": "630",
-        "avg": ".240",
+        "ab": "631",
+        "avg": ".239",
         "h": "151",
         "1b": "90",
         "2b": "34",
         "3b": "2",
         "hr": "25",
-        "so": "142",
-        "bipballs in play": "509",
+        "so": "141",
+        "bipballs in play": "510",
         "liveGames": 10,
         "totGames": 10,
-        "updated": "2025-07-07 23:56:50.673478"
+        "updated": "2025-07-07 23:57:01.329040"
     },
     "tb @ det": [
         {
@@ -7750,7 +7750,7 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "7",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8658,6 +8658,21 @@
     ],
     "ari @ sd": [
         {
+            "player": "jose iglesias",
+            "game": "ari @ sd",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-07-07 23:56:54",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jake cronenworth",
             "game": "ari @ sd",
             "hr/park": "",
@@ -8667,10 +8682,10 @@
             "team": "sd",
             "start": "9:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Field Error",
+            "evo": "85.9",
+            "la": "-10",
+            "dist": "13"
         },
         {
             "player": "randal grichuk",
