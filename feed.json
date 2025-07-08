@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "16",
         "batters": "97",
-        "pitches": "594",
+        "pitches": "597",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "73.0",
-        "ff%fourseam fastball %": "36.7",
-        "si%sinker %": "9.1",
-        "fc%cutter %": "8.8",
+        "ff%fourseam fastball %": "36.3",
+        "si%sinker %": "9.4",
+        "fc%cutter %": "8.7",
         "fs%splitter %": "1.0",
         "ch%changeup %": "10.4",
-        "sl%slider %": "18.9",
+        "sl%slider %": "19.1",
         "cu%curve %": "14.6",
         "max evmax exit velocity": "108.9",
         "hhhard hit": "50",
         "hh%hard hit %": "45.0",
         "brlbarrels": "6",
         "brl%barrel %": "5.4",
-        "ab": "145",
-        "avg": ".221",
+        "ab": "146",
+        "avg": ".219",
         "h": "32",
         "1b": "16",
         "2b": "10",
@@ -28,7 +28,7 @@
         "bipballs in play": "111",
         "liveGames": 7,
         "totGames": 10,
-        "updated": "2025-07-07 20:23:50.917542"
+        "updated": "2025-07-07 20:23:59.078659"
     },
     "tb @ det": [
         {
@@ -868,7 +868,7 @@
             "team": "col",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "75.5",
             "la": "-8",
             "dist": "19"
@@ -1412,7 +1412,7 @@
             "team": "pit",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "101.0",
             "la": "15",
             "dist": "308"
@@ -1704,6 +1704,21 @@
         }
     ],
     "tor @ chw": [
+        {
+            "player": "chase meidroth",
+            "game": "tor @ chw",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-07-07 20:23:53",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "mike tauchman",
             "game": "tor @ chw",
