@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "36",
         "batters": "133",
-        "pitches": "1546",
+        "pitches": "1550",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "61.4",
-        "ff%fourseam fastball %": "33.3",
-        "si%sinker %": "13.3",
+        "ff%fourseam fastball %": "33.4",
+        "si%sinker %": "13.2",
         "fc%cutter %": "7.0",
         "fs%splitter %": "0.9",
-        "ch%changeup %": "10.0",
+        "ch%changeup %": "9.9",
         "sl%slider %": "23.5",
         "cu%curve %": "11.6",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "127",
-        "hh%hard hit %": "43.6",
+        "hhhard hit": "128",
+        "hh%hard hit %": "43.7",
         "brlbarrels": "18",
-        "brl%barrel %": "6.2",
+        "brl%barrel %": "6.1",
         "ab": "359",
         "avg": ".245",
         "h": "88",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "15",
         "so": "74",
-        "bipballs in play": "291",
+        "bipballs in play": "293",
         "liveGames": 9,
         "totGames": 10,
-        "updated": "2025-07-07 21:44:36.917868"
+        "updated": "2025-07-07 21:44:45.913452"
     },
     "tb @ det": [
         {
@@ -2001,6 +2001,21 @@
     ],
     "mia @ cin": [
         {
+            "player": "will benson",
+            "game": "mia @ cin",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-07-07 21:44:39",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "GIDP",
+            "evo": "101.7",
+            "la": "-6",
+            "dist": "23"
+        },
+        {
             "player": "tyler stephenson",
             "game": "mia @ cin",
             "hr/park": "0/30",
@@ -3459,21 +3474,6 @@
         }
     ],
     "tor @ chw": [
-        {
-            "player": "nathan lukes",
-            "game": "tor @ chw",
-            "hr/park": "",
-            "pa": "66",
-            "dt": "2025-07-07 21:44:23",
-            "img": "https://www.mlbstatic.com/team-logos/141.svg",
-            "team": "tor",
-            "start": "7:40 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "joey loperfido",
             "game": "tor @ chw",
@@ -5303,10 +5303,10 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "64.2",
+            "la": "-35",
+            "dist": "6"
         },
         {
             "player": "isaac paredes",
