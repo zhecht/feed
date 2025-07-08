@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "16",
-        "batters": "103",
-        "pitches": "476",
+        "pitchers": "17",
+        "batters": "104",
+        "pitches": "484",
         "max velomax pitch velocity": "101.4",
-        "min velomin pitch velocity": "75.6",
-        "ff%fourseam fastball %": "36.1",
+        "min velomin pitch velocity": "72.5",
+        "ff%fourseam fastball %": "36.0",
         "si%sinker %": "9.5",
-        "fc%cutter %": "7.6",
-        "fs%splitter %": "2.7",
-        "ch%changeup %": "9.7",
-        "sl%slider %": "19.7",
+        "fc%cutter %": "7.9",
+        "fs%splitter %": "2.9",
+        "ch%changeup %": "9.5",
+        "sl%slider %": "19.6",
         "cu%curve %": "14.7",
         "max evmax exit velocity": "110.1",
         "hhhard hit": "36",
-        "hh%hard hit %": "48.6",
+        "hh%hard hit %": "48.0",
         "brlbarrels": "7",
-        "brl%barrel %": "9.5",
-        "ab": "120",
-        "avg": ".142",
-        "h": "17",
-        "1b": "10",
+        "brl%barrel %": "9.3",
+        "ab": "121",
+        "avg": ".149",
+        "h": "18",
+        "1b": "11",
         "2b": "3",
         "3b": "0",
         "hr": "4",
-        "so": "41",
-        "bipballs in play": "74",
+        "so": "40",
+        "bipballs in play": "75",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-07-08 19:50:41.998036"
+        "updated": "2025-07-08 19:50:49.973885"
     },
     "nym @ bal": [
         {
@@ -283,7 +283,7 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "5",
-            "result": "Mound Visit",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -846,21 +846,6 @@
     ],
     "sea @ nyy": [
         {
-            "player": "austin wells",
-            "game": "sea @ nyy",
-            "hr/park": "",
-            "pa": "18",
-            "dt": "2025-07-08 19:49:59",
-            "img": "https://www.mlbstatic.com/team-logos/147.svg",
-            "team": "nyy",
-            "start": "7:05 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "julio rodriguez",
             "game": "sea @ nyy",
             "hr/park": "",
@@ -1127,7 +1112,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "3",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1647,6 +1632,21 @@
     ],
     "pit @ kc": [
         {
+            "player": "vinnie pasquantino",
+            "game": "pit @ kc",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-07-08 19:49:59",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bobby witt",
             "game": "pit @ kc",
             "hr/park": "",
@@ -1656,7 +1656,7 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "90.3",
             "la": "-13",
             "dist": "9"
@@ -1739,6 +1739,21 @@
     ],
     "chc @ min": [
         {
+            "player": "byron buxton",
+            "game": "chc @ min",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-07-08 19:50:44",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "1",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "pete crow armstrong",
             "game": "chc @ min",
             "hr/park": "",
@@ -1810,10 +1825,10 @@
             "team": "tor",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "78.1",
+            "la": "-22",
+            "dist": "7"
         },
         {
             "player": "bo bichette",
