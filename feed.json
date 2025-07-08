@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "26",
         "batters": "128",
-        "pitches": "1248",
+        "pitches": "1251",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "61.4",
         "ff%fourseam fastball %": "35.8",
@@ -10,11 +10,11 @@
         "fc%cutter %": "6.9",
         "fs%splitter %": "0.5",
         "ch%changeup %": "10.1",
-        "sl%slider %": "22.1",
+        "sl%slider %": "22.2",
         "cu%curve %": "12.4",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "106",
-        "hh%hard hit %": "45.5",
+        "hhhard hit": "107",
+        "hh%hard hit %": "45.9",
         "brlbarrels": "15",
         "brl%barrel %": "6.4",
         "ab": "289",
@@ -24,11 +24,11 @@
         "2b": "17",
         "3b": "1",
         "hr": "12",
-        "so": "63",
+        "so": "64",
         "bipballs in play": "233",
         "liveGames": 7,
         "totGames": 10,
-        "updated": "2025-07-07 21:17:59.822364"
+        "updated": "2025-07-07 21:18:08.789205"
     },
     "tb @ det": [
         {
@@ -1860,7 +1860,7 @@
             "team": "mia",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2273,6 +2273,21 @@
     ],
     "pit @ kc": [
         {
+            "player": "bryan reynolds",
+            "game": "pit @ kc",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-07-07 21:18:08",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andrew mccutchen",
             "game": "pit @ kc",
             "hr/park": "",
@@ -2282,10 +2297,10 @@
             "team": "pit",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "103.3",
+            "la": "-5",
+            "dist": "20"
         },
         {
             "player": "tommy pham",
@@ -4393,21 +4408,6 @@
         }
     ],
     "cle @ hou": [
-        {
-            "player": "steven kwan",
-            "game": "cle @ hou",
-            "hr/park": "",
-            "pa": "32",
-            "dt": "2025-07-07 21:17:39",
-            "img": "https://www.mlbstatic.com/team-logos/114.svg",
-            "team": "cle",
-            "start": "8:10 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "70.5",
-            "la": "8",
-            "dist": "93"
-        },
         {
             "player": "brayan rocchio",
             "game": "cle @ hou",
