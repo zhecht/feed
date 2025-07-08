@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "22",
         "batters": "125",
-        "pitches": "994",
+        "pitches": "1002",
         "max velomax pitch velocity": "98.7",
         "min velomin pitch velocity": "61.4",
-        "ff%fourseam fastball %": "37.2",
+        "ff%fourseam fastball %": "36.9",
         "si%sinker %": "10.9",
-        "fc%cutter %": "7.3",
+        "fc%cutter %": "7.5",
         "fs%splitter %": "0.6",
         "ch%changeup %": "9.8",
-        "sl%slider %": "20.7",
-        "cu%curve %": "12.7",
+        "sl%slider %": "21.0",
+        "cu%curve %": "12.6",
         "max evmax exit velocity": "108.9",
         "hhhard hit": "83",
-        "hh%hard hit %": "46.6",
+        "hh%hard hit %": "46.4",
         "brlbarrels": "12",
         "brl%barrel %": "6.7",
-        "ab": "230",
-        "avg": ".204",
-        "h": "47",
+        "ab": "232",
+        "avg": ".207",
+        "h": "48",
         "1b": "24",
-        "2b": "13",
+        "2b": "14",
         "3b": "1",
         "hr": "9",
         "so": "53",
-        "bipballs in play": "178",
+        "bipballs in play": "179",
         "liveGames": 7,
         "totGames": 10,
-        "updated": "2025-07-07 20:54:18.108516"
+        "updated": "2025-07-07 20:54:26.785886"
     },
     "tb @ det": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "6:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1063,7 +1063,7 @@
             "team": "col",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "103.8",
             "la": "5",
             "dist": "102"
@@ -1731,6 +1731,21 @@
     ],
     "mia @ cin": [
         {
+            "player": "xavier edwards",
+            "game": "mia @ cin",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-07-07 20:54:24",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "javier sanoja",
             "game": "mia @ cin",
             "hr/park": "",
@@ -1740,10 +1755,10 @@
             "team": "mia",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "64.9",
+            "la": "88",
+            "dist": "25"
         },
         {
             "player": "will benson",
@@ -3086,6 +3101,21 @@
         }
     ],
     "lad @ mil": [
+        {
+            "player": "sal frelick",
+            "game": "lad @ mil",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-07-07 20:53:39",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "andruw monasterio",
             "game": "lad @ mil",
