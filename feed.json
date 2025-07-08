@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "58",
         "batters": "193",
-        "pitches": "2298",
+        "pitches": "2304",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "61.4",
         "ff%fourseam fastball %": "32.9",
@@ -10,17 +10,17 @@
         "fc%cutter %": "5.7",
         "fs%splitter %": "1.9",
         "ch%changeup %": "9.6",
-        "sl%slider %": "23.5",
-        "cu%curve %": "12.1",
+        "sl%slider %": "23.4",
+        "cu%curve %": "12.0",
         "max evmax exit velocity": "113.2",
         "hhhard hit": "178",
         "hh%hard hit %": "40.7",
         "brlbarrels": "31",
         "brl%barrel %": "7.1",
-        "ab": "533",
-        "avg": ".242",
-        "h": "129",
-        "1b": "73",
+        "ab": "536",
+        "avg": ".243",
+        "h": "130",
+        "1b": "74",
         "2b": "30",
         "3b": "2",
         "hr": "24",
@@ -28,7 +28,7 @@
         "bipballs in play": "437",
         "liveGames": 10,
         "totGames": 10,
-        "updated": "2025-07-07 22:43:14.891877"
+        "updated": "2025-07-07 22:43:25.349679"
     },
     "tb @ det": [
         {
@@ -2195,6 +2195,21 @@
         }
     ],
     "mia @ cin": [
+        {
+            "player": "tj friedl",
+            "game": "mia @ cin",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-07-07 22:43:23",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "noelvi marte",
             "game": "mia @ cin",
@@ -6584,9 +6599,24 @@
     ],
     "cle @ hou": [
         {
-            "player": "david fry",
+            "player": "jose ramirez",
             "game": "cle @ hou",
             "hr/park": "",
+            "pa": "70",
+            "dt": "2025-07-07 22:43:23",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "8:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "david fry",
+            "game": "cle @ hou",
+            "hr/park": "1/30",
             "pa": "69",
             "dt": "2025-07-07 22:41:09",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
@@ -7631,9 +7661,9 @@
             "start": "9:38 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "73.2",
-            "la": "-56",
-            "dist": "3"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "mike trout",
@@ -8057,6 +8087,21 @@
         }
     ],
     "ari @ sd": [
+        {
+            "player": "blaze alexander",
+            "game": "ari @ sd",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-07-07 22:43:23",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "9:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "alek thomas",
             "game": "ari @ sd",
@@ -8489,10 +8534,10 @@
             "team": "phi",
             "start": "9:45 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "89.4",
+            "la": "-9",
+            "dist": "18"
         },
         {
             "player": "nick castellanos",
