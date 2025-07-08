@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "36",
-        "batters": "132",
-        "pitches": "1539",
+        "batters": "133",
+        "pitches": "1542",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "61.4",
         "ff%fourseam fastball %": "33.3",
-        "si%sinker %": "13.3",
+        "si%sinker %": "13.2",
         "fc%cutter %": "7.0",
         "fs%splitter %": "0.9",
         "ch%changeup %": "10.0",
         "sl%slider %": "23.5",
-        "cu%curve %": "11.6",
+        "cu%curve %": "11.5",
         "max evmax exit velocity": "113.2",
         "hhhard hit": "127",
-        "hh%hard hit %": "43.9",
+        "hh%hard hit %": "43.6",
         "brlbarrels": "18",
         "brl%barrel %": "6.2",
-        "ab": "356",
-        "avg": ".244",
-        "h": "87",
-        "1b": "50",
+        "ab": "357",
+        "avg": ".246",
+        "h": "88",
+        "1b": "51",
         "2b": "20",
         "3b": "2",
         "hr": "15",
         "so": "73",
-        "bipballs in play": "289",
+        "bipballs in play": "291",
         "liveGames": 9,
         "totGames": 10,
-        "updated": "2025-07-07 21:44:00.461324"
+        "updated": "2025-07-07 21:44:09.675458"
     },
     "tb @ det": [
         {
@@ -2003,17 +2003,17 @@
         {
             "player": "tyler stephenson",
             "game": "mia @ cin",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "39",
             "dt": "2025-07-07 21:42:38",
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
             "team": "cin",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "91.0",
+            "la": "42",
+            "dist": "323"
         },
         {
             "player": "spencer steer",
@@ -5274,9 +5274,9 @@
             "start": "8:10 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "64.2",
+            "la": "-35",
+            "dist": "6"
         },
         {
             "player": "isaac paredes",
@@ -5896,6 +5896,21 @@
     ],
     "tex @ laa": [
         {
+            "player": "corey seager",
+            "game": "tex @ laa",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-07-07 21:44:08",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "sam haggerty",
             "game": "tex @ laa",
             "hr/park": "",
@@ -5905,7 +5920,7 @@
             "team": "tex",
             "start": "9:38 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "100.2",
             "la": "-14",
             "dist": "13"
