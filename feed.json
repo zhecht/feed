@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "17",
-        "batters": "111",
-        "pitches": "524",
+        "batters": "110",
+        "pitches": "530",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "72.5",
-        "ff%fourseam fastball %": "36.6",
-        "si%sinker %": "9.0",
-        "fc%cutter %": "7.8",
+        "ff%fourseam fastball %": "36.4",
+        "si%sinker %": "9.1",
+        "fc%cutter %": "7.7",
         "fs%splitter %": "4.0",
-        "ch%changeup %": "9.4",
-        "sl%slider %": "19.3",
-        "cu%curve %": "13.9",
+        "ch%changeup %": "9.8",
+        "sl%slider %": "19.1",
+        "cu%curve %": "14.0",
         "max evmax exit velocity": "110.1",
-        "hhhard hit": "38",
-        "hh%hard hit %": "45.8",
+        "hhhard hit": "39",
+        "hh%hard hit %": "45.9",
         "brlbarrels": "7",
-        "brl%barrel %": "8.4",
-        "ab": "129",
-        "avg": ".163",
-        "h": "21",
+        "brl%barrel %": "8.2",
+        "ab": "130",
+        "avg": ".169",
+        "h": "22",
         "1b": "12",
-        "2b": "5",
+        "2b": "6",
         "3b": "0",
         "hr": "4",
-        "so": "41",
-        "bipballs in play": "83",
+        "so": "42",
+        "bipballs in play": "85",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-07-08 19:53:55.516063"
+        "updated": "2025-07-08 19:54:03.484052"
     },
     "nym @ bal": [
         {
@@ -41,7 +41,7 @@
             "team": "bal",
             "start": "6:35 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -288,6 +288,21 @@
         }
     ],
     "tb @ det": [
+        {
+            "player": "javier baez",
+            "game": "tb @ det",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-07-08 19:53:13",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "6:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "matt vierling",
             "game": "tb @ det",
@@ -1163,6 +1178,21 @@
     ],
     "col @ bos": [
         {
+            "player": "tyler freeman",
+            "game": "col @ bos",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-07-08 19:53:58",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nate eaton",
             "game": "col @ bos",
             "hr/park": "",
@@ -1722,21 +1752,6 @@
     ],
     "pit @ kc": [
         {
-            "player": "maikel garcia",
-            "game": "pit @ kc",
-            "hr/park": "",
-            "pa": "8",
-            "dt": "2025-07-08 19:53:28",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "start": "7:40 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "vinnie pasquantino",
             "game": "pit @ kc",
             "hr/park": "",
@@ -1746,10 +1761,10 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "1",
-            "result": "Single",
-            "evo": "70.3",
-            "la": "24",
-            "dist": "216"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "bobby witt",
@@ -1853,10 +1868,10 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "110.0",
+            "la": "7",
+            "dist": "153"
         },
         {
             "player": "byron buxton",
@@ -2022,10 +2037,10 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "60.3",
+            "la": "-56",
+            "dist": "3"
         },
         {
             "player": "sal frelick",
