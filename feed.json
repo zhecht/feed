@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "61",
         "batters": "193",
-        "pitches": "2368",
+        "pitches": "2371",
         "max velomax pitch velocity": "100.0",
         "min velomin pitch velocity": "61.4",
-        "ff%fourseam fastball %": "32.5",
-        "si%sinker %": "13.9",
+        "ff%fourseam fastball %": "32.4",
+        "si%sinker %": "13.8",
         "fc%cutter %": "6.0",
         "fs%splitter %": "2.0",
         "ch%changeup %": "9.7",
@@ -14,21 +14,21 @@
         "cu%curve %": "11.9",
         "max evmax exit velocity": "113.2",
         "hhhard hit": "181",
-        "hh%hard hit %": "40.3",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "31",
         "brl%barrel %": "6.9",
-        "ab": "550",
-        "avg": ".242",
+        "ab": "551",
+        "avg": ".241",
         "h": "133",
         "1b": "77",
         "2b": "30",
         "3b": "2",
         "hr": "24",
         "so": "118",
-        "bipballs in play": "449",
+        "bipballs in play": "450",
         "liveGames": 10,
         "totGames": 10,
-        "updated": "2025-07-07 22:52:16.287668"
+        "updated": "2025-07-07 22:52:26.359324"
     },
     "tb @ det": [
         {
@@ -6653,10 +6653,10 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "93.3",
+            "la": "-21",
+            "dist": "5"
         },
         {
             "player": "victor caratini",
@@ -7726,6 +7726,21 @@
     ],
     "tex @ laa": [
         {
+            "player": "ezequiel duran",
+            "game": "tex @ laa",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-07-07 22:52:24",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "9:38 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jorge soler",
             "game": "tex @ laa",
             "hr/park": "",
@@ -8684,7 +8699,7 @@
             "team": "sf",
             "start": "9:45 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "75.7",
             "la": "-16",
             "dist": "11"
