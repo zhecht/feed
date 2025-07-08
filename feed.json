@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "78",
+        "pitchers": "79",
         "batters": "199",
-        "pitches": "2817",
+        "pitches": "2819",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "61.4",
         "ff%fourseam fastball %": "31.0",
@@ -10,25 +10,25 @@
         "fc%cutter %": "5.9",
         "fs%splitter %": "2.2",
         "ch%changeup %": "10.1",
-        "sl%slider %": "23.5",
-        "cu%curve %": "11.3",
+        "sl%slider %": "23.6",
+        "cu%curve %": "11.2",
         "max evmax exit velocity": "113.2",
-        "hhhard hit": "221",
-        "hh%hard hit %": "41.6",
-        "brlbarrels": "35",
-        "brl%barrel %": "6.6",
-        "ab": "650",
-        "avg": ".238",
-        "h": "155",
+        "hhhard hit": "222",
+        "hh%hard hit %": "41.7",
+        "brlbarrels": "36",
+        "brl%barrel %": "6.8",
+        "ab": "652",
+        "avg": ".239",
+        "h": "156",
         "1b": "92",
         "2b": "35",
         "3b": "3",
-        "hr": "25",
+        "hr": "26",
         "so": "144",
-        "bipballs in play": "531",
+        "bipballs in play": "532",
         "liveGames": 0,
         "totGames": 10,
-        "updated": "2025-07-08 00:17:31.983834"
+        "updated": "2025-07-08 00:17:42.702637"
     },
     "tb @ det": [
         {
@@ -7741,6 +7741,21 @@
     ],
     "tex @ laa": [
         {
+            "player": "sam haggerty",
+            "game": "tex @ laa",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-07-08 00:17:39",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jorge soler",
             "game": "tex @ laa",
             "hr/park": "",
@@ -8778,6 +8793,21 @@
     ],
     "ari @ sd": [
         {
+            "player": "manny machado",
+            "game": "ari @ sd",
+            "hr/park": "27/30",
+            "pa": "69",
+            "dt": "2025-07-08 00:17:39",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "",
+            "in": "8",
+            "result": "Home Run",
+            "evo": "103.7",
+            "la": "37",
+            "dist": "371"
+        },
+        {
             "player": "lourdes gurriel",
             "game": "ari @ sd",
             "hr/park": "",
@@ -9809,7 +9839,7 @@
             "team": "phi",
             "start": "",
             "in": "9",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "89.5",
             "la": "-18",
             "dist": "7"
