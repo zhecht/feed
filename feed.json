@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "23",
         "batters": "175",
-        "pitches": "1274",
+        "pitches": "1282",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "68.8",
         "ff%fourseam fastball %": "33.4",
@@ -10,25 +10,25 @@
         "fc%cutter %": "8.2",
         "fs%splitter %": "5.3",
         "ch%changeup %": "9.3",
-        "sl%slider %": "19.9",
-        "cu%curve %": "13.6",
+        "sl%slider %": "19.8",
+        "cu%curve %": "13.7",
         "max evmax exit velocity": "115.6",
         "hhhard hit": "101",
-        "hh%hard hit %": "43.0",
+        "hh%hard hit %": "43.2",
         "brlbarrels": "22",
         "brl%barrel %": "9.4",
-        "ab": "317",
-        "avg": ".202",
+        "ab": "316",
+        "avg": ".203",
         "h": "64",
         "1b": "39",
         "2b": "15",
         "3b": "0",
         "hr": "10",
         "so": "83",
-        "bipballs in play": "235",
+        "bipballs in play": "234",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-08 20:39:37.518051"
+        "updated": "2025-07-08 20:39:46.379659"
     },
     "nym @ bal": [
         {
@@ -41,7 +41,7 @@
             "team": "nym",
             "start": "6:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2590,6 +2590,21 @@
     ],
     "mia @ cin": [
         {
+            "player": "kyle stowers",
+            "game": "mia @ cin",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-07-08 20:39:43",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose trevino",
             "game": "mia @ cin",
             "hr/park": "",
@@ -3177,21 +3192,6 @@
     ],
     "pit @ kc": [
         {
-            "player": "jack suwinski",
-            "game": "pit @ kc",
-            "hr/park": "",
-            "pa": "31",
-            "dt": "2025-07-08 20:38:59",
-            "img": "https://www.mlbstatic.com/team-logos/134.svg",
-            "team": "pit",
-            "start": "7:40 PM",
-            "in": "5",
-            "result": "Groundout",
-            "evo": "48.3",
-            "la": "-63",
-            "dist": "3"
-        },
-        {
             "player": "jac caglianone",
             "game": "pit @ kc",
             "hr/park": "",
@@ -3653,7 +3653,7 @@
             "team": "chc",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4135,7 +4135,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
