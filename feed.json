@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "48",
-        "batters": "155",
-        "pitches": "1455",
+        "batters": "154",
+        "pitches": "1460",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "53.3",
         "ff%fourseam fastball %": "30.8",
@@ -11,12 +11,12 @@
         "fs%splitter %": "2.6",
         "ch%changeup %": "10.9",
         "sl%slider %": "25.3",
-        "cu%curve %": "9.3",
+        "cu%curve %": "9.4",
         "max evmax exit velocity": "114.5",
-        "hhhard hit": "111",
-        "hh%hard hit %": "41.3",
+        "hhhard hit": "113",
+        "hh%hard hit %": "41.5",
         "brlbarrels": "15",
-        "brl%barrel %": "5.6",
+        "brl%barrel %": "5.5",
         "ab": "347",
         "avg": ".265",
         "h": "92",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "5",
         "so": "82",
-        "bipballs in play": "269",
+        "bipballs in play": "272",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-09 19:50:54.622404"
+        "updated": "2025-07-09 19:51:03.584272"
     },
     "tor @ chw": [
         {
@@ -4993,6 +4993,36 @@
     ],
     "col @ bos": [
         {
+            "player": "trevor story",
+            "game": "col @ bos",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-07-09 19:51:00",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "GIDP",
+            "evo": "98.8",
+            "la": "-13",
+            "dist": "13"
+        },
+        {
+            "player": "roman anthony",
+            "game": "col @ bos",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-07-09 19:51:00",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "Lineout",
+            "evo": "100.9",
+            "la": "18",
+            "dist": "293"
+        },
+        {
             "player": "jarren duran",
             "game": "col @ bos",
             "hr/park": "",
@@ -5002,7 +5032,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5597,21 +5627,6 @@
     ],
     "pit @ kc": [
         {
-            "player": "vinnie pasquantino",
-            "game": "pit @ kc",
-            "hr/park": "",
-            "pa": "7",
-            "dt": "2025-07-09 19:50:45",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "start": "7:40 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "bobby witt",
             "game": "pit @ kc",
             "hr/park": "21/30",
@@ -5775,10 +5790,10 @@
             "team": "wsh",
             "start": "7:45 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "94.4",
+            "la": "76",
+            "dist": "60"
         },
         {
             "player": "james wood",
