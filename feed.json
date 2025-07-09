@@ -1,36 +1,51 @@
 {
     "all": {
         "pitchers": "19",
-        "batters": "160",
-        "pitches": "907",
+        "batters": "159",
+        "pitches": "910",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "68.8",
-        "ff%fourseam fastball %": "33.7",
-        "si%sinker %": "10.6",
+        "ff%fourseam fastball %": "33.5",
+        "si%sinker %": "10.7",
         "fc%cutter %": "7.9",
-        "fs%splitter %": "4.5",
-        "ch%changeup %": "8.6",
-        "sl%slider %": "20.5",
+        "fs%splitter %": "4.7",
+        "ch%changeup %": "8.7",
+        "sl%slider %": "20.4",
         "cu%curve %": "14.0",
         "max evmax exit velocity": "115.1",
         "hhhard hit": "72",
         "hh%hard hit %": "44.4",
         "brlbarrels": "13",
         "brl%barrel %": "8.0",
-        "ab": "224",
+        "ab": "225",
         "avg": ".196",
         "h": "44",
         "1b": "29",
         "2b": "10",
         "3b": "0",
         "hr": "5",
-        "so": "61",
+        "so": "63",
         "bipballs in play": "162",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-08 20:16:37.366864"
+        "updated": "2025-07-08 20:16:45.843968"
     },
     "nym @ bal": [
+        {
+            "player": "jesse winker",
+            "game": "nym @ bal",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-07-08 20:16:44",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "6:35 PM",
+            "in": "5",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ramon laureano",
             "game": "nym @ bal",
@@ -438,6 +453,21 @@
         }
     ],
     "tb @ det": [
+        {
+            "player": "chandler simpson",
+            "game": "tb @ det",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-07-08 20:16:15",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "6:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "dillon dingler",
             "game": "tb @ det",
@@ -2571,7 +2601,7 @@
             "team": "pit",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3160,10 +3190,10 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "89.8",
+            "la": "-21",
+            "dist": "6"
         },
         {
             "player": "colson montgomery",
@@ -3651,21 +3681,6 @@
     "wsh @ stl": [],
     "cle @ hou": [
         {
-            "player": "nolan jones",
-            "game": "cle @ hou",
-            "hr/park": "",
-            "pa": "2",
-            "dt": "2025-07-08 20:16:15",
-            "img": "https://www.mlbstatic.com/team-logos/114.svg",
-            "team": "cle",
-            "start": "8:10 PM",
-            "in": "1",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "steven kwan",
             "game": "cle @ hou",
             "hr/park": "",
@@ -3675,10 +3690,10 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "1",
-            "result": "Flyout",
-            "evo": "88.8",
-            "la": "47",
-            "dist": "268"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         }
     ],
     "tex @ laa": [],
