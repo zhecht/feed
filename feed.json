@@ -1,20 +1,20 @@
 {
     "all": {
-        "pitchers": "40",
+        "pitchers": "39",
         "batters": "183",
-        "pitches": "1857",
+        "pitches": "1860",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "66.7",
-        "ff%fourseam fastball %": "30.9",
-        "si%sinker %": "12.2",
+        "ff%fourseam fastball %": "30.8",
+        "si%sinker %": "12.4",
         "fc%cutter %": "7.8",
         "fs%splitter %": "6.5",
         "ch%changeup %": "8.5",
-        "sl%slider %": "21.2",
-        "cu%curve %": "12.8",
+        "sl%slider %": "21.1",
+        "cu%curve %": "12.6",
         "max evmax exit velocity": "115.6",
         "hhhard hit": "145",
-        "hh%hard hit %": "41.4",
+        "hh%hard hit %": "41.3",
         "brlbarrels": "34",
         "brl%barrel %": "9.7",
         "ab": "456",
@@ -24,11 +24,11 @@
         "2b": "20",
         "3b": "1",
         "hr": "15",
-        "so": "112",
-        "bipballs in play": "350",
+        "so": "113",
+        "bipballs in play": "351",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-08 21:15:51.287554"
+        "updated": "2025-07-08 21:16:00.791889"
     },
     "nym @ bal": [
         {
@@ -2522,10 +2522,10 @@
             "team": "col",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "75.8",
+            "la": "-7",
+            "dist": "14"
         },
         {
             "player": "abraham toro",
@@ -4296,7 +4296,7 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "7",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5054,36 +5054,6 @@
     ],
     "chc @ min": [
         {
-            "player": "nico hoerner",
-            "game": "chc @ min",
-            "hr/park": "",
-            "pa": "49",
-            "dt": "2025-07-08 21:15:29",
-            "img": "https://www.mlbstatic.com/team-logos/112.svg",
-            "team": "chc",
-            "start": "7:40 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
-            "player": "carson kelly",
-            "game": "chc @ min",
-            "hr/park": "0/30",
-            "pa": "48",
-            "dt": "2025-07-08 21:14:13",
-            "img": "https://www.mlbstatic.com/team-logos/112.svg",
-            "team": "chc",
-            "start": "7:40 PM",
-            "in": "7",
-            "result": "Flyout",
-            "evo": "100.6",
-            "la": "36",
-            "dist": "369"
-        },
-        {
             "player": "royce lewis",
             "game": "chc @ min",
             "hr/park": "",
@@ -5791,6 +5761,21 @@
     ],
     "tor @ chw": [
         {
+            "player": "davis schneider",
+            "game": "tor @ chw",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-07-08 21:15:59",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "austin slater",
             "game": "tor @ chw",
             "hr/park": "",
@@ -5800,10 +5785,10 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "101.7",
+            "la": "1",
+            "dist": "58"
         },
         {
             "player": "colson montgomery",
@@ -7125,7 +7110,7 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
