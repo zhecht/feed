@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "6",
-        "batters": "38",
-        "pitches": "344",
+        "batters": "39",
+        "pitches": "347",
         "max velomax pitch velocity": "99.5",
         "min velomin pitch velocity": "73.6",
-        "ff%fourseam fastball %": "24.7",
-        "si%sinker %": "27.9",
+        "ff%fourseam fastball %": "24.8",
+        "si%sinker %": "27.7",
         "fc%cutter %": "5.2",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "12.8",
-        "sl%slider %": "19.2",
-        "cu%curve %": "10.2",
+        "ch%changeup %": "12.7",
+        "sl%slider %": "19.0",
+        "cu%curve %": "10.7",
         "max evmax exit velocity": "108.9",
         "hhhard hit": "23",
-        "hh%hard hit %": "39.7",
+        "hh%hard hit %": "39.0",
         "brlbarrels": "3",
-        "brl%barrel %": "5.2",
+        "brl%barrel %": "5.1",
         "ab": "77",
         "avg": ".182",
         "h": "14",
@@ -24,11 +24,11 @@
         "2b": "4",
         "3b": "0",
         "hr": "0",
-        "so": "19",
-        "bipballs in play": "58",
+        "so": "20",
+        "bipballs in play": "59",
         "liveGames": 3,
         "totGames": 15,
-        "updated": "2025-07-09 15:51:08.397834"
+        "updated": "2025-07-09 15:51:16.315387"
     },
     "tor @ chw": [
         {
@@ -41,7 +41,7 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1311,6 +1311,21 @@
     ],
     "phi @ sf": [
         {
+            "player": "bryce harper",
+            "game": "phi @ sf",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-07-09 15:51:15",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "3:45 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle schwarber",
             "game": "phi @ sf",
             "hr/park": "",
@@ -1320,7 +1335,7 @@
             "team": "phi",
             "start": "3:45 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
