@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "36",
         "batters": "182",
-        "pitches": "1673",
+        "pitches": "1683",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "67.9",
-        "ff%fourseam fastball %": "31.4",
-        "si%sinker %": "12.1",
-        "fc%cutter %": "7.8",
-        "fs%splitter %": "6.3",
-        "ch%changeup %": "8.4",
+        "ff%fourseam fastball %": "31.2",
+        "si%sinker %": "12.2",
+        "fc%cutter %": "7.7",
+        "fs%splitter %": "6.2",
+        "ch%changeup %": "8.6",
         "sl%slider %": "20.9",
         "cu%curve %": "13.0",
         "max evmax exit velocity": "115.6",
-        "hhhard hit": "131",
-        "hh%hard hit %": "41.6",
-        "brlbarrels": "29",
-        "brl%barrel %": "9.2",
-        "ab": "411",
-        "avg": ".219",
+        "hhhard hit": "132",
+        "hh%hard hit %": "41.8",
+        "brlbarrels": "30",
+        "brl%barrel %": "9.5",
+        "ab": "414",
+        "avg": ".217",
         "h": "90",
         "1b": "58",
         "2b": "20",
         "3b": "1",
         "hr": "11",
-        "so": "100",
-        "bipballs in play": "315",
+        "so": "101",
+        "bipballs in play": "316",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-08 21:03:50.408656"
+        "updated": "2025-07-08 21:03:59.276161"
     },
     "nym @ bal": [
         {
@@ -753,6 +753,21 @@
         }
     ],
     "tb @ det": [
+        {
+            "player": "jose caballero",
+            "game": "tb @ det",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-07-08 21:03:59",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "6:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "chandler simpson",
             "game": "tb @ det",
@@ -3175,6 +3190,21 @@
     ],
     "mia @ cin": [
         {
+            "player": "kyle stowers",
+            "game": "mia @ cin",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-07-08 21:03:59",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "agustin ramirez",
             "game": "mia @ cin",
             "hr/park": "",
@@ -3184,7 +3214,7 @@
             "team": "mia",
             "start": "7:10 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3972,6 +4002,21 @@
     ],
     "pit @ kc": [
         {
+            "player": "kebryan hayes",
+            "game": "pit @ kc",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-07-08 21:03:28",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "oneil cruz",
             "game": "pit @ kc",
             "hr/park": "",
@@ -3981,10 +4026,10 @@
             "team": "pit",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "104.6",
+            "la": "31",
+            "dist": "399"
         },
         {
             "player": "nick gonzales",
@@ -5281,6 +5326,21 @@
     ],
     "tor @ chw": [
         {
+            "player": "alejandro kirk",
+            "game": "tor @ chw",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-07-08 21:03:59",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "addison barger",
             "game": "tor @ chw",
             "hr/park": "",
@@ -5847,7 +5907,7 @@
             "team": "lad",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6435,7 +6495,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
