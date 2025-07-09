@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "41",
+        "pitchers": "43",
         "batters": "184",
-        "pitches": "1910",
+        "pitches": "1915",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "66.7",
         "ff%fourseam fastball %": "30.5",
-        "si%sinker %": "13.0",
-        "fc%cutter %": "7.9",
+        "si%sinker %": "12.8",
+        "fc%cutter %": "8.0",
         "fs%splitter %": "6.4",
-        "ch%changeup %": "8.5",
-        "sl%slider %": "21.0",
-        "cu%curve %": "12.6",
+        "ch%changeup %": "8.4",
+        "sl%slider %": "20.9",
+        "cu%curve %": "12.7",
         "max evmax exit velocity": "115.6",
-        "hhhard hit": "150",
+        "hhhard hit": "152",
         "hh%hard hit %": "41.6",
         "brlbarrels": "34",
-        "brl%barrel %": "9.4",
-        "ab": "468",
-        "avg": ".220",
-        "h": "103",
+        "brl%barrel %": "9.3",
+        "ab": "471",
+        "avg": ".221",
+        "h": "104",
         "1b": "67",
-        "2b": "20",
+        "2b": "21",
         "3b": "1",
         "hr": "15",
         "so": "113",
-        "bipballs in play": "361",
+        "bipballs in play": "365",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-08 21:19:40.055775"
+        "updated": "2025-07-08 21:19:49.540144"
     },
     "nym @ bal": [
         {
@@ -41,10 +41,10 @@
             "team": "bal",
             "start": "6:35 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "104.4",
+            "la": "13",
+            "dist": "300"
         },
         {
             "player": "brett baty",
@@ -2552,7 +2552,7 @@
             "team": "col",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "78.6",
             "la": "-15",
             "dist": "11"
@@ -3475,21 +3475,6 @@
     ],
     "mia @ cin": [
         {
-            "player": "heriberto hernandez",
-            "game": "mia @ cin",
-            "hr/park": "",
-            "pa": "62",
-            "dt": "2025-07-08 21:18:30",
-            "img": "https://www.mlbstatic.com/team-logos/146.svg",
-            "team": "mia",
-            "start": "7:10 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "liam hicks",
             "game": "mia @ cin",
             "hr/park": "",
@@ -3499,7 +3484,7 @@
             "team": "mia",
             "start": "7:10 PM",
             "in": "8",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4407,6 +4392,21 @@
     ],
     "pit @ kc": [
         {
+            "player": "kyle isbel",
+            "game": "pit @ kc",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-07-08 21:18:30",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "92.3",
+            "la": "-20",
+            "dist": "5"
+        },
+        {
             "player": "john rave",
             "game": "pit @ kc",
             "hr/park": "",
@@ -5183,10 +5183,10 @@
             "team": "chc",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "68.6",
+            "la": "44",
+            "dist": "216"
         },
         {
             "player": "nico hoerner",
@@ -5935,10 +5935,10 @@
             "team": "tor",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "100.0",
+            "la": "22",
+            "dist": "344"
         },
         {
             "player": "davis schneider",
@@ -6602,6 +6602,21 @@
         }
     ],
     "lad @ mil": [
+        {
+            "player": "hyeseong kim",
+            "game": "lad @ mil",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-07-08 21:19:44",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "isaac collins",
             "game": "lad @ mil",
@@ -7310,6 +7325,21 @@
     ],
     "wsh @ stl": [],
     "cle @ hou": [
+        {
+            "player": "cooper hummel",
+            "game": "cle @ hou",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-07-08 21:19:44",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "victor caratini",
             "game": "cle @ hou",
