@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "18",
-        "batters": "137",
-        "pitches": "710",
+        "batters": "138",
+        "pitches": "714",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "68.8",
-        "ff%fourseam fastball %": "34.2",
-        "si%sinker %": "9.9",
-        "fc%cutter %": "7.7",
-        "fs%splitter %": "4.1",
+        "ff%fourseam fastball %": "34.0",
+        "si%sinker %": "9.8",
+        "fc%cutter %": "8.0",
+        "fs%splitter %": "3.9",
         "ch%changeup %": "9.4",
-        "sl%slider %": "19.9",
-        "cu%curve %": "14.6",
+        "sl%slider %": "19.7",
+        "cu%curve %": "15.0",
         "max evmax exit velocity": "115.1",
-        "hhhard hit": "55",
-        "hh%hard hit %": "44.4",
+        "hhhard hit": "54",
+        "hh%hard hit %": "43.5",
         "brlbarrels": "9",
         "brl%barrel %": "7.3",
-        "ab": "176",
-        "avg": ".199",
+        "ab": "178",
+        "avg": ".197",
         "h": "35",
         "1b": "23",
         "2b": "8",
         "3b": "0",
         "hr": "4",
-        "so": "52",
+        "so": "53",
         "bipballs in play": "124",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-07-08 20:05:09.673577"
+        "updated": "2025-07-08 20:05:17.890563"
     },
     "nym @ bal": [
         {
@@ -364,6 +364,21 @@
     ],
     "tb @ det": [
         {
+            "player": "jake mangum",
+            "game": "tb @ det",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-07-08 20:05:13",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ha seong kim",
             "game": "tb @ det",
             "hr/park": "",
@@ -373,7 +388,7 @@
             "team": "tb",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1795,21 +1810,6 @@
     ],
     "mia @ cin": [
         {
-            "player": "noelvi marte",
-            "game": "mia @ cin",
-            "hr/park": "",
-            "pa": "25",
-            "dt": "2025-07-08 20:04:43",
-            "img": "https://www.mlbstatic.com/team-logos/113.svg",
-            "team": "cin",
-            "start": "7:10 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jose trevino",
             "game": "mia @ cin",
             "hr/park": "",
@@ -1819,10 +1819,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "3",
-            "result": "Groundout",
-            "evo": "95.1",
-            "la": "-15",
-            "dist": "9"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "liam hicks",
@@ -2551,6 +2551,36 @@
     ],
     "tor @ chw": [
         {
+            "player": "ernie clement",
+            "game": "tor @ chw",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-07-08 20:05:13",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "joey loperfido",
+            "game": "tor @ chw",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-07-08 20:04:14",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "Pop Out",
+            "evo": "86.5",
+            "la": "63",
+            "dist": "167"
+        },
+        {
             "player": "alejandro kirk",
             "game": "tor @ chw",
             "hr/park": "",
@@ -2560,7 +2590,7 @@
             "team": "tor",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "81.1",
             "la": "9",
             "dist": "137"
