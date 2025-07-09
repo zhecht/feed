@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "50",
-        "batters": "188",
-        "pitches": "2086",
+        "pitchers": "51",
+        "batters": "187",
+        "pitches": "2089",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "41.2",
         "ff%fourseam fastball %": "30.3",
@@ -14,21 +14,21 @@
         "cu%curve %": "12.8",
         "max evmax exit velocity": "115.6",
         "hhhard hit": "168",
-        "hh%hard hit %": "42.1",
+        "hh%hard hit %": "42.0",
         "brlbarrels": "42",
         "brl%barrel %": "10.5",
-        "ab": "512",
+        "ab": "513",
         "avg": ".232",
         "h": "119",
         "1b": "75",
         "2b": "22",
         "3b": "1",
         "hr": "21",
-        "so": "120",
-        "bipballs in play": "399",
+        "so": "119",
+        "bipballs in play": "400",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-08 21:30:34.003882"
+        "updated": "2025-07-08 21:30:44.244294"
     },
     "nym @ bal": [
         {
@@ -41,7 +41,7 @@
             "team": "nym",
             "start": "6:35 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2722,36 +2722,6 @@
         }
     ],
     "col @ bos": [
-        {
-            "player": "jordan beck",
-            "game": "col @ bos",
-            "hr/park": "",
-            "pa": "69",
-            "dt": "2025-07-08 21:30:29",
-            "img": "https://www.mlbstatic.com/team-logos/115.svg",
-            "team": "col",
-            "start": "7:10 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
-            "player": "yanquiel fernandez",
-            "game": "col @ bos",
-            "hr/park": "",
-            "pa": "68",
-            "dt": "2025-07-08 21:29:29",
-            "img": "https://www.mlbstatic.com/team-logos/115.svg",
-            "team": "col",
-            "start": "7:10 PM",
-            "in": "9",
-            "result": "Strikeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "hunter goodman",
             "game": "col @ bos",
@@ -5624,6 +5594,21 @@
     ],
     "chc @ min": [
         {
+            "player": "ian happ",
+            "game": "chc @ min",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-07-08 21:30:13",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "christian vazquez",
             "game": "chc @ min",
             "hr/park": "",
@@ -6436,6 +6421,21 @@
     ],
     "tor @ chw": [
         {
+            "player": "andrew benintendi",
+            "game": "tor @ chw",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-07-08 21:30:44",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "lenyn sosa",
             "game": "tor @ chw",
             "hr/park": "",
@@ -6445,7 +6445,7 @@
             "team": "chw",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "63.0",
             "la": "63",
             "dist": "126"
@@ -7203,11 +7203,11 @@
     ],
     "lad @ mil": [
         {
-            "player": "andruw monasterio",
+            "player": "joey ortiz",
             "game": "lad @ mil",
             "hr/park": "",
-            "pa": "52",
-            "dt": "2025-07-08 21:26:59",
+            "pa": "53",
+            "dt": "2025-07-08 21:30:44",
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
             "team": "mil",
             "start": "7:40 PM",
@@ -7216,6 +7216,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "andruw monasterio",
+            "game": "lad @ mil",
+            "hr/park": "2/30",
+            "pa": "52",
+            "dt": "2025-07-08 21:26:59",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "Flyout",
+            "evo": "91.9",
+            "la": "29",
+            "dist": "360"
         },
         {
             "player": "brice turang",
