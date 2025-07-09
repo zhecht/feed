@@ -1,36 +1,51 @@
 {
     "all": {
         "pitchers": "18",
-        "batters": "135",
-        "pitches": "688",
+        "batters": "136",
+        "pitches": "700",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "68.8",
-        "ff%fourseam fastball %": "34.2",
-        "si%sinker %": "10.2",
-        "fc%cutter %": "7.8",
+        "ff%fourseam fastball %": "34.1",
+        "si%sinker %": "10.0",
+        "fc%cutter %": "7.9",
         "fs%splitter %": "4.1",
-        "ch%changeup %": "9.7",
-        "sl%slider %": "19.5",
-        "cu%curve %": "14.4",
+        "ch%changeup %": "9.6",
+        "sl%slider %": "20.0",
+        "cu%curve %": "14.1",
         "max evmax exit velocity": "115.1",
-        "hhhard hit": "54",
-        "hh%hard hit %": "44.6",
+        "hhhard hit": "55",
+        "hh%hard hit %": "44.7",
         "brlbarrels": "9",
-        "brl%barrel %": "7.4",
-        "ab": "170",
-        "avg": ".206",
-        "h": "35",
-        "1b": "23",
+        "brl%barrel %": "7.3",
+        "ab": "174",
+        "avg": ".195",
+        "h": "34",
+        "1b": "22",
         "2b": "8",
         "3b": "0",
         "hr": "4",
-        "so": "52",
-        "bipballs in play": "121",
+        "so": "51",
+        "bipballs in play": "123",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-07-08 20:04:08.779217"
+        "updated": "2025-07-08 20:04:17.084633"
     },
     "nym @ bal": [
+        {
+            "player": "francisco lindor",
+            "game": "nym @ bal",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-07-08 20:04:14",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "6:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jordan westburg",
             "game": "nym @ bal",
@@ -349,6 +364,21 @@
     ],
     "tb @ det": [
         {
+            "player": "ha seong kim",
+            "game": "tb @ det",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-07-08 20:04:14",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "6:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh lowe",
             "game": "tb @ det",
             "hr/park": "",
@@ -358,10 +388,10 @@
             "team": "tb",
             "start": "6:40 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "73.2",
+            "la": "68",
+            "dist": "109"
         },
         {
             "player": "riley greene",
@@ -996,6 +1026,21 @@
     ],
     "sea @ nyy": [
         {
+            "player": "aaron judge",
+            "game": "sea @ nyy",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-07-08 20:04:14",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jasson dominguez",
             "game": "sea @ nyy",
             "hr/park": "",
@@ -1367,7 +1412,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "4",
-            "result": "Strikeout",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1744,10 +1789,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "95.1",
+            "la": "-15",
+            "dist": "9"
         },
         {
             "player": "liam hicks",
@@ -2476,6 +2521,21 @@
     ],
     "tor @ chw": [
         {
+            "player": "joey loperfido",
+            "game": "tor @ chw",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-07-08 20:04:14",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "86.5",
+            "la": "63",
+            "dist": "167"
+        },
+        {
             "player": "alejandro kirk",
             "game": "tor @ chw",
             "hr/park": "",
@@ -2637,10 +2697,10 @@
             "team": "lad",
             "start": "7:40 PM",
             "in": "2",
-            "result": "Single",
-            "evo": "70.2",
-            "la": "20",
-            "dist": "191"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "hyeseong kim",
