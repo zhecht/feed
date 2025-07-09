@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "75",
         "batters": "227",
-        "pitches": "2616",
+        "pitches": "2618",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "31.1",
-        "ff%fourseam fastball %": "30.4",
+        "ff%fourseam fastball %": "30.5",
         "si%sinker %": "13.7",
         "fc%cutter %": "7.1",
-        "fs%splitter %": "5.3",
+        "fs%splitter %": "5.2",
         "ch%changeup %": "8.9",
         "sl%slider %": "21.1",
-        "cu%curve %": "12.0",
+        "cu%curve %": "12.1",
         "max evmax exit velocity": "115.6",
         "hhhard hit": "218",
-        "hh%hard hit %": "43.6",
+        "hh%hard hit %": "43.5",
         "brlbarrels": "55",
         "brl%barrel %": "11.0",
         "ab": "636",
@@ -24,11 +24,11 @@
         "2b": "30",
         "3b": "1",
         "hr": "29",
-        "so": "144",
-        "bipballs in play": "500",
+        "so": "143",
+        "bipballs in play": "501",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-07-08 22:02:09.115182"
+        "updated": "2025-07-08 22:02:20.096239"
     },
     "nym @ bal": [
         {
@@ -41,7 +41,7 @@
             "team": "nym",
             "start": "6:35 PM",
             "in": "9",
-            "result": "Strikeout",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4194,6 +4194,21 @@
         }
     ],
     "mia @ cin": [
+        {
+            "player": "connor joe",
+            "game": "mia @ cin",
+            "hr/park": "",
+            "pa": "82",
+            "dt": "2025-07-08 22:02:14",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "Forceout",
+            "evo": "77.2",
+            "la": "-1",
+            "dist": "32"
+        },
         {
             "player": "noelvi marte",
             "game": "mia @ cin",
@@ -10521,7 +10536,7 @@
             "team": "phi",
             "start": "9:45 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
