@@ -1,20 +1,20 @@
 {
     "all": {
-        "pitchers": "37",
+        "pitchers": "39",
         "batters": "183",
-        "pitches": "1753",
+        "pitches": "1755",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "67.9",
-        "ff%fourseam fastball %": "30.9",
-        "si%sinker %": "12.2",
+        "ff%fourseam fastball %": "31.1",
+        "si%sinker %": "12.1",
         "fc%cutter %": "7.7",
         "fs%splitter %": "6.3",
         "ch%changeup %": "8.7",
-        "sl%slider %": "21.2",
+        "sl%slider %": "21.1",
         "cu%curve %": "12.8",
         "max evmax exit velocity": "115.6",
-        "hhhard hit": "139",
-        "hh%hard hit %": "41.7",
+        "hhhard hit": "138",
+        "hh%hard hit %": "41.6",
         "brlbarrels": "32",
         "brl%barrel %": "9.6",
         "ab": "433",
@@ -25,12 +25,42 @@
         "3b": "1",
         "hr": "12",
         "so": "108",
-        "bipballs in play": "333",
+        "bipballs in play": "332",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-08 21:09:25.423525"
+        "updated": "2025-07-08 21:09:34.530746"
     },
     "nym @ bal": [
+        {
+            "player": "jeff mcneil",
+            "game": "nym @ bal",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-07-08 21:09:00",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "6:35 PM",
+            "in": "7",
+            "result": "Pop Out",
+            "evo": "54.9",
+            "la": "51",
+            "dist": "140"
+        },
+        {
+            "player": "jacob stallings",
+            "game": "nym @ bal",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-07-08 21:06:30",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:35 PM",
+            "in": "6",
+            "result": "Pickoff 3B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "cedric mullins",
             "game": "nym @ bal",
@@ -2408,21 +2438,6 @@
     ],
     "col @ bos": [
         {
-            "player": "jarren duran",
-            "game": "col @ bos",
-            "hr/park": "",
-            "pa": "57",
-            "dt": "2025-07-08 21:09:14",
-            "img": "https://www.mlbstatic.com/team-logos/111.svg",
-            "team": "bos",
-            "start": "7:10 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "ceddanne rafaela",
             "game": "col @ bos",
             "hr/park": "",
@@ -3275,9 +3290,9 @@
             "start": "7:10 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "100.2",
-            "la": "5",
-            "dist": "114"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "gavin lux",
@@ -4107,21 +4122,6 @@
     ],
     "pit @ kc": [
         {
-            "player": "maikel garcia",
-            "game": "pit @ kc",
-            "hr/park": "",
-            "pa": "47",
-            "dt": "2025-07-08 21:09:14",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "start": "7:40 PM",
-            "in": "7",
-            "result": "Pop Out",
-            "evo": "88.0",
-            "la": "58",
-            "dist": "182"
-        },
-        {
             "player": "jack suwinski",
             "game": "pit @ kc",
             "hr/park": "",
@@ -4831,7 +4831,7 @@
         {
             "player": "willi castro",
             "game": "chc @ min",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "45",
             "dt": "2025-07-08 21:08:29",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
