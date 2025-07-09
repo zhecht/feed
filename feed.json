@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "51",
-        "batters": "187",
-        "pitches": "2091",
+        "batters": "188",
+        "pitches": "2101",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "41.2",
         "ff%fourseam fastball %": "30.3",
-        "si%sinker %": "13.2",
-        "fc%cutter %": "8.0",
+        "si%sinker %": "13.3",
+        "fc%cutter %": "7.9",
         "fs%splitter %": "6.0",
         "ch%changeup %": "8.8",
-        "sl%slider %": "20.8",
+        "sl%slider %": "20.7",
         "cu%curve %": "12.8",
         "max evmax exit velocity": "115.6",
         "hhhard hit": "169",
-        "hh%hard hit %": "42.1",
+        "hh%hard hit %": "41.9",
         "brlbarrels": "42",
-        "brl%barrel %": "10.5",
-        "ab": "513",
-        "avg": ".232",
-        "h": "119",
-        "1b": "75",
+        "brl%barrel %": "10.4",
+        "ab": "515",
+        "avg": ".235",
+        "h": "121",
+        "1b": "77",
         "2b": "22",
         "3b": "1",
         "hr": "21",
-        "so": "119",
-        "bipballs in play": "401",
+        "so": "120",
+        "bipballs in play": "403",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-08 21:31:04.178819"
+        "updated": "2025-07-08 21:31:14.499122"
     },
     "nym @ bal": [
         {
@@ -41,10 +41,10 @@
             "team": "nym",
             "start": "6:35 PM",
             "in": "8",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "81.8",
+            "la": "19",
+            "dist": "217"
         },
         {
             "player": "francisco lindor",
@@ -1995,10 +1995,10 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "6",
-            "result": "Flyout",
-            "evo": "83.3",
-            "la": "45",
-            "dist": "265"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "austin wells",
@@ -2737,6 +2737,36 @@
         }
     ],
     "col @ bos": [
+        {
+            "player": "jordan beck",
+            "game": "col @ bos",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-07-08 21:30:29",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "Single",
+            "evo": "86.8",
+            "la": "17",
+            "dist": "251"
+        },
+        {
+            "player": "yanquiel fernandez",
+            "game": "col @ bos",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-07-08 21:29:29",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "hunter goodman",
             "game": "col @ bos",
@@ -4761,7 +4791,7 @@
             "team": "pit",
             "start": "7:40 PM",
             "in": "8",
-            "result": "Forceout",
+            "result": "In Progress",
             "evo": "69.9",
             "la": "-17",
             "dist": "10"
