@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "55",
         "batters": "190",
-        "pitches": "2186",
+        "pitches": "2192",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "41.2",
         "ff%fourseam fastball %": "30.1",
@@ -11,24 +11,24 @@
         "fs%splitter %": "5.8",
         "ch%changeup %": "9.0",
         "sl%slider %": "20.9",
-        "cu%curve %": "12.7",
+        "cu%curve %": "12.6",
         "max evmax exit velocity": "115.6",
         "hhhard hit": "174",
-        "hh%hard hit %": "41.8",
+        "hh%hard hit %": "41.6",
         "brlbarrels": "43",
         "brl%barrel %": "10.3",
-        "ab": "536",
-        "avg": ".229",
-        "h": "123",
-        "1b": "78",
+        "ab": "535",
+        "avg": ".232",
+        "h": "124",
+        "1b": "79",
         "2b": "22",
         "3b": "1",
         "hr": "22",
-        "so": "124",
-        "bipballs in play": "416",
+        "so": "123",
+        "bipballs in play": "418",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-08 21:36:56.826070"
+        "updated": "2025-07-08 21:37:06.970715"
     },
     "nym @ bal": [
         {
@@ -2015,6 +2015,21 @@
         }
     ],
     "sea @ nyy": [
+        {
+            "player": "ben williamson",
+            "game": "sea @ nyy",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-07-08 21:35:59",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "85.7",
+            "la": "-7",
+            "dist": "21"
+        },
         {
             "player": "dylan moore",
             "game": "sea @ nyy",
@@ -5819,21 +5834,6 @@
     ],
     "chc @ min": [
         {
-            "player": "pete crow armstrong",
-            "game": "chc @ min",
-            "hr/park": "",
-            "pa": "58",
-            "dt": "2025-07-08 21:36:29",
-            "img": "https://www.mlbstatic.com/team-logos/112.svg",
-            "team": "chc",
-            "start": "7:40 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "seiya suzuki",
             "game": "chc @ min",
             "hr/park": "",
@@ -5843,7 +5843,7 @@
             "team": "chc",
             "start": "7:40 PM",
             "in": "8",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6700,10 +6700,10 @@
             "team": "tor",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "78.4",
+            "la": "18",
+            "dist": "232"
         },
         {
             "player": "andrew benintendi",
@@ -8340,7 +8340,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
