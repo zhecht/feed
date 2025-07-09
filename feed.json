@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "48",
         "batters": "186",
-        "pitches": "2043",
+        "pitches": "2046",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "41.2",
         "ff%fourseam fastball %": "30.4",
@@ -11,24 +11,24 @@
         "fs%splitter %": "6.2",
         "ch%changeup %": "8.5",
         "sl%slider %": "20.8",
-        "cu%curve %": "12.7",
+        "cu%curve %": "12.8",
         "max evmax exit velocity": "115.6",
-        "hhhard hit": "163",
-        "hh%hard hit %": "41.9",
+        "hhhard hit": "162",
+        "hh%hard hit %": "41.8",
         "brlbarrels": "38",
         "brl%barrel %": "9.8",
         "ab": "501",
-        "avg": ".228",
-        "h": "114",
-        "1b": "74",
+        "avg": ".226",
+        "h": "113",
+        "1b": "73",
         "2b": "22",
         "3b": "1",
         "hr": "17",
-        "so": "118",
-        "bipballs in play": "389",
+        "so": "119",
+        "bipballs in play": "388",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-08 21:27:34.973356"
+        "updated": "2025-07-08 21:27:44.997658"
     },
     "nym @ bal": [
         {
@@ -1958,7 +1958,7 @@
         {
             "player": "paul goldschmidt",
             "game": "sea @ nyy",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "48",
             "dt": "2025-07-08 21:25:30",
             "img": "https://www.mlbstatic.com/team-logos/147.svg",
@@ -2687,10 +2687,10 @@
             "team": "col",
             "start": "7:10 PM",
             "in": "9",
-            "result": "Single",
-            "evo": "102.0",
-            "la": "2",
-            "dist": "64"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "david hamilton",
@@ -4671,7 +4671,7 @@
             "team": "pit",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5513,7 +5513,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7835,6 +7835,21 @@
     ],
     "wsh @ stl": [],
     "cle @ hou": [
+        {
+            "player": "nolan jones",
+            "game": "cle @ hou",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-07-08 21:27:45",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "taylor trammell",
             "game": "cle @ hou",
