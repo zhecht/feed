@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "40",
         "batters": "183",
-        "pitches": "1870",
+        "pitches": "1876",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "66.7",
         "ff%fourseam fastball %": "30.7",
-        "si%sinker %": "12.3",
+        "si%sinker %": "12.4",
         "fc%cutter %": "7.8",
-        "fs%splitter %": "6.5",
-        "ch%changeup %": "8.4",
+        "fs%splitter %": "6.4",
+        "ch%changeup %": "8.5",
         "sl%slider %": "21.2",
         "cu%curve %": "12.8",
         "max evmax exit velocity": "115.6",
         "hhhard hit": "146",
-        "hh%hard hit %": "41.6",
+        "hh%hard hit %": "41.4",
         "brlbarrels": "34",
-        "brl%barrel %": "9.7",
+        "brl%barrel %": "9.6",
         "ab": "459",
         "avg": ".220",
         "h": "101",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "15",
         "so": "113",
-        "bipballs in play": "351",
+        "bipballs in play": "353",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-08 21:16:19.760190"
+        "updated": "2025-07-08 21:16:29.648616"
     },
     "nym @ bal": [
         {
@@ -2522,10 +2522,10 @@
             "team": "col",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "75.8",
+            "la": "-7",
+            "dist": "14"
         },
         {
             "player": "abraham toro",
@@ -3399,6 +3399,21 @@
         }
     ],
     "mia @ cin": [
+        {
+            "player": "connor norby",
+            "game": "mia @ cin",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-07-08 21:16:29",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "Field Error",
+            "evo": "62.9",
+            "la": "12",
+            "dist": "101"
+        },
         {
             "player": "noelvi marte",
             "game": "mia @ cin",
@@ -4296,7 +4311,7 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
