@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "21",
-        "batters": "165",
-        "pitches": "1050",
+        "batters": "166",
+        "pitches": "1052",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "68.8",
         "ff%fourseam fastball %": "33.7",
-        "si%sinker %": "9.9",
+        "si%sinker %": "10.0",
         "fc%cutter %": "7.9",
-        "fs%splitter %": "4.9",
+        "fs%splitter %": "4.8",
         "ch%changeup %": "9.1",
         "sl%slider %": "20.5",
         "cu%curve %": "13.9",
         "max evmax exit velocity": "115.1",
-        "hhhard hit": "81",
-        "hh%hard hit %": "44.5",
+        "hhhard hit": "82",
+        "hh%hard hit %": "45.1",
         "brlbarrels": "16",
         "brl%barrel %": "8.8",
-        "ab": "256",
-        "avg": ".199",
+        "ab": "258",
+        "avg": ".198",
         "h": "51",
         "1b": "33",
         "2b": "11",
@@ -28,7 +28,7 @@
         "bipballs in play": "182",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-08 20:25:08.650364"
+        "updated": "2025-07-08 20:25:17.535027"
     },
     "nym @ bal": [
         {
@@ -1787,10 +1787,10 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "5",
-            "result": "Groundout",
-            "evo": "84.4",
-            "la": "-18",
-            "dist": "10"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "abraham toro",
@@ -3511,6 +3511,21 @@
     ],
     "tor @ chw": [
         {
+            "player": "bo bichette",
+            "game": "tor @ chw",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-07-08 20:25:14",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "vladimir guerrero",
             "game": "tor @ chw",
             "hr/park": "",
@@ -3812,6 +3827,21 @@
         }
     ],
     "lad @ mil": [
+        {
+            "player": "andruw monasterio",
+            "game": "lad @ mil",
+            "hr/park": "21/30",
+            "pa": "20",
+            "dt": "2025-07-08 20:24:28",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "96.9",
+            "la": "37",
+            "dist": "360"
+        },
         {
             "player": "freddie freeman",
             "game": "lad @ mil",
