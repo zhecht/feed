@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "49",
         "batters": "167",
-        "pitches": "1554",
+        "pitches": "1556",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "53.3",
-        "ff%fourseam fastball %": "31.5",
+        "ff%fourseam fastball %": "31.4",
         "si%sinker %": "17.4",
         "fc%cutter %": "3.1",
         "fs%splitter %": "2.4",
-        "ch%changeup %": "11.0",
+        "ch%changeup %": "11.1",
         "sl%slider %": "24.8",
         "cu%curve %": "9.8",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "121",
-        "hh%hard hit %": "41.6",
+        "hh%hard hit %": "41.4",
         "brlbarrels": "17",
         "brl%barrel %": "5.8",
         "ab": "369",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "7",
         "so": "85",
-        "bipballs in play": "291",
+        "bipballs in play": "292",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-09 19:58:35.077912"
+        "updated": "2025-07-09 19:58:44.675256"
     },
     "tor @ chw": [
         {
@@ -5469,7 +5469,7 @@
             "team": "mia",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "103.2",
             "la": "",
             "dist": "51"
@@ -5822,6 +5822,21 @@
     ],
     "pit @ kc": [
         {
+            "player": "kebryan hayes",
+            "game": "pit @ kc",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-07-09 19:58:44",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "oneil cruz",
             "game": "pit @ kc",
             "hr/park": "",
@@ -5959,21 +5974,6 @@
     ],
     "chc @ min": [
         {
-            "player": "carlos correa",
-            "game": "chc @ min",
-            "hr/park": "",
-            "pa": "8",
-            "dt": "2025-07-09 19:58:30",
-            "img": "https://www.mlbstatic.com/team-logos/142.svg",
-            "team": "min",
-            "start": "7:40 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "ryan jeffers",
             "game": "chc @ min",
             "hr/park": "",
@@ -6090,10 +6090,10 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "92.2",
+            "la": "-2",
+            "dist": "40"
         },
         {
             "player": "alex call",
