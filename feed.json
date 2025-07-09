@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "22",
-        "batters": "174",
-        "pitches": "1249",
+        "batters": "175",
+        "pitches": "1258",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "68.8",
-        "ff%fourseam fastball %": "33.5",
+        "ff%fourseam fastball %": "33.4",
         "si%sinker %": "10.2",
         "fc%cutter %": "8.2",
-        "fs%splitter %": "5.1",
+        "fs%splitter %": "5.3",
         "ch%changeup %": "9.4",
         "sl%slider %": "19.8",
         "cu%curve %": "13.6",
         "max evmax exit velocity": "115.6",
-        "hhhard hit": "100",
-        "hh%hard hit %": "44.1",
-        "brlbarrels": "21",
-        "brl%barrel %": "9.3",
-        "ab": "309",
-        "avg": ".201",
-        "h": "62",
-        "1b": "37",
+        "hhhard hit": "101",
+        "hh%hard hit %": "43.7",
+        "brlbarrels": "22",
+        "brl%barrel %": "9.5",
+        "ab": "311",
+        "avg": ".203",
+        "h": "63",
+        "1b": "38",
         "2b": "15",
         "3b": "0",
         "hr": "10",
-        "so": "82",
-        "bipballs in play": "227",
+        "so": "83",
+        "bipballs in play": "231",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-08 20:37:51.276095"
+        "updated": "2025-07-08 20:37:59.973242"
     },
     "nym @ bal": [
         {
@@ -613,7 +613,7 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3601,17 +3601,17 @@
         {
             "player": "ty france",
             "game": "chc @ min",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "31",
             "dt": "2025-07-08 20:35:59",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
             "team": "min",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "108.4",
+            "la": "19",
+            "dist": "338"
         },
         {
             "player": "harrison bader",
@@ -4473,6 +4473,21 @@
     ],
     "lad @ mil": [
         {
+            "player": "jackson chourio",
+            "game": "lad @ mil",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-07-08 20:37:59",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "90.7",
+            "la": "-1",
+            "dist": "36"
+        },
+        {
             "player": "william contreras",
             "game": "lad @ mil",
             "hr/park": "",
@@ -4482,10 +4497,10 @@
             "team": "mil",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "56.6",
+            "la": "-50",
+            "dist": "3"
         },
         {
             "player": "hyeseong kim",
@@ -4865,6 +4880,21 @@
     ],
     "wsh @ stl": [],
     "cle @ hou": [
+        {
+            "player": "jhonkensy noel",
+            "game": "cle @ hou",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-07-08 20:37:59",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "Groundout",
+            "evo": "69.0",
+            "la": "-6",
+            "dist": "16"
+        },
         {
             "player": "bo naylor",
             "game": "cle @ hou",
