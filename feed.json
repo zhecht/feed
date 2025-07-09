@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "29",
         "batters": "180",
-        "pitches": "1499",
+        "pitches": "1505",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "67.9",
-        "ff%fourseam fastball %": "32.6",
-        "si%sinker %": "11.3",
+        "ff%fourseam fastball %": "32.9",
+        "si%sinker %": "11.2",
         "fc%cutter %": "7.8",
         "fs%splitter %": "6.1",
         "ch%changeup %": "8.7",
         "sl%slider %": "19.9",
-        "cu%curve %": "13.3",
+        "cu%curve %": "13.2",
         "max evmax exit velocity": "115.6",
-        "hhhard hit": "118",
-        "hh%hard hit %": "41.8",
+        "hhhard hit": "120",
+        "hh%hard hit %": "42.4",
         "brlbarrels": "26",
         "brl%barrel %": "9.2",
-        "ab": "365",
+        "ab": "370",
         "avg": ".214",
-        "h": "78",
+        "h": "79",
         "1b": "49",
-        "2b": "19",
+        "2b": "20",
         "3b": "0",
         "hr": "10",
         "so": "92",
-        "bipballs in play": "282",
+        "bipballs in play": "283",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-08 20:54:09.631914"
+        "updated": "2025-07-08 20:54:18.563748"
     },
     "nym @ bal": [
         {
@@ -703,7 +703,7 @@
             "team": "det",
             "start": "6:40 PM",
             "in": "8",
-            "result": "Hit By Pitch",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1656,6 +1656,21 @@
     ],
     "sea @ nyy": [
         {
+            "player": "jazz chisholm",
+            "game": "sea @ nyy",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-07-08 20:54:14",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jp crawford",
             "game": "sea @ nyy",
             "hr/park": "",
@@ -2137,6 +2152,21 @@
         }
     ],
     "col @ bos": [
+        {
+            "player": "michael toglia",
+            "game": "col @ bos",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-07-08 20:54:14",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jordan beck",
             "game": "col @ bos",
@@ -5253,6 +5283,21 @@
     ],
     "lad @ mil": [
         {
+            "player": "miguel rojas",
+            "game": "lad @ mil",
+            "hr/park": "0/30",
+            "pa": "35",
+            "dt": "2025-07-08 20:52:14",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "7:40 PM",
+            "in": "5",
+            "result": "Lineout",
+            "evo": "95.8",
+            "la": "21",
+            "dist": "353"
+        },
+        {
             "player": "james outman",
             "game": "lad @ mil",
             "hr/park": "",
@@ -5766,6 +5811,21 @@
     "wsh @ stl": [],
     "cle @ hou": [
         {
+            "player": "nolan jones",
+            "game": "cle @ hou",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-07-08 20:54:14",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "Double",
+            "evo": "102.4",
+            "la": "9",
+            "dist": "148"
+        },
+        {
             "player": "steven kwan",
             "game": "cle @ hou",
             "hr/park": "",
@@ -5775,7 +5835,7 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "84.3",
             "la": "48",
             "dist": "256"
