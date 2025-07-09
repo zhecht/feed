@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "48",
         "batters": "186",
-        "pitches": "2020",
+        "pitches": "2028",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "41.2",
-        "ff%fourseam fastball %": "30.3",
+        "ff%fourseam fastball %": "30.4",
         "si%sinker %": "13.1",
-        "fc%cutter %": "8.2",
+        "fc%cutter %": "8.1",
         "fs%splitter %": "6.1",
         "ch%changeup %": "8.5",
         "sl%slider %": "20.9",
         "cu%curve %": "12.7",
         "max evmax exit velocity": "115.6",
         "hhhard hit": "160",
-        "hh%hard hit %": "41.5",
+        "hh%hard hit %": "41.3",
         "brlbarrels": "37",
         "brl%barrel %": "9.6",
-        "ab": "497",
+        "ab": "498",
         "avg": ".225",
         "h": "112",
         "1b": "73",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "17",
         "so": "118",
-        "bipballs in play": "386",
+        "bipballs in play": "387",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-08 21:26:36.102553"
+        "updated": "2025-07-08 21:26:46.032814"
     },
     "nym @ bal": [
         {
@@ -2687,10 +2687,10 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "89.9",
+            "la": "5",
+            "dist": "102"
         },
         {
             "player": "marcelo mayer",
@@ -4647,6 +4647,21 @@
     ],
     "pit @ kc": [
         {
+            "player": "tommy pham",
+            "game": "pit @ kc",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-07-08 21:26:44",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "spencer horwitz",
             "game": "pit @ kc",
             "hr/park": "",
@@ -4656,7 +4671,7 @@
             "team": "pit",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5474,6 +5489,21 @@
     ],
     "chc @ min": [
         {
+            "player": "christian vazquez",
+            "game": "chc @ min",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-07-08 21:26:44",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brooks lee",
             "game": "chc @ min",
             "hr/park": "",
@@ -6280,7 +6310,7 @@
             "team": "tor",
             "start": "7:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "",
             "la": "",
             "dist": ""
