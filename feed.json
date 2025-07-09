@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "73",
+        "pitchers": "74",
         "batters": "217",
-        "pitches": "2532",
+        "pitches": "2535",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "31.1",
-        "ff%fourseam fastball %": "30.0",
-        "si%sinker %": "13.9",
+        "ff%fourseam fastball %": "30.1",
+        "si%sinker %": "13.8",
         "fc%cutter %": "7.1",
-        "fs%splitter %": "5.3",
+        "fs%splitter %": "5.2",
         "ch%changeup %": "9.2",
         "sl%slider %": "21.3",
         "cu%curve %": "11.7",
         "max evmax exit velocity": "115.6",
-        "hhhard hit": "208",
-        "hh%hard hit %": "42.9",
+        "hhhard hit": "209",
+        "hh%hard hit %": "43.1",
         "brlbarrels": "52",
         "brl%barrel %": "10.7",
-        "ab": "616",
-        "avg": ".244",
+        "ab": "618",
+        "avg": ".243",
         "h": "150",
         "1b": "94",
         "2b": "28",
         "3b": "1",
         "hr": "27",
-        "so": "137",
+        "so": "138",
         "bipballs in play": "485",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-07-08 21:57:27.427929"
+        "updated": "2025-07-08 21:57:38.072265"
     },
     "nym @ bal": [
         {
@@ -41,7 +41,7 @@
             "team": "nym",
             "start": "6:35 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2120,6 +2120,21 @@
         }
     ],
     "sea @ nyy": [
+        {
+            "player": "jp crawford",
+            "game": "sea @ nyy",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-07-08 21:57:30",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "anthony volpe",
             "game": "sea @ nyy",
@@ -6359,21 +6374,6 @@
     ],
     "chc @ min": [
         {
-            "player": "vidal brujan",
-            "game": "chc @ min",
-            "hr/park": "",
-            "pa": "70",
-            "dt": "2025-07-08 21:57:14",
-            "img": "https://www.mlbstatic.com/team-logos/112.svg",
-            "team": "chc",
-            "start": "7:40 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "byron buxton",
             "game": "chc @ min",
             "hr/park": "0/30",
@@ -9201,6 +9201,21 @@
     "wsh @ stl": [],
     "cle @ hou": [
         {
+            "player": "mauricio dubon",
+            "game": "cle @ hou",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-07-08 21:57:30",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jhonkensy noel",
             "game": "cle @ hou",
             "hr/park": "",
@@ -10212,11 +10227,11 @@
     ],
     "phi @ sf": [
         {
-            "player": "willy adames",
+            "player": "matt chapman",
             "game": "phi @ sf",
             "hr/park": "",
-            "pa": "6",
-            "dt": "2025-07-08 21:54:14",
+            "pa": "7",
+            "dt": "2025-07-08 21:57:30",
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
             "team": "sf",
             "start": "9:45 PM",
@@ -10225,6 +10240,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "willy adames",
+            "game": "phi @ sf",
+            "hr/park": "0/30",
+            "pa": "6",
+            "dt": "2025-07-08 21:54:14",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "9:45 PM",
+            "in": "1",
+            "result": "Flyout",
+            "evo": "95.7",
+            "la": "40",
+            "dist": "358"
         },
         {
             "player": "rafael devers",
