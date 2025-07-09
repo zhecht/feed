@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "77",
-        "batters": "235",
-        "pitches": "2682",
+        "pitchers": "79",
+        "batters": "236",
+        "pitches": "2686",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "31.1",
-        "ff%fourseam fastball %": "30.7",
-        "si%sinker %": "13.7",
+        "ff%fourseam fastball %": "30.8",
+        "si%sinker %": "13.6",
         "fc%cutter %": "7.1",
         "fs%splitter %": "5.3",
         "ch%changeup %": "8.7",
-        "sl%slider %": "21.1",
+        "sl%slider %": "21.0",
         "cu%curve %": "11.9",
         "max evmax exit velocity": "115.6",
         "hhhard hit": "219",
-        "hh%hard hit %": "43.4",
+        "hh%hard hit %": "43.3",
         "brlbarrels": "55",
         "brl%barrel %": "10.9",
-        "ab": "648",
-        "avg": ".241",
+        "ab": "650",
+        "avg": ".240",
         "h": "156",
         "1b": "96",
         "2b": "30",
         "3b": "1",
         "hr": "29",
-        "so": "149",
-        "bipballs in play": "505",
+        "so": "150",
+        "bipballs in play": "506",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-08 22:07:24.444854"
+        "updated": "2025-07-08 22:07:35.267605"
     },
     "nym @ bal": [
+        {
+            "player": "cedric mullins",
+            "game": "nym @ bal",
+            "hr/park": "",
+            "pa": "74",
+            "dt": "2025-07-08 22:07:29",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "6:35 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "francisco lindor",
             "game": "nym @ bal",
@@ -9434,10 +9449,10 @@
             "team": "wsh",
             "start": "7:45 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "71.6",
+            "la": "-65",
+            "dist": "2"
         }
     ],
     "cle @ hou": [
@@ -9451,7 +9466,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10239,21 +10254,6 @@
     ],
     "tex @ laa": [
         {
-            "player": "kyle higashioka",
-            "game": "tex @ laa",
-            "hr/park": "",
-            "pa": "17",
-            "dt": "2025-07-08 22:06:29",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "9:38 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jake burger",
             "game": "tex @ laa",
             "hr/park": "",
@@ -10693,6 +10693,21 @@
     ],
     "phi @ sf": [
         {
+            "player": "edmundo sosa",
+            "game": "phi @ sf",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-07-08 22:07:29",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "9:45 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "otto kemp",
             "game": "phi @ sf",
             "hr/park": "",
@@ -10702,7 +10717,7 @@
             "team": "phi",
             "start": "9:45 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10843,5 +10858,21 @@
             "dist": "355"
         }
     ],
-    "atl @ ath": []
+    "atl @ ath": [
+        {
+            "player": "jurickson profar",
+            "game": "atl @ ath",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-07-08 22:07:29",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "10:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ]
 }
