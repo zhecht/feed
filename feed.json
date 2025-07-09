@@ -1,36 +1,51 @@
 {
     "all": {
-        "pitchers": "55",
-        "batters": "190",
-        "pitches": "2221",
+        "pitchers": "57",
+        "batters": "191",
+        "pitches": "2226",
         "max velomax pitch velocity": "101.6",
-        "min velomin pitch velocity": "31.8",
+        "min velomin pitch velocity": "31.1",
         "ff%fourseam fastball %": "29.8",
-        "si%sinker %": "13.6",
+        "si%sinker %": "13.7",
         "fc%cutter %": "7.7",
         "fs%splitter %": "5.7",
         "ch%changeup %": "9.2",
-        "sl%slider %": "21.2",
-        "cu%curve %": "12.6",
+        "sl%slider %": "21.1",
+        "cu%curve %": "12.7",
         "max evmax exit velocity": "115.6",
         "hhhard hit": "177",
-        "hh%hard hit %": "41.8",
+        "hh%hard hit %": "41.7",
         "brlbarrels": "44",
         "brl%barrel %": "10.4",
-        "ab": "541",
-        "avg": ".231",
+        "ab": "544",
+        "avg": ".230",
         "h": "125",
         "1b": "80",
         "2b": "22",
         "3b": "1",
         "hr": "22",
         "so": "127",
-        "bipballs in play": "423",
+        "bipballs in play": "424",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-08 21:39:19.521967"
+        "updated": "2025-07-08 21:39:29.586655"
     },
     "nym @ bal": [
+        {
+            "player": "jeff mcneil",
+            "game": "nym @ bal",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-07-08 21:39:29",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "6:35 PM",
+            "in": "8",
+            "result": "Groundout",
+            "evo": "70.2",
+            "la": "-21",
+            "dist": "4"
+        },
         {
             "player": "mark vientos",
             "game": "nym @ bal",
@@ -41,7 +56,7 @@
             "team": "nym",
             "start": "6:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "97.9",
             "la": "36",
             "dist": "339"
@@ -5866,7 +5881,7 @@
         {
             "player": "michael busch",
             "game": "chc @ min",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "59",
             "dt": "2025-07-08 21:38:01",
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
@@ -8406,6 +8421,21 @@
     "wsh @ stl": [],
     "cle @ hou": [
         {
+            "player": "jose altuve",
+            "game": "cle @ hou",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-07-08 21:39:29",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cam smith",
             "game": "cle @ hou",
             "hr/park": "",
@@ -9036,7 +9066,23 @@
             "dist": "268"
         }
     ],
-    "tex @ laa": [],
+    "tex @ laa": [
+        {
+            "player": "josh smith",
+            "game": "tex @ laa",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-07-08 21:39:29",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "ari @ sd": [],
     "phi @ sf": [],
     "atl @ ath": []
