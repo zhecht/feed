@@ -1,22 +1,22 @@
 {
     "all": {
-        "pitchers": "23",
+        "pitchers": "24",
         "batters": "177",
-        "pitches": "1336",
+        "pitches": "1337",
         "max velomax pitch velocity": "101.6",
         "min velomin pitch velocity": "68.8",
-        "ff%fourseam fastball %": "33.5",
+        "ff%fourseam fastball %": "33.4",
         "si%sinker %": "10.5",
         "fc%cutter %": "8.1",
-        "fs%splitter %": "5.1",
-        "ch%changeup %": "9.4",
+        "fs%splitter %": "5.3",
+        "ch%changeup %": "9.3",
         "sl%slider %": "19.7",
         "cu%curve %": "13.6",
         "max evmax exit velocity": "115.6",
-        "hhhard hit": "103",
-        "hh%hard hit %": "41.2",
-        "brlbarrels": "22",
-        "brl%barrel %": "8.8",
+        "hhhard hit": "104",
+        "hh%hard hit %": "41.6",
+        "brlbarrels": "23",
+        "brl%barrel %": "9.2",
         "ab": "333",
         "avg": ".210",
         "h": "70",
@@ -24,13 +24,28 @@
         "2b": "16",
         "3b": "0",
         "hr": "10",
-        "so": "87",
+        "so": "86",
         "bipballs in play": "250",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-08 20:43:49.486366"
+        "updated": "2025-07-08 20:43:58.870203"
     },
     "nym @ bal": [
+        {
+            "player": "juan soto",
+            "game": "nym @ bal",
+            "hr/park": "0/30",
+            "pa": "39",
+            "dt": "2025-07-08 20:43:58",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "6:35 PM",
+            "in": "6",
+            "result": "Lineout",
+            "evo": "110.4",
+            "la": "17",
+            "dist": "360"
+        },
         {
             "player": "francisco lindor",
             "game": "nym @ bal",
@@ -2644,7 +2659,7 @@
             "team": "mia",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3266,21 +3281,6 @@
         }
     ],
     "pit @ kc": [
-        {
-            "player": "john rave",
-            "game": "pit @ kc",
-            "hr/park": "",
-            "pa": "35",
-            "dt": "2025-07-08 20:43:28",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "start": "7:40 PM",
-            "in": "5",
-            "result": "Flyout",
-            "evo": "93.4",
-            "la": "32",
-            "dist": "333"
-        },
         {
             "player": "nick loftin",
             "game": "pit @ kc",
@@ -4321,6 +4321,21 @@
     ],
     "tor @ chw": [
         {
+            "player": "davis schneider",
+            "game": "tor @ chw",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-07-08 20:43:58",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "lenyn sosa",
             "game": "tor @ chw",
             "hr/park": "",
@@ -5220,7 +5235,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "2",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
