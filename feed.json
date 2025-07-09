@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "18",
         "batters": "136",
-        "pitches": "700",
+        "pitches": "703",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "68.8",
         "ff%fourseam fastball %": "34.1",
         "si%sinker %": "10.0",
-        "fc%cutter %": "7.9",
-        "fs%splitter %": "4.1",
-        "ch%changeup %": "9.6",
-        "sl%slider %": "20.0",
-        "cu%curve %": "14.1",
+        "fc%cutter %": "7.8",
+        "fs%splitter %": "4.0",
+        "ch%changeup %": "9.5",
+        "sl%slider %": "20.2",
+        "cu%curve %": "14.2",
         "max evmax exit velocity": "115.1",
         "hhhard hit": "55",
-        "hh%hard hit %": "44.7",
+        "hh%hard hit %": "45.1",
         "brlbarrels": "9",
-        "brl%barrel %": "7.3",
+        "brl%barrel %": "7.4",
         "ab": "174",
         "avg": ".195",
         "h": "34",
@@ -24,28 +24,13 @@
         "2b": "8",
         "3b": "0",
         "hr": "4",
-        "so": "51",
-        "bipballs in play": "123",
+        "so": "52",
+        "bipballs in play": "122",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-07-08 20:04:33.847014"
+        "updated": "2025-07-08 20:04:44.743420"
     },
     "nym @ bal": [
-        {
-            "player": "francisco lindor",
-            "game": "nym @ bal",
-            "hr/park": "",
-            "pa": "22",
-            "dt": "2025-07-08 20:04:14",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "6:35 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "jordan westburg",
             "game": "nym @ bal",
@@ -1035,7 +1020,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1403,6 +1388,21 @@
     ],
     "col @ bos": [
         {
+            "player": "rob refsnyder",
+            "game": "col @ bos",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-07-08 20:04:43",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "roman anthony",
             "game": "col @ bos",
             "hr/park": "",
@@ -1412,7 +1412,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1779,6 +1779,21 @@
         }
     ],
     "mia @ cin": [
+        {
+            "player": "noelvi marte",
+            "game": "mia @ cin",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-07-08 20:04:43",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jose trevino",
             "game": "mia @ cin",
@@ -2521,21 +2536,6 @@
     ],
     "tor @ chw": [
         {
-            "player": "joey loperfido",
-            "game": "tor @ chw",
-            "hr/park": "",
-            "pa": "11",
-            "dt": "2025-07-08 20:04:14",
-            "img": "https://www.mlbstatic.com/team-logos/141.svg",
-            "team": "tor",
-            "start": "7:40 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "86.5",
-            "la": "63",
-            "dist": "167"
-        },
-        {
             "player": "alejandro kirk",
             "game": "tor @ chw",
             "hr/park": "",
@@ -2545,7 +2545,7 @@
             "team": "tor",
             "start": "7:40 PM",
             "in": "2",
-            "result": "Lineout",
+            "result": "In Progress",
             "evo": "81.1",
             "la": "9",
             "dist": "137"
