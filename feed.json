@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "57",
         "batters": "216",
-        "pitches": "2289",
+        "pitches": "2292",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "53.3",
         "ff%fourseam fastball %": "32.5",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "41.2",
         "brlbarrels": "32",
         "brl%barrel %": "7.3",
-        "ab": "556",
-        "avg": ".270",
+        "ab": "557",
+        "avg": ".269",
         "h": "150",
         "1b": "97",
         "2b": "35",
@@ -28,7 +28,7 @@
         "bipballs in play": "439",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-09 20:58:55.511535"
+        "updated": "2025-07-09 20:59:05.568416"
     },
     "tor @ chw": [
         {
@@ -5497,7 +5497,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7076,7 +7076,7 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Pickoff Caught Stealing 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8196,6 +8196,21 @@
     ],
     "wsh @ stl": [
         {
+            "player": "nathaniel lowe",
+            "game": "wsh @ stl",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-07-09 20:59:00",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "7:45 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh bell",
             "game": "wsh @ stl",
             "hr/park": "",
@@ -8205,7 +8220,7 @@
             "team": "wsh",
             "start": "7:45 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "65.3",
             "la": "-9",
             "dist": "9"
