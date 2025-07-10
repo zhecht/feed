@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "51",
         "batters": "207",
-        "pitches": "1965",
+        "pitches": "1967",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "53.3",
         "ff%fourseam fastball %": "32.5",
         "si%sinker %": "16.0",
         "fc%cutter %": "3.6",
         "fs%splitter %": "2.0",
-        "ch%changeup %": "12.1",
-        "sl%slider %": "24.0",
+        "ch%changeup %": "12.0",
+        "sl%slider %": "23.9",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "159",
-        "hh%hard hit %": "42.9",
+        "hh%hard hit %": "42.7",
         "brlbarrels": "28",
         "brl%barrel %": "7.5",
         "ab": "471",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "15",
         "so": "107",
-        "bipballs in play": "371",
+        "bipballs in play": "372",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-09 20:32:37.869018"
+        "updated": "2025-07-09 20:32:47.889807"
     },
     "tor @ chw": [
         {
@@ -5934,10 +5934,10 @@
             "team": "mia",
             "start": "7:10 PM",
             "in": "5",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "92.2",
+            "la": "-8",
+            "dist": "16"
         },
         {
             "player": "nick fortes",
@@ -6551,7 +6551,7 @@
             "team": "pit",
             "start": "7:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6928,7 +6928,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "3",
-            "result": "Pickoff 1B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7652,7 +7652,7 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "2",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "112.0",
             "la": "-6",
             "dist": "21"
