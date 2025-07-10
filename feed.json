@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "50",
-        "batters": "199",
-        "pitches": "1794",
+        "batters": "201",
+        "pitches": "1802",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "53.3",
-        "ff%fourseam fastball %": "32.3",
-        "si%sinker %": "16.5",
+        "ff%fourseam fastball %": "32.1",
+        "si%sinker %": "16.4",
         "fc%cutter %": "3.2",
         "fs%splitter %": "2.2",
         "ch%changeup %": "11.9",
-        "sl%slider %": "24.2",
+        "sl%slider %": "24.4",
         "cu%curve %": "9.8",
         "max evmax exit velocity": "114.5",
-        "hhhard hit": "145",
-        "hh%hard hit %": "42.2",
+        "hhhard hit": "146",
+        "hh%hard hit %": "42.1",
         "brlbarrels": "24",
-        "brl%barrel %": "7.0",
-        "ab": "434",
+        "brl%barrel %": "6.9",
+        "ab": "437",
         "avg": ".263",
-        "h": "114",
-        "1b": "75",
+        "h": "115",
+        "1b": "76",
         "2b": "27",
         "3b": "0",
         "hr": "12",
         "so": "97",
-        "bipballs in play": "344",
+        "bipballs in play": "347",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-09 20:20:08.539707"
+        "updated": "2025-07-09 20:20:18.003401"
     },
     "tor @ chw": [
         {
@@ -5777,7 +5777,7 @@
         {
             "player": "noelvi marte",
             "game": "mia @ cin",
-            "hr/park": "",
+            "hr/park": "30/30",
             "pa": "34",
             "dt": "2025-07-09 20:19:29",
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
@@ -6589,6 +6589,36 @@
     ],
     "chc @ min": [
         {
+            "player": "ian happ",
+            "game": "chc @ min",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-07-09 20:20:14",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jon berti",
+            "game": "chc @ min",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-07-09 20:20:14",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "Single",
+            "evo": "102.8",
+            "la": "11",
+            "dist": "206"
+        },
+        {
             "player": "reese mcguire",
             "game": "chc @ min",
             "hr/park": "",
@@ -6870,10 +6900,10 @@
             "team": "wsh",
             "start": "7:45 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "68.9",
+            "la": "-11",
+            "dist": "10"
         },
         {
             "player": "pedro pages",
@@ -7133,6 +7163,21 @@
     ],
     "cle @ hou": [
         {
+            "player": "david fry",
+            "game": "cle @ hou",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-07-09 20:20:14",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "carlos santana",
             "game": "cle @ hou",
             "hr/park": "",
@@ -7142,10 +7187,10 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "79.3",
+            "la": "-38",
+            "dist": "4"
         },
         {
             "player": "jose ramirez",
