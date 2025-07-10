@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "32",
         "batters": "95",
-        "pitches": "1232",
+        "pitches": "1235",
         "max velomax pitch velocity": "101.5",
         "min velomin pitch velocity": "76.3",
-        "ff%fourseam fastball %": "26.1",
-        "si%sinker %": "16.7",
+        "ff%fourseam fastball %": "26.2",
+        "si%sinker %": "16.8",
         "fc%cutter %": "9.5",
         "fs%splitter %": "6.4",
         "ch%changeup %": "9.1",
         "sl%slider %": "19.6",
-        "cu%curve %": "12.5",
+        "cu%curve %": "12.6",
         "max evmax exit velocity": "110.0",
         "hhhard hit": "87",
-        "hh%hard hit %": "39.7",
+        "hh%hard hit %": "39.5",
         "brlbarrels": "17",
-        "brl%barrel %": "7.8",
+        "brl%barrel %": "7.7",
         "ab": "279",
         "avg": ".211",
         "h": "59",
@@ -24,11 +24,11 @@
         "2b": "12",
         "3b": "0",
         "hr": "6",
-        "so": "60",
-        "bipballs in play": "219",
+        "so": "62",
+        "bipballs in play": "220",
         "liveGames": 7,
         "totGames": 11,
-        "updated": "2025-07-10 19:42:50.315788"
+        "updated": "2025-07-10 19:42:58.896409"
     },
     "nym @ bal": [
         {
@@ -1048,7 +1048,7 @@
             "team": "nym",
             "start": "5:05 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3302,7 +3302,7 @@
             "team": "mia",
             "start": "5:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4294,7 +4294,7 @@
             "team": "sea",
             "start": "7:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "97.1",
             "la": "-9",
             "dist": "13"
@@ -4506,10 +4506,10 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "2",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "84.3",
+            "la": "53",
+            "dist": "195"
         },
         {
             "player": "wilyer abreu",
