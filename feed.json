@@ -1,23 +1,23 @@
 {
     "all": {
         "pitchers": "49",
-        "batters": "191",
-        "pitches": "1722",
+        "batters": "192",
+        "pitches": "1725",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "53.3",
         "ff%fourseam fastball %": "31.9",
         "si%sinker %": "16.7",
         "fc%cutter %": "3.2",
         "fs%splitter %": "2.3",
-        "ch%changeup %": "11.6",
+        "ch%changeup %": "11.5",
         "sl%slider %": "24.5",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "139",
-        "hh%hard hit %": "41.9",
+        "hh%hard hit %": "41.6",
         "brlbarrels": "22",
         "brl%barrel %": "6.6",
-        "ab": "415",
+        "ab": "416",
         "avg": ".267",
         "h": "111",
         "1b": "74",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "10",
         "so": "93",
-        "bipballs in play": "332",
+        "bipballs in play": "334",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-09 20:15:08.126381"
+        "updated": "2025-07-09 20:15:17.575760"
     },
     "tor @ chw": [
         {
@@ -6169,17 +6169,17 @@
         {
             "player": "isiah kiner falefa",
             "game": "pit @ kc",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "17",
             "dt": "2025-07-09 20:13:30",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
             "team": "pit",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "87.1",
+            "la": "25",
+            "dist": "315"
         },
         {
             "player": "jared triolo",
@@ -6433,7 +6433,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "65.5",
             "la": "-13",
             "dist": "11"
@@ -6666,6 +6666,21 @@
     ],
     "wsh @ stl": [
         {
+            "player": "lars nootbaar",
+            "game": "wsh @ stl",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-07-09 20:15:14",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "64.4",
+            "la": "-12",
+            "dist": "13"
+        },
+        {
             "player": "yohel pozo",
             "game": "wsh @ stl",
             "hr/park": "",
@@ -6675,7 +6690,7 @@
             "team": "stl",
             "start": "7:45 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "23.1",
             "la": "85",
             "dist": "8"
