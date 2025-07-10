@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "90",
         "batters": "266",
-        "pitches": "3172",
+        "pitches": "3178",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "53.3",
-        "ff%fourseam fastball %": "32.4",
+        "ff%fourseam fastball %": "32.3",
         "si%sinker %": "15.8",
         "fc%cutter %": "5.2",
         "fs%splitter %": "2.1",
         "ch%changeup %": "11.8",
-        "sl%slider %": "22.5",
+        "sl%slider %": "22.6",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "115.9",
         "hhhard hit": "241",
-        "hh%hard hit %": "39.3",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "47",
-        "brl%barrel %": "7.7",
-        "ab": "779",
+        "brl%barrel %": "7.6",
+        "ab": "780",
         "avg": ".258",
         "h": "201",
         "1b": "121",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "30",
         "so": "172",
-        "bipballs in play": "614",
+        "bipballs in play": "615",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-09 22:14:23.335913"
+        "updated": "2025-07-09 22:14:35.035645"
     },
     "tor @ chw": [
         {
@@ -8006,7 +8006,7 @@
             "team": "pit",
             "start": "7:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10085,6 +10085,21 @@
         }
     ],
     "wsh @ stl": [
+        {
+            "player": "victor scott",
+            "game": "wsh @ stl",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-07-09 22:13:45",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "7:45 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "pedro pages",
             "game": "wsh @ stl",
@@ -12351,10 +12366,10 @@
             "team": "sd",
             "start": "9:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "82.6",
+            "la": "57",
+            "dist": "192"
         },
         {
             "player": "bryce johnson",
