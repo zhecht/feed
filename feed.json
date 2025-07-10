@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "51",
         "batters": "207",
-        "pitches": "1963",
+        "pitches": "1965",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "53.3",
         "ff%fourseam fastball %": "32.5",
@@ -10,25 +10,25 @@
         "fc%cutter %": "3.6",
         "fs%splitter %": "2.0",
         "ch%changeup %": "12.1",
-        "sl%slider %": "23.9",
+        "sl%slider %": "24.0",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "159",
-        "hh%hard hit %": "42.7",
+        "hh%hard hit %": "42.9",
         "brlbarrels": "28",
         "brl%barrel %": "7.5",
-        "ab": "470",
-        "avg": ".264",
+        "ab": "471",
+        "avg": ".263",
         "h": "124",
         "1b": "81",
         "2b": "28",
         "3b": "0",
         "hr": "15",
         "so": "107",
-        "bipballs in play": "372",
+        "bipballs in play": "371",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-09 20:32:28.003985"
+        "updated": "2025-07-09 20:32:37.869018"
     },
     "tor @ chw": [
         {
@@ -5934,10 +5934,10 @@
             "team": "mia",
             "start": "7:10 PM",
             "in": "5",
-            "result": "Groundout",
-            "evo": "92.2",
-            "la": "-8",
-            "dist": "16"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "nick fortes",
@@ -6542,6 +6542,21 @@
     ],
     "pit @ kc": [
         {
+            "player": "nick gonzales",
+            "game": "pit @ kc",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-07-09 20:32:31",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "7:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "vinnie pasquantino",
             "game": "pit @ kc",
             "hr/park": "",
@@ -6913,7 +6928,7 @@
             "team": "min",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Pickoff 1B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7637,7 +7652,7 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "112.0",
             "la": "-6",
             "dist": "21"
