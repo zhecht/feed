@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "57",
         "batters": "216",
-        "pitches": "2321",
+        "pitches": "2324",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "53.3",
         "ff%fourseam fastball %": "32.5",
         "si%sinker %": "15.6",
-        "fc%cutter %": "4.4",
+        "fc%cutter %": "4.3",
         "fs%splitter %": "1.9",
         "ch%changeup %": "12.3",
         "sl%slider %": "23.5",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "184",
-        "hh%hard hit %": "41.1",
+        "hh%hard hit %": "41.0",
         "brlbarrels": "33",
-        "brl%barrel %": "7.4",
-        "ab": "565",
+        "brl%barrel %": "7.3",
+        "ab": "566",
         "avg": ".267",
         "h": "151",
         "1b": "97",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "18",
         "so": "122",
-        "bipballs in play": "448",
+        "bipballs in play": "449",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-09 21:01:09.552187"
+        "updated": "2025-07-09 21:01:20.091713"
     },
     "tor @ chw": [
         {
@@ -4700,7 +4700,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5513,9 +5513,9 @@
             "start": "7:10 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "86.4",
+            "la": "13",
+            "dist": "177"
         },
         {
             "player": "roman anthony",
@@ -6314,6 +6314,21 @@
         }
     ],
     "mia @ cin": [
+        {
+            "player": "connor norby",
+            "game": "mia @ cin",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-07-09 21:01:14",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "dane myers",
             "game": "mia @ cin",
@@ -7136,7 +7151,7 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "97.9",
             "la": "35",
             "dist": "367"
