@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "86",
-        "batters": "252",
-        "pitches": "3067",
+        "batters": "253",
+        "pitches": "3074",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "53.3",
-        "ff%fourseam fastball %": "32.6",
+        "ff%fourseam fastball %": "32.7",
         "si%sinker %": "15.4",
         "fc%cutter %": "5.0",
         "fs%splitter %": "2.1",
         "ch%changeup %": "11.9",
-        "sl%slider %": "22.6",
-        "cu%curve %": "10.4",
+        "sl%slider %": "22.5",
+        "cu%curve %": "10.3",
         "max evmax exit velocity": "115.9",
         "hhhard hit": "230",
-        "hh%hard hit %": "38.9",
+        "hh%hard hit %": "38.7",
         "brlbarrels": "44",
         "brl%barrel %": "7.4",
-        "ab": "751",
-        "avg": ".256",
+        "ab": "753",
+        "avg": ".255",
         "h": "192",
         "1b": "118",
         "2b": "48",
         "3b": "0",
         "hr": "26",
-        "so": "167",
-        "bipballs in play": "592",
+        "so": "168",
+        "bipballs in play": "594",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-09 22:05:04.633450"
+        "updated": "2025-07-09 22:05:15.773420"
     },
     "tor @ chw": [
         {
@@ -8006,7 +8006,7 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10020,10 +10020,10 @@
             "team": "wsh",
             "start": "7:45 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "82.0",
+            "la": "-15",
+            "dist": "10"
         },
         {
             "player": "yohel pozo",
@@ -11033,6 +11033,21 @@
     ],
     "cle @ hou": [
         {
+            "player": "jose ramirez",
+            "game": "cle @ hou",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-07-09 22:05:15",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "8:10 PM",
+            "in": "8",
+            "result": "Groundout",
+            "evo": "91.0",
+            "la": "-3",
+            "dist": "32"
+        },
+        {
             "player": "angel martinez",
             "game": "cle @ hou",
             "hr/park": "",
@@ -11042,7 +11057,7 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "92.5",
             "la": "-23",
             "dist": "7"
@@ -11844,6 +11859,21 @@
         }
     ],
     "tex @ laa": [
+        {
+            "player": "jorge soler",
+            "game": "tex @ laa",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-07-09 22:05:15",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "yoan moncada",
             "game": "tex @ laa",
