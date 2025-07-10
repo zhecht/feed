@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "51",
         "batters": "206",
-        "pitches": "1914",
+        "pitches": "1917",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "53.3",
-        "ff%fourseam fastball %": "32.5",
+        "ff%fourseam fastball %": "32.6",
         "si%sinker %": "16.0",
         "fc%cutter %": "3.4",
         "fs%splitter %": "2.0",
         "ch%changeup %": "12.2",
         "sl%slider %": "23.9",
-        "cu%curve %": "9.9",
+        "cu%curve %": "10.0",
         "max evmax exit velocity": "114.5",
-        "hhhard hit": "154",
-        "hh%hard hit %": "42.4",
+        "hhhard hit": "155",
+        "hh%hard hit %": "42.5",
         "brlbarrels": "26",
-        "brl%barrel %": "7.2",
+        "brl%barrel %": "7.1",
         "ab": "460",
         "avg": ".265",
         "h": "122",
@@ -24,11 +24,11 @@
         "2b": "28",
         "3b": "0",
         "hr": "13",
-        "so": "104",
-        "bipballs in play": "363",
+        "so": "105",
+        "bipballs in play": "365",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-09 20:28:21.173337"
+        "updated": "2025-07-09 20:28:31.238264"
     },
     "tor @ chw": [
         {
@@ -4691,6 +4691,21 @@
     "nym @ bal": [],
     "sea @ nyy": [
         {
+            "player": "jazz chisholm",
+            "game": "sea @ nyy",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-07-09 20:28:29",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "giancarlo stanton",
             "game": "sea @ nyy",
             "hr/park": "",
@@ -5874,7 +5889,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6439,17 +6454,17 @@
         {
             "player": "bobby witt",
             "game": "pit @ kc",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "23",
             "dt": "2025-07-09 20:27:16",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "start": "7:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "95.1",
+            "la": "40",
+            "dist": "337"
         },
         {
             "player": "jonathan india",
@@ -7116,21 +7131,6 @@
     ],
     "wsh @ stl": [
         {
-            "player": "willson contreras",
-            "game": "wsh @ stl",
-            "hr/park": "",
-            "pa": "24",
-            "dt": "2025-07-09 20:28:14",
-            "img": "https://www.mlbstatic.com/team-logos/138.svg",
-            "team": "stl",
-            "start": "7:45 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "masyn winn",
             "game": "wsh @ stl",
             "hr/park": "",
@@ -7487,10 +7487,10 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "1",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "81.4",
+            "la": "-3",
+            "dist": "19"
         },
         {
             "player": "zack short",
