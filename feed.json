@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "51",
-        "batters": "203",
-        "pitches": "1849",
+        "batters": "204",
+        "pitches": "1858",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "53.3",
-        "ff%fourseam fastball %": "32.2",
-        "si%sinker %": "16.3",
-        "fc%cutter %": "3.4",
+        "ff%fourseam fastball %": "32.4",
+        "si%sinker %": "16.2",
+        "fc%cutter %": "3.3",
         "fs%splitter %": "2.1",
         "ch%changeup %": "12.1",
-        "sl%slider %": "24.2",
+        "sl%slider %": "24.1",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "151",
-        "hh%hard hit %": "42.7",
+        "hh%hard hit %": "42.4",
         "brlbarrels": "26",
         "brl%barrel %": "7.3",
-        "ab": "445",
+        "ab": "448",
         "avg": ".263",
-        "h": "117",
-        "1b": "77",
+        "h": "118",
+        "1b": "78",
         "2b": "27",
         "3b": "0",
         "hr": "13",
-        "so": "99",
-        "bipballs in play": "354",
+        "so": "100",
+        "bipballs in play": "356",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-09 20:24:28.574870"
+        "updated": "2025-07-09 20:24:38.294869"
     },
     "tor @ chw": [
         {
@@ -5278,6 +5278,21 @@
     ],
     "col @ bos": [
         {
+            "player": "jarren duran",
+            "game": "col @ bos",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-07-09 20:24:31",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "yanquiel fernandez",
             "game": "col @ bos",
             "hr/park": "2/30",
@@ -5814,10 +5829,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "87.3",
+            "la": "-7",
+            "dist": "14"
         },
         {
             "player": "tj friedl",
@@ -6664,6 +6679,21 @@
     ],
     "chc @ min": [
         {
+            "player": "willi castro",
+            "game": "chc @ min",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-07-09 20:24:31",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "7:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ian happ",
             "game": "chc @ min",
             "hr/park": "",
@@ -7268,6 +7298,21 @@
     ],
     "cle @ hou": [
         {
+            "player": "zack short",
+            "game": "cle @ hou",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-07-09 20:24:31",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "isaac paredes",
             "game": "cle @ hou",
             "hr/park": "",
@@ -7277,10 +7322,10 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "1",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "93.7",
+            "la": "17",
+            "dist": "284"
         },
         {
             "player": "david fry",
