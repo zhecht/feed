@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "68",
-        "batters": "217",
-        "pitches": "2657",
+        "batters": "218",
+        "pitches": "2663",
         "max velomax pitch velocity": "101.9",
         "min velomin pitch velocity": "53.3",
-        "ff%fourseam fastball %": "32.5",
+        "ff%fourseam fastball %": "32.4",
         "si%sinker %": "15.2",
-        "fc%cutter %": "4.9",
+        "fc%cutter %": "4.8",
         "fs%splitter %": "1.9",
-        "ch%changeup %": "12.3",
-        "sl%slider %": "23.4",
+        "ch%changeup %": "12.2",
+        "sl%slider %": "23.5",
         "cu%curve %": "9.8",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "205",
-        "hh%hard hit %": "40.1",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "37",
         "brl%barrel %": "7.2",
-        "ab": "650",
-        "avg": ".266",
-        "h": "173",
+        "ab": "652",
+        "avg": ".267",
+        "h": "174",
         "1b": "109",
-        "2b": "41",
+        "2b": "42",
         "3b": "0",
         "hr": "23",
         "so": "141",
-        "bipballs in play": "511",
+        "bipballs in play": "513",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-09 21:29:36.553070"
+        "updated": "2025-07-09 21:29:52.915775"
     },
     "tor @ chw": [
         {
@@ -5677,7 +5677,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7727,6 +7727,21 @@
     ],
     "pit @ kc": [
         {
+            "player": "kyle isbel",
+            "game": "pit @ kc",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-07-09 21:29:46",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "7:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "freddy fermin",
             "game": "pit @ kc",
             "hr/park": "",
@@ -7736,10 +7751,10 @@
             "team": "kc",
             "start": "7:40 PM",
             "in": "6",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "84.7",
+            "la": "4",
+            "dist": "71"
         },
         {
             "player": "nick loftin",
@@ -9261,6 +9276,21 @@
     ],
     "wsh @ stl": [
         {
+            "player": "james wood",
+            "game": "wsh @ stl",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-07-09 21:29:46",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "7:45 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cj abrams",
             "game": "wsh @ stl",
             "hr/park": "",
@@ -9270,10 +9300,10 @@
             "team": "wsh",
             "start": "7:45 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "94.1",
+            "la": "-3",
+            "dist": "17"
         },
         {
             "player": "yohel pozo",
