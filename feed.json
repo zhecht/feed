@@ -1,23 +1,23 @@
 {
     "all": {
         "pitchers": "54",
-        "batters": "155",
-        "pitches": "2010",
+        "batters": "156",
+        "pitches": "2015",
         "max velomax pitch velocity": "101.5",
         "min velomin pitch velocity": "70.1",
         "ff%fourseam fastball %": "31.1",
         "si%sinker %": "15.8",
         "fc%cutter %": "7.9",
         "fs%splitter %": "4.9",
-        "ch%changeup %": "9.2",
-        "sl%slider %": "20.8",
+        "ch%changeup %": "9.3",
+        "sl%slider %": "20.7",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "111.2",
         "hhhard hit": "141",
-        "hh%hard hit %": "39.0",
+        "hh%hard hit %": "38.7",
         "brlbarrels": "29",
         "brl%barrel %": "8.0",
-        "ab": "462",
+        "ab": "463",
         "avg": ".210",
         "h": "97",
         "1b": "66",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "12",
         "so": "103",
-        "bipballs in play": "362",
+        "bipballs in play": "364",
         "liveGames": 11,
         "totGames": 11,
-        "updated": "2025-07-10 21:50:58.604084"
+        "updated": "2025-07-10 21:51:08.138290"
     },
     "nym @ bal": [
         {
@@ -7240,7 +7240,7 @@
             "team": "ath",
             "start": "9:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "57.8",
             "la": "34",
             "dist": "189"
@@ -7655,19 +7655,34 @@
     ],
     "ari @ sd": [
         {
-            "player": "fernando tatis",
+            "player": "luis arraez",
             "game": "ari @ sd",
             "hr/park": "",
+            "pa": "5",
+            "dt": "2025-07-10 21:51:03",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "92.2",
+            "la": "-12",
+            "dist": "12"
+        },
+        {
+            "player": "fernando tatis",
+            "game": "ari @ sd",
+            "hr/park": "0/30",
             "pa": "4",
             "dt": "2025-07-10 21:49:33",
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
             "team": "sd",
             "start": "9:40 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "91.7",
+            "la": "28",
+            "dist": "341"
         },
         {
             "player": "geraldo perdomo",
